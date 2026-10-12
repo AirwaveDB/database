@@ -14,7 +14,7 @@ const MIRRORS = [
   'https://at1.api.radio-browser.info',
   'https://all.api.radio-browser.info',
 ];
-const USER_AGENT = 'AirwaveDB-database/1.0 (+https://github.com/AirwaveDB/database)';
+const USER_AGENT = 'AirwaveDB-database/1.1 (+https://github.com/AirwaveDB/database)';
 const VERIFIED_URL = 'https://raw.githubusercontent.com/eyalev/verified-radio-streams/main/stations/all.json';
 const PAGE_SIZE = 5000;
 const TIMEOUT_MS = 20_000;
@@ -53,6 +53,7 @@ const CATEGORY_RULES = new Map([
 const LINE_BREAKS = /[\u0000-\u001f\u007f-\u009f\u2028\u2029]/g;
 const BIDI = /[\u202a-\u202e\u2066-\u2069\ufeff]/g;
 const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+const pretty = (value) => JSON.stringify(value, null, 2) + '\n';
 
 function clean(value, max = 500) {
   return Array.from(String(value ?? '').replace(LINE_BREAKS, ' ').replace(BIDI, '').replace(/\s+/g, ' ').trim()).slice(0, max).join('');
@@ -62,9 +63,7 @@ function validUrl(value) {
   try {
     const u = new URL(clean(value, 2000));
     return ['http:', 'https:'].includes(u.protocol) ? u.href : '';
-  } catch {
-    return '';
-  }
+  } catch { return ''; }
 }
 
 function hostOf(url) {
@@ -90,15 +89,6 @@ function stationKey(row) {
 
 function stationId(key) {
   return `awb_${createHash('sha256').update(key).digest('hex').slice(0, 20)}`;
-}
-
-function q(value) {
-  const s = String(value ?? '');
-  return /[",\r\n]/.test(s) ? `"${s.replaceAll('"', '""')}"` : s;
-}
-
-function csv(headers, rows) {
-  return [headers.join(','), ...rows.map((row) => headers.map((h) => q(row[h])).join(','))].join('\n') + '\n';
 }
 
 function parseCsv(text) {
@@ -134,12 +124,8 @@ async function fetchWithTimeout(url) {
 async function radioBrowser(path) {
   const errors = [];
   for (const base of MIRRORS) {
-    try {
-      const res = await fetchWithTimeout(base + path);
-      return await res.json();
-    } catch (error) {
-      errors.push(`${base}: ${error.message}`);
-    }
+    try { return await (await fetchWithTimeout(base + path)).json(); }
+    catch (error) { errors.push(`${base}: ${error.message}`); }
   }
   throw new Error(`Radio Browser request failed: ${path}\n${errors.join('\n')}`);
 }
@@ -160,10 +146,7 @@ async function fetchRadioBrowser() {
 }
 
 function collectVerified(node, out, inherited = {}) {
-  if (Array.isArray(node)) {
-    for (const item of node) collectVerified(item, out, inherited);
-    return;
-  }
+  if (Array.isArray(node)) { for (const item of node) collectVerified(item, out, inherited); return; }
   if (!node || typeof node !== 'object') return;
   const context = {
     countryCode: node.countryCode || node.code || inherited.countryCode || '',
@@ -191,8 +174,12 @@ async function fetchVerified() {
 
 async function previousMappings() {
   try {
-    const text = await readFile(join(DATA, 'source_map.csv'), 'utf8');
-    return new Map(parseCsv(text).map((r) => [`${r.source}:${r.source_id}`, r.station_id]));
+    const rows = JSON.parse(await readFile(join(DATA, 'source_map.json'), 'utf8'));
+    return new Map(rows.map((r) => [`${r.source}:${r.sourceId}`, r.stationId]));
+  } catch {}
+  try {
+    const rows = parseCsv(await readFile(join(DATA, 'source_map.csv'), 'utf8'));
+    return new Map(rows.map((r) => [`${r.source}:${r.source_id}`, r.station_id]));
   } catch {
     return new Map();
   }
@@ -201,7 +188,7 @@ async function previousMappings() {
 async function previousCount() {
   try {
     const index = JSON.parse(await readFile(join(DATA, 'index.json'), 'utf8'));
-    return Number(index.station_count || 0);
+    return Number(index.stationCount ?? index.station_count ?? 0);
   } catch { return 0; }
 }
 
@@ -231,7 +218,7 @@ function verifiedRow(s) {
     homepage: validUrl(s.url), favicon: '',
     languages: Array.isArray(s.langCodes) ? s.langCodes.map((x) => clean(x, 3).toLowerCase()).filter((x) => /^[a-z]{2,3}$/.test(x)) : [],
     tags: Array.isArray(s.genre) ? s.genre.map((x) => clean(x, 60).toLowerCase()).filter(Boolean) : [],
-    votes: Number(s.votes || 0), clicks: Number(s.clicks || 0), changedAt: clean(s.verified, 20),
+    votes: Number(s.votes || 0), clicks: Number(s.clicks || 0), changedAt: clean(s.verified, 40),
   };
 }
 
@@ -250,17 +237,18 @@ function chooseType(tags) {
   if (['community radio', 'community'].some((x) => t.has(keyText(x)))) return 'community';
   if (['college radio', 'university radio', 'campus radio'].some((x) => t.has(keyText(x)))) return 'college';
   if (['internet radio', 'webradio'].some((x) => t.has(keyText(x)))) return 'internet';
-  return '';
+  return null;
 }
 
 function newest(values) {
-  return values.filter(Boolean).sort().at(-1) || '';
+  return values.filter(Boolean).sort().at(-1) || null;
 }
 
 async function main() {
   const [rb, verified, previousMap, oldCount] = await Promise.all([
     fetchRadioBrowser(), fetchVerified(), previousMappings(), previousCount(),
   ]);
+
   const sourceRows = [...rb.map(rbRow), ...verified.map(verifiedRow)].filter(Boolean);
   const groups = new Map();
   for (const source of sourceRows) {
@@ -272,25 +260,36 @@ async function main() {
   }
 
   const redirects = [];
-  const sourceMapRows = [];
+  const sourceMap = [];
   const stations = [];
   for (const [key, rows] of groups) {
     const existingIds = [...new Set(rows.map((r) => previousMap.get(`${r.source}:${r.sourceId}`)).filter(Boolean))].sort();
     const id = existingIds[0] || stationId(key);
-    for (const old of existingIds.slice(1)) redirects.push({ old_id: old, station_id: id });
+    for (const old of existingIds.slice(1)) redirects.push({ oldId: old, stationId: id });
+
     const ranked = [...rows].sort((a, b) => (b.votes + b.clicks) - (a.votes + a.clicks));
     const tags = [...new Set(rows.flatMap((r) => r.tags))].sort();
     const languages = [...new Set(rows.flatMap((r) => r.languages))].sort();
     const best = ranked[0];
+
     stations.push({
-      id, name: best.name, country: best.countryCode,
-      subdivision: ranked.map((r) => r.state).find(Boolean) || '',
-      language_codes: languages.join(';'), categories: categoriesFor(tags).join(';'), tags: tags.join(';'),
-      homepage: ranked.map((r) => r.homepage).find(Boolean) || '',
-      favicon: ranked.map((r) => r.favicon).find(Boolean) || '',
-      type: chooseType(tags), source_count: rows.length, updated_at: newest(rows.map((r) => r.changedAt)),
+      id,
+      name: best.name,
+      country: best.countryCode,
+      subdivision: ranked.map((r) => r.state).find(Boolean) || null,
+      languages,
+      categories: categoriesFor(tags),
+      tags,
+      homepage: ranked.map((r) => r.homepage).find(Boolean) || null,
+      favicon: ranked.map((r) => r.favicon).find(Boolean) || null,
+      type: chooseType(tags),
+      sourceCount: rows.length,
+      updatedAt: newest(rows.map((r) => r.changedAt)),
     });
-    for (const r of rows) sourceMapRows.push({ source: r.source, source_id: r.sourceId, station_id: id, country: r.countryCode });
+
+    for (const r of rows) {
+      sourceMap.push({ source: r.source, sourceId: r.sourceId, stationId: id, country: r.countryCode });
+    }
   }
 
   if (oldCount && stations.length < oldCount * MIN_KEEP_RATIO && !ALLOW_SHRINK) {
@@ -307,41 +306,49 @@ async function main() {
     list.push(station);
     byCountry.set(station.country, list);
   }
-  const stationHeaders = ['id','name','country','subdivision','language_codes','categories','tags','homepage','favicon','type','source_count','updated_at'];
+
   const countries = [];
   for (const [code, rows] of [...byCountry].sort(([a], [b]) => a.localeCompare(b))) {
     rows.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }) || a.id.localeCompare(b.id));
-    await writeFile(join(STATIONS_DIR, `${code}.csv`), csv(stationHeaders, rows));
-    countries.push({ code, station_count: rows.length });
+    await writeFile(join(STATIONS_DIR, `${code}.json`), pretty(rows));
+    countries.push({ code, stationCount: rows.length });
   }
 
-  sourceMapRows.sort((a,b) => a.source.localeCompare(b.source) || a.source_id.localeCompare(b.source_id));
-  await writeFile(join(DATA, 'source_map.csv'), csv(['source','source_id','station_id','country'], sourceMapRows));
-  if (redirects.length) {
-    const unique = [...new Map(redirects.map((r) => [r.old_id, r])).values()].sort((a,b) => a.old_id.localeCompare(b.old_id));
-    await writeFile(join(DATA, 'redirects.csv'), csv(['old_id','station_id'], unique));
-  } else {
-    await writeFile(join(DATA, 'redirects.csv'), 'old_id,station_id\n');
-  }
+  sourceMap.sort((a, b) => a.source.localeCompare(b.source) || a.sourceId.localeCompare(b.sourceId));
+  redirects.sort((a, b) => a.oldId.localeCompare(b.oldId));
 
   const languageCounts = new Map();
   const categoryCounts = new Map();
-  for (const s of stations) {
-    for (const code of s.language_codes.split(';').filter(Boolean)) languageCounts.set(code, (languageCounts.get(code) || 0) + 1);
-    for (const id of s.categories.split(';').filter(Boolean)) categoryCounts.set(id, (categoryCounts.get(id) || 0) + 1);
+  for (const station of stations) {
+    for (const code of station.languages) languageCounts.set(code, (languageCounts.get(code) || 0) + 1);
+    for (const id of station.categories) categoryCounts.set(id, (categoryCounts.get(id) || 0) + 1);
   }
-  await writeFile(join(DATA, 'countries.csv'), csv(['code','station_count'], countries));
-  await writeFile(join(DATA, 'languages.csv'), csv(['code','station_count'], [...languageCounts].sort().map(([code, station_count]) => ({ code, station_count }))));
-  await writeFile(join(DATA, 'categories.csv'), csv(['id','station_count'], [...CATEGORY_RULES.keys()].map((id) => ({ id, station_count: categoryCounts.get(id) || 0 }))));
 
-  const index = {
-    generated_at: new Date().toISOString(),
-    station_count: stations.length,
-    source_record_count: sourceRows.length,
-    sources: { 'radio-browser': rb.length, 'verified-radio-streams': verified.length },
-    countries,
-  };
-  await writeFile(join(DATA, 'index.json'), JSON.stringify(index, null, 2) + '\n');
+  const languages = [...languageCounts].sort(([a], [b]) => a.localeCompare(b)).map(([code, stationCount]) => ({ code, stationCount }));
+  const categories = [...CATEGORY_RULES.keys()].map((id) => ({ id, stationCount: categoryCounts.get(id) || 0 }));
+
+  await Promise.all([
+    writeFile(join(DATA, 'source_map.json'), pretty(sourceMap)),
+    writeFile(join(DATA, 'redirects.json'), pretty(redirects)),
+    writeFile(join(DATA, 'countries.json'), pretty(countries)),
+    writeFile(join(DATA, 'languages.json'), pretty(languages)),
+    writeFile(join(DATA, 'categories.json'), pretty(categories)),
+    writeFile(join(DATA, 'index.json'), pretty({
+      generatedAt: new Date().toISOString(),
+      stationCount: stations.length,
+      sourceRecordCount: sourceRows.length,
+      sources: {
+        'radio-browser': rb.length,
+        'verified-radio-streams': verified.length,
+      },
+      countries,
+    })),
+  ]);
+
+  for (const legacy of ['source_map.csv', 'redirects.csv', 'countries.csv', 'languages.csv', 'categories.csv']) {
+    await rm(join(DATA, legacy), { force: true });
+  }
+
   process.stdout.write(`Stations: ${stations.length} across ${countries.length} country buckets\n`);
 }
 
