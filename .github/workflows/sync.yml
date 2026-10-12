@@ -1,0 +1,47 @@
+name: Sync database
+
+on:
+  workflow_dispatch:
+    inputs:
+      allow_shrink:
+        description: Allow a large dataset shrink
+        required: false
+        default: false
+        type: boolean
+  schedule:
+    - cron: '17 2 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/sync.mjs'
+      - '.github/workflows/sync.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build database
+        run: node scripts/sync.mjs
+        env:
+          ALLOW_SHRINK: ${{ inputs.allow_shrink && '1' || '0' }}
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- data; then
+            echo "No data changes"
+            exit 0
+          fi
+          git config user.name "airwavedb-bot"
+          git config user.email "airwavedb-bot@users.noreply.github.com"
+          git add data
+          git commit -m "chore(data): sync radio directory"
+          git push
