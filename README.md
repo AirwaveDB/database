@@ -1,8 +1,28 @@
 # AirwaveDB Database
 
-Open metadata database for internet radio stations.
+Canonical station metadata for the AirwaveDB internet radio directory.
 
-AirwaveDB keeps station metadata separate from playable stream URLs. Stream endpoints are maintained in [`AirwaveDB/streams`](https://github.com/AirwaveDB/streams), while generated consumer formats are published by [`AirwaveDB/api`](https://github.com/AirwaveDB/api).
+AirwaveDB is a directory of internet radio stations and their playable stream endpoints. This repository is the editable source database for station identity and metadata; applications should normally use [`AirwaveDB/api`](https://github.com/AirwaveDB/api) instead of reading these CSV files directly.
+
+## API
+
+Public JSON data is available from:
+
+```text
+https://raw.githubusercontent.com/AirwaveDB/api/main/v1
+```
+
+Common endpoints:
+
+```text
+/index.json
+/stations.json
+/streams.json
+/countries.json
+/countries/jp.json
+```
+
+For endpoint details, see [`AirwaveDB/api`](https://github.com/AirwaveDB/api).
 
 ## Data
 
@@ -44,7 +64,7 @@ The automated import currently uses:
 - [Radio Browser](https://www.radio-browser.info/) — community-maintained public-domain radio directory
 - [verified-radio-streams](https://github.com/eyalev/verified-radio-streams) — CC0 dataset of streams that returned audio during its verification run
 
-Source records are normalized and de-duplicated before being written to `data/stations/`. Stream URLs are not stored in this repository.
+Source records are normalized and de-duplicated before being written to `data/stations/`. Stream URLs are maintained separately in [`AirwaveDB/streams`](https://github.com/AirwaveDB/streams).
 
 ## Updates
 
