@@ -2,73 +2,68 @@
 
 Canonical station metadata for the AirwaveDB internet radio directory.
 
-AirwaveDB is a directory of internet radio stations and their playable stream endpoints. This repository is the editable source database for station identity and metadata; applications should normally use [`AirwaveDB/api`](https://github.com/AirwaveDB/api) instead of reading these CSV files directly.
-
-## API
-
-Public JSON data is available from:
-
-```text
-https://raw.githubusercontent.com/AirwaveDB/api/main/v1
-```
-
-Common endpoints:
-
-```text
-/index.json
-/stations.json
-/streams.json
-/countries.json
-/countries/jp.json
-```
-
-For endpoint details, see [`AirwaveDB/api`](https://github.com/AirwaveDB/api).
+AirwaveDB is a directory of internet radio stations and their playable stream endpoints. This repository stores station identity, normalized metadata, source mappings, and indexes. Consumer applications should use [`AirwaveDB/api`](https://github.com/AirwaveDB/api).
 
 ## Data
 
-All editable station data is stored as CSV under [`data/`](data/).
+Canonical data is stored as JSON under [`data/`](data/).
 
-- `data/stations/<CC>.csv` — station metadata split by ISO 3166-1 alpha-2 country code
-- `data/source_map.csv` — upstream source identifiers mapped to stable AirwaveDB station IDs
-- `data/redirects.csv` — station ID redirects created when duplicate records are merged
-- `data/countries.csv` — country index and station counts
-- `data/languages.csv` — observed language codes and station counts
-- `data/categories.csv` — normalized categories and station counts
-- `data/index.json` — build metadata and country index
+- `data/stations/<CC>.json` — station metadata split by ISO 3166-1 alpha-2 country code
+- `data/source_map.json` — upstream source identifiers mapped to stable AirwaveDB station IDs
+- `data/redirects.json` — station ID redirects created when duplicate records are merged
+- `data/countries.json` — country index and station counts
+- `data/languages.json` — observed language codes and station counts
+- `data/categories.json` — normalized categories and station counts
+- `data/index.json` — build metadata and source counts
 
 Unknown or unclassified countries use `ZZ`.
 
 ## Station schema
 
-| Field | Description |
-| --- | --- |
-| `id` | Stable AirwaveDB station identifier |
-| `name` | Station name |
-| `country` | ISO 3166-1 alpha-2 country code |
-| `subdivision` | Region or subdivision when supplied by a source |
-| `language_codes` | Semicolon-separated language codes |
-| `categories` | Semicolon-separated normalized categories |
-| `tags` | Semicolon-separated source tags |
-| `homepage` | Station website |
-| `favicon` | Station logo or favicon URL |
-| `type` | `public`, `community`, `college`, `internet`, or empty when unknown |
-| `source_count` | Number of source records grouped into the station |
-| `updated_at` | Most recent upstream change or verification timestamp |
+```json
+{
+  "id": "awb_c89923852f31a58c4a4c",
+  "name": "Example Radio",
+  "country": "JP",
+  "subdivision": null,
+  "languages": ["ja"],
+  "categories": ["news"],
+  "tags": ["news", "talk"],
+  "homepage": "https://example.com/",
+  "favicon": "https://example.com/logo.png",
+  "type": "public",
+  "sourceCount": 2,
+  "updatedAt": "2026-10-13T00:00:00Z"
+}
+```
 
-A missing value means unknown. The database does not fill missing metadata with guessed values.
+`type` may be `public`, `community`, `college`, `internet`, or `null`. Missing metadata is kept as `null` or an empty array rather than guessed.
+
+## Public API
+
+The consumer-facing JSON API is maintained in [`AirwaveDB/api`](https://github.com/AirwaveDB/api).
+
+Routes include:
+
+```text
+/v1/stations/:id
+/v1/countries/:code
+/v1/categories/:id
+/v1/languages/:code
+```
 
 ## Sources
 
 The automated import currently uses:
 
-- [Radio Browser](https://www.radio-browser.info/) — community-maintained public-domain radio directory
-- [verified-radio-streams](https://github.com/eyalev/verified-radio-streams) — CC0 dataset of streams that returned audio during its verification run
+- [Radio Browser](https://www.radio-browser.info/)
+- [verified-radio-streams](https://github.com/eyalev/verified-radio-streams)
 
-Source records are normalized and de-duplicated before being written to `data/stations/`. Stream URLs are maintained separately in [`AirwaveDB/streams`](https://github.com/AirwaveDB/streams).
+Source records are normalized and de-duplicated before they are written to `data/stations/`. Stream endpoints are maintained separately in [`AirwaveDB/streams`](https://github.com/AirwaveDB/streams).
 
 ## Updates
 
-The database is rebuilt automatically every day. A build is rejected when the primary directory returns an unexpectedly small dataset, preventing a temporary upstream failure from replacing a healthy snapshot.
+The database is rebuilt automatically every day. A large unexpected reduction in the upstream dataset is rejected instead of replacing a healthy snapshot.
 
 ## Contributing
 
