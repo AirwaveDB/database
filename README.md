@@ -20,6 +20,8 @@ Unknown or unclassified countries use `ZZ`.
 
 ## Station schema
 
+The canonical machine-readable schema is [`schema/station.schema.json`](schema/station.schema.json), using JSON Schema 2020-12.
+
 ```json
 {
   "id": "awb_c89923852f31a58c4a4c",
