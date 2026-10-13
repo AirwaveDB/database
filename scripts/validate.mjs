@@ -9,35 +9,15 @@ const STATIONS = join(DATA, 'stations');
 const STATION_ID = /^awb_[0-9a-f]{20}$/;
 const COUNTRY = /^[A-Z]{2}$/;
 const LANGUAGE = /^[a-z]{2,3}$/;
-const TYPES = new Set(['', 'public', 'community', 'college', 'internet']);
-const EXPECTED_HEADERS = ['id','name','country','subdivision','language_codes','categories','tags','homepage','favicon','type','source_count','updated_at'];
+const TYPES = new Set([null, 'public', 'community', 'college', 'internet']);
 const errors = [];
 
 function fail(message) {
   if (errors.length < 200) errors.push(message);
 }
 
-function parseCsv(text) {
-  const rows = [];
-  let row = [], field = '', quoted = false;
-  for (let i = 0; i < text.length; i++) {
-    const c = text[i];
-    if (quoted) {
-      if (c === '"' && text[i + 1] === '"') { field += '"'; i++; }
-      else if (c === '"') quoted = false;
-      else field += c;
-    } else if (c === '"') quoted = true;
-    else if (c === ',') { row.push(field); field = ''; }
-    else if (c === '\n') { row.push(field.replace(/\r$/, '')); rows.push(row); row = []; field = ''; }
-    else field += c;
-  }
-  if (field || row.length) { row.push(field); rows.push(row); }
-  if (!rows.length) return { headers: [], rows: [] };
-  const headers = rows.shift();
-  return {
-    headers,
-    rows: rows.filter((r) => r.some(Boolean)).map((r) => Object.fromEntries(headers.map((h, i) => [h, r[i] ?? '']))),
-  };
+async function json(path) {
+  return JSON.parse(await readFile(path, 'utf8'));
 }
 
 function checkUrl(value, where) {
@@ -50,29 +30,35 @@ function checkUrl(value, where) {
   }
 }
 
-async function csvFile(path) {
-  return parseCsv(await readFile(path, 'utf8'));
-}
-
 async function main() {
-  const categoryFile = await csvFile(join(DATA, 'categories.csv'));
-  const allowedCategories = new Set(categoryFile.rows.map((r) => r.id));
-  const files = (await readdir(STATIONS)).filter((name) => /^[A-Z]{2}\.csv$/.test(name)).sort();
+  const [categories, sourceMap, redirects, countries, languages, index] = await Promise.all([
+    json(join(DATA, 'categories.json')),
+    json(join(DATA, 'source_map.json')),
+    json(join(DATA, 'redirects.json')),
+    json(join(DATA, 'countries.json')),
+    json(join(DATA, 'languages.json')),
+    json(join(DATA, 'index.json')),
+  ]);
+
+  const allowedCategories = new Set(categories.map((r) => r.id));
+  const files = (await readdir(STATIONS)).filter((name) => /^[A-Z]{2}\.json$/.test(name)).sort();
   if (!files.length) fail('data/stations: no country files found');
 
   const ids = new Set();
   const countryCounts = new Map();
+  const languageCounts = new Map();
+  const categoryCounts = new Map();
   let stationCount = 0;
 
   for (const file of files) {
     const code = file.slice(0, 2);
-    const parsed = await csvFile(join(STATIONS, file));
-    if (parsed.headers.join(',') !== EXPECTED_HEADERS.join(',')) fail(`${file}: unexpected header`);
-    countryCounts.set(code, parsed.rows.length);
+    const rows = await json(join(STATIONS, file));
+    if (!Array.isArray(rows)) { fail(`${file}: expected JSON array`); continue; }
+    countryCounts.set(code, rows.length);
 
-    for (let i = 0; i < parsed.rows.length; i++) {
-      const row = parsed.rows[i];
-      const where = `${file}:${i + 2}`;
+    for (let i = 0; i < rows.length; i++) {
+      const row = rows[i];
+      const where = `${file}[${i}]`;
       stationCount++;
       if (!STATION_ID.test(row.id)) fail(`${where}: invalid station id ${row.id}`);
       if (ids.has(row.id)) fail(`${where}: duplicate station id ${row.id}`);
@@ -80,49 +66,66 @@ async function main() {
       if (!row.name) fail(`${where}: empty station name`);
       if (row.country !== code || !COUNTRY.test(row.country)) fail(`${where}: country does not match filename`);
       if (!TYPES.has(row.type)) fail(`${where}: invalid station type ${row.type}`);
-      if (!/^\d+$/.test(row.source_count) || Number(row.source_count) < 1) fail(`${where}: invalid source_count`);
-      for (const lang of row.language_codes.split(';').filter(Boolean)) if (!LANGUAGE.test(lang)) fail(`${where}: invalid language code ${lang}`);
-      for (const category of row.categories.split(';').filter(Boolean)) if (!allowedCategories.has(category)) fail(`${where}: unknown category ${category}`);
+      if (!Number.isInteger(row.sourceCount) || row.sourceCount < 1) fail(`${where}: invalid sourceCount`);
+      if (!Array.isArray(row.languages)) fail(`${where}: languages must be an array`);
+      if (!Array.isArray(row.categories)) fail(`${where}: categories must be an array`);
+      if (!Array.isArray(row.tags)) fail(`${where}: tags must be an array`);
+      for (const lang of row.languages || []) {
+        if (!LANGUAGE.test(lang)) fail(`${where}: invalid language code ${lang}`);
+        languageCounts.set(lang, (languageCounts.get(lang) || 0) + 1);
+      }
+      for (const category of row.categories || []) {
+        if (!allowedCategories.has(category)) fail(`${where}: unknown category ${category}`);
+        categoryCounts.set(category, (categoryCounts.get(category) || 0) + 1);
+      }
       checkUrl(row.homepage, `${where} homepage`);
       checkUrl(row.favicon, `${where} favicon`);
     }
   }
 
-  const sourceMap = await csvFile(join(DATA, 'source_map.csv'));
   const sourceKeys = new Set();
-  for (let i = 0; i < sourceMap.rows.length; i++) {
-    const row = sourceMap.rows[i];
-    const where = `source_map.csv:${i + 2}`;
-    const key = `${row.source}:${row.source_id}`;
-    if (!row.source || !row.source_id) fail(`${where}: missing source identifier`);
+  for (let i = 0; i < sourceMap.length; i++) {
+    const row = sourceMap[i];
+    const where = `source_map.json[${i}]`;
+    const key = `${row.source}:${row.sourceId}`;
+    if (!row.source || !row.sourceId) fail(`${where}: missing source identifier`);
     if (sourceKeys.has(key)) fail(`${where}: duplicate source identifier ${key}`);
     sourceKeys.add(key);
-    if (!ids.has(row.station_id)) fail(`${where}: unknown station id ${row.station_id}`);
+    if (!ids.has(row.stationId)) fail(`${where}: unknown station id ${row.stationId}`);
     if (!COUNTRY.test(row.country)) fail(`${where}: invalid country ${row.country}`);
   }
 
-  const redirects = await csvFile(join(DATA, 'redirects.csv'));
   const redirectIds = new Set();
-  for (let i = 0; i < redirects.rows.length; i++) {
-    const row = redirects.rows[i];
-    const where = `redirects.csv:${i + 2}`;
-    if (!STATION_ID.test(row.old_id)) fail(`${where}: invalid old id ${row.old_id}`);
-    if (!ids.has(row.station_id)) fail(`${where}: target station does not exist ${row.station_id}`);
-    if (row.old_id === row.station_id) fail(`${where}: self redirect`);
-    if (redirectIds.has(row.old_id)) fail(`${where}: duplicate old id ${row.old_id}`);
-    redirectIds.add(row.old_id);
+  for (let i = 0; i < redirects.length; i++) {
+    const row = redirects[i];
+    const where = `redirects.json[${i}]`;
+    if (!STATION_ID.test(row.oldId)) fail(`${where}: invalid old id ${row.oldId}`);
+    if (!ids.has(row.stationId)) fail(`${where}: target station does not exist ${row.stationId}`);
+    if (row.oldId === row.stationId) fail(`${where}: self redirect`);
+    if (redirectIds.has(row.oldId)) fail(`${where}: duplicate old id ${row.oldId}`);
+    redirectIds.add(row.oldId);
   }
 
-  const countries = await csvFile(join(DATA, 'countries.csv'));
-  for (const row of countries.rows) {
+  if (countries.length !== countryCounts.size) fail(`countries.json: ${countries.length} entries != ${countryCounts.size} files`);
+  for (const row of countries) {
     const actual = countryCounts.get(row.code);
-    if (actual === undefined) fail(`countries.csv: missing station file for ${row.code}`);
-    else if (actual !== Number(row.station_count)) fail(`countries.csv: count mismatch for ${row.code}: ${row.station_count} != ${actual}`);
+    if (actual === undefined) fail(`countries.json: missing station file for ${row.code}`);
+    else if (actual !== Number(row.stationCount)) fail(`countries.json: count mismatch for ${row.code}: ${row.stationCount} != ${actual}`);
   }
 
-  const index = JSON.parse(await readFile(join(DATA, 'index.json'), 'utf8'));
-  if (Number(index.station_count) !== stationCount) fail(`index.json: station_count ${index.station_count} != ${stationCount}`);
+  for (const row of languages) {
+    const actual = languageCounts.get(row.code) || 0;
+    if (actual !== Number(row.stationCount)) fail(`languages.json: count mismatch for ${row.code}: ${row.stationCount} != ${actual}`);
+  }
+
+  for (const row of categories) {
+    const actual = categoryCounts.get(row.id) || 0;
+    if (actual !== Number(row.stationCount)) fail(`categories.json: count mismatch for ${row.id}: ${row.stationCount} != ${actual}`);
+  }
+
+  if (Number(index.stationCount) !== stationCount) fail(`index.json: stationCount ${index.stationCount} != ${stationCount}`);
   if (index.countries?.length !== countryCounts.size) fail(`index.json: country count ${index.countries?.length} != ${countryCounts.size}`);
+  if (Number(index.sourceRecordCount) !== sourceMap.length) fail(`index.json: sourceRecordCount ${index.sourceRecordCount} != ${sourceMap.length}`);
 
   if (errors.length) {
     for (const error of errors) process.stderr.write(`ERROR ${error}\n`);
@@ -130,7 +133,7 @@ async function main() {
     process.exit(1);
   }
 
-  process.stdout.write(`Validated ${stationCount} stations, ${sourceMap.rows.length} source mappings, and ${countryCounts.size} country files\n`);
+  process.stdout.write(`Validated ${stationCount} stations, ${sourceMap.length} source mappings, and ${countryCounts.size} country files\n`);
 }
 
 await main();
