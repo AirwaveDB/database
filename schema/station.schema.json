@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/AirwaveDB/database/blob/main/schema/station.schema.json",
+  "title": "AirwaveDB Station",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "country",
+    "subdivision",
+    "languages",
+    "categories",
+    "tags",
+    "homepage",
+    "favicon",
+    "type",
+    "sourceCount",
+    "updatedAt"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^awb_[0-9a-f]{20}$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "country": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "subdivision": {
+      "type": ["string", "null"]
+    },
+    "languages": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z]{2,3}$"
+      }
+    },
+    "categories": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "homepage": {
+      "type": ["string", "null"]
+    },
+    "favicon": {
+      "type": ["string", "null"]
+    },
+    "type": {
+      "enum": ["public", "community", "college", "internet", null]
+    },
+    "sourceCount": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "updatedAt": {
+      "type": ["string", "null"]
+    }
+  }
+}
