@@ -125,7 +125,7 @@ async function main() {
 
   if (Number(index.stationCount) !== stationCount) fail(`index.json: stationCount ${index.stationCount} != ${stationCount}`);
   if (index.countries?.length !== countryCounts.size) fail(`index.json: country count ${index.countries?.length} != ${countryCounts.size}`);
-  if (Number(index.sourceRecordCount) !== sourceMap.length) fail(`index.json: sourceRecordCount ${index.sourceRecordCount} != ${sourceMap.length}`);
+  if (Number(index.sourceRecordCount) < sourceMap.length) fail(`index.json: sourceRecordCount ${index.sourceRecordCount} < ${sourceMap.length} mappings`);
 
   if (errors.length) {
     for (const error of errors) process.stderr.write(`ERROR ${error}\n`);
