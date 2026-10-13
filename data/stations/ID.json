@@ -681,14 +681,16 @@
     "name": "Ardan",
     "country": "ID",
     "subdivision": "Bandung, West Java",
-    "languages": [],
+    "languages": [
+      "id"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://ardanradio.com/",
     "favicon": "https://ardanradio.com/storage/logo/Logo%20Ardan.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-16T23:00:58Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-13T01:03:50Z"
   },
   {
     "id": "awb_9c7b8be96320f0e24e78",
@@ -2672,6 +2674,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-09T16:45:58Z"
+  },
+  {
+    "id": "awb_6899e3237c10d95ea9f0",
+    "name": "https://ardanradio.com/",
+    "country": "ID",
+    "subdivision": "Jakarta",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://ardanradio.com/",
+    "favicon": "https://ardanradio.com/",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T01:06:58Z"
   },
   {
     "id": "awb_b14653d1152dcbecb780",
@@ -8447,7 +8463,7 @@
       "classic-rock"
     ],
     "homepage": "https://radiostream.novawap.com/",
-    "favicon": "https://static.wixstatic.com/media/837828_567a64fa790042dca71f5fbafbabf7a6~mv2.jpeg",
+    "favicon": "https://static.wixstatic.com/media/837828_03b79a4d1d0345839c9a2e523d54662c~mv2.png/v1/fill/w_246,h_246,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/837828_03b79a4d1d0345839c9a2e523d54662c~mv2.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
