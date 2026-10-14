@@ -1069,8 +1069,8 @@
       "chillout",
       "lounge"
     ],
-    "homepage": "https://loungefm.com.ua/chill",
-    "favicon": "https://loungefm.com.ua/img/favicon/favicon.ico",
+    "homepage": "https://loungefm.com.ua/",
+    "favicon": "https://loungefm.com.ua/img/icon-144x144.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -2876,7 +2876,7 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_675c3102d34abcd49006",
+    "id": "awb_e30adb5644183baa8e09",
     "name": "True Black Metal Radio",
     "country": "UA",
     "subdivision": null,
@@ -2884,34 +2884,18 @@
       "en"
     ],
     "categories": [
+      "rock",
       "metal"
     ],
     "tags": [
       "black metal",
-      "metal"
+      "metal",
+      "rock"
     ],
     "homepage": "http://trueblackmetalradio.com/#/home",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:38:30Z"
-  },
-  {
-    "id": "awb_e30adb5644183baa8e09",
-    "name": "True Black Metal Radio",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {

@@ -56,9 +56,11 @@
       "electronic"
     ],
     "tags": [
+      "dnb",
       "drum & bass",
       "drum and bass",
       "electronic",
+      "jump up",
       "jungle",
       "liquid dnb",
       "liquid funk",
@@ -68,8 +70,8 @@
     "homepage": "https://res.ad/",
     "favicon": "https://res.lirz.ru/static/uploads/album_art.1774984293.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-12T13:58:46Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-10-13T16:58:37Z"
   },
   {
     "id": "awb_f71145b072d1f1ba639c",
@@ -5856,21 +5858,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_db0169944e360552c917",
-    "name": "Downtempo",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -7338,21 +7326,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_57342a7dd2690efe0125",
-    "name": "Guitar Jazz",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
@@ -7366,21 +7340,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_c927dbee3088927c23cd",
-    "name": "Hard Rock",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -7408,22 +7368,8 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_ada765e41e1fc404b72a",
-    "name": "Heavy Blues",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_593fe350d1d8e6e7474e",
@@ -25663,7 +25609,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "atmospheric",
       "breakbeat",
@@ -25674,10 +25622,12 @@
       "drum & bass",
       "drum 'n' bass",
       "drum and bass",
+      "electronic",
       "intelligent",
       "intelligent drum and bass",
       "intelligent drum&bass",
       "jungle",
+      "old school",
       "rave",
       "techstep",
       "uk"
@@ -25685,8 +25635,8 @@
     "homepage": "https://res.ad/",
     "favicon": "https://res.lirz.ru/static/uploads/rewind/album_art.1781974361.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-21T10:46:11Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-13T16:58:37Z"
   },
   {
     "id": "awb_ff0d685bcd4999018d7f",
@@ -25810,21 +25760,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_43fbd0856c5c9b9d2c02",
-    "name": "Rock",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -28082,21 +28018,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_fddebdc326dcb8c983cc",
-    "name": "Techno",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -46024,7 +45946,7 @@
     "id": "awb_37f285b28fb0471cffed",
     "name": "Русское Радио",
     "country": "RU",
-    "subdivision": null,
+    "subdivision": "Москва",
     "languages": [],
     "categories": [
       "pop"
@@ -46033,10 +45955,10 @@
       "misc",
       "pop"
     ],
-    "homepage": null,
+    "homepage": "https://rusradio.hostingradio.ru/rusradio96.aacp",
     "favicon": "https://cdn.onlineradiobox.com/img/l/8/248.v10.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 5,
     "updatedAt": "2026-08-24"
   },
   {
@@ -46061,20 +45983,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-06-18T20:50:13Z"
-  },
-  {
-    "id": "awb_7b157007f66661ba1135",
-    "name": "РУССКОЕ РАДИО",
-    "country": "RU",
-    "subdivision": "Москва",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-    "favicon": "https://rusradio.hostingradio.ru/favicon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_f88c2e55ea06e5d80c6a",
@@ -48550,7 +48458,7 @@
   },
   {
     "id": "awb_6a099e7d3c6d0b4bfad9",
-    "name": "ЧИСТАЯ ВОЛНА",
+    "name": "Чистая волна",
     "country": "RU",
     "subdivision": null,
     "languages": [

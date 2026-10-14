@@ -2300,6 +2300,20 @@
     "updatedAt": "2026-09-29T19:03:19Z"
   },
   {
+    "id": "awb_8e9415064359f4952d1f",
+    "name": "BPM 100.9 Quebec",
+    "country": "CA",
+    "subdivision": "Québec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://arsenalsports.ca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:07:07Z"
+  },
+  {
     "id": "awb_606f8ba745133ee2e900",
     "name": "BPM 91,9",
     "country": "CA",
@@ -2316,6 +2330,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-30T23:53:25Z"
+  },
+  {
+    "id": "awb_e038d3f496e65532ed5e",
+    "name": "BPM 96.5 Gatineau",
+    "country": "CA",
+    "subdivision": "Québec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://arsenalsports.ca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:03:04Z"
   },
   {
     "id": "awb_60c5b09335af94af18cf",
@@ -5779,7 +5807,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -5797,7 +5825,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://www.cfnj.net/",
+    "homepage": "http://cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -20361,6 +20389,28 @@
     "updatedAt": "2026-01-14T23:42:51Z"
   },
   {
+    "id": "awb_73692113d2aa92fb0460",
+    "name": "Highway Country Radio",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "country",
+      "blues"
+    ],
+    "tags": [
+      "americana",
+      "bluegrass",
+      "blues",
+      "country"
+    ],
+    "homepage": "https://highwaycountryradio.com/",
+    "favicon": "https://highwaycountryradio.com/logo/favicon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-13T10:06:34Z"
+  },
+  {
     "id": "awb_fccb33d6c8f3746831d5",
     "name": "HITS 100",
     "country": "CA",
@@ -26316,7 +26366,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto, ON",
+    "subdivision": "Toronto",
     "languages": [],
     "categories": [
       "jazz"
@@ -26325,7 +26375,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,
@@ -26951,6 +27001,42 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_07d8533ac46367ba22e1",
+    "name": "The Rooster",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://theroosteronline.ca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T17:01:59Z"
+  },
+  {
+    "id": "awb_60054dddc6bdb234dd7e",
+    "name": "The Taint",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "eng"
+    ],
+    "categories": [
+      "rock",
+      "metal"
+    ],
+    "tags": [
+      "metal",
+      "rock"
+    ],
+    "homepage": "https://thetaint.ca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T19:23:24Z"
+  },
+  {
     "id": "awb_003219788a331787c2aa",
     "name": "The Tri City's Alternative",
     "country": "CA",
@@ -27259,6 +27345,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:03:28Z"
+  },
+  {
+    "id": "awb_ff22f85e9f1c9f4d3b6d",
+    "name": "TSN 690 Montreal",
+    "country": "CA",
+    "subdivision": "Canada",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.iheart.com/live/tsn-690-7450",
+    "favicon": "https://www.iheart.com/public/assets/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T00:54:07Z"
   },
   {
     "id": "awb_3e135f5656bdff45063d",

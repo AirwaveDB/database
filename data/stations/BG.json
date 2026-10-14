@@ -2535,6 +2535,20 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_753afc670ee6d134c9cb",
+    "name": "MHT Radio Petrich",
+    "country": "BG",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://mht.hopto.org/MHTRadio/",
+    "favicon": "https://mht.hopto.org/MHTRadio/mht-radio-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T20:16:33Z"
+  },
+  {
     "id": "awb_4ef67daba4457862f376",
     "name": "Mixx",
     "country": "BG",
@@ -6302,5 +6316,111 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-27T08:43:28Z"
+  },
+  {
+    "id": "awb_ceac03347026f81dacb7",
+    "name": "��� � ����� �����",
+    "country": "BG",
+    "subdivision": "Vidin",
+    "languages": [
+      "bg"
+    ],
+    "categories": [
+      "news",
+      "talk",
+      "public"
+    ],
+    "tags": [
+      "news",
+      "public radio",
+      "talk"
+    ],
+    "homepage": "https://bnrnews.bg/vidin",
+    "favicon": null,
+    "type": "public",
+    "sourceCount": 8,
+    "updatedAt": "2026-09-27T08:28:16Z"
+  },
+  {
+    "id": "awb_5c6e044cf5198de61ad4",
+    "name": "����� ������ �������",
+    "country": "BG",
+    "subdivision": "Veliko Tarnovo",
+    "languages": [
+      "bg"
+    ],
+    "categories": [],
+    "tags": [
+      "local news",
+      "pop-folk"
+    ],
+    "homepage": "https://radiovelikotarnovo.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-09-27T08:28:38Z"
+  },
+  {
+    "id": "awb_ad49a1c2df465f4401b9",
+    "name": "����� ����������� ����",
+    "country": "BG",
+    "subdivision": null,
+    "languages": [
+      "bg"
+    ],
+    "categories": [],
+    "tags": [
+      "christian orthodox",
+      "christianity",
+      "faith",
+      "orthodox",
+      "orthodox christian",
+      "orthodox church",
+      "orthodoxy",
+      "����",
+      "�����������",
+      "������������"
+    ],
+    "homepage": "https://radio-glas.mitropolia-sofia.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-12T12:16:58Z"
+  },
+  {
+    "id": "awb_fa56185e91e767bde96d",
+    "name": "������ �������",
+    "country": "BG",
+    "subdivision": "Vratsa",
+    "languages": [
+      "bg"
+    ],
+    "categories": [],
+    "tags": [
+      "pop-folk"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-09-27T08:31:25Z"
+  },
+  {
+    "id": "awb_61541d4e9efef6b95f8c",
+    "name": "�������� ����� �������",
+    "country": "BG",
+    "subdivision": "Razgrad",
+    "languages": [
+      "bg"
+    ],
+    "categories": [],
+    "tags": [
+      "local news"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-09-27T08:31:25Z"
   }
 ]

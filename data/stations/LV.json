@@ -1448,20 +1448,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_072be697f32978ef6fdd",
-    "name": "Relax",
-    "country": "LV",
-    "subdivision": "Jalgeva",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_da1d8c6cd8bb6854320a",
     "name": "Relax",
     "country": "LV",
@@ -1472,7 +1458,7 @@
     "homepage": "https://live.relaxfm.lv/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1557,25 +1543,11 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_47d94ec88ecfc0bb058b",
-    "name": "Skonto",
-    "country": "LV",
-    "subdivision": "Riga",
-    "languages": [],
-    "categories": [],
-    "tags": [],
     "homepage": "https://stream.radioskonto.lv:8443/stereo",
     "favicon": "https://stream.radioskonto.lv:8443/stereo",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_04438fbc3dbe4ebf7f0c",
@@ -1588,22 +1560,8 @@
     "homepage": "https://stream.radioskontoplus.lv:8443/st128",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_60e3336525f644b0d7a9",
-    "name": "Skonto Plus",
-    "country": "LV",
-    "subdivision": "Rīgā",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_40916dc35d6d82e50726",
@@ -1680,20 +1638,6 @@
     "id": "awb_7ff8c5a598bba77161f1",
     "name": "SWH",
     "country": "LV",
-    "subdivision": "Rīga",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_d42a4426bb2d7f54430f",
-    "name": "SWH",
-    "country": "LV",
     "subdivision": "Riga",
     "languages": [],
     "categories": [],
@@ -1701,7 +1645,7 @@
     "homepage": "http://80.232.162.149:8000/swh96mp3",
     "favicon": "http://80.232.162.149:8000/swh96mp3",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 3,
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {

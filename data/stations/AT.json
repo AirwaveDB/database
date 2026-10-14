@@ -3728,28 +3728,6 @@
     "name": "Popwelle. Das Musikradio,AutoDJ",
     "country": "AT",
     "subdivision": "St. Gallen",
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "indie",
-      "oldie",
-      "pop",
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": "https://popwelle.at/pimages/popwelle_logo.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_fde9316a2737cfd3c402",
-    "name": "Popwelle. Das Musikradio,AutoDJ",
-    "country": "AT",
-    "subdivision": null,
     "languages": [
       "de"
     ],
@@ -3766,8 +3744,8 @@
     "homepage": null,
     "favicon": "https://popwelle.at/pimages/popwelle_logo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:11:44Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_29bcaa13941059ad726c",
@@ -5200,6 +5178,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_31320bf6447b214ed5c3",
+    "name": "Soundweave Revisited",
+    "country": "AT",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "drone",
+      "experimental",
+      "soundscape"
+    ],
+    "homepage": "https://sndwvr.site/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T15:12:34Z"
   },
   {
     "id": "awb_feea4693392857495506",

@@ -14040,14 +14040,16 @@
     "name": "Absolut Relax",
     "country": "DE",
     "subdivision": "Bayern, München, AAC 128",
-    "languages": [],
+    "languages": [
+      "de"
+    ],
     "categories": [],
     "tags": [],
-    "homepage": null,
+    "homepage": "https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/aacp",
     "favicon": "https://absolutradio.de/images/stations/229_relax.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-06-25T14:12:57Z"
   },
   {
     "id": "awb_8066a32cfdca8314b15b",
@@ -14066,22 +14068,6 @@
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-06-06T06:24:17Z"
-  },
-  {
-    "id": "awb_ab66bc2c2f651c23b483",
-    "name": "Absolut Relax",
-    "country": "DE",
-    "subdivision": "Bayern, München, AAC",
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/aacp",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-25T14:12:57Z"
   },
   {
     "id": "awb_b295b14af9cec321dc98",
@@ -15269,6 +15255,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-01T13:32:13Z"
+  },
+  {
+    "id": "awb_dd58b57e08a5b36ce156",
+    "name": "Andreas’ Nacht – Hörbücher zum Einschlafen",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "audiobook",
+      "einschlafen",
+      "hörbuch",
+      "märchen",
+      "sleep",
+      "spoken word"
+    ],
+    "homepage": "https://andreasnacht.de/radio/",
+    "favicon": "https://andreasnacht.de/assets/img/monogramm-240.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T12:53:23Z"
   },
   {
     "id": "awb_dadc512df52eaab68496",
@@ -41002,34 +41013,8 @@
     "homepage": null,
     "favicon": "https://gartenheim-radio.de/bilder/logo-radio-Gartenheim-fav.png",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T23:54:34Z"
-  },
-  {
-    "id": "awb_b86fde2ca8ae9aa7167a",
-    "name": "Gartenheim-Radio,Gartenheim-Radio",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "2000er",
-      "2000er und schlager-pop",
-      "70er",
-      "80er",
-      "90er",
-      "chart-hits",
-      "deutsch-pop",
-      "oldies",
-      "schlager-pop"
-    ],
-    "homepage": null,
-    "favicon": "https://gartenheim-radio.de/bilder/logo-radio-Gartenheim-fav.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_fda2fde3d49d91d743b9",
@@ -43080,6 +43065,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-09T05:09:30Z"
+  },
+  {
+    "id": "awb_e75ab448cd4cc6f9b307",
+    "name": "Hirschmilch Radio - Organic-House",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "deep house",
+      "earthy",
+      "ethnic",
+      "melodic house",
+      "organic",
+      "organic-house",
+      "soulful"
+    ],
+    "homepage": "https://hirschmilch.de/kanal/organic-house",
+    "favicon": "https://hirschmilch.de/images/channel-track-organic-house.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T11:15:04Z"
   },
   {
     "id": "awb_a531cfbe68d09df10d8c",
@@ -50615,24 +50624,6 @@
     "updatedAt": "2026-01-14T23:27:48Z"
   },
   {
-    "id": "awb_27b2402f707bb730a53a",
-    "name": "laut fm",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_9add76a78106c5c08074",
     "name": "Laut FM - Gothistas",
     "country": "DE",
@@ -50849,6 +50840,7 @@
       "de"
     ],
     "categories": [
+      "rock",
       "electronic",
       "oldies"
     ],
@@ -50860,12 +50852,13 @@
       "legends",
       "oldie",
       "oldies",
+      "rock",
       "techno"
     ],
     "homepage": "http://laut.fm/schlagerradio",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 6,
     "updatedAt": "2026-09-25T19:24:22Z"
   },
   {
@@ -57953,41 +57946,23 @@
       "de"
     ],
     "categories": [
+      "pop",
+      "rock",
       "oldies"
     ],
     "tags": [
       "50s",
       "60s",
       "70s",
+      "pop",
+      "rock",
       "schlager"
     ],
     "homepage": "http://memoryradio.de/memoryradio1.php",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T08:07:13Z"
-  },
-  {
-    "id": "awb_a9630d6ebd7d239e79ce",
-    "name": "Memoryradio 1",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:06:00Z"
   },
   {
     "id": "awb_66885155af1b3c1a2b6b",
@@ -57998,6 +57973,8 @@
       "de"
     ],
     "categories": [
+      "pop",
+      "rock",
       "oldies"
     ],
     "tags": [
@@ -58005,35 +57982,15 @@
       "30s",
       "40s",
       "50s",
+      "pop",
+      "rock",
       "schlager"
     ],
     "homepage": "http://memoryradio.de/memoryradio2.php",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T05:28:01Z"
-  },
-  {
-    "id": "awb_ca53c271c5f8930ee3af",
-    "name": "Memoryradio 2",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:11:33Z"
   },
   {
     "id": "awb_163a2b995c3a6b1096d3",
@@ -58116,28 +58073,9 @@
     "id": "awb_563187bb0c79d8cef2b7",
     "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
     "country": "DE",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "metal"
-    ],
-    "tags": [
-      "metal"
-    ],
-    "homepage": null,
-    "favicon": "https://www.metal-only.de/fileadmin/tpl//fav.ico",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:07:55Z"
-  },
-  {
-    "id": "awb_afd57387938930a596a2",
-    "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
-    "country": "DE",
     "subdivision": "Sanden, ID",
     "languages": [
+      "de",
       "en",
       "id",
       "no"
@@ -58149,28 +58087,10 @@
       "metal"
     ],
     "homepage": null,
-    "favicon": "https://i.imgur.com/1Cvlgew.jpeg",
+    "favicon": "https://www.metal-only.de/fileadmin/tpl//fav.ico",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 4,
     "updatedAt": "2026-01-15T08:44:04Z"
-  },
-  {
-    "id": "awb_f5e6402b605ff149a1b0",
-    "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
-    "country": "DE",
-    "subdivision": "St. Gallen",
-    "languages": [],
-    "categories": [
-      "metal"
-    ],
-    "tags": [
-      "metal"
-    ],
-    "homepage": null,
-    "favicon": "https://jukebox.kreuzbergswiss.ch/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_b4b5fe37354a23bb28ff",
@@ -59401,7 +59321,7 @@
       "youth"
     ],
     "homepage": "https://n-joy.de/",
-    "favicon": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Njoy-logo.svg/512px-Njoy-logo.svg.png",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-01-15T08:34:02Z"
@@ -69255,53 +69175,47 @@
   },
   {
     "id": "awb_285493f799f056bdd0f0",
-    "name": "Radio Bob Grunge",
+    "name": "RADIO BOB Grunge",
     "country": "DE",
     "subdivision": "Schleswig-Holstein",
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:08Z"
   },
   {
-    "id": "awb_f705800db8192ed50a4f",
-    "name": "RADIO BOB Grunge",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_c5c53be8a40eb50f21d0",
+    "id": "awb_81750a27c35b05f650a2",
     "name": "RADIO BOB Metal",
     "country": "DE",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "de",
+      "en"
+    ],
     "categories": [
-      "rock"
+      "rock",
+      "metal"
     ],
     "tags": [
+      "hard rock",
+      "metal",
+      "radio bob",
+      "radiobob",
       "rock"
     ],
-    "homepage": null,
+    "homepage": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T04:42:48Z"
   },
   {
     "id": "awb_c5861b6e8aa96038954a",
@@ -69568,22 +69482,26 @@
     "updatedAt": "2026-01-15T03:26:15Z"
   },
   {
-    "id": "awb_e3ce71a1f6139e753f88",
+    "id": "awb_ca495b7747dd284c6935",
     "name": "RADIO BOB Unplugged",
     "country": "DE",
-    "subdivision": null,
-    "languages": [],
+    "subdivision": "Schleswig-Holstein",
+    "languages": [
+      "de"
+    ],
     "categories": [
       "rock"
     ],
     "tags": [
-      "rock"
+      "rock",
+      "un plugged",
+      "unplugged"
     ],
-    "homepage": null,
+    "homepage": "http://streams.radiobob.de/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T01:18:04Z"
   },
   {
     "id": "awb_c87bb2569754186c5027",
@@ -70626,32 +70544,6 @@
     "updatedAt": "2026-01-14T23:28:26Z"
   },
   {
-    "id": "awb_81750a27c35b05f650a2",
-    "name": "RADIO BOB! Metal",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [
-      "de",
-      "en"
-    ],
-    "categories": [
-      "rock",
-      "metal"
-    ],
-    "tags": [
-      "hard rock",
-      "metal",
-      "radio bob",
-      "radiobob",
-      "rock"
-    ],
-    "homepage": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:42:48Z"
-  },
-  {
     "id": "awb_19d8b216cb8facfab010",
     "name": "Radio BOB! Metal (192kbps)",
     "country": "DE",
@@ -70895,28 +70787,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:53:08Z"
-  },
-  {
-    "id": "awb_ca495b7747dd284c6935",
-    "name": "Radio Bob! unplugged",
-    "country": "DE",
-    "subdivision": "Schleswig-Holstein",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock",
-      "un plugged",
-      "unplugged"
-    ],
-    "homepage": "http://streams.radiobob.de/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:18:04Z"
   },
   {
     "id": "awb_3bd02ae7132973b19afb",
@@ -71663,7 +71533,7 @@
       "radio internetowe"
     ],
     "homepage": "https://radio-budowlaniec.de/",
-    "favicon": "https://radio-budowlaniec.de/sites/default/files/banner/512.1%20logo%20rund.png",
+    "favicon": "https://radio-budowlaniec.de/sites/default/files/512.1%20logo%20rund.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-03-28T07:18:42Z"
@@ -81238,24 +81108,6 @@
     "updatedAt": "2026-01-15T03:51:41Z"
   },
   {
-    "id": "awb_01efa2be6eea82569e37",
-    "name": "Radio Schwarze Welle",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electronic"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_eb5505e48b03652e0281",
     "name": "Radio Schwarze Welle",
     "country": "DE",
@@ -81263,14 +81115,17 @@
     "languages": [
       "de"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
+      "electronic",
       "gothique"
     ],
     "homepage": "https://www.schwarze-welle.de/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 3,
     "updatedAt": "2026-01-15T07:07:34Z"
   },
   {
@@ -85083,35 +84938,10 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_62d185057326214ad33f",
-    "name": "RadioFunAndMore,RadioFunAndMore",
-    "country": "DE",
-    "subdivision": "St. Gallen",
-    "languages": [],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "2000er",
-      "70er",
-      "80er",
-      "90er",
-      "chart-hits",
-      "deutsch-pop",
-      "oldies",
-      "schlager-pop"
-    ],
-    "homepage": null,
-    "favicon": "https://radiofunandmore.de/images/bilder/radiologo.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
     "id": "awb_b7bea39074ffb3644d7c",
     "name": "RadioFunAndMore,RadioFunAndMore",
     "country": "DE",
-    "subdivision": null,
+    "subdivision": "St. Gallen",
     "languages": [
       "de",
       "en"
@@ -85132,7 +84962,7 @@
     "homepage": null,
     "favicon": "https://radiofunandmore.de/images/bilder/radiologo.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 5,
     "updatedAt": "2026-01-15T07:42:26Z"
   },
   {
@@ -94137,33 +93967,19 @@
     "updatedAt": "2026-08-22T06:15:36Z"
   },
   {
-    "id": "awb_ee0895a6513fdd544711",
+    "id": "awb_18d78034b55988554d63",
     "name": "Shuffle Radio",
     "country": "DE",
-    "subdivision": null,
+    "subdivision": "https://laut.fm/shuffle-radio",
     "languages": [],
     "categories": [],
     "tags": [
       "misc"
     ],
     "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_18d78034b55988554d63",
-    "name": "SHUFFLE-RADIO",
-    "country": "DE",
-    "subdivision": "https://laut.fm/shuffle-radio",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
     "favicon": "https://assets.laut.fm/218467472df9172a0faa96a7af8c09a1?t=_120x120",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -96167,6 +95983,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-19T14:47:13Z"
+  },
+  {
+    "id": "awb_d8a371031177a720e2ba",
+    "name": "STÖRSIGNAL",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "dark phunk",
+      "deutschrap",
+      "hip hop",
+      "mindbeated",
+      "rap"
+    ],
+    "homepage": "https://www.mindbeated.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T19:11:56Z"
   },
   {
     "id": "awb_d89c822cf4e2089ab384",
@@ -98662,24 +98502,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_49c5bdb1a1ecf3c1fad7",
-    "name": "SWR1",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_56954675e89e4be7763b",
     "name": "SWR1",
     "country": "DE",
@@ -98694,7 +98516,7 @@
     "homepage": "https://liveradio.swr.de/",
     "favicon": "https://liveradio.swr.de/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 5,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {

@@ -1586,20 +1586,6 @@
     "country": "US",
     "subdivision": "Los Angeles,",
     "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "http://www.101smoothjazz.com/index_html_files/34146@2x.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_d90a9fd704f92537ea21",
-    "name": "101 Smooth Jazz",
-    "country": "US",
-    "subdivision": null,
-    "languages": [],
     "categories": [
       "jazz"
     ],
@@ -1607,10 +1593,10 @@
       "jazz"
     ],
     "homepage": null,
-    "favicon": null,
+    "favicon": "http://www.101smoothjazz.com/index_html_files/34146@2x.jpg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_77924de380c5d11c1ba1",
@@ -7223,9 +7209,9 @@
   },
   {
     "id": "awb_55d09ea1a556d2936616",
-    "name": "2020 The Beacon -- Shining A Light On You",
+    "name": "2020 The Beacon -- Shining A light on you",
     "country": "US",
-    "subdivision": "Colorado",
+    "subdivision": "col",
     "languages": [
       "en"
     ],
@@ -31784,6 +31770,20 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_b5eb0f79badd84609138",
+    "name": "Easy Hits Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.easyhitsflorida.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T11:54:24Z"
+  },
+  {
     "id": "awb_58fe520d37da2cb2fbb1",
     "name": "Easy Hits Miami South Florida",
     "country": "US",
@@ -39400,6 +39400,32 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_5db71dc57861ca4b8890",
+    "name": "Hey Decatur",
+    "country": "US",
+    "subdivision": "Georgia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "adult contemporary",
+      "atlanta",
+      "community",
+      "decatur",
+      "local news",
+      "r&b",
+      "variety"
+    ],
+    "homepage": "https://heydecatur.com/",
+    "favicon": "https://heydecatur.com/img/art/night.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:30:40Z"
+  },
+  {
     "id": "awb_e90362ef3beab348f123",
     "name": "High Entropy Radio",
     "country": "US",
@@ -46844,6 +46870,28 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:48:59Z"
+  },
+  {
+    "id": "awb_67a23ed876c612d14ba0",
+    "name": "KCNP 89.5 - Chickasaw Nation Radio - Ada, Oklahoma",
+    "country": "US",
+    "subdivision": "Oklahoma",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "classic hits",
+      "classic rock",
+      "native american"
+    ],
+    "homepage": "https://kcnp.org/",
+    "favicon": "https://kcnp.org/getmedia/bbae23dc-83de-41cb-98fc-4508f442698f/newLogoNoText.aspx",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T12:04:32Z"
   },
   {
     "id": "awb_63dc729f0633ac38c5e6",
@@ -54317,29 +54365,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:10:47Z"
-  },
-  {
-    "id": "awb_5f3e949d33cce056f288",
-    "name": "KOCF 92.7 - \"Fern Ridge Community Radio\" - Veneta, Oregon",
-    "country": "US",
-    "subdivision": "Oregon",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community",
-      "jazz"
-    ],
-    "tags": [
-      "community radio",
-      "jazz",
-      "variety"
-    ],
-    "homepage": "https://www.kocf.org/",
-    "favicon": "https://www.kocf.org/wp-content/uploads/2024/04/KOCF_Logo.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-10-13T01:50:58Z"
   },
   {
     "id": "awb_5bc72ae18bacfc77ea14",
@@ -71653,7 +71678,7 @@
   },
   {
     "id": "awb_2a1c7f4ed90413017c5e",
-    "name": "octave radio",
+    "name": "Octave radio",
     "country": "US",
     "subdivision": null,
     "languages": [],
@@ -71661,12 +71686,13 @@
       "classical"
     ],
     "tags": [
-      "classical"
+      "classical",
+      "international"
     ],
-    "homepage": null,
+    "homepage": "https://octaverecords.out.airtime.pro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -71682,22 +71708,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_9a1ec194e069bd154712",
-    "name": "Octave radio",
-    "country": "US",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "international"
-    ],
-    "homepage": "https://octaverecords.out.airtime.pro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_012b2a68973e9b50133b",
@@ -78270,9 +78280,9 @@
   },
   {
     "id": "awb_6dc069d6774a7d33651e",
-    "name": "Radio K",
+    "name": "Radio k",
     "country": "US",
-    "subdivision": "Minnesota",
+    "subdivision": "MN",
     "languages": [
       "en"
     ],
@@ -86023,6 +86033,34 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_c62df4df8fca026f35ba",
+    "name": "Sbempireradio",
+    "country": "US",
+    "subdivision": "California",
+    "languages": [
+      "eng"
+    ],
+    "categories": [
+      "jazz",
+      "hip-hop",
+      "reggae"
+    ],
+    "tags": [
+      "hip-hop",
+      "jazz",
+      "r&b",
+      "rap",
+      "reggae",
+      "urban",
+      "world"
+    ],
+    "homepage": "https://www.nobexradio.com/radio/ns-sbempireradio/sbempireradio",
+    "favicon": "https://api.nobexradio.com/public/stations/sbempireradio/logo",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T22:27:10Z"
+  },
+  {
     "id": "awb_c7370f41566908a1dee4",
     "name": "Sci-Fi Old Time Radio",
     "country": "US",
@@ -88237,6 +88275,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_82a49d2c0e7b438291ef",
+    "name": "Smooth Static Radio",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://smoothstaticradio.com/",
+    "favicon": "https://smoothstaticradio.com/assets/images/image04.jpg?v=066926aa",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T20:33:55Z"
   },
   {
     "id": "awb_6635f581e5442013e437",
@@ -94771,6 +94825,26 @@
     "updatedAt": "2026-01-15T08:38:09Z"
   },
   {
+    "id": "awb_c9a2d4db071362fa5dd1",
+    "name": "The America first radio network",
+    "country": "US",
+    "subdivision": "Allentown",
+    "languages": [
+      "eng"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "talk radio"
+    ],
+    "homepage": "https://www.nobexradio.com/radio/ns-theamericafirstradionetwork/the-america-first-radio-network",
+    "favicon": "https://api.nobexradio.com/public/stations/theamericafirstradionetwork/logo",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T18:13:15Z"
+  },
+  {
     "id": "awb_ff22598ad100337e808c",
     "name": "The Anciant Faith Radio Music",
     "country": "US",
@@ -98191,6 +98265,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_f55ead3d8e6cab64899b",
+    "name": "The WIKD 102.5FM",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://wikd102.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:37:21Z"
   },
   {
     "id": "awb_dfefe32c01a48197101e",
@@ -124257,29 +124345,6 @@
     "updatedAt": "2026-01-15T06:33:47Z"
   },
   {
-    "id": "awb_4e66d724f8c4d211e430",
-    "name": "WVVX 100.1 - Providence, Rhode Island - Providence Community Radio",
-    "country": "US",
-    "subdivision": "Rhode Island",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community",
-      "jazz"
-    ],
-    "tags": [
-      "community radio",
-      "jazz",
-      "music variety"
-    ],
-    "homepage": "https://www.procomrad.org/",
-    "favicon": "https://64.media.tumblr.com/b1711b2324de779073a1c9f67b6d5d89/25a9e8e0c8fbfae2-e4/s128x128u_c1/1683aa250d9af8a1c2922c41dbfbd58a2eb8c24e.pnj",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-10-13T02:46:39Z"
-  },
-  {
     "id": "awb_a9f04ef7d0ef905068ce",
     "name": "WVXU",
     "country": "US",
@@ -126580,6 +126645,22 @@
     "updatedAt": "2026-01-15T05:09:14Z"
   },
   {
+    "id": "awb_d823f202a95bdb95ef32",
+    "name": "X Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "international"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
     "id": "awb_f54284bdb6d28d13ea35",
     "name": "X Treme Vibes Radio -- The rhythm of the People!",
     "country": "US",
@@ -126599,22 +126680,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-11T10:56:32Z"
-  },
-  {
-    "id": "awb_d823f202a95bdb95ef32",
-    "name": "X-Radio",
-    "country": "US",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "international"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_737a3240526c80236ca0",
@@ -127255,6 +127320,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:06:34Z"
+  },
+  {
+    "id": "awb_34617d6ce133ad97871a",
+    "name": "Yacht Rock Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "adult contemporary",
+      "easy listening"
+    ],
+    "homepage": "https://yachtrock.radio/",
+    "favicon": "https://yachtrock.radio/wp-content/uploads/2023/01/Designer-15.avif",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T21:55:53Z"
   },
   {
     "id": "awb_88b08bff2de5e65806ba",

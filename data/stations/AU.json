@@ -19860,20 +19860,6 @@
     "updatedAt": "2026-01-15T07:59:53Z"
   },
   {
-    "id": "awb_adf214c4858dcb735a05",
-    "name": "Hope 103.2",
-    "country": "AU",
-    "subdivision": "Sydney",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://hope1032.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-13T02:08:58Z"
-  },
-  {
     "id": "awb_f9e87449cb6295d3c260",
     "name": "Hot 100 - Darwin - 100.1 FM",
     "country": "AU",
@@ -21014,7 +21000,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.kooriradio.com/",
+    "homepage": "https://kooriradio.com/",
     "favicon": "https://www.kooriradio.com/wp-content/uploads/2024/09/cropped-Koori_Radio_logo-192x192.png",
     "type": null,
     "sourceCount": 2,
@@ -28897,6 +28883,24 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_f0cb7d0fe917d9bae2e9",
+    "name": "SAFM - Adelaide",
+    "country": "AU",
+    "subdivision": "South Australia",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "top 40 hits"
+    ],
+    "homepage": "https://hit.listnr.com/adelaide/",
+    "favicon": "https://images.ctfassets.net/yxg7lydfj6tc/8adfaa50-85d9-43d5-9544-a29334ad4e52/bf980acbc0140407222de2160244ba22/0004-safm.png?w=320&h=320&fm=webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T13:02:33Z"
   },
   {
     "id": "awb_4521cdf8396303994ec9",

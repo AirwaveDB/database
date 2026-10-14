@@ -2235,28 +2235,6 @@
     "name": "Hobby Rádió",
     "country": "HU",
     "subdivision": null,
-    "languages": [],
-    "categories": [
-      "talk",
-      "oldies"
-    ],
-    "tags": [
-      "70s",
-      "80s",
-      "90s",
-      "talk"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-15T11:12:28Z"
-  },
-  {
-    "id": "awb_9fa91437e03c7b8daafc",
-    "name": "Hobby Rádió",
-    "country": "HU",
-    "subdivision": null,
     "languages": [
       "hu"
     ],
@@ -2273,8 +2251,8 @@
     "homepage": "http://www.hobbyradio.hu/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:49:38Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-07-15T11:12:28Z"
   },
   {
     "id": "awb_69b54c543ba6a5ab7fdb",
@@ -2647,24 +2625,10 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_71c58e0d19a6c35c1716",
-    "name": "Kossuth",
-    "country": "HU",
-    "subdivision": "Budapest",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://icast.connectmedia.hu/4736/mr1.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-07T17:11:44Z"
-  },
-  {
     "id": "awb_f53e91b975cc47c55673",
     "name": "Kossuth",
     "country": "HU",
-    "subdivision": null,
+    "subdivision": "Budapest",
     "languages": [],
     "categories": [
       "news"
@@ -2672,10 +2636,10 @@
     "tags": [
       "news"
     ],
-    "homepage": null,
+    "homepage": "https://icast.connectmedia.hu/4736/mr1.mp3",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {

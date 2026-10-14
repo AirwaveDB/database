@@ -5065,7 +5065,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao Radio",
+    "name": "Cacao-Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -5343,6 +5343,44 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:48:53Z"
+  },
+  {
+    "id": "awb_7f734551e4ca025d9846",
+    "name": "canardwc webradio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "funk",
+      "jazz"
+    ],
+    "homepage": "https://cast.sw-servers.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T14:39:53Z"
+  },
+  {
+    "id": "awb_1b6fa003a5f26c053efd",
+    "name": "canardwc webradio (MP3)",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "funk",
+      "jazz"
+    ],
+    "homepage": "https://cast.sw-servers.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T14:47:42Z"
   },
   {
     "id": "awb_796211cce3fe563636fb",
@@ -11235,7 +11273,7 @@
   },
   {
     "id": "awb_31f6b9c5492374858e6a",
-    "name": "FIP",
+    "name": "Fip",
     "country": "FR",
     "subdivision": null,
     "languages": [],
@@ -11246,10 +11284,10 @@
       "classical",
       "misc"
     ],
-    "homepage": null,
-    "favicon": null,
+    "homepage": "http://icecast.radiofrance.fr/fip-hifi.aac",
+    "favicon": "https://icecast.radiofrance.fr/fip-hifi.aac?id=radiofrance%20format:%20aac,%20bitrate:%20192",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 5,
     "updatedAt": "2026-08-26T06:39:35Z"
   },
   {
@@ -11302,20 +11340,6 @@
     "type": "public",
     "sourceCount": 2,
     "updatedAt": "2026-05-11T20:35:24Z"
-  },
-  {
-    "id": "awb_d2181cb74090a72eb7f1",
-    "name": "Fip",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://icecast.radiofrance.fr/fip-hifi.aac",
-    "favicon": "https://icecast.radiofrance.fr/fip-hifi.aac?id=radiofrance%20format:%20aac,%20bitrate:%20192",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-07T05:53:48Z"
   },
   {
     "id": "awb_fd70d74c2b02aac6676a",
@@ -11510,7 +11534,7 @@
   },
   {
     "id": "awb_d24df9c1df3e24fa57cb",
-    "name": "Fip Cultes",
+    "name": "FIP Cultes",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -13523,20 +13547,6 @@
     "name": "FRANCE INFO",
     "country": "FR",
     "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_9457d42c47e4001d088d",
-    "name": "France Info",
-    "country": "FR",
-    "subdivision": null,
     "languages": [
       "fr"
     ],
@@ -13547,7 +13557,7 @@
     "homepage": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T02:15:15Z"
   },
   {
@@ -19386,7 +19396,7 @@
       "radio locale"
     ],
     "homepage": "https://www.ici.fr/radio/breizh-izel",
-    "favicon": "https://www.ici.fr/favicon56.png",
+    "favicon": "https://www.ici.fr/images/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T10:24:25Z"
@@ -21059,7 +21069,7 @@
     "categories": [],
     "tags": [],
     "homepage": "http://www.k6fm.fr/",
-    "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/k6fm/images/favicon.ico",
+    "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/k6fm/images/favicon.x-icon",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-01-15T05:17:36Z"
@@ -21321,6 +21331,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-27T09:53:30Z"
+  },
+  {
+    "id": "awb_0d2a64a73086385cff7e",
+    "name": "L'Eko des garrigues",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "alternative / indie",
+      "electro techno",
+      "electronic music",
+      "experimental electronic music",
+      "experimental techno"
+    ],
+    "homepage": "https://ekodesgarrigues.com/",
+    "favicon": "https://ekodesgarrigues.com/favicon",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-13T15:58:03Z"
   },
   {
     "id": "awb_aefd8da16f1faf844c56",
@@ -33592,7 +33624,7 @@
     "id": "awb_4954e18326dc8c8498d1",
     "name": "OZ Tarkan Radio",
     "country": "FR",
-    "subdivision": "Ile de France",
+    "subdivision": "Île-de-France",
     "languages": [
       "tr"
     ],
@@ -33602,7 +33634,7 @@
       "arabesk fantazi",
       "turkish pop"
     ],
-    "homepage": "https://youtube.com/@oztarkan?si=GalYsZO5l2AhH-U5",
+    "homepage": "https://youtube.com/@oztarkan?si=HoHovorMf_seHqgw",
     "favicon": "https://cdn-profiles.tunein.com/s360777/images/logod.jpg?t=639242961550000000",
     "type": null,
     "sourceCount": 3,
@@ -37521,6 +37553,30 @@
     "type": "college",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:49:38Z"
+  },
+  {
+    "id": "awb_e74b7473605770c58d53",
+    "name": "Radio Entre 2 Mers",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr",
+      "oc"
+    ],
+    "categories": [
+      "rock",
+      "electronic"
+    ],
+    "tags": [
+      "pop rock",
+      "rock",
+      "techno"
+    ],
+    "homepage": "https://remradio.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T00:37:37Z"
   },
   {
     "id": "awb_d8967e1c71838ec5b852",
@@ -41944,6 +42000,47 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_be1451c86d5da07c8951",
+    "name": "Radio Wa3 (راديو وع)",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "ar",
+      "ara",
+      "en",
+      "eng",
+      "fr",
+      "fre"
+    ],
+    "categories": [
+      "jazz",
+      "electronic",
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "arabic",
+      "dabke",
+      "drum and bass",
+      "eclectic",
+      "electronic",
+      "funk",
+      "house",
+      "jazz",
+      "lofi",
+      "mahraganat",
+      "tarab",
+      "techno",
+      "underground",
+      "world music"
+    ],
+    "homepage": "https://wa3.live/",
+    "favicon": "https://wa3.live/wa3-logo-assets/wa3-icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T23:12:31Z"
   },
   {
     "id": "awb_df2039d64d8d300a1562",
@@ -46542,7 +46639,7 @@
       "metal"
     ],
     "homepage": "https://lesonunique.com/mysun/parcourir/sun-metal",
-    "favicon": "https://assets.radioplayer.org/250/2501928/600/600/m6gk7w9y.png",
+    "favicon": "https://assets.radioplayer.org/250/2501923/600/600/mrp1g2m0.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-02T03:21:24Z"

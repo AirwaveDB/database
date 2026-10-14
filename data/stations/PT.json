@@ -4361,29 +4361,10 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_2df431dd4aff63db6025",
-    "name": "Rádio Perlépia",
-    "country": "PT",
-    "subdivision": "Viseu",
-    "languages": [
-      "pt"
-    ],
-    "categories": [],
-    "tags": [
-      "local",
-      "viseu"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T20:10:01Z"
-  },
-  {
     "id": "awb_b50cb907af6bc5319d0e",
     "name": "Rádio Perlépia",
     "country": "PT",
-    "subdivision": null,
+    "subdivision": "Viseu",
     "languages": [
       "pt"
     ],
@@ -4393,13 +4374,15 @@
     ],
     "tags": [
       "children",
-      "pop"
+      "local",
+      "pop",
+      "viseu"
     ],
     "homepage": "https://radio.nitro-server.uk/public/rdioperlpia",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 3,
+    "updatedAt": "2026-09-27T20:10:01Z"
   },
   {
     "id": "awb_c3c800c7c05d2a3f70c3",

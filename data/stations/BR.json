@@ -771,21 +771,7 @@
     "homepage": null,
     "favicon": "https://img.radios.com.br/radio/lg/radio18495_1565281774.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_308addaf932fe16838b9",
-    "name": "98FM BH",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "https://img.radios.com.br/radio/lg/radio18495_1565281774.png",
-    "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-29T07:10:09Z"
   },
   {
@@ -7676,7 +7662,7 @@
     "id": "awb_80547b8fed2434784aae",
     "name": "Melodia IA",
     "country": "BR",
-    "subdivision": "Belo Horizonte",
+    "subdivision": "Minas Gerais Brasil",
     "languages": [
       "en"
     ],
@@ -11167,7 +11153,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC+",
+    "name": "Rádio AMC",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -11182,7 +11168,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
+    "favicon": "https://radioamc.com.br/shared/amclogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -12637,6 +12623,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_442d5a4d88e1024ede80",
+    "name": "Rádio caiçara",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "pop music"
+    ],
+    "homepage": "https://www.radiocaicara.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T17:57:58Z"
+  },
+  {
     "id": "awb_3fc20ca0550416313670",
     "name": "Rádio Cajá Esportes",
     "country": "BR",
@@ -13501,6 +13505,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_c04fd27653cf8b943ce3",
+    "name": "Rádio Cisma Gaudéria",
+    "country": "BR",
+    "subdivision": "Parana",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "gauchesca",
+      "gaudéria",
+      "sertanejo raiz",
+      "tradicionalista"
+    ],
+    "homepage": "https://cismagauderia.site.radio.br/",
+    "favicon": "https://site.radio.br//sites/cismagauderia.site.radio.br/images/icone/user_78936280.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:09:40Z"
   },
   {
     "id": "awb_c9cf7eb62b65b75c5500",
@@ -14963,6 +14986,25 @@
     "updatedAt": "2026-01-15T01:00:36Z"
   },
   {
+    "id": "awb_64804a20467603a1a4a1",
+    "name": "Rádio Fábrica de Gaiteiros",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "gaita",
+      "instrumental",
+      "regional",
+      "tradicionalista"
+    ],
+    "homepage": "https://fabricadegaiteiros.com.br/",
+    "favicon": "https://fabricadegaiteiros.com.br/images/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T00:30:30Z"
+  },
+  {
     "id": "awb_ee8a7216d86e86f4373c",
     "name": "Radio Facopp",
     "country": "BR",
@@ -15318,6 +15360,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:20:38Z"
+  },
+  {
+    "id": "awb_6897b0df347a8592aeba",
+    "name": "Rádio Gaudéria",
+    "country": "BR",
+    "subdivision": "Santa Catarina",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "campeira",
+      "gauchesca",
+      "gaudéria",
+      "palhoça",
+      "sertanejo",
+      "tradicionalista"
+    ],
+    "homepage": "https://radiogauderia.com.br/",
+    "favicon": "https://websitenoar.net/contents/137/icon/xm3ad80e6804ee9d841d357a9a64ae3a54_137_1754798063.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:24:51Z"
   },
   {
     "id": "awb_d66a13b40948bde82e20",
