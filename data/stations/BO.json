@@ -138,7 +138,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "latin"
+    ],
     "tags": [
       "cochabamba",
       "latin music"
@@ -199,9 +201,10 @@
       "es"
     ],
     "categories": [
+      "latin",
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "2000s",
@@ -263,11 +266,11 @@
     "subdivision": "Cochabamba",
     "languages": [],
     "categories": [
-      "pop",
-      "rock",
       "hip-hop",
       "metal",
-      "punk"
+      "pop",
+      "punk",
+      "rock"
     ],
     "tags": [
       "hardcore",
@@ -308,10 +311,11 @@
       "es"
     ],
     "categories": [
-      "sports",
+      "latin",
+      "oldies",
       "pop",
       "rock",
-      "oldies"
+      "sports"
     ],
     "tags": [
       "80s",
@@ -400,7 +404,9 @@
       "es"
     ],
     "categories": [
-      "pop"
+      "news",
+      "pop",
+      "rock"
     ],
     "tags": [
       "93.3 fm",
@@ -577,7 +583,8 @@
       "qu"
     ],
     "categories": [
-      "folk"
+      "folk",
+      "latin"
     ],
     "tags": [
       "baladas en español",
@@ -623,8 +630,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -734,8 +741,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "latino",
@@ -773,8 +780,8 @@
       "es"
     ],
     "categories": [
-      "oldies",
-      "latin"
+      "latin",
+      "oldies"
     ],
     "tags": [
       "90s",
@@ -830,9 +837,10 @@
       "es"
     ],
     "categories": [
+      "latin",
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "2000s",
@@ -981,6 +989,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "oldies",
       "talk"
     ],
     "tags": [
@@ -1080,6 +1089,7 @@
     "subdivision": "Sucre",
     "languages": [],
     "categories": [
+      "news",
       "sports"
     ],
     "tags": [
@@ -1116,8 +1126,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "catholic",
@@ -1214,8 +1224,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "español",
@@ -1269,11 +1279,12 @@
       "es"
     ],
     "categories": [
+      "latin",
       "news",
-      "sports",
+      "oldies",
       "pop",
       "rock",
-      "oldies"
+      "sports"
     ],
     "tags": [
       "80s",
@@ -1353,8 +1364,9 @@
       "qu"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "news",
+      "pop"
     ],
     "tags": [
       "ballads",
@@ -1553,8 +1565,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "rock",
-      "jazz"
+      "jazz",
+      "pop",
+      "rock"
     ],
     "tags": [
       "adult contemporary",

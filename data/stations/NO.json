@@ -107,7 +107,9 @@
     "country": "NO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "hip-hop"
+    ],
     "tags": [
       "lofi",
       "lofi hip hop"
@@ -724,7 +726,9 @@
     "country": "NO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "national"
@@ -835,8 +839,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "local radio",
@@ -1163,7 +1167,9 @@
     "country": "NO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music",
       "pop-music"
@@ -1362,9 +1368,9 @@
       "no"
     ],
     "categories": [
-      "pop",
+      "christmas",
       "oldies",
-      "christmas"
+      "pop"
     ],
     "tags": [
       "80s",
@@ -1388,7 +1394,9 @@
       "en",
       "no"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "contemporary christian music"
     ],
@@ -1407,7 +1415,8 @@
       "no"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -1469,7 +1478,9 @@
     "languages": [
       "no"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "football commentary",
       "local news",
@@ -1611,7 +1622,8 @@
       "es"
     ],
     "categories": [
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "chile",
@@ -1636,8 +1648,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -1776,8 +1788,9 @@
       "no"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "pop",
+      "rock"
     ],
     "tags": [
       "classic rock",
@@ -1803,8 +1816,8 @@
       "no"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "hard rock",
@@ -1894,7 +1907,8 @@
       "no"
     ],
     "categories": [
-      "news"
+      "news",
+      "pop"
     ],
     "tags": [
       "entertainment",
@@ -1963,7 +1977,10 @@
     "languages": [
       "no"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "local",
       "local music",
@@ -2151,9 +2168,9 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "ambient",
       "electronic",
-      "ambient"
+      "jazz"
     ],
     "tags": [
       "24/7",

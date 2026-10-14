@@ -403,7 +403,9 @@
     "country": "AF",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "club dance electronic house trance"
     ],
@@ -840,8 +842,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "classical"
+      "classical",
+      "pop"
     ],
     "tags": [
       "classical",
@@ -1397,7 +1399,9 @@
     "country": "AF",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "talk & speech"
     ],

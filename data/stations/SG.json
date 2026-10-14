@@ -433,7 +433,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music",
       "pop-music"
@@ -892,10 +894,10 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "rock",
       "electronic",
-      "hip-hop"
+      "hip-hop",
+      "pop",
+      "rock"
     ],
     "tags": [
       "bass",

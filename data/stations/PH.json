@@ -39,7 +39,9 @@
     "country": "PH",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "opm hits"
     ],
@@ -70,8 +72,8 @@
     "subdivision": "Manila",
     "languages": [],
     "categories": [
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "opm",
@@ -113,8 +115,8 @@
     "languages": [],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "adult",
@@ -697,7 +699,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "retro"
@@ -731,7 +735,9 @@
       "en",
       "tl"
     ],
-    "categories": [],
+    "categories": [
+      "country"
+    ],
     "tags": [
       "alternative country",
       "redbullet28",
@@ -1147,7 +1153,8 @@
       "en"
     ],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -1427,7 +1434,9 @@
       "en"
     ],
     "categories": [
-      "jazz"
+      "classical",
+      "jazz",
+      "religious"
     ],
     "tags": [
       "broadway",
@@ -1467,14 +1476,14 @@
     "id": "awb_5989de5122b255078072",
     "name": "99.5 DZYW koolFM",
     "country": "PH",
-    "subdivision": "Metro Manila",
+    "subdivision": "Quezon City",
     "languages": [
       "en"
     ],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "adult contemporary",
@@ -2220,8 +2229,8 @@
     "subdivision": "Manila",
     "languages": [],
     "categories": [
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "opm",
@@ -3515,7 +3524,9 @@
     "country": "PH",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music",
       "internet radio"
@@ -3725,9 +3736,9 @@
       "en"
     ],
     "categories": [
+      "jazz",
       "pop",
-      "rock",
-      "jazz"
+      "rock"
     ],
     "tags": [
       "classics",
@@ -4683,7 +4694,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "catholic radio"
     ],
@@ -4730,8 +4743,8 @@
       "en"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "disco",
@@ -5233,8 +5246,8 @@
     "subdivision": "Manila",
     "languages": [],
     "categories": [
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "opm",
@@ -5303,8 +5316,11 @@
       "en"
     ],
     "categories": [
+      "kids",
+      "news",
       "pop",
-      "kids"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian-gospel",
@@ -7352,7 +7368,9 @@
     "country": "PH",
     "subdivision": "Quezon City",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "chr",
       "entertainment",
@@ -7443,7 +7461,9 @@
     "country": "PH",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "internet radio",
       "opm hits"
@@ -7606,8 +7626,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "christmas"
+      "christmas",
+      "pop"
     ],
     "tags": [
       "christmas",
@@ -7789,6 +7809,7 @@
       "tl"
     ],
     "categories": [
+      "country",
       "pop"
     ],
     "tags": [
@@ -8033,8 +8054,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "catholic",
@@ -9948,7 +9969,9 @@
     "country": "PH",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news"
     ],
@@ -10144,8 +10167,8 @@
     "subdivision": "San Jose",
     "languages": [],
     "categories": [
-      "rock",
-      "punk"
+      "punk",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -10251,7 +10274,9 @@
     "country": "PH",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "adult contemporary",
       "catholic radio"
@@ -10681,7 +10706,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "chr",
       "local news",
@@ -10701,7 +10728,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "chr",
       "local news"
@@ -10796,7 +10825,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -10814,7 +10845,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -10860,7 +10893,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits",
       "opm"
@@ -10881,9 +10916,9 @@
       "ko"
     ],
     "categories": [
-      "pop",
+      "anime",
       "hip-hop",
-      "anime"
+      "pop"
     ],
     "tags": [
       "hiphop",
@@ -11128,7 +11163,9 @@
     "country": "PH",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "contemporary hits"
     ],

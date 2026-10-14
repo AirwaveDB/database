@@ -300,6 +300,7 @@
     "subdivision": "Bangkok",
     "languages": [],
     "categories": [
+      "electronic",
       "rock"
     ],
     "tags": [
@@ -358,7 +359,8 @@
     "subdivision": "Chiang Mai",
     "languages": [],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "1980s",
@@ -471,7 +473,8 @@
     ],
     "categories": [
       "electronic",
-      "folk"
+      "folk",
+      "news"
     ],
     "tags": [
       "electronic",
@@ -740,7 +743,9 @@
     "country": "TH",
     "subdivision": "Si Sa Ket",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "música pop",
       "สตริง",
@@ -762,8 +767,8 @@
       "th"
     ],
     "categories": [
-      "news",
-      "country"
+      "country",
+      "news"
     ],
     "tags": [
       "blind radio",
@@ -785,8 +790,8 @@
       "th"
     ],
     "categories": [
-      "news",
-      "country"
+      "country",
+      "news"
     ],
     "tags": [
       "blind radio",
@@ -808,8 +813,8 @@
       "th"
     ],
     "categories": [
-      "news",
-      "country"
+      "country",
+      "news"
     ],
     "tags": [
       "blind radio",
@@ -1092,8 +1097,8 @@
       "th"
     ],
     "categories": [
-      "pop",
-      "ambient"
+      "ambient",
+      "pop"
     ],
     "tags": [
       "afro-pop",
@@ -1138,8 +1143,9 @@
       "en"
     ],
     "categories": [
-      "jazz",
-      "ambient"
+      "ambient",
+      "electronic",
+      "jazz"
     ],
     "tags": [
       "chillout",
@@ -1165,7 +1171,9 @@
       "en",
       "th"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "international hits",
       "international music"
@@ -1244,7 +1252,8 @@
       "th"
     ],
     "categories": [
-      "jazz"
+      "jazz",
+      "pop"
     ],
     "tags": [
       "1980's",
@@ -1283,7 +1292,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "pop",
@@ -1493,8 +1503,8 @@
       "th"
     ],
     "categories": [
-      "pop",
-      "country"
+      "country",
+      "pop"
     ],
     "tags": [
       "country",
@@ -1538,7 +1548,8 @@
       "th"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "news",
@@ -1763,8 +1774,8 @@
       "th"
     ],
     "categories": [
-      "news",
-      "country"
+      "country",
+      "news"
     ],
     "tags": [
       "country",

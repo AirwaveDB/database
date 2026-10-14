@@ -47,7 +47,9 @@
     "country": "TT",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music",
       "pop-music"
@@ -184,8 +186,8 @@
     "subdivision": "Port of Spain",
     "languages": [],
     "categories": [
-      "religious",
-      "reggae"
+      "reggae",
+      "religious"
     ],
     "tags": [
       "adult-contemporary",
@@ -236,8 +238,9 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "pop"
+      "news",
+      "pop",
+      "talk"
     ],
     "tags": [
       "caribbean music",
@@ -406,7 +409,11 @@
     "country": "TT",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
     "tags": [
       "music",
       "rock pop trinidad 80s 70s 90s"
@@ -434,6 +441,8 @@
       "ru"
     ],
     "categories": [
+      "oldies",
+      "pop",
       "rock"
     ],
     "tags": [

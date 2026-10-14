@@ -87,8 +87,8 @@
       "fi"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "dance",
@@ -202,8 +202,8 @@
       "fi"
     ],
     "categories": [
-      "jazz",
-      "blues"
+      "blues",
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -394,8 +394,8 @@
       "fi"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "chillout",
@@ -492,9 +492,9 @@
       "fi"
     ],
     "categories": [
-      "talk",
       "community",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -652,8 +652,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "chill",
@@ -1338,9 +1338,9 @@
     ],
     "categories": [
       "news",
-      "sports",
       "pop",
-      "rock"
+      "rock",
+      "sports"
     ],
     "tags": [
       "news",
@@ -1364,8 +1364,8 @@
       "fi"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "finland rock fm 90 92.2 100.4 100.9 supla.fi/radiorock asenn",
@@ -1419,7 +1419,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music",
       "helsinki",
@@ -1570,12 +1572,13 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "rock",
-      "jazz",
+      "blues",
       "classical",
       "country",
-      "blues"
+      "jazz",
+      "latin",
+      "pop",
+      "rock"
     ],
     "tags": [
       "americana",
@@ -1666,8 +1669,8 @@
       "fi"
     ],
     "categories": [
-      "rock",
-      "country"
+      "country",
+      "rock"
     ],
     "tags": [
       "alternative rock",
@@ -2212,7 +2215,9 @@
     "country": "FI",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "talk & speech"
     ],
@@ -2429,9 +2434,9 @@
       "fi"
     ],
     "categories": [
+      "hip-hop",
       "pop",
-      "rock",
-      "hip-hop"
+      "rock"
     ],
     "tags": [
       "pop",
@@ -2453,8 +2458,8 @@
       "fi"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "90s",

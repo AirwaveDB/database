@@ -39,7 +39,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop & samba - antigas"
     ],
@@ -205,7 +207,9 @@
     "country": "BR",
     "subdivision": "Joinville - SC",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "gospel music"
     ],
@@ -354,6 +358,7 @@
       "pt"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -604,7 +609,8 @@
     "subdivision": "Minas Gerais",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "hits",
@@ -713,6 +719,7 @@
       "pt"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -885,7 +892,9 @@
     "country": "BR",
     "subdivision": "Alagoas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "católica",
       "gospel music"
@@ -955,7 +964,9 @@
     "country": "BR",
     "subdivision": "Alagoas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "jornalismo(all news)"
     ],
@@ -1188,7 +1199,9 @@
     "country": "BR",
     "subdivision": "Santa Catarina",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "christian-gospel"
     ],
@@ -1269,7 +1282,9 @@
     "country": "BR",
     "subdivision": "Minas Gerais",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "soft adult contemporary",
       "soft rock"
@@ -1307,7 +1322,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult contemporary",
       "adult hits",
@@ -1329,8 +1346,8 @@
       "pt"
     ],
     "categories": [
-      "pop",
-      "jazz"
+      "jazz",
+      "pop"
     ],
     "tags": [
       "adult contemporary",
@@ -1354,8 +1371,8 @@
       "pt"
     ],
     "categories": [
-      "pop",
-      "jazz"
+      "jazz",
+      "pop"
     ],
     "tags": [
       "adult contemporary",
@@ -1512,7 +1529,9 @@
     "country": "BR",
     "subdivision": "Fortaleza, Ceará",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult contemporary",
       "contemporary hits",
@@ -1761,8 +1780,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "news",
@@ -1797,7 +1816,8 @@
     "subdivision": "State of São Paulo",
     "languages": [],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "news",
@@ -1952,9 +1972,9 @@
     "subdivision": "São Paulo",
     "languages": [],
     "categories": [
+      "electronic",
       "pop",
-      "rock",
-      "electronic"
+      "rock"
     ],
     "tags": [
       "dance",
@@ -2064,9 +2084,9 @@
     "subdivision": "Minas Gerais",
     "languages": [],
     "categories": [
-      "rock",
+      "metal",
       "oldies",
-      "metal"
+      "rock"
     ],
     "tags": [
       "classic rock",
@@ -2408,7 +2428,9 @@
     "country": "BR",
     "subdivision": "Alagoas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "esportes",
       "jornalismo(all news)",
@@ -2503,7 +2525,8 @@
     "languages": [],
     "categories": [
       "news",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "live sports",
@@ -2620,7 +2643,8 @@
     "subdivision": "BA",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "religious"
     ],
     "tags": [
       "christian-gospel",
@@ -3009,6 +3033,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -3028,7 +3053,9 @@
     "country": "BR",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music"
     ],
@@ -3045,13 +3072,13 @@
     "subdivision": "Sao Paulo (Brazil)",
     "languages": [],
     "categories": [
-      "pop",
-      "rock",
-      "jazz",
+      "ambient",
       "electronic",
       "folk",
+      "jazz",
       "oldies",
-      "ambient"
+      "pop",
+      "rock"
     ],
     "tags": [
       "80s",
@@ -3367,7 +3394,10 @@
     "country": "BR",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "latin",
+      "pop"
+    ],
     "tags": [
       "latin pop"
     ],
@@ -3385,7 +3415,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "gospel evangélica"
     ],
@@ -3545,8 +3577,8 @@
       "pt"
     ],
     "categories": [
-      "jazz",
-      "blues"
+      "blues",
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -3565,7 +3597,9 @@
     "country": "BR",
     "subdivision": "Rio Grande do Sul",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "rock em geral"
     ],
@@ -3624,6 +3658,7 @@
     "subdivision": "São Paulo",
     "languages": [],
     "categories": [
+      "blues",
       "rock"
     ],
     "tags": [
@@ -3735,7 +3770,8 @@
       "pt"
     ],
     "categories": [
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "pop",
@@ -3806,7 +3842,9 @@
     "country": "BR",
     "subdivision": "Minas Gerais",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult contemporary",
       "classic hits"
@@ -3825,7 +3863,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult contemporary",
       "classic hits"
@@ -3902,7 +3942,9 @@
       "en",
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "'synthpop'",
       "breaks",
@@ -4326,9 +4368,9 @@
     "subdivision": "Rio Grande do Sul",
     "languages": [],
     "categories": [
+      "jazz",
       "public",
-      "rock",
-      "jazz"
+      "rock"
     ],
     "tags": [
       "jazz",
@@ -4447,7 +4489,9 @@
     "country": "BR",
     "subdivision": "São Paulo",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "música pop",
       "sertanejo"
@@ -4556,7 +4600,9 @@
     "country": "BR",
     "subdivision": "Santa Catarina, SC",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "music",
@@ -4850,7 +4896,9 @@
     "country": "BR",
     "subdivision": "Bahia",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult contemporary",
       "adult-contemporary",
@@ -4988,7 +5036,9 @@
     "country": "BR",
     "subdivision": "SC",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "1980's hits",
       "1980s",
@@ -5094,7 +5144,8 @@
       "pt"
     ],
     "categories": [
-      "ambient"
+      "ambient",
+      "jazz"
     ],
     "tags": [
       "ambient lounge",
@@ -5226,7 +5277,9 @@
     "country": "BR",
     "subdivision": "Brasília",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adulta",
       "classic hits 80's 90's",
@@ -5365,8 +5418,9 @@
     "subdivision": "Paraná(Brazil)",
     "languages": [],
     "categories": [
-      "sports",
-      "pop"
+      "news",
+      "pop",
+      "sports"
     ],
     "tags": [
       "local news",
@@ -5402,8 +5456,8 @@
     "subdivision": "Rio Grande do Sul",
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -5554,9 +5608,9 @@
     "subdivision": "Rio Grande do Sul",
     "languages": [],
     "categories": [
-      "rock",
+      "blues",
       "jazz",
-      "blues"
+      "rock"
     ],
     "tags": [
       "blues",
@@ -5672,7 +5726,9 @@
     "country": "BR",
     "subdivision": "Santa Catarina, SC",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "journalism",
       "local music",
@@ -5777,7 +5833,10 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop rock",
       "popular"
@@ -5827,7 +5886,10 @@
     "country": "BR",
     "subdivision": "Bahia",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "jovem",
       "pop rock"
@@ -5844,7 +5906,10 @@
     "country": "BR",
     "subdivision": "Parana",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "jovem",
       "pop rock"
@@ -5861,7 +5926,10 @@
     "country": "BR",
     "subdivision": "Pernambuco",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "jovem",
       "pop rock"
@@ -5878,7 +5946,10 @@
     "country": "BR",
     "subdivision": "Manaus",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "jovem",
       "pop rock"
@@ -5915,7 +5986,8 @@
     "subdivision": "Pará",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "jovem",
@@ -5934,7 +6006,10 @@
     "country": "BR",
     "subdivision": "Bahia",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "jovem",
       "pop rock"
@@ -5952,7 +6027,8 @@
     "subdivision": "Pernambuco",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "jovem",
@@ -6088,7 +6164,9 @@
     "subdivision": "Santa Catarina",
     "languages": [],
     "categories": [
-      "pop"
+      "electronic",
+      "pop",
+      "rock"
     ],
     "tags": [
       "brazilian pop",
@@ -6116,7 +6194,8 @@
     "subdivision": "Distrito Federal",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "contemporary hits radio",
@@ -6141,7 +6220,9 @@
     "subdivision": "Santa Catarina",
     "languages": [],
     "categories": [
-      "pop"
+      "electronic",
+      "pop",
+      "rock"
     ],
     "tags": [
       "chr",
@@ -6169,7 +6250,8 @@
     "subdivision": "Minas Gerais",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "contemporary hits radio",
@@ -6194,7 +6276,9 @@
     "subdivision": "Rio Grande do Sul",
     "languages": [],
     "categories": [
-      "electronic"
+      "electronic",
+      "pop",
+      "rock"
     ],
     "tags": [
       "electronic",
@@ -6215,8 +6299,8 @@
       "pt"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -6237,7 +6321,8 @@
     "subdivision": "Bahia",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "contemporary hits radio",
@@ -6281,7 +6366,8 @@
     "subdivision": "Espírito Santo",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "contemporary hits radio",
@@ -6323,7 +6409,10 @@
     "country": "BR",
     "subdivision": "Parana",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "jovem",
       "pop rock"
@@ -6419,7 +6508,9 @@
     "country": "BR",
     "subdivision": "Alagoas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "jornalismo(all news)"
     ],
@@ -6474,8 +6565,8 @@
     "languages": [],
     "categories": [
       "news",
-      "rock",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "2000s",
@@ -6660,7 +6751,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -6757,8 +6850,9 @@
     "subdivision": "Rio Grande do Sul",
     "languages": [],
     "categories": [
+      "blues",
       "folk",
-      "blues"
+      "rock"
     ],
     "tags": [
       "blues",
@@ -6826,7 +6920,9 @@
     "country": "BR",
     "subdivision": "Alagoas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "gospel music"
     ],
@@ -6878,7 +6974,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -6930,7 +7028,9 @@
     "country": "BR",
     "subdivision": "Minas Gerais",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "christian-gospel"
     ],
@@ -7113,7 +7213,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "contemporary music",
       "forró",
@@ -7132,7 +7234,9 @@
     "country": "BR",
     "subdivision": "Aracajú",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music"
     ],
@@ -7162,7 +7266,9 @@
     "country": "BR",
     "subdivision": "Amazonas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "amazon music.",
       "pop music"
@@ -7183,6 +7289,7 @@
       "es"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -7204,7 +7311,9 @@
       "en",
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music"
     ],
@@ -7242,9 +7351,9 @@
       "pt"
     ],
     "categories": [
-      "pop",
+      "electronic",
       "jazz",
-      "electronic"
+      "pop"
     ],
     "tags": [
       "edm",
@@ -7267,9 +7376,9 @@
       "pt"
     ],
     "categories": [
+      "jazz",
       "pop",
-      "rock",
-      "jazz"
+      "rock"
     ],
     "tags": [
       "jazz",
@@ -7330,7 +7439,11 @@
       "en",
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "blues",
+      "pop",
+      "rock"
+    ],
     "tags": [
       "electric blues",
       "pop rock"
@@ -7351,6 +7464,7 @@
       "pt"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -7374,6 +7488,7 @@
       "pt"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -7396,8 +7511,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "jazz"
+      "jazz",
+      "pop"
     ],
     "tags": [
       "forro",
@@ -7450,7 +7565,10 @@
     "country": "BR",
     "subdivision": "PR",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop music",
       "pop rock",
@@ -7662,7 +7780,7 @@
     "id": "awb_80547b8fed2434784aae",
     "name": "Melodia IA",
     "country": "BR",
-    "subdivision": "Minas Gerais Brasil",
+    "subdivision": "Belo Horizonte",
     "languages": [
       "en"
     ],
@@ -7744,8 +7862,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "hard rock",
@@ -7809,7 +7927,10 @@
     "country": "BR",
     "subdivision": "Alagoas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop rock popular",
       "sertaneja"
@@ -7979,7 +8100,9 @@
     "country": "BR",
     "subdivision": "Brasil",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "dance hits"
     ],
@@ -8154,7 +8277,10 @@
     "country": "BR",
     "subdivision": "Rio Grande do Sul",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "jovem",
       "pop-rock"
@@ -8171,7 +8297,10 @@
     "country": "BR",
     "subdivision": "Alagoas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "jovem",
       "pop rock"
@@ -8189,7 +8318,8 @@
     "subdivision": "São Paulo",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "jovem",
@@ -8325,8 +8455,9 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "oldies",
+      "rock"
     ],
     "tags": [
       "80s rock",
@@ -8436,9 +8567,9 @@
       "pt"
     ],
     "categories": [
+      "blues",
       "pop",
-      "rock",
-      "blues"
+      "rock"
     ],
     "tags": [
       "blues",
@@ -8747,7 +8878,8 @@
     "subdivision": "Bahia",
     "languages": [],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -8775,7 +8907,9 @@
     "country": "BR",
     "subdivision": "São Paulo",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "ecletica",
       "flash-back",
@@ -9046,7 +9180,9 @@
     "country": "BR",
     "subdivision": "Alagoas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult contemporary",
       "contemporary hits",
@@ -9080,7 +9216,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "aracaju",
       "brazilian pop",
@@ -9100,7 +9238,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "brasilia",
       "brazilian music",
@@ -9265,7 +9405,9 @@
     "subdivision": "São Paulo",
     "languages": [],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "music",
@@ -9301,7 +9443,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "brasil",
       "brasileira",
@@ -9364,8 +9508,8 @@
       "pt"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "deftones",
@@ -9448,7 +9592,8 @@
     "subdivision": "Parana",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "brasil",
@@ -9663,7 +9808,9 @@
     "country": "BR",
     "subdivision": "Bahia",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "axé",
       "local music",
@@ -9842,6 +9989,9 @@
       "pt"
     ],
     "categories": [
+      "news",
+      "pop",
+      "reggae",
       "religious"
     ],
     "tags": [
@@ -9976,7 +10126,9 @@
     "country": "BR",
     "subdivision": "Minas Gerais",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -10024,7 +10176,9 @@
     "country": "BR",
     "subdivision": "São Paulo",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "progressive rock"
     ],
@@ -10054,7 +10208,9 @@
     "country": "BR",
     "subdivision": "Rio de Janeiro",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "progressive rock"
     ],
@@ -10183,8 +10339,8 @@
       "pt"
     ],
     "categories": [
-      "rock",
-      "ambient"
+      "ambient",
+      "rock"
     ],
     "tags": [
       "chillout",
@@ -10338,7 +10494,10 @@
     "country": "BR",
     "subdivision": "Rio Grande do Norte",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "mpb",
       "pop music",
@@ -10392,7 +10551,9 @@
     "country": "BR",
     "subdivision": "Rondonópolis",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "flashback",
       "música pop",
@@ -10427,11 +10588,11 @@
       "pt"
     ],
     "categories": [
-      "pop",
-      "rock",
       "electronic",
+      "latin",
       "oldies",
-      "latin"
+      "pop",
+      "rock"
     ],
     "tags": [
       "80s",
@@ -10495,7 +10656,10 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
     "tags": [
       "classic hits 80s"
     ],
@@ -10514,7 +10678,8 @@
       "pt"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -10644,8 +10809,8 @@
     "languages": [],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "entertainment",
@@ -10681,7 +10846,10 @@
     "country": "BR",
     "subdivision": "Goias",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "música pop",
       "pop rock",
@@ -11305,7 +11473,9 @@
     "country": "BR",
     "subdivision": "São Paulo",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "rock nacional"
     ],
@@ -11381,7 +11551,9 @@
     "country": "BR",
     "subdivision": "Mato Grosso",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "entertainment",
       "local news",
@@ -11461,7 +11633,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "hip-hop"
+    ],
     "tags": [
       "adult",
       "classic hip hop",
@@ -11532,7 +11706,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "católica",
       "christian music",
@@ -11722,7 +11898,10 @@
     "country": "BR",
     "subdivision": "Rio Grande do Sul",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "jovem",
       "jungle",
@@ -11775,7 +11954,10 @@
     "country": "BR",
     "subdivision": "Santa Catarina",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop rock",
       "pop-rock"
@@ -11869,7 +12051,9 @@
     "country": "BR",
     "subdivision": "São Paulo",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news"
     ],
@@ -12358,7 +12542,9 @@
     "country": "BR",
     "subdivision": "SAO PAULO",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "popo rock"
     ],
@@ -12432,7 +12618,9 @@
       "pt"
     ],
     "categories": [
-      "religious"
+      "pop",
+      "religious",
+      "rock"
     ],
     "tags": [
       "brasil",
@@ -12541,7 +12729,9 @@
     "country": "BR",
     "subdivision": "Pernambuco",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop dance"
     ],
@@ -12630,7 +12820,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music"
     ],
@@ -12688,7 +12880,10 @@
     "country": "BR",
     "subdivision": "Distrito Federal",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "adulta",
       "mpb",
@@ -12721,8 +12916,8 @@
     "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [
-      "rock",
-      "country"
+      "country",
+      "rock"
     ],
     "tags": [
       "brazillian music",
@@ -12777,7 +12972,9 @@
     "country": "BR",
     "subdivision": "PR",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music",
       "sertanejo",
@@ -12845,7 +13042,9 @@
     "country": "BR",
     "subdivision": "Rio de Janeiro",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "catholic radio",
       "católica"
@@ -13017,7 +13216,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "easy listening",
       "local news"
@@ -13034,7 +13235,9 @@
     "country": "BR",
     "subdivision": "Mato Grosso",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "entertainment",
       "local news",
@@ -13320,7 +13523,10 @@
     "country": "BR",
     "subdivision": "Rio",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop"
+    ],
     "tags": [
       "local news",
       "mpb",
@@ -13625,7 +13831,9 @@
     "country": "BR",
     "subdivision": "PA",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "música y noticias"
     ],
@@ -13667,7 +13875,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "hits sertanejo pagode"
     ],
@@ -13797,6 +14007,25 @@
     "updatedAt": "2026-05-12T07:36:36Z"
   },
   {
+    "id": "awb_5a67593fbef64eacd75a",
+    "name": "Radio Comunitaria Serrana FM",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "campeira",
+      "gauchesca",
+      "gauderia",
+      "tradicionalista"
+    ],
+    "homepage": "https://www.radioserranafm106-3.com/",
+    "favicon": "https://platform-upload.cdn-brlogic.com/247197/favicon/43989fda08315584fe1b09619c8f630a.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:51:29Z"
+  },
+  {
     "id": "awb_8f20b6bc22a9405923d4",
     "name": "Rádio Condá",
     "country": "BR",
@@ -13872,7 +14101,11 @@
     "country": "BR",
     "subdivision": "SP",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "country",
+      "pop",
+      "religious"
+    ],
     "tags": [
       "christian-gospel",
       "gospel contemporary",
@@ -14195,8 +14428,8 @@
     ],
     "categories": [
       "news",
-      "sports",
-      "pop"
+      "pop",
+      "sports"
     ],
     "tags": [
       "caipira",
@@ -14221,7 +14454,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "brega",
       "esportes",
@@ -14355,7 +14590,10 @@
     "country": "BR",
     "subdivision": "Sao Paulo (Brazil)",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "jovem",
       "pop rock",
@@ -14459,8 +14697,8 @@
     "subdivision": "sa",
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "1980s",
@@ -14502,7 +14740,8 @@
       "pt"
     ],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "dance",
@@ -14812,7 +15051,10 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop-rock"
     ],
@@ -15240,7 +15482,9 @@
     "country": "BR",
     "subdivision": "Rio de Janeiro",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "brazilian pop",
       "dance"
@@ -15314,7 +15558,10 @@
     "country": "BR",
     "subdivision": "Rio Grande do Sul",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "sports"
+    ],
     "tags": [
       "live sports",
       "local news",
@@ -15496,7 +15743,9 @@
     "country": "BR",
     "subdivision": "Ceará",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "ambient"
+    ],
     "tags": [
       "smooth lounge"
     ],
@@ -15607,8 +15856,8 @@
     ],
     "categories": [
       "pop",
-      "rock",
-      "religious"
+      "religious",
+      "rock"
     ],
     "tags": [
       "christian",
@@ -15705,7 +15954,9 @@
     "country": "BR",
     "subdivision": "Piauí",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "brega",
       "forró",
@@ -15726,7 +15977,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "brazilian music",
       "brazilian pop",
@@ -15780,7 +16033,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "esportes",
       "futebol",
@@ -16000,6 +16255,7 @@
     "subdivision": "Rio Grande do Sul",
     "languages": [],
     "categories": [
+      "news",
       "rock"
     ],
     "tags": [
@@ -16135,7 +16391,9 @@
     "country": "BR",
     "subdivision": "MG",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "esportes",
       "futebol",
@@ -16250,7 +16508,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "folk"
+      "folk",
+      "pop"
     ],
     "tags": [
       "brazilian music",
@@ -16390,7 +16649,8 @@
     "subdivision": "PR",
     "languages": [],
     "categories": [
-      "jazz"
+      "jazz",
+      "pop"
     ],
     "tags": [
       "jazz",
@@ -16631,7 +16891,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "flashback",
       "futebol",
@@ -16666,7 +16928,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "jornalismo(all news)"
     ],
@@ -16744,7 +17008,10 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop rock",
       "young"
@@ -16763,7 +17030,10 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop rock"
     ],
@@ -16780,9 +17050,9 @@
     "subdivision": "Minas Gerais",
     "languages": [],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "90s",
@@ -16802,7 +17072,8 @@
     "subdivision": "Distrito Federal",
     "languages": [],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "jornalismo",
@@ -16823,7 +17094,8 @@
     "subdivision": "São Paulo",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "adult",
@@ -16876,8 +17148,8 @@
       "pt"
     ],
     "categories": [
-      "rock",
-      "blues"
+      "blues",
+      "rock"
     ],
     "tags": [
       "alternative rock",
@@ -17068,6 +17340,7 @@
     "subdivision": "Fortaleza",
     "languages": [],
     "categories": [
+      "news",
       "pop"
     ],
     "tags": [
@@ -17407,8 +17680,8 @@
       "pt"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "catholic",
@@ -17576,8 +17849,8 @@
       "pt"
     ],
     "categories": [
-      "public",
-      "jazz"
+      "jazz",
+      "public"
     ],
     "tags": [
       "instrumental",
@@ -17767,8 +18040,8 @@
     "languages": [],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "news",
@@ -17952,7 +18225,10 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "chr",
       "pop-rock",
@@ -18006,7 +18282,8 @@
       "pt"
     ],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "pop",
@@ -18121,7 +18398,8 @@
     "subdivision": "PR",
     "languages": [],
     "categories": [
-      "jazz"
+      "jazz",
+      "pop"
     ],
     "tags": [
       "jazz",
@@ -18142,7 +18420,10 @@
     "country": "BR",
     "subdivision": "São Paulo",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "flashback",
       "pop-rock"
@@ -18182,7 +18463,9 @@
     "country": "BR",
     "subdivision": "Joinville - SC",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "gospel evangélica"
     ],
@@ -18250,8 +18533,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "brazilian",
@@ -18278,8 +18561,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "brazilian",
@@ -18304,8 +18587,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "brazilian",
@@ -18369,8 +18652,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "brazilian",
@@ -18393,8 +18676,8 @@
     "languages": [],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "brazilian",
@@ -18419,8 +18702,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "brazilian",
@@ -18674,8 +18957,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "jazz",
-      "classical"
+      "classical",
+      "jazz"
     ],
     "tags": [
       "classic",
@@ -18792,8 +19075,8 @@
       "pt"
     ],
     "categories": [
-      "rock",
-      "latin"
+      "latin",
+      "rock"
     ],
     "tags": [
       "brazilian",
@@ -18947,7 +19230,9 @@
     "country": "BR",
     "subdivision": "RS",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news"
     ],
@@ -19132,7 +19417,9 @@
     "country": "BR",
     "subdivision": "Minas Gerais",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "música pop"
     ],
@@ -19260,7 +19547,9 @@
     "country": "BR",
     "subdivision": "São Paulo (SP)",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news"
     ],
@@ -19387,7 +19676,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "sertanejo"
@@ -19473,8 +19764,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "news",
-      "community"
+      "community",
+      "news"
     ],
     "tags": [
       "community radio",
@@ -19881,7 +20172,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -19930,8 +20222,8 @@
     "subdivision": "São Paulo",
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70 80 hits",
@@ -19955,8 +20247,8 @@
       "pt"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "alternative rock",
@@ -20015,6 +20307,7 @@
     "subdivision": "Minas Gerais",
     "languages": [],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -20082,7 +20375,10 @@
     "country": "BR",
     "subdivision": "Rio Grande do Norte",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop"
+    ],
     "tags": [
       "local news",
       "mpb",
@@ -20152,8 +20448,8 @@
     "subdivision": "São Paulo",
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70 80 hits",
@@ -20251,7 +20547,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult",
       "classic hits",
@@ -20798,9 +21096,9 @@
     "subdivision": "Minas Gerais",
     "languages": [],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "00's",
@@ -21183,9 +21481,9 @@
       "pt"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "1960s",
@@ -21223,7 +21521,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "debates e entrevistas",
       "esportes",
@@ -21345,7 +21645,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult",
       "música pop",
@@ -21367,7 +21669,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "brazilian pop"
     ],
@@ -21384,9 +21688,10 @@
     "subdivision": "São Paulo",
     "languages": [],
     "categories": [
+      "ambient",
       "electronic",
-      "reggae",
-      "ambient"
+      "oldies",
+      "reggae"
     ],
     "tags": [
       "2000´s vibe",
@@ -21665,7 +21970,8 @@
     ],
     "categories": [
       "college",
-      "rock"
+      "rock",
+      "talk"
     ],
     "tags": [
       "brazilian music",
@@ -21780,6 +22086,7 @@
     "languages": [],
     "categories": [
       "news",
+      "pop",
       "rock"
     ],
     "tags": [
@@ -22091,7 +22398,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "debates e entrevistas",
       "jornalismo(all news)",
@@ -22123,7 +22432,9 @@
     "country": "BR",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "gospel evangélica"
     ],
@@ -22139,7 +22450,9 @@
     "country": "BR",
     "subdivision": "PR",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "christian-gospel"
     ],
@@ -22476,7 +22789,9 @@
     "country": "BR",
     "subdivision": "Sergipe",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music"
     ],
@@ -22493,8 +22808,8 @@
     "subdivision": "Rio Grande do Sul",
     "languages": [],
     "categories": [
-      "rock",
-      "reggae"
+      "reggae",
+      "rock"
     ],
     "tags": [
       "reggae",
@@ -22512,7 +22827,9 @@
     "country": "BR",
     "subdivision": "bahia",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "country"
+    ],
     "tags": [
       "\"today's best country\""
     ],
@@ -22548,7 +22865,9 @@
       "pt"
     ],
     "categories": [
-      "metal"
+      "blues",
+      "metal",
+      "rock"
     ],
     "tags": [
       "blues rock",
@@ -22669,7 +22988,9 @@
     "subdivision": "Minas Gerais",
     "languages": [],
     "categories": [
-      "pop"
+      "electronic",
+      "pop",
+      "rock"
     ],
     "tags": [
       "contemporary hits radio",
@@ -22694,7 +23015,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "rock"
+      "country",
+      "news",
+      "pop",
+      "rock",
+      "sports"
     ],
     "tags": [
       "classic rock",
@@ -22716,8 +23041,8 @@
     "subdivision": "CE",
     "languages": [],
     "categories": [
-      "jazz",
-      "electronic"
+      "electronic",
+      "jazz"
     ],
     "tags": [
       "choro",
@@ -22825,7 +23150,9 @@
     "country": "BR",
     "subdivision": "Alagoas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "gospel music"
     ],
@@ -22899,7 +23226,10 @@
     "country": "BR",
     "subdivision": "Goias",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "religious"
+    ],
     "tags": [
       "gospel pop"
     ],
@@ -22915,7 +23245,11 @@
     "country": "BR",
     "subdivision": "Bahia",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop",
+      "rock"
+    ],
     "tags": [
       "brasil",
       "local news",
@@ -22938,7 +23272,10 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "religious"
+    ],
     "tags": [
       "gospel dance",
       "gospel pop"
@@ -22972,7 +23309,10 @@
       "en",
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "adult",
       "adult contemporary",
@@ -23022,8 +23362,8 @@
     "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [
-      "rock",
-      "blues"
+      "blues",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -23434,6 +23774,7 @@
       "en"
     ],
     "categories": [
+      "ambient",
       "jazz"
     ],
     "tags": [
@@ -23504,7 +23845,9 @@
     "country": "BR",
     "subdivision": "Sao Paulo (Brazil)",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "flashback",
       "pop music"
@@ -23560,8 +23903,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -23587,7 +23930,10 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "adulta",
       "pop-rock"
@@ -23655,7 +24001,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "eletronic",
       "flashback",
@@ -23848,7 +24196,10 @@
     "country": "BR",
     "subdivision": "Rio de Janeiro",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "local news",
       "news talk",
@@ -24016,7 +24367,9 @@
     "country": "BR",
     "subdivision": "Sao Paulo (Brazil)",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "music"
@@ -24170,7 +24523,9 @@
     "country": "BR",
     "subdivision": "Amazonas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "jornalismo",
       "local music",
@@ -24242,7 +24597,9 @@
     "country": "BR",
     "subdivision": "São Paulo (SP)",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music",
       "sertanejo"
@@ -24475,8 +24832,9 @@
     "subdivision": "Santa Catarina",
     "languages": [],
     "categories": [
-      "talk",
-      "classical"
+      "classical",
+      "news",
+      "talk"
     ],
     "tags": [
       "classical",
@@ -24562,7 +24920,11 @@
     "country": "BR",
     "subdivision": "Distrito Federal",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "reggae",
+      "religious"
+    ],
     "tags": [
       "gospel dance",
       "hits sertanejo pagode",
@@ -24696,7 +25058,9 @@
       "pt"
     ],
     "categories": [
-      "punk"
+      "pop",
+      "punk",
+      "rock"
     ],
     "tags": [
       "gothic",
@@ -24767,7 +25131,9 @@
     "country": "BR",
     "subdivision": "Rio Grande do Sul",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "60's",
       "70's",
@@ -24808,7 +25174,10 @@
     "country": "BR",
     "subdivision": "São Paulo (SP)",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "local talk",
       "news talk"
@@ -25430,7 +25799,9 @@
     "subdivision": "Minas Gerais",
     "languages": [],
     "categories": [
-      "pop"
+      "electronic",
+      "pop",
+      "rock"
     ],
     "tags": [
       "chr",

@@ -160,7 +160,9 @@
     "country": "VE",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "talk & speech"
     ],
@@ -311,7 +313,8 @@
       "es"
     ],
     "categories": [
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -336,8 +339,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -362,8 +365,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "merengue",
@@ -433,8 +436,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -459,9 +462,9 @@
       "es"
     ],
     "categories": [
-      "pop",
+      "latin",
       "oldies",
-      "latin"
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -795,8 +798,8 @@
       "es"
     ],
     "categories": [
-      "religious",
-      "latin"
+      "latin",
+      "religious"
     ],
     "tags": [
       "cumbia",
@@ -822,8 +825,8 @@
       "es"
     ],
     "categories": [
-      "religious",
-      "latin"
+      "latin",
+      "religious"
     ],
     "tags": [
       "latino",
@@ -902,8 +905,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -1240,8 +1243,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -1265,7 +1268,9 @@
       "es"
     ],
     "categories": [
-      "pop"
+      "news",
+      "pop",
+      "rock"
     ],
     "tags": [
       "93.3 fm",
@@ -1307,8 +1312,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "music",
@@ -1346,7 +1351,8 @@
     ],
     "categories": [
       "news",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -1498,7 +1504,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "balada pop",
       "latina"
@@ -1580,8 +1588,8 @@
       "es"
     ],
     "categories": [
-      "sports",
-      "pop"
+      "pop",
+      "sports"
     ],
     "tags": [
       "caracas",
@@ -1699,10 +1707,10 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "rock",
       "electronic",
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "70s",
@@ -1908,8 +1916,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -1957,8 +1965,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -2286,8 +2294,8 @@
       "es"
     ],
     "categories": [
-      "religious",
-      "christmas"
+      "christmas",
+      "religious"
     ],
     "tags": [
       "general",
@@ -2359,8 +2367,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "adult contemporary",
@@ -2425,7 +2433,8 @@
       "es"
     ],
     "categories": [
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -2883,8 +2892,8 @@
       "es"
     ],
     "categories": [
-      "news",
-      "latin"
+      "latin",
+      "news"
     ],
     "tags": [
       "entretenimiento",
@@ -2908,8 +2917,8 @@
       "es"
     ],
     "categories": [
-      "oldies",
-      "latin"
+      "latin",
+      "oldies"
     ],
     "tags": [
       "2000s",
@@ -2967,7 +2976,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "60s",
@@ -3095,8 +3105,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -3121,8 +3131,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "caracas",
@@ -3203,7 +3213,8 @@
       "es"
     ],
     "categories": [
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -3229,7 +3240,8 @@
       "es"
     ],
     "categories": [
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -3255,6 +3267,7 @@
       "es"
     ],
     "categories": [
+      "latin",
       "pop"
     ],
     "tags": [
@@ -3280,8 +3293,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -3355,8 +3368,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -3445,7 +3458,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "anglo",
       "pop music"
@@ -3525,7 +3540,9 @@
     "country": "VE",
     "subdivision": "Miranda",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "latin"
+    ],
     "tags": [
       "salsa colombiana"
     ],

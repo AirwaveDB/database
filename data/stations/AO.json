@@ -105,7 +105,9 @@
     "country": "AO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies"
+    ],
     "tags": [
       "90s dance"
     ],
@@ -187,8 +189,8 @@
     "subdivision": "Sofia",
     "languages": [],
     "categories": [
-      "pop",
-      "folk"
+      "folk",
+      "pop"
     ],
     "tags": [
       "broken beat",

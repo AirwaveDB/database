@@ -292,8 +292,8 @@
       "uk"
     ],
     "categories": [
-      "rock",
-      "folk"
+      "folk",
+      "rock"
     ],
     "tags": [
       "folk",
@@ -364,7 +364,9 @@
     "country": "BY",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music"
     ],
@@ -497,6 +499,7 @@
       "ru"
     ],
     "categories": [
+      "news",
       "pop"
     ],
     "tags": [
@@ -651,7 +654,8 @@
       "be"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "alternative",
@@ -675,7 +679,8 @@
       "be"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "news",
@@ -729,7 +734,10 @@
     "country": "BY",
     "subdivision": "Minsk",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
     "tags": [
       "pop hits 70s 80s 90s"
     ],
@@ -1092,7 +1100,9 @@
     "country": "BY",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music",
       "pop-music"

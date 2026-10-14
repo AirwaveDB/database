@@ -41,8 +41,8 @@
     ],
     "categories": [
       "news",
-      "sports",
-      "pop"
+      "pop",
+      "sports"
     ],
     "tags": [
       "deportes",
@@ -68,7 +68,8 @@
     ],
     "categories": [
       "news",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "news",
@@ -113,7 +114,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop rock"
     ],
@@ -131,7 +135,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop rock"
     ],
@@ -150,6 +157,7 @@
       "es"
     ],
     "categories": [
+      "latin",
       "pop"
     ],
     "tags": [
@@ -630,7 +638,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "argentine football",
       "local news",
@@ -822,8 +832,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -934,8 +944,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -1120,6 +1130,7 @@
       "es"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -1160,9 +1171,9 @@
       "es"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "2000s",
@@ -1305,7 +1316,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -1368,8 +1380,8 @@
     ],
     "categories": [
       "pop",
-      "rock",
-      "reggae"
+      "reggae",
+      "rock"
     ],
     "tags": [
       "indie",
@@ -1405,7 +1417,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits 80's 90's"
     ],
@@ -1449,7 +1463,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "folk",
+      "news"
+    ],
     "tags": [
       "folk popular am noticias musica"
     ],
@@ -1541,8 +1558,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -1566,8 +1583,8 @@
       "es"
     ],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "2000s",
@@ -1631,10 +1648,10 @@
       "es"
     ],
     "categories": [
+      "latin",
       "news",
-      "sports",
       "pop",
-      "latin"
+      "sports"
     ],
     "tags": [
       "deportes",
@@ -1696,9 +1713,9 @@
       "es"
     ],
     "categories": [
-      "rock",
+      "blues",
       "folk",
-      "blues"
+      "rock"
     ],
     "tags": [
       "bhajans",
@@ -1767,7 +1784,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
     "tags": [
       "classics oldies hits"
     ],
@@ -1785,7 +1805,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop rock"
     ],
@@ -1821,7 +1844,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "electronic dance music"
     ],
@@ -1903,7 +1928,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -1940,7 +1966,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -2036,6 +2063,7 @@
       "es"
     ],
     "categories": [
+      "jazz",
       "pop",
       "rock"
     ],
@@ -2078,8 +2106,8 @@
       "es"
     ],
     "categories": [
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "hits",
@@ -2147,7 +2175,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -2169,9 +2198,9 @@
       "es"
     ],
     "categories": [
-      "sports",
+      "latin",
       "pop",
-      "latin"
+      "sports"
     ],
     "tags": [
       "cumbia",
@@ -2214,8 +2243,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -2292,8 +2321,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "electronic",
@@ -2334,9 +2363,10 @@
       "es"
     ],
     "categories": [
+      "latin",
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "2000s",
@@ -2383,10 +2413,10 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "sports",
       "pop",
-      "rock"
+      "rock",
+      "sports",
+      "talk"
     ],
     "tags": [
       "deportes",
@@ -2425,8 +2455,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -2469,9 +2499,9 @@
       "es"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "classic hits",
@@ -2495,9 +2525,9 @@
       "es"
     ],
     "categories": [
-      "pop",
       "electronic",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -2569,7 +2599,8 @@
       "es"
     ],
     "categories": [
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "pop dance",
@@ -2614,8 +2645,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -2641,8 +2672,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "cumbia",
@@ -2929,7 +2960,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "noticias locales"
     ],
@@ -3086,6 +3119,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -3251,7 +3285,9 @@
     "country": "AR",
     "subdivision": "Provincia de Tierra del Fuego",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music"
     ],
@@ -3312,8 +3348,9 @@
     "subdivision": "Mendoza",
     "languages": [],
     "categories": [
-      "rock",
-      "blues"
+      "blues",
+      "pop",
+      "rock"
     ],
     "tags": [
       "alternative rock",
@@ -3373,7 +3410,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -3446,7 +3484,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -3500,7 +3539,9 @@
       "es"
     ],
     "categories": [
-      "pop"
+      "news",
+      "pop",
+      "rock"
     ],
     "tags": [
       "93.3 fm",
@@ -3561,8 +3602,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "alternative",
@@ -3630,8 +3671,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "cumbia",
@@ -3653,8 +3694,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -3677,6 +3718,7 @@
       "es"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -3737,7 +3779,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult contemporary",
       "américa",
@@ -3887,7 +3931,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "sports"
+    ],
     "tags": [
       "argentine football",
       "argentine sports news"
@@ -3956,7 +4003,10 @@
     "country": "AR",
     "subdivision": "Provincia de Buenos Aires",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk music"
     ],
@@ -3975,9 +4025,9 @@
       "es"
     ],
     "categories": [
+      "latin",
       "pop",
-      "rock",
-      "latin"
+      "rock"
     ],
     "tags": [
       "cumbia",
@@ -4026,7 +4076,9 @@
     "country": "AR",
     "subdivision": "Morteros, Córdoba(Argentina)",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "música y noticias"
     ],
@@ -4126,8 +4178,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "cumbia",
@@ -4233,7 +4285,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -4379,8 +4432,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -4445,8 +4498,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -4496,8 +4549,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -4539,7 +4592,8 @@
     ],
     "categories": [
       "news",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "adult contemporary",
@@ -4773,9 +4827,9 @@
       "es"
     ],
     "categories": [
+      "latin",
       "news",
-      "pop",
-      "latin"
+      "pop"
     ],
     "tags": [
       "information",
@@ -4801,9 +4855,9 @@
       "es"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "hits",
@@ -4896,7 +4950,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -4982,8 +5037,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -5008,8 +5063,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -5126,7 +5181,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "music"
@@ -5297,7 +5354,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -5460,7 +5518,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -5485,8 +5544,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -5512,9 +5571,9 @@
       "es"
     ],
     "categories": [
+      "latin",
       "pop",
-      "rock",
-      "latin"
+      "rock"
     ],
     "tags": [
       "entretenimiento",
@@ -5570,6 +5629,7 @@
     ],
     "categories": [
       "news",
+      "pop",
       "rock"
     ],
     "tags": [
@@ -5721,7 +5781,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -5772,8 +5833,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "cumbia",
@@ -5833,9 +5894,9 @@
       "es"
     ],
     "categories": [
+      "latin",
       "pop",
-      "rock",
-      "latin"
+      "rock"
     ],
     "tags": [
       "entretenimiento",
@@ -6070,7 +6131,9 @@
     "country": "AR",
     "subdivision": "Córdoba(Argentina)",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -6117,9 +6180,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -6141,9 +6204,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -6277,7 +6340,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "rock"
+    ],
     "tags": [
       "argentine rock",
       "buenos aires",
@@ -6315,8 +6381,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -6339,6 +6405,7 @@
       "es"
     ],
     "categories": [
+      "news",
       "rock"
     ],
     "tags": [
@@ -7354,8 +7421,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -7462,7 +7529,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "music",
       "talk news"
@@ -7525,7 +7595,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "feminist",
       "local news",
@@ -7695,11 +7767,11 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "rock",
+      "ambient",
       "electronic",
       "oldies",
-      "ambient"
+      "pop",
+      "rock"
     ],
     "tags": [
       "00s",
@@ -7794,8 +7866,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "60's",
@@ -7983,7 +8055,8 @@
     ],
     "categories": [
       "electronic",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -8078,8 +8151,8 @@
       "es"
     ],
     "categories": [
-      "rock",
-      "hip-hop"
+      "hip-hop",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -8139,6 +8212,7 @@
       "es"
     ],
     "categories": [
+      "latin",
       "pop"
     ],
     "tags": [
@@ -8223,7 +8297,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "dance",
       "disco hits"
@@ -8403,9 +8479,9 @@
       "es"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "2000s",
@@ -8497,9 +8573,10 @@
       "es"
     ],
     "categories": [
-      "rock",
       "folk",
-      "punk"
+      "punk",
+      "rock",
+      "talk"
     ],
     "tags": [
       "anarchism",
@@ -8588,7 +8665,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult contemporary",
       "adult-contemporary",
@@ -8638,6 +8717,7 @@
       "es"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -8682,7 +8762,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "cuarteto",
       "local news",
@@ -8800,7 +8882,10 @@
     "country": "AR",
     "subdivision": "Mendoza",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "latin",
+      "rock"
+    ],
     "tags": [
       "rock latino"
     ],
@@ -8818,7 +8903,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk music"
     ],
@@ -8937,7 +9025,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "old hits",
       "retro music"
@@ -9018,7 +9108,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "evangelical christian",
       "radio evangelica",
@@ -9272,8 +9364,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -9907,8 +9999,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "argentina",
@@ -9998,10 +10090,10 @@
       "es"
     ],
     "categories": [
-      "rock",
-      "jazz",
       "electronic",
-      "latin"
+      "jazz",
+      "latin",
+      "rock"
     ],
     "tags": [
       "electronic",
@@ -10161,7 +10253,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news"
     ],
@@ -10195,7 +10289,11 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop",
+      "sports"
+    ],
     "tags": [
       "local news",
       "pop music",
@@ -10328,7 +10426,9 @@
     "country": "AR",
     "subdivision": "Provincia de Chubut",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "local talk"
     ],
@@ -10392,7 +10492,10 @@
     "country": "AR",
     "subdivision": "Provincia de Buenos Aires",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk"
     ],
@@ -10521,7 +10624,9 @@
     "country": "AR",
     "subdivision": "Río Cuarto",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "noticias locales"
     ],
@@ -10570,7 +10675,9 @@
     "subdivision": "Mendoza",
     "languages": [],
     "categories": [
-      "latin"
+      "latin",
+      "pop",
+      "rock"
     ],
     "tags": [
       "latino",
@@ -10644,6 +10751,7 @@
       "es"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -10892,7 +11000,9 @@
     "country": "AR",
     "subdivision": "Buenos Aires",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "rock argentino",
       "rock nacional"
@@ -10909,7 +11019,9 @@
     "country": "AR",
     "subdivision": "Buenos Aires",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "rock argentino",
       "rock nacional"
@@ -11052,8 +11164,8 @@
       "es"
     ],
     "categories": [
-      "talk",
-      "electronic"
+      "electronic",
+      "talk"
     ],
     "tags": [
       "95.1",
@@ -11131,7 +11243,8 @@
     "languages": [],
     "categories": [
       "jazz",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "bachata",
@@ -11180,6 +11293,7 @@
       "es"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -11230,8 +11344,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "clasicos",
@@ -11372,8 +11486,8 @@
       "ja"
     ],
     "categories": [
-      "jazz",
-      "anime"
+      "anime",
+      "jazz"
     ],
     "tags": [
       "anime",
@@ -11441,7 +11555,10 @@
     "country": "AR",
     "subdivision": "Bahía Blanca",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "latin",
+      "pop"
+    ],
     "tags": [
       "latin pop"
     ],
@@ -11457,7 +11574,10 @@
     "country": "AR",
     "subdivision": "Provincia de La Pampa",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk music"
     ],
@@ -11474,9 +11594,10 @@
     "subdivision": "La Plata, Buenos Aires",
     "languages": [],
     "categories": [
-      "sports",
       "pop",
-      "rock"
+      "rock",
+      "sports",
+      "talk"
     ],
     "tags": [
       "deportes",
@@ -11499,7 +11620,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "music",
@@ -11710,7 +11833,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "talk. music"
     ],
@@ -11832,8 +11957,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "90s",
@@ -11856,7 +11981,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "rock argentino",
       "rock en español"
@@ -12000,8 +12127,8 @@
     "subdivision": "Rio Negro",
     "languages": [],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -12023,8 +12150,8 @@
     "subdivision": "Rio Negro",
     "languages": [],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -12047,7 +12174,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "rock nacional"
     ],
@@ -12816,8 +12945,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -13262,8 +13391,9 @@
       "es"
     ],
     "categories": [
-      "rock",
-      "folk"
+      "folk",
+      "pop",
+      "rock"
     ],
     "tags": [
       "british rock",
@@ -13468,8 +13598,8 @@
     "languages": [],
     "categories": [
       "news",
-      "sports",
-      "pop"
+      "pop",
+      "sports"
     ],
     "tags": [
       "culture",
@@ -13513,7 +13643,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk music"
     ],
@@ -13565,7 +13698,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "latin",
+      "pop"
+    ],
     "tags": [
       "latin pop"
     ],
@@ -13650,7 +13786,9 @@
       "es"
     ],
     "categories": [
-      "news"
+      "latin",
+      "news",
+      "pop"
     ],
     "tags": [
       "latin music",
@@ -13705,7 +13843,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk music"
     ],
@@ -13793,7 +13934,8 @@
       "es"
     ],
     "categories": [
-      "community"
+      "community",
+      "news"
     ],
     "tags": [
       "community radio",
@@ -14091,8 +14233,8 @@
       "es"
     ],
     "categories": [
-      "sports",
-      "pop"
+      "pop",
+      "sports"
     ],
     "tags": [
       "deportes",
@@ -14364,7 +14506,8 @@
       "es"
     ],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "94.3 fm",
@@ -14417,7 +14560,8 @@
       "es"
     ],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "94.3 fm",
@@ -14882,7 +15026,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "latin",
+      "pop"
+    ],
     "tags": [
       "latin pop"
     ],
@@ -15869,7 +16016,9 @@
     "country": "AR",
     "subdivision": "Río Negro",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "noticias locales",
       "regional music"
@@ -15934,7 +16083,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "music",
       "pop music",
@@ -16022,8 +16173,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "catholic",
@@ -16483,8 +16634,8 @@
       "es"
     ],
     "categories": [
-      "public",
-      "folk"
+      "folk",
+      "public"
     ],
     "tags": [
       "buenos aires",
@@ -16651,7 +16802,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "entretenimiento",
       "musica",
@@ -16669,7 +16822,11 @@
     "country": "AR",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
     "tags": [
       "actualidad",
       "hits 80s",
@@ -16793,8 +16950,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "news",
@@ -16865,7 +17022,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk music"
     ],
@@ -17000,7 +17160,9 @@
     "country": "AR",
     "subdivision": "Provincia de Buenos Aires",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "magazines",
       "noticias locales",
@@ -17034,7 +17196,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk music"
     ],
@@ -17579,8 +17744,9 @@
       "es"
     ],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "classic hits",
@@ -17654,8 +17820,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "argentina",
@@ -17711,7 +17877,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "adult contemporary",
       "adult-contemporary",
@@ -17914,7 +18082,11 @@
     "subdivision": "Mendoza",
     "languages": [],
     "categories": [
-      "college"
+      "college",
+      "latin",
+      "news",
+      "rock",
+      "talk"
     ],
     "tags": [
       "cultural",
@@ -18069,7 +18241,10 @@
     "country": "AR",
     "subdivision": "Provincia de Neuquen",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk music"
     ],
@@ -18346,10 +18521,10 @@
       "es"
     ],
     "categories": [
-      "rock",
-      "jazz",
       "blues",
-      "metal"
+      "jazz",
+      "metal",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -18372,9 +18547,10 @@
     "subdivision": "Mendoza",
     "languages": [],
     "categories": [
-      "rock",
+      "latin",
+      "punk",
       "reggae",
-      "punk"
+      "rock"
     ],
     "tags": [
       "alternative rock",
@@ -18399,9 +18575,9 @@
       "es"
     ],
     "categories": [
-      "rock",
+      "punk",
       "reggae",
-      "punk"
+      "rock"
     ],
     "tags": [
       "heavy",
@@ -18555,7 +18731,8 @@
       "en"
     ],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "hits rock",
@@ -18660,10 +18837,10 @@
       "en"
     ],
     "categories": [
-      "pop",
+      "ambient",
       "electronic",
       "oldies",
-      "ambient"
+      "pop"
     ],
     "tags": [
       "chillout",
@@ -18785,7 +18962,10 @@
     "country": "AR",
     "subdivision": "Provincia de Chubut",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk music"
     ],
@@ -18967,7 +19147,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk music"
     ],
@@ -18986,6 +19169,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -19046,8 +19230,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "news",
@@ -19158,9 +19342,9 @@
       "es"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "2000s",
@@ -19274,7 +19458,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
     "tags": [
       "oldies & retro hits 70s 80s 90s 00s",
       "oldies and retro hits 70´s 80´s 90´s 00´s"
@@ -19364,7 +19551,9 @@
     "country": "AR",
     "subdivision": "Allen",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "music",
       "noticias locales"
@@ -19383,7 +19572,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk music"
     ],
@@ -19507,7 +19699,10 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
     "tags": [
       "classics oldies hits"
     ],
@@ -19524,7 +19719,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "folk"
+      "blues",
+      "folk",
+      "rock"
     ],
     "tags": [
       "blues and r&b",
@@ -19543,7 +19740,11 @@
     "country": "AR",
     "subdivision": "Goya",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
     "tags": [
       "80s soft rock",
       "soft music",
@@ -19564,8 +19765,8 @@
       "en"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "ai",
@@ -19653,7 +19854,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "progressive rock"
     ],
@@ -19777,7 +19980,9 @@
     "country": "AR",
     "subdivision": "Córdoba(Argentina)",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "noticias locales"
     ],
@@ -19892,9 +20097,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "talk",
       "pop",
-      "rock"
+      "rock",
+      "talk"
     ],
     "tags": [
       "pop",
@@ -20008,7 +20213,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits"

@@ -95,10 +95,11 @@
       "en"
     ],
     "categories": [
-      "public",
-      "rock",
+      "metal",
       "oldies",
-      "metal"
+      "pop",
+      "public",
+      "rock"
     ],
     "tags": [
       "60's",
@@ -146,10 +147,11 @@
       "en"
     ],
     "categories": [
-      "public",
+      "ambient",
       "jazz",
       "oldies",
-      "ambient"
+      "pop",
+      "public"
     ],
     "tags": [
       "192kbps",
@@ -201,11 +203,11 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public",
+      "oldies",
       "pop",
+      "public",
       "rock",
-      "oldies"
+      "talk"
     ],
     "tags": [
       "00's",
@@ -270,12 +272,12 @@
       "en"
     ],
     "categories": [
-      "public",
-      "pop",
-      "rock",
+      "blues",
       "country",
       "oldies",
-      "blues"
+      "pop",
+      "public",
+      "rock"
     ],
     "tags": [
       "60s",
@@ -337,10 +339,10 @@
       "en"
     ],
     "categories": [
-      "pop",
       "electronic",
       "hip-hop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "1970s",
@@ -410,10 +412,10 @@
       "en"
     ],
     "categories": [
-      "public",
-      "pop",
       "electronic",
-      "oldies"
+      "oldies",
+      "pop",
+      "public"
     ],
     "tags": [
       "1980",
@@ -491,9 +493,10 @@
       "en"
     ],
     "categories": [
-      "public",
+      "oldies",
       "pop",
-      "oldies"
+      "public",
+      "rock"
     ],
     "tags": [
       "00's",
@@ -551,12 +554,12 @@
       "en"
     ],
     "categories": [
-      "news",
-      "public",
+      "ambient",
       "community",
-      "pop",
       "electronic",
-      "ambient"
+      "news",
+      "pop",
+      "public"
     ],
     "tags": [
       "chill",
@@ -599,7 +602,9 @@
     "languages": [
       "fr"
     ],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "information",
       "talk & speech"
@@ -647,10 +652,10 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "ambient",
       "electronic",
-      "reggae",
-      "ambient"
+      "jazz",
+      "reggae"
     ],
     "tags": [
       "ambient",
@@ -686,7 +691,8 @@
     "subdivision": "Ontario",
     "languages": [],
     "categories": [
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "1980's",
@@ -746,9 +752,10 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "ambient",
       "hip-hop",
-      "ambient"
+      "jazz",
+      "latin"
     ],
     "tags": [
       "acid",
@@ -1002,7 +1009,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news"
     ],
@@ -1021,8 +1030,8 @@
       "en"
     ],
     "categories": [
-      "sports",
-      "country"
+      "country",
+      "sports"
     ],
     "tags": [
       "country",
@@ -1044,8 +1053,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "hockey",
@@ -1099,7 +1108,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "70",
       "80",
@@ -1123,9 +1134,10 @@
       "en"
     ],
     "categories": [
-      "rock",
+      "blues",
       "oldies",
-      "blues"
+      "pop",
+      "rock"
     ],
     "tags": [
       "70s",
@@ -1305,7 +1317,8 @@
       "en"
     ],
     "categories": [
-      "country"
+      "country",
+      "pop"
     ],
     "tags": [
       "country",
@@ -1374,7 +1387,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -1512,7 +1526,9 @@
     "country": "CA",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "talk & speech"
     ],
@@ -1530,7 +1546,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "hits radio"
     ],
@@ -1563,10 +1581,10 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "jazz",
+      "blues",
       "country",
-      "blues"
+      "jazz",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -1744,9 +1762,9 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "ambient",
       "electronic",
-      "ambient"
+      "jazz"
     ],
     "tags": [
       "aereoporto",
@@ -1963,7 +1981,12 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic",
+      "hip-hop",
+      "oldies",
+      "rock"
+    ],
     "tags": [
       "90s hip-hop house 2000's alternative brazillian rock electro"
     ],
@@ -2030,9 +2053,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -2055,7 +2078,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -2188,8 +2212,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "60's",
@@ -2353,7 +2377,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "business news",
       "business programs"
@@ -2875,7 +2901,8 @@
       "en"
     ],
     "categories": [
-      "anime"
+      "anime",
+      "pop"
     ],
     "tags": [
       "j-pop",
@@ -2963,7 +2990,9 @@
     "languages": [
       "pt"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "brazilian pop",
       "ethnic",
@@ -2986,9 +3015,10 @@
       "fr"
     ],
     "categories": [
-      "rock",
+      "ambient",
       "electronic",
-      "ambient"
+      "pop",
+      "rock"
     ],
     "tags": [
       "alternative / indie",
@@ -3087,11 +3117,11 @@
     "subdivision": "Manitoba",
     "languages": [],
     "categories": [
-      "pop",
-      "rock",
-      "jazz",
       "classical",
-      "folk"
+      "folk",
+      "jazz",
+      "pop",
+      "rock"
     ],
     "tags": [
       "classical",
@@ -3116,10 +3146,10 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
       "folk",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -3143,10 +3173,10 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
       "folk",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -3168,10 +3198,10 @@
     "subdivision": "Manitoba",
     "languages": [],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
       "folk",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -3209,10 +3239,10 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
       "folk",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -3236,12 +3266,12 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "rock",
-      "jazz",
+      "blues",
       "classical",
       "folk",
-      "blues"
+      "jazz",
+      "pop",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -3288,10 +3318,10 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
       "folk",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -3339,13 +3369,13 @@
       "en"
     ],
     "categories": [
-      "news",
-      "talk",
-      "public",
-      "jazz",
+      "blues",
       "classical",
       "folk",
-      "blues"
+      "jazz",
+      "news",
+      "public",
+      "talk"
     ],
     "tags": [
       "blues",
@@ -3373,6 +3403,7 @@
     "subdivision": "Nova Scotia",
     "languages": [],
     "categories": [
+      "news",
       "talk"
     ],
     "tags": [
@@ -4334,8 +4365,9 @@
     "subdivision": "Quebec",
     "languages": [],
     "categories": [
-      "talk",
-      "public"
+      "news",
+      "public",
+      "talk"
     ],
     "tags": [
       "local news",
@@ -4395,7 +4427,11 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
     "tags": [
       "calgary",
       "sports news",
@@ -4416,7 +4452,8 @@
       "fr"
     ],
     "categories": [
-      "community"
+      "community",
+      "rock"
     ],
     "tags": [
       "active rock",
@@ -4553,7 +4590,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -4591,8 +4630,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "community radio",
@@ -4614,7 +4653,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "variety hits"
     ],
@@ -4633,11 +4674,11 @@
       "en"
     ],
     "categories": [
+      "blues",
       "community",
-      "jazz",
       "country",
-      "oldies",
-      "blues"
+      "jazz",
+      "oldies"
     ],
     "tags": [
       "blues",
@@ -4683,7 +4724,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "commercial",
       "corner brook",
@@ -4746,7 +4789,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock"
     ],
@@ -4782,7 +4827,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "country"
+    ],
     "tags": [
       "camrose",
       "classic country",
@@ -4925,7 +4972,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "80's",
       "90's",
@@ -4982,8 +5031,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "alternative",
@@ -5005,7 +5054,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock"
     ],
@@ -5023,7 +5074,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "calgary",
       "news radio"
@@ -5042,7 +5095,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "sports"
+    ],
     "tags": [
       "bell media",
       "sports news",
@@ -5062,7 +5118,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock",
       "grande prairie"
@@ -5082,6 +5140,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -5104,7 +5163,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "corus media",
       "global news",
@@ -5164,7 +5226,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits",
@@ -5341,9 +5405,9 @@
       "en"
     ],
     "categories": [
+      "country",
       "news",
-      "talk",
-      "country"
+      "talk"
     ],
     "tags": [
       "commercial",
@@ -5368,7 +5432,9 @@
     "languages": [
       "fr"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "contemporary hits"
     ],
@@ -5408,7 +5474,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits",
       "dartmouth",
@@ -5442,7 +5510,9 @@
     "country": "CA",
     "subdivision": "Ontario",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies"
+    ],
     "tags": [
       "music 70s 80s 90s"
     ],
@@ -5529,8 +5599,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "campus radio",
@@ -5627,6 +5697,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -5668,8 +5739,8 @@
     "subdivision": "Ontario",
     "languages": [],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "community radio",
@@ -5778,7 +5849,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits"
@@ -5814,8 +5887,8 @@
       "fr"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community",
@@ -5864,7 +5937,8 @@
       "fr"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -5885,7 +5959,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "commercial",
       "modern rock",
@@ -5928,7 +6004,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -5990,8 +6067,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "london",
@@ -6013,7 +6090,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock",
       "commercial",
@@ -6033,7 +6112,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock",
       "new format rebranding"
@@ -6073,7 +6154,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock"
     ],
@@ -6091,7 +6174,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits"
@@ -6131,7 +6216,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "moncton"
@@ -6170,7 +6257,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk"
     ],
@@ -6189,7 +6279,8 @@
       "en"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "commercial",
@@ -6478,8 +6569,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "community radio",
@@ -6541,7 +6632,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits",
       "commercial",
@@ -6561,7 +6654,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock",
       "commercial",
@@ -6627,7 +6722,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "commercial",
       "rhythmic contemporary hits",
@@ -6645,7 +6742,9 @@
     "country": "CA",
     "subdivision": "Ontario",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits",
       "new branding of previous entry",
@@ -6666,7 +6765,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -6723,7 +6823,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits"
@@ -6762,7 +6864,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "whitecourt"
@@ -6800,7 +6904,10 @@
     "languages": [
       "fr"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk"
     ],
@@ -6840,7 +6947,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -6884,9 +6992,9 @@
       "en"
     ],
     "categories": [
-      "pop",
       "hip-hop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hiphop",
@@ -6969,7 +7077,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -7071,7 +7180,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "country"
+    ],
     "tags": [
       "new country"
     ],
@@ -7110,7 +7221,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -7128,7 +7241,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk"
     ],
@@ -7148,8 +7264,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "edmonton",
@@ -7231,7 +7347,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "mainstream rock",
       "rogers media"
@@ -7327,6 +7445,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -7450,7 +7569,9 @@
     "country": "CA",
     "subdivision": "New Brunswick",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "re-branding new format",
@@ -7671,7 +7792,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "commercial",
       "mainstream rock",
@@ -7692,7 +7815,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "new format new branding"
@@ -7810,7 +7935,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "60s",
@@ -7873,7 +7999,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "mainstream rock",
       "new format rebranding"
@@ -7913,8 +8041,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "campus radio",
@@ -8164,7 +8292,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "mainstream rock",
       "saint john"
@@ -8207,8 +8337,9 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "sports"
+      "pop",
+      "sports",
+      "talk"
     ],
     "tags": [
       "classic hits",
@@ -8231,7 +8362,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -8254,7 +8386,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "halifax"
@@ -8331,9 +8465,9 @@
       "fr"
     ],
     "categories": [
+      "folk",
       "pop",
-      "rock",
-      "folk"
+      "rock"
     ],
     "tags": [
       "classic hits",
@@ -8381,7 +8515,9 @@
     "languages": [
       "fr"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -8494,8 +8630,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "60s",
@@ -8618,7 +8754,9 @@
     "country": "CA",
     "subdivision": "Alberta",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits",
@@ -8773,7 +8911,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult standards",
       "classic hits"
@@ -8813,7 +8953,8 @@
       "en"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "calgary",
@@ -8837,7 +8978,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "calgary",
       "news talk"
@@ -8856,7 +9000,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -8904,7 +9050,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music"
     ],
@@ -8936,7 +9084,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music"
     ],
@@ -8954,7 +9104,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "cape breton",
       "contemporary hits",
@@ -9079,8 +9231,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "alternative",
@@ -9123,7 +9275,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -9164,8 +9318,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "campus radio",
@@ -9187,6 +9341,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -9208,7 +9363,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -9246,7 +9403,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -9269,7 +9427,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "contemporary hits",
       "victoria"
@@ -9321,8 +9481,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "sports",
@@ -9343,7 +9503,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "soft rock"
     ],
@@ -9381,8 +9543,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -9509,7 +9671,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock"
     ],
@@ -9565,7 +9729,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -9643,8 +9809,8 @@
       "fr"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "community radio",
@@ -9790,7 +9956,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "new format rebranding"
@@ -9809,7 +9977,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "new format rebranding"
@@ -9955,7 +10125,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock"
     ],
@@ -10038,7 +10210,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits",
       "fredericton"
@@ -10055,7 +10229,9 @@
     "country": "CA",
     "subdivision": "New Brunswick",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "re-branding new format",
@@ -10139,7 +10315,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock",
       "annapolis valley",
@@ -10158,7 +10336,9 @@
     "country": "CA",
     "subdivision": "Nova Scotia",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "new format rebranding",
@@ -10178,7 +10358,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock",
       "rogers media"
@@ -10197,7 +10379,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -10320,7 +10504,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits",
@@ -10399,7 +10585,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -10515,7 +10703,9 @@
     "languages": [
       "ar"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "arabic hits",
       "arabic music"
@@ -10674,9 +10864,10 @@
       "ko"
     ],
     "categories": [
-      "pop",
+      "anime",
       "electronic",
-      "anime"
+      "pop",
+      "rock"
     ],
     "tags": [
       "dance",
@@ -10757,8 +10948,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -10973,7 +11164,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock"
     ],
@@ -10992,7 +11185,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "news"
     ],
     "tags": [
       "adult contemporary",
@@ -11014,7 +11208,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "sports"
+    ],
     "tags": [
       "commercial",
       "live sports",
@@ -11036,8 +11233,8 @@
       "fr"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "college radio",
@@ -11103,7 +11300,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "modern rock"
     ],
@@ -11121,7 +11320,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "modern rock"
     ],
@@ -11177,8 +11378,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -11223,7 +11424,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "mainstream rock",
       "rogers media"
@@ -11308,8 +11511,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "community radio",
@@ -11399,7 +11602,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -11417,7 +11622,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "country"
+    ],
     "tags": [
       "indigenous",
       "new country"
@@ -11437,8 +11644,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "community radio",
@@ -11511,7 +11718,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock"
     ],
@@ -11645,8 +11854,8 @@
     "languages": [],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "news",
@@ -11667,7 +11876,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits",
       "brooks"
@@ -11805,7 +12016,9 @@
     "languages": [
       "fr"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "bell media",
       "geoblocking?",
@@ -11826,6 +12039,7 @@
       "en"
     ],
     "categories": [
+      "news",
       "talk"
     ],
     "tags": [
@@ -11861,7 +12075,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits",
       "calgary"
@@ -11934,7 +12150,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits",
       "vancouver"
@@ -11974,7 +12192,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -12017,8 +12236,8 @@
       "en"
     ],
     "categories": [
-      "news",
       "country",
+      "news",
       "oldies"
     ],
     "tags": [
@@ -12063,8 +12282,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -12131,6 +12350,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -12174,8 +12394,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "sports",
@@ -12197,8 +12417,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "sports",
@@ -12256,7 +12476,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "medicine hat"
@@ -12275,7 +12497,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock",
       "commercial",
@@ -12316,7 +12540,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "commercial",
       "kitchener",
@@ -12558,7 +12784,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -12596,7 +12824,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -12751,7 +12981,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock",
       "commercial",
@@ -12818,9 +13050,9 @@
       "en"
     ],
     "categories": [
-      "talk",
+      "religious",
       "rock",
-      "religious"
+      "talk"
     ],
     "tags": [
       "christian",
@@ -12881,8 +13113,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "community radio",
@@ -12944,7 +13176,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -13004,9 +13238,9 @@
       "fr"
     ],
     "categories": [
-      "talk",
+      "hip-hop",
       "rock",
-      "hip-hop"
+      "talk"
     ],
     "tags": [
       "hip hop",
@@ -13031,8 +13265,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "news",
@@ -13054,7 +13288,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "commercial",
@@ -13090,7 +13326,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "mainstream rock",
       "moncton"
@@ -13213,7 +13451,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "electronic"
     ],
     "tags": [
       "community radio",
@@ -13275,7 +13514,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "commercial",
       "edmonton",
@@ -13296,7 +13537,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -13356,7 +13598,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits"
@@ -13422,7 +13666,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -13590,7 +13835,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -13655,8 +13901,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -13678,7 +13924,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "mainstream rock",
       "rogers media"
@@ -13698,8 +13946,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "community radio",
@@ -13761,7 +14009,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "lethbridge",
       "mainstream rock"
@@ -13781,8 +14031,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -13851,7 +14101,9 @@
     "languages": [
       "fr"
     ],
-    "categories": [],
+    "categories": [
+      "country"
+    ],
     "tags": [
       "francophone country",
       "radio communautaire"
@@ -13871,7 +14123,8 @@
       "en"
     ],
     "categories": [
-      "college"
+      "college",
+      "news"
     ],
     "tags": [
       "college radio",
@@ -13901,7 +14154,8 @@
       "en"
     ],
     "categories": [
-      "country"
+      "country",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -14005,8 +14259,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "community radio",
@@ -14028,7 +14282,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -14052,7 +14307,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -14214,7 +14471,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -14237,7 +14495,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -14259,7 +14518,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -14278,7 +14538,8 @@
     "subdivision": "Alberta",
     "languages": [],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -14424,7 +14685,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "new format rebranding",
@@ -14526,7 +14789,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "burlington",
       "commercial",
@@ -14547,7 +14812,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits",
@@ -14779,7 +15046,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -14819,7 +15087,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "british forces",
       "pop music",
@@ -14961,7 +15231,9 @@
     "country": "CA",
     "subdivision": "Nova Scotia",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits"
@@ -15096,7 +15368,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -15114,7 +15388,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],
@@ -15167,8 +15443,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "alternative",
@@ -15271,7 +15547,8 @@
       "en"
     ],
     "categories": [
-      "college"
+      "college",
+      "pop"
     ],
     "tags": [
       "campus radio",
@@ -15379,7 +15656,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -15456,7 +15734,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -15474,7 +15754,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "commercial",
@@ -15577,6 +15859,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -15723,7 +16006,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "commercial",
       "durham",
@@ -15744,7 +16029,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -15778,7 +16065,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk"
     ],
@@ -15891,7 +16181,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock"
     ],
@@ -16013,7 +16305,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "1980s hits",
       "1990s hits",
@@ -16070,7 +16364,11 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
     "tags": [
       "new format rebranding",
       "sports news",
@@ -16090,7 +16388,11 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
     "tags": [
       "new format rebranding",
       "sports news",
@@ -16275,7 +16577,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "modern rock",
       "re-branding new format",
@@ -16295,7 +16599,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "commercial",
       "contemporary hits",
@@ -16316,7 +16622,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -16421,7 +16728,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -16441,7 +16749,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock"
     ],
@@ -16544,7 +16854,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -16619,8 +16931,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "community radio",
@@ -16641,7 +16953,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "bell media",
       "news talk"
@@ -16660,7 +16975,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "mainstream rock"
     ],
@@ -16696,7 +17013,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock",
       "medicine hat"
@@ -16816,13 +17135,15 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "community"
+    ],
     "tags": [
       "community alternative"
     ],
     "homepage": "https://radiowaterloo.ca/listen",
     "favicon": "https://radiowaterloo.ca/wp-content/uploads/2017/05/cropped-ckmsLogoSquare-1-e1550119984139.png",
-    "type": null,
+    "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:08:23Z"
   },
@@ -16892,7 +17213,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits",
       "commercial",
@@ -16913,7 +17236,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80's",
@@ -16939,7 +17263,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80's",
@@ -17123,8 +17448,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -17182,8 +17507,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "news",
@@ -17282,7 +17607,9 @@
     "country": "CA",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "lite music",
       "soft rock"
@@ -17341,7 +17668,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "variety hits"
     ],
@@ -17463,7 +17792,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -17502,7 +17833,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -17524,7 +17856,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "edmonton"
@@ -17696,7 +18030,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -17827,7 +18162,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "mainstream rock"
     ],
@@ -17948,7 +18285,8 @@
       "en"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "bell",
@@ -17993,8 +18331,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "blues"
+      "blues",
+      "community"
     ],
     "tags": [
       "blues",
@@ -18018,8 +18356,9 @@
       "en"
     ],
     "categories": [
+      "blues",
       "community",
-      "blues"
+      "rock"
     ],
     "tags": [
       "blues",
@@ -18075,7 +18414,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "chatham",
       "chatham-kent",
@@ -18096,7 +18437,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "commercial",
       "essex",
@@ -18161,10 +18504,10 @@
       "fr"
     ],
     "categories": [
-      "news",
-      "talk",
+      "college",
       "community",
-      "college"
+      "news",
+      "talk"
     ],
     "tags": [
       "alternative",
@@ -18194,8 +18537,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "campus radio",
@@ -18258,8 +18601,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "community radio",
@@ -18412,7 +18755,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -18430,7 +18775,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult hits"
     ],
@@ -18656,7 +19003,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "news radio",
       "vancouver"
@@ -18675,7 +19024,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "commercial",
@@ -18786,6 +19137,7 @@
       "en"
     ],
     "categories": [
+      "news",
       "pop",
       "rock"
     ],
@@ -18811,8 +19163,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "campus radio",
@@ -19074,7 +19426,8 @@
     "subdivision": "Toronto, ON",
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "classics rock",
@@ -19094,7 +19447,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "country",
+      "pop"
+    ],
     "tags": [
       "country hits"
     ],
@@ -19112,7 +19468,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "soft rock"
     ],
@@ -19151,6 +19509,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -19170,9 +19529,9 @@
     "subdivision": "Ontario",
     "languages": [],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "60s",
@@ -19295,7 +19654,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "toronto"
@@ -19333,8 +19694,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "classic metal",
@@ -19424,7 +19785,9 @@
     "country": "CA",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "club dance electronic house trance"
     ],
@@ -19629,7 +19992,8 @@
       "en"
     ],
     "categories": [
-      "folk"
+      "folk",
+      "rock"
     ],
     "tags": [
       "bob dylan",
@@ -19703,7 +20067,10 @@
     "country": "CA",
     "subdivision": "Alberta",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "sports",
+      "talk"
+    ],
     "tags": [
       "sports talk"
     ],
@@ -19798,7 +20165,8 @@
       "en"
     ],
     "categories": [
-      "electronic"
+      "electronic",
+      "oldies"
     ],
     "tags": [
       "90s eurodance",
@@ -19843,7 +20211,9 @@
       "en"
     ],
     "categories": [
-      "religious"
+      "news",
+      "religious",
+      "talk"
     ],
     "tags": [
       "catholic",
@@ -19946,8 +20316,8 @@
     "subdivision": "Ontario",
     "languages": [],
     "categories": [
-      "jazz",
-      "blues"
+      "blues",
+      "jazz"
     ],
     "tags": [
       "big band",
@@ -20054,8 +20424,8 @@
       "fr"
     ],
     "categories": [
-      "talk",
-      "oldies"
+      "oldies",
+      "talk"
     ],
     "tags": [
       "80s",
@@ -20078,8 +20448,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "classical"
+      "classical",
+      "pop"
     ],
     "tags": [
       "celtic",
@@ -20293,9 +20663,9 @@
       "en"
     ],
     "categories": [
-      "rock",
+      "blues",
       "country",
-      "blues"
+      "rock"
     ],
     "tags": [
       "blues",
@@ -20338,8 +20708,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "heavy metal",
@@ -20360,7 +20730,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music"
     ],
@@ -20395,8 +20767,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "country",
-      "blues"
+      "blues",
+      "country"
     ],
     "tags": [
       "americana",
@@ -20577,11 +20949,11 @@
       "fr"
     ],
     "categories": [
-      "pop",
-      "rock",
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz",
+      "pop",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -20607,13 +20979,13 @@
       "fr"
     ],
     "categories": [
-      "public",
-      "pop",
-      "rock",
-      "jazz",
+      "blues",
       "classical",
       "folk",
-      "blues"
+      "jazz",
+      "pop",
+      "public",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -20751,11 +21123,11 @@
       "fr"
     ],
     "categories": [
-      "news",
-      "talk",
-      "public",
+      "classical",
       "jazz",
-      "classical"
+      "news",
+      "public",
+      "talk"
     ],
     "tags": [
       "classical",
@@ -20823,7 +21195,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music"
     ],
@@ -20841,7 +21215,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music"
     ],
@@ -20881,8 +21257,8 @@
       "en"
     ],
     "categories": [
-      "jazz",
-      "hip-hop"
+      "hip-hop",
+      "jazz"
     ],
     "tags": [
       "funk",
@@ -20964,8 +21340,8 @@
       "fr"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "classic rock",
@@ -21042,8 +21418,8 @@
       "ja"
     ],
     "categories": [
-      "pop",
-      "anime"
+      "anime",
+      "pop"
     ],
     "tags": [
       "boysband",
@@ -21091,7 +21467,8 @@
       "ja"
     ],
     "categories": [
-      "anime"
+      "anime",
+      "pop"
     ],
     "tags": [
       "idols",
@@ -21135,7 +21512,9 @@
     "languages": [
       "ja"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "j-rock"
     ],
@@ -21152,8 +21531,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "anime",
       "oldies",
-      "anime"
+      "pop"
     ],
     "tags": [
       "60s",
@@ -21369,8 +21749,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "rock",
-      "blues"
+      "blues",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -21541,10 +21921,10 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "rock",
       "electronic",
-      "hip-hop"
+      "hip-hop",
+      "pop",
+      "rock"
     ],
     "tags": [
       "electronic",
@@ -21597,7 +21977,8 @@
       "en"
     ],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "black",
@@ -21687,8 +22068,9 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "60s",
@@ -21781,7 +22163,9 @@
     "country": "CA",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "talk & speech"
     ],
@@ -21800,8 +22184,9 @@
       "es"
     ],
     "categories": [
+      "latin",
       "oldies",
-      "latin"
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -21919,7 +22304,9 @@
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "progressive rock"
     ],
@@ -21986,7 +22373,9 @@
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "progressive rock"
     ],
@@ -22005,6 +22394,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -22082,7 +22472,9 @@
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "progressive rock"
     ],
@@ -22184,7 +22576,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "great mix of classic hits"
     ],
@@ -22249,9 +22643,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "jazz",
       "pop",
-      "rock",
-      "jazz"
+      "rock"
     ],
     "tags": [
       "drum and bass",
@@ -22370,7 +22764,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "music",
       "pop music"
@@ -22389,7 +22785,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music"
     ],
@@ -22436,9 +22834,9 @@
       "en"
     ],
     "categories": [
-      "rock",
       "classical",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "classical",
@@ -22513,7 +22911,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "alternative",
       "curated",
@@ -22579,7 +22980,9 @@
     "country": "CA",
     "subdivision": "ON",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "classic rock 50's 60's 70's 80's 90's"
     ],
@@ -22680,18 +23083,19 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "pop",
-      "rock",
-      "jazz",
+      "ambient",
+      "blues",
       "classical",
+      "country",
       "electronic",
       "hip-hop",
-      "country",
-      "reggae",
-      "blues",
+      "jazz",
       "metal",
-      "ambient"
+      "pop",
+      "punk",
+      "reggae",
+      "rock",
+      "talk"
     ],
     "tags": [
       "ambient",
@@ -22879,9 +23283,10 @@
       "en"
     ],
     "categories": [
+      "ambient",
       "community",
       "electronic",
-      "ambient"
+      "pop"
     ],
     "tags": [
       "alternative",
@@ -22908,9 +23313,10 @@
       "en"
     ],
     "categories": [
+      "ambient",
       "community",
       "electronic",
-      "ambient"
+      "pop"
     ],
     "tags": [
       "alternative",
@@ -22939,10 +23345,10 @@
       "en"
     ],
     "categories": [
-      "rock",
+      "blues",
       "country",
       "oldies",
-      "blues"
+      "rock"
     ],
     "tags": [
       "blues",
@@ -23044,8 +23450,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "hard rock",
@@ -23122,7 +23528,9 @@
     "country": "CA",
     "subdivision": "Newfoundland",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "contemporary hits",
       "jigs and reels",
@@ -23286,7 +23694,9 @@
     "country": "CA",
     "subdivision": "Ontario",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "progressive rock"
     ],
@@ -23302,7 +23712,9 @@
     "country": "CA",
     "subdivision": "Ontario",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "metal"
+    ],
     "tags": [
       "power metal",
       "prog metal",
@@ -23320,7 +23732,9 @@
     "country": "CA",
     "subdivision": "Ontario",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "prog rock",
       "progressive rock"
@@ -23362,8 +23776,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -23491,9 +23905,9 @@
       "en"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "70s",
@@ -23521,8 +23935,8 @@
       "nl"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "oldies",
@@ -23582,7 +23996,9 @@
       "en"
     ],
     "categories": [
-      "christmas"
+      "christmas",
+      "classical",
+      "rock"
     ],
     "tags": [
       "christmas",
@@ -23668,8 +24084,8 @@
       "fr"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "hard rock",
@@ -23708,9 +24124,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -23733,9 +24149,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -23758,9 +24174,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -23783,9 +24199,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -23808,9 +24224,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -23833,9 +24249,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -23858,9 +24274,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -23883,9 +24299,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -23908,9 +24324,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -23933,9 +24349,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -23958,9 +24374,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -23983,9 +24399,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -24008,9 +24424,9 @@
       "fr"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -24695,8 +25111,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "catholic",
@@ -24739,8 +25155,8 @@
       "es"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "catholic",
@@ -24762,8 +25178,8 @@
       "it"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "catholic",
@@ -24851,8 +25267,8 @@
       "fr"
     ],
     "categories": [
-      "pop",
-      "folk"
+      "folk",
+      "pop"
     ],
     "tags": [
       "ethnic",
@@ -24931,9 +25347,9 @@
       "fr"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "80s",
@@ -25121,9 +25537,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "funk",
@@ -25201,7 +25617,9 @@
       "it"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "70's",
@@ -25292,8 +25710,8 @@
       "en"
     ],
     "categories": [
-      "reggae",
-      "ambient"
+      "ambient",
+      "reggae"
     ],
     "tags": [
       "chill",
@@ -25367,7 +25785,8 @@
       "fr"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "50s",
@@ -25422,8 +25841,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "adult contemporary",
@@ -25771,7 +26190,9 @@
     "languages": [
       "fr"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult pop"
     ],
@@ -25801,7 +26222,10 @@
     "country": "CA",
     "subdivision": "Toronto",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "hip-hop",
+      "religious"
+    ],
     "tags": [
       "african music",
       "afrobeats",
@@ -25941,8 +26365,8 @@
       "en"
     ],
     "categories": [
-      "jazz",
-      "ambient"
+      "ambient",
+      "jazz"
     ],
     "tags": [
       "ambient",
@@ -25983,8 +26407,8 @@
       "en"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "chillout",
@@ -26057,8 +26481,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "jazz",
-      "ambient"
+      "ambient",
+      "jazz"
     ],
     "tags": [
       "acid jazz",
@@ -26159,6 +26583,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "electronic",
       "jazz"
     ],
     "tags": [
@@ -26180,9 +26605,9 @@
       "en"
     ],
     "categories": [
-      "pop",
+      "ambient",
       "electronic",
-      "ambient"
+      "pop"
     ],
     "tags": [
       "alternative",
@@ -26237,7 +26662,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "christian music",
       "christian-music"
@@ -26269,7 +26696,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "650",
@@ -26414,8 +26842,9 @@
       "en"
     ],
     "categories": [
+      "blues",
       "jazz",
-      "blues"
+      "latin"
     ],
     "tags": [
       "blues",
@@ -26440,7 +26869,9 @@
     "country": "CA",
     "subdivision": "BC",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -26669,7 +27100,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music",
       "pop-music"
@@ -26798,7 +27231,9 @@
     "country": "CA",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits"
@@ -26836,7 +27271,9 @@
     "country": "CA",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies"
+    ],
     "tags": [
       "70s disco",
       "disco"
@@ -26898,9 +27335,9 @@
       "en"
     ],
     "categories": [
+      "hip-hop",
       "pop",
-      "rock",
-      "hip-hop"
+      "rock"
     ],
     "tags": [
       "hip-hop",
@@ -27023,8 +27460,8 @@
       "eng"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "metal",
@@ -27369,8 +27806,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "folk"
+      "folk",
+      "rock"
     ],
     "tags": [
       "classic rock",
@@ -27393,8 +27830,8 @@
       "fr"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "campus radio",
@@ -27488,7 +27925,9 @@
     "languages": [
       "ta"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "christian praise&worship",
       "tamil",
@@ -27692,7 +28131,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "music"
@@ -27711,7 +28152,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "commercial",
       "local news"
@@ -27801,7 +28244,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
     "tags": [
       "80s hits"
     ],
@@ -27885,8 +28331,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "60s",
@@ -27932,7 +28378,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop rock",
       "top hits"
@@ -27969,9 +28418,9 @@
     ],
     "categories": [
       "news",
-      "talk",
+      "oldies",
       "rock",
-      "oldies"
+      "talk"
     ],
     "tags": [
       "big band sunday",
@@ -28058,8 +28507,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "96.1",

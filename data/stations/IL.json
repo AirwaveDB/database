@@ -52,8 +52,8 @@
       "en"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "ambient",
@@ -84,10 +84,11 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "rock",
+      "blues",
+      "country",
       "oldies",
-      "blues"
+      "pop",
+      "rock"
     ],
     "tags": [
       "60s",
@@ -125,6 +126,7 @@
     ],
     "categories": [
       "latin",
+      "pop",
       "reggae"
     ],
     "tags": [
@@ -604,7 +606,10 @@
       "en",
       "he"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "60's",
       "70's",
@@ -745,9 +750,9 @@
       "he"
     ],
     "categories": [
-      "public",
+      "classical",
       "jazz",
-      "classical"
+      "public"
     ],
     "tags": [
       "classical",
@@ -839,7 +844,8 @@
     ],
     "categories": [
       "news",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "music",
@@ -936,7 +942,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "90s",
@@ -1158,11 +1165,12 @@
       "he"
     ],
     "categories": [
+      "hip-hop",
+      "jazz",
       "news",
       "pop",
       "rock",
-      "jazz",
-      "hip-hop"
+      "talk"
     ],
     "tags": [
       "alternative rock",
@@ -1203,7 +1211,9 @@
       "el",
       "he"
     ],
-    "categories": [],
+    "categories": [
+      "folk"
+    ],
     "tags": [
       "greek folk",
       "greek folk music",
@@ -1213,7 +1223,7 @@
     ],
     "homepage": "https://www.radio-yasoo.com/",
     "favicon": "https://www.radio-yasoo.com/index.files/image009.jpg",
-    "type": null,
+    "type": "internet",
     "sourceCount": 1,
     "updatedAt": "2026-06-23T09:44:34Z"
   },
@@ -2012,9 +2022,9 @@
       "he"
     ],
     "categories": [
-      "rock",
       "metal",
-      "punk"
+      "punk",
+      "rock"
     ],
     "tags": [
       "indy",
@@ -2262,7 +2272,9 @@
     "languages": [
       "he"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news"
     ],
@@ -2280,7 +2292,9 @@
     "languages": [
       "he"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local music",
       "local news",

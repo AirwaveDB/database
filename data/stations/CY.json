@@ -23,7 +23,9 @@
     "languages": [
       "el"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "music"
@@ -386,8 +388,9 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "ambient"
+      "ambient",
+      "pop",
+      "rock"
     ],
     "tags": [
       "chillout",
@@ -504,7 +507,9 @@
     "languages": [
       "el"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "greek pop"
     ],
@@ -535,9 +540,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "1980s",
@@ -851,7 +856,9 @@
     "languages": [
       "el"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "byzantine",
       "ecclesia",

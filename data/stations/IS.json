@@ -26,7 +26,9 @@
     "country": "IS",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "80´s pop"
     ],
@@ -96,8 +98,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "local music",
@@ -314,8 +316,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -420,9 +422,9 @@
       "is"
     ],
     "categories": [
+      "country",
       "pop",
-      "rock",
-      "country"
+      "rock"
     ],
     "tags": [
       "country",
@@ -467,6 +469,7 @@
       "is"
     ],
     "categories": [
+      "news",
       "talk"
     ],
     "tags": [

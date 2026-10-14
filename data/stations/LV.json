@@ -71,7 +71,9 @@
     "languages": [
       "lv"
     ],
-    "categories": [],
+    "categories": [
+      "ambient"
+    ],
     "tags": [
       "chill & relax"
     ],
@@ -176,7 +178,9 @@
       "en",
       "lv"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "fresh hits",
       "kas varētu kļūt par hitiem",
@@ -565,8 +569,8 @@
       "lv"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -696,8 +700,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "latvijas radio",
@@ -721,8 +725,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "latvijas radio",
@@ -745,8 +749,8 @@
       "lv"
     ],
     "categories": [
-      "public",
-      "pop"
+      "pop",
+      "public"
     ],
     "tags": [
       "latvijas radio",
@@ -768,8 +772,8 @@
       "lv"
     ],
     "categories": [
-      "public",
-      "pop"
+      "pop",
+      "public"
     ],
     "tags": [
       "latvijas radio",
@@ -791,8 +795,8 @@
       "lv"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "classical",
@@ -931,8 +935,8 @@
       "ru"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -988,8 +992,8 @@
       "en"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "chillout",
@@ -1112,10 +1116,10 @@
       "ru"
     ],
     "categories": [
-      "news",
-      "pop",
+      "folk",
       "jazz",
-      "folk"
+      "news",
+      "pop"
     ],
     "tags": [
       "folk",
@@ -1139,8 +1143,8 @@
     ],
     "categories": [
       "college",
-      "rock",
-      "electronic"
+      "electronic",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -1211,8 +1215,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "rock"
+      "rock",
+      "talk"
     ],
     "tags": [
       "classic rock",
@@ -1322,8 +1326,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "rock"
+      "rock",
+      "talk"
     ],
     "tags": [
       "classic rock",
@@ -1344,7 +1348,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "dance & electronic"
     ],
@@ -1362,7 +1368,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "dance & electronic"
     ],
@@ -1380,7 +1388,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "dance & electronic"
     ],
@@ -1398,7 +1408,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "dance & electronic"
     ],
@@ -1432,7 +1444,9 @@
     "languages": [
       "lv"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "24/7",
       "ai music",
@@ -1604,8 +1618,10 @@
     "subdivision": "Latvia",
     "languages": [],
     "categories": [
-      "rock",
-      "folk"
+      "folk",
+      "news",
+      "pop",
+      "rock"
     ],
     "tags": [
       "folk",
@@ -1760,7 +1776,9 @@
     "country": "LV",
     "subdivision": "Riga",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "club dj remix dance pop"
     ],
@@ -1798,7 +1816,11 @@
     "languages": [
       "lv"
     ],
-    "categories": [],
+    "categories": [
+      "ambient",
+      "electronic",
+      "pop"
+    ],
     "tags": [
       "lounge pop house"
     ],
@@ -1815,8 +1837,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "jazz",
-      "ambient"
+      "ambient",
+      "electronic",
+      "jazz"
     ],
     "tags": [
       "afro house",

@@ -274,7 +274,11 @@
     "country": "HT",
     "subdivision": "carrefour",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "religious",
+      "sports"
+    ],
     "tags": [
       "cultural news",
       "gospel music",
@@ -374,7 +378,9 @@
     "country": "HT",
     "subdivision": "Port-au-Prince",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "talk show"
     ],
@@ -453,9 +459,9 @@
       "fr"
     ],
     "categories": [
-      "talk",
       "community",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "adventist",

@@ -42,10 +42,10 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "rock",
       "hip-hop",
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "90s",
@@ -90,8 +90,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "news",
@@ -194,11 +194,11 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "rock",
       "folk",
+      "metal",
       "oldies",
-      "metal"
+      "pop",
+      "rock"
     ],
     "tags": [
       "90s",
@@ -261,8 +261,8 @@
       "hu"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -734,7 +734,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "ambient"
+    ],
     "tags": [
       "chillout+lounge"
     ],
@@ -836,8 +838,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "ambient"
+      "ambient",
+      "pop"
     ],
     "tags": [
       "chillout",
@@ -858,11 +860,11 @@
       "ro"
     ],
     "categories": [
-      "jazz",
+      "ambient",
       "electronic",
       "hip-hop",
-      "reggae",
-      "ambient"
+      "jazz",
+      "reggae"
     ],
     "tags": [
       "ambient",
@@ -934,7 +936,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "classic hits",
@@ -1296,7 +1299,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],
@@ -1312,7 +1317,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],
@@ -1364,7 +1371,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],
@@ -1414,7 +1423,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],
@@ -1448,7 +1459,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],
@@ -1498,7 +1511,10 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "electronic",
+      "folk"
+    ],
     "tags": [
       "experimental",
       "indie electronic",
@@ -1587,7 +1603,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],
@@ -1726,7 +1744,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],
@@ -1761,7 +1781,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music",
       "symphony"
@@ -1778,7 +1800,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],
@@ -1813,7 +1837,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],
@@ -1889,9 +1915,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
+      "ambient",
       "jazz",
-      "ambient"
+      "pop"
     ],
     "tags": [
       "chill",
@@ -1915,8 +1941,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "ambient"
+      "ambient",
+      "pop"
     ],
     "tags": [
       "chill",
@@ -1954,8 +1980,8 @@
       "ro"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "christian",
@@ -2113,7 +2139,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "deep house"
     ],
@@ -2129,7 +2157,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "deep house"
     ],
@@ -2295,8 +2325,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -2392,12 +2422,12 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "rock",
+      "blues",
       "electronic",
       "folk",
       "oldies",
-      "blues"
+      "pop",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -2424,12 +2454,12 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "rock",
+      "blues",
       "electronic",
       "folk",
       "oldies",
-      "blues"
+      "pop",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -2565,7 +2595,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "hungarian pop music"
     ],
@@ -2679,7 +2711,9 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult contemporary",
       "adult-contemporary",
@@ -2875,7 +2909,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "hungarian pop music"
     ],
@@ -3063,7 +3099,10 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "amateur radio",
       "classic hits",
@@ -3109,7 +3148,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "disco hits"
     ],
@@ -3203,9 +3244,9 @@
       "ro"
     ],
     "categories": [
+      "electronic",
       "news",
-      "pop",
-      "electronic"
+      "pop"
     ],
     "tags": [
       "dance",
@@ -3254,8 +3295,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "ecletcic",
@@ -3276,7 +3317,9 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "folk"
+    ],
     "tags": [
       "muzică de petrecere",
       "petrecere",
@@ -3387,7 +3430,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
     "tags": [
       "ambient electronic",
       "chillhop",
@@ -3469,8 +3515,8 @@
       "en"
     ],
     "categories": [
-      "jazz",
-      "ambient"
+      "ambient",
+      "jazz"
     ],
     "tags": [
       "cafe",
@@ -3512,7 +3558,10 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
     "tags": [
       "70 80 hits",
       "90s hits",
@@ -3531,10 +3580,10 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "blues",
       "classical",
       "country",
-      "oldies",
-      "blues"
+      "oldies"
     ],
     "tags": [
       "70s",
@@ -3556,10 +3605,10 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "blues",
       "classical",
       "country",
-      "oldies",
-      "blues"
+      "oldies"
     ],
     "tags": [
       "70s",
@@ -3581,10 +3630,10 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "blues",
       "classical",
       "country",
-      "oldies",
-      "blues"
+      "oldies"
     ],
     "tags": [
       "70s",
@@ -3730,7 +3779,8 @@
       "ro"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "2000s",
@@ -3777,7 +3827,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "oldies"
+    ],
     "tags": [
       "music 80s 90s"
     ],
@@ -3990,7 +4042,9 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "top hits",
       "top-hits"
@@ -4011,8 +4065,8 @@
     ],
     "categories": [
       "news",
-      "rock",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "chansons françaises",
@@ -4130,8 +4184,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "metal",
@@ -4193,8 +4247,10 @@
       "hu"
     ],
     "categories": [
-      "talk",
-      "oldies"
+      "oldies",
+      "pop",
+      "rock",
+      "talk"
     ],
     "tags": [
       "etnic",
@@ -4230,8 +4286,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "hard rock",
@@ -4329,7 +4385,10 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "electronic",
+      "pop"
+    ],
     "tags": [
       "dance",
       "house və electronic hits"
@@ -4513,8 +4572,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -4580,7 +4639,9 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "romanian pop"
     ],
@@ -4665,9 +4726,9 @@
       "hu"
     ],
     "categories": [
+      "jazz",
       "pop",
-      "rock",
-      "jazz"
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -4707,8 +4768,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "adult contemporary",
@@ -4761,8 +4822,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "jazz"
+      "jazz",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -4975,8 +5036,8 @@
       "ro"
     ],
     "categories": [
-      "public",
-      "oldies"
+      "oldies",
+      "public"
     ],
     "tags": [
       "70s",
@@ -5075,7 +5136,9 @@
       "en",
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "oldies"
+    ],
     "tags": [
       "gold",
       "golden",
@@ -5170,7 +5233,9 @@
       "en",
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "magic fm",
       "party",
@@ -5228,7 +5293,8 @@
       "ro"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -5301,8 +5367,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "oldies",
-      "ambient"
+      "ambient",
+      "oldies"
     ],
     "tags": [
       "ambient",
@@ -5420,9 +5486,10 @@
       "ro"
     ],
     "categories": [
+      "jazz",
       "news",
       "rock",
-      "jazz"
+      "talk"
     ],
     "tags": [
       "classic rock",
@@ -5449,8 +5516,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "love",
@@ -5491,8 +5558,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -5550,8 +5617,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -5711,8 +5778,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -5758,8 +5825,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -5784,9 +5851,9 @@
       "ro"
     ],
     "categories": [
-      "talk",
+      "oldies",
       "pop",
-      "oldies"
+      "talk"
     ],
     "tags": [
       "dance",
@@ -5827,8 +5894,9 @@
     "subdivision": "Bucharest",
     "languages": [],
     "categories": [
+      "oldies",
       "pop",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "classic hits",
@@ -5871,7 +5939,9 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "local radio",
       "top hits"
@@ -5911,6 +5981,8 @@
       "ro"
     ],
     "categories": [
+      "folk",
+      "pop",
       "talk"
     ],
     "tags": [
@@ -6030,7 +6102,8 @@
     ],
     "categories": [
       "news",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "00s",
@@ -6058,8 +6131,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "00s",
@@ -6241,10 +6314,10 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "rock",
       "electronic",
       "hip-hop",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "dance",
@@ -6268,7 +6341,9 @@
       "en",
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "beach",
       "deep",
@@ -6377,8 +6452,8 @@
       "ro"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "afro house",
@@ -6420,7 +6495,8 @@
       "ro"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "90s",
@@ -6481,8 +6557,8 @@
     ],
     "categories": [
       "news",
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -6524,8 +6600,8 @@
       "ro"
     ],
     "categories": [
-      "jazz",
-      "ambient"
+      "ambient",
+      "jazz"
     ],
     "tags": [
       "ambiental și lounge",
@@ -6589,7 +6665,10 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop"
+    ],
     "tags": [
       "local news",
       "top hits",
@@ -6609,7 +6688,10 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop"
+    ],
     "tags": [
       "local news",
       "top hits",
@@ -6794,7 +6876,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "local radio",
       "pop music",
@@ -6896,8 +6980,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "jazz"
+      "jazz",
+      "pop"
     ],
     "tags": [
       "jazz",
@@ -6920,8 +7004,8 @@
       "ro"
     ],
     "categories": [
-      "rock",
-      "folk"
+      "folk",
+      "rock"
     ],
     "tags": [
       "classic rock",
@@ -7012,7 +7096,9 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "orthodox christian",
       "religion"
@@ -7066,9 +7152,9 @@
       "ro"
     ],
     "categories": [
-      "pop",
+      "ambient",
       "hip-hop",
-      "ambient"
+      "pop"
     ],
     "tags": [
       "chill",
@@ -7111,8 +7197,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -7184,7 +7270,9 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "folk"
+    ],
     "tags": [
       "romanian folk"
     ],
@@ -7200,7 +7288,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -7221,7 +7311,8 @@
       "ro"
     ],
     "categories": [
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "catholic",
@@ -7370,9 +7461,9 @@
       "ro"
     ],
     "categories": [
-      "pop",
       "electronic",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -7450,8 +7541,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "comercială",
@@ -7518,8 +7609,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "gold",
@@ -7604,6 +7695,7 @@
       "ro"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -7834,9 +7926,10 @@
       "ro"
     ],
     "categories": [
-      "pop",
+      "latin",
       "oldies",
-      "latin"
+      "pop",
+      "rock"
     ],
     "tags": [
       "70s",
@@ -7889,8 +7982,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "folk"
+      "folk",
+      "pop"
     ],
     "tags": [
       "adult contemporary",
@@ -7925,8 +8018,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -8059,8 +8152,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -8080,7 +8173,10 @@
     "country": "RO",
     "subdivision": "Gorj",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "latin",
+      "pop"
+    ],
     "tags": [
       "latin pop",
       "manele și petrecere",
@@ -8171,6 +8267,7 @@
       "ro"
     ],
     "categories": [
+      "folk",
       "news",
       "pop"
     ],
@@ -8197,8 +8294,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "jazz",
-      "ambient"
+      "ambient",
+      "jazz"
     ],
     "tags": [
       "jazz",
@@ -8233,6 +8330,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "electronic",
       "pop"
     ],
     "tags": [
@@ -8312,8 +8410,8 @@
       "ro"
     ],
     "categories": [
-      "rock",
-      "jazz"
+      "jazz",
+      "rock"
     ],
     "tags": [
       "fusion",
@@ -8649,9 +8747,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "dance",
@@ -8676,6 +8774,7 @@
     ],
     "categories": [
       "news",
+      "pop",
       "rock"
     ],
     "tags": [
@@ -8702,8 +8801,8 @@
       "ro"
     ],
     "categories": [
-      "religious",
-      "ambient"
+      "ambient",
+      "religious"
     ],
     "tags": [
       "christian",
@@ -8790,13 +8889,13 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "rock",
+      "ambient",
       "country",
       "folk",
-      "oldies",
       "latin",
-      "ambient"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "00s",
@@ -8839,11 +8938,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "rock",
-      "oldies",
+      "ambient",
       "latin",
-      "ambient"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "00s",
@@ -9181,8 +9280,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -9239,7 +9338,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "hungarian pop music",
       "top hits"
@@ -9258,7 +9359,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "local radio",
       "top hits"
@@ -9311,7 +9414,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "local radio",
       "top hits"
@@ -9330,7 +9435,11 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -9352,7 +9461,12 @@
       "hu",
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop",
+      "rock",
+      "talk"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -9376,6 +9490,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -9397,7 +9512,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "local radio",
       "top hits"
@@ -9477,7 +9594,9 @@
     "country": "RO",
     "subdivision": "Bucuresti",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas songs",
       "colinde"
@@ -9540,7 +9659,9 @@
     "country": "RO",
     "subdivision": "Bucuresti",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "retro hits"
     ],
@@ -9619,8 +9740,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -9663,8 +9784,8 @@
     ],
     "categories": [
       "community",
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "community",
@@ -9922,8 +10043,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -9994,7 +10115,10 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "adult contemporary",
       "adult-contemporary",
@@ -10041,7 +10165,9 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "folk"
+    ],
     "tags": [
       "etno",
       "muzică de petrecere",
@@ -10128,8 +10254,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "90s",
@@ -10262,8 +10388,8 @@
     "subdivision": "Bucuresti",
     "languages": [],
     "categories": [
-      "country",
-      "blues"
+      "blues",
+      "country"
     ],
     "tags": [
       "blues",
@@ -10414,8 +10540,8 @@
       "ro"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "catholic",
@@ -10541,9 +10667,9 @@
       "ro"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "oldies",
@@ -10873,8 +10999,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "00s",
@@ -11291,11 +11417,11 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "rock",
       "jazz",
+      "latin",
       "oldies",
-      "latin"
+      "pop",
+      "rock"
     ],
     "tags": [
       "dance",
@@ -11319,11 +11445,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "rock",
       "electronic",
       "hip-hop",
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "90s",
@@ -11430,8 +11556,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "00s",
@@ -11515,7 +11641,9 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "folk"
+    ],
     "tags": [
       "etno",
       "muzică de petrecere",
@@ -11646,7 +11774,10 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "dance",
       "pop rock"
@@ -11834,8 +11965,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "hits",
@@ -11858,8 +11989,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -11933,10 +12064,10 @@
       "ro"
     ],
     "categories": [
+      "folk",
       "news",
-      "talk",
       "pop",
-      "folk"
+      "talk"
     ],
     "tags": [
       "folk",
@@ -11973,7 +12104,8 @@
       "ro"
     ],
     "categories": [
-      "news"
+      "news",
+      "pop"
     ],
     "tags": [
       "music",
@@ -11995,6 +12127,7 @@
       "ro"
     ],
     "categories": [
+      "news",
       "talk"
     ],
     "tags": [
@@ -12064,7 +12197,10 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "local programming",
       "news talk music"
@@ -12084,8 +12220,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "folk"
+      "folk",
+      "pop"
     ],
     "tags": [
       "folk",
@@ -12157,7 +12293,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "etnic",
       "local news",
@@ -12381,10 +12519,10 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "rock",
       "electronic",
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -12580,11 +12718,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "rock",
+      "blues",
       "country",
       "folk",
-      "blues"
+      "pop",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -12641,8 +12779,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "news",
@@ -12776,8 +12914,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80's",
@@ -12826,8 +12964,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "dance pop",
@@ -12941,7 +13079,9 @@
       "ro"
     ],
     "categories": [
-      "electronic"
+      "electronic",
+      "pop",
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -13005,10 +13145,10 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "folk",
       "news",
       "pop",
-      "rock",
-      "folk"
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -13032,10 +13172,10 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "folk",
       "news",
       "pop",
-      "rock",
-      "folk"
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -13085,6 +13225,7 @@
       "ro"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -13176,7 +13317,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "local",
       "mix",
@@ -13194,7 +13337,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music"
     ],
@@ -13401,7 +13546,10 @@
     "country": "RO",
     "subdivision": "Bihor",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious",
+      "talk"
+    ],
     "tags": [
       "christian music",
       "christian talk"
@@ -13664,8 +13812,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "oldies",
@@ -13699,8 +13847,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "hip-hop"
+      "hip-hop",
+      "pop"
     ],
     "tags": [
       "disco",
@@ -13789,8 +13937,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "oldies",
@@ -13843,7 +13991,9 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "local radio",
       "top hits"
@@ -14004,9 +14154,9 @@
       "en"
     ],
     "categories": [
+      "folk",
       "pop",
-      "rock",
-      "folk"
+      "rock"
     ],
     "tags": [
       "disco",
@@ -14032,9 +14182,9 @@
       "en"
     ],
     "categories": [
-      "rock",
+      "ambient",
       "jazz",
-      "ambient"
+      "rock"
     ],
     "tags": [
       "ambient",
@@ -14057,7 +14207,9 @@
     "subdivision": "Harghita",
     "languages": [],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "oldies",
@@ -14080,9 +14232,9 @@
     ],
     "categories": [
       "news",
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "news",
@@ -14259,8 +14411,9 @@
       "ro"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "pop",
+      "rock"
     ],
     "tags": [
       "metal",
@@ -14283,8 +14436,8 @@
       "ro"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -14369,10 +14522,10 @@
     "subdivision": "Bucuresti",
     "languages": [],
     "categories": [
+      "folk",
       "news",
-      "talk",
       "pop",
-      "folk"
+      "talk"
     ],
     "tags": [
       "folk",
@@ -14512,7 +14665,9 @@
       "ro"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "golden oldies",
@@ -14571,7 +14726,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "evangelical christian",
       "religios"
@@ -14588,7 +14745,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "evangelical christian",
       "music",
@@ -14606,7 +14765,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "evangelical christian",
       "religios"
@@ -14623,7 +14784,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "evangelical christian",
       "religios"
@@ -14640,7 +14803,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "evangelical christian",
       "religios"
@@ -14659,7 +14824,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "local radio",
       "top hits"
@@ -14679,7 +14846,9 @@
       "en",
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "deep techno",
       "microhouse",
@@ -14737,7 +14906,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "etnic",
       "local news",
@@ -14756,7 +14927,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -14836,10 +15009,10 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "rock",
       "electronic",
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -14881,6 +15054,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -14902,6 +15076,7 @@
       "hu"
     ],
     "categories": [
+      "news",
       "talk"
     ],
     "tags": [
@@ -14976,8 +15151,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "jazz",
-      "classical"
+      "classical",
+      "jazz"
     ],
     "tags": [
       "classical",
@@ -15062,7 +15237,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music",
       "colinde"
@@ -15263,6 +15440,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "oldies",
       "rock"
     ],
     "tags": [
@@ -15284,7 +15462,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -15429,7 +15609,8 @@
     "subdivision": "Ploiesti",
     "languages": [],
     "categories": [
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "chill",
@@ -15504,8 +15685,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80's",
@@ -15596,8 +15777,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -15638,8 +15819,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70's",
@@ -15665,8 +15846,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "rock",
       "sports",
-      "rock"
+      "talk"
     ],
     "tags": [
       "just music no talking",
@@ -15706,7 +15888,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "news"
+      "news",
+      "pop",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -15726,7 +15910,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "news"
+      "news",
+      "pop",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -15748,7 +15934,10 @@
       "en",
       "ro"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "alternative",
       "pop rock"
@@ -15783,7 +15972,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "adult contemporary",
       "local news",
@@ -15804,9 +15995,9 @@
     "languages": [],
     "categories": [
       "news",
-      "talk",
       "pop",
-      "rock"
+      "rock",
+      "talk"
     ],
     "tags": [
       "90's",
@@ -15853,7 +16044,10 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -15875,6 +16069,7 @@
       "hu"
     ],
     "categories": [
+      "news",
       "pop",
       "rock"
     ],
@@ -15926,7 +16121,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -15944,7 +16141,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -15962,7 +16161,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -16125,6 +16326,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "news",
       "pop",
       "rock"
     ],
@@ -16323,11 +16525,11 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "rock",
+      "blues",
       "country",
       "folk",
-      "blues"
+      "pop",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -16452,7 +16654,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "etnic",
       "local news",
@@ -16473,7 +16677,10 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop"
+    ],
     "tags": [
       "local news",
       "top hits",
@@ -16493,7 +16700,9 @@
     "languages": [
       "hu"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "etnic",
       "local news",
@@ -16512,7 +16721,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "etnic",
       "local news",
@@ -16617,9 +16828,10 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "talk",
+      "news",
       "pop",
-      "rock"
+      "rock",
+      "talk"
     ],
     "tags": [
       "local news",
@@ -16779,8 +16991,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "news",
+      "oldies",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -16801,8 +17014,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "oldies"
+      "news",
+      "oldies",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -16823,8 +17037,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "talk",
-      "ambient"
+      "ambient",
+      "talk"
     ],
     "tags": [
       "ambient",
@@ -16858,8 +17072,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "blues"
+      "blues",
+      "pop"
     ],
     "tags": [
       "70's",
@@ -16898,6 +17112,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "news",
       "talk"
     ],
     "tags": [
@@ -16936,9 +17151,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
       "electronic",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -16960,6 +17175,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "news",
       "pop"
     ],
     "tags": [
@@ -17067,7 +17283,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17085,7 +17303,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17103,7 +17323,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17121,7 +17343,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17139,7 +17363,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17157,7 +17383,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17175,7 +17403,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17193,7 +17423,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17211,7 +17443,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17229,7 +17463,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17247,7 +17483,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local",
       "local news",
@@ -17265,7 +17503,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17283,7 +17523,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -17367,7 +17609,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -17384,6 +17628,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -17603,10 +17848,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "rock",
+      "folk",
       "jazz",
-      "folk"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "00's",
@@ -17743,9 +17989,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "latin",
       "pop",
-      "rock",
-      "latin"
+      "rock"
     ],
     "tags": [
       "dance",
@@ -17786,8 +18032,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "hip-hop"
+      "hip-hop",
+      "pop"
     ],
     "tags": [
       "contemporary hits",
@@ -17857,8 +18103,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "oldies",
-      "ambient"
+      "ambient",
+      "blues",
+      "oldies"
     ],
     "tags": [
       "acoustic",
@@ -17895,7 +18142,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local",
       "local news",
@@ -17913,7 +18162,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local",
       "local news",
@@ -17931,7 +18182,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local",
       "local news",
@@ -17949,7 +18202,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local",
       "local news",
@@ -17967,7 +18222,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local",
       "local news",
@@ -17985,7 +18242,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local",
       "local news",
@@ -18003,7 +18262,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local",
       "local news",
@@ -18021,7 +18282,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local",
       "local news",
@@ -18171,7 +18434,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "etnic",
       "local",
@@ -18191,8 +18456,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "jazz",
-      "hip-hop"
+      "hip-hop",
+      "jazz"
     ],
     "tags": [
       "disco",
@@ -18256,7 +18521,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local",
       "local news",
@@ -18277,8 +18544,8 @@
       "ro"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "oldies",
@@ -18331,7 +18598,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "club dance electronic house trance",
       "dance"
@@ -18370,10 +18639,10 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "rock",
+      "blues",
       "oldies",
-      "blues"
+      "pop",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -18394,7 +18663,9 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "dace",
       "electro",
@@ -18431,8 +18702,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "00's",

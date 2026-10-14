@@ -5,7 +5,10 @@
     "country": "AU",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "rock"
+    ],
     "tags": [
       "70s rock"
     ],
@@ -21,7 +24,10 @@
     "country": "AU",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "rock"
+    ],
     "tags": [
       "70s rock ballads"
     ],
@@ -68,8 +74,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -91,8 +97,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -155,8 +161,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -289,8 +295,9 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "public"
+      "news",
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -427,8 +434,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -450,8 +457,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -696,7 +703,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -717,7 +725,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -738,7 +747,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -760,7 +770,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -781,7 +792,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
       "news talk"
     ],
@@ -822,6 +836,7 @@
       "en"
     ],
     "categories": [
+      "news",
       "talk"
     ],
     "tags": [
@@ -973,7 +988,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "news"
     ],
     "tags": [
       "community radio",
@@ -994,6 +1010,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "talk"
     ],
     "tags": [
@@ -1016,6 +1033,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "talk"
     ],
     "tags": [
@@ -1081,8 +1099,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "news",
@@ -1135,9 +1153,9 @@
       "en"
     ],
     "categories": [
+      "community",
       "news",
-      "talk",
-      "community"
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -1200,7 +1218,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "news"
     ],
     "tags": [
       "community radio",
@@ -1225,7 +1244,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "news"
     ],
     "tags": [
       "community radio",
@@ -1267,6 +1287,7 @@
     ],
     "categories": [
       "news",
+      "pop",
       "talk"
     ],
     "tags": [
@@ -1333,8 +1354,8 @@
       "en"
     ],
     "categories": [
-      "jazz",
-      "classical"
+      "classical",
+      "jazz"
     ],
     "tags": [
       "classical",
@@ -1600,8 +1621,9 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "sports"
+      "pop",
+      "sports",
+      "talk"
     ],
     "tags": [
       "adult contemporary",
@@ -1625,8 +1647,9 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "sports"
+      "pop",
+      "sports",
+      "talk"
     ],
     "tags": [
       "adult contemporary",
@@ -1790,9 +1813,9 @@
       "en"
     ],
     "categories": [
+      "community",
       "news",
-      "talk",
-      "community"
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -1815,9 +1838,9 @@
       "en"
     ],
     "categories": [
+      "community",
       "news",
-      "talk",
-      "community"
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -1854,8 +1877,8 @@
       "en"
     ],
     "categories": [
-      "community",
       "college",
+      "community",
       "country"
     ],
     "tags": [
@@ -1883,7 +1906,9 @@
       "en"
     ],
     "categories": [
-      "sports"
+      "news",
+      "sports",
+      "talk"
     ],
     "tags": [
       "news talk",
@@ -2293,7 +2318,8 @@
       "en"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "news",
@@ -2315,9 +2341,10 @@
     ],
     "categories": [
       "news",
-      "talk",
+      "oldies",
+      "pop",
       "sports",
-      "oldies"
+      "talk"
     ],
     "tags": [
       "classic hits",
@@ -2344,9 +2371,10 @@
     ],
     "categories": [
       "news",
-      "talk",
+      "oldies",
+      "pop",
       "sports",
-      "oldies"
+      "talk"
     ],
     "tags": [
       "classic hits",
@@ -2468,7 +2496,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "commercial"
@@ -2536,6 +2566,7 @@
     "subdivision": "Victoria",
     "languages": [],
     "categories": [
+      "community",
       "talk"
     ],
     "tags": [
@@ -2546,7 +2577,7 @@
     ],
     "homepage": "https://www.3mdr.com/",
     "favicon": "https://www.3mdr.com/wp-content/uploads/2024/12/mdr-square-170x170.jpg",
-    "type": null,
+    "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-04-27T07:01:12Z"
   },
@@ -2637,8 +2668,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "community"
+      "community",
+      "public"
     ],
     "tags": [
       "community radio",
@@ -3494,13 +3525,15 @@
     "country": "AU",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "community"
+    ],
     "tags": [
       "community politics music radical"
     ],
     "homepage": "https://4zzz.org.au/",
     "favicon": null,
-    "type": null,
+    "type": "community",
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
@@ -3510,13 +3543,15 @@
     "country": "AU",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "community"
+    ],
     "tags": [
       "community politics music radical brisbane"
     ],
     "homepage": "https://4zzz.org.au/",
     "favicon": "https://4zzz.org.au/favicon.ico",
-    "type": null,
+    "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
@@ -3580,9 +3615,9 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "adelaide",
@@ -3606,9 +3641,9 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "adelaide",
@@ -3632,8 +3667,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "classic rock",
@@ -3675,8 +3710,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -3705,8 +3740,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -3757,8 +3792,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -3786,7 +3821,9 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "1970s",
@@ -3815,8 +3852,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -3843,6 +3880,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "talk"
     ],
     "tags": [
@@ -3864,6 +3902,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "talk"
     ],
     "tags": [
@@ -4038,8 +4077,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -4453,8 +4492,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -4819,7 +4858,8 @@
       "en"
     ],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -4841,7 +4881,8 @@
       "en"
     ],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -5040,9 +5081,9 @@
       "en"
     ],
     "categories": [
+      "community",
       "news",
-      "sports",
-      "community"
+      "sports"
     ],
     "tags": [
       "community",
@@ -5116,8 +5157,8 @@
       "en"
     ],
     "categories": [
-      "news",
-      "community"
+      "community",
+      "news"
     ],
     "tags": [
       "community",
@@ -5141,9 +5182,9 @@
       "en"
     ],
     "categories": [
+      "community",
       "news",
-      "sports",
-      "community"
+      "sports"
     ],
     "tags": [
       "community",
@@ -5164,7 +5205,10 @@
     "country": "AU",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "sports",
+      "talk"
+    ],
     "tags": [
       "live sports",
       "sports talk"
@@ -5225,8 +5269,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "classical",
@@ -5249,8 +5293,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "classical",
@@ -5273,8 +5317,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "classical",
@@ -5297,8 +5341,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "classical",
@@ -5321,8 +5365,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "classical",
@@ -5345,8 +5389,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "classical",
@@ -5369,8 +5413,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "classical",
@@ -5393,8 +5437,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "abc",
@@ -5414,8 +5458,8 @@
     "subdivision": "South Australia",
     "languages": [],
     "categories": [
-      "news",
-      "classical"
+      "classical",
+      "news"
     ],
     "tags": [
       "classical",
@@ -5459,8 +5503,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "abc",
@@ -5482,8 +5526,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "abc",
@@ -5505,8 +5549,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "abc",
@@ -5528,8 +5572,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "abc",
@@ -5551,8 +5595,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "abc",
@@ -5588,9 +5632,9 @@
       "en"
     ],
     "categories": [
-      "public",
       "country",
-      "folk"
+      "folk",
+      "public"
     ],
     "tags": [
       "americana",
@@ -5634,8 +5678,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "country"
+      "country",
+      "public"
     ],
     "tags": [
       "abc",
@@ -5767,7 +5811,8 @@
       "en"
     ],
     "categories": [
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "live sports",
@@ -5790,9 +5835,9 @@
       "en"
     ],
     "categories": [
-      "public",
+      "blues",
       "jazz",
-      "blues"
+      "public"
     ],
     "tags": [
       "blues",
@@ -5815,8 +5860,8 @@
       "en"
     ],
     "categories": [
-      "jazz",
-      "blues"
+      "blues",
+      "jazz"
     ],
     "tags": [
       "blues",
@@ -5838,8 +5883,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "jazz"
+      "jazz",
+      "public"
     ],
     "tags": [
       "abc",
@@ -5861,8 +5906,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "kids"
+      "kids",
+      "public"
     ],
     "tags": [
       "children",
@@ -5902,8 +5947,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "sports"
+      "sports",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6013,7 +6058,8 @@
     ],
     "categories": [
       "news",
-      "public"
+      "public",
+      "sports"
     ],
     "tags": [
       "national news",
@@ -6114,8 +6160,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6187,8 +6233,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "international",
@@ -6237,8 +6283,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6289,8 +6335,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6341,8 +6387,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6371,8 +6417,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6401,8 +6447,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6431,8 +6477,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6461,8 +6507,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6505,8 +6551,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6535,8 +6581,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6565,8 +6611,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6595,8 +6641,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6625,8 +6671,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6655,8 +6701,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6685,8 +6731,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6715,8 +6761,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6759,8 +6805,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6789,8 +6835,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6841,8 +6887,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6871,8 +6917,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6901,8 +6947,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -6931,8 +6977,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "arts",
@@ -6959,8 +7005,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "arts",
@@ -6987,8 +7033,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "arts",
@@ -7015,8 +7061,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "arts",
@@ -7044,8 +7090,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "arts",
@@ -7072,8 +7118,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "arts",
@@ -7100,8 +7146,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "arts",
@@ -7153,8 +7199,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "abc",
@@ -7200,8 +7246,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "abc",
@@ -7226,8 +7272,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "abc",
@@ -7252,8 +7298,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "abc",
@@ -7278,8 +7324,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7308,8 +7354,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7338,8 +7384,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7368,8 +7414,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7398,8 +7444,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7428,8 +7474,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7458,8 +7504,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7504,8 +7550,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7534,8 +7580,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7564,8 +7610,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7594,8 +7640,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7624,8 +7670,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7654,8 +7700,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7684,8 +7730,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7714,8 +7760,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7760,8 +7806,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7790,8 +7836,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7842,8 +7888,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7872,8 +7918,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7902,8 +7948,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7932,8 +7978,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7962,8 +8008,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -7992,8 +8038,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local",
@@ -8109,9 +8155,10 @@
       "en"
     ],
     "categories": [
-      "public",
       "electronic",
-      "hip-hop"
+      "hip-hop",
+      "public",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -8136,9 +8183,10 @@
       "en"
     ],
     "categories": [
-      "public",
       "electronic",
-      "hip-hop"
+      "hip-hop",
+      "public",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -8163,9 +8211,10 @@
       "en"
     ],
     "categories": [
-      "public",
       "electronic",
-      "hip-hop"
+      "hip-hop",
+      "public",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -8190,9 +8239,10 @@
       "en"
     ],
     "categories": [
-      "public",
       "electronic",
-      "hip-hop"
+      "hip-hop",
+      "public",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -8217,9 +8267,10 @@
       "en"
     ],
     "categories": [
-      "public",
       "electronic",
-      "hip-hop"
+      "hip-hop",
+      "public",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -8244,8 +8295,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "pop"
+      "pop",
+      "public"
     ],
     "tags": [
       "alternative",
@@ -8566,6 +8617,7 @@
       "en"
     ],
     "categories": [
+      "christmas",
       "classical"
     ],
     "tags": [
@@ -8786,10 +8838,10 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
       "folk",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "arts",
@@ -8815,10 +8867,10 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "blues",
       "classical",
       "folk",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "arts",
@@ -8842,7 +8894,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "oldies"
+    ],
     "tags": [
       "70s 80s 90s music"
     ],
@@ -9228,7 +9282,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "metal"
+    ],
     "tags": [
       "1980s",
       "hair metal"
@@ -9585,7 +9641,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "acid house"
     ],
@@ -9621,7 +9679,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "afro house"
     ],
@@ -9711,7 +9771,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "australian music",
       "classic pop"
@@ -9833,7 +9895,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "balearica house"
     ],
@@ -9887,7 +9951,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "bass house"
     ],
@@ -9941,7 +10007,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "big room house"
     ],
@@ -10315,7 +10383,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music"
     ],
@@ -10334,6 +10404,7 @@
       "en"
     ],
     "categories": [
+      "christmas",
       "country"
     ],
     "tags": [
@@ -10354,7 +10425,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music",
       "dance"
@@ -10373,7 +10446,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "circuit house"
     ],
@@ -10391,7 +10466,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "classic house"
     ],
@@ -10447,7 +10524,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "club house"
     ],
@@ -10561,7 +10640,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "cosmic house"
     ],
@@ -11557,7 +11638,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "deep house"
     ],
@@ -11611,7 +11694,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "detroit house"
     ],
@@ -11835,7 +11920,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "electro house"
     ],
@@ -12237,7 +12324,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "french house"
     ],
@@ -12274,7 +12363,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "funky house"
     ],
@@ -12292,7 +12383,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "future house"
     ],
@@ -12418,7 +12511,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "hard house"
     ],
@@ -12436,7 +12531,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "hard trance"
     ],
@@ -12604,7 +12701,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "italian house"
     ],
@@ -12623,7 +12722,8 @@
       "en"
     ],
     "categories": [
-      "anime"
+      "anime",
+      "pop"
     ],
     "tags": [
       "j pop"
@@ -12642,7 +12742,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "jack house"
     ],
@@ -12699,7 +12801,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "jazzy house"
     ],
@@ -12845,7 +12949,8 @@
       "en"
     ],
     "categories": [
-      "anime"
+      "anime",
+      "pop"
     ],
     "tags": [
       "k pop"
@@ -12919,6 +13024,7 @@
       "en"
     ],
     "categories": [
+      "christmas",
       "kids"
     ],
     "tags": [
@@ -12996,7 +13102,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic",
+      "latin"
+    ],
     "tags": [
       "latin house"
     ],
@@ -13014,7 +13123,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "latin"
+    ],
     "tags": [
       "latin music"
     ],
@@ -13104,7 +13215,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
     "tags": [
       "lounge house"
     ],
@@ -13503,7 +13617,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "hip-hop"
+    ],
     "tags": [
       "old school rap"
     ],
@@ -13689,7 +13805,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "organ house"
     ],
@@ -13726,7 +13844,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "percussive house"
     ],
@@ -13763,7 +13883,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "piano house"
     ],
@@ -14197,7 +14319,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "progressive house"
     ],
@@ -14215,7 +14339,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "pumping house"
     ],
@@ -14620,7 +14746,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "blues"
+    ],
     "tags": [
       "r&b",
       "rhythm and blues",
@@ -14802,7 +14930,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "soulful house"
     ],
@@ -14950,7 +15080,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "tech house"
     ],
@@ -15416,7 +15548,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "tribal house"
     ],
@@ -15434,7 +15568,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "jazz"
+    ],
     "tags": [
       "acid jazz",
       "trip hop"
@@ -15453,7 +15589,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "tropical house"
     ],
@@ -15471,7 +15609,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "country"
+    ],
     "tags": [
       "truck-driving country"
     ],
@@ -15507,7 +15647,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "reggae"
+    ],
     "tags": [
       "uk dub"
     ],
@@ -15543,7 +15685,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "uk house"
     ],
@@ -15561,7 +15705,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "uplifting trance"
     ],
@@ -15615,7 +15761,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "vocal house"
     ],
@@ -15633,7 +15781,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "warehouse house"
     ],
@@ -15948,8 +16098,8 @@
       "en"
     ],
     "categories": [
-      "news",
       "community",
+      "news",
       "rock"
     ],
     "tags": [
@@ -15978,8 +16128,9 @@
       "en"
     ],
     "categories": [
+      "country",
       "news",
-      "country"
+      "rock"
     ],
     "tags": [
       "ballads",
@@ -16150,8 +16301,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -16176,8 +16327,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -16895,7 +17046,8 @@
     ],
     "categories": [
       "community",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "1960s",
@@ -16922,7 +17074,8 @@
     ],
     "categories": [
       "community",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "1960s",
@@ -17246,10 +17399,11 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "sports",
       "community",
-      "rock"
+      "news",
+      "rock",
+      "sports",
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -17388,7 +17542,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits"
@@ -17408,7 +17564,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "adult contemporary",
@@ -17430,7 +17587,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "adult contemporary",
@@ -17533,7 +17691,9 @@
     "country": "AU",
     "subdivision": "NSW",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "electronic dance music"
     ],
@@ -17566,8 +17726,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -17803,7 +17963,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "contemporary hits"
     ],
@@ -17822,9 +17984,10 @@
       "en"
     ],
     "categories": [
+      "blues",
       "electronic",
       "hip-hop",
-      "blues"
+      "jazz"
     ],
     "tags": [
       "arts",
@@ -17996,7 +18159,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "talk & music"
     ],
@@ -18427,6 +18592,7 @@
       "es"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -18457,8 +18623,8 @@
     ],
     "categories": [
       "community",
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "community radio",
@@ -18480,8 +18646,8 @@
     "subdivision": "South Australia",
     "languages": [],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -18561,8 +18727,8 @@
       "en"
     ],
     "categories": [
-      "jazz",
-      "ambient"
+      "ambient",
+      "jazz"
     ],
     "tags": [
       "acid jazz",
@@ -18714,8 +18880,8 @@
       "en"
     ],
     "categories": [
-      "news",
       "community",
+      "news",
       "rock"
     ],
     "tags": [
@@ -18880,7 +19046,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -18978,7 +19145,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits"
@@ -19130,6 +19299,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -19149,7 +19319,9 @@
     "country": "AU",
     "subdivision": "Victoria",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies"
+    ],
     "tags": [
       "gold",
       "golden oldies"
@@ -19301,7 +19473,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "pop"
     ],
     "tags": [
       "community radio",
@@ -19324,7 +19497,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "pop"
     ],
     "tags": [
       "community radio",
@@ -19347,7 +19521,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "pop"
     ],
     "tags": [
       "community radio",
@@ -19370,7 +19545,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "pop"
     ],
     "tags": [
       "community radio",
@@ -19393,14 +19569,14 @@
       "en"
     ],
     "categories": [
-      "news",
-      "community",
-      "rock",
-      "jazz",
+      "blues",
       "classical",
+      "community",
       "country",
+      "jazz",
+      "news",
       "religious",
-      "blues"
+      "rock"
     ],
     "tags": [
       "blues",
@@ -19435,14 +19611,14 @@
       "en"
     ],
     "categories": [
-      "news",
-      "community",
-      "rock",
-      "jazz",
+      "blues",
       "classical",
+      "community",
       "country",
+      "jazz",
+      "news",
       "religious",
-      "blues"
+      "rock"
     ],
     "tags": [
       "blues",
@@ -19637,8 +19813,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "heavy rock",
@@ -19694,7 +19870,8 @@
       "en"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "entertainment",
@@ -19718,7 +19895,8 @@
       "en"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "entertainment",
@@ -20303,7 +20481,8 @@
       "en"
     ],
     "categories": [
-      "news"
+      "news",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -20327,7 +20506,9 @@
     "languages": [
       "it"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "italian pop"
     ],
@@ -20410,8 +20591,8 @@
       "en"
     ],
     "categories": [
-      "sports",
-      "pop"
+      "pop",
+      "sports"
     ],
     "tags": [
       "comedy",
@@ -20434,8 +20615,8 @@
       "en"
     ],
     "categories": [
-      "sports",
-      "pop"
+      "pop",
+      "sports"
     ],
     "tags": [
       "comedy",
@@ -20585,7 +20766,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult top 40"
     ],
@@ -20681,7 +20864,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult top 40"
     ],
@@ -21073,9 +21258,9 @@
       "en"
     ],
     "categories": [
-      "talk",
       "community",
-      "oldies"
+      "oldies",
+      "talk"
     ],
     "tags": [
       "1950s",
@@ -21106,9 +21291,9 @@
       "en"
     ],
     "categories": [
-      "talk",
       "community",
-      "oldies"
+      "oldies",
+      "talk"
     ],
     "tags": [
       "1950s",
@@ -21260,7 +21445,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "religious"
     ],
     "tags": [
       "christian contemporary",
@@ -21427,8 +21613,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "1950s",
@@ -21468,7 +21654,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "1990s",
       "soft pop"
@@ -21608,7 +21796,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "australian music",
       "pub rock"
@@ -21702,7 +21892,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "british rock"
     ],
@@ -21775,8 +21967,8 @@
       "en"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "chill",
@@ -21798,8 +21990,8 @@
       "en"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "chill",
@@ -21820,8 +22012,8 @@
       "en"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "chill",
@@ -21841,7 +22033,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "ambient",
+      "jazz"
+    ],
     "tags": [
       "chill jazz"
     ],
@@ -21860,8 +22055,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "ambient"
+      "ambient",
+      "pop"
     ],
     "tags": [
       "chill",
@@ -21960,8 +22155,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "country"
+      "country",
+      "pop"
     ],
     "tags": [
       "classics",
@@ -22042,7 +22237,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "deep house"
     ],
@@ -22235,8 +22432,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -22341,8 +22538,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "folk"
+      "folk",
+      "pop"
     ],
     "tags": [
       "folk",
@@ -22476,7 +22673,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "happy hits"
     ],
@@ -22495,8 +22694,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "hard rock",
@@ -22716,7 +22915,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "indie pop"
     ],
@@ -22754,7 +22955,8 @@
       "en"
     ],
     "categories": [
-      "anime"
+      "anime",
+      "pop"
     ],
     "tags": [
       "global",
@@ -22775,7 +22977,8 @@
       "en"
     ],
     "categories": [
-      "anime"
+      "anime",
+      "pop"
     ],
     "tags": [
       "k-pop"
@@ -22813,7 +23016,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "kids",
+      "pop"
+    ],
     "tags": [
       "kids hits"
     ],
@@ -22967,7 +23173,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "movie hits"
     ],
@@ -23025,8 +23233,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -23326,8 +23534,8 @@
       "en"
     ],
     "categories": [
-      "hip-hop",
-      "ambient"
+      "ambient",
+      "hip-hop"
     ],
     "tags": [
       "chill",
@@ -23369,7 +23577,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "rock 'n' road trip"
     ],
@@ -23500,7 +23710,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "easy listening",
       "soft rock"
@@ -23727,7 +23939,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "soft rock"
     ],
@@ -23779,15 +23993,16 @@
     "subdivision": "South Australia",
     "languages": [],
     "categories": [
-      "news",
-      "talk",
-      "sports",
-      "pop",
-      "rock",
-      "jazz",
+      "community",
       "country",
       "folk",
-      "religious"
+      "jazz",
+      "news",
+      "pop",
+      "religious",
+      "rock",
+      "sports",
+      "talk"
     ],
     "tags": [
       "adelaide hills",
@@ -23813,7 +24028,7 @@
     ],
     "homepage": "https://lofty.org.au/",
     "favicon": "https://lofty.org.au/wp-content/uploads/2017/11/Loftyavatar-300x300.png",
-    "type": null,
+    "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-06-16T02:24:02Z"
   },
@@ -23913,7 +24128,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "adult contemporary",
       "classic hits"
@@ -23932,7 +24149,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop"
+    ],
     "tags": [
       "berri",
       "local news",
@@ -24043,8 +24263,8 @@
       "en"
     ],
     "categories": [
-      "jazz",
-      "classical"
+      "classical",
+      "jazz"
     ],
     "tags": [
       "brisbane",
@@ -24090,8 +24310,8 @@
       "fa"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "24/7",
@@ -24119,8 +24339,8 @@
       "fa"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "24/7",
@@ -24378,9 +24598,9 @@
       "en"
     ],
     "categories": [
+      "community",
       "news",
-      "talk",
-      "community"
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -24455,7 +24675,9 @@
       "en",
       "sm"
     ],
-    "categories": [],
+    "categories": [
+      "reggae"
+    ],
     "tags": [
       "island reggae",
       "pacific",
@@ -24511,7 +24733,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits"
@@ -24549,8 +24773,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "alternative rock",
@@ -24751,8 +24975,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -25808,6 +26032,8 @@
       "en"
     ],
     "categories": [
+      "classical",
+      "pop",
       "religious"
     ],
     "tags": [
@@ -25956,8 +26182,8 @@
     ],
     "categories": [
       "community",
-      "rock",
-      "jazz"
+      "jazz",
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -25978,13 +26204,13 @@
     "subdivision": "Victoria",
     "languages": [],
     "categories": [
+      "blues",
       "community",
-      "rock",
-      "jazz",
       "electronic",
       "hip-hop",
-      "blues",
-      "metal"
+      "jazz",
+      "metal",
+      "rock"
     ],
     "tags": [
       "australian music",
@@ -26061,15 +26287,15 @@
       "en"
     ],
     "categories": [
+      "blues",
       "community",
-      "rock",
-      "jazz",
       "electronic",
       "hip-hop",
+      "jazz",
       "latin",
+      "metal",
       "reggae",
-      "blues",
-      "metal"
+      "rock"
     ],
     "tags": [
       "australia",
@@ -26112,7 +26338,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
     "tags": [
       "classic hits 60s 70a 80s"
     ],
@@ -26410,7 +26639,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "contemporary hits"
     ],
@@ -26428,7 +26659,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock",
       "adult contemporary",
@@ -26448,7 +26681,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "active rock",
       "adult contemporary",
@@ -26470,8 +26705,8 @@
     ],
     "categories": [
       "news",
-      "sports",
-      "rock"
+      "rock",
+      "sports"
     ],
     "tags": [
       "classic rock",
@@ -26553,8 +26788,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "1950s",
@@ -26628,9 +26863,9 @@
       "en"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "00s",
@@ -26656,7 +26891,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -26848,8 +27084,8 @@
       "en"
     ],
     "categories": [
-      "news",
       "community",
+      "news",
       "pop"
     ],
     "tags": [
@@ -27079,6 +27315,7 @@
       "en"
     ],
     "categories": [
+      "ambient",
       "electronic",
       "hip-hop"
     ],
@@ -27129,9 +27366,9 @@
       "en"
     ],
     "categories": [
-      "rock",
+      "blues",
       "country",
-      "blues"
+      "rock"
     ],
     "tags": [
       "blues",
@@ -27261,7 +27498,9 @@
     "languages": [
       "el"
     ],
-    "categories": [],
+    "categories": [
+      "folk"
+    ],
     "tags": [
       "ethnic",
       "greek folk music"
@@ -27342,7 +27581,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "experimental electronic music"
     ],
@@ -27374,7 +27615,10 @@
     "country": "AU",
     "subdivision": "Sydney NSW",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock",
+      "talk"
+    ],
     "tags": [
       "rock/talk/philosophy"
     ],
@@ -27393,8 +27637,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -27417,8 +27661,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -27461,10 +27705,10 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "pop",
+      "country",
       "jazz",
-      "country"
+      "pop",
+      "talk"
     ],
     "tags": [
       "country",
@@ -27490,8 +27734,9 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "00's",
@@ -27528,8 +27773,9 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
       "00's",
@@ -28432,7 +28678,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "adult contemporary",
       "commercial",
@@ -28452,7 +28700,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "adult contemporary",
       "commercial",
@@ -28511,8 +28761,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "blues"
+      "blues",
+      "rock"
     ],
     "tags": [
       "blues",
@@ -28892,7 +29142,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "top 40 hits"
     ],
@@ -28908,7 +29160,9 @@
     "country": "AU",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "ambient"
+    ],
     "tags": [
       "ambient chill",
       "future garage"
@@ -28988,7 +29242,8 @@
       "yue"
     ],
     "categories": [
-      "anime"
+      "anime",
+      "pop"
     ],
     "tags": [
       "c-pop",
@@ -29229,10 +29484,10 @@
       "en"
     ],
     "categories": [
-      "rock",
+      "ambient",
       "electronic",
       "hip-hop",
-      "ambient"
+      "rock"
     ],
     "tags": [
       "ambient",
@@ -29847,7 +30102,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "rnb",
       "soul",
@@ -30101,8 +30358,9 @@
     ],
     "categories": [
       "community",
-      "rock",
-      "country"
+      "country",
+      "news",
+      "rock"
     ],
     "tags": [
       "community news",
@@ -30123,7 +30381,10 @@
     "country": "AU",
     "subdivision": "Victoria",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop music",
       "pop rock"
@@ -30537,8 +30798,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -30576,9 +30837,9 @@
       "en"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -30602,7 +30863,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -30660,8 +30922,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "adult contemporary",
@@ -30683,8 +30945,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "adult contemporary",
@@ -30719,7 +30981,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "remixes",
       "super hits",
@@ -30772,11 +31036,11 @@
       "en"
     ],
     "categories": [
-      "news",
       "community",
+      "country",
+      "news",
       "pop",
-      "rock",
-      "country"
+      "rock"
     ],
     "tags": [
       "classic rock",
@@ -30801,9 +31065,9 @@
       "en"
     ],
     "categories": [
+      "blues",
       "jazz",
-      "religious",
-      "blues"
+      "religious"
     ],
     "tags": [
       "1930s",
@@ -30912,8 +31176,8 @@
       "en"
     ],
     "categories": [
-      "community",
-      "college"
+      "college",
+      "community"
     ],
     "tags": [
       "alternative",
@@ -30939,8 +31203,8 @@
       "en"
     ],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "ambient",
@@ -31044,11 +31308,11 @@
       "en"
     ],
     "categories": [
-      "news",
       "community",
-      "pop",
       "country",
-      "oldies"
+      "news",
+      "oldies",
+      "pop"
     ],
     "tags": [
       "00s",
@@ -31079,11 +31343,11 @@
       "en"
     ],
     "categories": [
-      "news",
       "community",
-      "pop",
       "country",
-      "oldies"
+      "news",
+      "oldies",
+      "pop"
     ],
     "tags": [
       "00s",
@@ -31115,10 +31379,11 @@
     ],
     "categories": [
       "community",
-      "rock",
       "country",
+      "kids",
+      "pop",
       "religious",
-      "kids"
+      "rock"
     ],
     "tags": [
       "classic hits",
@@ -31146,10 +31411,11 @@
     ],
     "categories": [
       "community",
-      "rock",
       "country",
+      "kids",
+      "pop",
       "religious",
-      "kids"
+      "rock"
     ],
     "tags": [
       "classic hits",
@@ -31381,7 +31647,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -31844,10 +32111,10 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "rock",
+      "country",
       "jazz",
-      "country"
+      "pop",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -31911,7 +32178,9 @@
     "country": "AU",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "progressive rock"
     ],
@@ -32316,7 +32585,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "greatest hits"
     ],
@@ -32334,7 +32605,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "greatest hits"
     ],
@@ -32375,7 +32648,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music"
     ],
@@ -32393,7 +32668,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music"
     ],
@@ -32412,8 +32689,10 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "punk"
+      "blues",
+      "pop",
+      "punk",
+      "rock"
     ],
     "tags": [
       "alternative rock",
@@ -32442,8 +32721,10 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "punk"
+      "blues",
+      "pop",
+      "punk",
+      "rock"
     ],
     "tags": [
       "alternative rock",
@@ -32529,7 +32810,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music"
     ],
@@ -32547,7 +32830,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "christmas"
+    ],
     "tags": [
       "christmas music"
     ],
@@ -32795,10 +33080,10 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "rock",
       "hip-hop",
-      "metal"
+      "metal",
+      "pop",
+      "rock"
     ],
     "tags": [
       "dance",
@@ -32878,8 +33163,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "80s",
@@ -33141,8 +33426,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "folk"
+      "folk",
+      "rock"
     ],
     "tags": [
       "folk",
@@ -33161,13 +33446,13 @@
     "subdivision": "Canberra ACT",
     "languages": [],
     "categories": [
-      "pop",
-      "rock",
-      "jazz",
+      "blues",
       "electronic",
       "hip-hop",
+      "jazz",
+      "pop",
       "reggae",
-      "blues"
+      "rock"
     ],
     "tags": [
       "blues",
@@ -33595,7 +33880,8 @@
       "en"
     ],
     "categories": [
-      "news"
+      "news",
+      "religious"
     ],
     "tags": [
       "christian music",
@@ -33621,7 +33907,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "christian music"
     ],
@@ -33639,7 +33927,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "christian music"
     ],
@@ -33721,12 +34011,12 @@
       "en"
     ],
     "categories": [
+      "blues",
       "community",
-      "pop",
-      "jazz",
       "folk",
+      "jazz",
       "oldies",
-      "blues"
+      "pop"
     ],
     "tags": [
       "1950s",
@@ -33996,7 +34286,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits"
@@ -34016,8 +34308,8 @@
       "en"
     ],
     "categories": [
-      "news",
-      "community"
+      "community",
+      "news"
     ],
     "tags": [
       "community radio",
@@ -34040,7 +34332,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",

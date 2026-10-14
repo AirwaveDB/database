@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-10-14T01:44:10.357Z",
+  "generatedAt": "2026-10-14T02:09:00.510Z",
   "schemaVersion": 1,
-  "stationCount": 54229,
-  "sourceRecordCount": 69246,
+  "stationCount": 54230,
+  "sourceRecordCount": 69247,
   "redirectCount": 49,
   "sources": {
-    "radio-browser": 61541,
+    "radio-browser": 61542,
     "verified-radio-streams": 7707
   },
   "quality": {
-    "withHomepage": 51724,
-    "withFavicon": 33454,
+    "withHomepage": 51725,
+    "withFavicon": 33455,
     "withLanguage": 34284,
-    "withCategory": 23053,
-    "unknownCountry": 1101
+    "withCategory": 26528,
+    "unknownCountry": 1101,
+    "withType": 2547
   },
   "countries": [
     {
@@ -134,7 +135,7 @@
     },
     {
       "code": "BR",
-      "stationCount": 1436
+      "stationCount": 1437
     },
     {
       "code": "BS",

@@ -120,8 +120,8 @@
     "subdivision": "Dammam",
     "languages": [],
     "categories": [
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "opm",
@@ -255,8 +255,8 @@
     "subdivision": "Riyadh",
     "languages": [],
     "categories": [
-      "talk",
-      "pop"
+      "pop",
+      "talk"
     ],
     "tags": [
       "opm",
@@ -377,6 +377,7 @@
       "ar"
     ],
     "categories": [
+      "country",
       "jazz"
     ],
     "tags": [
@@ -652,7 +653,11 @@
     "country": "SA",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "jazz",
+      "pop",
+      "rock"
+    ],
     "tags": [
       "others",
       "pop.rock.jazz"
@@ -1136,8 +1141,8 @@
       "ar"
     ],
     "categories": [
-      "talk",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "arabic",
@@ -1218,7 +1223,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -1692,9 +1698,9 @@
       "en"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "80s",
@@ -1716,9 +1722,9 @@
       "en"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "90s",
@@ -1875,7 +1881,9 @@
     "languages": [
       "ar"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "quran radio",
       "القرآن الكريم"

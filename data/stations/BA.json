@@ -8,8 +8,8 @@
       "sr"
     ],
     "categories": [
-      "pop",
-      "jazz"
+      "jazz",
+      "pop"
     ],
     "tags": [
       "jazz",
@@ -48,8 +48,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -334,7 +334,8 @@
       "en"
     ],
     "categories": [
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "bass house",
@@ -359,7 +360,8 @@
       "en"
     ],
     "categories": [
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "bass house",
@@ -385,7 +387,10 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic",
+      "rock"
+    ],
     "tags": [
       "electronic dance music",
       "progressive psytrance",
@@ -408,6 +413,7 @@
       "en"
     ],
     "categories": [
+      "electronic",
       "rock"
     ],
     "tags": [
@@ -449,8 +455,8 @@
       "bs"
     ],
     "categories": [
-      "pop",
-      "folk"
+      "folk",
+      "pop"
     ],
     "tags": [
       "folk",
@@ -503,10 +509,10 @@
       "bs"
     ],
     "categories": [
+      "folk",
       "news",
-      "talk",
       "pop",
-      "folk"
+      "talk"
     ],
     "tags": [
       "folk",
@@ -772,13 +778,14 @@
       "ru"
     ],
     "categories": [
-      "rock",
+      "ambient",
       "electronic",
       "hip-hop",
-      "reggae",
       "metal",
+      "oldies",
       "punk",
-      "ambient"
+      "reggae",
+      "rock"
     ],
     "tags": [
       "80s synth",
@@ -1048,8 +1055,8 @@
       "sr"
     ],
     "categories": [
-      "pop",
-      "folk"
+      "folk",
+      "pop"
     ],
     "tags": [
       "folk",
@@ -1186,7 +1193,9 @@
       "hr"
     ],
     "categories": [
-      "public"
+      "news",
+      "public",
+      "talk"
     ],
     "tags": [
       "local news",
@@ -1768,7 +1777,9 @@
     "languages": [
       "bs"
     ],
-    "categories": [],
+    "categories": [
+      "folk"
+    ],
     "tags": [
       "narodna - folk"
     ],
@@ -1785,9 +1796,9 @@
     "subdivision": "Republika Srpska",
     "languages": [],
     "categories": [
+      "folk",
       "pop",
-      "rock",
-      "folk"
+      "rock"
     ],
     "tags": [
       "folk",
@@ -1863,9 +1874,9 @@
       "hr"
     ],
     "categories": [
+      "folk",
       "pop",
-      "rock",
-      "folk"
+      "rock"
     ],
     "tags": [
       "classic rock",
@@ -2300,7 +2311,9 @@
     "languages": [
       "bs"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local music",
       "local news",
@@ -2541,7 +2554,10 @@
     "languages": [
       "bs"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop rock",
       "tuzla"

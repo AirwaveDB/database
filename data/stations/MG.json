@@ -24,8 +24,8 @@
       "fr"
     ],
     "categories": [
-      "pop",
-      "jazz"
+      "jazz",
+      "pop"
     ],
     "tags": [
       "educational",
@@ -121,7 +121,9 @@
     "country": "MG",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "christian-gospel",
       "educational"

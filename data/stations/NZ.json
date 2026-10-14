@@ -322,8 +322,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community",
@@ -381,6 +381,7 @@
       "en"
     ],
     "categories": [
+      "news",
       "oldies"
     ],
     "tags": [
@@ -598,7 +599,9 @@
     "country": "NZ",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],
@@ -691,7 +694,8 @@
       "en"
     ],
     "categories": [
-      "community"
+      "community",
+      "news"
     ],
     "tags": [
       "community radio",
@@ -787,7 +791,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -917,8 +922,8 @@
       "en"
     ],
     "categories": [
-      "news",
-      "community"
+      "community",
+      "news"
     ],
     "tags": [
       "community",
@@ -1030,7 +1035,10 @@
     "country": "NZ",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
     "tags": [
       "chill house"
     ],
@@ -1046,7 +1054,10 @@
     "country": "NZ",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
     "tags": [
       "90s dance",
       "club hits",
@@ -1065,8 +1076,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "electronic",
-      "ambient"
+      "ambient",
+      "electronic"
     ],
     "tags": [
       "chillout",
@@ -1127,7 +1138,8 @@
       "en"
     ],
     "categories": [
-      "rock"
+      "rock",
+      "sports"
     ],
     "tags": [
       "classic rock",
@@ -1218,7 +1230,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "bollywood hits",
       "indian radio"
@@ -1402,7 +1416,9 @@
     "country": "NZ",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "talk & speech"
     ],
@@ -1848,7 +1864,8 @@
       "en"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "local news",
@@ -1870,7 +1887,8 @@
       "en"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "local news",
@@ -1958,8 +1976,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "community",
@@ -2269,9 +2287,9 @@
       "en"
     ],
     "categories": [
-      "rock",
       "electronic",
-      "hip-hop"
+      "hip-hop",
+      "rock"
     ],
     "tags": [
       "alt rock",
@@ -2384,7 +2402,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits",
@@ -2453,8 +2473,8 @@
       "en"
     ],
     "categories": [
-      "news",
       "community",
+      "news",
       "pop",
       "punk"
     ],
@@ -2484,10 +2504,11 @@
       "en"
     ],
     "categories": [
+      "folk",
+      "hip-hop",
       "news",
       "pop",
-      "hip-hop",
-      "folk"
+      "talk"
     ],
     "tags": [
       "folk",
@@ -2514,7 +2535,9 @@
       "en"
     ],
     "categories": [
-      "electronic"
+      "electronic",
+      "pop",
+      "punk"
     ],
     "tags": [
       "alternative",
@@ -2671,8 +2694,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -2780,9 +2803,9 @@
       "en"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "1980s",
@@ -3106,7 +3129,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "contemporary hits",
       "ski mountain"
@@ -3238,8 +3263,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "hip-hop"
+      "hip-hop",
+      "pop"
     ],
     "tags": [
       "hip hop",
@@ -3363,8 +3388,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "classic rock",
@@ -3401,7 +3426,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "contemporary hits"
     ],
@@ -3435,7 +3462,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "alternative",
       "taranaki",
@@ -3512,6 +3541,7 @@
     "subdivision": "Auckland",
     "languages": [],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -3577,6 +3607,7 @@
       "en"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -3842,9 +3873,9 @@
       "en"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "1980's",

@@ -252,8 +252,8 @@
       "ru"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "hits",
@@ -491,7 +491,10 @@
     "languages": [
       "ar"
     ],
-    "categories": [],
+    "categories": [
+      "classical",
+      "religious"
+    ],
     "tags": [
       "islamic، classical"
     ],
@@ -534,7 +537,9 @@
       "kk",
       "ru"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "dance",
       "pop dance"
@@ -623,6 +628,7 @@
       "ru"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -698,7 +704,9 @@
     "languages": [
       "kk"
     ],
-    "categories": [],
+    "categories": [
+      "classical"
+    ],
     "tags": [
       "classical music"
     ],

@@ -162,7 +162,8 @@
       "ms"
     ],
     "categories": [
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "alternative / indie",
@@ -222,6 +223,8 @@
       "ms"
     ],
     "categories": [
+      "news",
+      "pop",
       "rock"
     ],
     "tags": [
@@ -275,7 +278,10 @@
     "languages": [
       "ms"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "dance",
       "easy listening",
@@ -297,8 +303,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "oldies",
@@ -380,6 +386,8 @@
       "ms"
     ],
     "categories": [
+      "news",
+      "pop",
       "rock"
     ],
     "tags": [
@@ -656,7 +664,9 @@
     "languages": [
       "ms"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "local music",
       "old music",
@@ -720,7 +730,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "1960s",
       "1970s",
@@ -744,6 +756,7 @@
       "ms"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -816,9 +829,9 @@
       "ms"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "1980s",
@@ -845,6 +858,7 @@
       "ms"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -985,6 +999,8 @@
       "ms"
     ],
     "categories": [
+      "hip-hop",
+      "news",
       "pop"
     ],
     "tags": [
@@ -1010,8 +1026,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "jazz"
+      "jazz",
+      "latin",
+      "pop"
     ],
     "tags": [
       "easy listening",
@@ -1035,8 +1052,9 @@
       "ms"
     ],
     "categories": [
-      "rock",
-      "jazz"
+      "jazz",
+      "pop",
+      "rock"
     ],
     "tags": [
       "alternative rock",
@@ -1078,8 +1096,10 @@
       "zh"
     ],
     "categories": [
+      "classical",
+      "news",
       "pop",
-      "classical"
+      "rock"
     ],
     "tags": [
       "adult contemporary",
@@ -1225,8 +1245,8 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "pop",
-      "jazz"
+      "jazz",
+      "pop"
     ],
     "tags": [
       "easy listening",
@@ -1252,6 +1272,7 @@
       "ms"
     ],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
@@ -1425,6 +1446,7 @@
       "ms"
     ],
     "categories": [
+      "news",
       "pop",
       "rock"
     ],
@@ -1450,9 +1472,11 @@
       "ms"
     ],
     "categories": [
+      "jazz",
+      "news",
       "pop",
       "rock",
-      "jazz"
+      "talk"
     ],
     "tags": [
       "classic hits",
@@ -1482,7 +1506,9 @@
       "ms"
     ],
     "categories": [
-      "pop"
+      "news",
+      "pop",
+      "talk"
     ],
     "tags": [
       "ethnic",

@@ -57,7 +57,8 @@
       "sk"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "00s",
@@ -93,7 +94,9 @@
     "country": "SK",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music"
     ],
@@ -321,8 +324,8 @@
       "sk"
     ],
     "categories": [
-      "jazz",
-      "ambient"
+      "ambient",
+      "jazz"
     ],
     "tags": [
       "chill",
@@ -628,7 +631,9 @@
     "languages": [
       "sk"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "party",
       "party hits"
@@ -649,8 +654,8 @@
       "sk"
     ],
     "categories": [
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "minority",
@@ -992,10 +997,10 @@
       "sk"
     ],
     "categories": [
-      "public",
+      "hip-hop",
       "pop",
-      "rock",
-      "hip-hop"
+      "public",
+      "rock"
     ],
     "tags": [
       "alternative",
@@ -1121,8 +1126,8 @@
       "sk"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -1244,6 +1249,7 @@
       "sk"
     ],
     "categories": [
+      "news",
       "pop",
       "rock"
     ],
@@ -1472,8 +1478,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "oldies"
+      "oldies",
+      "talk"
     ],
     "tags": [
       "culture",
@@ -1653,8 +1659,9 @@
       "sk"
     ],
     "categories": [
-      "talk",
-      "jazz"
+      "classical",
+      "jazz",
+      "talk"
     ],
     "tags": [
       "classical music",
@@ -1746,6 +1753,7 @@
       "sk"
     ],
     "categories": [
+      "news",
       "pop"
     ],
     "tags": [
@@ -2122,8 +2130,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "news",
@@ -2228,8 +2236,8 @@
       "sk"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "alternative",
@@ -2255,8 +2263,8 @@
       "sk"
     ],
     "categories": [
-      "public",
-      "pop"
+      "pop",
+      "public"
     ],
     "tags": [
       "alternative",
@@ -2349,8 +2357,8 @@
       "sk"
     ],
     "categories": [
-      "public",
-      "kids"
+      "kids",
+      "public"
     ],
     "tags": [
       "children",
@@ -2388,6 +2396,7 @@
       "sk"
     ],
     "categories": [
+      "electronic",
       "pop"
     ],
     "tags": [
@@ -2414,7 +2423,8 @@
     ],
     "categories": [
       "electronic",
-      "hip-hop"
+      "hip-hop",
+      "jazz"
     ],
     "tags": [
       "electronic",
@@ -2491,8 +2501,8 @@
       "sk"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "oldies",
@@ -2542,7 +2552,9 @@
     "languages": [
       "sk"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio"

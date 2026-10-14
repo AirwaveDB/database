@@ -29,7 +29,8 @@
       "ig"
     ],
     "categories": [
-      "hip-hop"
+      "hip-hop",
+      "pop"
     ],
     "tags": [
       "entretenimiento",
@@ -170,9 +171,9 @@
       "yo"
     ],
     "categories": [
+      "community",
       "news",
-      "talk",
-      "community"
+      "talk"
     ],
     "tags": [
       "community radio",
@@ -244,7 +245,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "african pop"
     ],
@@ -395,10 +398,11 @@
       "en"
     ],
     "categories": [
-      "news",
-      "sports",
       "jazz",
-      "reggae"
+      "news",
+      "reggae",
+      "sports",
+      "talk"
     ],
     "tags": [
       "afrobeats",
@@ -706,7 +710,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
       "african",
       "afro house",
@@ -788,10 +794,10 @@
       "en"
     ],
     "categories": [
-      "jazz",
+      "ambient",
       "hip-hop",
-      "oldies",
-      "ambient"
+      "jazz",
+      "oldies"
     ],
     "tags": [
       "80s",
@@ -933,7 +939,8 @@
       "en"
     ],
     "categories": [
-      "jazz"
+      "jazz",
+      "religious"
     ],
     "tags": [
       "afro-gospel",
@@ -1003,7 +1010,9 @@
     "country": "NG",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "talk & speech"
     ],
@@ -1019,7 +1028,9 @@
     "country": "NG",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "talk"
+    ],
     "tags": [
       "talk & speech"
     ],
@@ -1170,6 +1181,7 @@
     ],
     "categories": [
       "jazz",
+      "pop",
       "religious"
     ],
     "tags": [
@@ -1230,9 +1242,9 @@
       "yo"
     ],
     "categories": [
+      "community",
       "news",
-      "talk",
-      "community"
+      "talk"
     ],
     "tags": [
       "community radio",

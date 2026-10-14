@@ -204,7 +204,8 @@
       "da"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -241,8 +242,8 @@
       "da"
     ],
     "categories": [
-      "rock",
-      "punk"
+      "punk",
+      "rock"
     ],
     "tags": [
       "classic rock",
@@ -299,7 +300,10 @@
     "languages": [
       "da"
     ],
-    "categories": [],
+    "categories": [
+      "classical",
+      "rock"
+    ],
     "tags": [
       "classical music",
       "intelligent",
@@ -1306,8 +1310,8 @@
       "da"
     ],
     "categories": [
-      "public",
-      "jazz"
+      "jazz",
+      "public"
     ],
     "tags": [
       "danmarks radio",
@@ -1482,7 +1486,10 @@
     "languages": [
       "da"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop rock",
       "pop-rock"
@@ -1774,8 +1781,8 @@
       "da"
     ],
     "categories": [
-      "talk",
-      "community"
+      "community",
+      "talk"
     ],
     "tags": [
       "arabic",
@@ -1923,7 +1930,8 @@
     ],
     "categories": [
       "electronic",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "90s",
@@ -2011,7 +2019,10 @@
     "languages": [
       "da"
     ],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "2000s",
       "classic hits",
@@ -2275,8 +2286,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "classic hits",
@@ -2348,7 +2359,9 @@
     "languages": [
       "da"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "pop music",
       "pop-music"
@@ -2369,7 +2382,8 @@
       "en"
     ],
     "categories": [
-      "folk"
+      "folk",
+      "news"
     ],
     "tags": [
       "cultural news",
@@ -2483,10 +2497,10 @@
     "subdivision": "Fredensborg",
     "languages": [],
     "categories": [
-      "talk",
+      "jazz",
       "pop",
       "rock",
-      "jazz"
+      "talk"
     ],
     "tags": [
       "big band",
@@ -2795,7 +2809,9 @@
     "country": "DK",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "soft pop"
     ],
@@ -2891,7 +2907,10 @@
     "languages": [
       "da"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop"
+    ],
     "tags": [
       "local news",
       "pop music",
@@ -2934,7 +2953,9 @@
     "country": "DK",
     "subdivision": "Kolding",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "90's",
       "pop music"
@@ -3162,6 +3183,7 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "pop",
       "rock"
     ],
     "tags": [
