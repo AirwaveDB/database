@@ -14,7 +14,7 @@ Canonical data is stored as JSON under [`data/`](data/).
 - `data/countries.json` — country index and station counts
 - `data/languages.json` — observed language codes and station counts
 - `data/categories.json` — normalized categories and station counts
-- `data/index.json` — build metadata and source counts
+- `data/index.json` — build metadata, source counts, and quality counters
 
 Unknown or unclassified countries use `ZZ`.
 
@@ -40,6 +40,8 @@ The canonical machine-readable schema is [`schema/station.schema.json`](schema/s
 ```
 
 `type` may be `public`, `community`, `college`, `internet`, or `null`. Missing metadata is kept as `null` or an empty array rather than guessed.
+
+Categories and station types may be enriched from explicit upstream tags using conservative phrase matching. AirwaveDB does not infer language, category, or station type from country, station name, popularity, or other weak proxies. The generated quality counters make missing metadata visible instead of hiding it with plausible defaults.
 
 ## Public API
 
