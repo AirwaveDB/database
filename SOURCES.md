@@ -1,6 +1,6 @@
 # Data sources
 
-AirwaveDB imports open directory data and keeps upstream identifiers in `data/source_map.csv`.
+AirwaveDB imports open directory data and keeps upstream identifiers in `data/source_map.json`.
 
 ## Radio Browser
 
@@ -9,7 +9,7 @@ AirwaveDB imports open directory data and keeps upstream identifiers in `data/so
 - Role: primary station discovery and metadata source
 - Imported fields: station UUID, name, country, subdivision, languages, tags, homepage, favicon, popularity metadata, and update timestamps
 
-Radio Browser permits mirroring its data. AirwaveDB queries only entries reported as working by the directory (`hidebroken=true`) and uses a descriptive User-Agent.
+AirwaveDB queries entries reported as working by the directory (`hidebroken=true`) and uses a descriptive User-Agent. Multiple Radio Browser mirrors are tried before a sync is considered unavailable.
 
 ## verified-radio-streams
 
@@ -21,6 +21,8 @@ The dataset contains stream endpoints that returned audio during its verificatio
 
 ## Source precedence
 
-No upstream source is treated as authoritative for every field. AirwaveDB groups matching source records into a stable station entity, preserves provenance, and selects display metadata deterministically. Missing metadata is left empty rather than inferred.
+No upstream source is treated as authoritative for every field. AirwaveDB groups matching source records into a stable station entity, preserves provenance, and selects display metadata deterministically. Existing source-to-station mappings are reused so normal upstream metadata changes do not unnecessarily change AirwaveDB station IDs.
 
-Station and stream records can change independently. Stream URLs are stored in `AirwaveDB/streams`, not in this repository.
+A scheduled rebuild is rejected when a required upstream source is unavailable or when the resulting dataset shrinks unexpectedly. This keeps a temporary upstream failure from replacing a healthy snapshot.
+
+Missing metadata is left empty rather than guessed. Station and stream records can change independently: stream URLs are stored in `AirwaveDB/streams`, not in this repository.
