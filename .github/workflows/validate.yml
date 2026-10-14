@@ -1,0 +1,29 @@
+name: Validate database
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'schema/**'
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+      - name: Check scripts
+        run: |
+          node --check scripts/sync.mjs
+          node --check scripts/validate.mjs
+      - name: Validate canonical data
+        run: node scripts/validate.mjs
