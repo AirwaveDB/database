@@ -41,8 +41,12 @@ jobs:
           ALLOW_SHRINK: ${{ inputs.allow_shrink && '1' || '0' }}
       - name: Enrich explicit tag classifications
         run: node scripts/enrich.mjs
+      - name: Normalize language codes
+        run: node scripts/normalize-languages.mjs
       - name: Validate database
         run: node scripts/validate.mjs
+      - name: Validate language normalization
+        run: node scripts/validate-languages.mjs
       - name: Commit changes
         env:
           ALLOW_SHRINK: ${{ inputs.allow_shrink && '1' || '0' }}
@@ -61,7 +65,9 @@ jobs:
             git reset --hard origin/main
             node scripts/sync.mjs
             node scripts/enrich.mjs
+            node scripts/normalize-languages.mjs
             node scripts/validate.mjs
+            node scripts/validate-languages.mjs
           fi
 
           if [ -z "$(git status --porcelain -- data)" ]; then
