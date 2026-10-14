@@ -1,20 +1,21 @@
 {
-  "generatedAt": "2026-10-14T02:09:00.510Z",
+  "generatedAt": "2026-10-14T03:45:53.162Z",
   "schemaVersion": 1,
-  "stationCount": 54230,
-  "sourceRecordCount": 69247,
+  "stationCount": 54232,
+  "sourceRecordCount": 69249,
   "redirectCount": 49,
   "sources": {
-    "radio-browser": 61542,
+    "radio-browser": 61544,
     "verified-radio-streams": 7707
   },
   "quality": {
-    "withHomepage": 51725,
-    "withFavicon": 33455,
-    "withLanguage": 34284,
+    "withHomepage": 51727,
+    "withFavicon": 33456,
+    "withLanguage": 34285,
     "withCategory": 26528,
     "unknownCountry": 1101,
-    "withType": 2547
+    "withType": 2547,
+    "normalizedLanguageValues": 472
   },
   "countries": [
     {
@@ -135,7 +136,7 @@
     },
     {
       "code": "BR",
-      "stationCount": 1437
+      "stationCount": 1438
     },
     {
       "code": "BS",
@@ -915,7 +916,7 @@
     },
     {
       "code": "US",
-      "stationCount": 6718
+      "stationCount": 6719
     },
     {
       "code": "UY",
@@ -989,5 +990,7 @@
       "code": "ZZ",
       "stationCount": 1101
     }
-  ]
+  ],
+  "languageCount": 147,
+  "languageAliasCount": 94
 }
