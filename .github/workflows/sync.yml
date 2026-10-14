@@ -39,16 +39,36 @@ jobs:
         run: node scripts/sync.mjs
         env:
           ALLOW_SHRINK: ${{ inputs.allow_shrink && '1' || '0' }}
+      - name: Enrich explicit tag classifications
+        run: node scripts/enrich.mjs
       - name: Validate database
         run: node scripts/validate.mjs
       - name: Commit changes
+        env:
+          ALLOW_SHRINK: ${{ inputs.allow_shrink && '1' || '0' }}
         run: |
           if [ -z "$(git status --porcelain -- data)" ]; then
             echo "No data changes"
             exit 0
           fi
+
           git config user.name "airwavedb-bot"
           git config user.email "airwavedb-bot@users.noreply.github.com"
+
+          git fetch origin main
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+            echo "main advanced while building; rebuilding on the latest commit"
+            git reset --hard origin/main
+            node scripts/sync.mjs
+            node scripts/enrich.mjs
+            node scripts/validate.mjs
+          fi
+
+          if [ -z "$(git status --porcelain -- data)" ]; then
+            echo "No data changes after rebuild"
+            exit 0
+          fi
+
           git add data
           git commit -m "chore(data): sync radio directory"
           git push
