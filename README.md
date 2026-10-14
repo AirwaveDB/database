@@ -12,7 +12,8 @@ Canonical data is stored as JSON under [`data/`](data/).
 - `data/source_map.json` — upstream source identifiers mapped to stable AirwaveDB station IDs
 - `data/redirects.json` — station ID redirects created when duplicate records are merged
 - `data/countries.json` — country index and station counts
-- `data/languages.json` — observed language codes and station counts
+- `data/languages.json` — canonical language codes and station counts
+- `data/language_aliases.json` — legacy/equivalent language codes mapped to canonical codes
 - `data/categories.json` — normalized categories and station counts
 - `data/index.json` — build metadata, source counts, and quality counters
 
@@ -42,6 +43,22 @@ The canonical machine-readable schema is [`schema/station.schema.json`](schema/s
 `type` may be `public`, `community`, `college`, `internet`, or `null`. Missing metadata is kept as `null` or an empty array rather than guessed.
 
 Categories and station types may be enriched from explicit upstream tags using conservative phrase matching. AirwaveDB does not infer language, category, or station type from country, station name, popularity, or other weak proxies. The generated quality counters make missing metadata visible instead of hiding it with plausible defaults.
+
+### Language normalization
+
+Station records use canonical language codes. Equivalent ISO 639-2 bibliographic/terminologic forms are normalized when there is an exact ISO 639-1 equivalent, for example:
+
+```text
+eng -> en
+deu / ger -> de
+jpn -> ja
+fra / fre -> fr
+spa -> es
+```
+
+Related but distinct language codes are not collapsed. For example, `cmn` is not silently rewritten to `zh`.
+
+`data/language_aliases.json` preserves the accepted aliases so the public API can remain backwards-compatible with older language URLs.
 
 ## Public API
 
