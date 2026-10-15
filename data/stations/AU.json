@@ -3593,6 +3593,29 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_072179a5bdc6f5fdaf05",
+    "name": "5GTR",
+    "country": "AU",
+    "subdivision": "South Australia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community",
+      "rock"
+    ],
+    "tags": [
+      "community",
+      "rock",
+      "variety"
+    ],
+    "homepage": "https://www.5gtr.net/",
+    "favicon": "https://www.5gtr.net/logo.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T22:11:51Z"
+  },
+  {
     "id": "awb_897eef31aee098457991",
     "name": "5MBS",
     "country": "AU",
@@ -8828,6 +8851,30 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:21:23Z"
+  },
+  {
+    "id": "awb_aeced7f0601d384ee0b8",
+    "name": "Apple FM 98.5",
+    "country": "AU",
+    "subdivision": "Victoria",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz",
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "jazz",
+      "local",
+      "variety"
+    ],
+    "homepage": "https://apple985fm.com.au/",
+    "favicon": "https://cdn-profiles.tunein.com/s161253/images/logod.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T23:06:36Z"
   },
   {
     "id": "awb_bb6539561fdd26311cfd",
@@ -16586,6 +16633,42 @@
     "updatedAt": "2026-01-15T06:29:04Z"
   },
   {
+    "id": "awb_f726a4d7690c124351d4",
+    "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+    "country": "AU",
+    "subdivision": "Victoria",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "community",
+      "country",
+      "folk",
+      "metal",
+      "news",
+      "rock",
+      "sports"
+    ],
+    "tags": [
+      "blues",
+      "community",
+      "country",
+      "folk",
+      "local music",
+      "local sport",
+      "metal",
+      "news",
+      "rock",
+      "variety"
+    ],
+    "homepage": "https://www.caseyradio.com.au/",
+    "favicon": "https://www.caseyradio.com.au/wp-content/uploads/2020/02/3SER-Logo-2013-Xtreme-Smaller.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T01:22:42Z"
+  },
+  {
     "id": "awb_1da87909d39bc5b8ed4a",
     "name": "Cassette Disco",
     "country": "AU",
@@ -18072,6 +18155,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-15T02:29:12Z"
+  },
+  {
+    "id": "awb_0c99e755e55fe1e8125a",
+    "name": "Edge Radio 99.3",
+    "country": "AU",
+    "subdivision": "Hobart TAS",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.edgeradio.org.au/",
+    "favicon": "https://www.edgeradio.org.au/wp-content/uploads/2023/10/cropped-new-black-banner-copy-8c2c84510c03.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T20:54:17Z"
   },
   {
     "id": "awb_6f952aad5ef545efdf9d",

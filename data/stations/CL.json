@@ -6523,7 +6523,7 @@
   },
   {
     "id": "awb_f85d515686d208619eea",
-    "name": "Radio la Chúkara",
+    "name": "Radio La Chúkara",
     "country": "CL",
     "subdivision": null,
     "languages": [
@@ -9337,6 +9337,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-12T08:07:12Z"
+  },
+  {
+    "id": "awb_420d15d6b62cf70eb960",
+    "name": "Save Room FM",
+    "country": "CL",
+    "subdivision": null,
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ja",
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "gaming",
+      "vgm",
+      "video game music"
+    ],
+    "homepage": "https://saveroomfm.duckdns.org/",
+    "favicon": "https://saveroomfm.duckdns.org/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T23:03:59Z"
   },
   {
     "id": "awb_ce3bf9e7ff6fe133b95d",

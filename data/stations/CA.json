@@ -1559,6 +1559,22 @@
     "updatedAt": "2026-01-15T07:17:44Z"
   },
   {
+    "id": "awb_5af0615def426f1e53f4",
+    "name": "99.9 Sun FM",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.myktownnow.com/",
+    "favicon": "https://www.myktownnow.com/wp-content/uploads/2025/08/SUN-FM-Logo_Primary-Full-Colour.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T17:07:21Z"
+  },
+  {
     "id": "awb_99c98d0b50e77d27c0a2",
     "name": "A Dick Ted Radio",
     "country": "CA",
@@ -5880,7 +5896,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -5898,7 +5914,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://cfnj.net/",
+    "homepage": "http://www.cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -19420,6 +19436,24 @@
     "updatedAt": "2026-06-26T11:46:20Z"
   },
   {
+    "id": "awb_33684dbdc0639dd1b235",
+    "name": "Classic Hits 109 - 70s Hits!",
+    "country": "CA",
+    "subdivision": "Montreal",
+    "languages": [],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "70s"
+    ],
+    "homepage": "http://www.classichits109.com/",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/2/69942.v18.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T04:25:07Z"
+  },
+  {
     "id": "awb_52bbc89f66fe168103bd",
     "name": "Classic Hits 109 - Classic Rock 109",
     "country": "CA",
@@ -20836,6 +20870,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_785f2a4be228fda4e752",
+    "name": "Holy Bible 24/7",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "audio bible",
+      "bible",
+      "christian",
+      "new testament",
+      "religious",
+      "spoken word"
+    ],
+    "homepage": "https://167-160-184-10.sslip.io/",
+    "favicon": "https://167-160-184-10.sslip.io/logo.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T14:22:16Z"
   },
   {
     "id": "awb_fb3b009285e4107690af",
@@ -26794,7 +26854,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto",
+    "subdivision": "Toronto, ON",
     "languages": [],
     "categories": [
       "jazz"
@@ -26803,7 +26863,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
+    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,
@@ -27782,20 +27842,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:03:28Z"
-  },
-  {
-    "id": "awb_ff22f85e9f1c9f4d3b6d",
-    "name": "TSN 690 Montreal",
-    "country": "CA",
-    "subdivision": "Canada",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.iheart.com/live/tsn-690-7450",
-    "favicon": "https://www.iheart.com/public/assets/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-14T00:54:07Z"
   },
   {
     "id": "awb_3e135f5656bdff45063d",

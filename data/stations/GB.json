@@ -19880,6 +19880,35 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_2339cdaa6fa5f3322286",
+    "name": "LIFEFM.TV",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "electronic",
+      "reggae"
+    ],
+    "tags": [
+      "deep house",
+      "drum and bass",
+      "dub",
+      "dub reggae",
+      "funk",
+      "house",
+      "jungle",
+      "ragga jungle",
+      "soul",
+      "tech house",
+      "uk garage"
+    ],
+    "homepage": "https://lifefm.tv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T22:31:53Z"
+  },
+  {
     "id": "awb_6a1a8472bf680b41f1fc",
     "name": "Lifestyle Radio UK",
     "country": "GB",
@@ -21190,7 +21219,7 @@
     "id": "awb_6ccd96adbde9f3c95959",
     "name": "LOVERADIO247",
     "country": "GB",
-    "subdivision": "England",
+    "subdivision": "London, England",
     "languages": [
       "en"
     ],
@@ -29334,6 +29363,32 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_e1c682dad897b57ca73c",
+    "name": "Real Rock Radio",
+    "country": "GB",
+    "subdivision": "England",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "metal",
+      "punk",
+      "rock"
+    ],
+    "tags": [
+      "hard rock",
+      "heavy metal",
+      "punk",
+      "rock",
+      "rock'n'roll"
+    ],
+    "homepage": "https://realrockradio.co.uk/",
+    "favicon": "https://realrockradio.co.uk/images/0/24448175/newlogonoback-tbpfStE5mODn1BrennfC0w.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T00:05:54Z"
+  },
+  {
     "id": "awb_675412a24c03ffbea5a8",
     "name": "Real roots radio",
     "country": "GB",
@@ -29875,6 +29930,33 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:14:22Z"
+  },
+  {
+    "id": "awb_62345d01e03837f8072c",
+    "name": "RKNW Pirate Radio",
+    "country": "GB",
+    "subdivision": "London, England",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "disco",
+      "funk",
+      "oldies",
+      "pop",
+      "rock",
+      "soul"
+    ],
+    "homepage": "https://tunein.com/radio/RKNW-s263810/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-15T02:19:29Z"
   },
   {
     "id": "awb_da3a7bb7609c78b724ea",
@@ -31241,13 +31323,13 @@
   },
   {
     "id": "awb_79b40fbcc2b92a7fc70b",
-    "name": "Sine FM",
+    "name": "SINE FM",
     "country": "GB",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.sinefm.com/",
+    "homepage": "http://www.sinefm.com/",
     "favicon": "https://www.sinefm.com/wp-content/uploads/2019/11/sine-fm-logo-new-800.png",
     "type": null,
     "sourceCount": 2,
@@ -31307,20 +31389,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:25:41Z"
-  },
-  {
-    "id": "awb_bbf09ae4422b671490c6",
-    "name": "Slack City",
-    "country": "GB",
-    "subdivision": "Brighton",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.slackcity.org.uk/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-13T22:28:30Z"
   },
   {
     "id": "awb_a214a6e265bcb788db17",
@@ -33079,28 +33147,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_cec133aaaa7ded2fe04f",
-    "name": "STV Rad!o",
-    "country": "GB",
-    "subdivision": "Glasgow",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "1970s",
-      "1980s",
-      "1990s",
-      "2000s",
-      "2010s",
-      "2020s",
-      "never the same song all day long"
-    ],
-    "homepage": "https://player.stv.tv/stv-radio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-13T22:15:37Z"
   },
   {
     "id": "awb_46d72ce65014a5e7327d",
@@ -37023,7 +37069,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

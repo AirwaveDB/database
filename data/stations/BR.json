@@ -1162,20 +1162,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_bb88b3e3635cb1cdb38d",
-    "name": "Amanda FM",
-    "country": "BR",
-    "subdivision": "Santa Catarina,SC",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiosaovivo.net/amanda-fm/",
-    "favicon": "https://www.google.com/search?sca_esv=5f7e5526d42b14c0&sxsrf=APpeQnvO9X8nLNg_IsopEQ4UBgFu77lz_A:1791946187751&udm=2&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz_Qb61Fj5ZtxC2tjOZZgQR0Z0OQmfJ4j-jZ26kvi7H0rjaR_Y83kGWlnK5mlNCue1nTu7O-am8YA2Qswe7isYQ4djBZ1hfCgsbV6OkhJN8ZAHT_EXwscl__rCgeTg7aeg8xHD5py-B9Bg3Z5w4P8OUMM8EcRjqILqJzORERGyUcEh5-zSneUzCJGxTxPHDmKSDy_dCQ&q=amanda+fm&sa=X&ved=2ahUKEwiQyejfv7iXAxU7ELkGHdAEBqYQtKgLegQIFBAB&biw=1707&bih=772&dpr=1.13#sv=CAMSURoyKhBlLUVFYU9jeHJ5V2FqY2JNMg5FRWFPY3hyeVdhamNiTToOYUNVSkhWRm9qc1NfbE0gBCoXCgFzEhBlLUVFYU9jeHJ5V2FqY2JNGAEwARgHIPGMhbAOSggQAhgBIAIoAQ",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-14T02:51:59Z"
-  },
-  {
     "id": "awb_ac14a6174a0a0a2a0ba4",
     "name": "Amazon Gospel",
     "country": "BR",
@@ -3746,6 +3732,24 @@
     "updatedAt": "2026-07-31T16:28:44Z"
   },
   {
+    "id": "awb_e83cec86c2b47985bfbc",
+    "name": "EDBRADIO",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "eletronica"
+    ],
+    "homepage": null,
+    "favicon": "https://plain-enam-prod-public.komododecks.com/202610/14/wMHwlP13QXdzPSnPqe24/image.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T18:54:18Z"
+  },
+  {
     "id": "awb_8e1e28bfbb8b66e08098",
     "name": "edmilson de jesus novais",
     "country": "BR",
@@ -3889,6 +3893,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:12:34Z"
+  },
+  {
+    "id": "awb_d4f0b9881644e8719175",
+    "name": "EHB Rock",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "heavy metal",
+      "rock"
+    ],
+    "homepage": "https://ehbrock.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T01:31:22Z"
   },
   {
     "id": "awb_f1a33f07ec4090b6d654",
@@ -5201,6 +5225,23 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_3577f70efcba9f874fdd",
+    "name": "Harmonia Geral",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "carnaval",
+      "samba"
+    ],
+    "homepage": "https://harmoniageral.com.br/site/aradio",
+    "favicon": "https://harmoniageral.com.br/site/arquivos/imagens/harmonia-geral-favicon-[13-12-24][11-01-31].png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T21:26:04Z"
   },
   {
     "id": "awb_180b9c8a58ebeee95ca2",
@@ -9662,6 +9703,24 @@
     "updatedAt": "2026-01-15T05:15:03Z"
   },
   {
+    "id": "awb_34e69b854364109af609",
+    "name": "OWH_S35334",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "popular"
+    ],
+    "homepage": "https://www.owh.radio.br/",
+    "favicon": "https://cp-1.owh.radio.br/static/uploads/owh_s35334/album_art.1792032083.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T02:56:34Z"
+  },
+  {
     "id": "awb_0498224be56a51a4d669",
     "name": "Pagode pra Valer",
     "country": "BR",
@@ -12927,7 +12986,7 @@
     "id": "awb_2b7b7954faeaf86005a4",
     "name": "Rádio Cambirela - Virtual,mas real.",
     "country": "BR",
-    "subdivision": "Santa Catarina, SC",
+    "subdivision": "Santa Catarina,SC",
     "languages": [],
     "categories": [
       "country",
@@ -20077,6 +20136,22 @@
     "updatedAt": "2026-01-15T07:01:01Z"
   },
   {
+    "id": "awb_3f2a92e9d3eef765bbf1",
+    "name": "Rádio Referência Do Samba",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "samba pagode"
+    ],
+    "homepage": "https://radioreferenciadosamba.com.br/",
+    "favicon": "https://radioreferenciadosamba.com.br/img/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T21:04:26Z"
+  },
+  {
     "id": "awb_a3be77bfefb5d38706d1",
     "name": "Radio Reggae Brasil",
     "country": "BR",
@@ -25771,6 +25846,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_a48b3985f6b67a8c659f",
+    "name": "wisleyschafer",
+    "country": "BR",
+    "subdivision": "São Paulo (SP)",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop music"
+    ],
+    "homepage": "https://stream.zeno.fm/9vs3cfayczquv",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T18:53:43Z"
   },
   {
     "id": "awb_ebecd7c94b74f0174553",

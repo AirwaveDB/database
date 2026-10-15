@@ -2122,7 +2122,7 @@
     "id": "awb_97841c7b9f3b00a5469b",
     "name": "A1812Radio",
     "country": "GR",
-    "subdivision": "Attica, Athens",
+    "subdivision": "Athens Greece",
     "languages": [],
     "categories": [],
     "tags": [],
@@ -3592,7 +3592,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.atticaradios.gr/athens-deejay-952/",
-    "favicon": "https://www.atticaradios.gr/Content/ImagesDatabase/p/crop/both/9d/9d212880d56d43a7bc49cb7e531ecb4c.svg?quality=85&404=default&v=4",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NVxJAkegta5hGh8IW16JZH-h0fEU01y9dmKUz8nJaw&s",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-07T10:16:56Z"
@@ -34656,6 +34656,25 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-04-01T19:28:57Z"
+  },
+  {
+    "id": "awb_a052f629244619b175df",
+    "name": "Μουσικό Κανάλι Ελασσόνας 107.3",
+    "country": "GR",
+    "subdivision": "Elassona",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://mousikokanali1073.com/",
+    "favicon": "https://mousikokanali1073.com/img/logo.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T18:12:41Z"
   },
   {
     "id": "awb_5880dad40aac1b8e00bd",

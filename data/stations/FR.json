@@ -3781,6 +3781,20 @@
     "updatedAt": "2026-01-15T08:34:02Z"
   },
   {
+    "id": "awb_fad20faf2ad7491c8faa",
+    "name": "Alternative FM",
+    "country": "FR",
+    "subdivision": "Île-de-France",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.alternativefm.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T21:10:27Z"
+  },
+  {
     "id": "awb_815a66bec4b1f9dfee42",
     "name": "Alternative Radio",
     "country": "FR",
@@ -4824,7 +4838,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox radio",
+    "name": "Boombox Radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -5120,7 +5134,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao-Radio",
+    "name": "Cacao Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -11636,7 +11650,7 @@
   },
   {
     "id": "awb_d24df9c1df3e24fa57cb",
-    "name": "FIP Cultes",
+    "name": "Fip Cultes",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -13966,7 +13980,7 @@
     "id": "awb_e7280c1281f2949961b8",
     "name": "France Musique",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "France",
     "languages": [
       "fr"
     ],
@@ -13991,8 +14005,8 @@
     "homepage": "https://www.radiofrance.fr/francemusique",
     "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
     "type": "public",
-    "sourceCount": 7,
-    "updatedAt": "2026-09-12T21:29:09Z"
+    "sourceCount": 9,
+    "updatedAt": "2026-10-15T07:26:14Z"
   },
   {
     "id": "awb_2b5e33ae1a1c7af2ad8f",
@@ -34427,7 +34441,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.plumfm.net/",
-    "favicon": "https://static.wixstatic.com/media/695ef4_9d20d326e8d243788c285f11121c9994~mv2.png/v1/crop/x_0,y_2,w_2101,h_737/fill/w_326,h_114,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20ok%20PLUMFM.png",
+    "favicon": "https://static.wixstatic.com/media/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
@@ -36199,6 +36213,39 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:01:40Z"
+  },
+  {
+    "id": "awb_fa16aa0ce10f5c10cf2c",
+    "name": "Radio Boomerang",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "languages": [],
+    "categories": [
+      "blues",
+      "hip-hop",
+      "jazz",
+      "metal",
+      "punk",
+      "reggae",
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "blues",
+      "dub",
+      "funk",
+      "hip hop",
+      "jazz",
+      "metal",
+      "punk",
+      "reggae",
+      "rock"
+    ],
+    "homepage": "https://radioboomerang.com/",
+    "favicon": "https://radioboomerang.com/wp-content/uploads/2020/02/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T22:37:35Z"
   },
   {
     "id": "awb_47902871a3dad6e20001",
@@ -39263,6 +39310,39 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:05:15Z"
+  },
+  {
+    "id": "awb_063b0433382cf269e654",
+    "name": "Radio Laser",
+    "country": "FR",
+    "subdivision": "Bretagne",
+    "languages": [],
+    "categories": [
+      "community",
+      "hip-hop",
+      "jazz",
+      "pop",
+      "reggae",
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "community",
+      "dub",
+      "funk",
+      "hip hop",
+      "jazz",
+      "pop mondiale",
+      "r&b",
+      "reggae",
+      "rock",
+      "soul"
+    ],
+    "homepage": "https://www.radiolaser.fr/",
+    "favicon": "https://www.radiolaser.fr/assets/images/radiolaser.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T22:24:43Z"
   },
   {
     "id": "awb_ea27433ef0d255e80f27",

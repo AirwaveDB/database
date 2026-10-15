@@ -14841,6 +14841,32 @@
     "updatedAt": "2026-01-15T07:36:10Z"
   },
   {
+    "id": "awb_39b0d911eed978541f91",
+    "name": "Ajar Security",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "ai",
+      "cybersecurity",
+      "hacking",
+      "infosec",
+      "news",
+      "security",
+      "technology"
+    ],
+    "homepage": "https://zingu.ai/cyber",
+    "favicon": "https://zingu.ai/site/cyber-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T23:38:02Z"
+  },
+  {
     "id": "awb_132b52aa4874970ace3c",
     "name": "akiwiwa.radio",
     "country": "DE",
@@ -21174,7 +21200,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
+    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z"
@@ -23951,7 +23977,7 @@
       "pop"
     ],
     "homepage": "https://www.bremenzwei.de/",
-    "favicon": "https://www.bremenzwei.de/static/img/favicons/favicon-32.png?v=4",
+    "favicon": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:44:42Z"
@@ -37578,7 +37604,7 @@
       "rock",
       "soul"
     ],
-    "homepage": "https://flaemingradio.de/",
+    "homepage": "https://www.flaemingradio.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -42292,6 +42318,29 @@
     "updatedAt": "2026-09-28T19:53:43Z"
   },
   {
+    "id": "awb_bf24ed113bef6991ee53",
+    "name": "Groundwork Startups",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "business",
+      "entrepreneurship",
+      "founders",
+      "startups",
+      "tech",
+      "venture capital"
+    ],
+    "homepage": "https://zingu.ai/groundwork",
+    "favicon": "https://zingu.ai/site/groundwork-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T23:40:24Z"
+  },
+  {
     "id": "awb_4217781773c49ed9855d",
     "name": "Gute Laune Welle",
     "country": "DE",
@@ -43306,6 +43355,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-05T11:47:19Z"
+  },
+  {
+    "id": "awb_8a8b153176dc041408c1",
+    "name": "Hinged Robotics",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "ai",
+      "automation",
+      "drones",
+      "embodied ai",
+      "robotics",
+      "robots",
+      "technology"
+    ],
+    "homepage": "https://zingu.ai/robot",
+    "favicon": "https://zingu.ai/site/robot-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T23:37:13Z"
   },
   {
     "id": "awb_40abaa40fd608d6189b9",
@@ -48729,6 +48802,34 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:27:11Z"
+  },
+  {
+    "id": "awb_ed1a514e8235f93b6960",
+    "name": "Kiel FM",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "community",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "community",
+      "local",
+      "pop",
+      "rock",
+      "talk",
+      "variety"
+    ],
+    "homepage": "https://www.oksh.de/ki/hoeren/kiel-fm/",
+    "favicon": "https://www.oksh.de/ki/wp-content/uploads/sites/2/2018/11/Kiel-FM.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T00:19:02Z"
   },
   {
     "id": "awb_ee8633b2ae1a620b039d",
@@ -59820,7 +59921,7 @@
       "youth"
     ],
     "homepage": "https://n-joy.de/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Njoy-logo.svg/512px-Njoy-logo.svg.png",
+    "favicon": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-01-15T08:34:02Z"
@@ -59902,6 +60003,95 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_c6a9f56e195518f005bd",
+    "name": "Nachklang FM - Drei",
+    "country": "DE",
+    "subdivision": "Niedersachsen",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "instrumental",
+      "instrumentalmusik",
+      "nachklang fm"
+    ],
+    "homepage": "https://nachklang.fm/",
+    "favicon": "https://nachklang.fm/storage/uploads/sender-drei-cover-mux5j7er.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T23:08:17Z"
+  },
+  {
+    "id": "awb_4512d0d93bd8808a2cba",
+    "name": "Nachklang FM - Eins",
+    "country": "DE",
+    "subdivision": "Niedersachsen",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "audio drama",
+      "geschichten",
+      "hörspiel",
+      "hörspiele",
+      "kurzhörspiele",
+      "nachklang fm"
+    ],
+    "homepage": "https://nachklang.fm/",
+    "favicon": "https://nachklang.fm/storage/uploads/sender-eins-cover-mux5j7er.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T23:09:02Z"
+  },
+  {
+    "id": "awb_5429c2087cbe71bc99f2",
+    "name": "Nachklang FM - Vier",
+    "country": "DE",
+    "subdivision": "Niedersachsen",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "familie",
+      "kinder",
+      "kinderhörspiele",
+      "kinderradio",
+      "nachklang fm",
+      "wissen"
+    ],
+    "homepage": "https://nachklang.fm/",
+    "favicon": "https://nachklang.fm/storage/uploads/sender-vier-cover-muyn4mrr.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T23:08:17Z"
+  },
+  {
+    "id": "awb_95184550d567b67e479a",
+    "name": "Nachklang FM - Zwei",
+    "country": "DE",
+    "subdivision": "Niedersachsen",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "audio drama",
+      "geschichten",
+      "hörspiel",
+      "hörspiele",
+      "musik",
+      "nachklang fm"
+    ],
+    "homepage": "https://nachklang.fm/",
+    "favicon": "https://nachklang.fm/storage/uploads/sender-zwei-cover-mux5j7er.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T23:08:17Z"
   },
   {
     "id": "awb_06a622ca6881e4938a86",
@@ -72696,6 +72886,75 @@
     "updatedAt": "2026-08-01T15:05:45Z"
   },
   {
+    "id": "awb_d877c802cdfca6104d91",
+    "name": "Radio Deck 1",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "blues",
+      "community",
+      "jazz",
+      "oldies",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "blues",
+      "community",
+      "jazz",
+      "oldies",
+      "pop",
+      "rock",
+      "soul",
+      "talk",
+      "variety"
+    ],
+    "homepage": "https://radiodeck1.de/",
+    "favicon": "https://radiodeck1.de/wp-content/uploads/2025/06/cropped-Radio-Deck-1-Logo-1-1.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T00:30:44Z"
+  },
+  {
+    "id": "awb_ef96fa8b73b56f2295e9",
+    "name": "Radio Deck 1 Hamburg",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "blues",
+      "community",
+      "jazz",
+      "oldies",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "blues",
+      "community",
+      "cultural",
+      "dance",
+      "jazz",
+      "oldies",
+      "pop",
+      "rock",
+      "talk",
+      "variety"
+    ],
+    "homepage": "https://radiodeck1.de/",
+    "favicon": "https://rde1.de/player-live/assets/cropped-Radio-Deck-1-Logo-1-1.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T00:38:08Z"
+  },
+  {
     "id": "awb_d5cc71f6fc081ca2e820",
     "name": "Radio Deluxe Easy",
     "country": "DE",
@@ -84149,7 +84408,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
+    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"
@@ -96797,6 +97056,28 @@
     "updatedAt": "2026-10-13T19:11:56Z"
   },
   {
+    "id": "awb_e36b89706f42a2bd7b00",
+    "name": "Störsignal.com",
+    "country": "DE",
+    "subdivision": "Hessen",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "dark phunk",
+      "hip hop",
+      "rap"
+    ],
+    "homepage": "https://xn--strsignal-17a.com/",
+    "favicon": "https://yt3.googleusercontent.com/Ep9n8Grny_A4ge9sXZJ9LwTZArFCRsGydB0GNxD0hY1ihQXr97llHa_MU2EMh8b-OvUMlssEhr0=s900-c-k-c0x00ffffff-no-rj",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T13:17:48Z"
+  },
+  {
     "id": "awb_d89c822cf4e2089ab384",
     "name": "STR - Space Travel Radio",
     "country": "DE",
@@ -98202,7 +98483,7 @@
   },
   {
     "id": "awb_4a0594f664b678b4203c",
-    "name": "Sunshine Live - Trance",
+    "name": "sunshine live - Trance",
     "country": "DE",
     "subdivision": "baden-wurttemberg",
     "languages": [],
@@ -101708,6 +101989,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-17T14:41:33Z"
+  },
+  {
+    "id": "awb_f9f7dc90a2c40210a033",
+    "name": "The Lead Biotech",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "ai",
+      "biotech",
+      "clinical trials",
+      "drug discovery",
+      "medicine",
+      "pharma",
+      "science"
+    ],
+    "homepage": "https://zingu.ai/drugdev",
+    "favicon": "https://zingu.ai/site/lead-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T23:37:13Z"
   },
   {
     "id": "awb_a10533f91e1b4c241eba",
@@ -107099,6 +107404,20 @@
     "type": "internet",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:36:39Z"
+  },
+  {
+    "id": "awb_82e29ac08de7a5d615cb",
+    "name": "Радио Для Взрослых",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://myradio24.com/alex542888",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T09:36:23Z"
   },
   {
     "id": "awb_b583d97b055c6b1c38fc",
