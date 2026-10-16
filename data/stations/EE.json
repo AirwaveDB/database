@@ -64,6 +64,49 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_708eb04cd5ce03673729",
+    "name": "BIGfm",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://bigfm.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:30:23Z"
+  },
+  {
+    "id": "awb_caf3c772b8bae55bcba7",
+    "name": "Chat Raadio",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "homepage": "https://jasva.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z"
+  },
+  {
     "id": "awb_9fcd277b3ce41af9d984",
     "name": "Duo Country",
     "country": "EE",
@@ -154,6 +197,27 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_b866d93daf90b0648c87",
+    "name": "Elmari ballaadid",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "balada",
+      "pop"
+    ],
+    "homepage": "https://elmar.pleier.ee/elmari-ballaadid",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:30:23Z"
+  },
+  {
     "id": "awb_53ced988b64c3ab4aa55",
     "name": "Elmari Kuld",
     "country": "EE",
@@ -177,6 +241,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_e2138c2917b01f14e9cd",
+    "name": "Elmari tantsuõhtu",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "folk",
+      "pop"
+    ],
+    "homepage": "https://elmaritantsuohtu.pleier.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:18Z"
   },
   {
     "id": "awb_199a0dab6759860e2e8a",
@@ -434,6 +521,56 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:08:23Z"
+  },
+  {
+    "id": "awb_78322aa68e2899c327bc",
+    "name": "Hits Show Radio - EST",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "electronic",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "house",
+      "pop",
+      "trance"
+    ],
+    "homepage": "https://videod-elust-enesest.wixsite.com/kuula-raadiojaama",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:44:50Z"
+  },
+  {
+    "id": "awb_27265fc8f8c4c3a5b195",
+    "name": "Hot Fields AI Radio",
+    "country": "EE",
+    "subdivision": "Viljandi maakond",
+    "languages": [],
+    "categories": [
+      "electronic",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "ai music",
+      "electronic",
+      "estonia",
+      "local music",
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "homepage": "https://radio.citrina.ee/public/hot_fields_ai_radio",
+    "favicon": "http://radio.citrina.ee/static/uploads/hot_fields_ai_radio/album_art.1792094382.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-15T20:18:05Z"
   },
   {
     "id": "awb_5621b9a223bdf61a8756",
@@ -734,6 +871,51 @@
     "updatedAt": "2026-01-15T07:45:36Z"
   },
   {
+    "id": "awb_8160daec5a5e3ecd4c70",
+    "name": "MyHits Dance",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://myhitsdance.pleier.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:42:37Z"
+  },
+  {
+    "id": "awb_6211069292e4487b3936",
+    "name": "MyHits Rock",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "indie",
+      "metal",
+      "rock"
+    ],
+    "homepage": "https://myhitsrock.pleier.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:18Z"
+  },
+  {
     "id": "awb_62f16a5c453170ec27e0",
     "name": "NRJ",
     "country": "EE",
@@ -750,6 +932,52 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_44d109a58b5f5097b3c0",
+    "name": "NRJ DnB",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "homepage": "https://nrj.sky.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:26:49Z"
+  },
+  {
+    "id": "awb_8bb925cc363c13e9ce49",
+    "name": "NRJ Estonia",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "electronic",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "electronic",
+      "hits",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://nrj.sky.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:18Z"
   },
   {
     "id": "awb_a1d4ae1c1a15ba5db12e",
@@ -880,6 +1108,29 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_1bb9c7848b0f7ee4819f",
+    "name": "PUNK FM",
+    "country": "EE",
+    "subdivision": "Võru",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "punk"
+    ],
+    "tags": [
+      "alternative",
+      "hardcore",
+      "punk",
+      "ska"
+    ],
+    "homepage": "https://www.punkfm.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:29:23Z"
+  },
+  {
     "id": "awb_4b1e3e59cb132ab316ec",
     "name": "R2 Eesti",
     "country": "EE",
@@ -967,6 +1218,110 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:26:25Z"
+  },
+  {
+    "id": "awb_314f4e11a9f7d0e3fbbc",
+    "name": "R2Extra - AltPop",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "alternative",
+      "pop"
+    ],
+    "homepage": "https://r2extra.err.ee/r2alternatiiv",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:42:37Z"
+  },
+  {
+    "id": "awb_cb349a8175821086a2b4",
+    "name": "R2Extra - Chill",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "chill out",
+      "lounge"
+    ],
+    "homepage": "https://r2extra.err.ee/r2chill",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:30:20Z"
+  },
+  {
+    "id": "awb_3440ef34aa3c30b698d3",
+    "name": "R2Extra - Rap",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "homepage": "https://r2extra.err.ee/r2p",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:33:43Z"
+  },
+  {
+    "id": "awb_0044913a61059b8506a2",
+    "name": "R2Extra - Rock",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://r2extra.err.ee/r2rock",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:32:30Z"
+  },
+  {
+    "id": "awb_976a6f795d7db050a73d",
+    "name": "R2Extra Pop",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://r2extra.err.ee/r2pop",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:35:39Z"
   },
   {
     "id": "awb_3de1cb29ca77653bd5cc",
@@ -1208,6 +1563,32 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_94b4876bcc9485a84561",
+    "name": "Raadio REMIX",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "ambient",
+      "electronic",
+      "hip-hop"
+    ],
+    "tags": [
+      "alternative",
+      "chill out",
+      "electronic",
+      "hip hop",
+      "indie"
+    ],
+    "homepage": "https://raadioremix.rf.gd/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:05:00Z"
+  },
+  {
     "id": "awb_4fe9bc79d7710454c7c4",
     "name": "Raadio Tallinn",
     "country": "EE",
@@ -1292,6 +1673,28 @@
     "updatedAt": "2026-01-15T07:58:24Z"
   },
   {
+    "id": "awb_1d07111cc696ba149368",
+    "name": "Radio Maximum",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://radiomaximum.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:34:29Z"
+  },
+  {
     "id": "awb_cb2fe7a3ca6659935772",
     "name": "Radio Nostalgia",
     "country": "EE",
@@ -1353,6 +1756,26 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_29d7bce4fa4dd25fa79b",
+    "name": "Rahvaraadio",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "http://rahvaraadio.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:27:51Z"
+  },
+  {
     "id": "awb_333b4bf86c265c66af87",
     "name": "Relax cafe",
     "country": "EE",
@@ -1389,6 +1812,76 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_b607e7d4f1bfd4e13276",
+    "name": "Relax Instrumental",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "easy listening",
+      "instrumental",
+      "jazz"
+    ],
+    "homepage": "https://relaxfm.sky.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:44:50Z"
+  },
+  {
+    "id": "awb_d4a94abf8a1e6cc8a394",
+    "name": "Retro FM",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "80s",
+      "90s",
+      "oldies",
+      "pop",
+      "retro"
+    ],
+    "homepage": "https://retrofm.sky.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:34:29Z"
+  },
+  {
+    "id": "awb_008ede9369cb1db5a70f",
+    "name": "Retro FM - Jõulud",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "christmas",
+      "pop"
+    ],
+    "tags": [
+      "christmas",
+      "hits",
+      "retro"
+    ],
+    "homepage": "https://retrofm.sky.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:34:29Z"
+  },
+  {
     "id": "awb_3dd0aa0e06fe835ec18b",
     "name": "Retro fm disco",
     "country": "EE",
@@ -1408,6 +1901,28 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_e030b8cb2d024e5f2e32",
+    "name": "Retro FM Eestikas",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "adult contemporary",
+      "oldies",
+      "retro"
+    ],
+    "homepage": "https://retrofm.sky.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:25:20Z"
   },
   {
     "id": "awb_18026e21c63085af6fec",
@@ -1642,6 +2157,55 @@
     "updatedAt": "2026-01-15T07:40:19Z"
   },
   {
+    "id": "awb_3e7c1ebd916c9544a66b",
+    "name": "Space FM",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "homepage": "https://spacefm.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:38:36Z"
+  },
+  {
+    "id": "awb_3c372eb0986b8cd73c18",
+    "name": "SSS-Radio",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "fi"
+    ],
+    "categories": [
+      "news",
+      "oldies",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "oldies",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "homepage": "https://sss-radio.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:42:37Z"
+  },
+  {
     "id": "awb_3df50fb0fcebe62511a1",
     "name": "Star FM",
     "country": "EE",
@@ -1726,6 +2290,68 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_7da5f2cf3f82f8f417e3",
+    "name": "Super Ретро",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "retro"
+    ],
+    "homepage": "https://superradio.sky.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:39Z"
+  },
+  {
+    "id": "awb_8a81ba44c7a8ffc8edd0",
+    "name": "Super Рок",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "rock"
+    ],
+    "homepage": "https://super.radio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:04Z"
+  },
+  {
+    "id": "awb_029ffb24b8f39c9bfb01",
+    "name": "Tagatuba FM",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://tagatubaraadio.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:32:11Z"
+  },
+  {
     "id": "awb_749dc8b7e8d83afb5fcb",
     "name": "Taifuun FM",
     "country": "EE",
@@ -1780,6 +2406,31 @@
     "type": "community",
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_813a7161b7abd6fc4a3b",
+    "name": "Tunitemusic",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "classical",
+      "jazz"
+    ],
+    "tags": [
+      "ambient",
+      "chill out",
+      "classical",
+      "jazz"
+    ],
+    "homepage": "https://tunitemusic.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z"
   },
   {
     "id": "awb_6cd06d5b8aee5d5cb2ff",
@@ -1867,6 +2518,75 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_ce76fe55d45d97c80005",
+    "name": "XFM Eesti",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "hits",
+      "news",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://xfm.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:18Z"
+  },
+  {
+    "id": "awb_2072161b26d84c74e15d",
+    "name": "XL Radio Estonia",
+    "country": "EE",
+    "subdivision": "Tartu",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "club",
+      "dance",
+      "pop"
+    ],
+    "homepage": "https://xlradio.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:38:36Z"
+  },
+  {
+    "id": "awb_e5d33638a13c0945bfde",
+    "name": "Пирамида FM",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://piramidafm.tilda.ws/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:49:33Z"
+  },
+  {
     "id": "awb_e88dfcd5def3f23fea30",
     "name": "Радио 4 / Raadio 4 (128 kbps Ogg Opus) | Eesti Rahvusringhääling | r4.err.ee",
     "country": "EE",
@@ -1884,6 +2604,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:15:03Z"
+  },
+  {
+    "id": "awb_cd69ec2e23ff1ead6ded",
+    "name": "Радіо DrUzi",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "uk"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "dance",
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://druzi.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:42:37Z"
   },
   {
     "id": "awb_cea74f8b1fe127205b68",

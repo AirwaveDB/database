@@ -956,6 +956,25 @@
     "updatedAt": "2026-01-15T04:18:44Z"
   },
   {
+    "id": "awb_9d05ebf98d123a790600",
+    "name": "107.3 The Edge - Calgary's Alternative",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "rock"
+    ],
+    "homepage": "https://1073edge.com/",
+    "favicon": "https://1073edge.com/wp-content/uploads/sites/28/2024/07/HERO_LOGO_Edge1073_v1_1a750c.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T00:13:06Z"
+  },
+  {
     "id": "awb_6168d9fbaaf93600394f",
     "name": "107.5 Dave FM",
     "country": "CA",
@@ -1469,6 +1488,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-30T23:48:18Z"
+  },
+  {
+    "id": "awb_abf79dc9a62d999fbfbe",
+    "name": "97.7 htz-fm",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://htzfm.com/",
+    "favicon": "https://htzfm.com/wp-content/uploads/2025/08/htz-player-tile.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T07:36:27Z"
   },
   {
     "id": "awb_d3b195406707fa3cc9c9",
@@ -8049,6 +8082,33 @@
     "updatedAt": "2026-01-15T05:00:15Z"
   },
   {
+    "id": "awb_775f72a58be3b2a3d090",
+    "name": "CHLY 101.7 FM - Nanaimo, Vancouver Island",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "alternative",
+      "community",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "homepage": "https://www.chly.ca/",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/582cd3322994caad8bdc6c11/81349b23-8437-4981-82bf-6149be92285d/CHLY-Logo-with-Drop-Shadow-Red-Wrap-Texture-White-Background.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T01:57:59Z"
+  },
+  {
     "id": "awb_9baf34eef89ba9f6a543",
     "name": "CHMA 106.9 FM Sackville, NB",
     "country": "CA",
@@ -8582,20 +8642,6 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
-    "id": "awb_ca004d7f3ab20e892268",
-    "name": "CHOI 98,1 Radio X",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiox.com/",
-    "favicon": "https://radiox.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_9400b580214de8fda6bd",
     "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
     "country": "CA",
@@ -8616,6 +8662,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:49:38Z"
+  },
+  {
+    "id": "awb_ca004d7f3ab20e892268",
+    "name": "CHOI 98.1 Radio X",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_0db5abdaad511193eccc",
@@ -26854,7 +26914,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto, ON",
+    "subdivision": "Toronto",
     "languages": [],
     "categories": [
       "jazz"
@@ -26863,7 +26923,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,

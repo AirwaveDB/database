@@ -14898,6 +14898,33 @@
     "updatedAt": "2026-01-31T11:07:09Z"
   },
   {
+    "id": "awb_ec34b8d31dbaa6cc59f3",
+    "name": "Groove FM",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "dance",
+      "disco",
+      "funk",
+      "groove",
+      "oldies",
+      "soul"
+    ],
+    "homepage": "https://groovefm.uk/",
+    "favicon": "https://player.groovefm.uk/media/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T08:24:21Z"
+  },
+  {
     "id": "awb_dec8904a12a2598df110",
     "name": "Groove Genie Radio",
     "country": "GB",
@@ -29955,8 +29982,8 @@
     "homepage": "https://tunein.com/radio/RKNW-s263810/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-15T02:19:29Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T01:57:46Z"
   },
   {
     "id": "awb_da3a7bb7609c78b724ea",
@@ -35989,6 +36016,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_dc0b3a93437ff86f13a0",
+    "name": "Venture 995 fm",
+    "country": "GB",
+    "subdivision": "lond",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "reggae"
+    ],
+    "tags": [
+      "r&b",
+      "reggae",
+      "soul"
+    ],
+    "homepage": "https://www.venturefm.co.uk/",
+    "favicon": "https://www.venturefm.co.uk/wp-content/uploads/2021/06/VFM-2021.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T15:16:09Z"
   },
   {
     "id": "awb_481ae86a0fd81e6f43c3",

@@ -856,6 +856,24 @@
     "updatedAt": "2026-10-12T19:11:38Z"
   },
   {
+    "id": "awb_de3236312171e4220b67",
+    "name": "eldhyh radio",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "ar"
+    ],
+    "categories": [],
+    "tags": [
+      "comedy"
+    ],
+    "homepage": "https://zeno.fm/radio/eldhyh-radio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:53:52Z"
+  },
+  {
     "id": "awb_8e00c9a382ff30b85659",
     "name": "EXA FM: موسيقى البوب ​​باللغتين الإنجليزية والإسبانية",
     "country": "DZ",
@@ -975,6 +993,28 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_9745d8d041a12fade3ce",
+    "name": "Ifrikya FM",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.ifrikyafm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:59:28Z"
+  },
+  {
     "id": "awb_8fa650d23a5008f0441e",
     "name": "Illizi اليزي",
     "country": "DZ",
@@ -1054,6 +1094,549 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-11T21:35:07Z"
+  },
+  {
+    "id": "awb_2264b4b8dcf064bca944",
+    "name": "Jow Radio - Electro",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:51:08Z"
+  },
+  {
+    "id": "awb_72b8a4f4aa364600a364",
+    "name": "Jow Radio - Jow Africa",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "reggae"
+    ],
+    "tags": [
+      "afro beat",
+      "reggae"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:50:46Z"
+  },
+  {
+    "id": "awb_79f372511b5f39151c15",
+    "name": "Jow Radio - Jow Charki",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "folk",
+      "talk"
+    ],
+    "tags": [
+      "arabic music",
+      "folk",
+      "talk"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:00:12Z"
+  },
+  {
+    "id": "awb_be4b776abf735de24d4f",
+    "name": "Jow Radio - Jow Islam",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "arabic music",
+      "islamic",
+      "religious"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:57:37Z"
+  },
+  {
+    "id": "awb_e57c29480ee38db123e3",
+    "name": "Jow Radio - Jow Jazz",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz",
+      "smooth jazz"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:57:37Z"
+  },
+  {
+    "id": "awb_bd657435b987ea767a31",
+    "name": "Jow Radio - Jow Kids",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "kids"
+    ],
+    "tags": [
+      "arabic music",
+      "children"
+    ],
+    "homepage": "https://jowplus.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:51:31Z"
+  },
+  {
+    "id": "awb_182ec7c6b0865c468cc8",
+    "name": "Jow Radio - Jow Latino",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "latin",
+      "salsa"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:48:53Z"
+  },
+  {
+    "id": "awb_dc70f9599b4cbd0a3838",
+    "name": "Jow Radio - K-POP",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "anime",
+      "pop"
+    ],
+    "tags": [
+      "k pop",
+      "pop"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:53:47Z"
+  },
+  {
+    "id": "awb_b84ab03c68b1f58f2aa8",
+    "name": "Jow Radio - Rap",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "homepage": "https://jowplus.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:59:28Z"
+  },
+  {
+    "id": "awb_4ba0d7548ec5d4dfc2b9",
+    "name": "K-SUN66 - Come Together",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "hits",
+      "pop",
+      "soft rock"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:57:37Z"
+  },
+  {
+    "id": "awb_6b92f7e70f0bc3486ac0",
+    "name": "K-SUN66 - Fire & Rain",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "classic rock",
+      "pop",
+      "soft rock"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:53:47Z"
+  },
+  {
+    "id": "awb_98eaf47af0d3d8e11bba",
+    "name": "K-SUN66 - Late For The Sky",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "classic rock",
+      "hits",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.ksun66.com/late-for-the-sky",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:00:12Z"
+  },
+  {
+    "id": "awb_c6a72ab1619ab779b972",
+    "name": "K-SUN66 - Smooth Lounge",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "adult contemporary",
+      "easy listening",
+      "smooth jazz"
+    ],
+    "homepage": "https://www.ksun66.com/thesmooth",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z"
+  },
+  {
+    "id": "awb_97c0e3651e713dc13b73",
+    "name": "K-SUN66 - The Breeze",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "adult contemporary",
+      "alternative rock",
+      "indie"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:57:36Z"
+  },
+  {
+    "id": "awb_01fc91f99d86a383ccc7",
+    "name": "K-SUN66 - The Bridge",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues"
+    ],
+    "tags": [
+      "blues"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:57:01Z"
+  },
+  {
+    "id": "awb_64da598f8046add1f849",
+    "name": "K-SUN66 - The Diner",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz",
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "jazz",
+      "oldies",
+      "pop",
+      "rock n roll"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:59:28Z"
+  },
+  {
+    "id": "awb_6291909d10f7f7dc3a6c",
+    "name": "K-SUN66 - THE RIVER",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "folk"
+    ],
+    "tags": [
+      "country",
+      "folk"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:59:28Z"
+  },
+  {
+    "id": "awb_2ed293c37a95af3f7298",
+    "name": "K-SUN66 - The Soul Town",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "oldies",
+      "rb",
+      "soul"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:02:01Z"
+  },
+  {
+    "id": "awb_19e28c7cf5518cf24c8b",
+    "name": "K-SUN66 - The Waves",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "classic rock",
+      "pop",
+      "soft rock"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:02:01Z"
+  },
+  {
+    "id": "awb_d0cc490394178502e1b1",
+    "name": "K-SUN66 — THE ROAD",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "soft rock"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:56:45Z"
+  },
+  {
+    "id": "awb_06832a2459b07db15e1e",
+    "name": "K-SUN66 \"THE HITS\"",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "oldies",
+      "rock"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:02:01Z"
+  },
+  {
+    "id": "awb_b1b3f314a54aa45ea5ae",
+    "name": "K-SUN66 \"THE HOLIDAYS\"",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "christmas"
+    ],
+    "tags": [
+      "christmas"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:54:08Z"
+  },
+  {
+    "id": "awb_37e738c8c121e6ca4ec5",
+    "name": "K-SUN66 STEELY DAN",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "adult contemporary",
+      "pop",
+      "rock",
+      "soft rock"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-15T21:57:37Z"
+  },
+  {
+    "id": "awb_345e5f3abdcca6f9c004",
+    "name": "K-SUN66 THE MOVE",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "latin",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "latin",
+      "pop"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z"
   },
   {
     "id": "awb_c9e6f09c46c8afa9b3f6",

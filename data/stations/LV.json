@@ -48,6 +48,28 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_43e099b8782751a50909",
+    "name": "Cave Lounge",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "ambient",
+      "talk"
+    ],
+    "tags": [
+      "lounge",
+      "talk"
+    ],
+    "homepage": "https://zeno.fm/radio/cave-lounge/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:07:00Z"
+  },
+  {
     "id": "awb_da801e69c44af28f5184",
     "name": "Chillax",
     "country": "LV",
@@ -84,6 +106,29 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_fad646e55756ef991edd",
+    "name": "Dance Station Radio",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "drum bass",
+      "electronic",
+      "house",
+      "trance"
+    ],
+    "homepage": "https://www.dsradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:04Z"
+  },
+  {
     "id": "awb_8355dbe069702acd402d",
     "name": "Divu Krastu Radio",
     "country": "LV",
@@ -100,6 +145,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_ea4cc0b2a5dce813ba41",
+    "name": "Dunaburg FM",
+    "country": "LV",
+    "subdivision": "Daugavpils",
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://dunaburgfm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:47:53Z"
   },
   {
     "id": "awb_b4fa8a63d66d6e710915",
@@ -247,6 +308,47 @@
     "updatedAt": "2026-01-15T05:19:36Z"
   },
   {
+    "id": "awb_759a52d397aa261daed0",
+    "name": "EHR Latviešu Hiti",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:45:45Z"
+  },
+  {
+    "id": "awb_74e5674a90d9b7995e8f",
+    "name": "EHR Latviešu Hiti - LV Reps",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "rap"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/lv-reps",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:32Z"
+  },
+  {
     "id": "awb_8a1694bd8319ee9666e9",
     "name": "EHR Party Service",
     "country": "LV",
@@ -301,6 +403,28 @@
     "updatedAt": "2026-01-15T00:22:18Z"
   },
   {
+    "id": "awb_b7d9ec2eedbf3b09843f",
+    "name": "EHR Superhits (Radio SuperHits)",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/radio/super-hits",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:46:50Z"
+  },
+  {
     "id": "awb_3cee4376642a41d2449a",
     "name": "EHR TOP-40",
     "country": "LV",
@@ -323,6 +447,49 @@
     "updatedAt": "2026-01-15T07:45:36Z"
   },
   {
+    "id": "awb_bebc889d019a96002352",
+    "name": "EHR+ RU Remixes",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/ru-remixes",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z"
+  },
+  {
+    "id": "awb_af12b9df545df1cb96b6",
+    "name": "EHR+ RU Top 40",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/ru-top-40",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:46:36Z"
+  },
+  {
     "id": "awb_d70f03c616f659bd2fda",
     "name": "Eiropas Hītu Radio",
     "country": "LV",
@@ -340,6 +507,51 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_33b1267ad98f3ec7ef5f",
+    "name": "eNJOY Radio Latvia",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "hits",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.njoyradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:08:55Z"
+  },
+  {
+    "id": "awb_9abe9e3cc0119b271ad4",
+    "name": "EUROPA+",
+    "country": "LV",
+    "subdivision": "Liepāja",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "retro"
+    ],
+    "homepage": "https://live-radioliepaja.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:08:55Z"
   },
   {
     "id": "awb_1a51f12060505e627c2b",
@@ -361,6 +573,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:07:07Z"
+  },
+  {
+    "id": "awb_c1c12dc96d39c64f682f",
+    "name": "European Hit Radio - C&C Radio",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:03:25Z"
   },
   {
     "id": "awb_50439e430a3ba6081903",
@@ -425,6 +658,28 @@
     "updatedAt": "2026-01-15T08:44:04Z"
   },
   {
+    "id": "awb_e3908f1e6c92d528135f",
+    "name": "European Hit Radio - Fitness",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/fitness",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:58:05Z"
+  },
+  {
     "id": "awb_58e0ad4fe3b3f28c1418",
     "name": "European Hit Radio - Fresh",
     "country": "LV",
@@ -446,6 +701,29 @@
     "updatedAt": "2026-01-15T08:05:50Z"
   },
   {
+    "id": "awb_92b96caef52c550dfabd",
+    "name": "European Hit Radio - KOOL hits",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:08:55Z"
+  },
+  {
     "id": "awb_a47055c0b5981213c36a",
     "name": "European Hit Radio - Latviešu Hiti",
     "country": "LV",
@@ -465,6 +743,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:55:05Z"
+  },
+  {
+    "id": "awb_72e39e937d26f757d534",
+    "name": "European Hit Radio - LMT Straume",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:05:00Z"
   },
   {
     "id": "awb_3b7cba1f39e5b0187aaf",
@@ -538,6 +838,94 @@
     "updatedAt": "2026-01-15T00:53:11Z"
   },
   {
+    "id": "awb_3adbffc1ac53e5f3fac2",
+    "name": "European Hit Radio - SuperHits Chillout Hits",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "ambient",
+      "pop"
+    ],
+    "tags": [
+      "chill out",
+      "pop"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:08:55Z"
+  },
+  {
+    "id": "awb_f4de31f8e87b976a08a5",
+    "name": "European Hit Radio - SuperHits Gold",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "90s",
+      "oldies",
+      "pop"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z"
+  },
+  {
+    "id": "awb_05d3701f7e91bb71290b",
+    "name": "European Hit Radio - SuperHits HipHop & RnB",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "rb"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/hiphop-rnb",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:52:45Z"
+  },
+  {
+    "id": "awb_814ef5442d27118b0824",
+    "name": "European Hit Radio - TikTok Hits",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:05:00Z"
+  },
+  {
     "id": "awb_75c0129acda0553ba4dd",
     "name": "European Hit Radio - Top 40",
     "country": "LV",
@@ -558,6 +946,71 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:12:02Z"
+  },
+  {
+    "id": "awb_4d8ea7298a80cec98f24",
+    "name": "European Hit Radio - Top 40 RU",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:03:45Z"
+  },
+  {
+    "id": "awb_3753b29f91b2a7e30b63",
+    "name": "European Hit Radio - Urban",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "rb",
+      "urban"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:01:42Z"
+  },
+  {
+    "id": "awb_fb5eedabe657e78495e8",
+    "name": "Flash Sound radio (LV)",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "house",
+      "techno",
+      "trance"
+    ],
+    "homepage": "https://svnagel72.wixsite.com/flashsoundradio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:07:00Z"
   },
   {
     "id": "awb_12047bd8f549dc7839a7",
@@ -586,6 +1039,27 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_3679bfc9a2d531a1fade",
+    "name": "Hip Hop Strāva",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "homepage": "https://www.pieci.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:01:02Z"
   },
   {
     "id": "awb_dbe62469ea4c90bccf4f",
@@ -670,6 +1144,70 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_2e0923e09f4aca0878e6",
+    "name": "Latviešu Hiti - LIDO Garšu Hiti",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/lido-garsu-hiti",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z"
+  },
+  {
+    "id": "awb_21243d02b18185c40add",
+    "name": "Latviešu Hiti Deju Hiti",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/janu-ballite",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:44:50Z"
+  },
+  {
+    "id": "awb_021b71949b698263da8e",
+    "name": "Latviešu hiti Prāta Vētra",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/prata-vetra",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:50:38Z"
+  },
+  {
     "id": "awb_df94f17bd0df5de1eb6c",
     "name": "Latvijas Kristīgais Radio",
     "country": "LV",
@@ -689,6 +1227,32 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_2c48340a676f3cec9a8a",
+    "name": "Latvijas Radio - LR6 Naba",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "electronic",
+      "jazz",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "alternative rock",
+      "electronic",
+      "jazz",
+      "pop"
+    ],
+    "homepage": "https://www.naba.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:08:55Z"
   },
   {
     "id": "awb_04775124b64a2d0cc09d",
@@ -826,6 +1390,81 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-13T10:23:31Z"
+  },
+  {
+    "id": "awb_79ee663a9c7892050c93",
+    "name": "Latvijas Radio 5 - Pieci.lv",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk",
+      "top 40"
+    ],
+    "homepage": "https://www.pieci.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z"
+  },
+  {
+    "id": "awb_40971e9ae19cc7bf2b64",
+    "name": "LOUNGE FM",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "ambient",
+      "jazz"
+    ],
+    "tags": [
+      "bossa nova",
+      "chill out",
+      "downtempo",
+      "jazz",
+      "lounge"
+    ],
+    "homepage": "https://loungefm.lv/en/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:05Z"
+  },
+  {
+    "id": "awb_9ec7c0351f4a3f0c15cd",
+    "name": "LOUNGE PRIVATE",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "ambient",
+      "jazz"
+    ],
+    "tags": [
+      "bossa nova",
+      "chill out",
+      "downtempo",
+      "jazz",
+      "lounge"
+    ],
+    "homepage": "https://loungefm.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:44:50Z"
   },
   {
     "id": "awb_c7db20809e2889455a84",
@@ -1007,6 +1646,139 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_3cd5c90ace015cd62b0e",
+    "name": "OMH (Our Music History)",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "retro",
+      "top 40"
+    ],
+    "homepage": "http://omh.sytes.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:08:55Z"
+  },
+  {
+    "id": "awb_eb6aa8a3d749f023c813",
+    "name": "Pieci - Latvieši",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "folk",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://pieci.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:58:05Z"
+  },
+  {
+    "id": "awb_d5d0842065f83cd16d1f",
+    "name": "Pieci - Ukraiņu mūzika",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "homepage": "https://pieci.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:08:55Z"
+  },
+  {
+    "id": "awb_2a580387c08c801b751a",
+    "name": "Pieci Hiti",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://pieci.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:50:56Z"
+  },
+  {
+    "id": "awb_7425fef8a40c1bfad2de",
+    "name": "Pieci Latgalieši",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "homepage": "https://lr5.lsm.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:03Z"
+  },
+  {
+    "id": "awb_37e41931387cfc2e08b7",
+    "name": "Power FM",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.powerfm.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:04Z"
+  },
+  {
     "id": "awb_60b845934f634b96dc88",
     "name": "Radio 7",
     "country": "LV",
@@ -1028,6 +1800,50 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_523c4d8f06e076032c7b",
+    "name": "Radio Energy - Hit Music Radio",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "http://www.radioenergy.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:46:50Z"
+  },
+  {
+    "id": "awb_13c282ba96aaa29e9fb1",
+    "name": "Radio Energy - Russian Radio",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "http://www.radioenergy.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:46:50Z"
   },
   {
     "id": "awb_e5e249bf5e349c22ff3c",
@@ -1106,6 +1922,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:22:41Z"
+  },
+  {
+    "id": "awb_49fb5001cd3ed766fe18",
+    "name": "Radio Marija Latvija",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://rml.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:05:00Z"
   },
   {
     "id": "awb_6187007d688ce8d689f1",
@@ -1190,6 +2029,75 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_9f7cf920dbbff4340dd1",
+    "name": "Radio Skonto 70's, 80's, 90's",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "90s",
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://radioskonto.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:46:50Z"
+  },
+  {
+    "id": "awb_a006e8436e27cf0d5508",
+    "name": "Radio Skonto Chill",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "ambient",
+      "pop"
+    ],
+    "tags": [
+      "chill out",
+      "pop"
+    ],
+    "homepage": "https://radioskonto.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:05:00Z"
+  },
+  {
+    "id": "awb_e6b118325048f723f02e",
+    "name": "Radio Skonto Mūsējie",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [],
+    "categories": [
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "homepage": "https://radioskonto.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:03Z"
   },
   {
     "id": "awb_26af904b432d4607b7c5",
@@ -1317,6 +2225,28 @@
     "updatedAt": "2026-01-15T05:05:13Z"
   },
   {
+    "id": "awb_b8355a0b683b199fcc90",
+    "name": "Radio SWH Spin",
+    "country": "LV",
+    "subdivision": "Liepāja",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://radioswh.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:49:33Z"
+  },
+  {
     "id": "awb_8ef70a87bfc1e4dc2956",
     "name": "Radio SWH+",
     "country": "LV",
@@ -1437,6 +2367,54 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_82f9af7c16638e15c895",
+    "name": "Radio TEV Dance",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "electronic",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "electronic",
+      "pop"
+    ],
+    "homepage": "https://radiotev.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z"
+  },
+  {
+    "id": "awb_979c107a9411a948a637",
+    "name": "Radio TEV LV",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk",
+      "top 40"
+    ],
+    "homepage": "https://radiotev.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:04Z"
+  },
+  {
     "id": "awb_4892b7f008f55be96380",
     "name": "Radio Viens",
     "country": "LV",
@@ -1476,6 +2454,28 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_39b54b9c28e85325e8a0",
+    "name": "Relax FM Latvija",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "easy listening",
+      "pop"
+    ],
+    "homepage": "https://relaxfm.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:44:50Z"
+  },
+  {
     "id": "awb_1ee9df9d45c6b4e768cd",
     "name": "Retro FM",
     "country": "LV",
@@ -1502,6 +2502,32 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_df56d6f8af937b5b9747",
+    "name": "Retro FM 90's",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "disco",
+      "oldies",
+      "pop",
+      "retro",
+      "rock"
+    ],
+    "homepage": "https://retrofm.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:58:05Z"
   },
   {
     "id": "awb_23b72ee9dd71f1d3ae7a",
@@ -1564,6 +2590,28 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_21f82c8d9084e3c4be96",
+    "name": "SKONTO hiti",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://radioskonto.lv/",
+    "favicon": "https://radioskonto.lv/uploads/LOGO/Saraksta%20skata%20kart%C4%ABte/saraksta%20skata%20kartite_250x250_SMG.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:15:14Z"
+  },
+  {
     "id": "awb_04438fbc3dbe4ebf7f0c",
     "name": "Skonto Plus",
     "country": "LV",
@@ -1576,6 +2624,29 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_99e1e22ec419a2ffa94f",
+    "name": "SKONTONS",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "kids",
+      "pop"
+    ],
+    "tags": [
+      "children",
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://radioskonto.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:05:00Z"
   },
   {
     "id": "awb_40916dc35d6d82e50726",
@@ -1713,6 +2784,29 @@
     "updatedAt": "2026-01-14T23:29:03Z"
   },
   {
+    "id": "awb_5eef2a6ea5824ce9c760",
+    "name": "Talsi Lounge Radio",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
+    "tags": [
+      "chill out",
+      "electronic",
+      "lounge"
+    ],
+    "homepage": "http://radio.kuums.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:05:00Z"
+  },
+  {
     "id": "awb_b21ac81730c5dd716771",
     "name": "Talsi Remix",
     "country": "LV",
@@ -1809,6 +2903,28 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_98474a40d552e5bbc697",
+    "name": "Xradio",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://xradio.vip/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z"
+  },
+  {
     "id": "awb_2f2d2d1082d3d0e985ee",
     "name": "Your City Padio",
     "country": "LV",
@@ -1858,6 +2974,72 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_5f22075f90723b7c02d1",
+    "name": "Авторадио Дискотека 80-х",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "80s",
+      "disco",
+      "pop"
+    ],
+    "homepage": "https://www.avtoradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:05:00Z"
+  },
+  {
+    "id": "awb_2431086d7166e13cecad",
+    "name": "Авторадио для тех, кто в пути",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://www.avtoradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:14:54Z"
+  },
+  {
+    "id": "awb_19c1da42208f2450bd4d",
+    "name": "Авторадио КиноМузыка",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "instrumental",
+      "pop",
+      "soundtrack"
+    ],
+    "homepage": "https://www.avtoradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:04Z"
+  },
+  {
     "id": "awb_df9100d429102fa80189",
     "name": "Авторадио Латвия",
     "country": "LV",
@@ -1876,6 +3058,69 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_fdce13998dcd979d732e",
+    "name": "Авторадио на Бис",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://www.avtoradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:05Z"
+  },
+  {
+    "id": "awb_7a1e3d7e68f027037e7f",
+    "name": "Авторадио Ностальгия",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "oldies",
+      "retro"
+    ],
+    "homepage": "https://www.avtoradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:46:08Z"
+  },
+  {
+    "id": "awb_f9b167cb246f028f5461",
+    "name": "Авторадио Романтика",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "romantic"
+    ],
+    "homepage": "https://www.avtoradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:52:16Z"
   },
   {
     "id": "awb_b4f15dc40d6aa4107175",

@@ -1192,20 +1192,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_3dc50f777f67a19f639c",
-    "name": "Hellgate",
-    "country": "PT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://hellgate-web.duckdns.org/index.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-14T14:37:11Z"
-  },
-  {
     "id": "awb_28f7e141fe765a782faa",
     "name": "Hiper FM",
     "country": "PT",
@@ -4595,6 +4581,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_5eeb32054b3eca9c8b20",
+    "name": "Radio QUÂNTICA",
+    "country": "PT",
+    "subdivision": "Lisbon",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "community",
+      "electronic"
+    ],
+    "tags": [
+      "community",
+      "electronic",
+      "independent"
+    ],
+    "homepage": "https://www.radioquantica.com/",
+    "favicon": "https://unify-fm-bucket.s3.amazonaws.com/521fe997332647c8934b2d54146d0f57.jpg",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T07:52:56Z"
   },
   {
     "id": "awb_dd5cd3c023081ab0e676",

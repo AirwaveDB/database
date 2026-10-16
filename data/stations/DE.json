@@ -18827,7 +18827,7 @@
     "id": "awb_9f6c026e52f2cc2ab155",
     "name": "as.if.radio",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
+    "subdivision": "Cologne",
     "languages": [
       "de",
       "en"
@@ -18861,7 +18861,7 @@
       "werbefrei"
     ],
     "homepage": "https://www.as-if-radio.com/",
-    "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+    "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-04T14:43:37Z"
@@ -21200,7 +21200,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z"
@@ -23977,7 +23977,7 @@
       "pop"
     ],
     "homepage": "https://www.bremenzwei.de/",
-    "favicon": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
+    "favicon": "https://www.bremenzwei.de/static/img/favicons/favicon-32.png?v=4",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:44:42Z"
@@ -24843,6 +24843,20 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_db7154c9a46b0e67ac1f",
+    "name": "charivari live",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.charivari.de/radio/internetradio-streams",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T12:45:03Z"
+  },
+  {
     "id": "awb_765d45c8328cc552a578",
     "name": "Charivari München - Lounge Music",
     "country": "DE",
@@ -25038,7 +25052,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.ffn.de/",
+    "homepage": "https://www.ffn.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 4,
@@ -32585,6 +32599,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:13:18Z"
+  },
+  {
+    "id": "awb_e190fb2acaad421c11f4",
+    "name": "Eichsfeld-welle",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://eichsfeld-welle.de/",
+    "favicon": "https://stream.hoerfunkbundstream.de:35402/stream.mp3",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T08:00:36Z"
   },
   {
     "id": "awb_8144ba06e238d2cabf5b",
@@ -67891,6 +67919,27 @@
     "updatedAt": "2026-08-16T14:22:38Z"
   },
   {
+    "id": "awb_aa834c6d6279204b2263",
+    "name": "Radio 4U",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hot-ac",
+      "pop"
+    ],
+    "homepage": "https://radio-4u.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T18:15:52Z"
+  },
+  {
     "id": "awb_3d3a8b8c90ba55d4dffc",
     "name": "Radio 7",
     "country": "DE",
@@ -67945,6 +67994,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T23:31:23Z"
+  },
+  {
+    "id": "awb_ea155d07c6c09ea455a7",
+    "name": "Radio 7 Dance Party",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radio7.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T15:59:48Z"
   },
   {
     "id": "awb_f1fce2ee328a404fce1c",
@@ -69274,7 +69337,7 @@
   },
   {
     "id": "awb_64da13ba48280ff8393c",
-    "name": "Radio Bob",
+    "name": "Radio BOB",
     "country": "DE",
     "subdivision": "Hessen (Kassel)",
     "languages": [
@@ -69282,7 +69345,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobob.de/",
+    "homepage": "https://www.radiobob.de/#",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -70217,8 +70280,8 @@
     "homepage": "https://www.radiobob.de/",
     "favicon": "https://i.imgur.com/Ceddbj4.jpg",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:24:53Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-10-15T19:38:12Z"
   },
   {
     "id": "awb_e404f831d9a9ff1df186",
@@ -72327,7 +72390,7 @@
       "radio internetowe"
     ],
     "homepage": "https://radio-budowlaniec.de/",
-    "favicon": "https://radio-budowlaniec.de/sites/default/files/512.1%20logo%20rund.png",
+    "favicon": "https://radio-budowlaniec.de/sites/default/files/banner/512.1%20logo%20rund.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-03-28T07:18:42Z"
@@ -84408,7 +84471,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
+    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"
@@ -88600,6 +88663,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:08:30Z"
+  },
+  {
+    "id": "awb_402f640f66f6e63699ce",
+    "name": "RHB1",
+    "country": "DE",
+    "subdivision": "Deutschland und NRW",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.rhb1.de/",
+    "favicon": "https://rhb1.de/wp-content/uploads/2026/10/rhb1_transparent-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T09:29:38Z"
   },
   {
     "id": "awb_b6f7737d232ebdb04e33",

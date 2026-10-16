@@ -3895,26 +3895,6 @@
     "updatedAt": "2026-01-15T06:12:34Z"
   },
   {
-    "id": "awb_d4f0b9881644e8719175",
-    "name": "EHB Rock",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "metal",
-      "rock"
-    ],
-    "tags": [
-      "heavy metal",
-      "rock"
-    ],
-    "homepage": "https://ehbrock.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-15T01:31:22Z"
-  },
-  {
     "id": "awb_f1a33f07ec4090b6d654",
     "name": "EldoPop FM",
     "country": "BR",
@@ -9703,24 +9683,6 @@
     "updatedAt": "2026-01-15T05:15:03Z"
   },
   {
-    "id": "awb_34e69b854364109af609",
-    "name": "OWH_S35334",
-    "country": "BR",
-    "subdivision": "São Paulo",
-    "languages": [
-      "pt"
-    ],
-    "categories": [],
-    "tags": [
-      "popular"
-    ],
-    "homepage": "https://www.owh.radio.br/",
-    "favicon": "https://cp-1.owh.radio.br/static/uploads/owh_s35334/album_art.1792032083.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-15T02:56:34Z"
-  },
-  {
     "id": "awb_0498224be56a51a4d669",
     "name": "Pagode pra Valer",
     "country": "BR",
@@ -12986,7 +12948,7 @@
     "id": "awb_2b7b7954faeaf86005a4",
     "name": "Rádio Cambirela - Virtual,mas real.",
     "country": "BR",
-    "subdivision": "Santa Catarina,SC",
+    "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [
       "country",
@@ -15369,6 +15331,24 @@
     "type": "college",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:05:02Z"
+  },
+  {
+    "id": "awb_34e69b854364109af609",
+    "name": "Rádio Flash Prime",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "clássicos flashback"
+    ],
+    "homepage": "https://www.owh.radio.br/",
+    "favicon": "https://cp-1.owh.radio.br/static/uploads/owh_s35334/album_art.1792032083.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T17:02:09Z"
   },
   {
     "id": "awb_2e5f5220c29da5ce1a84",
@@ -19667,7 +19647,7 @@
     "id": "awb_a76eeb567f319bbe44bd",
     "name": "Rádio Play Mix FM",
     "country": "BR",
-    "subdivision": "AC",
+    "subdivision": "Acre",
     "languages": [
       "en",
       "pt"
@@ -19676,8 +19656,8 @@
     "tags": [
       "eclética"
     ],
-    "homepage": "https://www.playmixfm.com.br/",
-    "favicon": "https://i.postimg.cc/TwZKqbtt/Logo-play-mix-oficial.png",
+    "homepage": "https://playmixfm.com.br/",
+    "favicon": "https://i.postimg.cc/d3x5xqy2/PLAY-MIX-FM-fundo-transparente.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T18:53:16Z"

@@ -5134,7 +5134,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao Radio",
+    "name": "Cacao-Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -9572,7 +9572,7 @@
     "id": "awb_7e7569648104bc027057",
     "name": "DIGITAL2RADIO",
     "country": "FR",
-    "subdivision": "Normandy",
+    "subdivision": "Normandie",
     "languages": [],
     "categories": [
       "oldies",
@@ -10048,6 +10048,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_af2c217744a445ed103c",
+    "name": "EASY RADIO KRIBI",
+    "country": "FR",
+    "subdivision": "Loire",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://easyradiokribi.com/",
+    "favicon": "https://image.noelshack.com/fichiers/2026/42/4/1792083948-sans-titre-1.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T17:09:42Z"
   },
   {
     "id": "awb_0981dffe048308dbf5b4",
@@ -13567,6 +13581,25 @@
     "updatedAt": "2026-09-12T19:32:12Z"
   },
   {
+    "id": "awb_fe54bbbecddb76e94c17",
+    "name": "France Culture - hi res",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "art",
+      "culture"
+    ],
+    "homepage": "https://radiofrance.fr/franceculture/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T11:19:20Z"
+  },
+  {
     "id": "awb_0bc36b12fdb0ef9e083c",
     "name": "France Culture (Bose)",
     "country": "FR",
@@ -14005,8 +14038,8 @@
     "homepage": "https://www.radiofrance.fr/francemusique",
     "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
     "type": "public",
-    "sourceCount": 9,
-    "updatedAt": "2026-10-15T07:26:14Z"
+    "sourceCount": 8,
+    "updatedAt": "2026-10-15T04:55:47Z"
   },
   {
     "id": "awb_2b5e33ae1a1c7af2ad8f",
@@ -16135,6 +16168,44 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_7afcc9a8dace73f64ef1",
+    "name": "Glaz | Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "blues",
+      "folk",
+      "hip-hop",
+      "oldies",
+      "rock"
+    ],
+    "tags": [
+      "bluegrass",
+      "blues",
+      "chanson française",
+      "folk",
+      "hip-hop 90s",
+      "ia",
+      "indie",
+      "musique originale",
+      "nantes",
+      "rock",
+      "rock celtique",
+      "suno",
+      "webradio"
+    ],
+    "homepage": "https://www.glazradio.tech/",
+    "favicon": "https://atelier-glaz.com/radio/favicon.png",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T12:32:14Z"
   },
   {
     "id": "awb_f5dd1a3b086ff7fc2dbf",
@@ -19558,7 +19629,7 @@
       "radio locale"
     ],
     "homepage": "https://www.ici.fr/radio/breizh-izel",
-    "favicon": "https://www.ici.fr/images/apple-touch-icon.png",
+    "favicon": "https://www.ici.fr/favicon56.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T10:24:25Z"
@@ -34441,7 +34512,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.plumfm.net/",
-    "favicon": "https://static.wixstatic.com/media/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png",
+    "favicon": "https://static.wixstatic.com/media/695ef4_9d20d326e8d243788c285f11121c9994~mv2.png/v1/crop/x_0,y_2,w_2101,h_737/fill/w_326,h_114,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20ok%20PLUMFM.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
@@ -35021,7 +35092,7 @@
   },
   {
     "id": "awb_4242dc875d1bdd4fe48f",
-    "name": "Puissance Max la Radio",
+    "name": "Puissance Max La Radio",
     "country": "FR",
     "subdivision": "Auvergne-Rhône-Alpes",
     "languages": [
@@ -35036,8 +35107,8 @@
       "top 40",
       "top hits"
     ],
-    "homepage": "https://puissance-max-la-radio.fr/",
-    "favicon": "https://www.image-heberg.fr/files/17675323612993863926.png",
+    "homepage": "https://www.puissance-max-la-radio.fr/#apropos",
+    "favicon": "https://static.wixstatic.com/media/eea892_1334dfd05976420cba30d24bcba8af47~mv2.png/v1/fill/w_462,h_460,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vierge.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-05T10:31:11Z"
@@ -38185,6 +38256,20 @@
     "updatedAt": "2026-03-11T21:09:55Z"
   },
   {
+    "id": "awb_068b802719b16b44a6c4",
+    "name": "Radio Fg Deep Dance",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiofg.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T16:08:19Z"
+  },
+  {
     "id": "awb_72a37b59e29112511f4e",
     "name": "Radio FG Techno",
     "country": "FR",
@@ -38223,6 +38308,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-20T17:56:35Z"
+  },
+  {
+    "id": "awb_1a2c63efdff90b1dfb33",
+    "name": "Radio FG Work",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiofg.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T16:11:06Z"
   },
   {
     "id": "awb_855d62cb2e581b01de35",
@@ -47051,7 +47150,7 @@
       "metal"
     ],
     "homepage": "https://lesonunique.com/mysun/parcourir/sun-metal",
-    "favicon": "https://assets.radioplayer.org/250/2501923/600/600/mrp1g2m0.png",
+    "favicon": "https://assets.radioplayer.org/250/2501928/600/600/m6gk7w9y.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-02T03:21:24Z"
@@ -47420,30 +47519,36 @@
     "id": "awb_912c71f6fa7c86778d90",
     "name": "SYNO RADIO",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "Nord",
     "languages": [
+      "en",
       "fr"
     ],
     "categories": [
       "ambient",
       "electronic",
+      "latin",
       "pop"
     ],
     "tags": [
+      "24/7",
       "ai music",
       "bossa nova",
       "chill",
       "dance",
       "deep house",
+      "deephouse",
+      "latin",
       "lofi",
       "pop",
+      "web radio",
       "webradio"
     ],
     "homepage": "https://radiosyno.ddns.net/",
     "favicon": "https://radiosyno.ddns.net/assets/img/favicon.png",
     "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-30T07:30:47Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-15T19:09:59Z"
   },
   {
     "id": "awb_523eeffba170ffb29f8e",
@@ -48964,6 +49069,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-26T12:09:32Z"
+  },
+  {
+    "id": "awb_6a8e6471a8b13eb2188e",
+    "name": "Vip-Radios - Dancefloor",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.vip-radios.fm/station/dancefloor-radio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T16:05:30Z"
   },
   {
     "id": "awb_48a488868113f6ea3728",

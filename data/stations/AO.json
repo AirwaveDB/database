@@ -52,6 +52,30 @@
     "updatedAt": "2026-04-04T09:52:42Z"
   },
   {
+    "id": "awb_9c831325dc9cf24baa83",
+    "name": "Correio da Kianda",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://correiokianda.info/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z"
+  },
+  {
     "id": "awb_20f217c4969e1068bca2",
     "name": "Ebnézer Rádio",
     "country": "AO",
@@ -86,6 +110,48 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_e220617392d37229beef",
+    "name": "FM Afro",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "afro beat"
+    ],
+    "homepage": "https://www.fmafro.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:12:06Z"
+  },
+  {
+    "id": "awb_52e195fccc40996a2285",
+    "name": "LAC - Luanda Antena Comercial",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://www.lacluanda.co.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z"
+  },
+  {
     "id": "awb_33f2481787ffaf87093e",
     "name": "LOVE FM: Músicas pop espanholas clássicas dos anos 80, 90 e 2000",
     "country": "AO",
@@ -98,6 +164,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-29T14:19:30Z"
+  },
+  {
+    "id": "awb_6253d15b75f7ee56d165",
+    "name": "Platina FM",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://platinafm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:22:12Z"
   },
   {
     "id": "awb_d481256be6a87ecf5c20",
@@ -118,6 +206,329 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_899143d31e25a9c180d4",
+    "name": "Rádio 8000",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://www.radiozango8000.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:01Z"
+  },
+  {
+    "id": "awb_51e458005716aaf83ec0",
+    "name": "Rádio Adventus",
+    "country": "AO",
+    "subdivision": "Talatona",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://radioadventus.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:01Z"
+  },
+  {
+    "id": "awb_26ada4f854fcdf69d057",
+    "name": "Rádio Benguela",
+    "country": "AO",
+    "subdivision": "Benguela",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-benguela/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:01Z"
+  },
+  {
+    "id": "awb_3e9664528d24c8543623",
+    "name": "Rádio Cazenga",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-cazenga/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:01Z"
+  },
+  {
+    "id": "awb_5040bf069dac89056c64",
+    "name": "Rádio Cuando Cubango 91.4 FM",
+    "country": "AO",
+    "subdivision": "Menongue",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-cuando-cubango/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:26:16Z"
+  },
+  {
+    "id": "awb_ed7b47ac9a7733b91807",
+    "name": "Rádio Cuanza Norte",
+    "country": "AO",
+    "subdivision": "N'dalatando",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-cuanza-norte/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:18Z"
+  },
+  {
+    "id": "awb_7b3cc310d81b8a22934d",
+    "name": "Rádio Cultura Angola",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "folk",
+      "talk"
+    ],
+    "tags": [
+      "folk",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/rca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:18:11Z"
+  },
+  {
+    "id": "awb_2a9c80b577f95dded703",
+    "name": "Rádio Cuquema",
+    "country": "AO",
+    "subdivision": "Cuíto",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://play.google.com/store/apps/details?id=justweb.radio.cuquema",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:22:12Z"
+  },
+  {
+    "id": "awb_f2450926e4d2de1cdcb9",
+    "name": "Rádio D'Agosto 92.0",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "tags": [
+      "news",
+      "sports"
+    ],
+    "homepage": "https://www.radiodagosto.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:56Z"
+  },
+  {
+    "id": "awb_3dc547e256a6186b1795",
+    "name": "Rádio Ecclésia de Caxito",
+    "country": "AO",
+    "subdivision": "Caxito",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rec.radiostream321.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:26:16Z"
+  },
+  {
+    "id": "awb_bcd0943781696da744c8",
+    "name": "Rádio Escola",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "education",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://cefojor.ao/radio-escola/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:07:53Z"
+  },
+  {
+    "id": "awb_d34ab5cc22b9b166db94",
+    "name": "Rádio Essencial",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "politics",
+      "talk"
+    ],
+    "homepage": "https://radioessencial.co.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z"
+  },
+  {
+    "id": "awb_8593328278179ace1fe3",
+    "name": "Rádio Estalagem",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "talk"
+    ],
+    "homepage": "https://radio-estalagem.mdn.live/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:15:17Z"
+  },
+  {
+    "id": "awb_3e3a2254ec1a914e2255",
+    "name": "Radio FamaStar",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "electronic",
+      "religious"
+    ],
+    "tags": [
+      "dance",
+      "gospel",
+      "house",
+      "samba",
+      "zouk"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z"
+  },
+  {
     "id": "awb_54d46eef8e2e8168420d",
     "name": "Rádio Fé Angola",
     "country": "AO",
@@ -134,6 +545,141 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:20:02Z"
+  },
+  {
+    "id": "awb_9413265d8c123f427fa3",
+    "name": "Rádio Imetro",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:19Z"
+  },
+  {
+    "id": "awb_10ea37c8437ec7e2744e",
+    "name": "Rádio ISPI",
+    "country": "AO",
+    "subdivision": "Lubango",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "education",
+      "news",
+      "talk"
+    ],
+    "homepage": "http://radioispi.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:24:21Z"
+  },
+  {
+    "id": "awb_28df7c2ae3a454c5c0a0",
+    "name": "Rádio Jeova Sabaoth",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:21Z"
+  },
+  {
+    "id": "awb_9314379103c6615a85a3",
+    "name": "Rádio Kairós Angola",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.radiokairosangola.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:42:37Z"
+  },
+  {
+    "id": "awb_a42a0ac78412a73fad52",
+    "name": "Rádio Kamwenho Notícias",
+    "country": "AO",
+    "subdivision": "Cuíto",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:24:21Z"
+  },
+  {
+    "id": "awb_54071d41e0062c87cd46",
+    "name": "Radio Karixi.com - A Samba nos teus Ouvidos",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "brazilian music",
+      "pop",
+      "samba"
+    ],
+    "homepage": "https://zeno.fm/radio/karixi-com-a-samba-nos-teus-ouvidos/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:18:11Z"
   },
   {
     "id": "awb_e248f1ba0e6bb655e87c",
@@ -155,6 +701,28 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_55b2b820eba94c4cceed",
+    "name": "Rádio Lobito",
+    "country": "AO",
+    "subdivision": "Lobito",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-lobito/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z"
+  },
+  {
     "id": "awb_a63335b49001beec9a28",
     "name": "Radio Luanda",
     "country": "AO",
@@ -167,6 +735,418 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_c009c7b0a7b744657de8",
+    "name": "Radio luanda fm line",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://luandafmline.blogspot.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:06:36Z"
+  },
+  {
+    "id": "awb_9c29c5f3ef682a03b2d0",
+    "name": "Rádio Lumbamba",
+    "country": "AO",
+    "subdivision": "Ondjiva",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radiolumbamba89.ismyradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:30:23Z"
+  },
+  {
+    "id": "awb_6ab9e65ca3ea9f379be5",
+    "name": "Rádio Lunda Norte",
+    "country": "AO",
+    "subdivision": "Dundo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "brazilian music",
+      "hits",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radiolundanorte.rf.gd/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:07:53Z"
+  },
+  {
+    "id": "awb_57c41343e82609ae5978",
+    "name": "Rádio Lunda Sul",
+    "country": "AO",
+    "subdivision": "Saurimo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-lunda-sul/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z"
+  },
+  {
+    "id": "awb_5b52eb86b147e2fcf079",
+    "name": "Rádio Mais Benguela 96.3 FM",
+    "country": "AO",
+    "subdivision": "Benguela",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://www.radiomais.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:01Z"
+  },
+  {
+    "id": "awb_8fde2cb96273d26574be",
+    "name": "Rádio Mais Huambo",
+    "country": "AO",
+    "subdivision": "Huambo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://radiomais.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:24:21Z"
+  },
+  {
+    "id": "awb_f493cf066425875f15f5",
+    "name": "Rádio Mais Huíla",
+    "country": "AO",
+    "subdivision": "Lubango",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radiomais.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:22:12Z"
+  },
+  {
+    "id": "awb_fa94b3963488f36157de",
+    "name": "Rádio Malange",
+    "country": "AO",
+    "subdivision": "Malanje",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-malange/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:01Z"
+  },
+  {
+    "id": "awb_dbb16ddb59d71b26aba3",
+    "name": "Rádio Maranata",
+    "country": "AO",
+    "subdivision": "Lubango",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://radiomaranatahuila.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:13:42Z"
+  },
+  {
+    "id": "awb_0c03278a14c6beba7f06",
+    "name": "Rádio Marginal",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://marginal.co.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z"
+  },
+  {
+    "id": "awb_9f95e7a1e1e1c097af09",
+    "name": "Rádio Maria Angola",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://www.radiomaria.co.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:05:48Z"
+  },
+  {
+    "id": "awb_989a7305665ed2268cff",
+    "name": "Rádio MFM",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radiomfmangola.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:18:11Z"
+  },
+  {
+    "id": "awb_19b09e9248ef19c217eb",
+    "name": "Radio Nacional de Angola - Canal A",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/canal-a/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:13:42Z"
+  },
+  {
+    "id": "awb_0804ec60ac97b2f78dfc",
+    "name": "Rádio Nacional de Angola - Rádio 5",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radio-5/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:26:16Z"
+  },
+  {
+    "id": "awb_9b1d2ab5472f98b33009",
+    "name": "Rádio Namibe",
+    "country": "AO",
+    "subdivision": "Moçâmedes",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-namibe/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:24:21Z"
+  },
+  {
+    "id": "awb_8b77cc057e7f52156197",
+    "name": "Rádio Nosso Tempo",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://www.radionossotempo.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:12:52Z"
+  },
+  {
+    "id": "awb_5b7d38bb0bf6f53b078a",
+    "name": "Rádio Nova 102.5 FM",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radionova.co.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:22:12Z"
+  },
+  {
+    "id": "awb_0a0bb2113e984295d5ce",
+    "name": "RÁDIO NXT FM 98.7",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "latin",
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "latin",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radionxtfm.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:22:12Z"
   },
   {
     "id": "awb_cd97e147fbdc5074dd6a",
@@ -210,6 +1190,180 @@
     "updatedAt": "2026-05-08T05:50:41Z"
   },
   {
+    "id": "awb_e67157cbf94335f5d9a8",
+    "name": "Rádio Romântica",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "romantic"
+    ],
+    "homepage": "https://play.google.com/store/apps/details?id=app.lw.radio.romantica",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:12:27Z"
+  },
+  {
+    "id": "awb_7c3376c22f971841a49d",
+    "name": "Rádio Sambila",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radio-sambila.mdn.live/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:30:23Z"
+  },
+  {
+    "id": "awb_be4b02a228d40787d0ff",
+    "name": "Rádio Solidária",
+    "country": "AO",
+    "subdivision": "Belas",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://radiosolidaria.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:20:16Z"
+  },
+  {
+    "id": "awb_7a6bb2a75dfd1a5b15c4",
+    "name": "Rádio STTOP FM",
+    "country": "AO",
+    "subdivision": "Talatona",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.sttopfm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:26:16Z"
+  },
+  {
+    "id": "awb_42b9c4b82a501c6c7e3c",
+    "name": "Rádio Sucupira",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "education",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.radiosucupira11.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:22:12Z"
+  },
+  {
+    "id": "awb_8bb550343c50a41d21f4",
+    "name": "Rádio Valerfm",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://valervtv.blogspot.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:37Z"
+  },
+  {
+    "id": "awb_84f2c3f7a7251cbc146d",
+    "name": "Rádio Viana",
+    "country": "AO",
+    "subdivision": "Viana",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-viana/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:01Z"
+  },
+  {
+    "id": "awb_7fc20974dbd15d007331",
+    "name": "radio viana aovivo",
+    "country": "AO",
+    "subdivision": "Viana",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel"
+    ],
+    "homepage": "https://radiovianaaovivo.blogspot.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:07:42Z"
+  },
+  {
     "id": "awb_e09926628fce20e50947",
     "name": "Rádio Vibrar Angola",
     "country": "AO",
@@ -222,5 +1376,93 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-14T22:23:06Z"
+  },
+  {
+    "id": "awb_1145804f48fbcf55bf0d",
+    "name": "RNA - Rádio Ngola Yetu",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:24:21Z"
+  },
+  {
+    "id": "awb_4d4e02b78b7eecb0babe",
+    "name": "RNA Canal Internacional",
+    "country": "AO",
+    "subdivision": "Cazenga",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:34:29Z"
+  },
+  {
+    "id": "awb_3d6fe265ba6323b855ee",
+    "name": "TRS Rádio Online",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "latin",
+      "religious"
+    ],
+    "tags": [
+      "gospel",
+      "latin"
+    ],
+    "homepage": "https://www.trsradioonline.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:11:13Z"
+  },
+  {
+    "id": "awb_16137680773f12d690d1",
+    "name": "Zango FM 98.1",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://zango.co.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:26:16Z"
   }
 ]

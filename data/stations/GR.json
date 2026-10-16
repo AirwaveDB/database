@@ -682,7 +682,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Kozani",
+    "subdivision": "Attica, Athens",
     "languages": [
       "el",
       "en"
@@ -17317,6 +17317,25 @@
     "updatedAt": "2026-01-15T01:59:16Z"
   },
   {
+    "id": "awb_21a26a5faebf40252720",
+    "name": "Planet 90.6",
+    "country": "GR",
+    "subdivision": "Ierapetra",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "mainstream",
+      "pop"
+    ],
+    "homepage": "https://www.facebook.com/planet906/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/56758e65-aff9-4ed7-9be7-a5a10fb54a3d.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T17:25:38Z"
+  },
+  {
     "id": "awb_5e8838218c94329ecc51",
     "name": "PLANET RADIO",
     "country": "GR",
@@ -27036,6 +27055,28 @@
     "updatedAt": "2026-01-15T00:05:50Z"
   },
   {
+    "id": "awb_472ed7dc5708d9df7028",
+    "name": "Style 100",
+    "country": "GR",
+    "subdivision": "Sitia",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "greek music",
+      "news talk"
+    ],
+    "homepage": "https://style100fm.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/31d4d9a0-308d-4708-a3b8-c32b0bf05bde.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T17:50:17Z"
+  },
+  {
     "id": "awb_8266ab7592f8ead3806f",
     "name": "Stylida 94.1",
     "country": "GR",
@@ -30241,6 +30282,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:23:21Z"
+  },
+  {
+    "id": "awb_a7d82145bab0aaed284a",
+    "name": "Βερενίκη 89.5",
+    "country": "GR",
+    "subdivision": "Ierapetra",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream",
+      "news talk"
+    ],
+    "homepage": "https://www.radiovereniki.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/38a56d04-14a9-4e0e-a934-32b87b752c84.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T17:19:13Z"
   },
   {
     "id": "awb_1cce54747d711c470676",

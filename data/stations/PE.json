@@ -2764,6 +2764,26 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
+    "id": "awb_ed05c2c80d96fd5e25d0",
+    "name": "Radio Disney Peru",
+    "country": "PE",
+    "subdivision": "Lima",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://pe.radiodisney.com/",
+    "favicon": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Radio_Disney_Latin_America.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T00:38:14Z"
+  },
+  {
     "id": "awb_9eb76bab275bec313899",
     "name": "Radio El Patron 95.7 FM - Cajamarca, San Miguel",
     "country": "PE",
@@ -5021,9 +5041,9 @@
   },
   {
     "id": "awb_4b79688d257d9ed6a2ab",
-    "name": "Radio TV. Sureña - Puno, Juliaca",
+    "name": "Radio TV. Sureña (Puno, Juliaca)",
     "country": "PE",
-    "subdivision": "Juliaca - Puno",
+    "subdivision": "Puno / Juliaca",
     "languages": [],
     "categories": [],
     "tags": [],
