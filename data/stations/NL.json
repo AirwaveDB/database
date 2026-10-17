@@ -210,7 +210,7 @@
     "favicon": "https://meta.1zwolle.nl/logos/64x64.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T11:38:17Z"
+    "updatedAt": "2026-10-17T03:24:59Z"
   },
   {
     "id": "awb_3861f863ae11d5bbecf3",
@@ -942,7 +942,7 @@
     "favicon": "https://forums.ah.fm/data/assets/logo/favicon.png",
     "type": null,
     "sourceCount": 8,
-    "updatedAt": "2026-10-12T20:33:11Z"
+    "updatedAt": "2026-10-17T00:48:17Z"
   },
   {
     "id": "awb_e499ee5a4e0ed96f5c3d",
@@ -2572,9 +2572,9 @@
   },
   {
     "id": "awb_b13cd09bdfe7005edd75",
-    "name": "Classics Radio",
+    "name": "Classics; Radio",
     "country": "NL",
-    "subdivision": "Brabant",
+    "subdivision": "Noord-Brabant",
     "languages": [
       "en"
     ],
@@ -2584,15 +2584,13 @@
     ],
     "tags": [
       "dance",
-      "easy listening",
       "pop",
-      "r&b",
       "rock"
     ],
     "homepage": "https://www.classicsradio.eu/",
     "favicon": "https://a4.asurahosting.com/static/uploads/classics_radio/album_art.1770725396.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-09-02T14:12:45Z"
   },
   {
@@ -3224,13 +3222,17 @@
     "languages": [
       "en"
     ],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "country"
+    ],
+    "tags": [
+      "country"
+    ],
     "homepage": "https://country-station.com/",
     "favicon": "https://country-station.com/wp-content/uploads/2026/09/countrylogo-vierkantje.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-11T21:54:29Z"
+    "updatedAt": "2026-10-16T22:21:13Z"
   },
   {
     "id": "awb_0af9ed9909e11124990c",
@@ -3592,20 +3594,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-27T10:33:26Z"
-  },
-  {
-    "id": "awb_22c32bb8b10a88ed79d9",
-    "name": "De Hollandse Piraten Gigant",
-    "country": "NL",
-    "subdivision": "Overijssel",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://dehollandsepiratengigant.nl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_99bd92fb6753eaf6ba10",
@@ -8911,6 +8899,20 @@
     "updatedAt": "2026-05-06T07:23:03Z"
   },
   {
+    "id": "awb_9d842cb94efab1cc1987",
+    "name": "Loudrift",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.loudrift.nl/",
+    "favicon": "https://www.loudrift.nl/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T19:05:26Z"
+  },
+  {
     "id": "awb_5191a7b0883f3e20a53c",
     "name": "LX Classics",
     "country": "NL",
@@ -8955,8 +8957,8 @@
     "homepage": "http://www.maaslandradio.nl/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:01:25Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-16T19:43:24Z"
   },
   {
     "id": "awb_90a8648445959597f84e",
@@ -12864,7 +12866,6 @@
     "country": "NL",
     "subdivision": null,
     "languages": [
-      "en",
       "nl"
     ],
     "categories": [
@@ -12877,8 +12878,8 @@
     "homepage": "https://progressieverock.nl/",
     "favicon": "https://progressieverock.nl/logo.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-08T06:48:54Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-05-02T10:18:39Z"
   },
   {
     "id": "awb_207b336bd057ef0c67ec",
@@ -18305,24 +18306,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_d17488ad58e6f2d3ddd9",
-    "name": "RTV Slingeland",
-    "country": "NL",
-    "subdivision": "Gelderland",
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [
-      "local radio"
-    ],
-    "homepage": "https://rtvslingeland.nl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:05:08Z"
-  },
-  {
     "id": "awb_54e126d64e92c93905d5",
     "name": "RTV Tynaarlo",
     "country": "NL",
@@ -19574,22 +19557,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_1fdd1814ff58823ba50b",
-    "name": "Studio 040 TV",
-    "country": "NL",
-    "subdivision": "Brabant",
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.studio040.nl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:10:47Z"
-  },
-  {
     "id": "awb_c364bba1bd98fe922d18",
     "name": "Studio DMN",
     "country": "NL",
@@ -19791,7 +19758,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T01:01:23Z"
+    "updatedAt": "2026-10-17T02:01:14Z"
   },
   {
     "id": "awb_dd748d6ac2bea7f2fb37",

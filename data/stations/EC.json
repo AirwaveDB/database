@@ -86,42 +86,13 @@
     "country": "EC",
     "subdivision": "Pichincha",
     "languages": [],
-    "categories": [
-      "sports"
-    ],
-    "tags": [
-      "deportes"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://areadeportiva.ec/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_95dd8b204630b68b45d5",
-    "name": "Area Deportiva 99.3 FM",
-    "country": "EC",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "deportes",
-      "entretenimiento",
-      "noticias y deportes",
-      "radio hablada",
-      "sports"
-    ],
-    "homepage": "https://areadeportiva.ec/",
-    "favicon": "https://areadeportiva.ec/wp-content/uploads/2024/01/cropped-IMG_3205-1.png",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:51:12Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_fc89758e0be38bac0951",
@@ -1061,30 +1032,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_7983e71ea58c907b67da",
-    "name": "Metro Stereo",
-    "country": "EC",
-    "subdivision": "Tungurahua",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock",
-      "urban"
-    ],
-    "homepage": "https://www.lametro.com.ec/",
-    "favicon": "https://alba-ec-lametro.cdn.mediatiquepress.com/wp-content/uploads/2022/10/la-metro-logo-2022-1.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-14T15:24:32Z"
   },
   {
     "id": "awb_dc729464c8b80173278d",
@@ -2645,14 +2592,13 @@
       "rock"
     ],
     "tags": [
-      "electro",
       "pop",
       "rock"
     ],
     "homepage": "https://www.xtremafmecuador.com/",
-    "favicon": "https://static.wixstatic.com/media/40a6b2_e9468b7d4581460da56d4ed5844066f7%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/40a6b2_e9468b7d4581460da56d4ed5844066f7%7Emv2.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3044,30 +2990,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_b148dcb4cf729597e907",
-    "name": "Tropicalida",
-    "country": "EC",
-    "subdivision": "Guayas",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin",
-      "pop"
-    ],
-    "tags": [
-      "merengue",
-      "pop",
-      "reggaeton",
-      "tropical"
-    ],
-    "homepage": "https://www.tropicalida.com.ec/",
-    "favicon": "https://alba-ec-tropicalida.cdn.mediatiquepress.com/wp-content/uploads/2022/02/22173451/circulo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-20T19:15:57Z"
   },
   {
     "id": "awb_02ef16c56ce4dec1e7fd",

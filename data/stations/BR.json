@@ -1877,25 +1877,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_0905ed870a14f248c9e4",
-    "name": "Benchi FM",
-    "country": "BR",
-    "subdivision": "Minas Gerais",
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "categories": [],
-    "tags": [
-      "eclectic"
-    ],
-    "homepage": "https://radio.pevaio.top/public/benchi",
-    "favicon": "https://radio.pevaio.top/static/uploads/album_art.1784866749.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-01T04:10:17Z"
-  },
-  {
     "id": "awb_fccba9e4f43fcf4b34c2",
     "name": "BestRadio Brasil",
     "country": "BR",
@@ -3108,23 +3089,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_0651e4b97316fe595c2e",
-    "name": "Conecta Sertanejo",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "mgt sertanejo clássicos",
-      "sertanejo raiz"
-    ],
-    "homepage": "https://conectaweb.tech/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-11T22:17:06Z"
-  },
-  {
     "id": "awb_6129cd02b3a01f097e58",
     "name": "Conexão FM 98,1",
     "country": "BR",
@@ -4311,6 +4275,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T13:08:12Z"
+  },
+  {
+    "id": "awb_cd2981357d40dbe6e9a3",
+    "name": "Fay Só Forró das Antigas",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "forró"
+    ],
+    "homepage": "http://7602.site.stm-ip.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_cbb9557b439a5c818c41",
@@ -7428,6 +7408,20 @@
     "updatedAt": "2026-08-20T03:01:49Z"
   },
   {
+    "id": "awb_7c3e8401ee05229aaad5",
+    "name": "maresol web radio - Manaus",
+    "country": "BR",
+    "subdivision": "Amazonas",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://manaus.radiomaresol.com.br/",
+    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T18:43:41Z"
+  },
+  {
     "id": "awb_5f43aff5759f0fc8b2cf",
     "name": "maresol web radio - Parintins",
     "country": "BR",
@@ -7563,22 +7557,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-04-05T04:56:57Z"
-  },
-  {
-    "id": "awb_5ce12100bca114bb1dac",
-    "name": "Martins FM 87,9 Maceió",
-    "country": "BR",
-    "subdivision": "Alagoas",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "comunitária"
-    ],
-    "homepage": "http://www.martinsfm.com.br/",
-    "favicon": "https://www.radios.com.br/aovivo/radio-martins-879-fm/40460",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-18T20:44:56Z"
   },
   {
     "id": "awb_6c92439d0158ad1bba94",
@@ -9576,7 +9554,7 @@
     "favicon": "https://observatoriosergipe.com.br/media/radio/branding/observatorio-radio-web-directory-v2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T09:12:57Z"
+    "updatedAt": "2026-10-16T21:46:31Z"
   },
   {
     "id": "awb_0320b9539ad56c4f93cd",
@@ -12002,6 +11980,28 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_9fca350acc3a60eedf0a",
+    "name": "Rádio Autoestima JD33",
+    "country": "BR",
+    "subdivision": "GO",
+    "languages": [],
+    "categories": [
+      "ambient",
+      "religious"
+    ],
+    "tags": [
+      "ambient and relaxation music",
+      "educación",
+      "instrumental music",
+      "religious"
+    ],
+    "homepage": "https://www.autoestimajd33.com/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/719/autoestima-jd33.2b51f3ed.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-02-20T23:42:40Z"
   },
   {
     "id": "awb_2a5a6815f8e0465862e3",
@@ -15103,19 +15103,17 @@
     "id": "awb_a9e6c546c8b0d43f0694",
     "name": "Rádio Estádio",
     "country": "BR",
-    "subdivision": "Pernambuco",
-    "languages": [
-      "pt"
-    ],
+    "subdivision": null,
+    "languages": [],
     "categories": [],
     "tags": [
       "futebol"
     ],
     "homepage": "https://toligado.net.br/",
-    "favicon": "https://cordeiroplasticos.com.br/estadio1.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-04-22T07:53:36Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_a342dfb9ec362fdb109f",
@@ -15245,22 +15243,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-26T01:53:04Z"
-  },
-  {
-    "id": "awb_81e5aadcc371e4a52a5c",
-    "name": "Rádio Exaltação",
-    "country": "BR",
-    "subdivision": "Sao Paulo (Brazil)",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://portalsud.com.br/",
-    "favicon": "https://portalsud.com.br/wp-content/uploads/2022/09/radio-exaltacao-quadrado-150x150.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:00:36Z"
   },
   {
     "id": "awb_64804a20467603a1a4a1",
@@ -15788,24 +15770,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_344d8d06c3e58921af0b",
-    "name": "Radio Girassol",
-    "country": "BR",
-    "subdivision": "Ceará",
-    "languages": [],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "smooth lounge"
-    ],
-    "homepage": "http://fmgirassol.com.br/",
-    "favicon": "http://fmgirassol.com.br/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-01T13:49:10Z"
   },
   {
     "id": "awb_c36d046d9093524b970e",
@@ -19160,10 +19124,10 @@
       "sertanejo"
     ],
     "homepage": "https://www.radionovissima.com.br/",
-    "favicon": null,
+    "favicon": "https://www.radionovissima.com.br/favicon",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-06T15:38:28Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-17T02:58:53Z"
   },
   {
     "id": "awb_8ad3af443b7ce11753ee",
@@ -19647,7 +19611,7 @@
     "id": "awb_a76eeb567f319bbe44bd",
     "name": "Rádio Play Mix FM",
     "country": "BR",
-    "subdivision": "Acre",
+    "subdivision": "AC",
     "languages": [
       "en",
       "pt"
@@ -19656,8 +19620,8 @@
     "tags": [
       "eclética"
     ],
-    "homepage": "https://playmixfm.com.br/",
-    "favicon": "https://i.postimg.cc/d3x5xqy2/PLAY-MIX-FM-fundo-transparente.png",
+    "homepage": "https://www.playmixfm.com.br/",
+    "favicon": "https://i.postimg.cc/TwZKqbtt/Logo-play-mix-oficial.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T18:53:16Z"
@@ -23565,6 +23529,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-27T10:40:24Z"
+  },
+  {
+    "id": "awb_b504b93fb6d7889a9147",
+    "name": "R�dio Barcelos na NET",
+    "country": "BR",
+    "subdivision": "Amazonas",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "amazonas",
+      "barcelos",
+      "musica",
+      "noticias",
+      "variado"
+    ],
+    "homepage": "https://radio.barcelosnanet.com.br/",
+    "favicon": "https://radio.barcelosnanet.com.br/logo-radio-192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T03:33:12Z"
   },
   {
     "id": "awb_701d5fd88b252df3d8c3",

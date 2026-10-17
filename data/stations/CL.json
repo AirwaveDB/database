@@ -988,34 +988,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_ee3d40ecb3c5c7de2517",
-    "name": "City Radio POP",
-    "country": "CL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.cityradiochile.com/",
-    "favicon": "http://www.cityradiochile.com/index_htm_files/3.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
-    "id": "awb_71a67688989e97b5785e",
-    "name": "City Radio POP - Chile",
-    "country": "CL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.cityradiochile.com/",
-    "favicon": "http://www.cityradiochile.com/index_htm_files/3.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
     "id": "awb_10123d8f3389c336ed29",
     "name": "City Radio Smooth and Jazz",
     "country": "CL",
@@ -3214,6 +3186,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_06c7f24fd2f5a7952178",
+    "name": "Mi Radio La Serena",
+    "country": "CL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.miradiols.cl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T18:55:29Z"
+  },
+  {
     "id": "awb_0d16f0c0cb900906f2ba",
     "name": "Millenium Radio Network",
     "country": "CL",
@@ -3892,7 +3878,7 @@
   },
   {
     "id": "awb_488a05d1d811ecb5936d",
-    "name": "Radio 7 Tazas de Molina FM",
+    "name": "Radio 7 Tazas de Molina FM.",
     "country": "CL",
     "subdivision": "Maule",
     "languages": [],
@@ -6240,6 +6226,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_95213851d3ac3dfdfe94",
+    "name": "Radio Futuro FM",
+    "country": "CL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.futuro.cl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T19:00:21Z"
+  },
+  {
     "id": "awb_3733df377787fffab893",
     "name": "Radio Fututo",
     "country": "CL",
@@ -6523,7 +6523,7 @@
   },
   {
     "id": "awb_f85d515686d208619eea",
-    "name": "Radio La Chúkara",
+    "name": "Radio la Chúkara",
     "country": "CL",
     "subdivision": null,
     "languages": [
@@ -8626,6 +8626,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_15c4ef65362a7a093390",
+    "name": "Radio Z",
+    "country": "CL",
+    "subdivision": "Laja",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiozlaja.cl/",
+    "favicon": "https://www.radiozlaja.cl/img/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T15:27:19Z"
+  },
+  {
     "id": "awb_d206b04259ac9d50cbe8",
     "name": "Radioactiva",
     "country": "CL",
@@ -8948,24 +8962,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-09T11:42:51Z"
-  },
-  {
-    "id": "awb_f279c6236f25d15f4bdc",
-    "name": "Retro Plus Señal 1",
-    "country": "CL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "retro hits"
-    ],
-    "homepage": "https://www.retroplustv.com/",
-    "favicon": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1767353319",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-27T08:34:24Z"
   },
   {
     "id": "awb_0c41f052ddcf2a470293",

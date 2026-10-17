@@ -681,7 +681,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T02:30:09Z"
+    "updatedAt": "2026-10-17T03:33:12Z"
   },
   {
     "id": "awb_16a33c59720939783c39",
@@ -1132,7 +1132,7 @@
     "favicon": "https://cyberstacja.pl/images/historia/logo_sluchawki.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-12T19:54:45Z"
+    "updatedAt": "2026-10-17T01:45:40Z"
   },
   {
     "id": "awb_02c971fd71a7b8aaeddb",
@@ -4744,6 +4744,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-07T08:15:55Z"
+  },
+  {
+    "id": "awb_69fb56a4b5b873916be7",
+    "name": "Polskie Radio Trojka AAC",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "polskieradio"
+    ],
+    "homepage": "https://www.polskieradio.pl/9,Trojka",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_0b1accfcb755680412ba",
@@ -11239,20 +11255,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_2feeabe9d7f6952c90bb",
-    "name": "radio trojka",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://stream3.polskieradio.pl:8954/;.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-31T16:43:37Z"
-  },
-  {
     "id": "awb_9a30c73bc008a9259b67",
     "name": "Radio Trojka 3",
     "country": "PL",
@@ -12214,7 +12216,7 @@
     "id": "awb_4b49e5c817ec766fe4aa",
     "name": "radiOFF",
     "country": "PL",
-    "subdivision": "Lebus",
+    "subdivision": "Lubuskie",
     "languages": [
       "de",
       "pl"
@@ -12246,7 +12248,7 @@
       "storytelling",
       "viadrina"
     ],
-    "homepage": "https://radioff.com/",
+    "homepage": "http://radioff.com/",
     "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
     "type": null,
     "sourceCount": 3,
@@ -13888,7 +13890,7 @@
     "id": "awb_ccafb97eb92dab888427",
     "name": "RMF MAXX",
     "country": "PL",
-    "subdivision": "Malopolskie",
+    "subdivision": "Małopolskie",
     "languages": [
       "pl"
     ],
@@ -15296,7 +15298,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sj_logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-11T21:32:59Z"
+    "updatedAt": "2026-10-16T21:39:31Z"
   },
   {
     "id": "awb_d14c10e45802e34a828a",
@@ -16004,6 +16006,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_9acc362b9f20c8f52cc8",
+    "name": "Trojka",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://moje.polskieradio.pl/OtherChannels/Trojka.aspx",
+    "favicon": "http://moje.polskieradio.pl/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:43:13Z"
   },
   {
     "id": "awb_de786b1cede516c9ffeb",

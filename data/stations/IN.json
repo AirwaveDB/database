@@ -710,6 +710,22 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_c56463038f8022f4ec9b",
+    "name": "AIR bhopal",
+    "country": "IN",
+    "subdivision": "madhya pradesh",
+    "languages": [
+      "hi"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://prasarbharati.gov.in/homepage-air/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T02:32:41Z"
+  },
+  {
     "id": "awb_f3e9fb2ad113710a48db",
     "name": "AIR Bhuj",
     "country": "IN",
@@ -917,6 +933,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:47:13Z"
+  },
+  {
+    "id": "awb_d1c2db2b8a85000c4855",
+    "name": "AIR Indore",
+    "country": "IN",
+    "subdivision": "madhya pradesh",
+    "languages": [
+      "en",
+      "hi",
+      "ur"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "infotainment",
+      "music",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://prasarbharati.gov.in/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:33:22Z"
   },
   {
     "id": "awb_ea45916fd2ac323850d0",
@@ -1834,29 +1876,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_c1e093f8431a798e2189",
-    "name": "Akashvani Markapur",
-    "country": "IN",
-    "subdivision": "Andhra Pradesh",
-    "languages": [
-      "te"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news talk",
-      "public radio"
-    ],
-    "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-08-22T04:46:32Z"
   },
   {
     "id": "awb_83ebe1c6768acbec6e92",
@@ -3494,11 +3513,11 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://bollyhitsradio.com/",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/1/88371.v5.png",
+    "homepage": "https://bollyhitsradio.com/",
+    "favicon": "https://bollyhitsradio.com/wp-content/uploads/sites/558/2026/02/BollyHits-Radio-White-300x300.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-22T02:42:47Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-06-19T02:41:27Z"
   },
   {
     "id": "awb_9abe93ed84ed722568a0",
@@ -7407,22 +7426,6 @@
     "updatedAt": "2026-01-15T04:49:59Z"
   },
   {
-    "id": "awb_ba97606bdade76e736ae",
-    "name": "Karaikal",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [
-      "ta"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://akashvani.gov.in/radio/live.php",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:37:33Z"
-  },
-  {
     "id": "awb_eaae4c713c6ed6ae5888",
     "name": "Kathiravan Fm",
     "country": "IN",
@@ -7907,6 +7910,20 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_612ee1b64c588008f519",
+    "name": "Lord Buddha Radio",
+    "country": "IN",
+    "subdivision": "Maharashtra",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://tuneradio.in/",
+    "favicon": "https://tuneradio.in/assets/images/LordBuddhaRadio.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T15:20:25Z"
   },
   {
     "id": "awb_1a78123284a137b10759",
@@ -9507,20 +9524,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_049ff61986e7f2774586",
-    "name": "Parwaz Radio Punjabi",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/04/parwaz-radio.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_55ce9ba73c79f416bee4",
@@ -14098,20 +14101,6 @@
     "updatedAt": "2026-01-15T06:36:23Z"
   },
   {
-    "id": "awb_95e528d87deded64142f",
-    "name": "tagore radio",
-    "country": "IN",
-    "subdivision": "West Bengal",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://tagore-radio.pages.dev/",
-    "favicon": "https://tagore-radio.pages.dev/icons/icon-512.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-15T08:19:38Z"
-  },
-  {
     "id": "awb_c807db7c26224a5243ff",
     "name": "Taj 92.3 FM",
     "country": "IN",
@@ -14665,7 +14654,7 @@
     "id": "awb_535bc28f8985a73d24e5",
     "name": "Thandora FM",
     "country": "IN",
-    "subdivision": "Tamilnadu",
+    "subdivision": "Tamil Nadu",
     "languages": [
       "ta"
     ],
@@ -15731,6 +15720,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:01:29Z"
+  },
+  {
+    "id": "awb_cb7c225e9ba6d72292a4",
+    "name": "Vividh Bharti Pune",
+    "country": "IN",
+    "subdivision": "Maharashtra",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://akashvani.gov.in/radio/live.php",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-07-19T16:18:58Z"
   },
   {
     "id": "awb_dffa939fc86d3625c437",

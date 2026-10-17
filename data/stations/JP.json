@@ -1526,19 +1526,30 @@
   },
   {
     "id": "awb_0fe456d7b6addc5c26e8",
-    "name": "OnlyHits Japan",
+    "name": "Only Hits Japan",
     "country": "JP",
     "subdivision": null,
     "languages": [
+      "en",
       "ja"
     ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://j.onlyhit.us/",
-    "favicon": null,
+    "categories": [
+      "anime",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "anime",
+      "j-pop",
+      "j-rock",
+      "japanese",
+      "jpop"
+    ],
+    "homepage": "https://onlyhit.us/en/radio/japan",
+    "favicon": "https://cdn.onlyhitsradio.net/logo/japan.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-23"
+    "updatedAt": "2026-10-17T01:20:46Z"
   },
   {
     "id": "awb_75c5be1539c3725e7a09",

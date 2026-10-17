@@ -2214,6 +2214,20 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_a206dfa64f5687f18d99",
+    "name": "RADAR – 97.8 FM",
+    "country": "PT",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radarlisboa.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T23:38:40Z"
+  },
+  {
     "id": "awb_92fa77b2501807d31d35",
     "name": "Radialistas de Viseu",
     "country": "PT",
@@ -2845,6 +2859,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:25:41Z"
+  },
+  {
+    "id": "awb_6631082e055509092211",
+    "name": "Rádio Clube do Dão",
+    "country": "PT",
+    "subdivision": "Viseu",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "local",
+      "viseu"
+    ],
+    "homepage": "https://ouvirradios.pt/88710-radio-clube-do-dao.html",
+    "favicon": "https://cdn.radoxo.com/images/portugal/radio-clube-do-dao.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-09-27T20:09:25Z"
   },
   {
     "id": "awb_4717a660e604e3122242",
@@ -3775,7 +3808,7 @@
     "favicon": "https://meiodomato.com/static/img/logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T04:51:54Z"
+    "updatedAt": "2026-10-17T05:30:26Z"
   },
   {
     "id": "awb_cf1d912566dd6adad4f8",
@@ -6059,6 +6092,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_adaa300130527492f959",
+    "name": "RTP Mundo",
+    "country": "PT",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://mundo.rtp.pt/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T20:25:20Z"
   },
   {
     "id": "awb_d65684b8ef721b8bd10d",

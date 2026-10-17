@@ -1,5 +1,24 @@
 [
   {
+    "id": "awb_fedb04520cab07cf7eed",
+    "name": "1766 網路廣播電台 - 音樂頻道-民俗風 Folk",
+    "country": "TW",
+    "subdivision": null,
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "internet radio",
+      "music"
+    ],
+    "homepage": "https://www.1766.today/interactive",
+    "favicon": "https://cdn.radoxo.com/images/taiwan/1766-folk.webp?v=1791194402",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T01:33:27Z"
+  },
+  {
     "id": "awb_8d08f7c14aa37abfdf9b",
     "name": "1766線上電臺-百家知識",
     "country": "TW",
@@ -77,6 +96,25 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_74ea09d30a1ae862fffc",
+    "name": "Alian96.3 原住民族廣播電台",
+    "country": "TW",
+    "subdivision": null,
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "culture",
+      "full service"
+    ],
+    "homepage": "https://www.ipcf.org.tw/zh-tv/Vod/HomeRadio",
+    "favicon": "https://cdn.radoxo.com/images/taiwan/alian-963.webp?v=1791194402",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T03:08:20Z"
   },
   {
     "id": "awb_384c45bc08171bb69b5e",
@@ -1220,6 +1258,22 @@
     "updatedAt": "2026-01-15T04:53:32Z"
   },
   {
+    "id": "awb_391c7427ce5f72bde47c",
+    "name": "君弘廣播電台｜君弘保健室",
+    "country": "TW",
+    "subdivision": null,
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://junhongradio.com/public/junhong",
+    "favicon": "https://cdn.radoxo.com/images/taiwan/jun-hong-bao-jian-shi-junhong-radio.webp?v=1791194402",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T03:24:59Z"
+  },
+  {
     "id": "awb_f2f1012020e19332ef3b",
     "name": "嘉義之音",
     "country": "TW",
@@ -2048,6 +2102,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:03:48Z"
+  },
+  {
+    "id": "awb_2623ec2ae972c3a47e2a",
+    "name": "泉州金門-大金廣播電台",
+    "country": "TW",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "music"
+    ],
+    "homepage": "https://www.findcompany.com.tw/%E5%A4%A7%E9%87%91%E5%BB%A3%E6%92%AD%E4%BA%8B%E6%A5%AD%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+    "favicon": "https://api.radiotw.com/images/tw/tw_484407.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T01:09:48Z"
   },
   {
     "id": "awb_5aab41b41b537320933f",

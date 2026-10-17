@@ -1714,7 +1714,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio1.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-11T22:33:24Z"
+    "updatedAt": "2026-10-16T22:52:32Z"
   },
   {
     "id": "awb_a44327735b7952495ef8",
@@ -2333,6 +2333,26 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_70f57123a456d88015f9",
+    "name": "Psybient Sunset on MixLive.net",
+    "country": "IE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "darkpsy",
+      "psybient",
+      "psychill"
+    ],
+    "homepage": "https://mixlive.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T04:32:22Z"
+  },
+  {
     "id": "awb_186e4c3fab70e837d62e",
     "name": "Q102",
     "country": "IE",
@@ -2932,7 +2952,7 @@
     "id": "awb_3461835dfd861bca0ca5",
     "name": "SPIN South West",
     "country": "IE",
-    "subdivision": "Dublin",
+    "subdivision": "Limerick",
     "languages": [
       "en"
     ],
@@ -2944,8 +2964,8 @@
       "top 40",
       "top-40"
     ],
-    "homepage": "http://www.spinsouthwest.com/",
-    "favicon": "https://www.spinsouthwest.com/i/android-icon-192x192.png",
+    "homepage": "https://www.spinsouthwest.com/",
+    "favicon": "https://www.spinsouthwest.com/images/logo.svg",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"

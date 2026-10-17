@@ -704,22 +704,15 @@
     "id": "awb_162d346f0db7d6198c14",
     "name": "1Mix Radio Trance",
     "country": "GB",
-    "subdivision": "Isle of Man",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "club",
-      "trance"
-    ],
-    "homepage": "http://www.1mix.co.uk/",
-    "favicon": "http://www.1mix.co.uk/favicon.ico",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.1mix.co.uk/",
+    "favicon": "https://www.1mix.co.uk/images/1MixLogo278x60.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T23:56:14Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_31143e01cb033a92e13c",
@@ -1937,7 +1930,7 @@
     "favicon": "https://aajamusic.com/_nuxt/icons/icon_64x64.fafdcd.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T00:31:37Z"
+    "updatedAt": "2026-10-17T01:54:15Z"
   },
   {
     "id": "awb_767e7c9e6067a15b3e35",
@@ -1952,6 +1945,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_c83bea688f3b28ca38a0",
+    "name": "Absolute Classic Rock",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://www.hellorayo.co.uk/absolute-classic-rock",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T14:02:21Z"
   },
   {
     "id": "awb_6e93ca9e31dc66823c9c",
@@ -10741,7 +10754,7 @@
     "favicon": "http://www.dandelionradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-11T23:30:15Z"
+    "updatedAt": "2026-10-16T23:44:52Z"
   },
   {
     "id": "awb_a7094e4e43bfdc768d67",
@@ -17607,6 +17620,20 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_c7c718037f42f2d47c40",
+    "name": "ILR Network",
+    "country": "GB",
+    "subdivision": "Nottinghamshire",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.facebook.com/andylloydradio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-05-29T04:11:53Z"
+  },
+  {
     "id": "awb_020c8f41263519898368",
     "name": "Impact-Digital-Radio",
     "country": "GB",
@@ -18531,20 +18558,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:25:41Z"
-  },
-  {
-    "id": "awb_a798e7b9b92b474606c3",
-    "name": "just.witter Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.justwitter.com/",
-    "favicon": "https://justwitter.com/images/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-09T02:04:47Z"
   },
   {
     "id": "awb_5c0ea3894dba72e700d3",
@@ -21246,7 +21259,7 @@
     "id": "awb_6ccd96adbde9f3c95959",
     "name": "LOVERADIO247",
     "country": "GB",
-    "subdivision": "London, England",
+    "subdivision": "England",
     "languages": [
       "en"
     ],
@@ -21520,20 +21533,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:50:58Z"
-  },
-  {
-    "id": "awb_47e76934c2b52b5f19ff",
-    "name": "lyme out live",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://centova87.shoutcastservices.com/proxy/lymeout/stream",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_fbd0f9e46c884d5c1fec",
@@ -26496,7 +26495,7 @@
     "favicon": "https://buenavida.co.uk/wp-content/uploads/2022/08/Small-logo-for-Soundcloud.jpg",
     "type": "community",
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T00:14:17Z"
+    "updatedAt": "2026-10-17T00:27:29Z"
   },
   {
     "id": "awb_d9b84e2fe545cb4ac5d3",
@@ -27002,7 +27001,7 @@
     "favicon": "https://i0.wp.com/radioenrg.com/wp-content/uploads/2020/06/radio-enrg-triangle-black-10.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-11T21:38:47Z"
+    "updatedAt": "2026-10-16T22:16:22Z"
   },
   {
     "id": "awb_1b38758d4250c2f37858",
@@ -28124,23 +28123,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:02:06Z"
-  },
-  {
-    "id": "awb_a8e302fe41ed4d60d0fa",
-    "name": "Radio Skye",
-    "country": "GB",
-    "subdivision": "Scotland",
-    "languages": [
-      "en",
-      "gd"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioskye.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:55:32Z"
   },
   {
     "id": "awb_b288837efe3e54f0fee2",
@@ -31350,13 +31332,13 @@
   },
   {
     "id": "awb_79b40fbcc2b92a7fc70b",
-    "name": "SINE FM",
+    "name": "Sine FM",
     "country": "GB",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.sinefm.com/",
+    "homepage": "https://www.sinefm.com/",
     "favicon": "https://www.sinefm.com/wp-content/uploads/2019/11/sine-fm-logo-new-800.png",
     "type": null,
     "sourceCount": 2,
@@ -32740,7 +32722,7 @@
     "favicon": "https://spaceunicorn.radio/assets/img/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T03:42:22Z"
+    "updatedAt": "2026-10-17T04:11:38Z"
   },
   {
     "id": "awb_47dc726d0868a62c9060",
@@ -34872,7 +34854,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T01:13:59Z"
+    "updatedAt": "2026-10-17T02:14:08Z"
   },
   {
     "id": "awb_9a85824534bace90044d",
@@ -34918,7 +34900,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T03:15:41Z"
+    "updatedAt": "2026-10-17T04:38:27Z"
   },
   {
     "id": "awb_0cd68043fc15aa1212bb",
@@ -34985,6 +34967,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:22:03Z"
+  },
+  {
+    "id": "awb_251623173553dd2adb8b",
+    "name": "Tony's Place Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
+    "tags": [
+      "ambient",
+      "dance",
+      "electronic",
+      "house",
+      "leftfield",
+      "techno"
+    ],
+    "homepage": "https://tonysplace.co.uk/",
+    "favicon": "https://tonysplace.co.uk/assets/logo-512x512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T01:49:56Z"
   },
   {
     "id": "awb_ee7af3be0754467f712d",
@@ -37118,7 +37126,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

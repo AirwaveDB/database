@@ -5929,7 +5929,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -5947,7 +5947,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://www.cfnj.net/",
+    "homepage": "http://cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -8642,6 +8642,20 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
+    "id": "awb_ca004d7f3ab20e892268",
+    "name": "CHOI 98,1 Radio X",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
     "id": "awb_9400b580214de8fda6bd",
     "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
     "country": "CA",
@@ -8662,20 +8676,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:49:38Z"
-  },
-  {
-    "id": "awb_ca004d7f3ab20e892268",
-    "name": "CHOI 98.1 Radio X",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiox.com/",
-    "favicon": "https://radiox.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_0db5abdaad511193eccc",
@@ -9117,26 +9117,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:08Z"
-  },
-  {
-    "id": "awb_84340903d2bf8aa8a793",
-    "name": "Christmas Crooners Radio (MP3)",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "christmas"
-    ],
-    "tags": [
-      "christmas music"
-    ],
-    "homepage": "https://christmas-crooners.com/",
-    "favicon": "https://i.ibb.co/LP19k2L/images.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:30:27Z"
   },
   {
     "id": "awb_88a6e97b21d858c39b4f",
@@ -9957,6 +9937,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:45:08Z"
+  },
+  {
+    "id": "awb_cf34e49b4133da4c5ea4",
+    "name": "CIBL-FM 101.5 Montreal, QC",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "radio communautaire"
+    ],
+    "homepage": "https://www.cibl1015.ca/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CIBL_101%2C5_logo.png/220px-CIBL_101%2C5_logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:32:40Z"
   },
   {
     "id": "awb_22250435f1458d9bc6fc",
@@ -13926,6 +13924,27 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_87ca53351fc86370c992",
+    "name": "CJRG 94.5 Radio-Gaspesie, Gaspe, QC",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "gaspe"
+    ],
+    "homepage": "http://radiogaspesie.ca/",
+    "favicon": null,
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:36:39Z"
   },
   {
     "id": "awb_8f8b45c786bfe3d9666b",
@@ -20058,48 +20077,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_a16e098a9d72a804a11e",
-    "name": "DylanRadio.com",
-    "country": "CA",
-    "subdivision": "Kentville, Nova Scotia",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "singer/songwriter"
-    ],
-    "homepage": "http://www.dylanradio.com/stream/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRmIjGIby4nsW5a3JHXyCouoxm1UTwMQHLjuM94Ho26UHmG6riQ1PsiV4&s=10",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-24T00:39:32Z"
-  },
-  {
-    "id": "awb_ae01d61b53ae87d652b0",
-    "name": "Dylanradio.com Kentville, NS",
-    "country": "CA",
-    "subdivision": "Nova Scotia",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "folk",
-      "rock"
-    ],
-    "tags": [
-      "bob dylan",
-      "folk",
-      "folk rock",
-      "kentville"
-    ],
-    "homepage": "http://www.dylanradio.com/",
-    "favicon": "http://www.dylanradio.com/ico/dylanradio128.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:57:53Z"
   },
   {
     "id": "awb_3ed1e4e2c65cf8854678",
@@ -26914,7 +26891,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto",
+    "subdivision": "Toronto, ON",
     "languages": [],
     "categories": [
       "jazz"
@@ -26923,7 +26900,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
+    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,
@@ -28320,6 +28297,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-25T18:42:05Z"
+  },
+  {
+    "id": "awb_2692cc198940034e0133",
+    "name": "Wave 80",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "#80s",
+      "1980s",
+      "1980s hits",
+      "80s",
+      "hits 80s"
+    ],
+    "homepage": "https://www.wave80hits.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T14:08:55Z"
   },
   {
     "id": "awb_b585917242237f5fc96c",

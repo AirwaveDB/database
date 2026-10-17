@@ -4838,7 +4838,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox Radio",
+    "name": "Boombox radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -5134,7 +5134,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao-Radio",
+    "name": "Cacao Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -6797,7 +6797,7 @@
     "homepage": "https://www.cheriefm.fr/",
     "favicon": null,
     "type": "internet",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-18T18:58:31Z"
   },
   {
@@ -6873,7 +6873,7 @@
     "homepage": "https://www.cheriefm.fr/",
     "favicon": null,
     "type": "internet",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-18T18:51:20Z"
   },
   {
@@ -11664,7 +11664,7 @@
   },
   {
     "id": "awb_d24df9c1df3e24fa57cb",
-    "name": "Fip Cultes",
+    "name": "FIP Cultes",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -19600,6 +19600,20 @@
     "updatedAt": "2026-01-14T23:36:09Z"
   },
   {
+    "id": "awb_78d4a99546495d2c6254",
+    "name": "ICI 80",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.ici.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T04:50:13Z"
+  },
+  {
     "id": "awb_d5cc819d017ca1ef3543",
     "name": "ici Armorique",
     "country": "FR",
@@ -19992,7 +20006,7 @@
     "favicon": "https://i.postimg.cc/BQZXKJnh/LOGO-3-2-bg1.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-12T17:12:14Z"
+    "updatedAt": "2026-10-17T00:46:15Z"
   },
   {
     "id": "awb_59958b09a5492c724646",
@@ -20025,7 +20039,7 @@
     "favicon": "https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-12T09:12:57Z"
+    "updatedAt": "2026-10-17T03:47:34Z"
   },
   {
     "id": "awb_7e1888e862706fbd34c1",
@@ -24493,6 +24507,20 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_03cf7567ae51c4dab15d",
+    "name": "Magnum 80",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.magnumlaradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T05:25:18Z"
+  },
+  {
     "id": "awb_cd5f4b1c19ddfcf62ba8",
     "name": "Magnum Haute Vosges",
     "country": "FR",
@@ -28844,7 +28872,7 @@
     "homepage": "https://www.nrj.fr/",
     "favicon": null,
     "type": "internet",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-18T18:54:22Z"
   },
   {
@@ -29383,29 +29411,6 @@
     "type": "internet",
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:55:50Z"
-  },
-  {
-    "id": "awb_ef6a1c6c215f9b73782d",
-    "name": "NRJ Club Hits RNB",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "nrj",
-      "rnb",
-      "webradio"
-    ],
-    "homepage": "https://www.nrj.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 2,
-    "updatedAt": "2026-09-18T18:55:20Z"
   },
   {
     "id": "awb_a6de62c43fccf3aa54d0",
@@ -32482,25 +32487,6 @@
     "updatedAt": "2026-09-18T18:54:22Z"
   },
   {
-    "id": "awb_0f0e7384250c4f70f572",
-    "name": "NRJ Summer Festivals",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "nrj",
-      "webradio"
-    ],
-    "homepage": "https://www.nrj.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 2,
-    "updatedAt": "2026-09-18T18:53:49Z"
-  },
-  {
     "id": "awb_3f12066b9a11c94b79b9",
     "name": "NRJ Summer Hits 2026",
     "country": "FR",
@@ -34504,6 +34490,319 @@
     "updatedAt": "2026-01-15T06:28:18Z"
   },
   {
+    "id": "awb_fa218ee2ee1a00daf388",
+    "name": "PlixSend Auvergne Rhône-Alpes",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/album_art.1777317998.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T00:50:10Z"
+  },
+  {
+    "id": "awb_4447f5acaa65e187adaa",
+    "name": "PlixSend Bourgogne Franche-Comté",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/bfc/album_art.1789082752.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T01:43:30Z"
+  },
+  {
+    "id": "awb_0aca27cf97fa0fdaea9f",
+    "name": "PlixSend Bretagne",
+    "country": "FR",
+    "subdivision": "Bretagne",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/bretagne/album_art.1789082712.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T00:46:15Z"
+  },
+  {
+    "id": "awb_2140370603f7ea19d5a5",
+    "name": "PlixSend Centre Val de Loire",
+    "country": "FR",
+    "subdivision": "Centre-Val de Loire",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/cdvl/album_art.1789406142.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T01:08:54Z"
+  },
+  {
+    "id": "awb_9c863fdf831f434e78f5",
+    "name": "PlixSend France",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/fr/album_art.1789406247.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T00:50:10Z"
+  },
+  {
+    "id": "awb_cfa45f241812a9228cbd",
+    "name": "PlixSend Hauts-de-France",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/hdf/album_art.1789406370.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T02:03:15Z"
+  },
+  {
+    "id": "awb_a5b9f5a081d44fb50db1",
+    "name": "PlixSend Île-de-France",
+    "country": "FR",
+    "subdivision": "Île-de-France",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/idf/album_art.1789406444.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T03:37:08Z"
+  },
+  {
+    "id": "awb_508eb714e40e17d7021c",
+    "name": "PlixSend Montargis",
+    "country": "FR",
+    "subdivision": "Centre-Val de Loire",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/montargis/album_art.1789082641.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T01:43:30Z"
+  },
+  {
+    "id": "awb_769081bc3ee54c9d0d28",
+    "name": "PlixSend New Talents",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "independent",
+      "new talents",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/album_art.1777317998.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T00:46:15Z"
+  },
+  {
+    "id": "awb_d5edcf483ad600c8f264",
+    "name": "PlixSend Nouvelle-Aquitaine",
+    "country": "FR",
+    "subdivision": "Nouvelle-Aquitaine",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/n_a/album_art.1789082583.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T01:30:25Z"
+  },
+  {
+    "id": "awb_a8620b9bc988fa4ad599",
+    "name": "PlixSend Occitanie",
+    "country": "FR",
+    "subdivision": "Occitanie",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/occitanie/album_art.1789082558.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T05:40:50Z"
+  },
+  {
+    "id": "awb_280789ef3837a038b049",
+    "name": "PlixSend Pays de la Loire",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/album_art.1777317998.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T04:32:22Z"
+  },
+  {
+    "id": "awb_91926c55bb7a6dc8a469",
+    "name": "PlixSend Provence-Alpes-Côte d'Azur",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french",
+      "hits",
+      "pop",
+      "top 40",
+      "variety"
+    ],
+    "homepage": "https://plixsend.com/",
+    "favicon": "https://plixsend.eu/static/uploads/paca/album_art.1789082536.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T00:42:22Z"
+  },
+  {
     "id": "awb_748c2428f9977d5e098e",
     "name": "Plum fm",
     "country": "FR",
@@ -35092,7 +35391,7 @@
   },
   {
     "id": "awb_4242dc875d1bdd4fe48f",
-    "name": "Puissance Max La Radio",
+    "name": "Puissance Max la Radio",
     "country": "FR",
     "subdivision": "Auvergne-Rhône-Alpes",
     "languages": [
@@ -35107,8 +35406,8 @@
       "top 40",
       "top hits"
     ],
-    "homepage": "https://www.puissance-max-la-radio.fr/#apropos",
-    "favicon": "https://static.wixstatic.com/media/eea892_1334dfd05976420cba30d24bcba8af47~mv2.png/v1/fill/w_462,h_460,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vierge.png",
+    "homepage": "https://puissance-max-la-radio.fr/",
+    "favicon": "https://www.image-heberg.fr/files/17675323612993863926.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-05T10:31:11Z"
@@ -35432,24 +35731,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:08:23Z"
-  },
-  {
-    "id": "awb_dfb747aed13b7a832372",
-    "name": "RABI015-FM",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "boucled"
-    ],
-    "homepage": "http://rabi015-fm.fr/",
-    "favicon": "http://rabi015-fm.fr/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-28T13:31:30Z"
   },
   {
     "id": "awb_ffccebb0115352c89093",
@@ -36448,7 +36729,7 @@
     "favicon": "https://radiobrony.fr/img/icons/bwavatar-details.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T05:13:25Z"
+    "updatedAt": "2026-10-17T06:29:13Z"
   },
   {
     "id": "awb_f2fea900f9f0875628dd",
@@ -36508,7 +36789,7 @@
     "favicon": "https://stream.radiobroussaille.fr:8443/favicon-32x32.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-12T19:24:36Z"
+    "updatedAt": "2026-10-17T01:43:30Z"
   },
   {
     "id": "awb_7e734f5079f289eeae18",
@@ -37116,14 +37397,14 @@
   },
   {
     "id": "awb_344f994bcc4a86baedee",
-    "name": "RADIO CLUB 105.7FM",
+    "name": "Radio Club 105.7FM",
     "country": "FR",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://radioclub.fr/wp-admin/",
-    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/cropped-269965503_533759981882903_4768925474557172552_n-270x270.jpg",
+    "homepage": "https://radioclub.fr/",
+    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/269965503_533759981882903_4768925474557172552_n-1.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-18T11:23:34Z"
@@ -39389,7 +39670,7 @@
     "favicon": "https://www.lapurdi.net/squelettes/img/logo_web_small.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T06:33:21Z"
+    "updatedAt": "2026-10-17T06:38:41Z"
   },
   {
     "id": "awb_dc9e303757687b995c02",
@@ -39481,6 +39762,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_fea5bab6d1a4c6d2bc60",
+    "name": "Ràdio Lengadòc",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.lengadoc.eu/",
+    "favicon": "https://www.lengadoc.eu/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_dce87426997668420585",
@@ -40573,6 +40868,22 @@
     "updatedAt": "2026-02-19T16:03:03Z"
   },
   {
+    "id": "awb_ca7d95c6acef332a5024",
+    "name": "Radio PAC",
+    "country": "FR",
+    "subdivision": "Nouvelle-Aquitaine",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.radiopac.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:28:27Z"
+  },
+  {
     "id": "awb_f9ffecb3bf8c41e0d0b8",
     "name": "Ràdio País",
     "country": "FR",
@@ -40935,7 +41246,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T04:56:04Z"
+    "updatedAt": "2026-10-17T05:28:33Z"
   },
   {
     "id": "awb_693a7cccadd9c543e879",
@@ -41731,6 +42042,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-25T18:47:03Z"
+  },
+  {
+    "id": "awb_cf0377fbd16a06a443fe",
+    "name": "Radio Sommières",
+    "country": "FR",
+    "subdivision": "Occitanie",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "102.9 fm",
+      "community",
+      "gard",
+      "local",
+      "sommières"
+    ],
+    "homepage": "https://radio-sommieres.fr/",
+    "favicon": "https://radio-sommieres.fr/wp-content/uploads/2021/02/cropped-favicon-192x192.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T13:49:51Z"
   },
   {
     "id": "awb_a73eac75656838932984",
@@ -45091,15 +45426,12 @@
       "oldies"
     ],
     "tags": [
-      "1980s",
-      "80's",
-      "80s",
-      "hd"
+      "80s"
     ],
     "homepage": "https://fr.radioking.com/radio/rjfm-club-80",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -45543,6 +45875,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-14T06:17:23Z"
+  },
+  {
+    "id": "awb_086498fe485650f85b47",
+    "name": "RPL Radio 99.0 Lille",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "dance",
+      "funk",
+      "pop",
+      "rock",
+      "soul"
+    ],
+    "homepage": "https://www.rpl99fm.com/",
+    "favicon": "https://www.rpl99fm.com/upload/design/630754d8ba0fe9.90718841.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T20:27:25Z"
   },
   {
     "id": "awb_7c7827dae352cba8b5e0",
@@ -46153,7 +46508,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-12T14:54:44Z"
+    "updatedAt": "2026-10-16T21:34:42Z"
   },
   {
     "id": "awb_27f177cc378d35086ddb",
@@ -46431,20 +46786,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T11:00:56Z"
-  },
-  {
-    "id": "awb_072329b6526f8c8dca7a",
-    "name": "Slow Radio",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.slow-village.fr/en",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_50c2588a9afa202b9b83",
@@ -47845,8 +48186,8 @@
     "homepage": "https://topitalia.fr/",
     "favicon": "https://topitalia.fr/favicon.ico",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-14T22:54:09Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_a57afce0419654a0fdca",
@@ -48284,7 +48625,7 @@
   },
   {
     "id": "awb_1cfef3b6daad55befecd",
-    "name": "Ulia.radio",
+    "name": "Ulia.Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -48308,7 +48649,7 @@
       "top hits"
     ],
     "homepage": "https://ulia.radio/",
-    "favicon": "https://ulia.radio/storage/identite/logo_1789401939.svg",
+    "favicon": "https://ulia.radio/storage/identite/default-cover_1787171528.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-23T14:23:51Z"
@@ -49671,6 +50012,27 @@
     "updatedAt": "2026-01-15T02:03:07Z"
   },
   {
+    "id": "awb_c7ac9312716e8a22b8ce",
+    "name": "Voltige Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french pop",
+      "hits",
+      "pop",
+      "pop hits"
+    ],
+    "homepage": "https://www.voltigeradio.net/",
+    "favicon": "https://www.voltigeradio.net/api/profile-photo.php?id=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T15:11:09Z"
+  },
+  {
     "id": "awb_149339d521ec7bbad641",
     "name": "VorteX | Radio",
     "country": "FR",
@@ -49863,25 +50225,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T19:17:59Z"
-  },
-  {
-    "id": "awb_cf4f9fa5a3927e009717",
-    "name": "WINCOR Headquarters Radio",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "autistic"
-    ],
-    "homepage": "https://wincorhq.hd.free.fr/radio/#about",
-    "favicon": "https://wincorhq.hd.free.fr/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T00:28:39Z"
   },
   {
     "id": "awb_b301ba62a1fe1a29d776",
@@ -50234,7 +50577,7 @@
     "favicon": "https://i.imgur.com/cVC439t.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-12T21:15:45Z"
+    "updatedAt": "2026-10-16T23:00:30Z"
   },
   {
     "id": "awb_72b0c0b1ce1aa867247a",

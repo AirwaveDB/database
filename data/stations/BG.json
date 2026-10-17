@@ -132,24 +132,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_853b93744e5138f19e52",
-    "name": "Bad Rock Radio-Classic Rock",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_0b20a8f1cb7348f2e86f",
     "name": "Bad Rock Radio-Hard & Heavy Rock",
     "country": "BG",
@@ -240,20 +222,15 @@
     ],
     "tags": [
       "death metal",
-      "hard rock",
-      "hardcore",
       "heavy metal",
-      "heavy power metal",
-      "heavy rock",
       "metal",
-      "power metal",
       "punk",
       "rock"
     ],
     "homepage": "https://badrockradio.net/",
-    "favicon": "https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp",
+    "favicon": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -391,7 +368,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/bgestrada.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-12T17:21:42Z"
+    "updatedAt": "2026-10-16T23:44:52Z"
   },
   {
     "id": "awb_2db2776867c3a828814e",
@@ -783,7 +760,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/citylatin.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-12T08:57:26Z"
+    "updatedAt": "2026-10-17T00:21:16Z"
   },
   {
     "id": "awb_5bfedef4441262879e27",
@@ -1461,7 +1438,7 @@
     "favicon": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T01:16:13Z"
+    "updatedAt": "2026-10-17T02:18:29Z"
   },
   {
     "id": "awb_240e9eb79646ea680f88",
@@ -1485,7 +1462,7 @@
     "favicon": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T03:18:30Z"
+    "updatedAt": "2026-10-17T04:31:28Z"
   },
   {
     "id": "awb_ea55fd895037dca643c0",
@@ -2689,7 +2666,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/note/note-fm.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-11T23:23:51Z"
+    "updatedAt": "2026-10-17T00:28:57Z"
   },
   {
     "id": "awb_ff184f6a6485a4b5fd8e",
@@ -4731,7 +4708,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/cafe.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-12T15:02:54Z"
+    "updatedAt": "2026-10-17T03:08:20Z"
   },
   {
     "id": "awb_7d6da6ea41204bd17f3f",
@@ -4963,7 +4940,7 @@
     "favicon": "https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-12T06:51:37Z"
+    "updatedAt": "2026-10-17T04:55:51Z"
   },
   {
     "id": "awb_eebab4e816707604e006",
@@ -6438,7 +6415,7 @@
     "id": "awb_ceac03347026f81dacb7",
     "name": "��� � ����� �����",
     "country": "BG",
-    "subdivision": "Vidin",
+    "subdivision": "Sofia City",
     "languages": [
       "bg"
     ],
@@ -6452,7 +6429,7 @@
       "public radio",
       "talk"
     ],
-    "homepage": "https://bnrnews.bg/vidin",
+    "homepage": "https://bnrnews.bg/sofia",
     "favicon": null,
     "type": "public",
     "sourceCount": 8,

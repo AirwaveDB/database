@@ -2260,6 +2260,20 @@
     "updatedAt": "2026-01-15T08:38:46Z"
   },
   {
+    "id": "awb_0dc69047088e84594bf4",
+    "name": "Continental 590 AM. Bs. As. Version 3",
+    "country": "AR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.continental.com.ar/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
     "id": "awb_1142c85b5147275fa588",
     "name": "Cosmos Fm",
     "country": "AR",
@@ -4684,16 +4698,13 @@
       "latin"
     ],
     "tags": [
-      "cuarteto",
       "cumbia",
-      "entretenimiento",
-      "popular",
-      "tropical"
+      "popular"
     ],
     "homepage": "https://fmbarrancas.com.ar/",
-    "favicon": "https://fmbarrancas.com.ar/img/logo-fmbarrancas.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -9342,20 +9353,6 @@
     "updatedAt": "2026-09-29T13:53:38Z"
   },
   {
-    "id": "awb_a6e7b20c8549304d19d1",
-    "name": "Lola",
-    "country": "AR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://lola.fm/",
-    "favicon": "https://irp.cdn-website.com/70181fda/site_favicon_16_1740152349929.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:08Z"
-  },
-  {
     "id": "awb_cd4de82a68274090f29d",
     "name": "LOS 40 SANTA FE 97.7",
     "country": "AR",
@@ -11588,31 +11585,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_2ca5e9673d0dc4ea23aa",
-    "name": "Nuevos Aires FM 99.7",
-    "country": "AR",
-    "subdivision": "La Plata, Buenos Aires",
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock",
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "deportes",
-      "futbol",
-      "political talk",
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://nuevosairesfm.com.ar/",
-    "favicon": "https://nuevosairesfm.com.ar/wp-content/uploads/2023/07/cropped-logo22-1-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_8694896eda3c97160cd4",
     "name": "OK FM Arroyito",
     "country": "AR",
@@ -12013,22 +11985,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:38:17Z"
-  },
-  {
-    "id": "awb_eba9e4dba1feeaf807d0",
-    "name": "Pop Bariloche 89.3 FM",
-    "country": "AR",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioarg.net/pop-1015-fm-bariloche",
-    "favicon": "https://radioarg.net/storage/radios/7809/9931/conversions/pop-lg.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-21T20:14:46Z"
   },
   {
     "id": "awb_94d4403718e974ba86a8",
@@ -12688,7 +12644,7 @@
     "favicon": "https://www.eduneu.eu/logo_radio2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T14:06:47Z"
+    "updatedAt": "2026-10-17T05:06:47Z"
   },
   {
     "id": "awb_e555d5efab6103e80ee4",
@@ -12801,7 +12757,7 @@
     "favicon": "https://www.eduneu.eu/logo_radio_amen.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T08:14:41Z"
+    "updatedAt": "2026-10-16T23:11:48Z"
   },
   {
     "id": "awb_c8b7539e733e11454619",
@@ -12833,7 +12789,7 @@
     "favicon": "https://www.eduneu.eu/logo_radio_eduneuradio.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T03:17:36Z"
+    "updatedAt": "2026-10-17T04:04:45Z"
   },
   {
     "id": "awb_6b3cf29974f303444212",
@@ -14118,7 +14074,7 @@
   },
   {
     "id": "awb_d049a8b8118ea943f532",
-    "name": "Radio Cristiana FM 88.3",
+    "name": "Radio Cristiana fm 88.3",
     "country": "AR",
     "subdivision": "Buenos Aires",
     "languages": [
@@ -14135,7 +14091,7 @@
       "radio hablada",
       "religious"
     ],
-    "homepage": "https://www.radiocristiana883.com.ar/",
+    "homepage": "https://radiocristiana883.com.ar/",
     "favicon": "https://www.radiocristiana883.com.ar/splash.jpg",
     "type": null,
     "sourceCount": 2,
@@ -14364,20 +14320,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-21T20:14:23Z"
-  },
-  {
-    "id": "awb_2d746ac6016debf5da5a",
-    "name": "Radio Del Puerto 92.1. Barranqueras Chaco. Version 2",
-    "country": "AR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://fmdelpuerto.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_cb60af87478d7ecbdc99",
@@ -18798,7 +18740,7 @@
     "favicon": "https://www.eduneu.eu/logo_radio1.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T04:43:07Z"
+    "updatedAt": "2026-10-17T05:50:34Z"
   },
   {
     "id": "awb_cbd979efb55a56983822",

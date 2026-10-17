@@ -861,20 +861,6 @@
     "updatedAt": "2026-01-15T02:28:27Z"
   },
   {
-    "id": "awb_960311808b95f3028c64",
-    "name": "BARIŞ FM",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://sslyayin.netyayin.net:10990/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-25T06:49:06Z"
-  },
-  {
     "id": "awb_ddbb4fbfc90c48a49dab",
     "name": "Barış FM 103.2",
     "country": "TR",
@@ -1916,7 +1902,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T05:04:05Z"
+    "updatedAt": "2026-10-17T06:19:44Z"
   },
   {
     "id": "awb_8dc344dd987ed3d504a1",
@@ -1939,7 +1925,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-12T03:33:12Z"
+    "updatedAt": "2026-10-17T03:51:34Z"
   },
   {
     "id": "awb_1da58c9adefda6d59499",
@@ -1985,7 +1971,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T18:13:45Z"
+    "updatedAt": "2026-10-16T21:46:31Z"
   },
   {
     "id": "awb_18ef70fa187d5f788e31",
@@ -2035,7 +2021,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-mmradyo-favicon.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-11T21:11:56Z"
+    "updatedAt": "2026-10-16T21:17:12Z"
   },
   {
     "id": "awb_ffeadaecbf30ca44c405",
@@ -2089,7 +2075,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-12T12:38:16Z"
+    "updatedAt": "2026-10-16T23:50:58Z"
   },
   {
     "id": "awb_173bf527a4d7f5eb635c",
@@ -4544,20 +4530,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_5caea4c30a095513f5ff",
-    "name": "KLAS RADİO TURKEY",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://anadolu.liderhost.com.tr:10929/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_ba588235246724cf4481",
     "name": "KLASİK HOME",
     "country": "TR",
@@ -5437,7 +5409,7 @@
     "id": "awb_9b304479aab13c23b99c",
     "name": "MK Radyo",
     "country": "TR",
-    "subdivision": "Bursa",
+    "subdivision": "Istanbul",
     "languages": [
       "tr"
     ],
@@ -5828,20 +5800,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_200d7d1ff651acff376d",
-    "name": "PASH PASH RADYO",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://hits.pashpashradio.com:7000/;",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-19T15:14:00Z"
   },
   {
     "id": "awb_16cf0cf5eecdb6bf528f",
@@ -9628,6 +9586,29 @@
     "updatedAt": "2026-03-25T06:25:56Z"
   },
   {
+    "id": "awb_b65244d0d524660f9f4a",
+    "name": "Radyo Yaren",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "folk",
+      "oyun havası",
+      "türk halk müziği",
+      "türkü"
+    ],
+    "homepage": "https://radyoyaren.com.tr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-09-08T08:52:52Z"
+  },
+  {
     "id": "awb_1ea48fb2987b63557e67",
     "name": "RADYO ZERGAN (47)",
     "country": "TR",
@@ -11116,6 +11097,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:16:26Z"
+  },
+  {
+    "id": "awb_19fe8e30046585bde0bc",
+    "name": "Tüm Zamanların En İyileri",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "2000s",
+      "90s",
+      "nostalgia",
+      "pop",
+      "turkish pop"
+    ],
+    "homepage": "https://karnaval.com/radyolar/tumzamanlarineniyileri",
+    "favicon": "https://mediacdns.karnaval.com/media/station_media/357/logos/android_default_logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T08:51:34Z"
   },
   {
     "id": "awb_fa590ccab2511cf28ae4",

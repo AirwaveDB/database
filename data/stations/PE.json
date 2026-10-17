@@ -334,20 +334,16 @@
       "es"
     ],
     "categories": [
-      "pop",
       "rock"
     ],
     "tags": [
-      "alternative indie rock",
       "indie",
-      "indie pop",
-      "indie rock",
       "rock"
     ],
     "homepage": "https://doblenuevelive.com/",
-    "favicon": "https://www.radiodoblenueve.com/wp-content/uploads/2017/10/cropped-favicon-192x192.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -371,7 +367,7 @@
     "homepage": "https://doblenuevelive.com/",
     "favicon": "https://imx.to/i/6oxppz",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -740,30 +736,15 @@
     "tags": [
       "dance",
       "electronic",
-      "eurodance",
       "house",
       "techno",
       "trance"
     ],
     "homepage": "https://www.full-techno.com/",
-    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/884/full-techno-online.cf95aa90.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_98f4485b9e7b4aac9f34",
-    "name": "Full Techno.com solo clásico del techno",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.full-techno.com/STwHVNqkfGKJD4W4mjg",
-    "favicon": "https://i.postimg.cc/m2GsqtzZ/1000484475.jpg",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-09-24T07:30:17Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_aa614d3c6ed1b8330fce",
@@ -2822,17 +2803,12 @@
     "country": "PE",
     "subdivision": "Lima Peru",
     "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "música y noticias",
-      "noticias"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radioenmanuel.pe/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3001,6 +2977,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_eacecf3d7d5b475c57ec",
+    "name": "Radio FELICIDAD 88.9 fm",
+    "country": "PE",
+    "subdivision": "Lima",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "romanticas del recuerdo"
+    ],
+    "homepage": "https://www.felicidad.com.pe/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/3/39/Felicidadradio2024.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T01:52:00Z"
+  },
+  {
     "id": "awb_439d24db964220bc1077",
     "name": "Radio Fiesta 98",
     "country": "PE",
@@ -3087,9 +3081,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.radiosdelperu.com.pe/radio-frecuencia-poder",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW2wPpWPJQPo3FcajjgOM3N-dnIADYG3_ZOPkwTBj95Q&s",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4332,14 +4326,18 @@
     "name": "Radio Perú Andino",
     "country": "PE",
     "subdivision": "Lima",
-    "languages": [],
+    "languages": [
+      "es"
+    ],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "latinoamericanos"
+    ],
     "homepage": "https://onlineradiobox.com/pe/peruandino/?cs=pe.peruandino",
     "favicon": "https://i.postimg.cc/zfLJVqqw/logo.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-24T06:07:06Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-17T01:22:48Z"
   },
   {
     "id": "awb_6ce1b31b85c9b6b80f98",
@@ -4681,20 +4679,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_3a4a0e53401c479b68fb",
-    "name": "Radio San Martin - Arequipa",
-    "country": "PE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://radiosanmartin.pe/",
-    "favicon": "http://radiosanmartin.pe/wp-content/uploads/2019/08/cropped-radio-san-martin80.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_fa7df00a25ded8420b8b",
     "name": "Radio Santa Lucía 93.7 FM",
     "country": "PE",
@@ -4732,13 +4716,12 @@
     ],
     "categories": [],
     "tags": [
-      "music",
-      "música variada"
+      "music"
     ],
     "homepage": "https://radiosatelite.pe/",
-    "favicon": "https://radiosatelite.pe/wp-content/uploads/2024/01/cropped-logo_app-1-180x180.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5041,9 +5024,9 @@
   },
   {
     "id": "awb_4b79688d257d9ed6a2ab",
-    "name": "Radio TV. Sureña (Puno, Juliaca)",
+    "name": "Radio TV. Sureña - Puno, Juliaca",
     "country": "PE",
-    "subdivision": "Puno / Juliaca",
+    "subdivision": "Juliaca - Puno",
     "languages": [],
     "categories": [],
     "tags": [],
@@ -5533,35 +5516,16 @@
       "rock"
     ],
     "tags": [
-      "2000's",
       "2000s",
-      "2010's",
       "80s",
       "90s",
-      "rock",
-      "rock alternativo"
+      "rock"
     ],
-    "homepage": "https://senalpirata.com/",
-    "favicon": "https://senalpirata.com/wp-content/uploads/2026/07/SPLogo512.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_4d27b285421b3420ad71",
-    "name": "Señal Pitara Radio",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
     "homepage": "https://senalpirata.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:47:21Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_a9b59f03a43499caaa09",

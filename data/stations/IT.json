@@ -2780,7 +2780,7 @@
     "favicon": "https://www.fangoradio.com/img/fango-logo.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-12T16:33:02Z"
+    "updatedAt": "2026-10-16T22:30:40Z"
   },
   {
     "id": "awb_c85f7e648b007cd93955",
@@ -10065,7 +10065,7 @@
     "favicon": "https://armisa.it/assets/favicon/android-chrome-512x512.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-10-17T03:23:06Z"
   },
   {
     "id": "awb_5832c810a3777682485d",
@@ -13792,7 +13792,7 @@
     "favicon": "https://erre18.com/wp-content/uploads/2023/08/Logo-Nero.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-11T23:27:28Z"
+    "updatedAt": "2026-10-17T03:11:50Z"
   },
   {
     "id": "awb_93601bf016f194e90594",
@@ -14356,7 +14356,21 @@
     "favicon": "https://cloud.radiofreccia.it/assets/www.radiofreccia.it/1.0.43/img/logo/android-icon-192x192.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-11T22:09:15Z"
+    "updatedAt": "2026-10-17T00:21:16Z"
+  },
+  {
+    "id": "awb_cb8956f744c2d5f75c8b",
+    "name": "Radio Freccia Nera",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiofreccianera.com/",
+    "favicon": "https://www.radiofreccianera.com/wp-content/uploads/2026/10/cropped-Logo-Radio-Freccia-Nera-Smooth-Jazz-32x32.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T22:26:51Z"
   },
   {
     "id": "awb_7612cc8b652791481bc5",
@@ -16964,6 +16978,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:35:18Z"
+  },
+  {
+    "id": "awb_14c408b6ac78b9b0fc32",
+    "name": "Radio Liscio",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [],
+    "tags": [
+      "solo musica da ballo"
+    ],
+    "homepage": "https://www.radioliscio.it/mobile.html",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD1wrT8qFryDkdGMx2336dowUv94z1gFHyat4-2XkzGw&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T22:28:32Z"
   },
   {
     "id": "awb_ade0d1a076d3bfa32ba5",
@@ -20926,6 +20958,22 @@
     "updatedAt": "2026-01-15T03:04:28Z"
   },
   {
+    "id": "awb_6b03ab0cbb6ce567b223",
+    "name": "Radio Ritmo 80",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "80's"
+    ],
+    "homepage": "https://ritmo80.it/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T06:06:53Z"
+  },
+  {
     "id": "awb_f8c6ee31b01371766046",
     "name": "Radio Rock",
     "country": "IT",
@@ -21369,7 +21417,7 @@
     "favicon": "https://radio.motostorie.blog/static/uploads/rvd/album_art.1782297111.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T00:03:35Z"
+    "updatedAt": "2026-10-17T00:23:27Z"
   },
   {
     "id": "awb_fd2288fc2d4673ede4e6",
@@ -22690,31 +22738,6 @@
     "updatedAt": "2026-01-15T02:40:05Z"
   },
   {
-    "id": "awb_758749b422a3dc857bba",
-    "name": "Radio Studio 90 Italia",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [
-      "news",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "news",
-      "pop",
-      "regional",
-      "rock"
-    ],
-    "homepage": "https://www.radiostudio90italia.it/",
-    "favicon": "https://www.radiostudio90italia.it/wp-content/uploads/2022/12/logo_studio-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-27T16:52:41Z"
-  },
-  {
     "id": "awb_a04bae1fafc383262e44",
     "name": "Radio Studio 93",
     "country": "IT",
@@ -23137,6 +23160,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-15T09:46:35Z"
+  },
+  {
+    "id": "awb_fee0af19a0bd08d27604",
+    "name": "Radio Super La Leonessa",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [],
+    "tags": [
+      "balera",
+      "liscio",
+      "lombardia"
+    ],
+    "homepage": null,
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyjGVXBFyxV6gjZsYpitTxAQcHVguF0uIT-uZrWd-i5Q&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T22:42:40Z"
   },
   {
     "id": "awb_03f034d6644f74a0d020",
@@ -25364,7 +25407,7 @@
     "homepage": "https://www.rainews.it/notiziari/rainews24",
     "favicon": "https://www.rainews.it/dl/rainews/images/favicon.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T08:47:21Z"
   },
   {
@@ -26437,24 +26480,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-23T09:54:06Z"
-  },
-  {
-    "id": "awb_b10f8f6cfebc6b951c05",
-    "name": "Relax Radio",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [],
-    "tags": [
-      "relax music"
-    ],
-    "homepage": "https://www.musiclubwebradio.com/home/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:33:41Z"
   },
   {
     "id": "awb_07fb8b28b3dba9d7c1f1",
@@ -28800,7 +28825,7 @@
     "favicon": "https://radiospore.oziosi.org/user/themes/quark/images/logo/logoprova2.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-12T19:45:26Z"
+    "updatedAt": "2026-10-17T04:13:35Z"
   },
   {
     "id": "awb_234d9c2b691f781ed058",
@@ -29016,32 +29041,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:29:20Z"
-  },
-  {
-    "id": "awb_107c25718b206540128d",
-    "name": "Studio 90 Italia",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [
-      "news",
-      "pop",
-      "rock",
-      "sports"
-    ],
-    "tags": [
-      "news",
-      "pop",
-      "rock",
-      "sports"
-    ],
-    "homepage": "https://www.radiostudio90italia.it/",
-    "favicon": "https://www.radiostudio90italia.it/wp-content/uploads/2022/12/logo_studio-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-24T14:09:40Z"
   },
   {
     "id": "awb_2d2bd485275e865f991e",

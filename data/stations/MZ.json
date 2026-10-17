@@ -70,6 +70,28 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_4422a2792ef85de16be8",
+    "name": "Rádio 99Fm Moz",
+    "country": "MZ",
+    "subdivision": "Maputo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.99fm.co.mz/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T09:45:55Z"
+  },
+  {
     "id": "awb_a7788e5d8ea08ff42464",
     "name": "Rádio Cidade - Beira 105.2 FM",
     "country": "MZ",
@@ -84,6 +106,100 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:53:10Z"
+  },
+  {
+    "id": "awb_085ed69b04d79a3741b4",
+    "name": "Rádio Egea Gospel - Heaven Full",
+    "country": "MZ",
+    "subdivision": "Maputo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://radio-egea-web-24hrs.mdn.live/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T09:48:17Z"
+  },
+  {
+    "id": "awb_cc5b7712a62c69c1b0ac",
+    "name": "Radio Fot Lichinga",
+    "country": "MZ",
+    "subdivision": "Lichinga",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://fotradiolichinga.blogspot.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T09:46:23Z"
+  },
+  {
+    "id": "awb_c0a64ca15a9714da1633",
+    "name": "Radio Maria Moçambique",
+    "country": "MZ",
+    "subdivision": "Maputo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://www.radiomaria.org.mz/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T09:45:55Z"
+  },
+  {
+    "id": "awb_b3d11c5c026fe1a0c9e5",
+    "name": "Rádio Miramar",
+    "country": "MZ",
+    "subdivision": "Maputo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://miramar.co.mz/radio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T09:46:23Z"
   },
   {
     "id": "awb_33cc8c4abd130e5946aa",
@@ -104,6 +220,75 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:20:36Z"
+  },
+  {
+    "id": "awb_72169ff5b8d1a0c3e8b4",
+    "name": "Rádio Moçambique Emissor Provincial de Nampula",
+    "country": "MZ",
+    "subdivision": "Nampula",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "folk",
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "folk",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.rm.co.mz/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T09:45:55Z"
+  },
+  {
+    "id": "awb_4804af30e09ced221796",
+    "name": "Radio Sofala FM",
+    "country": "MZ",
+    "subdivision": "Beira",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "pop",
+      "talk",
+      "top 40"
+    ],
+    "homepage": "https://play.google.com/store/apps/details?id=com.radiosofala.fm",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T09:46:23Z"
+  },
+  {
+    "id": "awb_97fd9b9f2b0b1d8c4ed9",
+    "name": "Rádio Terra",
+    "country": "MZ",
+    "subdivision": "Maputo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radioterra.online/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T09:46:23Z"
   },
   {
     "id": "awb_0cce6e6a27ff54ec4d27",

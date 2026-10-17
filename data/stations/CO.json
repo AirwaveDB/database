@@ -2650,7 +2650,7 @@
       "noticias"
     ],
     "homepage": "https://emisorascolombianas.online/caracol-en-vivo/",
-    "favicon": "https://emisorascolombianas.online/logos/caracol-en-vivo.png",
+    "favicon": "https://emisorascolombianas.online/default-logo.svg",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-19T21:37:13Z"
@@ -2763,6 +2763,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-08T00:53:46Z"
+  },
+  {
+    "id": "awb_debbe2a3a2546504055d",
+    "name": "carmen stereo 89.0 el carmen de bolívar",
+    "country": "CO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "latin",
+      "news"
+    ],
+    "tags": [
+      "comunitaria",
+      "crossover",
+      "noticias",
+      "salsa",
+      "tropical",
+      "vallenatos"
+    ],
+    "homepage": "https://carmenstereofm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T02:36:26Z"
   },
   {
     "id": "awb_59463b64c09f6ee0fbfd",
@@ -4720,6 +4744,27 @@
     "updatedAt": "2026-01-14T23:32:04Z"
   },
   {
+    "id": "awb_df16b2316eb3cfcdb62a",
+    "name": "emisora punto 5 1490 am bogotá",
+    "country": "CO",
+    "subdivision": "Bogotá",
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "crossover",
+      "espectáculos",
+      "noticias",
+      "tropical"
+    ],
+    "homepage": "https://www.emisorapunto5.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T02:18:29Z"
+  },
+  {
     "id": "awb_82e2d5cb8799fbd767be",
     "name": "EMISORA TROPICAL DE ORO",
     "country": "CO",
@@ -5390,6 +5435,42 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-16T12:15:45Z"
+  },
+  {
+    "id": "awb_f6eb1e646c089e7fd537",
+    "name": "galaxia stereo 100.5 mompox",
+    "country": "CO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "crossover",
+      "cultura",
+      "noticias"
+    ],
+    "homepage": "https://zeno.fm/radio/galaxia-stereo/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T23:18:20Z"
+  },
+  {
+    "id": "awb_072259244eef5ff14bd0",
+    "name": "galaxia stereo link alterno",
+    "country": "CO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "crossover"
+    ],
+    "homepage": "https://zeno.fm/radio/galaxia-stereo/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T23:12:30Z"
   },
   {
     "id": "awb_b521c264c058e8d5823e",
@@ -10439,6 +10520,57 @@
     "updatedAt": "2026-01-15T03:00:03Z"
   },
   {
+    "id": "awb_495b72b7d3ef83740611",
+    "name": "radio las lajas 103.9 ipiales",
+    "country": "CO",
+    "subdivision": "ipiales",
+    "languages": [],
+    "categories": [
+      "latin",
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "baladas",
+      "católica",
+      "noticias",
+      "pop",
+      "pop latino",
+      "radio maria",
+      "romántica"
+    ],
+    "homepage": "https://radiolaslajas.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-12T03:55:46Z"
+  },
+  {
+    "id": "awb_efe3bc940988c9900d1d",
+    "name": "radio magdalena 1420 am",
+    "country": "CO",
+    "subdivision": "santa marta",
+    "languages": [],
+    "categories": [
+      "latin",
+      "news",
+      "sports"
+    ],
+    "tags": [
+      "crossover",
+      "deportes",
+      "música en español e inglés",
+      "noticias",
+      "salsa",
+      "tropical"
+    ],
+    "homepage": "https://www.radiomagdalena1420am.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T23:37:11Z"
+  },
+  {
     "id": "awb_f827b47af155625e2ca2",
     "name": "Radio María (Bogotá)",
     "country": "CO",
@@ -11032,6 +11164,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:33:47Z"
+  },
+  {
+    "id": "awb_dd4582e330442fc08a4f",
+    "name": "radio rodadero 1480 am",
+    "country": "CO",
+    "subdivision": "santa marta",
+    "languages": [],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "tags": [
+      "crossover",
+      "deportes",
+      "noticias",
+      "romántica"
+    ],
+    "homepage": "https://www.radiorodadero1480am.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T01:49:56Z"
   },
   {
     "id": "awb_5698a6fbc41acbf9d3a9",

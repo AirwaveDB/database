@@ -104,22 +104,6 @@
     "updatedAt": "2026-01-14T23:39:08Z"
   },
   {
-    "id": "awb_a3878ccbd8c8698411fc",
-    "name": "90.5 Delight",
-    "country": "TH",
-    "subdivision": "Phuket",
-    "languages": [
-      "th"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.studiolinemedia1.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-27T07:02:55Z"
-  },
-  {
     "id": "awb_9c17a76ead8c6c3a86c5",
     "name": "90.5 Smart News มิติข่าว",
     "country": "TH",
@@ -810,19 +794,12 @@
     "languages": [
       "th"
     ],
-    "categories": [
-      "country",
-      "news"
-    ],
-    "tags": [
-      "blind radio",
-      "country music",
-      "news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.nmab.or.th/radio",
-    "favicon": "https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

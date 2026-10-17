@@ -272,7 +272,7 @@
       "discography"
     ],
     "homepage": "https://enigma.101.ru/",
-    "favicon": "https://101.ru/proxy/vardata/modules/channel/image/8700bf0eb42cee25219de44034753570.jpg%22",
+    "favicon": "https://101.ru/proxy/vardata/modules/channel/image/8700bf0eb42cee25219de44034753570.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T12:28:06Z"
@@ -2804,7 +2804,7 @@
     "favicon": "https://breaking-bass.ru/wp-content/uploads/2024/05/bb-air-logo-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T00:15:53Z"
+    "updatedAt": "2026-10-17T00:42:22Z"
   },
   {
     "id": "awb_e83d66287c6fd549c4c4",
@@ -5973,7 +5973,7 @@
       "house"
     ],
     "homepage": "https://kamchatkalive.ru/",
-    "favicon": "https://kamchatkalive.ru/img/house.jpg",
+    "favicon": "https://kamchatkalive.ru/img/dance.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-12T11:07:02Z"
@@ -13637,6 +13637,28 @@
     "updatedAt": "2026-01-15T02:50:20Z"
   },
   {
+    "id": "awb_dad340577d3ecbef051f",
+    "name": "RadCap - Ska Punk",
+    "country": "RU",
+    "subdivision": "Moscow (Russia)",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "punk"
+    ],
+    "tags": [
+      "punk",
+      "radio caprice",
+      "ska punk"
+    ],
+    "homepage": "http://radcap.ru/skapunk.html",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:44:13Z"
+  },
+  {
     "id": "awb_1c4aefd9e7c4b8c808fb",
     "name": "RadCap - Sludge Metal (48)",
     "country": "RU",
@@ -14308,20 +14330,6 @@
     "updatedAt": "2026-08-19T14:08:53Z"
   },
   {
-    "id": "awb_8e640f78238ce7aa3d96",
-    "name": "Radio 107",
-    "country": "RU",
-    "subdivision": "Moscow",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radio107.ru/",
-    "favicon": "http://www.radio107.ru/images/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
     "id": "awb_05d38e48fc538db8aff7",
     "name": "Radio 107 Moscow",
     "country": "RU",
@@ -14634,7 +14642,7 @@
     "id": "awb_04a1fb9b9934e6affc69",
     "name": "radio caprice",
     "country": "RU",
-    "subdivision": null,
+    "subdivision": "Moscow (Russia)",
     "languages": [
       "en"
     ],
@@ -14645,6 +14653,8 @@
     "tags": [
       "baroque",
       "classical",
+      "deathcore",
+      "melodic deathcore",
       "metal",
       "radio caprice",
       "thrash metal"
@@ -14652,8 +14662,8 @@
     "homepage": "http://radcap.ru/baroque.html",
     "favicon": "http://radcap.ru/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:32:05Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-08-26T01:36:12Z"
   },
   {
     "id": "awb_177d5d3e54edef4ab82d",
@@ -18479,7 +18489,7 @@
       "radcap"
     ],
     "homepage": "http://radcap.ru/lo-fi.html",
-    "favicon": "http://radcap.ru/apple-touch-icon.png",
+    "favicon": "https://radcap.ru/graf2/rclogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T07:52:11Z"
@@ -20533,6 +20543,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_862d155ae5a023c58bdd",
+    "name": "Radio Caprice - Strings",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical",
+      "strings"
+    ],
+    "homepage": "http://www.radcap.ru/strings.html",
+    "favicon": "http://www.radcap.ru/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:45:39Z"
   },
   {
     "id": "awb_5a3a606a16e6dfe0ab1b",
@@ -24388,6 +24419,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:00:03Z"
+  },
+  {
+    "id": "awb_d80eb41a914d98e758ff",
+    "name": "Radio Salyut",
+    "country": "RU",
+    "subdivision": "Russia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://stream.salyutfm.ru:8000/stream",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T03:34:22Z"
   },
   {
     "id": "awb_97a85c4311090459cc26",
@@ -44697,27 +44742,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_25595c58162bb211aec5",
-    "name": "Радио Хит-FM Ярославль 105.6",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "music",
-      "pop"
-    ],
-    "homepage": "https://top-radio.ru/yaroslavl/xit-fm",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240814_224151168.jpg?alt=media&token=bcd91854-c1e8-45b8-8ff0-52d63395f012",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:33:37Z"
-  },
-  {
     "id": "awb_47c1e0c636621f44796f",
     "name": "Радио Хит-ФМ Калуга 103.6 FM",
     "country": "RU",
@@ -47943,9 +47967,9 @@
       "variety"
     ],
     "homepage": "http://strana.fm/",
-    "favicon": "https://strana.fm/wp-content/uploads/2017/11/logo_171130.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:10:26Z"
   },
   {

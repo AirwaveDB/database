@@ -682,7 +682,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Attica, Athens",
+    "subdivision": "Kozani",
     "languages": [
       "el",
       "en"
@@ -3592,7 +3592,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.atticaradios.gr/athens-deejay-952/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NVxJAkegta5hGh8IW16JZH-h0fEU01y9dmKUz8nJaw&s",
+    "favicon": "https://www.atticaradios.gr/Content/ImagesDatabase/p/crop/both/9d/9d212880d56d43a7bc49cb7e531ecb4c.svg?quality=85&404=default&v=4",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-07T10:16:56Z"
@@ -9018,23 +9018,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_43aa897ffa13a91bf0d7",
-    "name": "Figaro Discotheque",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "disco",
-      "italo disco"
-    ],
-    "homepage": "https://www.figarodisco.com/",
-    "favicon": "https://figarodisco.odoo.com/web/image/465-9d3163ba/DALL%C2%B7E%202025-01-22%2013.07.42%20-%20A%20vibrant%20and%20dynamic%20design%20representing%20a%20disco%20theme%20with%20a%20red%20and%20black%20color%20palette.%20The%20image%20features%20a%20retro-style%20disco%20ball%20reflecting%20col.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-09T21:37:06Z"
-  },
-  {
     "id": "awb_35fb413178a56d9738b5",
     "name": "Fishbone",
     "country": "GR",
@@ -10602,6 +10585,24 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_4ee0a25cd06ba7f24a26",
+    "name": "Halkidiki 98.8",
+    "country": "GR",
+    "subdivision": "Halkidiki",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "greek music"
+    ],
+    "homepage": "http://www.radiohalkidiki.gr/",
+    "favicon": "http://resources.live24.gr/resources/images/stations/e3c9bf18-870a-4fbe-9748-8814bf2d7951.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:25:41Z"
+  },
+  {
     "id": "awb_c9b4cf26b661384ed176",
     "name": "Happy 104",
     "country": "GR",
@@ -11648,7 +11649,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-12T20:21:08Z"
+    "updatedAt": "2026-10-17T06:22:43Z"
   },
   {
     "id": "awb_6238359a928c7aa2b0fe",
@@ -14447,7 +14448,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-12T17:39:33Z"
+    "updatedAt": "2026-10-16T21:34:42Z"
   },
   {
     "id": "awb_f6721fc2fc91afd0e9b8",
@@ -15497,6 +15498,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-16T18:12:58Z"
+  },
+  {
+    "id": "awb_0ac9d4354d000cc687ae",
+    "name": "My radio 104.6",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://www.myradio1046.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T02:45:26Z"
   },
   {
     "id": "awb_bd640dcf0176e5d39513",
@@ -23358,7 +23380,7 @@
     "favicon": "https://rebetis.duckdns.org/rebetis.png",
     "type": null,
     "sourceCount": 7,
-    "updatedAt": "2026-10-12T17:09:51Z"
+    "updatedAt": "2026-10-17T04:34:18Z"
   },
   {
     "id": "awb_d7a84c80fd5892c5a153",
@@ -26003,6 +26025,25 @@
     "updatedAt": "2026-01-15T03:56:00Z"
   },
   {
+    "id": "awb_505c5347632d182a824f",
+    "name": "Sok 103.3",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://sokfm.gr/",
+    "favicon": "https://sokfm.gr/wp-content/uploads/2026/10/sokfm-athens.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T16:34:49Z"
+  },
+  {
     "id": "awb_3727383d687758489fc3",
     "name": "Sok FM 104.8",
     "country": "GR",
@@ -26861,7 +26902,7 @@
     "favicon": "https://studio19.gr/images/Studio19_logo2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T09:17:19Z"
+    "updatedAt": "2026-10-16T22:30:40Z"
   },
   {
     "id": "awb_5576fa95e6cc10a65f36",
@@ -27623,24 +27664,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_7b6ac3293d09ab125bb4",
-    "name": "Ti Amo International",
-    "country": "GR",
-    "subdivision": "Athens",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "https://tiamo.gr/",
-    "favicon": "https://tiamo.gr/wp-content/uploads/2022/11/ti-amo-nobg.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_23191f6a349241eb7ad5",
@@ -30669,30 +30692,6 @@
     "updatedAt": "2026-01-15T06:26:48Z"
   },
   {
-    "id": "awb_bbc4ce35778ad2c762ca",
-    "name": "Δημοτικό Ραδιόφωνο Ιωαννίνων 98.7",
-    "country": "GR",
-    "subdivision": "Ioannina",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "municipal",
-      "music",
-      "news",
-      "news talk"
-    ],
-    "homepage": "https://www.dimotikoradiofono.gr/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/677e35af-49d1-49c3-a1d6-7f11940100ae.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-19T18:59:49Z"
-  },
-  {
     "id": "awb_37952e47ee08d4dfd244",
     "name": "Δημοτικό Ραδιόφωνο Ορεστιάδας 101.5",
     "country": "GR",
@@ -30929,28 +30928,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-11T23:50:05Z"
-  },
-  {
-    "id": "awb_46550153335c9d3c8217",
-    "name": "Δίολκος 105.6",
-    "country": "GR",
-    "subdivision": "Korinthos",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "greek music",
-      "news talk"
-    ],
-    "homepage": "http://www.facebook.com/profile.php?id=100039554241293",
-    "favicon": "https://resources.live24.gr/resources/images/stations/4584eac4-aece-4f5e-b432-41cc55e8119e.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:27:13Z"
   },
   {
     "id": "awb_bff445f252b208770ee4",
@@ -33576,25 +33553,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:58:06Z"
-  },
-  {
-    "id": "awb_4f05dde79f78fa84f63d",
-    "name": "Κρητόραμα 97.9",
-    "country": "GR",
-    "subdivision": "Heraclion",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "greek",
-      "traditional"
-    ],
-    "homepage": "https://www.facebook.com/kritorama96",
-    "favicon": "https://www.facebook.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:22:35Z"
   },
   {
     "id": "awb_c5c5b4628627bae13b31",
@@ -36597,25 +36555,6 @@
     "updatedAt": "2026-01-15T00:26:30Z"
   },
   {
-    "id": "awb_4f391ab88560880d11cd",
-    "name": "Ράδιο Ένα 87.6",
-    "country": "GR",
-    "subdivision": "Arta",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "greek pop",
-      "mainstream"
-    ],
-    "homepage": "http://www.facebook.com/%CE%A1%CE%AC%CE%B4%CE%B9%CE%BF-%CE%AD%CE%BD%CE%B1-876-%CE%86%CF%81%CF%84%CE%B1-263356050723620/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/2a3e812e-fae0-4734-9646-48be5af5e7c8.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
     "id": "awb_f539f2d10524b2633d87",
     "name": "Ράδιο Θεσσαλονίκη 94.5 FM",
     "country": "GR",
@@ -37606,24 +37545,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-22T19:05:36Z"
-  },
-  {
-    "id": "awb_aadfcc213517ab8333b9",
-    "name": "Σκάι Αιγαίου 99.8",
-    "country": "GR",
-    "subdivision": "Lesvos",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "greek music"
-    ],
-    "homepage": "http://www.skaiaegean.gr/",
-    "favicon": "http://resources.live24.gr/resources/images/stations/8a01d301-ea5c-4b64-bc6c-a56027f0f8be.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:24:51Z"
   },
   {
     "id": "awb_08ccbd0f97519e2e2796",
