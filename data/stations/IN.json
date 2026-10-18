@@ -1924,29 +1924,6 @@
     "updatedAt": "2026-08-22T00:42:34Z"
   },
   {
-    "id": "awb_26efc90569461bd01447",
-    "name": "Akashvani Visakhapatnam",
-    "country": "IN",
-    "subdivision": "Andhra Pradesh",
-    "languages": [
-      "te"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news talk",
-      "public radio"
-    ],
-    "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-08-22T02:30:20Z"
-  },
-  {
     "id": "awb_5d15e8e1066773220faa",
     "name": "Akashvani Warangal",
     "country": "IN",
@@ -3506,20 +3483,6 @@
     "updatedAt": "2026-01-15T06:54:30Z"
   },
   {
-    "id": "awb_b9b03b70214c7913cc69",
-    "name": "BollyHits Radio",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://bollyhitsradio.com/",
-    "favicon": "https://bollyhitsradio.com/wp-content/uploads/sites/558/2026/02/BollyHits-Radio-White-300x300.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-19T02:41:27Z"
-  },
-  {
     "id": "awb_9abe93ed84ed722568a0",
     "name": "Bollywood 2000's",
     "country": "IN",
@@ -4933,6 +4896,22 @@
     "updatedAt": "2026-01-15T06:36:23Z"
   },
   {
+    "id": "awb_16e59cd6dbcf10ff49b7",
+    "name": "etrradio",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [
+      "ta"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": "https://radiosindia.com/images/etrradio.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T07:15:00Z"
+  },
+  {
     "id": "awb_5db2bb01a1132d7e8ea7",
     "name": "evergreen-tamil-radio",
     "country": "IN",
@@ -5263,28 +5242,6 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-08-22T01:52:14Z"
-  },
-  {
-    "id": "awb_11e8848f96ea4d1a88b8",
-    "name": "FM Simhapuri Nellore",
-    "country": "IN",
-    "subdivision": "Andhra Pradesh",
-    "languages": [
-      "te"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "fm rainbow",
-      "music",
-      "public radio"
-    ],
-    "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-08-22T01:24:12Z"
   },
   {
     "id": "awb_ce2be44c46e8eec60dcb",
@@ -6640,14 +6597,11 @@
       "ta"
     ],
     "categories": [],
-    "tags": [
-      "tamil cinema music",
-      "tamil music"
-    ],
+    "tags": [],
     "homepage": "https://southradios.com/",
-    "favicon": "https://southradios.com/assets/images/logo/logo90.webp",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6675,11 +6629,14 @@
       "ta"
     ],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "tamil cinema music",
+      "tamil music"
+    ],
     "homepage": "https://southradios.com/",
-    "favicon": null,
+    "favicon": "https://southradios.com/assets/images/logo/logo90.webp",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7015,6 +6972,22 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_87e2b28cfe0041aff9bb",
+    "name": "Janadhwani Kannada",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [
+      "kn"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/01/jana-dhwani-kannda.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:09:32Z"
+  },
+  {
     "id": "awb_018bb596e694d68be603",
     "name": "JANVANI 90.8 FM",
     "country": "IN",
@@ -7081,6 +7054,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T10:06:26Z"
+  },
+  {
+    "id": "awb_2b6f9fc1ae3ff5496460",
+    "name": "JAVA MASTIKHOR",
+    "country": "IN",
+    "subdivision": "Uttar Pradesh",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "bollywood",
+      "desi",
+      "hindi bollywood",
+      "party hits"
+    ],
+    "homepage": "https://javamastikhor.duckdns.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T14:21:46Z"
   },
   {
     "id": "awb_1e7e00b52d903b558521",
@@ -14601,6 +14595,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:16:49Z"
+  },
+  {
+    "id": "awb_bc925cc35066c6bcb726",
+    "name": "thaalam-radio",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [
+      "ta"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": "https://liveradios.in/wp-content/uploads/thalam-logo.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:34:44Z"
   },
   {
     "id": "awb_a6cd35f2559d85af00a3",

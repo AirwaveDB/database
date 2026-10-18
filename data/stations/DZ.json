@@ -220,20 +220,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_c2e2c5e76e6c9b930a7c",
-    "name": "Alger Chaîne 3",
-    "country": "DZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioalgerie.dz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-18T13:08:24Z"
-  },
-  {
     "id": "awb_8bd1f7118d3c0ceab9fd",
     "name": "Algérie Chaine 1",
     "country": "DZ",
@@ -245,9 +231,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://my.radioalgerie.dz/",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -259,9 +245,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://my.radioalgerie.dz/ar/chaine2",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/chaine2.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -272,19 +258,14 @@
     "languages": [
       "fr"
     ],
-    "categories": [
-      "news"
-    ],
+    "categories": [],
     "tags": [
-      "culture",
-      "music",
-      "news",
-      "society"
+      "music"
     ],
     "homepage": "https://my.radioalgerie.dz/fr/chaine3",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/ch-3.png?itok=SAUuH5FM",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1092,7 +1073,7 @@
     "homepage": "https://my.radioalgerie.dz/fr/jilfm",
     "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/jilfm.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-11T21:35:07Z"
   },
   {
@@ -1913,17 +1894,12 @@
     "languages": [
       "ar"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news",
-      "local radio"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/adrar",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---001.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1939,9 +1915,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/rai",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-rai-en-rouge.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1969,13 +1945,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/batna",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---005.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1987,13 +1961,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/bechar",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---008.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2006,13 +1978,11 @@
       "fr"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/bejaia",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---006.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2037,16 +2007,12 @@
     "languages": [
       "ar"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/blida",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---009.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2088,13 +2054,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/chlef",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---002.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2106,13 +2070,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/constantine",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---025.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2124,13 +2086,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "coran"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/coran",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/coran.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2144,9 +2104,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/culture",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/culture.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2158,13 +2118,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/djelfa",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---017.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2179,9 +2137,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/bahdja",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/Logo-Bahdja.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2209,13 +2167,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/guelma",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---024.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2259,13 +2215,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/laghouat",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---003.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2277,13 +2231,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/msila",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---028.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2311,13 +2263,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/medea",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---026.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2329,13 +2279,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/mostaganem",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---027.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2347,13 +2295,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/oran",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---031.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2397,13 +2343,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/saida",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---020.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2415,13 +2359,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/setif",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---019.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2433,13 +2375,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/sba",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---022.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2451,13 +2391,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/skikda",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---021.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2469,13 +2407,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/tamanrasset",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---011.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2502,16 +2438,12 @@
     "languages": [
       "ar"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/tiaret",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---014.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2537,28 +2469,12 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
-    "homepage": "https://radioalgerie.dz/player/fr/live/13-tlemcen",
-    "favicon": "https://radioalgerie.dz/player/sites/default/files/logo_2.ico",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_491087fbbdd8fe266f66",
-    "name": "Radio Zaman",
-    "country": "DZ",
-    "subdivision": "Blida",
-    "languages": [],
-    "categories": [],
     "tags": [],
-    "homepage": "https://my.radioalgerie.dz/fr/zamanfm",
+    "homepage": "https://radioalgerie.dz/player/fr/live/13-tlemcen",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-05-16T08:31:01Z"
+    "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_48aff988f5efa28b21a2",
@@ -2930,9 +2846,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://my.radioalgerie.dz/fr/zamanfm",
-    "favicon": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2023-06/logo_zmen_fm.png?itok=KMIn76qq",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

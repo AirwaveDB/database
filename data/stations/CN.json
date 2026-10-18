@@ -15594,47 +15594,6 @@
     "updatedAt": "2026-01-15T07:23:51Z"
   },
   {
-    "id": "awb_e791fe5e563ee84be537",
-    "name": "山西交通广播",
-    "country": "CN",
-    "subdivision": "Shansi",
-    "languages": [
-      "zh"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "m3u8",
-      "public radio",
-      "traffic"
-    ],
-    "homepage": "http://www.sxrtv.com/radio/",
-    "favicon": "http://www.sxrtv.com/favicon.ico",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:49:33Z"
-  },
-  {
-    "id": "awb_3d7fec90e9dda2bdd937",
-    "name": "山西健康之声广播",
-    "country": "CN",
-    "subdivision": "Shansi",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "health",
-      "m3u8"
-    ],
-    "homepage": "http://www.sxrtv.com/radio/",
-    "favicon": "http://www.sxrtv.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:16:54Z"
-  },
-  {
     "id": "awb_082c157b65332f659a08",
     "name": "山西卫视伴音",
     "country": "CN",
@@ -15671,25 +15630,6 @@
     "updatedAt": "2026-01-15T00:28:14Z"
   },
   {
-    "id": "awb_b240f28d3045fa638fec",
-    "name": "山西故事广播",
-    "country": "CN",
-    "subdivision": "Shansi",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "m3u8",
-      "storytelling"
-    ],
-    "homepage": "http://www.sxrtv.com/radio/",
-    "favicon": "http://www.sxrtv.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:22:18Z"
-  },
-  {
     "id": "awb_85f2f86f6f01bcadeec3",
     "name": "山西综合广播",
     "country": "CN",
@@ -15710,25 +15650,6 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:12:36Z"
-  },
-  {
-    "id": "awb_805e4f9e1ec39abf45d6",
-    "name": "山西音乐广播",
-    "country": "CN",
-    "subdivision": "Shansi",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "m3u8",
-      "music"
-    ],
-    "homepage": "http://www.sxrtv.com/radio/",
-    "favicon": "http://www.sxrtv.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:44:13Z"
   },
   {
     "id": "awb_b4006a37bd143c127722",
@@ -18480,24 +18401,6 @@
     "updatedAt": "2026-01-15T00:27:30Z"
   },
   {
-    "id": "awb_3ba560061a4b2513bcaf",
-    "name": "怀化交通文艺广播",
-    "country": "CN",
-    "subdivision": "Hunan",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "entertainment"
-    ],
-    "homepage": "http://www.0745tv.com/",
-    "favicon": "http://pic.qtfm.cn/2020/0723/20200723122506.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-01T23:36:44Z"
-  },
-  {
     "id": "awb_7daf462fe9e2d5a7f3d7",
     "name": "怀化综合广播",
     "country": "CN",
@@ -18891,26 +18794,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:05:28Z"
-  },
-  {
-    "id": "awb_8f3418b2553dc7c8c18a",
-    "name": "成都新闻广播",
-    "country": "CN",
-    "subdivision": "Szechuan",
-    "languages": [
-      "zh"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": "https://www.cditv.cn/",
-    "favicon": "http://pic.qingting.fm/2015/1216/20151216141201263.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-11T07:57:44Z"
   },
   {
     "id": "awb_bc960f639f3e0afc3ac0",
@@ -20018,6 +19901,26 @@
     "updatedAt": "2026-09-02T11:45:02Z"
   },
   {
+    "id": "awb_45cd90a702620d0a1b09",
+    "name": "新闻听天下",
+    "country": "CN",
+    "subdivision": "Shanghai",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://m.ajmide.com/m/hotradio/player?id=1319",
+    "favicon": "https://upload-qn.ajmide.com/p/image/202302/10/320-GZQP572dRS1676001441671_796x796.png@350w_1l",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T15:27:49Z"
+  },
+  {
     "id": "awb_849a6f8019f87415a4d9",
     "name": "新闻联播",
     "country": "CN",
@@ -20408,6 +20311,24 @@
     "updatedAt": "2026-01-15T08:44:42Z"
   },
   {
+    "id": "awb_ac6437903f8389ac56ee",
+    "name": "昌黎广播 FM97.8",
+    "country": "CN",
+    "subdivision": "Hopei",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "full service"
+    ],
+    "homepage": "https://www.hebyun.com.cn/html/download.html?siteId=37ac13b44bad430288e13ffa95654d46",
+    "favicon": "https://jiyunchangli.hebyun.com.cn/upload/app/image/59ee97e4f381439eb2a03c120518d03e.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-06-08T09:59:30Z"
+  },
+  {
     "id": "awb_f94ec205c85b8863bbda",
     "name": "星球重启水吧歌单",
     "country": "CN",
@@ -20474,24 +20395,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:54:20Z"
-  },
-  {
-    "id": "awb_c2dd72eb7f5aea4d4a57",
-    "name": "昭通交通旅游广播",
-    "country": "CN",
-    "subdivision": "Yunnan",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://v.qq.com/s/videoplus/112693392",
-    "favicon": "https://v.qq.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:03:36Z"
   },
   {
     "id": "awb_e6dd6f1253b39085d5cf",
@@ -22361,6 +22264,34 @@
     "updatedAt": "2026-01-15T01:10:16Z"
   },
   {
+    "id": "awb_4999f2dc55ef7dba0aea",
+    "name": "汝州新闻综合广播FM99.8",
+    "country": "CN",
+    "subdivision": "Honan",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "news",
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "99.8 fm",
+      "entertainment",
+      "information",
+      "music",
+      "news",
+      "oldies",
+      "pop"
+    ],
+    "homepage": "https://m.weibo.cn/u/7155836497?jumpfrom=weibocom",
+    "favicon": "http://pic.qtfm.cn/2015/0930/20150930105907142.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-04-11T02:38:56Z"
+  },
+  {
     "id": "awb_d1962e1811672a5cb8fd",
     "name": "江夏女主播电台",
     "country": "CN",
@@ -22808,8 +22739,8 @@
     "homepage": "https://www.jxntv.cn/",
     "favicon": "https://ww3.sinaimg.cn/mw2000/640bec52gw1duna0xpj3tj.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:48:14Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-17T13:18:57Z"
   },
   {
     "id": "awb_9bc893741b8eeaf84549",
@@ -24476,7 +24407,7 @@
     "homepage": "https://www.fqxww.cn/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -24508,7 +24439,7 @@
     "homepage": "https://www.fqxww.cn/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -24668,7 +24599,7 @@
     "homepage": "https://www.fqxww.cn/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -26438,24 +26369,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:25:31Z"
-  },
-  {
-    "id": "awb_8922189a5cd9d2036234",
-    "name": "湖北楚天交通广播",
-    "country": "CN",
-    "subdivision": "Hupei",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "traffic"
-    ],
-    "homepage": "http://m.hbgbdst.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:05:28Z"
   },
   {
     "id": "awb_86b3b2ab07ec0c7fce76",
@@ -28268,27 +28181,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:20:02Z"
-  },
-  {
-    "id": "awb_bb6688a8cc0450c74766",
-    "name": "登封综合广播",
-    "country": "CN",
-    "subdivision": "Honan",
-    "languages": [
-      "zh"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "music",
-      "news"
-    ],
-    "homepage": "https://www.qingting.fm/radios/5022077",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:00:57Z"
   },
   {
     "id": "awb_3012c0e0205684f674cf",
@@ -32623,7 +32515,7 @@
       "traffic radio broadcast"
     ],
     "homepage": "https://www.lyg1.com/index.html",
-    "favicon": "http://pic.qingting.fm/2021/0714/20210714033025.jpeg",
+    "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiEo.png@350w_1l",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T18:33:11Z"
@@ -32647,7 +32539,7 @@
       "pop"
     ],
     "homepage": "https://www.lyg1.com/index.html",
-    "favicon": "https://m.mlzhongguo.com/uploads/image/05/15901171693455.jpg",
+    "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiF2.png@350w_1l",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T17:46:36Z"
@@ -33268,6 +33160,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:53:53Z"
+  },
+  {
+    "id": "awb_ff5a97e39afc4603a8ce",
+    "name": "郁南音乐台",
+    "country": "CN",
+    "subdivision": "Kwangtung",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "internet radio",
+      "music",
+      "oldies"
+    ],
+    "homepage": "https://m.weibo.cn/u/2881623280?jumpfrom=weibocom",
+    "favicon": "http://pic.qtfm.cn/2019/0518/20190518042423.jpeg",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-02-02T08:05:29Z"
   },
   {
     "id": "awb_2ae8ccb289de31b1037f",
@@ -35835,6 +35749,26 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_4245950235a6134c6031",
+    "name": "青岛FM96.4 CGTN Radio",
+    "country": "CN",
+    "subdivision": "Shantung",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://radio.cgtn.com/",
+    "favicon": "https://radio.cgtn.com/static/img/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T16:42:02Z"
+  },
+  {
     "id": "awb_619599fda7a693c71fee",
     "name": "青岛交通广播",
     "country": "CN",
@@ -36396,24 +36330,6 @@
     "updatedAt": "2026-01-14T23:59:15Z"
   },
   {
-    "id": "awb_e0c1aa67a2fb98996cef",
-    "name": "章贡综合广播",
-    "country": "CN",
-    "subdivision": "Kiangsi",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://sj.qq.com/appdetail/com.jxmfkj.www.company.zgfb",
-    "favicon": "http://www.fm160.com/201911/27/2019112716510747226.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-07T08:59:56Z"
-  },
-  {
     "id": "awb_16dafc67e8c41b508dd6",
     "name": "韶关综合广播",
     "country": "CN",
@@ -36616,32 +36532,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:47:21Z"
-  },
-  {
-    "id": "awb_2ac82a23c3255a431f69",
-    "name": "高安电台 最爱942",
-    "country": "CN",
-    "subdivision": "Kiangsi",
-    "languages": [
-      "zh"
-    ],
-    "categories": [
-      "folk",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "folk",
-      "hits",
-      "music",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://jxyc.jxnews.com.cn/gaxww/bmdq/index.shtml",
-    "favicon": "https://pic.qtfm.cn/2020/0827/20200827094032.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-07T02:42:18Z"
   },
   {
     "id": "awb_9bff3b272ff4e00ce7fe",

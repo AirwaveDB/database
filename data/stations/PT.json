@@ -134,6 +134,29 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_1844ac0eb2984e9b8d1b",
+    "name": "80ROCK.pt",
+    "country": "PT",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "categories": [
+      "oldies",
+      "rock"
+    ],
+    "tags": [
+      "80s",
+      "rock"
+    ],
+    "homepage": "https://80rock.pt/",
+    "favicon": "https://80rock.pt/wp-content/uploads/2020/02/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-12T17:26:09Z"
+  },
+  {
     "id": "awb_e64b16411d761a799d69",
     "name": "97fm Rádio Clube de Pombal",
     "country": "PT",
@@ -1895,13 +1918,12 @@
     "languages": [],
     "categories": [],
     "tags": [
-      "adult contemporary",
       "adult-contemporary"
     ],
     "homepage": "https://stm7.xradios.com.br:6944/live",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2515,16 +2537,15 @@
       "pop"
     ],
     "tags": [
-      "classic hits",
       "classic-hits",
       "hits",
       "oldies",
       "pop"
     ],
     "homepage": "https://observador.pt/radio",
-    "favicon": "https://observador.pt/wp-content/themes/observador-child/assets/build/img/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5136,6 +5157,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_9634f0cbb49717ac4425",
+    "name": "RÁDIO TERERE",
+    "country": "PT",
+    "subdivision": "SP",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radioterereweb.mixhd.com.br/",
+    "favicon": "https://radioterereweb.mixhd.com.br/",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T16:07:06Z"
   },
   {
     "id": "awb_24b9e4c0c40e14f4a99f",

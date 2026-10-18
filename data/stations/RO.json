@@ -2135,7 +2135,7 @@
   },
   {
     "id": "awb_89f696f41afe033756e1",
-    "name": "DEEP HOUSE ENERGY",
+    "name": "Deep House Energy",
     "country": "RO",
     "subdivision": null,
     "languages": [],
@@ -2148,7 +2148,7 @@
     "homepage": "https://radioenergyfm.com/deep/",
     "favicon": "https://radioenergyfm.com/sitepad-data/uploads/2026/07/cropped-icon-192x192.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-11T10:07:49Z"
   },
   {
@@ -2200,15 +2200,12 @@
     ],
     "tags": [
       "dance",
-      "house",
-      "manele",
-      "petrecere",
-      "populară"
+      "house"
     ],
     "homepage": "https://xat.com/dejavumusic",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/3/117093.v7.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2478,22 +2475,6 @@
     "updatedAt": "2026-05-05T06:50:47Z"
   },
   {
-    "id": "awb_c2392349ecbdcd1f1238",
-    "name": "EBS | Alternative",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "alternative / indie"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": "https://ebsradio.ro/stream/img/stream-alternative.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_f8470b26368edea7241e",
     "name": "EBS | Blues",
     "country": "RO",
@@ -2506,9 +2487,9 @@
       "blues"
     ],
     "homepage": "https://ebsradio.ro/",
-    "favicon": "https://ebsradio.ro/wp-content/themes/ebs/favicons/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2524,29 +2505,10 @@
       "electronic"
     ],
     "homepage": "https://ebsradio.ro/",
-    "favicon": "https://ebsradio.ro/stream/img/stream-electro.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_e40eb057f64435caf89e",
-    "name": "EBS | Fresco",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [],
-    "tags": [
-      "fresco",
-      "smooth"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": "https://ebsradio.ro/wp-content/themes/ebs/favicons/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:12:47Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_2f96300f911c63d01f31",
@@ -2563,7 +2525,7 @@
     "homepage": "https://ebsradio.ro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2576,15 +2538,13 @@
       "ambient"
     ],
     "tags": [
-      "chill",
       "chillout",
-      "lounge",
-      "smooth"
+      "lounge"
     ],
     "homepage": "https://ebsradio.ro/",
-    "favicon": "https://ebsradio.ro/stream/img/stream-lounge.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2599,53 +2559,13 @@
     "tags": [
       "hits",
       "indie",
-      "pop music",
       "pop-music"
     ],
     "homepage": "https://www.ebsradio.ro/",
-    "favicon": "https://ebsradio.ro/stream/img/stream-music.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_ede89f0552c0c211472c",
-    "name": "EBS | Romanian Gold",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [],
-    "tags": [
-      "romanian goldies",
-      "romanian retro"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": "https://ebsradio.ro/stream/img/stream-romanian-gold.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:25:25Z"
-  },
-  {
-    "id": "awb_2081bd6c9979e3e25202",
-    "name": "EBS | Xmas",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "christmas"
-    ],
-    "tags": [
-      "christmas music",
-      "holiday music",
-      "xmas"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": "https://ebsradio.ro/stream/img/stream-xmas.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_be515b8d1e8f22c70ec3",
@@ -2683,81 +2603,10 @@
       "blues"
     ],
     "homepage": "https://ebsradio.ro/",
-    "favicon": "https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-1/424699851_900411308760121_5814278330535517772_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4bHHNtcga1oQ7kNvwE1LkAM&_nc_oc=AdqXoNNkiAPFMKZSs5EHuUvph5XfMuD3gmn9mPLn8Fb3XjP02Bn9ztVhFni3M4WQt7rcvvW5xX69vTCFBtdzr45N&_nc_zt=24&_nc_ht=scontent.fotp3-2.fna&_nc_gid=sp4e4LyJ74z3g8DC8ddc8A&_nc_ss=7b289&oh=00_Af7AMVbsN7B5Zf5Q6jGH_r7pf4dXsR3B_jUAyuB7Ektoeg&oe=6A0FBE16",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_3bb3cf861518ceac6cde",
-    "name": "EBS Radio Cântece de petrecere -Cluj Napoca",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "etno",
-      "petrecere",
-      "populară"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": "https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-1/424699851_900411308760121_5814278330535517772_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4bHHNtcga1oQ7kNvwE1LkAM&_nc_oc=AdqXoNNkiAPFMKZSs5EHuUvph5XfMuD3gmn9mPLn8Fb3XjP02Bn9ztVhFni3M4WQt7rcvvW5xX69vTCFBtdzr45N&_nc_zt=24&_nc_ht=scontent.fotp3-2.fna&_nc_gid=sp4e4LyJ74z3g8DC8ddc8A&_nc_ss=7b289&oh=00_Af7AMVbsN7B5Zf5Q6jGH_r7pf4dXsR3B_jUAyuB7Ektoeg&oe=6A0FBE16",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-17T14:52:37Z"
-  },
-  {
-    "id": "awb_bfc31cfdf2964e95e935",
-    "name": "EBS Radio Dolce Vitta -Cluj Napoca",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "latin"
-    ],
-    "tags": [
-      "italo",
-      "latino"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": "https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-1/424699851_900411308760121_5814278330535517772_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4bHHNtcga1oQ7kNvwE1LkAM&_nc_oc=AdqXoNNkiAPFMKZSs5EHuUvph5XfMuD3gmn9mPLn8Fb3XjP02Bn9ztVhFni3M4WQt7rcvvW5xX69vTCFBtdzr45N&_nc_zt=24&_nc_ht=scontent.fotp3-2.fna&_nc_gid=sp4e4LyJ74z3g8DC8ddc8A&_nc_ss=7b289&oh=00_Af7AMVbsN7B5Zf5Q6jGH_r7pf4dXsR3B_jUAyuB7Ektoeg&oe=6A0FBE16",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-17T14:42:29Z"
-  },
-  {
-    "id": "awb_f554588724c9d9e3ebb8",
-    "name": "EBS Radio Electro -Cluj Napoca",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "electro"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": "https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-1/424699851_900411308760121_5814278330535517772_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4bHHNtcga1oQ7kNvwE1LkAM&_nc_oc=AdqXoNNkiAPFMKZSs5EHuUvph5XfMuD3gmn9mPLn8Fb3XjP02Bn9ztVhFni3M4WQt7rcvvW5xX69vTCFBtdzr45N&_nc_zt=24&_nc_ht=scontent.fotp3-2.fna&_nc_gid=sp4e4LyJ74z3g8DC8ddc8A&_nc_ss=7b289&oh=00_Af7AMVbsN7B5Zf5Q6jGH_r7pf4dXsR3B_jUAyuB7Ektoeg&oe=6A0FBE16",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-17T14:33:03Z"
-  },
-  {
-    "id": "awb_49ed82b60738ecd002f8",
-    "name": "EBS Radio Jazz -Cluj Napoca",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "jazz"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": "https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-1/424699851_900411308760121_5814278330535517772_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4bHHNtcga1oQ7kNvwE1LkAM&_nc_oc=AdqXoNNkiAPFMKZSs5EHuUvph5XfMuD3gmn9mPLn8Fb3XjP02Bn9ztVhFni3M4WQt7rcvvW5xX69vTCFBtdzr45N&_nc_zt=24&_nc_ht=scontent.fotp3-2.fna&_nc_gid=sp4e4LyJ74z3g8DC8ddc8A&_nc_ss=7b289&oh=00_Af7AMVbsN7B5Zf5Q6jGH_r7pf4dXsR3B_jUAyuB7Ektoeg&oe=6A0FBE16",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-17T14:34:26Z"
   },
   {
     "id": "awb_083141a717c5174c89f0",
@@ -2775,75 +2624,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_235d85f3c17f7b1a7f01",
-    "name": "EBS Radio Local -Cluj Napoca",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "local radio",
-      "music"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": "https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-1/424699851_900411308760121_5814278330535517772_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4bHHNtcga1oQ7kNvwE1LkAM&_nc_oc=AdqXoNNkiAPFMKZSs5EHuUvph5XfMuD3gmn9mPLn8Fb3XjP02Bn9ztVhFni3M4WQt7rcvvW5xX69vTCFBtdzr45N&_nc_zt=24&_nc_ht=scontent.fotp3-2.fna&_nc_gid=sp4e4LyJ74z3g8DC8ddc8A&_nc_ss=7b289&oh=00_Af7AMVbsN7B5Zf5Q6jGH_r7pf4dXsR3B_jUAyuB7Ektoeg&oe=6A0FBE16",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-17T14:30:03Z"
-  },
-  {
-    "id": "awb_2514841b580395f0fd89",
-    "name": "EBS Radio Magyar Zene-Cluj Napoca",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hungarian pop music"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-17T14:50:53Z"
-  },
-  {
-    "id": "awb_95f43a04e958b1dc5b5d",
-    "name": "EBS Radio Nostalgie -Cluj Napoca",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "nostalgie"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": "https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-1/424699851_900411308760121_5814278330535517772_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4bHHNtcga1oQ7kNvwE1LkAM&_nc_oc=AdqXoNNkiAPFMKZSs5EHuUvph5XfMuD3gmn9mPLn8Fb3XjP02Bn9ztVhFni3M4WQt7rcvvW5xX69vTCFBtdzr45N&_nc_zt=24&_nc_ht=scontent.fotp3-2.fna&_nc_gid=sp4e4LyJ74z3g8DC8ddc8A&_nc_ss=7b289&oh=00_Af7AMVbsN7B5Zf5Q6jGH_r7pf4dXsR3B_jUAyuB7Ektoeg&oe=6A0FBE16",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-17T14:40:51Z"
-  },
-  {
-    "id": "awb_c304720449bacc200908",
-    "name": "EBS Radio Nouvelle Vague -Cluj Napoca",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "nouvelle vague"
-    ],
-    "homepage": "https://ebsradio.ro/",
-    "favicon": "https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-1/424699851_900411308760121_5814278330535517772_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4bHHNtcga1oQ7kNvwE1LkAM&_nc_oc=AdqXoNNkiAPFMKZSs5EHuUvph5XfMuD3gmn9mPLn8Fb3XjP02Bn9ztVhFni3M4WQt7rcvvW5xX69vTCFBtdzr45N&_nc_zt=24&_nc_ht=scontent.fotp3-2.fna&_nc_gid=sp4e4LyJ74z3g8DC8ddc8A&_nc_ss=7b289&oh=00_Af7AMVbsN7B5Zf5Q6jGH_r7pf4dXsR3B_jUAyuB7Ektoeg&oe=6A0FBE16",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-17T14:45:25Z"
   },
   {
     "id": "awb_ed34e18a8cab2de5ba7c",
@@ -3558,6 +3338,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T10:16:36Z"
+  },
+  {
+    "id": "awb_3f00bb5c1e003aef9dad",
+    "name": "Forever Young+ Radio",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://fyplus.ro/radio",
+    "favicon": "https://fyplus.ro/fy-radio-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T06:47:07Z"
   },
   {
     "id": "awb_fd8072cb34358066653d",
@@ -5448,27 +5242,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T23:32:38Z"
-  },
-  {
-    "id": "awb_883841aef73ea31c83ff",
-    "name": "MDI FM",
-    "country": "RO",
-    "subdivision": "Targoviste",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "targoviste"
-    ],
-    "homepage": "http://mdifm.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:41:05Z"
   },
   {
     "id": "awb_cfd41be98dfb495507c2",
@@ -7478,26 +7251,10 @@
       "pop"
     ],
     "homepage": "https://radioboom.ro/",
-    "favicon": "https://stream.radioboom.ro/static/uploads/boom_energy/album_art.1711440856.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_4738833f781b53c4f8d1",
-    "name": "Radio BOOM Energy -Buzău",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "dance"
-    ],
-    "homepage": "https://stream.radioboom.ro/public/boom_energy",
-    "favicon": "https://live.radioboom.ro/generic_song-energy.png",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-05-15T18:31:09Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_33656cea9254aeeee9ff",
@@ -8066,27 +7823,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-20T15:23:46Z"
-  },
-  {
-    "id": "awb_c2659c7a7a66ed83f791",
-    "name": "Radio Crasna",
-    "country": "RO",
-    "subdivision": "Gorj",
-    "languages": [],
-    "categories": [
-      "latin",
-      "pop"
-    ],
-    "tags": [
-      "latin pop",
-      "manele și petrecere",
-      "populară"
-    ],
-    "homepage": "https://radio-crasna.blogspot.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T23:54:36Z"
   },
   {
     "id": "awb_b20a012603846f32601b",
@@ -9482,7 +9218,7 @@
       "stuttgart",
       "torino"
     ],
-    "homepage": "https://radiogiurgiu.net/",
+    "homepage": "https://radiogiurgiu.net/mobile.html",
     "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
     "type": null,
     "sourceCount": 4,
@@ -9958,26 +9694,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_8bf62a7541ba3a95abba",
-    "name": "Radio Killer Turda",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local radio",
-      "music",
-      "news"
-    ],
-    "homepage": "https://radio-killer.ro/",
-    "favicon": "https://files.cdn-files-a.com/uploads/6878586/400_66dbf7e00ffe0.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-21T11:36:32Z"
   },
   {
     "id": "awb_511034c5c67d8af699bd",
@@ -13615,26 +13331,6 @@
     "updatedAt": "2026-01-15T07:29:21Z"
   },
   {
-    "id": "awb_b8daedf10275cee8f9d6",
-    "name": "Radio-NNL",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "house",
-      "romantic",
-      "trap"
-    ],
-    "homepage": "https://www.radioexpert.net/radio-nnl-online-radio-curtea-de-arge%C8%99/",
-    "favicon": "https://www.radioexpert.net/radio-logo/romania/radio-nnl-251-curtea-de-arge%C8%99-romania-320.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-20T15:29:22Z"
-  },
-  {
     "id": "awb_a457e45d93399b8548b5",
     "name": "Radio7ABC",
     "country": "RO",
@@ -14833,6 +14529,20 @@
     "updatedAt": "2026-02-22T15:55:29Z"
   },
   {
+    "id": "awb_de3a619feab41e5b7a41",
+    "name": "Silviu PC",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://google.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T20:16:34Z"
+  },
+  {
     "id": "awb_011a648829a1d9aea6b4",
     "name": "Simplu Radio",
     "country": "RO",
@@ -15468,22 +15178,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-23T17:20:51Z"
-  },
-  {
-    "id": "awb_6b9dbb2c2cddd18e1512",
-    "name": "Sona FM Dance",
-    "country": "RO",
-    "subdivision": "Prahova",
-    "languages": [
-      "ro"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.sonafm.ro/",
-    "favicon": "https://www.sonafm.ro/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-04T06:44:38Z"
   },
   {
     "id": "awb_51de1e3570312c5fbd4d",
@@ -17091,7 +16785,7 @@
   },
   {
     "id": "awb_62025e8e767faffb06f4",
-    "name": "TRANCE ENERGY",
+    "name": "Trance Energy",
     "country": "RO",
     "subdivision": null,
     "languages": [],
@@ -17104,7 +16798,7 @@
     "homepage": "https://radioenergyfm.com/trance/",
     "favicon": "https://radioenergyfm.com/sitepad-data/uploads/2026/07/cropped-icon-192x192.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-11T10:13:20Z"
   },
   {

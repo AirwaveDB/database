@@ -1101,7 +1101,7 @@
     "favicon": "https://aithropologylab.org/fm/aithropology-lab-fm.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T12:36:12Z"
+    "updatedAt": "2026-10-17T13:59:36Z"
   },
   {
     "id": "awb_d3e82a3058c0e1bdf057",
@@ -4853,11 +4853,14 @@
       "es"
     ],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "albacete",
+      "cope"
+    ],
     "homepage": "https://www.cope.es/directos/albacete",
-    "favicon": null,
+    "favicon": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5543,7 +5546,7 @@
       "hardstyle",
       "music"
     ],
-    "homepage": "https://decibeliafm.es/",
+    "homepage": "https://decibeliafm.es/web/",
     "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
     "type": null,
     "sourceCount": 2,
@@ -7452,30 +7455,6 @@
     "updatedAt": "2026-01-15T07:58:24Z"
   },
   {
-    "id": "awb_8ec63a7f9634fe48a1d8",
-    "name": "Fedi Drama Radio",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "music",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://radio.tuiter.rocks/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-16T22:51:50Z"
-  },
-  {
     "id": "awb_713cd81caf242e61fbe3",
     "name": "Feel Good Radio Costa del Sol",
     "country": "ES",
@@ -8609,7 +8588,7 @@
     "id": "awb_3affbb98dab24e7b2119",
     "name": "GRX BIT RADIO on line",
     "country": "ES",
-    "subdivision": "granada",
+    "subdivision": "Alhama - Granada- Andalucía",
     "languages": [],
     "categories": [
       "pop"
@@ -9063,7 +9042,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T14:21:59Z"
+    "updatedAt": "2026-10-17T21:39:32Z"
   },
   {
     "id": "awb_1a0d5615e13b0cbd99ad",
@@ -9104,6 +9083,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-27T08:01:01Z"
+  },
+  {
+    "id": "awb_4fb8d1449542de1ef415",
+    "name": "IA Radio España",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "ai",
+      "latin",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.iaradio.es/",
+    "favicon": "https://www.iaradio.es/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T20:59:47Z"
   },
   {
     "id": "awb_36f27d462c02b9ffbef2",
@@ -12651,24 +12655,6 @@
     "updatedAt": "2026-01-15T04:06:36Z"
   },
   {
-    "id": "awb_8d53469a4e066bd689e0",
-    "name": "Misterium II",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": "http://misterium-ii.playtheradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_537bc106aab35289bbce",
     "name": "Mitch.FM",
     "country": "ES",
@@ -13908,20 +13894,6 @@
     "updatedAt": "2026-05-30T07:28:53Z"
   },
   {
-    "id": "awb_c99e7d533c2af15270b0",
-    "name": "onda digital fm almería",
-    "country": "ES",
-    "subdivision": "spain",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://ondadigitalfm.es/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-24T16:56:41Z"
-  },
-  {
     "id": "awb_3db21600002c4f87a203",
     "name": "onda digital fm guadalajara",
     "country": "ES",
@@ -14987,7 +14959,7 @@
     "favicon": "https://punkirratia.net/punkirratia.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-12T17:41:40Z"
+    "updatedAt": "2026-10-17T20:04:10Z"
   },
   {
     "id": "awb_0b34685c51623e554da0",
@@ -15904,27 +15876,6 @@
     "updatedAt": "2026-01-15T05:42:32Z"
   },
   {
-    "id": "awb_4bd4f1bd40e8ac5bb579",
-    "name": "Radio Barça",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "sports"
-    ],
-    "tags": [
-      "f.c. barcelona",
-      "sports"
-    ],
-    "homepage": "https://www.fcbarcelona.cat/ca/club/noticies",
-    "favicon": "https://www.fcbarcelona.cat/resources/v2.80.0-5429/i/favicon/favicon-128x128.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:54:52Z"
-  },
-  {
     "id": "awb_cecebdf35b97ec0f29fb",
     "name": "Radio Begur",
     "country": "ES",
@@ -16347,34 +16298,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:42:10Z"
-  },
-  {
-    "id": "awb_10970f33feb8c3284087",
-    "name": "Radio Cowabunga",
-    "country": "ES",
-    "subdivision": "Córdoba",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop",
-      "punk",
-      "rock"
-    ],
-    "tags": [
-      "boogaloo",
-      "garage",
-      "northern soul",
-      "power pop",
-      "punk rock",
-      "rock and roll",
-      "soul"
-    ],
-    "homepage": "http://www.cowabunga.es/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-16T11:32:22Z"
   },
   {
     "id": "awb_df7da67c91da73b993fa",
@@ -18657,30 +18580,6 @@
     "updatedAt": "2026-01-15T07:03:15Z"
   },
   {
-    "id": "awb_152de4b46b7935c3a9d2",
-    "name": "Radio Nostalgia Spain",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "80s",
-      "classic hits",
-      "oldies"
-    ],
-    "homepage": "https://nostalgiaspain.es/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:13:18Z"
-  },
-  {
     "id": "awb_57359db603e611846b32",
     "name": "Radio Obradoiro",
     "country": "ES",
@@ -19123,6 +19022,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:25:56Z"
+  },
+  {
+    "id": "awb_ae78ab655e4b3875a02d",
+    "name": "Radio Puebla",
+    "country": "ES",
+    "subdivision": "Toledo",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiopuebla.com/",
+    "favicon": "https://img-static.ivoox.com/index.php?w=175&url=https://static-1.ivoox.com/canales/3/5/4/e/354e1e53d3a5e20b38396e68d1693a83_XXL.jpg&f=webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T19:16:27Z"
   },
   {
     "id": "awb_8ded08a94351e78e3eb9",
@@ -19777,6 +19690,33 @@
     "updatedAt": "2026-01-14T22:54:13Z"
   },
   {
+    "id": "awb_6ea8be1829fa8c0d39c4",
+    "name": "Radio Sitges",
+    "country": "ES",
+    "subdivision": "sitges",
+    "languages": [
+      "ca",
+      "es"
+    ],
+    "categories": [
+      "community",
+      "jazz",
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "community",
+      "news",
+      "pop",
+      "smooth jazz"
+    ],
+    "homepage": "https://www.radiositges.com/",
+    "favicon": null,
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:53:11Z"
+  },
+  {
     "id": "awb_a347ab143bb2bec5033f",
     "name": "Radio Sol LP-35100",
     "country": "ES",
@@ -19957,6 +19897,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-25T18:48:08Z"
+  },
+  {
+    "id": "awb_a9590a69dbcd31aa6d2e",
+    "name": "Radio Test",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "breakbeat"
+    ],
+    "homepage": "https://prueba.gadesonic.com/",
+    "favicon": "https://prueba.gadesonic.com/brand/056e8b5fd2d736a93b4b13ef1454ee59.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-12T03:48:47Z"
   },
   {
     "id": "awb_04fc821b88c2e761f3e0",
@@ -20768,6 +20726,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-01T13:54:42Z"
+  },
+  {
+    "id": "awb_186a21c4db63fc7da717",
+    "name": "Radiopuebla",
+    "country": "ES",
+    "subdivision": "Toledo",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiopuebla.com/",
+    "favicon": "https://radiopuebla.com/wp-content/uploads/2018/05/logo_radio.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T10:18:42Z"
   },
   {
     "id": "awb_b27f92760fd843ff8b2a",
@@ -22525,24 +22497,6 @@
     "updatedAt": "2026-01-14T23:42:15Z"
   },
   {
-    "id": "awb_aa7236d0285654e51d30",
-    "name": "SER Zaragoza",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_bd565b0ed045c5e1929c",
     "name": "Sevilla FC Radio",
     "country": "ES",
@@ -23424,7 +23378,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 6,
-    "updatedAt": "2026-10-17T00:38:56Z"
+    "updatedAt": "2026-10-17T22:31:08Z"
   },
   {
     "id": "awb_60668b862f76c8a40ef9",

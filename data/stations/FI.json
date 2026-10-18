@@ -708,6 +708,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_7d01cf5f8b2e370f4330",
+    "name": "POP fm",
+    "country": "FI",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.popfm.fi/",
+    "favicon": "https://www.popfm.fi/uploads/stations/a12df260-69dd-4fb1-b482-8632697f79e8-w150.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-07-03T05:31:36Z"
+  },
+  {
     "id": "awb_3eb45acd20f26d887ae8",
     "name": "POPfm",
     "country": "FI",
@@ -722,9 +736,9 @@
       "pop"
     ],
     "homepage": "https://www.popfm.fi/pop/home",
-    "favicon": null,
+    "favicon": "https://www.popfm.fi/uploads/stations/a12df260-69dd-4fb1-b482-8632697f79e8-w150.png",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1903,13 +1917,11 @@
       "fi"
     ],
     "categories": [],
-    "tags": [
-      "1950"
-    ],
+    "tags": [],
     "homepage": "https://ticktock.radio/",
-    "favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {

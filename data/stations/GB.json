@@ -1776,15 +1776,17 @@
       "pop"
     ],
     "tags": [
+      "00s",
+      "10s",
       "80s",
       "90s",
       "hits",
       "pop"
     ],
     "homepage": "https://lunar.citrus3.com:2020/public/90s2000sandmore",
-    "favicon": null,
+    "favicon": "https://lunar.citrus3.com:2020/pub/90s2000sandmore/background.jpg",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1910,7 +1912,7 @@
     "favicon": "https://aajamusic.com/_nuxt/icons/icon_64x64.fafdcd.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T16:33:02Z"
+    "updatedAt": "2026-10-17T19:13:09Z"
   },
   {
     "id": "awb_51d9026b7064707aeffe",
@@ -2154,6 +2156,35 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_fc198ea8341b760894ac",
+    "name": "AI On Air",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "hip-hop"
+    ],
+    "tags": [
+      "24/7",
+      "ai music",
+      "dance",
+      "drum and bass",
+      "electronic",
+      "grime",
+      "hip hop",
+      "house",
+      "independent"
+    ],
+    "homepage": "https://aionair.co.uk/",
+    "favicon": "https://aionair.co.uk/ai-on-air-approved-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T09:53:31Z"
   },
   {
     "id": "awb_d42e8940ac52bc251115",
@@ -2489,33 +2520,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_5436bb5d995a82946428",
-    "name": "Ambient Abyss Broadcasting",
-    "country": "GB",
-    "subdivision": "Essex",
-    "languages": [],
-    "categories": [
-      "ambient",
-      "electronic"
-    ],
-    "tags": [
-      "ambient",
-      "ambient electronic",
-      "dark ambient",
-      "drone ambient",
-      "electronic",
-      "emotional",
-      "liminal",
-      "sad",
-      "slowcore"
-    ],
-    "homepage": "https://www.radioplug.co.uk/channel/Ambient-Abyss-Broadcast",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-09T23:03:50Z"
   },
   {
     "id": "awb_dc932ec879a07388f6e4",
@@ -3168,30 +3172,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-29T20:06:21Z"
-  },
-  {
-    "id": "awb_27dc2e7618b5878d5fc0",
-    "name": "Bailiwick Radio Classics",
-    "country": "GB",
-    "subdivision": "Bailiwick of Jersey",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "70s",
-      "80s",
-      "classic hits",
-      "jersey"
-    ],
-    "homepage": "http://www.bailiwickexpress.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:29:20Z"
   },
   {
     "id": "awb_d1251ba5a1848ec8b975",
@@ -4377,7 +4357,7 @@
     "favicon": "https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T03:20:28Z"
+    "updatedAt": "2026-10-17T07:24:55Z"
   },
   {
     "id": "awb_84c695af035e048128c3",
@@ -7809,7 +7789,7 @@
     "favicon": "https://cloud-4shg5daq1-hack-club-bot.vercel.app/0calm_n_chill_radio_logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T07:33:00Z"
+    "updatedAt": "2026-10-17T11:23:02Z"
   },
   {
     "id": "awb_243b7269629fb4e8cb56",
@@ -10272,22 +10252,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_01980fd9b28de98451f5",
-    "name": "Cuillin FM (Isle of Skye)",
-    "country": "GB",
-    "subdivision": "Scotland",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.cuillinfm.co.uk/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:06:34Z"
-  },
-  {
     "id": "awb_5e921ae56e246a47da31",
     "name": "Cumbernauld fm",
     "country": "GB",
@@ -11085,20 +11049,6 @@
     "updatedAt": "2026-07-07T06:15:54Z"
   },
   {
-    "id": "awb_ac2c84c2608b9a0d25df",
-    "name": "Derby Sound",
-    "country": "GB",
-    "subdivision": "Derby",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.derbysound.org.uk/",
-    "favicon": "https://www.derbysound.org.uk/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_9cdefed4d668abee8aae",
     "name": "Devoncast Radio",
     "country": "GB",
@@ -11535,7 +11485,7 @@
     "favicon": "https://www.bidstonobservatory.org/favicon-32x32.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T18:19:03Z"
+    "updatedAt": "2026-10-17T19:21:36Z"
   },
   {
     "id": "awb_003cff6d52adc54f83ea",
@@ -12570,6 +12520,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-02T14:29:16Z"
+  },
+  {
+    "id": "awb_97dd0387e24b27e055e1",
+    "name": "Faithful Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian"
+    ],
+    "homepage": "https://faithful-radio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T14:17:39Z"
   },
   {
     "id": "awb_a51a9cd86afa596cc96f",
@@ -17438,6 +17408,27 @@
     "updatedAt": "2026-05-15T20:36:24Z"
   },
   {
+    "id": "awb_26d9ff88ddc59346a1dc",
+    "name": "https://drumandbassuk.com/",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "d&b",
+      "dnb",
+      "drum and bass",
+      "jungle"
+    ],
+    "homepage": "https://drumandbassuk.com/",
+    "favicon": "https://drumandbassuk.com/img/logo.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T02:20:44Z"
+  },
+  {
     "id": "awb_b7269bacc1ee19509e7c",
     "name": "https://www.differentdrumz.co.uk/",
     "country": "GB",
@@ -18456,20 +18447,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_d821703c4ea01ca6c611",
-    "name": "Juice Liverpool",
-    "country": "GB",
-    "subdivision": "Liverpool",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://juiceliverpool.co.uk/",
-    "favicon": "https://juiceliverpool.co.uk/assets/img/favicons/favicon-196x196.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_9eddec177c527e99c73c",
     "name": "Juice Radio",
     "country": "GB",
@@ -18486,26 +18463,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-29T04:05:42Z"
-  },
-  {
-    "id": "awb_510c579fb5bc24baf0aa",
-    "name": "Jungle Dope Labs",
-    "country": "GB",
-    "subdivision": "Essex",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "dnb",
-      "drum and bass",
-      "experimental",
-      "jungle",
-      "old skool rave"
-    ],
-    "homepage": "https://jungledopelabs.com/",
-    "favicon": "https://jungledopelabs.com/logo.jpg?v=3",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-24T23:24:17Z"
   },
   {
     "id": "awb_fb6d5b8f7046ff96047a",
@@ -23475,6 +23432,28 @@
     "updatedAt": "2026-06-10T06:38:11Z"
   },
   {
+    "id": "awb_08d7bab7b49e27ebe45d",
+    "name": "Noeko Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic",
+      "utau",
+      "vocaloid",
+      "voice synth",
+      "voicesynth"
+    ],
+    "homepage": "https://noeko.media/radio/",
+    "favicon": "https://noeko.media/_next/image?url=%2Fnoeko-logo.png&w=256&q=75",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-18T06:53:00Z"
+  },
+  {
     "id": "awb_52a89c4daed787235f88",
     "name": "NoiseBox Radio",
     "country": "GB",
@@ -25237,20 +25216,6 @@
     "updatedAt": "2026-08-02T21:01:28Z"
   },
   {
-    "id": "awb_7f6ff29a7c22c3e5f60c",
-    "name": "Piccadilly 90s",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://piccadillyradio261.co.uk/piccadilly80s.co.uk/",
-    "favicon": "https://piccadillyradio261.co.uk/piccadilly80s.co.uk/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-02T21:08:10Z"
-  },
-  {
     "id": "awb_113aa182869389e82b14",
     "name": "Piccadilly Gold",
     "country": "GB",
@@ -25263,20 +25228,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-02T21:10:29Z"
-  },
-  {
-    "id": "awb_423c4c2639742cd2d83d",
-    "name": "Piccadilly Radio 261",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://piccadillyradio261.co.uk/",
-    "favicon": "https://piccadillyradio261.co.uk/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-02T20:40:48Z"
   },
   {
     "id": "awb_6939a438d223236cb14f",
@@ -29504,7 +29455,7 @@
     "favicon": "https://www.reformradio.co.uk/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T12:08:50Z"
+    "updatedAt": "2026-10-17T14:13:38Z"
   },
   {
     "id": "awb_89fa503ea86beb35b8f2",
@@ -29657,7 +29608,7 @@
     "favicon": "https://cdn.prod.website-files.com/62bc4b9b51f455e9a386fdd1/62be3ea967ffbeb32ccfe453_android-chrome-256x256.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T14:59:56Z"
+    "updatedAt": "2026-10-17T15:15:22Z"
   },
   {
     "id": "awb_1ad96a99543438d854f7",
@@ -30907,31 +30858,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_4c919a77487b3e20a719",
-    "name": "Sefton Sound Waves Radio",
-    "country": "GB",
-    "subdivision": "Merseyside",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "70s",
-      "80s",
-      "90s",
-      "pop",
-      "top 40"
-    ],
-    "homepage": "https://sswradio.co.uk/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-17T15:21:33Z"
   },
   {
     "id": "awb_0c384acb3096ce5db442",
@@ -32586,20 +32512,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-30T15:29:31Z"
-  },
-  {
-    "id": "awb_6ba1800276aec8eab6a2",
-    "name": "Sounds of Christmas",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.soundsofchristmas.com/",
-    "favicon": "https://www.soundsofchristmas.com/uploads/9/4/7/8/9478020/soctree-orig_orig.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_58ddc63ad27ae4c90ac6",
@@ -34827,7 +34739,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T06:09:51Z"
+    "updatedAt": "2026-10-17T08:33:35Z"
   },
   {
     "id": "awb_1a2831c0a454ad6e1da7",
@@ -34877,7 +34789,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T21:17:59Z"
+    "updatedAt": "2026-10-17T22:41:56Z"
   },
   {
     "id": "awb_1a0ff23f93608f601f69",
@@ -37126,7 +37038,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

@@ -272,7 +272,7 @@
       "discography"
     ],
     "homepage": "https://enigma.101.ru/",
-    "favicon": "https://101.ru/proxy/vardata/modules/channel/image/8700bf0eb42cee25219de44034753570.jpg",
+    "favicon": "https://101.ru/proxy/vardata/modules/channel/image/8700bf0eb42cee25219de44034753570.jpg%22",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T12:28:06Z"
@@ -2845,7 +2845,7 @@
     "id": "awb_bb18e22d61efdf04b4fe",
     "name": "BRİDGE TV",
     "country": "RU",
-    "subdivision": "Moscow (Russia)",
+    "subdivision": "Moscow",
     "languages": [
       "en",
       "ru"
@@ -2856,7 +2856,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
+    "homepage": "https://bridgetv.ru/about/channels/",
     "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
     "type": null,
     "sourceCount": 3,
@@ -12387,28 +12387,6 @@
     "updatedAt": "2026-01-15T04:06:00Z"
   },
   {
-    "id": "awb_225c4e1a9289d875cf9a",
-    "name": "RadCap - Death Metal",
-    "country": "RU",
-    "subdivision": "Moscow (Russia)",
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "metal"
-    ],
-    "tags": [
-      "death metal",
-      "metal",
-      "radio caprice"
-    ],
-    "homepage": "http://radcap.ru/deathmetal.html",
-    "favicon": "http://radcap.ru/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:40:59Z"
-  },
-  {
     "id": "awb_d807b74caf81be97aa53",
     "name": "RadCap - Depressive Black Metal",
     "country": "RU",
@@ -12740,6 +12718,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:32:04Z"
+  },
+  {
+    "id": "awb_681de2a9f917f163b9f0",
+    "name": "RadCap - Grunge",
+    "country": "RU",
+    "subdivision": "Moscow (Russia)",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "grunge",
+      "radio caprice",
+      "rock"
+    ],
+    "homepage": "http://radcap.ru/grunge.html",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T07:22:38Z"
   },
   {
     "id": "awb_4e5e303e18dac710bc60",
@@ -14330,30 +14330,6 @@
     "updatedAt": "2026-08-19T14:08:53Z"
   },
   {
-    "id": "awb_05d38e48fc538db8aff7",
-    "name": "Radio 107 Moscow",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "eurodance",
-      "hits",
-      "top 100"
-    ],
-    "homepage": "https://radio107.ru/",
-    "favicon": "https://radio107.ru/images/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-21T13:03:10Z"
-  },
-  {
     "id": "awb_2f046f044705e1d4b2f9",
     "name": "Radio 2 Komsomolsk-na-Amure",
     "country": "RU",
@@ -15751,6 +15727,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_a74fc84e4bbb7c4d3f8d",
+    "name": "Radio Caprice - Classical Piano",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical",
+      "piano"
+    ],
+    "homepage": "http://radcap.ru/classicalpiano.html",
+    "favicon": "http://radcap.ru/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:24:48Z"
   },
   {
     "id": "awb_b05197b585c44515cba6",
@@ -17261,6 +17258,24 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_a7d30e3696f29a401879",
+    "name": "Radio Caprice - Full-on",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "full-on"
+    ],
+    "homepage": "http://radcap.ru/",
+    "favicon": "http://radcap.ru/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T07:23:17Z"
+  },
+  {
     "id": "awb_15f66f7fe4e760f64f5f",
     "name": "Radio Caprice - Funk Rock / Metal",
     "country": "RU",
@@ -18325,8 +18340,8 @@
     "homepage": "http://radcap.ru/fusion.html",
     "favicon": "http://radcap.ru/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-03-26T18:15:39Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T00:38:37Z"
   },
   {
     "id": "awb_30ed278471e728f2d82e",
@@ -18489,7 +18504,7 @@
       "radcap"
     ],
     "homepage": "http://radcap.ru/lo-fi.html",
-    "favicon": "https://radcap.ru/graf2/rclogo.png",
+    "favicon": "http://radcap.ru/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T07:52:11Z"
@@ -27670,7 +27685,7 @@
     "favicon": "https://play.google.com/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T15:10:47Z"
+    "updatedAt": "2026-10-17T17:06:32Z"
   },
   {
     "id": "awb_605aa6f231103b2256d0",
@@ -30140,22 +30155,6 @@
     "updatedAt": "2026-01-15T01:53:33Z"
   },
   {
-    "id": "awb_e2a396363395f7ed9176",
-    "name": "Барсук ФМ",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "рок"
-    ],
-    "homepage": "https://top-radio.ru/web/barsuk-fm",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
     "id": "awb_6e6099b46df9d8fbae09",
     "name": "БАРХАТ",
     "country": "RU",
@@ -30431,24 +30430,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
-    "id": "awb_1e860090007f935ad9bb",
-    "name": "Болгар Радиосы Казань 91.5 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://top-radio.ru/kazan/bolgar-radiosyi",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:25:16Z"
   },
   {
     "id": "awb_0ec66e60b148ca341c6e",
@@ -36117,23 +36098,6 @@
     "updatedAt": "2026-09-06T04:05:15Z"
   },
   {
-    "id": "awb_3808c1bb6bf78834831a",
-    "name": "Молоко",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "лëгкая музыка",
-      "поп-музыка"
-    ],
-    "homepage": "https://moloko.ooo/",
-    "favicon": "https://onlayn-radio.ru/uploads/posts/2024-03/moloko_page-0001.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_88d12bf5d85330f71937",
     "name": "Монте Карло Winter Cup",
     "country": "RU",
@@ -38110,17 +38074,15 @@
     "id": "awb_ab0d9ce06556f9f7cddb",
     "name": "Радио 107",
     "country": "RU",
-    "subdivision": "Krasnodar region",
-    "languages": [
-      "ru"
-    ],
+    "subdivision": null,
+    "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "http://www.radio107.ru/",
-    "favicon": "http://www.radio107.ru/images/apple-touch-icon.png",
+    "favicon": "http://www.radio107.ru/images/logo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:54:34Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_de6bcf2d8708d54d846e",
@@ -38962,6 +38924,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_b26123e2c741e5e12309",
+    "name": "Радио АСТВ",
+    "country": "RU",
+    "subdivision": "Сахалинская обл.",
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio.astv.ru/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-03-23T12:34:38Z"
   },
   {
     "id": "awb_66438cb011df4661ad8e",
@@ -44347,27 +44325,6 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
-    "id": "awb_6479049ca46111bbdca6",
-    "name": "Радио СПУТНИК / Radio Sputnik",
-    "country": "RU",
-    "subdivision": "Volgograd",
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "russian pop",
-      "russian programming"
-    ],
-    "homepage": "http://sputnikfm.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:56:18Z"
-  },
-  {
     "id": "awb_90000ad6b647c2d91298",
     "name": "Радио Спутник Санкт-Петербург 91.5 FM",
     "country": "RU",
@@ -44409,6 +44366,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_7abd88278437d4d9f4ac",
+    "name": "Радио Станция",
+    "country": "RU",
+    "subdivision": "Пенза",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "разная музыка"
+    ],
+    "homepage": "https://top-radio.ru/web/stancziya",
+    "favicon": "https://top-radio.ru/assets/image/radio/180/Radio-stancia.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_75434e31ff691ac922f8",
@@ -45937,22 +45910,6 @@
     ],
     "homepage": "https://top-radio.ru/web/radio-retroklub-instrumental",
     "favicon": "https://top-radio.ru/assets/image/radio/180/radio-retroklub-instrumental.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_25b74a9e7923e191c774",
-    "name": "Ретроклуб Радио 60-х",
-    "country": "RU",
-    "subdivision": "Санкт-Петербург",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "ретро"
-    ],
-    "homepage": "https://top-radio.ru/web/radio-retroklub-radio-60-h",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/radio-retroklub-radio-60-h.png",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"

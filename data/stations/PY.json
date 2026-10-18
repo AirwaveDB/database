@@ -27,26 +27,6 @@
     "updatedAt": "2026-01-14T23:56:58Z"
   },
   {
-    "id": "awb_95936e1ee66d076d7821",
-    "name": "ABC Cardinal 730AM",
-    "country": "PY",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": "https://www.abc.com.py/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:22:41Z"
-  },
-  {
     "id": "awb_c50f9d3968ca3ce6754f",
     "name": "Abdulbasit Abdulsamad",
     "country": "PY",
@@ -472,21 +452,15 @@
       "es"
     ],
     "categories": [
-      "news",
-      "pop",
-      "sports"
+      "pop"
     ],
     "tags": [
-      "cardinal",
-      "news",
-      "pop",
-      "sports",
-      "top40"
+      "pop"
     ],
     "homepage": "http://www.abc.com.py/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -511,28 +485,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_be4551c782d9381f9ecf",
-    "name": "Radio ABC FM 98.5 (Asunción)",
-    "country": "PY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "asunción",
-      "pop",
-      "rock",
-      "top40"
-    ],
-    "homepage": "http://www.abc.com.pyl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_a551b768e03f6723ebc3",
@@ -629,7 +581,7 @@
       "spanish radio"
     ],
     "homepage": "https://radiaura.net/arasuncion",
-    "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
+    "favicon": "https://radiaura.net/apple-touch-icon.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-09-02T23:05:11Z"

@@ -211,7 +211,7 @@
   },
   {
     "id": "awb_ef17dfb7a806c053be76",
-    "name": "BOB fm",
+    "name": "Bob fm",
     "country": "IE",
     "subdivision": null,
     "languages": [
@@ -233,12 +233,18 @@
     "country": "IE",
     "subdivision": "IRELAND",
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "community",
+      "religious"
+    ],
+    "tags": [
+      "community radio",
+      "religious"
+    ],
     "homepage": "https://www.lifefm.ie/",
     "favicon": null,
-    "type": null,
-    "sourceCount": 1,
+    "type": "community",
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1764,7 +1770,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T17:17:49Z"
+    "updatedAt": "2026-10-17T18:18:38Z"
   },
   {
     "id": "awb_09ce91223417498232c1",
@@ -1793,7 +1799,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio2-90s00s.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T13:12:41Z"
+    "updatedAt": "2026-10-17T14:17:39Z"
   },
   {
     "id": "awb_0a70ca4c43d2f9c168be",

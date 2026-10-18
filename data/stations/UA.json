@@ -637,6 +637,34 @@
     "updatedAt": "2026-01-15T05:27:18Z"
   },
   {
+    "id": "awb_903671ad67b9e891a03a",
+    "name": "Holos.FM",
+    "country": "UA",
+    "subdivision": "Kharkiv",
+    "languages": [
+      "uk"
+    ],
+    "categories": [],
+    "tags": [
+      "holos",
+      "holos svobody",
+      "svoboda",
+      "голос",
+      "голос свободи",
+      "народне",
+      "національне",
+      "нація",
+      "свобода",
+      "україна",
+      "україномовне"
+    ],
+    "homepage": "http://holos.fm/",
+    "favicon": "http://holos.fm/webplayer/img/coverart.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T06:39:51Z"
+  },
+  {
     "id": "awb_72863f8f41c1ce3d37da",
     "name": "Hromadske Radio",
     "country": "UA",
@@ -1076,8 +1104,8 @@
       "chillout",
       "lounge"
     ],
-    "homepage": "https://loungefm.com.ua/chill",
-    "favicon": "https://loungefm.com.ua/img/favicon/favicon.ico",
+    "homepage": "https://loungefm.com.ua/",
+    "favicon": "https://loungefm.com.ua/img/icon-144x144.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -1939,7 +1967,7 @@
     "homepage": "https://perec.fm/",
     "favicon": "https://perec.fm/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-09-01T18:51:39Z"
   },
   {
@@ -3301,19 +3329,16 @@
       "uk"
     ],
     "categories": [
-      "news",
       "pop"
     ],
     "tags": [
-      "information",
-      "local news",
       "music",
       "pop"
     ],
     "homepage": "https://boguslav.media/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -4172,32 +4197,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
-    "id": "awb_2342f2bb95a93139b211",
-    "name": "Просто Radi.O (Київ)",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "uk"
-    ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "information",
-      "local news",
-      "music",
-      "news",
-      "other",
-      "pop"
-    ],
-    "homepage": "https://www.instagram.com/prosto102.5?igsh=MTZ3d2R6ZmluMzdicg==",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:20:08Z"
   },
   {
     "id": "awb_bb2ba49e6e660871b81a",
@@ -5654,6 +5653,52 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-11T22:11:19Z"
+  },
+  {
+    "id": "awb_622159590915ac0bec69",
+    "name": "Радіоточка 192 кБ/с",
+    "country": "UA",
+    "subdivision": null,
+    "languages": [
+      "uk"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://ukr.radio/channel.html?channelID=5",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-12T12:13:07Z"
+  },
+  {
+    "id": "awb_c0d1e83349b13ef1df17",
+    "name": "Радіоточка 48 kb/s",
+    "country": "UA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://ukr.radio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-04T22:51:15Z"
+  },
+  {
+    "id": "awb_323613230ad398e8f95d",
+    "name": "Радіоточка 48 кБ/с",
+    "country": "UA",
+    "subdivision": null,
+    "languages": [
+      "uk"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://ukr.radio/channel.html?channelID=5",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-11T23:20:13Z"
   },
   {
     "id": "awb_f285eaf13a7ec690e747",

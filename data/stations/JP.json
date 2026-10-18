@@ -98,6 +98,47 @@
     "updatedAt": "2026-01-15T05:17:04Z"
   },
   {
+    "id": "awb_0f9cfd22d768f9b0bb2e",
+    "name": "All Classical New Releases",
+    "country": "JP",
+    "subdivision": "Hokaido",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical",
+      "opera"
+    ],
+    "homepage": "https://cdn.radoxo.com/images/japan/all-classical-piano-chamber-works-and-concertos.webp?v=1791194402",
+    "favicon": "https://cdn.radoxo.com/images/japan/all-classical-new-releases.webp?v=1791194402",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T13:53:16Z"
+  },
+  {
+    "id": "awb_3cf8fe6acb3c1c5a890d",
+    "name": "All Classical Piano Chamber Works and Concertos",
+    "country": "JP",
+    "subdivision": "Hokaido",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": "https://cdn.radoxo.com/images/japan/an-opera-celebration.webp?v=1791194402",
+    "favicon": "https://cdn.radoxo.com/images/japan/all-classical-piano-chamber-works-and-concertos.webp?v=1791194402",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T12:50:33Z"
+  },
+  {
     "id": "awb_999feeb32e26d7ae3159",
     "name": "ALR Jazz Radio",
     "country": "JP",
@@ -110,6 +151,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_ac9a4465af0507c133d5",
+    "name": "An Opera Celebration",
+    "country": "JP",
+    "subdivision": "Hokaido",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical",
+      "opera"
+    ],
+    "homepage": "https://tuneyou.com/radio/jp/an-opera-celebration",
+    "favicon": "https://cdn.radoxo.com/images/japan/an-opera-celebration.webp?v=1791194402",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T12:05:17Z"
   },
   {
     "id": "awb_07e20e3daf7fef396876",
@@ -197,6 +259,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_27bce4e62f526b1385d5",
+    "name": "Beethoven Piano Sonatas",
+    "country": "JP",
+    "subdivision": "Hokaido",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "beethoven",
+      "classical",
+      "classical music",
+      "piano"
+    ],
+    "homepage": "https://cdn.radoxo.com/images/japan/all-classical-new-releases.webp?v=1791194402",
+    "favicon": "https://cdn.radoxo.com/images/japan/beethoven-piano-sonatas.webp?v=1791194402",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T12:03:20Z"
   },
   {
     "id": "awb_d2da10957b87ffde5d84",
@@ -1699,6 +1784,24 @@
     "updatedAt": "2026-08-04T02:51:04Z"
   },
   {
+    "id": "awb_a4c8c27676d77f6add28",
+    "name": "Radio Shiga",
+    "country": "JP",
+    "subdivision": "shiga",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "culture"
+    ],
+    "homepage": "https://wp.radioshiga.com/",
+    "favicon": "https://cdn.radoxo.com/images/japan/radio-shiga.webp?v=1791194402",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T15:31:56Z"
+  },
+  {
     "id": "awb_adadd39b1ef948e0dd89",
     "name": "Rainwave All",
     "country": "JP",
@@ -2118,6 +2221,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:50:24Z"
+  },
+  {
+    "id": "awb_0a36899ef60b3d6c94c8",
+    "name": "神戸長田FMわぃわぃ (Radio FMYY)",
+    "country": "JP",
+    "subdivision": "Kobe",
+    "languages": [
+      "ja"
+    ],
+    "categories": [],
+    "tags": [
+      "culture"
+    ],
+    "homepage": "https://tcc117.jp/fmyy/",
+    "favicon": "https://cdn.instant.audio/images/logos/jpradio-jp/fmyy.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T13:19:59Z"
   },
   {
     "id": "awb_1221bd3c9b9acc953672",

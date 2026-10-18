@@ -1949,7 +1949,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T11:48:36Z"
+    "updatedAt": "2026-10-17T13:09:00Z"
   },
   {
     "id": "awb_b35105ad16c219d0740f",
@@ -1971,7 +1971,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-16T21:46:31Z"
+    "updatedAt": "2026-10-17T18:43:30Z"
   },
   {
     "id": "awb_18ef70fa187d5f788e31",
@@ -2000,7 +2000,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-legacy-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T06:33:21Z"
+    "updatedAt": "2026-10-17T10:24:55Z"
   },
   {
     "id": "awb_7edc0fde3b3291cc2ace",
@@ -2049,7 +2049,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T14:25:04Z"
+    "updatedAt": "2026-10-17T15:29:51Z"
   },
   {
     "id": "awb_0726c5d4e8aa71680e95",
@@ -2075,7 +2075,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-16T23:50:58Z"
+    "updatedAt": "2026-10-17T15:56:54Z"
   },
   {
     "id": "awb_173bf527a4d7f5eb635c",
@@ -2100,7 +2100,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-smog-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T06:44:17Z"
+    "updatedAt": "2026-10-17T07:16:04Z"
   },
   {
     "id": "awb_cc0a413a69dc071e0aed",
@@ -6945,6 +6945,20 @@
     "updatedAt": "2026-03-19T00:33:31Z"
   },
   {
+    "id": "awb_b310de2598cb2f60319c",
+    "name": "RADYO 24",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://24arabesk.80.yayin.com.tr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-03-25T07:21:59Z"
+  },
+  {
     "id": "awb_41dbd0504020a13f3bfa",
     "name": "Radyo 35",
     "country": "TR",
@@ -8499,6 +8513,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-19T00:40:55Z"
+  },
+  {
+    "id": "awb_d5b4dc80e0b2b956c52b",
+    "name": "Radyo Kaptan",
+    "country": "TR",
+    "subdivision": "İstanbul",
+    "languages": [
+      "tr"
+    ],
+    "categories": [],
+    "tags": [
+      "fantazi muzik"
+    ],
+    "homepage": "https://radyokaptan.com.tr/",
+    "favicon": "https://hizliresim.com/oornni4m",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T02:01:22Z"
   },
   {
     "id": "awb_25b0ae62a9baaaf48abf",
@@ -11372,6 +11404,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_8f904c86c38d405dc0d0",
+    "name": "Ulusal Radyo",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://ulusalradyo.com/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T08:34:46Z"
   },
   {
     "id": "awb_47cbad047f2c59ac10a0",

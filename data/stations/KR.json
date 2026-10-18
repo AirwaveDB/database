@@ -559,6 +559,43 @@
     "updatedAt": "2026-01-15T02:02:21Z"
   },
   {
+    "id": "awb_acfb66505321c7792244",
+    "name": "FEBC Seoul 106.9 FM (서울극동방송)",
+    "country": "KR",
+    "subdivision": "Seoul",
+    "languages": [
+      "ko"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://seoul.febc.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-09-06T12:38:43Z"
+  },
+  {
+    "id": "awb_c80b6a4e4e1ce98b0e25",
+    "name": "FEBC 제주극동방송 FM 104.7",
+    "country": "KR",
+    "subdivision": "Jeju",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://jeju.febc.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-09-06T12:46:05Z"
+  },
+  {
     "id": "awb_a39dd2063fcc70dceff8",
     "name": "Floyd Server (Rock Ballad...From 09/25/05)",
     "country": "KR",
@@ -1408,6 +1445,34 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:42:51Z"
+  },
+  {
+    "id": "awb_86acdf189014700b9853",
+    "name": "yojosuknam Radio",
+    "country": "KR",
+    "subdivision": "Seoul",
+    "languages": [
+      "en",
+      "ko"
+    ],
+    "categories": [
+      "jazz",
+      "pop"
+    ],
+    "tags": [
+      "24/7",
+      "gugak",
+      "jazz",
+      "korean",
+      "lofi",
+      "music",
+      "pop"
+    ],
+    "homepage": "https://music.yojosuknam.com/radio",
+    "favicon": "https://music.yojosuknam.com/radio/icon-512.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-18T00:02:54Z"
   },
   {
     "id": "awb_4f85d6129dbdccbb4702",

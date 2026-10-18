@@ -4274,7 +4274,7 @@
     "favicon": "https://redefanfm.com.br/wp-content/uploads/2023/07/favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T13:08:12Z"
+    "updatedAt": "2026-10-17T17:52:37Z"
   },
   {
     "id": "awb_cd2981357d40dbe6e9a3",
@@ -4289,7 +4289,7 @@
     "homepage": "http://7602.site.stm-ip.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
@@ -4395,6 +4395,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_f1540f73c703baf51929",
+    "name": "Fm Imperial",
+    "country": "BR",
+    "subdivision": "Piauí",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.fmimperial.com.br/",
+    "favicon": "https://i.imgur.com/fyG5d9S.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T20:45:23Z"
   },
   {
     "id": "awb_5690843f57c569f19738",
@@ -6690,6 +6704,24 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_b827ffec266f3abf3cb7",
+    "name": "Liberal FM 97.5MHz",
+    "country": "BR",
+    "subdivision": "Para",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "local music"
+    ],
+    "homepage": "https://www.oliberal.com/radioliberal/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T06:39:51Z"
+  },
+  {
     "id": "awb_f9e17a0a0885d5d9d4e8",
     "name": "Liberal FM Web",
     "country": "BR",
@@ -7692,20 +7724,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-09T15:08:42Z"
-  },
-  {
-    "id": "awb_72b87ecffaa16c145c5c",
-    "name": "Mega 94 - Campo Grande",
-    "country": "BR",
-    "subdivision": "Mato Grosso do Sul",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.mega94.com.br/",
-    "favicon": "https://www.mega94.com.br/wp-content/uploads/2024/08/logo.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-17T14:59:29Z"
   },
   {
     "id": "awb_9997381595d40ec14f1f",
@@ -9005,31 +9023,6 @@
     "updatedAt": "2026-07-07T23:17:56Z"
   },
   {
-    "id": "awb_79e9c0602d5c5f144389",
-    "name": "NBC FM - Rádio Comunitária de Nova Brasília - Imbituba/SC",
-    "country": "BR",
-    "subdivision": "Santa Catarina",
-    "languages": [
-      "pt"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "esportes",
-      "futebol",
-      "gauchesca",
-      "local news",
-      "noticias",
-      "sertanejo"
-    ],
-    "homepage": "https://www.nbcfm.com.br/",
-    "favicon": "https://www.nbcfm.com.br/wp-content/uploads/sites/7/2022/04/cropped-favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-04T18:45:22Z"
-  },
-  {
     "id": "awb_d682f4c9f68e81784268",
     "name": "Newton Bello FM",
     "country": "BR",
@@ -9380,22 +9373,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_39b8901b4fb644bde673",
-    "name": "Nova FM Seabra 99.9",
-    "country": "BR",
-    "subdivision": "Bahia",
-    "languages": [
-      "pt"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radios.com.br/aovivo/nova-fm-seabra/35632",
-    "favicon": "https://img.radios.com.br/radio/lg/radio35632_1631195264.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-26T03:52:08Z"
   },
   {
     "id": "awb_0db2a0ebcc3546cb6198",
@@ -11334,7 +11311,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC",
+    "name": "Rádio AMC+",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -11349,7 +11326,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amclogo.png",
+    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -12590,6 +12567,20 @@
     "updatedAt": "2026-08-25T11:56:04Z"
   },
   {
+    "id": "awb_aea2da638cc7290754f8",
+    "name": "RADIO BORG",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://poetic-caramel-384625.netlify.app/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-05-17T06:18:37Z"
+  },
+  {
     "id": "awb_fcb5d439c12299d8fbea",
     "name": "Rádio Bossa Nova Brazil",
     "country": "BR",
@@ -12943,29 +12934,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-14T13:35:06Z"
-  },
-  {
-    "id": "awb_2b7b7954faeaf86005a4",
-    "name": "Rádio Cambirela - Virtual,mas real.",
-    "country": "BR",
-    "subdivision": "Santa Catarina, SC",
-    "languages": [],
-    "categories": [
-      "country",
-      "rock"
-    ],
-    "tags": [
-      "brazillian music",
-      "contenmporary",
-      "country",
-      "retro music",
-      "rock"
-    ],
-    "homepage": "https://radiocambirela.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-22T02:08:43Z"
   },
   {
     "id": "awb_afbb2d6edd3763aa0cf4",
@@ -14022,7 +13990,7 @@
     "favicon": "https://radioaconchego.org/files/2015/03/cropped-cropped-5617042203_961643d1a0_o-180x180.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T12:40:23Z"
+    "updatedAt": "2026-10-17T23:47:26Z"
   },
   {
     "id": "awb_5f174301d3d27e6688ba",
@@ -17318,6 +17286,27 @@
     "updatedAt": "2026-02-18T13:15:18Z"
   },
   {
+    "id": "awb_f5b99baad0d3bbdfa39f",
+    "name": "Rádio Líder 87,9 FM",
+    "country": "BR",
+    "subdivision": "Mato Grosso do Sul",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "ecletica",
+      "pop",
+      "radio comunitaria",
+      "sertanejo"
+    ],
+    "homepage": "https://www.liderfmonline.com.br/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/899/lider-fm-maracaju.9907fb7f.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-04-28T20:59:09Z"
+  },
+  {
     "id": "awb_9b031afa37bc565b4397",
     "name": "Radio Lider FM",
     "country": "BR",
@@ -19412,40 +19401,6 @@
     "updatedAt": "2026-01-15T04:56:19Z"
   },
   {
-    "id": "awb_32431e858482699debc7",
-    "name": "Rádio Paraíso 89.7 FM",
-    "country": "BR",
-    "subdivision": "MG",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "eclética"
-    ],
-    "homepage": "https://paraisofm.com.br/",
-    "favicon": "https://img.radios.com.br/radio/lg/radio14225_1695997616.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-24T11:35:21Z"
-  },
-  {
-    "id": "awb_475c4228b4df02549132",
-    "name": "Rádio Paraiso FM 89,7",
-    "country": "BR",
-    "subdivision": "Minas Gerais",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "música pop"
-    ],
-    "homepage": "https://paraisofm.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_7909297b759ecd89db3b",
     "name": "Rádio Paraitinga 105.9 FM",
     "country": "BR",
@@ -20769,23 +20724,6 @@
     "updatedAt": "2026-08-02T18:20:50Z"
   },
   {
-    "id": "awb_2fe5206c0d89e2c199ac",
-    "name": "Rádio Serrana Mix",
-    "country": "BR",
-    "subdivision": "Espírito Santo",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "ecletic",
-      "ecletica"
-    ],
-    "homepage": "https://www.radioserranamix.com.br/",
-    "favicon": "https://www.radioserranamix.com.br/public/24456-2024-06-25.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_649f73e49cf01f5d0f6b",
     "name": "Rádio Sertaneja",
     "country": "BR",
@@ -21280,6 +21218,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_e4089dea0c72790edac0",
+    "name": "Rádio T 105,3 FM Ponta Grossa - PR",
+    "country": "BR",
+    "subdivision": "PR",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop music",
+      "sertanejo",
+      "sertanejo raiz"
+    ],
+    "homepage": "https://www.radiot.fm/",
+    "favicon": "https://www.radiot.fm/images/logo4.fw.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:13Z"
   },
   {
     "id": "awb_9aa20e231fe9bcde7805",
@@ -23232,27 +23190,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_627b4407ff06dd0d7f30",
-    "name": "Rede Boa Nova",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [
-      "pt"
-    ],
-    "categories": [],
-    "tags": [
-      "andré luiz",
-      "espiritismo",
-      "rbn",
-      "spitiritist"
-    ],
-    "homepage": "https://radioboanova.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:04:00Z"
-  },
-  {
     "id": "awb_b07639e38be3b5bbde06",
     "name": "rede clamor missionario web",
     "country": "BR",
@@ -25065,27 +25002,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-25T01:54:26Z"
-  },
-  {
-    "id": "awb_9b65bc41aa53bc68e34e",
-    "name": "Universidade FM 106,9",
-    "country": "BR",
-    "subdivision": "Maranhão",
-    "languages": [],
-    "categories": [
-      "college"
-    ],
-    "tags": [
-      "local music",
-      "local radio",
-      "radio universitaria",
-      "university radio"
-    ],
-    "homepage": "http://www.universidadefm.ufma.br/",
-    "favicon": null,
-    "type": "college",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_875d4d36bea24eb5710f",

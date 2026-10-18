@@ -3200,6 +3200,20 @@
     "updatedAt": "2026-10-16T18:55:29Z"
   },
   {
+    "id": "awb_7c6877f4d22a94fe21d2",
+    "name": "Mi Radio La Serena - Coquimbo",
+    "country": "CL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.miradiols.cl/senal-online/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T00:01:38Z"
+  },
+  {
     "id": "awb_0d16f0c0cb900906f2ba",
     "name": "Millenium Radio Network",
     "country": "CL",
@@ -7153,28 +7167,6 @@
     "updatedAt": "2026-06-14T07:10:17Z"
   },
   {
-    "id": "awb_bd83229031c1c73fd714",
-    "name": "Radio Nuble 89.7 fm",
-    "country": "CL",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop",
-      "talk"
-    ],
-    "tags": [
-      "pop",
-      "talk"
-    ],
-    "homepage": "http://radionuble.cl/linea/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:09:32Z"
-  },
-  {
     "id": "awb_9f8c5092c97a62590778",
     "name": "Radio Nuestra 98.7",
     "country": "CL",
@@ -8964,24 +8956,6 @@
     "updatedAt": "2026-07-09T11:42:51Z"
   },
   {
-    "id": "awb_0c41f052ddcf2a470293",
-    "name": "Retro Plus Señal 2",
-    "country": "CL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "retro hits"
-    ],
-    "homepage": "https://www.retroplustv.com/",
-    "favicon": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1767353319",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-27T08:35:57Z"
-  },
-  {
     "id": "awb_b4d7f957d162f6d65758",
     "name": "Retro Radio 80 & 90",
     "country": "CL",
@@ -9018,22 +8992,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-09T11:40:14Z"
-  },
-  {
-    "id": "awb_643b797afb1fd1383e3b",
-    "name": "Retroactiva Concepción",
-    "country": "CL",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://zeno.fm/radio/radio-retroactiva-concepcion-en-vivo/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-09T11:41:28Z"
   },
   {
     "id": "awb_2dd116c2bd3f69a752e2",
@@ -10009,14 +9967,12 @@
       "latin"
     ],
     "tags": [
-      "cumbia",
-      "música popular mexicana",
-      "ranchera"
+      "cumbia"
     ],
     "homepage": "https://www.zumbaleradio.cl/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   }
 ]

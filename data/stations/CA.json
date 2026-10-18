@@ -2023,6 +2023,30 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_217b4fb33e93a2d3f0ad",
+    "name": "Asia DREAM Radio - Japan Hits",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "ja"
+    ],
+    "categories": [
+      "anime",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "j-pop",
+      "japanese music"
+    ],
+    "homepage": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
+    "favicon": "https://asiadreamradio.com/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-12T06:44:17Z"
+  },
+  {
     "id": "awb_b1a35b491c777897be55",
     "name": "ATOMIC FM",
     "country": "CA",
@@ -7531,6 +7555,26 @@
     "updatedAt": "2026-01-15T08:05:50Z"
   },
   {
+    "id": "awb_c09966ffebeee1efa6e6",
+    "name": "CHGA 97.3 Maniwaki, QC",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio"
+    ],
+    "homepage": "http://www.chga.fm/",
+    "favicon": "https://www.chga.fm/app/themes/webit/assets/img/logo__app.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T07:49:33Z"
+  },
+  {
     "id": "awb_ffa4beeed47f40cb0371",
     "name": "CHGB 97.7 \"The Beach\" Wasaga Beach, ON",
     "country": "CA",
@@ -8642,20 +8686,6 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
-    "id": "awb_ca004d7f3ab20e892268",
-    "name": "CHOI 98,1 Radio X",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiox.com/",
-    "favicon": "https://radiox.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_9400b580214de8fda6bd",
     "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
     "country": "CA",
@@ -8676,6 +8706,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:49:38Z"
+  },
+  {
+    "id": "awb_ca004d7f3ab20e892268",
+    "name": "CHOI 98.1 Radio X",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_0db5abdaad511193eccc",
@@ -9937,6 +9981,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:45:08Z"
+  },
+  {
+    "id": "awb_e51e9a0a1077e64cd79b",
+    "name": "CIBL Montreal",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "misc"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_cf34e49b4133da4c5ea4",
@@ -14340,9 +14400,9 @@
       "classical"
     ],
     "homepage": "http://www.radioclassique.ca/",
-    "favicon": "http://www.radioclassique.ca/upload/design/5d1cc4fcaad749.59987287.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -20586,7 +20646,7 @@
     "favicon": "https://fullspectrumradio.com/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T12:21:17Z"
+    "updatedAt": "2026-10-17T15:54:50Z"
   },
   {
     "id": "awb_14704d2b6cddb6ffab8a",
@@ -21368,20 +21428,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:20:09Z"
-  },
-  {
-    "id": "awb_841261e67b8a216137cf",
-    "name": "INDI 101-5",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.indi1015.ca/",
-    "favicon": "https://indi1015.ca/wp-content/uploads/2021/09/logo_indi-Reverse.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-19T02:11:25Z"
   },
   {
     "id": "awb_62866e2d73722f1c2802",
@@ -24926,9 +24972,9 @@
       "music"
     ],
     "homepage": "https://www.radioclassique.ca/",
-    "favicon": "https://www.radioclassique.ca/upload/5d7f91e07dcae6.18591349.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -25522,6 +25568,34 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_da8f21002ff0356f8c2c",
+    "name": "RadioInternet.ca",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "ai music",
+      "francophone",
+      "pop",
+      "quebec",
+      "rock",
+      "talk",
+      "webradio"
+    ],
+    "homepage": "https://radiointernet.ca/",
+    "favicon": "https://radiointernet.ca/wp-content/themes/radiointernet-v2221/assets/images/favicon/apple-touch-icon.png",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T00:00:50Z"
   },
   {
     "id": "awb_cf9fd29b6c5ee84cd4af",

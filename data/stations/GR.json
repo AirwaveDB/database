@@ -3592,7 +3592,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.atticaradios.gr/athens-deejay-952/",
-    "favicon": "https://www.atticaradios.gr/Content/ImagesDatabase/p/crop/both/9d/9d212880d56d43a7bc49cb7e531ecb4c.svg?quality=85&404=default&v=4",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NVxJAkegta5hGh8IW16JZH-h0fEU01y9dmKUz8nJaw&s",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-07T10:16:56Z"
@@ -8130,24 +8130,6 @@
     "updatedAt": "2026-01-15T08:14:52Z"
   },
   {
-    "id": "awb_a06a6118b3b31d5d2b92",
-    "name": "ERT Christmas Radio",
-    "country": "GR",
-    "subdivision": "Athens",
-    "languages": [],
-    "categories": [
-      "christmas"
-    ],
-    "tags": [
-      "christmas music"
-    ],
-    "homepage": "https://www.ertecho.gr/radio/radio-christmas/",
-    "favicon": "https://www.ertecho.gr/wp-content/uploads/2023/11/Radio-Christmas-358.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_bf327ee648379739bc8d",
     "name": "ERT echo KOSMOS",
     "country": "GR",
@@ -9499,29 +9481,6 @@
     "updatedAt": "2026-06-28T08:29:05Z"
   },
   {
-    "id": "awb_4beaba43c1132aa3f756",
-    "name": "FORMedia 99.8",
-    "country": "GR",
-    "subdivision": "Volos",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "music",
-      "news",
-      "news talk"
-    ],
-    "homepage": "https://www.formediaradio.gr/",
-    "favicon": "https://www.formediaradio.gr/icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:06:06Z"
-  },
-  {
     "id": "awb_92c6af1f874756689af9",
     "name": "Fraoulitsa",
     "country": "GR",
@@ -10871,6 +10830,25 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_ca187ed30e0c049a78dc",
+    "name": "Holiday 95.7",
+    "country": "GR",
+    "subdivision": "Limnos",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "http://www.facebook.com/pages/Holiday-Radio-949-Myrina-Lemnos/164151530444676?fref=ts",
+    "favicon": "https://cdn.e-radio.gr/logos/gr/big/holiday975.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T18:16:09Z"
+  },
+  {
     "id": "awb_310cebfbf809598025a8",
     "name": "Home 89.1",
     "country": "GR",
@@ -11649,7 +11627,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-17T06:22:43Z"
+    "updatedAt": "2026-10-17T20:49:52Z"
   },
   {
     "id": "awb_6238359a928c7aa2b0fe",
@@ -14448,7 +14426,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-16T21:34:42Z"
+    "updatedAt": "2026-10-17T18:05:29Z"
   },
   {
     "id": "awb_f6721fc2fc91afd0e9b8",
@@ -15515,9 +15493,9 @@
       "mainstream"
     ],
     "homepage": "https://www.myradio1046.fm/",
-    "favicon": null,
+    "favicon": "https://www.myradio1046.fm/wp-content/themes/whsk_myradio/common/icons/android-icon-192x192.png",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T02:45:26Z"
   },
   {
@@ -16556,6 +16534,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_2651adfeaff460f9cb4d",
+    "name": "Original 94.4",
+    "country": "GR",
+    "subdivision": "Chania",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "mainstream",
+      "pop"
+    ],
+    "homepage": "https://www.originalfm.gr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T08:31:18Z"
   },
   {
     "id": "awb_c1134104d25aab3091e3",
@@ -23052,7 +23051,7 @@
     "favicon": "https://meraklis.ddnsfree.com/logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T15:37:09Z"
+    "updatedAt": "2026-10-17T22:39:44Z"
   },
   {
     "id": "awb_346b3683b2aedf080370",
@@ -23380,7 +23379,7 @@
     "favicon": "https://rebetis.duckdns.org/rebetis.png",
     "type": null,
     "sourceCount": 7,
-    "updatedAt": "2026-10-17T04:34:18Z"
+    "updatedAt": "2026-10-17T19:11:19Z"
   },
   {
     "id": "awb_d7a84c80fd5892c5a153",
@@ -26902,7 +26901,7 @@
     "favicon": "https://studio19.gr/images/Studio19_logo2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-16T22:30:40Z"
+    "updatedAt": "2026-10-17T12:12:22Z"
   },
   {
     "id": "awb_5576fa95e6cc10a65f36",
@@ -27185,34 +27184,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-26T18:35:40Z"
-  },
-  {
-    "id": "awb_76963103d5e16cc8f176",
-    "name": "Summer Radio",
-    "country": "GR",
-    "subdivision": "Athens Greece",
-    "languages": [
-      "el",
-      "en"
-    ],
-    "categories": [
-      "ambient",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "caribbean vibe",
-      "chill",
-      "lounge",
-      "mediterranean",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://www.ertecho.gr/radio/summer-radio/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-19T19:10:15Z"
   },
   {
     "id": "awb_dd8986d0cfd08c2ade94",
@@ -27634,50 +27605,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:04:00Z"
-  },
-  {
-    "id": "awb_14958622a817754bf882",
-    "name": "Ti Amo",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://tiamo.gr/",
-    "favicon": "https://tiamo.gr/wp-content/uploads/2022/11/ti-amo-new-logo-reverse-768x185.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-15T12:54:38Z"
-  },
-  {
-    "id": "awb_9e195de7012ec9de2e47",
-    "name": "Ti Amo Greek",
-    "country": "GR",
-    "subdivision": "Athens",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "greek music"
-    ],
-    "homepage": "https://tiamo.gr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_23191f6a349241eb7ad5",
-    "name": "tiamo.gr",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://tiamo.gr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-15T09:36:59Z"
   },
   {
     "id": "awb_4cb535085b3a192eb33e",
@@ -29844,6 +29771,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:32:05Z"
+  },
+  {
+    "id": "awb_0d67962a8bbf097f3842",
+    "name": "Αμύνταιο 91.2",
+    "country": "GR",
+    "subdivision": "Florina",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.facebook.com/rradioamyntaio/",
+    "favicon": "http://resources.live24.gr/resources/images/stations/ee99cb3d-5f79-43d0-b6cb-5d7be65fbd1f.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:31:41Z"
   },
   {
     "id": "awb_1c2b41506ae78000ca2c",
@@ -34026,6 +33969,31 @@
     "updatedAt": "2026-01-15T05:24:15Z"
   },
   {
+    "id": "awb_a48f9e047973690aaea6",
+    "name": "Λήμνος 97.9",
+    "country": "GR",
+    "subdivision": "Limnos",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "news talk",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://meas-radio-limnos.gr/",
+    "favicon": "https://meas-radio-limnos.gr/wp-content/uploads/2023/09/277736764_380890297378571_6105525479148471946_n.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T19:01:44Z"
+  },
+  {
     "id": "awb_25e80df4ace359978a91",
     "name": "Λόφος",
     "country": "GR",
@@ -36833,28 +36801,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:38:30Z"
-  },
-  {
-    "id": "awb_5cc8c9ffc19920a6a002",
-    "name": "Ραδιοφράγματα",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://radiofragmata.squat.gr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:02:42Z"
   },
   {
     "id": "awb_79cd589be6fc4175930d",

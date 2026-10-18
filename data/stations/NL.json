@@ -210,7 +210,7 @@
     "favicon": "https://meta.1zwolle.nl/logos/64x64.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T03:24:59Z"
+    "updatedAt": "2026-10-17T12:13:36Z"
   },
   {
     "id": "awb_3861f863ae11d5bbecf3",
@@ -920,7 +920,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T07:05:55Z"
+    "updatedAt": "2026-10-17T09:49:05Z"
   },
   {
     "id": "awb_adbe00e0ff15eab162bf",
@@ -942,7 +942,7 @@
     "favicon": "https://forums.ah.fm/data/assets/logo/favicon.png",
     "type": null,
     "sourceCount": 8,
-    "updatedAt": "2026-10-17T00:48:17Z"
+    "updatedAt": "2026-10-17T22:31:08Z"
   },
   {
     "id": "awb_e499ee5a4e0ed96f5c3d",
@@ -1582,7 +1582,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T08:46:43Z"
+    "updatedAt": "2026-10-17T08:58:43Z"
   },
   {
     "id": "awb_77432b1c1f3cfc4d495b",
@@ -2572,9 +2572,9 @@
   },
   {
     "id": "awb_b13cd09bdfe7005edd75",
-    "name": "Classics; Radio",
+    "name": "Classics Radio",
     "country": "NL",
-    "subdivision": "Noord-Brabant",
+    "subdivision": null,
     "languages": [
       "en"
     ],
@@ -2588,9 +2588,9 @@
       "rock"
     ],
     "homepage": "https://www.classicsradio.eu/",
-    "favicon": "https://a4.asurahosting.com/static/uploads/classics_radio/album_art.1770725396.png",
+    "favicon": "https://assets.clrd.net/uploads/logos/autodj/01a05f14-231e-7ac4-aed3-f08903412573/0f4fa891-f337-49ae-9dc5-e03fdfa759b5.webp",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-02T14:12:45Z"
   },
   {
@@ -3319,11 +3319,11 @@
     "tags": [
       "disco funk"
     ],
-    "homepage": "http://www.cubicspace.fm/",
+    "homepage": "https://www.cubicspace.fm/",
     "favicon": "http://music.cubicspace.fm:42424/mpeg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-18T18:01:48Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-17T23:39:56Z"
   },
   {
     "id": "awb_973100fa4dfc7f0f5051",
@@ -5091,7 +5091,7 @@
     "favicon": "https://glowfm.nl/favicon.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-12T03:44:22Z"
+    "updatedAt": "2026-10-17T13:11:18Z"
   },
   {
     "id": "awb_757de2498fd6a4452755",
@@ -5792,7 +5792,7 @@
     "favicon": "https://www.hardcoreradio.nl/wp-content/themes/hardcore-radio/static/images/favicon/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T20:24:14Z"
+    "updatedAt": "2026-10-17T23:56:33Z"
   },
   {
     "id": "awb_05493aa87643513b1f2a",
@@ -5861,10 +5861,10 @@
     "updatedAt": "2026-01-15T07:11:09Z"
   },
   {
-    "id": "awb_8108e848d1d62a35d955",
+    "id": "awb_429c48729c0c652dd554",
     "name": "Henk's Streaming Audio",
     "country": "NL",
-    "subdivision": "Noord Brabant",
+    "subdivision": null,
     "languages": [
       "nl"
     ],
@@ -5876,13 +5876,13 @@
     "favicon": "https://www.henksplace.nl/hsa/skin/HSALogo512x512.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T08:42:25Z"
+    "updatedAt": "2026-10-17T22:54:21Z"
   },
   {
-    "id": "awb_429c48729c0c652dd554",
+    "id": "awb_8108e848d1d62a35d955",
     "name": "Henk's Streaming Audio.",
     "country": "NL",
-    "subdivision": null,
+    "subdivision": "Noord Brabant",
     "languages": [
       "nl"
     ],
@@ -5901,7 +5901,7 @@
     "favicon": "https://www.henksplace.nl/hsa/skin/HSALogo512x512.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T14:36:45Z"
+    "updatedAt": "2026-10-17T16:13:50Z"
   },
   {
     "id": "awb_32503b5697e1d3a99775",
@@ -11074,7 +11074,7 @@
   },
   {
     "id": "awb_07f37dcda9704329f8c3",
-    "name": "Omroep Horst aan de Maas!",
+    "name": "Omroep Horst aan de maas",
     "country": "NL",
     "subdivision": "Limburg",
     "languages": [
@@ -11945,6 +11945,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_be2411668f597a3a5913",
+    "name": "Piraten Family",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://piratenfamilie.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T10:11:29Z"
   },
   {
     "id": "awb_c3c2bbf62d1a29e6dcd9",
@@ -14716,38 +14730,6 @@
     "updatedAt": "2026-07-18T06:27:04Z"
   },
   {
-    "id": "awb_9d81957edaeb2124876f",
-    "name": "Radio De Wasrol",
-    "country": "NL",
-    "subdivision": "Zuid-Holland, Rotterdam",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "blues",
-      "country",
-      "jazz"
-    ],
-    "tags": [
-      "1920s",
-      "1930",
-      "1940s",
-      "blues",
-      "boogie woogie",
-      "country",
-      "dance hall",
-      "jazz",
-      "marsch",
-      "swing",
-      "vaudeville"
-    ],
-    "homepage": "https://www.radiodewasrol.nl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-13T15:00:00Z"
-  },
-  {
     "id": "awb_0d52d7b0b49a9c80c685",
     "name": "Radio Domstad",
     "country": "NL",
@@ -17326,6 +17308,22 @@
     "updatedAt": "2026-03-22T13:06:47Z"
   },
   {
+    "id": "awb_4098ada4f2095f8396a6",
+    "name": "reformatorisch omroep radio 1",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://reformatorischeomroep.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T15:41:59Z"
+  },
+  {
     "id": "awb_a577b9df471e25b9c4dc",
     "name": "Reformatorische omroep",
     "country": "NL",
@@ -19622,7 +19620,7 @@
     "favicon": "https://studio040.nl/favicons/studio_040_favicon.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-12T11:45:22Z"
+    "updatedAt": "2026-10-17T13:29:03Z"
   },
   {
     "id": "awb_949a102148c6cea32e42",
@@ -21701,21 +21699,5 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-21T00:18:04Z"
-  },
-  {
-    "id": "awb_9ef5cfee62bbf93b039a",
-    "name": "Радио Лента",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "-"
-    ],
-    "homepage": "https://radiomap.eu/lt/play/lenta",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-01T00:14:24Z"
   }
 ]

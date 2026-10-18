@@ -18,6 +18,24 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_958352b8b44fa429c566",
+    "name": "1Radio Ikwerre",
+    "country": "NG",
+    "subdivision": "RIVERS",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://1radio.ng/ikwerre",
+    "favicon": "https://cdn.webtrend.com.ng/files/6a4b86128cede2.43019840.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T00:53:41Z"
+  },
+  {
     "id": "awb_5ea3a90e317b14893a1b",
     "name": "1Radio International",
     "country": "NG",
@@ -58,6 +76,24 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_b73af902755ec9d22acc",
+    "name": "1Radio Pitakwa - Port Harcourt City",
+    "country": "NG",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": null,
+    "favicon": "https://cdn.webtrend.com.ng/files/69f7713c86f6a9.46465160.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T23:58:43Z"
   },
   {
     "id": "awb_2c30cb4fe3a306a465e4",
@@ -677,6 +713,27 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_13d0c05f9f694120117e",
+    "name": "Hope Radio",
+    "country": "NG",
+    "subdivision": "Rivers",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community",
+      "talk"
+    ],
+    "tags": [
+      "community / talk / culture"
+    ],
+    "homepage": "https://theark.com.ng/",
+    "favicon": "https://cdn.webtrend.com.ng/files/6a455d107144a1.13154008.jpg",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T00:44:18Z"
+  },
+  {
     "id": "awb_41b686feff730e663b40",
     "name": "Inform Me Radio",
     "country": "NG",
@@ -1157,6 +1214,27 @@
     "updatedAt": "2026-09-19T01:46:48Z"
   },
   {
+    "id": "awb_e5d98ec202e7d4d0615c",
+    "name": "The Ark of Nigeria Radio",
+    "country": "NG",
+    "subdivision": "Rivers",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community",
+      "talk"
+    ],
+    "tags": [
+      "community / talk / culture"
+    ],
+    "homepage": "https://theark.com.ng/",
+    "favicon": "https://cdn.webtrend.com.ng/files/6a455d107144a1.13154008.jpg",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T23:56:33Z"
+  },
+  {
     "id": "awb_a15881a71f2352f5ff67",
     "name": "Trove Radio Station",
     "country": "NG",
@@ -1315,5 +1393,23 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_1149251e6f5d823fbf02",
+    "name": "Zanders FM",
+    "country": "NG",
+    "subdivision": "Imo",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "commercail"
+    ],
+    "homepage": "https://zandersfm.live/",
+    "favicon": "https://cdn.webtrend.com.ng/files/69f75b5d643841.69647708.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T00:37:22Z"
   }
 ]

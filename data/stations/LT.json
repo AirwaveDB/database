@@ -705,6 +705,22 @@
     "updatedAt": "2026-01-15T07:43:38Z"
   },
   {
+    "id": "awb_2730bc611b451a597172",
+    "name": "Marso Radijas",
+    "country": "LT",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "variuos topics"
+    ],
+    "homepage": "https://marsas.me/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-06-17T06:47:05Z"
+  },
+  {
     "id": "awb_c2d024a660715a50cb12",
     "name": "Mazeikiai FM",
     "country": "LT",
@@ -755,6 +771,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-15T23:30:22Z"
+  },
+  {
+    "id": "awb_fa2bde53bcd61315bdb0",
+    "name": "MRPL",
+    "country": "LT",
+    "subdivision": null,
+    "languages": [
+      "lt"
+    ],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://mrpl.babrai.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-17T20:10:21Z"
   },
   {
     "id": "awb_311b082d4693dff0a3a7",
@@ -1153,9 +1187,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.lietus.fm/",
-    "favicon": "http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-lietus.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1524,40 +1558,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
-    "id": "awb_4b07aeb279e6c2ec9e27",
-    "name": "Saules radijas",
-    "country": "LT",
-    "subdivision": null,
-    "languages": [
-      "lt"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "http://saulesradijas.lt/",
-    "favicon": "https://saulesradijas.lt/wp-content/themes/sr/img/icons/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:00:09Z"
-  },
-  {
-    "id": "awb_bd944995fd6700d95e89",
-    "name": "Saules Radijas LT",
-    "country": "LT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://saulesradijas.lt/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_8daf0e0bafcef33b8cb0",

@@ -102,7 +102,7 @@
     "favicon": "https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T11:03:08Z"
+    "updatedAt": "2026-10-17T14:15:36Z"
   },
   {
     "id": "awb_e6c2b34e1d4c47c64488",
@@ -157,7 +157,7 @@
     "homepage": "https://my.secure.website/935eagleradio/",
     "favicon": "https://primary.jwwb.nl/public/m/o/a/temp-qwwivcgxsmoafqnsfida/ai-logo-b2b5d92b6b7c-standard.png?enable-io=true&width=96",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-12T15:56:44Z"
   },
   {
@@ -181,7 +181,7 @@
     "favicon": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png",
     "type": "college",
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T08:54:53Z"
+    "updatedAt": "2026-10-17T09:54:22Z"
   },
   {
     "id": "awb_243b96920c84367e58ff",
@@ -227,7 +227,7 @@
     "favicon": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png",
     "type": "college",
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T20:13:18Z"
+    "updatedAt": "2026-10-17T20:39:43Z"
   },
   {
     "id": "awb_0c6336e83b69799e5a8a",
@@ -1424,7 +1424,7 @@
     "favicon": "https://kixfm.co.nz/images/cover.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T14:29:26Z"
+    "updatedAt": "2026-10-17T18:45:39Z"
   },
   {
     "id": "awb_36c33160c14435a66473",
@@ -1484,7 +1484,7 @@
     "favicon": "https://player.streamguys.com/rhema-lifefm/sgplayer/include/assets/img/logo-lifefm.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T19:13:45Z"
+    "updatedAt": "2026-10-17T21:08:08Z"
   },
   {
     "id": "awb_1aed61f3bdb5742b73f9",
@@ -1829,14 +1829,31 @@
     "name": "My Dee Jay Radio",
     "country": "NZ",
     "subdivision": "Canterbury",
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "electronic",
+      "hip-hop",
+      "latin"
+    ],
+    "tags": [
+      "afrobeats",
+      "dance",
+      "dj mixes",
+      "hip hop",
+      "house",
+      "latin",
+      "r&b",
+      "reggaeton",
+      "tech house"
+    ],
     "homepage": "https://mydeejayradio.com/",
     "favicon": "https://mydeejayradio.com/logo-512.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T08:22:31Z"
+    "updatedAt": "2026-10-17T09:37:57Z"
   },
   {
     "id": "awb_7ed7a4c3c620ae250518",
@@ -1935,7 +1952,7 @@
     "favicon": "https://i.iheart.com/v3/re/new_assets/60fdf21e8d281279cae30692",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T14:26:58Z"
+    "updatedAt": "2026-10-17T16:43:27Z"
   },
   {
     "id": "awb_bca5fe0a009fe19afcbd",
@@ -2880,7 +2897,7 @@
     "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T06:24:44Z"
+    "updatedAt": "2026-10-17T07:32:14Z"
   },
   {
     "id": "awb_14071a76ff99e347db57",
@@ -2901,7 +2918,7 @@
     "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T15:10:47Z"
+    "updatedAt": "2026-10-17T16:50:23Z"
   },
   {
     "id": "awb_32c80fc5df18943846fe",
@@ -2958,7 +2975,7 @@
     "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T11:30:13Z"
+    "updatedAt": "2026-10-17T12:50:33Z"
   },
   {
     "id": "awb_bbf03e36c28132e8c635",
@@ -3005,7 +3022,7 @@
     "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T15:25:07Z"
+    "updatedAt": "2026-10-17T21:05:24Z"
   },
   {
     "id": "awb_e4d15f3c9e83229d0ff9",
@@ -3029,7 +3046,7 @@
     "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T19:59:40Z"
+    "updatedAt": "2026-10-17T23:18:12Z"
   },
   {
     "id": "awb_77b01f8c37fb56b36fe4",
@@ -3050,7 +3067,7 @@
     "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T12:34:42Z"
+    "updatedAt": "2026-10-17T15:11:15Z"
   },
   {
     "id": "awb_082504f572fff8ca1fea",
@@ -3220,7 +3237,7 @@
     "favicon": "https://sportnation.nz/radio.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T13:04:40Z"
+    "updatedAt": "2026-10-17T14:42:35Z"
   },
   {
     "id": "awb_9a5ece9e368751366888",

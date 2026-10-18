@@ -2479,7 +2479,7 @@
     "favicon": "https://jazzy-backend-prod.melkweg.hu/jazzy-borito-fallback-cool.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T19:06:29Z"
+    "updatedAt": "2026-10-17T23:10:48Z"
   },
   {
     "id": "awb_7583c59f1cc4b438b6f8",
@@ -2501,7 +2501,7 @@
     "favicon": "https://jazzy-backend-prod.melkweg.hu/jazzy-borito-fallback-groove.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T17:16:46Z"
+    "updatedAt": "2026-10-18T00:27:08Z"
   },
   {
     "id": "awb_50c61d3acc5429ffbd7c",
@@ -2629,26 +2629,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_473e6a0a27683b8ae6c4",
-    "name": "Korona Fm100",
-    "country": "HU",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "http://82.141.165.6:8000/home.html?sid=1",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:50:21Z"
   },
   {
     "id": "awb_fc6d93190b5721a02479",
@@ -5041,6 +5021,125 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_9ba68f10c5896e17579f",
+    "name": "Radio-D - Jazz",
+    "country": "HU",
+    "subdivision": null,
+    "languages": [
+      "hu"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz"
+    ],
+    "homepage": "https://radio-d.hu/?csatorna=jazz",
+    "favicon": "https://radio-d.hu/ikon/ikon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T10:10:05Z"
+  },
+  {
+    "id": "awb_aec0e822ab14ac55d908",
+    "name": "Radio-D - Magyar Nóta",
+    "country": "HU",
+    "subdivision": null,
+    "languages": [
+      "hu"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "gypsy music",
+      "hungarian folk"
+    ],
+    "homepage": "https://radio-d.hu/?csatorna=magyar-nota",
+    "favicon": "https://radio-d.hu/ikon/ikon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T09:04:37Z"
+  },
+  {
+    "id": "awb_317b03a52a2dde8e0ffe",
+    "name": "Radio-D - Musical",
+    "country": "HU",
+    "subdivision": null,
+    "languages": [
+      "hu"
+    ],
+    "categories": [],
+    "tags": [
+      "musical",
+      "showtunes"
+    ],
+    "homepage": "https://radio-d.hu/?csatorna=musical",
+    "favicon": "https://radio-d.hu/ikon/ikon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T17:09:29Z"
+  },
+  {
+    "id": "awb_9f741e13a1a7982b7a0c",
+    "name": "Radio-D - Opera",
+    "country": "HU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio-d.hu/?csatorna=opera",
+    "favicon": "https://radio-d.hu/ikon/ikon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T08:59:59Z"
+  },
+  {
+    "id": "awb_c4a35b9eca469e3b82a4",
+    "name": "Radio-D - Operett",
+    "country": "HU",
+    "subdivision": null,
+    "languages": [
+      "hu"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical",
+      "operetta"
+    ],
+    "homepage": "https://radio-d.hu/?csatorna=operett",
+    "favicon": "https://radio-d.hu/ikon/ikon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T09:14:00Z"
+  },
+  {
+    "id": "awb_c38158a79dbbefe9a50a",
+    "name": "Radio-D - Pop Rock",
+    "country": "HU",
+    "subdivision": null,
+    "languages": [
+      "hu"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://radio-d.hu/?csatorna=pop-rock",
+    "favicon": "https://radio-d.hu/ikon/ikon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T15:48:14Z"
   },
   {
     "id": "awb_1d9a6bc43497cc11b975",

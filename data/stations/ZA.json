@@ -340,20 +340,6 @@
     "updatedAt": "2026-05-24T11:40:29Z"
   },
   {
-    "id": "awb_608fd9acb7f06eefde57",
-    "name": "BLU RADIIO",
-    "country": "ZA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiio.link/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-03T17:42:31Z"
-  },
-  {
     "id": "awb_cb7960e5ee63d906aa42",
     "name": "Bok Radio",
     "country": "ZA",
@@ -487,6 +473,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-14T15:08:22Z"
+  },
+  {
+    "id": "awb_e4d65708d0520b5ec74d",
+    "name": "CAPE COAST RADIO",
+    "country": "ZA",
+    "subdivision": "Cape Town",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.capecoastradio.co.za/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T07:58:19Z"
   },
   {
     "id": "awb_0171080d7c2dc0b17a0e",
@@ -2210,43 +2210,6 @@
     "updatedAt": "2026-01-18T09:28:33Z"
   },
   {
-    "id": "awb_9fa9dafb18107140ed49",
-    "name": "Radiio",
-    "country": "ZA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "ai dj",
-      "blu radiio",
-      "cape town",
-      "club",
-      "dance",
-      "deep house",
-      "dj",
-      "downtempo",
-      "drum and bass",
-      "dubstep",
-      "electronic",
-      "house",
-      "melodic techno",
-      "progressive house",
-      "south africa",
-      "tech house",
-      "techno",
-      "underground"
-    ],
-    "homepage": "https://radiio.link/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-06T17:24:03Z"
-  },
-  {
     "id": "awb_0fd7382d009c941d1b9f",
     "name": "Radio 786",
     "country": "ZA",
@@ -2287,25 +2250,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-13T20:44:17Z"
-  },
-  {
-    "id": "awb_67c1cdf3c2ea7041fc82",
-    "name": "Radio Daspoort",
-    "country": "ZA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop rock"
-    ],
-    "homepage": "https://c44.radioboss.fm:8174/stream",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-22T09:34:18Z"
   },
   {
     "id": "awb_d5afa2475fcdb35c13d9",

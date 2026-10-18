@@ -358,20 +358,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_aa798a76ff3432e3fb2f",
-    "name": "1079 life - Good Taste Radio",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mylifefm.com/",
-    "favicon": "https://mylifefm.com/wp-content/uploads/2023/10/a.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_90522100ae9539c9fa99",
     "name": "1116 SEN Melbourne",
     "country": "AU",
@@ -2761,6 +2747,20 @@
     "updatedAt": "2026-01-15T02:11:33Z"
   },
   {
+    "id": "awb_12fc59e1bb9cdadd9046",
+    "name": "4BH",
+    "country": "AU",
+    "subdivision": "Brisbane QLD",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.4bh.com.au/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T05:37:21Z"
+  },
+  {
     "id": "awb_8d63c40fec4751928c1e",
     "name": "4BU - Bundaberg - 1332 AM (AAC+)",
     "country": "AU",
@@ -4089,7 +4089,7 @@
     "favicon": "https://terminal-dystopia.com/images/radio.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-12T17:34:39Z"
+    "updatedAt": "2026-10-17T18:15:36Z"
   },
   {
     "id": "awb_8b6bb977e85c1c6bf113",
@@ -5824,30 +5824,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-19T22:19:39Z"
-  },
-  {
-    "id": "awb_029505f55ba1da8900d0",
-    "name": "ABC Grandstand Radio",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "live sports",
-      "sport",
-      "sports",
-      "sports talk"
-    ],
-    "homepage": "https://www.abc.net.au/news/sport/audio",
-    "favicon": "https://static.wikia.nocookie.net/logopedia/images/0/03/ABCSport_2020-thumb.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-19T09:38:30Z"
   },
   {
     "id": "awb_e84611ca19a53c7f3f1b",
@@ -8951,7 +8927,7 @@
     "favicon": "https://aspradio.au/static/uploads/browser_icon/original.1709873524.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-16T22:44:37Z"
+    "updatedAt": "2026-10-17T19:57:32Z"
   },
   {
     "id": "awb_a1ad733d531b36b1afea",
@@ -17504,26 +17480,6 @@
     "updatedAt": "2026-01-15T03:01:40Z"
   },
   {
-    "id": "awb_f38ea0467e39ff780652",
-    "name": "Coral Coast Radio - Bundaberg - 94.7 FM (MP3)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio"
-    ],
-    "homepage": "https://www.coralcoastradio.net.au/",
-    "favicon": "https://i.ibb.co/qdV8Z1N/305485245-493577782777736-7994360038483179378-n.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:06:32Z"
-  },
-  {
     "id": "awb_b9aa07c3293a04b98343",
     "name": "COW FM - Casino - 107.9 FM (AAC)",
     "country": "AU",
@@ -21863,8 +21819,8 @@
     "homepage": "https://play.listnr.com/station/aussie-dance",
     "favicon": "https://play.listnr.com/favicon/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T01:20:44Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:03:21Z"
   },
   {
     "id": "awb_6cc594ca09bb39b0d52d",
@@ -21981,8 +21937,8 @@
     "homepage": "https://play.listnr.com/station/billion-streams-club",
     "favicon": "https://i.ibb.co/rKJQ1Z31/Li-STNR-Square-Tile-1200x1200-BILLION-STREAMS-CLUB.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:06:32Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T02:47:38Z"
   },
   {
     "id": "awb_0045c1dcff40c88b8ec8",
@@ -22096,7 +22052,7 @@
     "homepage": "https://play.listnr.com/station/chill-electronic",
     "favicon": "https://i.ibb.co/xtMdR8zy/Li-STNR-Square-Tile-3000x3000-CHILL-ELECTRONIC.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T04:49:59Z"
   },
   {
@@ -22387,7 +22343,7 @@
     "homepage": "https://play.listnr.com/station/drum-and-bass",
     "favicon": "https://i.ibb.co/QCHF7jZ/Drum-and-Bass-square.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T08:33:25Z"
   },
   {
@@ -22448,8 +22404,8 @@
     "homepage": "https://play.listnr.com/station/essential-emo",
     "favicon": "https://i.ibb.co/ns28SDB0/Li-STNR-Square-Tile-3000x3000-ESSENTIAL-EMO.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:03:36Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T07:36:10Z"
   },
   {
     "id": "awb_9bb532a73c03f65532f3",
@@ -22562,7 +22518,7 @@
     "homepage": "https://play.listnr.com/station/festival-bangers",
     "favicon": "https://i.ibb.co/M6xksh7/Festival-Bangers-square.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T05:26:25Z"
   },
   {
@@ -23083,8 +23039,8 @@
     "homepage": "https://play.listnr.com/station/k-pop",
     "favicon": "https://i.ibb.co/BHNT0d5s/Li-STNR-Square-Tile-1200x1200-K-POP.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:38:09Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T07:11:09Z"
   },
   {
     "id": "awb_10a7e8b7a071c9a429d4",
@@ -23205,7 +23161,7 @@
     "homepage": "https://play.listnr.com/station/lofi-study-beats",
     "favicon": "https://i.ibb.co/20q25TFf/Li-STNR-Square-Tile-1200x1200-LO-FI-STUDY-BEATS.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T02:50:21Z"
   },
   {
@@ -23480,8 +23436,8 @@
     "homepage": "https://play.listnr.com/station/pride",
     "favicon": "https://i.ibb.co/GvnKJXXw/Li-STNR-Square-Tile-1200x1200-PRIDE.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T05:25:41Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T02:25:18Z"
   },
   {
     "id": "awb_7857e301c421a40bd859",
@@ -23600,8 +23556,8 @@
     "homepage": "https://play.listnr.com/station/rap-revolution",
     "favicon": "https://i.ibb.co/dwwgg1z8/Li-STNR-Square-Tile-3000x3000-RAP-REVOLUTION.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:27:43Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:37:59Z"
   },
   {
     "id": "awb_2b22c79c17587857450a",
@@ -23663,8 +23619,8 @@
     "homepage": "https://play.listnr.com/station/rnb-chill",
     "favicon": "https://i.ibb.co/PvhyyQ84/Li-STNR-Square-Tile-1200x1200-RNB-CHILL.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:17:04Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:07:32Z"
   },
   {
     "id": "awb_0d5b26ae454d5bf1130c",
@@ -23781,7 +23737,7 @@
     "homepage": "https://play.listnr.com/station/run-club",
     "favicon": "https://i.ibb.co/Hp35xdtx/Li-STNR-UAC-1200x1200-RUN-CLUB.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T04:06:37Z"
   },
   {
@@ -24718,25 +24674,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:38:09Z"
-  },
-  {
-    "id": "awb_c02c89910c519ed58a92",
-    "name": "MyFM Perth",
-    "country": "AU",
-    "subdivision": "Western Australia",
-    "languages": [],
-    "categories": [
-      "punk"
-    ],
-    "tags": [
-      "punk",
-      "ska"
-    ],
-    "homepage": "https://www.myfmperth.com/",
-    "favicon": "https://i.imgur.com/wRTcyQh.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-15T02:13:39Z"
   },
   {
     "id": "awb_aee7fde8b7e7da1824e1",
@@ -32853,26 +32790,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-22T00:10:02Z"
-  },
-  {
-    "id": "awb_28d3dfc20fe7a623f40d",
-    "name": "Trax FM Port Pirie",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community"
-    ],
-    "homepage": "https://traxfm.org.au/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:47:23Z"
   },
   {
     "id": "awb_18e45bc780d10115ea1d",
