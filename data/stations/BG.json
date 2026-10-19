@@ -164,8 +164,8 @@
     "homepage": "https://badrockradio.net/",
     "favicon": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-23"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-18T17:17:28Z"
   },
   {
     "id": "awb_c8882d24fb65be524286",
@@ -240,13 +240,14 @@
     "id": "awb_35fbc0cdf40cfda5afb5",
     "name": "BadRock Radio",
     "country": "BG",
-    "subdivision": null,
+    "subdivision": "Sofia",
     "languages": [],
     "categories": [
       "metal",
       "rock"
     ],
     "tags": [
+      "classic rock",
       "hard rock",
       "hardcore",
       "heavy metal",
@@ -259,8 +260,8 @@
     "homepage": "https://www.badrockradio.net/",
     "favicon": "https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-18T17:15:33Z"
   },
   {
     "id": "awb_6214ca15dc8c8c2a0c7e",
@@ -6289,6 +6290,20 @@
     "updatedAt": "2026-01-15T08:05:02Z"
   },
   {
+    "id": "awb_d87209ba957558d16a55",
+    "name": "Радио Рибка.бг",
+    "country": "BG",
+    "subdivision": "Bulgaria",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://xn--80abuj1a.xn--90ae/",
+    "favicon": "https://xn--80abuj1a.xn--90ae/wp-content/uploads/2026/08/cropped-a-fish-is-caught-on-a-fishing-rod-hooked-and-struggling-to-get-free-a-minimalist-logo-of-a-fishing-rod-and-reel-minimalist-simple-modern-logo-design-free-vector-1-192x192.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T04:00:46Z"
+  },
+  {
     "id": "awb_b0344c59f6cf8f9c9d57",
     "name": "Радио Севтополис",
     "country": "BG",
@@ -6395,9 +6410,9 @@
   },
   {
     "id": "awb_ceac03347026f81dacb7",
-    "name": "��� � ����� �����������",
+    "name": "��� � ����� �����",
     "country": "BG",
-    "subdivision": "Blagoevgrad",
+    "subdivision": "Sofia City",
     "languages": [
       "bg"
     ],
@@ -6411,7 +6426,7 @@
       "public radio",
       "talk"
     ],
-    "homepage": "https://bnrnews.bg/blagoevgrad",
+    "homepage": "https://bnrnews.bg/sofia",
     "favicon": null,
     "type": "public",
     "sourceCount": 8,

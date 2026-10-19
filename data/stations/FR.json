@@ -3653,6 +3653,27 @@
     "updatedAt": "2026-07-15T17:51:48Z"
   },
   {
+    "id": "awb_5a11c8cec45e7c4dbd03",
+    "name": "Alouette FM",
+    "country": "FR",
+    "subdivision": "les herbiers",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "retro"
+    ],
+    "homepage": "https://www.alouette.fr/",
+    "favicon": "https://i.imgur.com/27r4zT2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T17:07:52Z"
+  },
+  {
     "id": "awb_58bc3c73b4c6bc1df294",
     "name": "ALOUETTE INDIE",
     "country": "FR",
@@ -5156,7 +5177,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao-Radio",
+    "name": "Cacao Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -18310,8 +18331,8 @@
       "love-songs",
       "pop"
     ],
-    "homepage": "https://hotmixradio.com/",
-    "favicon": "https://cdn.hotmixradio.com/hotmix-love-fr-mp3.jpg",
+    "homepage": "https://www.hotmixradio.com/",
+    "favicon": "https://www.hotmixradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -19555,7 +19576,7 @@
       "radio locale"
     ],
     "homepage": "https://www.ici.fr/radio/breizh-izel",
-    "favicon": "https://www.ici.fr/favicon56.png",
+    "favicon": "https://www.ici.fr/images/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T10:24:25Z"
@@ -21240,6 +21261,27 @@
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-01-15T05:17:36Z"
+  },
+  {
+    "id": "awb_fd05d3d16373077d2dec",
+    "name": "Kalizo Radio Lo-fi",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "chillout",
+      "lo-fi"
+    ],
+    "homepage": "https://www.kalizoradio.com/",
+    "favicon": "https://www.kalizoradio.com/images/lofi-square.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T06:42:03Z"
   },
   {
     "id": "awb_ecd74784cae19bf287c3",
@@ -25276,6 +25318,27 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_07ad2c08f51e12b8c37c",
+    "name": "Mix Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "top 40",
+      "top hits"
+    ],
+    "homepage": "https://mixradio.fr/",
+    "favicon": "https://mixradio.fr/wp-content/uploads/2026/01/logo-mixradio-2026-770x770.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T08:53:18Z"
+  },
+  {
     "id": "awb_2f4966f9b238b8b4fbfa",
     "name": "MixFeever",
     "country": "FR",
@@ -25674,7 +25737,7 @@
       "study"
     ],
     "homepage": "https://mugenradio.com/",
-    "favicon": "https://mugenradio.com/cover-mugen-300.png",
+    "favicon": "https://mugenradio.com/cover-mugen-3000.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-06-25T15:09:39Z"
@@ -26745,6 +26808,27 @@
     "type": "internet",
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:53:49Z"
+  },
+  {
+    "id": "awb_b0ddfbaa98e66219e624",
+    "name": "Nostalgie FM",
+    "country": "FR",
+    "subdivision": "Paris",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "retro"
+    ],
+    "homepage": "https://www.nostalgie.fr/",
+    "favicon": "https://i.imgur.com/hR4vkRx.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T17:43:02Z"
   },
   {
     "id": "awb_8bdb51dd4bc802c1ac70",
@@ -36406,6 +36490,25 @@
     "updatedAt": "2026-10-14T22:37:35Z"
   },
   {
+    "id": "awb_5b236e10b116137400f8",
+    "name": "Radio BouiBoui",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "food",
+      "world music"
+    ],
+    "homepage": "https://www.independancebouiboui.fr/",
+    "favicon": "https://www.independancebouiboui.fr/wp-content/uploads/2026/06/IMG_2069-768x768.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T14:58:25Z"
+  },
+  {
     "id": "awb_47902871a3dad6e20001",
     "name": "radio braquage",
     "country": "FR",
@@ -40690,6 +40793,20 @@
     "updatedAt": "2026-02-19T16:03:03Z"
   },
   {
+    "id": "awb_3ee372370613a0b7f115",
+    "name": "Radio Oxygène",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.oxygeneradio.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T07:29:54Z"
+  },
+  {
     "id": "awb_ca7d95c6acef332a5024",
     "name": "Radio PAC",
     "country": "FR",
@@ -42017,6 +42134,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:09:01Z"
+  },
+  {
+    "id": "awb_e233c32b8a0ddcf515bd",
+    "name": "Radio Studio 20",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "news",
+      "regional"
+    ],
+    "homepage": "https://www.studio20.corsica/",
+    "favicon": "https://static.wixstatic.com/media/d42bf4_b344263d4a55490ca46d1c3a67655bc6~mv2.png/v1/fill/w_180,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d42bf4_b344263d4a55490ca46d1c3a67655bc6~mv2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T14:58:25Z"
   },
   {
     "id": "awb_5c979554332986173553",
@@ -45292,6 +45432,24 @@
     "updatedAt": "2026-01-15T07:52:50Z"
   },
   {
+    "id": "awb_3e050152e9c0639b6101",
+    "name": "RLM Bastia",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "radio lycées montesoro"
+    ],
+    "homepage": "https://rlmbastia.com/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3JFWKxQeV56JN_4An79jMb97xBIFFwaLNPJ4XbH_vw&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T14:31:48Z"
+  },
+  {
     "id": "awb_5b1d916d2d75e236742a",
     "name": "Rlocale Radio",
     "country": "FR",
@@ -47696,7 +47854,7 @@
       "talk"
     ],
     "homepage": "https://www.tbm06.fr/radio/",
-    "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
+    "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-20T17:58:29Z"
@@ -48391,7 +48549,7 @@
   },
   {
     "id": "awb_1cfef3b6daad55befecd",
-    "name": "Ulia.radio",
+    "name": "Ulia.Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -48415,7 +48573,7 @@
       "top hits"
     ],
     "homepage": "https://ulia.radio/",
-    "favicon": "https://ulia.radio/storage/identite/logo_1789401939.svg",
+    "favicon": "https://ulia.radio/storage/identite/default-cover_1787171528.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-23T14:23:51Z"
@@ -49620,6 +49778,35 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_27f44c37770984c8958e",
+    "name": "Voce Nustrale",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "co"
+    ],
+    "categories": [
+      "classical",
+      "folk",
+      "jazz",
+      "news",
+      "sports"
+    ],
+    "tags": [
+      "classical",
+      "folk",
+      "jazz",
+      "local music",
+      "news",
+      "sports"
+    ],
+    "homepage": "https://www.voce.pro/",
+    "favicon": "https://www.voce.pro//images/logo-voce-nustrale.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T14:29:44Z"
+  },
+  {
     "id": "awb_90b664e3f25ee4ad7ab3",
     "name": "Vogue Radio",
     "country": "FR",
@@ -50310,6 +50497,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:32:55Z"
+  },
+  {
+    "id": "awb_0bc816ce85f8b4605131",
+    "name": "YouRadio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "collaborative",
+      "hits",
+      "pop music"
+    ],
+    "homepage": "https://youradio.fr/",
+    "favicon": "https://youradio.fr/logo%20youradio%20OK%20milla%20sans%20fond.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T09:01:25Z"
   },
   {
     "id": "awb_da530574890febf26e63",

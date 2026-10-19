@@ -5953,7 +5953,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -5971,7 +5971,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://cfnj.net/",
+    "homepage": "http://www.cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -11074,6 +11074,27 @@
     "updatedAt": "2026-01-15T06:09:44Z"
   },
   {
+    "id": "awb_32f1c0c40e207ce830c4",
+    "name": "CIOG 91.3 \"PEI's Inspire FM\" - Charlottetown, Prince Edward Island",
+    "country": "CA",
+    "subdivision": "Prince Edward Island",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian preaching",
+      "gospel music"
+    ],
+    "homepage": "https://www.inspire.fm/",
+    "favicon": "https://assets.godcaster.fm/image_321_1766079914.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T00:28:39Z"
+  },
+  {
     "id": "awb_8e692a810d5095dd5c5b",
     "name": "CIOG-FM harvesters.fm",
     "country": "CA",
@@ -12186,6 +12207,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:05:52Z"
+  },
+  {
+    "id": "awb_1e5691a048a05c7dce2a",
+    "name": "CJAI 101.3 \"Island Radio\" - Stella, Ontario",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "bingo",
+      "community radio",
+      "music variety"
+    ],
+    "homepage": "https://www.cjai.ca/",
+    "favicon": "https://www.cjai.ca/_next/image?url=%2Fimages%2Fisland-radio-logo-sunset.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T23:59:05Z"
   },
   {
     "id": "awb_c6dd7ffc0dfc922ea4e9",
@@ -13321,6 +13364,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:37:27Z"
+  },
+  {
+    "id": "awb_0e3d2f2c4ccb16901338",
+    "name": "CJLU 93.9 \"Nova Scotia's Inspire FM\" Dartmouth/Halifax, Nova Scotia",
+    "country": "CA",
+    "subdivision": "Nova Scotia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian preaching",
+      "gospel music"
+    ],
+    "homepage": "http://www.inspire.fm/",
+    "favicon": "https://assets.godcaster.fm/image_322_1766079905.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T00:32:07Z"
   },
   {
     "id": "awb_fb117a28d50bfb78a986",
@@ -21458,6 +21522,28 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_0665f35f9bc554764e57",
+    "name": "Inspire FM \"Inspire Canadian\"",
+    "country": "CA",
+    "subdivision": "Prince Edward Island",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "canada",
+      "christian preaching",
+      "gospel music"
+    ],
+    "homepage": "http://www.inspire.fm/",
+    "favicon": "https://assets.godcaster.fm/image_277_1766080123.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T01:06:52Z"
+  },
+  {
     "id": "awb_a12ca66252d29463c41a",
     "name": "International Pagan Radio",
     "country": "CA",
@@ -26965,7 +27051,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto, ON",
+    "subdivision": "Toronto",
     "languages": [],
     "categories": [
       "jazz"
@@ -26974,7 +27060,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,

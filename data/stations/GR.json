@@ -9481,6 +9481,20 @@
     "updatedAt": "2026-06-28T08:29:05Z"
   },
   {
+    "id": "awb_4beaba43c1132aa3f756",
+    "name": "FORMedia 99.8",
+    "country": "GR",
+    "subdivision": "Volos",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.formediaradio.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/2b41ed04-29d4-4fab-96ee-19606e09c992.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T17:29:58Z"
+  },
+  {
     "id": "awb_92c6af1f874756689af9",
     "name": "Fraoulitsa",
     "country": "GR",
@@ -22664,6 +22678,34 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_73afb21326488f6aefb6",
+    "name": "Radio FM MELODY GR",
+    "country": "GR",
+    "subdivision": "Central Macedonia",
+    "languages": [
+      "el",
+      "en"
+    ],
+    "categories": [
+      "classical",
+      "latin",
+      "pop"
+    ],
+    "tags": [
+      "classical",
+      "greek music",
+      "instrumental",
+      "latin",
+      "pop",
+      "variety"
+    ],
+    "homepage": "https://mcr2.streams.gr/station/fmmelodygr",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-18T21:32:35Z"
   },
   {
     "id": "awb_78ab101e49aa9c477b03",

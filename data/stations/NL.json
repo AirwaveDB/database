@@ -3319,7 +3319,7 @@
     "tags": [
       "disco funk"
     ],
-    "homepage": "https://www.cubicspace.fm/",
+    "homepage": "http://www.cubicspace.fm/",
     "favicon": "http://music.cubicspace.fm:42424/mpeg",
     "type": null,
     "sourceCount": 2,
@@ -5023,8 +5023,8 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://glassrock.nl/",
-    "favicon": "https://glassrock.nl/grlogo.png",
+    "homepage": "http://www.glassrock.nl/",
+    "favicon": "https://www.glassrock.nl/images/GR%20Logo%20rm.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-08T14:11:56Z"
@@ -8913,6 +8913,20 @@
     "updatedAt": "2026-10-16T19:05:26Z"
   },
   {
+    "id": "awb_97b038577d11fde3c7ca",
+    "name": "Lucky Joe Radio",
+    "country": "NL",
+    "subdivision": "Nieuw Buinen",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.luckyjoe.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T12:00:55Z"
+  },
+  {
     "id": "awb_5191a7b0883f3e20a53c",
     "name": "LX Classics",
     "country": "NL",
@@ -9127,7 +9141,7 @@
     "id": "awb_8a0d399c51b7ae5a645a",
     "name": "MeerRadio",
     "country": "NL",
-    "subdivision": "Noord-Holland",
+    "subdivision": "Noord-Holland, Haarlemmermeer",
     "languages": [
       "nl"
     ],
@@ -9141,7 +9155,7 @@
       "local news",
       "pop music"
     ],
-    "homepage": "https://meerradio.nl/radio/luister-naar-meerradio/",
+    "homepage": "https://meerradio.nl/",
     "favicon": "https://meerradio.nl/wp-content/uploads/2023/07/Watermerk-meerradio.png",
     "type": "community",
     "sourceCount": 2,
@@ -11144,7 +11158,7 @@
     "id": "awb_a7dd28c5f273b7244e3a",
     "name": "Omroep Lekstroom",
     "country": "NL",
-    "subdivision": "Bergveste 2, DE HOUTEN",
+    "subdivision": "Utrecht, De Houten, Bergveste 2",
     "languages": [
       "nl"
     ],

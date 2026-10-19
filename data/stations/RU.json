@@ -221,6 +221,25 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_91e28ac1200817eab55e",
+    "name": "101.RU - Дискотека СССР",
+    "country": "RU",
+    "subdivision": "Moscow (Russia)",
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "nostalgia",
+      "retro"
+    ],
+    "homepage": "https://101.ru/radio/channel/144",
+    "favicon": "https://i.imgur.com/EQPXIuJ.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T17:56:01Z"
+  },
+  {
     "id": "awb_135e68c4271f5a67b0d9",
     "name": "101.ru ABBA",
     "country": "RU",
@@ -2845,7 +2864,7 @@
     "id": "awb_bb18e22d61efdf04b4fe",
     "name": "BRİDGE TV",
     "country": "RU",
-    "subdivision": "Moscow",
+    "subdivision": "Moscow (Russia)",
     "languages": [
       "en",
       "ru"
@@ -2856,7 +2875,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://bridgetv.ru/about/channels/",
+    "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
     "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
     "type": null,
     "sourceCount": 3,
@@ -5973,7 +5992,7 @@
       "house"
     ],
     "homepage": "https://kamchatkalive.ru/",
-    "favicon": "https://kamchatkalive.ru/img/dance.jpg",
+    "favicon": "https://kamchatkalive.ru/img/house.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-12T11:07:02Z"
@@ -21480,7 +21499,7 @@
   },
   {
     "id": "awb_bd594017bc56630ac7ca",
-    "name": "Radio Caprice Piano Blues / Boogie-Woogie",
+    "name": "Radio Caprice Piano Blues Boogie Woogie",
     "country": "RU",
     "subdivision": null,
     "languages": [
@@ -21496,7 +21515,7 @@
       "piano",
       "piano blues"
     ],
-    "homepage": "http://radcap.ru/",
+    "homepage": "http://www.radcap.ru/pianoblues.html",
     "favicon": "http://i.imgur.com/hSP42CX.jpg",
     "type": null,
     "sourceCount": 2,
@@ -28894,6 +28913,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_292fe4149809b6b3a110",
+    "name": "Vinyl drinks 33/13",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://radio.obakiri.ru/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T19:49:29Z"
   },
   {
     "id": "awb_3452be3e43bec183b45c",
@@ -37375,6 +37408,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:43:38Z"
+  },
+  {
+    "id": "awb_d40dad6d5e3ebfe3bd2f",
+    "name": "Песни всех времен",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://pub0102.101.ru:8443/stream/personal/aacp/64/792012",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T06:38:02Z"
   },
   {
     "id": "awb_72b86f5371fdccd10e94",
@@ -48907,7 +48956,7 @@
   },
   {
     "id": "awb_6a099e7d3c6d0b4bfad9",
-    "name": "ЧИСТАЯ ВОЛНА",
+    "name": "Чистая волна",
     "country": "RU",
     "subdivision": null,
     "languages": [

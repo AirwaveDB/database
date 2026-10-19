@@ -2773,6 +2773,28 @@
     "updatedAt": "2026-10-12T02:18:01Z"
   },
   {
+    "id": "awb_34bd75d464a9c318e281",
+    "name": "Radio Estación Techno",
+    "country": "PE",
+    "subdivision": "Lima",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "electrónica",
+      "techno"
+    ],
+    "homepage": "https://zeno.fm/radio/radio-estacion-techno/",
+    "favicon": "https://images.zeno.fm/ycAUeIJhOEBvJYomVKXnjb_5beYf9W6YTw-DTODw5mw/rs%3Afill%3A152%3A152/q%3A75/g%3Ace%3A0%3A0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F6ZmpzNndvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l6NFg3MkFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY0MjYwMzAwMA",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T18:25:16Z"
+  },
+  {
     "id": "awb_9afe85f2547db5208be0",
     "name": "Radio Estacion Techno",
     "country": "PE",
@@ -3597,7 +3619,7 @@
       "smooth jazz"
     ],
     "homepage": "https://latremenda.pe/",
-    "favicon": "https://renewed-amaranth-wsrjzdvewp.edgeone.app/logo_latremenda.jpg",
+    "favicon": "https://imgur.com/a/vahyGFo",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-08-24"
@@ -4263,6 +4285,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_791e158295f4565b73bb",
+    "name": "Radio peru andino",
+    "country": "PE",
+    "subdivision": "Lima",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "musica andina"
+    ],
+    "homepage": "https://onlineradiobox.com/pe/peruandino/?cs=pe.peruandino",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/5/144975.v5.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-19T04:27:41Z"
+  },
+  {
     "id": "awb_bc51fe9beeadefaa47f3",
     "name": "Radio Perú Andino",
     "country": "PE",
@@ -4272,13 +4312,14 @@
     ],
     "categories": [],
     "tags": [
-      "latinoamericanos"
+      "latinoamericanos",
+      "musica andina"
     ],
     "homepage": "https://onlineradiobox.com/pe/peruandino/?cs=pe.peruandino",
     "favicon": "https://i.postimg.cc/zfLJVqqw/logo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-17T01:22:48Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-10-19T04:32:14Z"
   },
   {
     "id": "awb_6ce1b31b85c9b6b80f98",
@@ -4872,6 +4913,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_738c09e668d1d29c0276",
+    "name": "Radio Techno",
+    "country": "PE",
+    "subdivision": "Lima",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "technos variados"
+    ],
+    "homepage": "https://sites.google.com/view/yo-escucho/",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/9/87229.v8.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T18:02:03Z"
+  },
+  {
     "id": "awb_1d0514dadce7f64bcd64",
     "name": "Radio Techno mix, 90's y más",
     "country": "PE",
@@ -4958,9 +5017,9 @@
   },
   {
     "id": "awb_4b79688d257d9ed6a2ab",
-    "name": "Radio TV. Sureña (Puno, Juliaca)",
+    "name": "Radio TV. Sureña - Puno, Juliaca",
     "country": "PE",
-    "subdivision": "Puno / Juliaca",
+    "subdivision": "Juliaca - Puno",
     "languages": [],
     "categories": [],
     "tags": [],

@@ -397,6 +397,35 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_0a56f29a81aa4e7b28e4",
+    "name": "Dr.DIO Radio",
+    "country": "UA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
+    "tags": [
+      "ambient",
+      "chillout",
+      "deep house",
+      "downtempo",
+      "electronic",
+      "focus",
+      "instrumental",
+      "lounge",
+      "study"
+    ],
+    "homepage": "https://drdio.studio/radio",
+    "favicon": "https://drdio.studio/static/channel_avatar.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T10:56:06Z"
+  },
+  {
     "id": "awb_e98ab230cb3ea572eb87",
     "name": "EQVE Radio",
     "country": "UA",
@@ -1104,8 +1133,8 @@
       "chillout",
       "lounge"
     ],
-    "homepage": "https://loungefm.com.ua/",
-    "favicon": "https://loungefm.com.ua/img/icon-144x144.png",
+    "homepage": "https://loungefm.com.ua/chill",
+    "favicon": "https://loungefm.com.ua/img/favicon/favicon.ico",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -4937,7 +4966,7 @@
       "kultur"
     ],
     "homepage": "https://ukr.radio/channel.html?channelID=3",
-    "favicon": "https://s2.vcdn.biz/static/f/4621116611/image.jpg",
+    "favicon": "https://www.tvchannellists.com/wiki/images/b/b1/Radio_Kultura.png",
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-09-01T18:39:43Z"
@@ -5157,7 +5186,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radio.nikopolnews.net/",
-    "favicon": "https://radio.nikopolnews.net/icons/favicon-512x512.svg",
+    "favicon": "https://radio.nikopolnews.net/img/640logonikopol.png",
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-09-10T08:30:45Z"

@@ -30307,22 +30307,25 @@
     "updatedAt": "2026-07-26T01:21:16Z"
   },
   {
-    "id": "awb_e998e4f83f58b6a17fcc",
-    "name": "Dead Air Radio - 24/7 Halloween Music",
+    "id": "awb_ce909e30732c879382ac",
+    "name": "Dead Dog Kennel Radio",
     "country": "US",
-    "subdivision": null,
+    "subdivision": "Alabama",
     "languages": [
       "en"
     ],
-    "categories": [],
-    "tags": [
-      "halloween music"
+    "categories": [
+      "electronic"
     ],
-    "homepage": "https://deadair.co/",
-    "favicon": "https://deadair.co/wp-content/uploads/2026/10/theme-builder-dw9RKFWQ37NOTUvi-scaled.png",
+    "tags": [
+      "edm",
+      "experimental electronic music"
+    ],
+    "homepage": "https://deaddogkennel.club/home/",
+    "favicon": "https://deaddogkennel.club/home/favicon.gif",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-18T02:01:22Z"
+    "updatedAt": "2026-10-18T17:56:01Z"
   },
   {
     "id": "awb_687f265082dc7adc4c29",
@@ -35662,7 +35665,7 @@
       "the nation’s premiere sports lineup"
     ],
     "homepage": "http://www.foxsportsradio.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NxjbCTIAKVhtl5ndaYjM2JHlo0g2Ksr8zYoHwos-vQ&s",
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5e972321d790eb6e190b8f7d",
     "type": null,
     "sourceCount": 7,
     "updatedAt": "2026-05-10T03:51:53Z"
@@ -37611,7 +37614,7 @@
       "oldies",
       "wisconsin"
     ],
-    "homepage": "https://classiccountrylegendsradio.neocities.org/",
+    "homepage": "https://classiccountrylegendsradio.neocities.org/goldenoldies",
     "favicon": "https://images.zeno.fm/oLsvZnvFd_rx-U_Xvki0Uu8RpK46_XVfSbMunX5q0us/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2JhNDE3OWEzLTExMjEtNDUwMi1hNGZkLTU0MjUzYWExNjg3YS9pbWFnZS8_dT0xNzkxMTQyNTg2NzEy.webp",
     "type": null,
     "sourceCount": 2,
@@ -43680,6 +43683,33 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_69822cc5e1d98f770314",
+    "name": "Integrity 2.0",
+    "country": "US",
+    "subdivision": "Liberty City",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "elfc",
+      "grand theft auto 4",
+      "gta 4",
+      "lazlow jones",
+      "live show",
+      "talk",
+      "the ballad of gay tony",
+      "the lost and damned"
+    ],
+    "homepage": "http://gtaradio.net/en/4/",
+    "favicon": "https://gta.wiki/images/thumb/Integrity-GTAIV-Logo.png/300px-Integrity-GTAIV-Logo.png?e77c2",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T18:36:58Z"
+  },
+  {
     "id": "awb_013334fa830460f8470d",
     "name": "Intense 102.9 fm",
     "country": "US",
@@ -48913,6 +48943,31 @@
     "updatedAt": "2026-01-15T04:44:38Z"
   },
   {
+    "id": "awb_72c35fb8fa9af153be0e",
+    "name": "KDKI-LP 103.9 Twin Falls, Idaho",
+    "country": "US",
+    "subdivision": "Idaho",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "1930",
+      "1930s",
+      "1940s",
+      "1950s",
+      "big band",
+      "classic jazz"
+    ],
+    "homepage": "https://www.kdki.org/",
+    "favicon": "https://cdn-profiles.tunein.com/s232298/images/logod.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T20:04:43Z"
+  },
+  {
     "id": "awb_ec26887ef867ef67e0cd",
     "name": "KDKR Radio",
     "country": "US",
@@ -49381,6 +49436,25 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:13:03Z"
+  },
+  {
+    "id": "awb_79fcda22c0117adc0d69",
+    "name": "KEFC-LP 100.5 \"Crossroads Radio\" Turlock, California",
+    "country": "US",
+    "subdivision": "California",
+    "languages": [],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian contemporary",
+      "christian preaching"
+    ],
+    "homepage": "https://www.crossroadsturlock.com/worship",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/65a6ef042eb1fa3f7d52485d/392ac182-df62-4996-aa67-6390c7397af5/Crossroads+Radio.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T13:27:31Z"
   },
   {
     "id": "awb_e48ffb260ba8a1172434",
@@ -51098,6 +51172,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:25:40Z"
+  },
+  {
+    "id": "awb_2652cab6ab9c159a7637",
+    "name": "KGGG \"Glory 104.3\" Jonesboro, Arkansas",
+    "country": "US",
+    "subdivision": "Arkansas",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "bible teaching",
+      "black gospel"
+    ],
+    "homepage": "https://glory.fm/",
+    "favicon": "https://glory.fm/wp-content/uploads/2024/12/Glory-FM-Logo-Transparent-1024x1024-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T17:27:25Z"
   },
   {
     "id": "awb_02f9b04d473bdeaefba1",
@@ -55264,6 +55359,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:22:50Z"
+  },
+  {
+    "id": "awb_4641f7233fd3fb120d8a",
+    "name": "KNHA 100.9 \"Yosemite Radio\" - Coulterville, California",
+    "country": "US",
+    "subdivision": "California",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "music variety"
+    ],
+    "homepage": "https://yosemiteradio.org/",
+    "favicon": "https://i0.wp.com/yosemiteradio.org/wp-content/uploads/2025/10/NevermoreRavenBG2c.jpg",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T12:26:05Z"
   },
   {
     "id": "awb_9d0d25476f5913f4e367",
@@ -59521,6 +59637,20 @@
     "updatedAt": "2026-01-15T03:53:54Z"
   },
   {
+    "id": "awb_3fbaa6b9510ffb523f3d",
+    "name": "KSKQ Community Radio",
+    "country": "US",
+    "subdivision": "Ashland, Oregon",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://kskq.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T22:23:33Z"
+  },
+  {
     "id": "awb_2931a07e54187289f933",
     "name": "KSL NewsRadio",
     "country": "US",
@@ -61980,6 +62110,25 @@
     "updatedAt": "2026-01-15T05:35:49Z"
   },
   {
+    "id": "awb_b1e44be834ba73580280",
+    "name": "KVAN 91.7 - Tucson, Arizona",
+    "country": "US",
+    "subdivision": "Arizona",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "new age",
+      "world music"
+    ],
+    "homepage": "https://kvan.fm/",
+    "favicon": "https://kvan.fm/view/images/kvan-3d-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T17:11:39Z"
+  },
+  {
     "id": "awb_771a6033bd53b5aea34c",
     "name": "KVCR 91.9 FM Inland Public Radio San Bernardino Community College",
     "country": "US",
@@ -62996,6 +63145,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:13:35Z"
+  },
+  {
+    "id": "awb_e37399b87c5a97fde437",
+    "name": "KWSS 93.9 - Scottsdale/Phoenix, Arizona",
+    "country": "US",
+    "subdivision": "Arizona",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "variety"
+    ],
+    "homepage": "https://kwss.org/",
+    "favicon": "https://kwss.org/wp-content/uploads/KWSS-20TH-ANNIVERSARY-1-465x465.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T17:15:33Z"
   },
   {
     "id": "awb_fba2bf7388d6d5392c0d",
@@ -66136,22 +66306,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-24T10:43:10Z"
-  },
-  {
-    "id": "awb_e3715a78bb956ac7ae7e",
-    "name": "Live 105.5fm",
-    "country": "US",
-    "subdivision": "Buenaventura",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.live1055.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-18T04:39:13Z"
   },
   {
     "id": "awb_62e808188dd7142f1a5d",
@@ -72101,29 +72255,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-31T20:03:26Z"
-  },
-  {
-    "id": "awb_dd74cda3962c1535749a",
-    "name": "NewsTalk 93.9 & 910 WSBA",
-    "country": "US",
-    "subdivision": "Pennsylvania",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "news talk",
-      "talk"
-    ],
-    "homepage": "https://www.newstalkwsba.com/",
-    "favicon": "https://media-cdn.socastsrm.com/uploads/station/3321/squareIcon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-18T01:40:57Z"
   },
   {
     "id": "awb_ac4e959d1a68eff5daf4",
@@ -87225,6 +87356,20 @@
     "updatedAt": "2026-10-15T19:28:30Z"
   },
   {
+    "id": "awb_f94cd0f2a77be2fa707d",
+    "name": "RTVRadio Soul R&B",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://rtvradio.50webs.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T13:08:06Z"
+  },
+  {
     "id": "awb_b979d05e8e810b344746",
     "name": "RTVRadio Top1000",
     "country": "US",
@@ -91199,7 +91344,7 @@
     "tags": [
       "bossa nova"
     ],
-    "homepage": "https://somafm.com/player/#/now-playing/bossa",
+    "homepage": "https://somafm.com/",
     "favicon": "https://somafm.com/logos/400/bossa-400.jpg",
     "type": null,
     "sourceCount": 2,
@@ -94723,6 +94868,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_0a810c1d69971e3ef33f",
+    "name": "Stargate Radio",
+    "country": "US",
+    "subdivision": "Missouri",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio.generaljackoneill.space/public/stargate_radio",
+    "favicon": "https://radio.generaljackoneill.space/static/uploads/stargate_radio/background.1789868315.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T06:08:37Z"
   },
   {
     "id": "awb_ea062ceb46297143a06b",
@@ -102903,6 +103064,22 @@
     "updatedAt": "2026-08-10T19:48:13Z"
   },
   {
+    "id": "awb_e2a957c0ff03c33d3aa7",
+    "name": "Universe Night Radio",
+    "country": "US",
+    "subdivision": "CA",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://universenightradio.blogspot.com/",
+    "favicon": "https://universenightradio.blogspot.com/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T16:22:16Z"
+  },
+  {
     "id": "awb_d43cec6db9d81087dd5d",
     "name": "University Of Oregon - KWAX",
     "country": "US",
@@ -103629,6 +103806,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_b390325d423aeac29249",
+    "name": "Vice City Public Radio (VCPR)",
+    "country": "US",
+    "subdivision": "Vice City",
+    "languages": [],
+    "categories": [
+      "public",
+      "talk"
+    ],
+    "tags": [
+      "grand theft auto",
+      "gta",
+      "liberty city",
+      "public radio",
+      "public talk radio",
+      "vice city"
+    ],
+    "homepage": "https://gtaradio.net/vc/",
+    "favicon": "https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T18:44:44Z"
   },
   {
     "id": "awb_6f40d34643a06c1d16bd",
@@ -104993,6 +105194,20 @@
     "updatedAt": "2026-01-15T08:10:11Z"
   },
   {
+    "id": "awb_eaae76e373582000e34c",
+    "name": "WAQM The Legacy",
+    "country": "US",
+    "subdivision": "MI",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://rebrand.ly/waqm",
+    "favicon": "https://image.live365.com/download/3c3dbf43-8d2d-41ef-8545-92e8266351bb.png/400/image.webp",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-19T02:07:26Z"
+  },
+  {
     "id": "awb_e9970c37a5ceeb063fe7",
     "name": "War Room",
     "country": "US",
@@ -105734,6 +105949,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_fd2f6beb2686960a2a12",
+    "name": "WBED \"Fun 90.1\" Bedford, Indiana",
+    "country": "US",
+    "subdivision": "Indiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "classic hits"
+    ],
+    "homepage": "http://wbedfm.com/",
+    "favicon": "http://wbedfm.com/images1/FUNFM-F-6X4.gif",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T19:43:48Z"
   },
   {
     "id": "awb_c9b30f46432facbb1f13",
@@ -113348,6 +113583,27 @@
     "updatedAt": "2026-01-15T03:53:54Z"
   },
   {
+    "id": "awb_ce5fe58e08b82b466142",
+    "name": "WITT 91.9 \"Unpredictable Radio\" Indianapolis, Indiana",
+    "country": "US",
+    "subdivision": "Indiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "music variety"
+    ],
+    "homepage": "https://919witt.org/",
+    "favicon": "https://radiorethink.s3.us-west-2.amazonaws.com/img/stations/witt/WITT-Tuner-Logo.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T19:21:56Z"
+  },
+  {
     "id": "awb_e53efc163a740129d2e5",
     "name": "WIUX - 99.1 FM",
     "country": "US",
@@ -113989,30 +114245,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_5670ff987e93036f08ff",
-    "name": "WJLD 1400 AM/104.1 FM/9.5 TV -",
-    "country": "US",
-    "subdivision": "Alabama",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "blues",
-      "religious"
-    ],
-    "tags": [
-      "african american",
-      "black gospel",
-      "classic soul",
-      "rhythm & blues"
-    ],
-    "homepage": "https://wjldradio.com/",
-    "favicon": "https://img1.wsimg.com/isteam/ip/f61cdb6c-9607-4252-8a13-2d40df4c8424/blob-b3e9c27.png/:/rs=w:101,h:70,cg:true,m/cr=w:101,h:70/qt=q:95",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-18T01:53:08Z"
   },
   {
     "id": "awb_67be753299add73fbce8",
@@ -115303,6 +115535,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_97f2429b32348dac06a0",
+    "name": "WKTT 106.6 (We Know The Truth)",
+    "country": "US",
+    "subdivision": "Liberty City",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "political talk",
+      "talk"
+    ],
+    "homepage": "https://gtaradio.net/",
+    "favicon": "https://gta.wiki/images/ViceCityFM.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T18:33:00Z"
   },
   {
     "id": "awb_1dd482c3f2b4dba8dc11",
@@ -120812,6 +121065,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_7bed575f95260311c78d",
+    "name": "WQRT 99.1 Indianapolis, Indiana",
+    "country": "US",
+    "subdivision": "Indiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "music variety"
+    ],
+    "homepage": "https://www.wqrt.org/",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/58ac7b1cb8a79be9101a74f2/1611607009841-33UO30SO12X8MDAE2SP6/WQRT-logo-color-hor-B.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T20:04:43Z"
   },
   {
     "id": "awb_9488de69b2791bd56c45",
@@ -128359,6 +128633,26 @@
     "updatedAt": "2026-01-15T05:42:32Z"
   },
   {
+    "id": "awb_beb8f0c997694fe0d60c",
+    "name": "WWSW \"3WS\" 94.5 Pittsburgh, Pennsylvania",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "classic hits"
+    ],
+    "homepage": "https://3wsradio.iheart.com/",
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5a4bec7c6e790cf170e0c917?ops=gravity(%22center%22),contain(300,300)&quality=80",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T20:18:53Z"
+  },
+  {
     "id": "awb_dd4292649adeda22a942",
     "name": "WWUC - Mix 96.7 - Union City, Pennsylvania",
     "country": "US",
@@ -129264,6 +129558,31 @@
     "updatedAt": "2026-10-15T04:09:35Z"
   },
   {
+    "id": "awb_b7bfeddba0ee0c6e7753",
+    "name": "WYAR 88.3 \"Heritage Radio\" Yarmouth, Maine",
+    "country": "US",
+    "subdivision": "Maine",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "1920s",
+      "1930s",
+      "1940s",
+      "1950s",
+      "78rpm",
+      "big bands",
+      "ragtime",
+      "vintage music"
+    ],
+    "homepage": "https://wyar.org/",
+    "favicon": "https://dqa4a6x5zonsi.cloudfront.net/img/stations/wyar/WYAR-Player-Logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T20:00:38Z"
+  },
+  {
     "id": "awb_7557900a8a538d428e14",
     "name": "WYCE",
     "country": "US",
@@ -129512,6 +129831,27 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_57d1107ce1cc947698fe",
+    "name": "WYRZ 98.9 Brownsburg, Indiana",
+    "country": "US",
+    "subdivision": "Indiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "oldies & retro hits 70s 80s 90s 00s"
+    ],
+    "homepage": "https://wyrz.org/",
+    "favicon": "https://players.rcast.net/uploads/images/202312/img_x300_65784d857b7b21-93739177-44143589.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T20:00:38Z"
+  },
+  {
     "id": "awb_1ccf748784e7b9f2b277",
     "name": "WYSO 91.3 Yellow Springs, OH",
     "country": "US",
@@ -129551,6 +129891,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_64aff5ca5feb85fd4e93",
+    "name": "WYTJ 89.3 Linton, Indiana",
+    "country": "US",
+    "subdivision": "Indiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "baptist",
+      "bible reading",
+      "bible teaching",
+      "christian preaching",
+      "gospel music",
+      "sermon"
+    ],
+    "homepage": "https://www.wytjradio.com/",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/5d3459a44d62b70001f6fdb0/73ba6e89-f95a-47f5-b8a9-30852a9f1c9b/Standard+Logo+%28bright+subtitle%29.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T19:20:04Z"
   },
   {
     "id": "awb_1abd7073f60b18f27256",
@@ -129985,6 +130350,28 @@
     "updatedAt": "2026-08-13T21:11:12Z"
   },
   {
+    "id": "awb_c0847c3e3e7af997724c",
+    "name": "WZPH 96.7 \"The Zephyr\" - Zephyrhills, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "classic hits 60s 70a 80s",
+      "deep cuts"
+    ],
+    "homepage": "https://www.wzphfm.com/",
+    "favicon": "https://static.wixstatic.com/media/e9f0af_7ff9cb2d4c824bfb8335cad576d2ae18~mv2.png/v1/fill/w_314,h_224,al_c,lg_1,q_85,enc_avif,quality_auto/e9f0af_7ff9cb2d4c824bfb8335cad576d2ae18~mv2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T17:15:33Z"
+  },
+  {
     "id": "awb_33905ae0df5a0b755554",
     "name": "WZPP 92.7",
     "country": "US",
@@ -130202,22 +130589,6 @@
     "updatedAt": "2026-01-15T05:09:14Z"
   },
   {
-    "id": "awb_d823f202a95bdb95ef32",
-    "name": "X Radio",
-    "country": "US",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "international"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_f54284bdb6d28d13ea35",
     "name": "X Treme Vibes Radio -- The rhythm of the People!",
     "country": "US",
@@ -130237,6 +130608,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-11T10:56:32Z"
+  },
+  {
+    "id": "awb_d823f202a95bdb95ef32",
+    "name": "X-Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "international"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_737a3240526c80236ca0",

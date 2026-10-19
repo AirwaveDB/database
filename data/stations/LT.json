@@ -587,6 +587,20 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_c4e87d19199db10b8f64",
+    "name": "M-1 Radio",
+    "country": "LT",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://m-1.15min.lt/",
+    "favicon": "https://m-1.15min.lt/content/themes/m-1/mlogo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T22:21:27Z"
+  },
+  {
     "id": "awb_cd785ffcaa1211d5b6ca",
     "name": "Mano",
     "country": "LT",
@@ -1158,7 +1172,7 @@
     "id": "awb_f0418ec6f2a427f541db",
     "name": "Radijo Stotis Kelyje",
     "country": "LT",
-    "subdivision": "Kaunas",
+    "subdivision": "Vilnius",
     "languages": [
       "lt"
     ],
@@ -1302,6 +1316,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:13:18Z"
+  },
+  {
+    "id": "awb_9f1d2066f90bb21b19fa",
+    "name": "Radio Lietus",
+    "country": "LT",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://lietus.15min.lt/",
+    "favicon": "https://lietus.15min.lt/content/uploads/cropped-lietus_320-192x192.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T22:26:34Z"
   },
   {
     "id": "awb_515cb800544130bc8049",

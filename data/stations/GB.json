@@ -2187,6 +2187,27 @@
     "updatedAt": "2026-10-17T09:53:31Z"
   },
   {
+    "id": "awb_6530be3546afb74dc4b6",
+    "name": "AI Slop FM",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "ai music",
+      "ai-generated",
+      "eclectic",
+      "listener-rated"
+    ],
+    "homepage": "https://aislop.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T21:58:53Z"
+  },
+  {
     "id": "awb_d42e8940ac52bc251115",
     "name": "AI Slop Radio",
     "country": "GB",
@@ -22477,6 +22498,31 @@
     "updatedAt": "2026-01-14T23:32:38Z"
   },
   {
+    "id": "awb_33c5b2229d00639dda18",
+    "name": "MOJERAD.IO",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "electronic",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "house",
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "homepage": "https://mojerad.io/",
+    "favicon": "https://mojerad.io/media/images/logo_moje_radio.max-165x165.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T10:51:56Z"
+  },
+  {
     "id": "awb_36f7ec6bcb0b9acd956f",
     "name": "Mondo Radio",
     "country": "GB",
@@ -26332,6 +26378,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-13T21:22:15Z"
+  },
+  {
+    "id": "awb_7dcf7019ff901dfec631",
+    "name": "Radio Asian Air",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "hi",
+      "ur"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "bollywood",
+      "islamic",
+      "lollywood"
+    ],
+    "homepage": "https://s2.citrus3.com:2000/public/asianairradio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T20:20:52Z"
   },
   {
     "id": "awb_2d22869cf89ef7624f88",
@@ -36778,7 +36848,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.windrushradio.co.uk/",
-    "favicon": "https://myradiostream.com/station/uploads/logo/afc3e44673297558dbf7c9658b79b46180cef490.gif",
+    "favicon": "https://static.wixstatic.com/media/99a1ec_0806d92da08e4962a31397b5d6e7c626~mv2.png/v1/fill/w_350,h_350,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/99a1ec_0806d92da08e4962a31397b5d6e7c626~mv2.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-03-22T07:10:11Z"
@@ -37038,7 +37108,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

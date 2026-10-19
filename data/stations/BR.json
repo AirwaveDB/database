@@ -18,6 +18,28 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_f3171c0e09afbfce5645",
+    "name": "🎧 Highrise Radio XD 💜 | 24/7",
+    "country": "BR",
+    "subdivision": "Sao Paulo (Brazil)",
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "eletronic",
+      "love songs",
+      "pop",
+      "pop rock"
+    ],
+    "homepage": "https://stream.zeno.fm/fi56cfyl6htuv",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T17:11:39Z"
+  },
+  {
     "id": "awb_f45f59582ba486981568",
     "name": "012 Rock News",
     "country": "BR",
@@ -9576,6 +9598,24 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_c9bb53a721429648f7c9",
+    "name": "ONBL RÁDIO",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "diversificado"
+    ],
+    "homepage": "https://radio.onbl.com.br/",
+    "favicon": "https://nolbrasil.com.br/img/logo_onbl.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-18T22:05:28Z"
+  },
+  {
     "id": "awb_26596fada3a5c8a473f9",
     "name": "Ouro Verde FM Easy 105.5",
     "country": "BR",
@@ -11311,7 +11351,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC+",
+    "name": "Rádio AMC",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -11326,7 +11366,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
+    "favicon": "https://radioamc.com.br/shared/amclogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -12550,9 +12590,9 @@
   },
   {
     "id": "awb_ed3a2b709ad8b4213973",
-    "name": "RÁDIO BONS TEMPOS FM",
+    "name": "Rádio Bons Tempos FM",
     "country": "BR",
-    "subdivision": "SAO PAULO",
+    "subdivision": "São Paulo",
     "languages": [],
     "categories": [
       "rock"
@@ -12560,7 +12600,7 @@
     "tags": [
       "popo rock"
     ],
-    "homepage": "https://www.radiobonstemposfm.com.br/",
+    "homepage": "http://www.radiobonstemposfm.com.br/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -24009,6 +24049,24 @@
     "updatedAt": "2026-07-23T04:19:00Z"
   },
   {
+    "id": "awb_42b78182fec49af0561e",
+    "name": "Spaço FM",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop music"
+    ],
+    "homepage": "https://spacofm.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T15:27:29Z"
+  },
+  {
     "id": "awb_61510a081aed499c5774",
     "name": "Studio FM 99.1",
     "country": "BR",
@@ -25716,6 +25774,38 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_23119b9781026cb0b644",
+    "name": "WebRadioBR",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "ambient",
+      "electronic",
+      "jazz",
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "dance",
+      "electronic",
+      "indie",
+      "jazz",
+      "lounge",
+      "metal",
+      "rock",
+      "web radio"
+    ],
+    "homepage": "https://webradiobr.insidesign.com.br/",
+    "favicon": "https://webradiobr.insidesign.com.br/logo-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T14:15:36Z"
   },
   {
     "id": "awb_5a086dd76700447fdde2",
