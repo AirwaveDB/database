@@ -3081,6 +3081,26 @@
     "updatedAt": "2026-01-22T17:25:23Z"
   },
   {
+    "id": "awb_75b9e040111e1d357339",
+    "name": "Attila1 FM",
+    "country": "GB",
+    "subdivision": "South Yorkshire",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hungarian pop music"
+    ],
+    "homepage": "https://www.attila1fm.co.uk/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T15:12:35Z"
+  },
+  {
     "id": "awb_bb864a3061a3ea325936",
     "name": "Attila1 FM",
     "country": "GB",
@@ -11126,6 +11146,35 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_7aae7f11adfadbba23ab",
+    "name": "DieselGoth1",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "punk"
+    ],
+    "tags": [
+      "dark electro",
+      "darkwave",
+      "ebm",
+      "electronic",
+      "futurepop",
+      "gothic",
+      "industrial",
+      "post-punk",
+      "synthpop"
+    ],
+    "homepage": "https://radio.hollerboys.uk/46/",
+    "favicon": "https://hq2.stationhq.io/media/radiostalingrad/station_46/logos/logo_1791901984958.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T12:17:59Z"
   },
   {
     "id": "awb_8b2eddfe44fd9103437a",
@@ -21237,7 +21286,7 @@
     "id": "awb_6ccd96adbde9f3c95959",
     "name": "LOVERADIO247",
     "country": "GB",
-    "subdivision": "England",
+    "subdivision": "London, England",
     "languages": [
       "en"
     ],
@@ -25504,16 +25553,18 @@
     ],
     "tags": [
       "deep techno",
+      "drum & bass",
       "drum 'n' bass",
       "house",
       "jazz",
-      "soul"
+      "soul",
+      "techno"
     ],
     "homepage": "https://www.pointblankradio.com/",
     "favicon": "https://pointblankradio.com/pointdab/wp-content/uploads/2022/12/Player_logo.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-02-10T14:01:52Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-10-19T19:28:36Z"
   },
   {
     "id": "awb_334b0475c95360fbbb90",
@@ -30394,8 +30445,22 @@
     "updatedAt": "2026-01-15T08:38:09Z"
   },
   {
+    "id": "awb_4d900e46928ed7781c23",
+    "name": "Rokit Radio 1940s Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www2.rokitradio.com/",
+    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
     "id": "awb_f76b3b62acdafadb1e33",
-    "name": "ROKiT Radio : Science Fiction",
+    "name": "ROKit Radio Science Fiction",
     "country": "GB",
     "subdivision": "London, England",
     "languages": [
@@ -30412,24 +30477,10 @@
       "scifi"
     ],
     "homepage": "https://rokitradio.com/",
-    "favicon": "https://rokitradio.com/images/rokit-radio-mic.png",
+    "favicon": "https://rokitradio.com/images/channels/scifi.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:11:46Z"
-  },
-  {
-    "id": "awb_4d900e46928ed7781c23",
-    "name": "Rokit Radio 1940s Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www2.rokitradio.com/",
-    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_4f80b87c36c6127a0778",
@@ -36848,7 +36899,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.windrushradio.co.uk/",
-    "favicon": "https://static.wixstatic.com/media/99a1ec_0806d92da08e4962a31397b5d6e7c626~mv2.png/v1/fill/w_350,h_350,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/99a1ec_0806d92da08e4962a31397b5d6e7c626~mv2.png",
+    "favicon": "https://myradiostream.com/station/uploads/logo/afc3e44673297558dbf7c9658b79b46180cef490.gif",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-03-22T07:10:11Z"

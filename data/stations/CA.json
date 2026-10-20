@@ -8686,6 +8686,20 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
+    "id": "awb_ca004d7f3ab20e892268",
+    "name": "CHOI 98,1 Radio X",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
     "id": "awb_9400b580214de8fda6bd",
     "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
     "country": "CA",
@@ -8706,20 +8720,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:49:38Z"
-  },
-  {
-    "id": "awb_ca004d7f3ab20e892268",
-    "name": "CHOI 98.1 Radio X",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiox.com/",
-    "favicon": "https://radiox.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_0db5abdaad511193eccc",
@@ -20085,6 +20085,48 @@
     "updatedAt": "2026-09-30T04:44:22Z"
   },
   {
+    "id": "awb_07d48cdc7d5c6c3f4823",
+    "name": "Dead Moon Radio",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en",
+      "es",
+      "ru"
+    ],
+    "categories": [
+      "ambient",
+      "electronic",
+      "hip-hop"
+    ],
+    "tags": [
+      "320kbps",
+      "bass",
+      "brostep",
+      "chill",
+      "cloud rap",
+      "dnb",
+      "drum & bass",
+      "drum and bass",
+      "dubplates",
+      "dubstep",
+      "edm",
+      "electronic",
+      "emo rap",
+      "flac",
+      "hyperpop",
+      "liquid dnb",
+      "sadboy",
+      "trap",
+      "underground"
+    ],
+    "homepage": "https://deadmoonradio.com/",
+    "favicon": "https://stream.deadmoonradio.com/static/uploads/album_art.1765903062.jpg",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-19T20:10:30Z"
+  },
+  {
     "id": "awb_17fc77e0a4e7c2a5aff4",
     "name": "DJFM.ca Toronto, ON",
     "country": "CA",
@@ -20893,6 +20935,112 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:48:00Z"
+  },
+  {
+    "id": "awb_0e11970a068bc8db8491",
+    "name": "Hamnava Records - Chill",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "chill",
+      "rnb",
+      "soul"
+    ],
+    "homepage": "https://radio.nimaarki.com/",
+    "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T16:27:22Z"
+  },
+  {
+    "id": "awb_0ee4cfa71fedd173fc8a",
+    "name": "Hamnava Records - Deep",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "deep house",
+      "electronic",
+      "house"
+    ],
+    "homepage": "https://radio.nimaarki.com/",
+    "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T16:32:32Z"
+  },
+  {
+    "id": "awb_81839090c28dc366e7b8",
+    "name": "Hamnava Records - Latest",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic",
+      "independent",
+      "new music"
+    ],
+    "homepage": "https://radio.nimaarki.com/",
+    "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T16:28:52Z"
+  },
+  {
+    "id": "awb_32c816ff986825293a8d",
+    "name": "Hamnava Records - Lofi",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "chill beats",
+      "lo-fi",
+      "lofi",
+      "study"
+    ],
+    "homepage": "https://radio.nimaarki.com/",
+    "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T16:28:19Z"
+  },
+  {
+    "id": "awb_1d701def8a10f1d53f13",
+    "name": "Hamnava Records - Retro",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "pop",
+      "retro",
+      "rock"
+    ],
+    "homepage": "https://radio.nimaarki.com/",
+    "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T16:28:52Z"
   },
   {
     "id": "awb_7e7adcb102c1b14d5986",
@@ -25434,6 +25582,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:13Z"
+  },
+  {
+    "id": "awb_aeb643ff3549321c2758",
+    "name": "Radio Pacoul",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiopacoul.top/",
+    "favicon": "https://www.radiopacoul.top/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T09:30:04Z"
   },
   {
     "id": "awb_2962376523d0ddb02067",

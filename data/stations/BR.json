@@ -4629,6 +4629,22 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_b6af5ef6ca78b72805a7",
+    "name": "Frei Caneca FM",
+    "country": "BR",
+    "subdivision": "Pernambuco",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://freicanecafm.recife.pe.gov.br/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6Pe-JhVLKz43YbCouAsVYQDQ4cXVmm7TBnz1HWdumKehnbnPB5xf_2Bk&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T18:51:07Z"
+  },
+  {
     "id": "awb_11d8eae4bdf8273507f7",
     "name": "Frequência Um",
     "country": "BR",
@@ -11351,7 +11367,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC",
+    "name": "Rádio AMC+",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -11366,7 +11382,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amclogo.png",
+    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -12590,9 +12606,9 @@
   },
   {
     "id": "awb_ed3a2b709ad8b4213973",
-    "name": "Rádio Bons Tempos FM",
+    "name": "RÁDIO BONS TEMPOS FM",
     "country": "BR",
-    "subdivision": "São Paulo",
+    "subdivision": "SAO PAULO",
     "languages": [],
     "categories": [
       "rock"
@@ -12600,7 +12616,7 @@
     "tags": [
       "popo rock"
     ],
-    "homepage": "http://www.radiobonstemposfm.com.br/",
+    "homepage": "https://www.radiobonstemposfm.com.br/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -13340,7 +13356,7 @@
       "soul hiphop rnb"
     ],
     "homepage": "https://radiocharme.com/",
-    "favicon": "https://app.box.com/s/lup4s98pb04e1nbx7l6uaimd67nmqihq",
+    "favicon": "https://i.imgur.com/cGgYqri.jpeg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-09T07:35:35Z"
@@ -23871,6 +23887,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_fee3c2dc6debeee3705c",
+    "name": "SO Kakarecos Light",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro",
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "musica romantica",
+      "retro",
+      "soft rock"
+    ],
+    "homepage": "https://sokakarecos.com/",
+    "favicon": "https://i.imgur.com/Gr3AS9l.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:49:33Z"
   },
   {
     "id": "awb_9d61a251ca9efc3c26d6",

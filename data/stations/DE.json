@@ -13469,6 +13469,20 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_3a58bac2637c4b5c975c",
+    "name": "90s90s Reggae",
+    "country": "DE",
+    "subdivision": "Deutschland (Germany)",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.90s90s.de/radios/reggae",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T14:55:58Z"
+  },
+  {
     "id": "awb_f1a38abdd7508d4668ad",
     "name": "90s90s Rock",
     "country": "DE",
@@ -19427,7 +19441,7 @@
     "id": "awb_9f6c026e52f2cc2ab155",
     "name": "as.if.radio",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
+    "subdivision": "Cologne",
     "languages": [
       "de",
       "en"
@@ -19461,7 +19475,7 @@
       "werbefrei"
     ],
     "homepage": "https://www.as-if-radio.com/",
-    "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+    "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-04T14:43:37Z"
@@ -19734,6 +19748,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-06T03:55:57Z"
+  },
+  {
+    "id": "awb_26af3b19375a3ffcb5d6",
+    "name": "Backroad Country Radio",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "rock"
+    ],
+    "tags": [
+      "americana",
+      "country",
+      "country rock",
+      "ryan robson",
+      "singer-songwriter"
+    ],
+    "homepage": "https://backroadcountryradio.com/",
+    "favicon": "https://backroadcountryradio.com/assets/img/logo-1200.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T17:14:43Z"
   },
   {
     "id": "awb_b6f4b5064a170bdcbf8b",
@@ -21800,7 +21839,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z"
@@ -25638,7 +25677,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.ffn.de/",
+    "homepage": "https://www.ffn.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 4,
@@ -26456,7 +26495,7 @@
     "id": "awb_4d93db1f5602c64a3ae1",
     "name": "Club85",
     "country": "DE",
-    "subdivision": "Baden-Württemberg",
+    "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
     "languages": [
       "de"
     ],
@@ -26833,10 +26872,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www1.wdr.de/radio/cosmo/",
-    "favicon": null,
+    "favicon": "https://www1.wdr.de/resources/img/wdr/logo/epgmodule/cosmo_logo.svg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-26T19:33:55Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-19T11:18:27Z"
   },
   {
     "id": "awb_b4ed04110a797f116ad1",
@@ -30032,6 +30071,24 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:23:58Z"
+  },
+  {
+    "id": "awb_b11331ed3488c3ee7901",
+    "name": "DJ MARVICK",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "vocal jazz"
+    ],
+    "homepage": "http://141.11.237.5:25837/xeno",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T11:16:57Z"
   },
   {
     "id": "awb_fe9df266b670fb25547b",
@@ -37661,6 +37718,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-16T15:48:56Z"
+  },
+  {
+    "id": "awb_2788fd093d0b36938000",
+    "name": "FFH Relax",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://streams.ffh.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T06:05:09Z"
   },
   {
     "id": "awb_9d1838d0555c5581f5e8",
@@ -51135,6 +51206,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-09T17:30:37Z"
+  },
+  {
+    "id": "awb_3a35da79b0eedfb38ed4",
+    "name": "KPOP - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "anime",
+      "pop"
+    ],
+    "tags": [
+      "k-pop",
+      "kpop"
+    ],
+    "homepage": "https://atomic.radio/kpop",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:16:34Z"
   },
   {
     "id": "awb_416698ed46dd059006c2",
@@ -70697,6 +70790,20 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_4b931d48fefbaeb5df24",
+    "name": "Radio BOB NRW",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiobob.de/radiobob/empfang/livestream",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T17:46:42Z"
+  },
+  {
     "id": "awb_8bc0e09e8f8ea25afa39",
     "name": "Radio BOB Progressive Rock",
     "country": "DE",
@@ -72529,7 +72636,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobreidenbach.de/index.php?seite=startseite",
+    "homepage": "https://www.radiobreidenbach.de/",
     "favicon": "https://www.radiobreidenbach.de/templates/favicon.ico",
     "type": null,
     "sourceCount": 2,
@@ -104651,7 +104758,7 @@
     "id": "awb_672de553ce76017853b3",
     "name": "Veedelsradio",
     "country": "DE",
-    "subdivision": "Nrw",
+    "subdivision": "Nordrhein-Westfalen",
     "languages": [
       "de"
     ],

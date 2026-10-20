@@ -906,19 +906,22 @@
     "id": "awb_19bf9e5ee9a3504419d2",
     "name": "Ke Brava",
     "country": "PE",
-    "subdivision": null,
-    "languages": [],
+    "subdivision": "Lima",
+    "languages": [
+      "es"
+    ],
     "categories": [
       "folk"
     ],
     "tags": [
-      "folk"
+      "folk",
+      "folklore"
     ],
     "homepage": "https://kebrava.blogspot.com/",
     "favicon": "https://kebrava.blogspot.com/",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-19T11:21:26Z"
   },
   {
     "id": "awb_7ab01f6b956472e33b2c",
@@ -3619,7 +3622,7 @@
       "smooth jazz"
     ],
     "homepage": "https://latremenda.pe/",
-    "favicon": "https://imgur.com/a/vahyGFo",
+    "favicon": "https://renewed-amaranth-wsrjzdvewp.edgeone.app/logo_latremenda.jpg",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-08-24"
@@ -4443,14 +4446,18 @@
     "name": "Radio Recuerdos",
     "country": "PE",
     "subdivision": "Lima",
-    "languages": [],
+    "languages": [
+      "es"
+    ],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "musicas del recuerdo"
+    ],
     "homepage": "https://onlineradiobox.com/pe/?cs=pe.recuerdos&p=3&tzLoc=America%2FLim",
     "favicon": "https://i.postimg.cc/rs9cTYcn/images-(1).png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-25T01:04:44Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-20T05:07:01Z"
   },
   {
     "id": "awb_9de01f7fa80c08515af9",
@@ -5017,9 +5024,9 @@
   },
   {
     "id": "awb_4b79688d257d9ed6a2ab",
-    "name": "Radio TV. Sureña - Puno, Juliaca",
+    "name": "Radio TV. Sureña (Puno, Juliaca)",
     "country": "PE",
-    "subdivision": "Juliaca - Puno",
+    "subdivision": "Puno / Juliaca",
     "languages": [],
     "categories": [],
     "tags": [],

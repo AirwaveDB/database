@@ -1172,7 +1172,7 @@
     "id": "awb_f0418ec6f2a427f541db",
     "name": "Radijo Stotis Kelyje",
     "country": "LT",
-    "subdivision": "Vilnius",
+    "subdivision": "Kaunas",
     "languages": [
       "lt"
     ],
@@ -1330,6 +1330,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-18T22:26:34Z"
+  },
+  {
+    "id": "awb_cd59f8208caf1518e1f0",
+    "name": "RADIO MOON",
+    "country": "LT",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "smooth jazz"
+    ],
+    "homepage": "http://193.70.34.27:20330/kdime",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T11:18:15Z"
   },
   {
     "id": "awb_515cb800544130bc8049",
@@ -1642,7 +1662,7 @@
       "lithuanian music",
       "pop"
     ],
-    "homepage": "https://taktasfm.lt/?lang=en",
+    "homepage": "https://taktasfm.lt/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
