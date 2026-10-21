@@ -1011,6 +1011,28 @@
     "updatedAt": "2026-10-15T22:18:11Z"
   },
   {
+    "id": "awb_7b91d1fb23f34d6906d2",
+    "name": "Rádio Morena Comercial",
+    "country": "AO",
+    "subdivision": "Benguela",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:32:24Z"
+  },
+  {
     "id": "awb_19b09e9248ef19c217eb",
     "name": "Radio Nacional de Angola - Canal A",
     "country": "AO",
@@ -1119,30 +1141,6 @@
       "talk"
     ],
     "homepage": "https://radionova.co.ao/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-15T22:22:12Z"
-  },
-  {
-    "id": "awb_0a0bb2113e984295d5ce",
-    "name": "RÁDIO NXT FM 98.7",
-    "country": "AO",
-    "subdivision": "Luanda",
-    "languages": [
-      "pt"
-    ],
-    "categories": [
-      "latin",
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "latin",
-      "news",
-      "talk"
-    ],
-    "homepage": "https://radionxtfm.ao/",
     "favicon": null,
     "type": null,
     "sourceCount": 1,

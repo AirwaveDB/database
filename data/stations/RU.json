@@ -291,7 +291,7 @@
       "discography"
     ],
     "homepage": "https://enigma.101.ru/",
-    "favicon": "https://101.ru/proxy/vardata/modules/channel/image/8700bf0eb42cee25219de44034753570.jpg%22",
+    "favicon": "https://101.ru/proxy/vardata/modules/channel/image/8700bf0eb42cee25219de44034753570.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T12:28:06Z"
@@ -5992,7 +5992,7 @@
       "house"
     ],
     "homepage": "https://kamchatkalive.ru/",
-    "favicon": "https://kamchatkalive.ru/img/dance.jpg",
+    "favicon": "https://kamchatkalive.ru/img/house.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-12T11:07:02Z"
@@ -6110,6 +6110,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-03-30T11:54:34Z"
+  },
+  {
+    "id": "awb_1970c2a4fdc111fb034d",
+    "name": "E68B099E4E55",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T14:17:31Z"
   },
   {
     "id": "awb_f8f0ab9a8866ea9101a5",
@@ -18537,7 +18551,7 @@
       "radcap"
     ],
     "homepage": "http://radcap.ru/lo-fi.html",
-    "favicon": "http://radcap.ru/apple-touch-icon.png",
+    "favicon": "https://radcap.ru/graf2/rclogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T07:52:11Z"
@@ -21513,7 +21527,7 @@
   },
   {
     "id": "awb_bd594017bc56630ac7ca",
-    "name": "Radio Caprice Piano Blues Boogie Woogie",
+    "name": "Radio Caprice Piano Blues / Boogie-Woogie",
     "country": "RU",
     "subdivision": null,
     "languages": [
@@ -21529,7 +21543,7 @@
       "piano",
       "piano blues"
     ],
-    "homepage": "http://www.radcap.ru/pianoblues.html",
+    "homepage": "http://radcap.ru/",
     "favicon": "http://i.imgur.com/hSP42CX.jpg",
     "type": null,
     "sourceCount": 2,
@@ -23038,6 +23052,25 @@
     "updatedAt": "2026-01-15T00:02:44Z"
   },
   {
+    "id": "awb_086fb3f5eef464a90a3a",
+    "name": "Radio Medved",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "dance",
+      "dance music"
+    ],
+    "homepage": "http://www.radiomedved.ru/",
+    "favicon": "https://radiomedved.ru/assets/favicon-DDeAPxyl.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T14:51:37Z"
+  },
+  {
     "id": "awb_9269704cc4e0c771bccf",
     "name": "Radio Melodiya",
     "country": "RU",
@@ -24479,7 +24512,7 @@
     "homepage": "http://stream.salyutfm.ru:8000/stream",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-10-17T03:34:22Z"
   },
   {
@@ -35551,20 +35584,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_5d999b3e4782709fe735",
-    "name": "Любимое Радио",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://russia.radiosolo.ru/radio_ru/lyubimoe/icecast.audio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-19T09:07:14Z"
   },
   {
     "id": "awb_bb8c4b39b0668e8c53cf",

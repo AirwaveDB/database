@@ -3969,6 +3969,24 @@
     "updatedAt": "2026-09-26T11:49:07Z"
   },
   {
+    "id": "awb_61d95fe751cbe142a300",
+    "name": "HERMES-TEST-ignore",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "test"
+    ],
+    "homepage": "https://example.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T07:09:22Z"
+  },
+  {
     "id": "awb_3a51fbc5dd981ca6dd8f",
     "name": "HIT FM -Brașov 94,2 FM Zărnești 94,2 FM",
     "country": "RO",
@@ -9218,7 +9236,7 @@
       "stuttgart",
       "torino"
     ],
-    "homepage": "https://radiogiurgiu.net/",
+    "homepage": "https://radiogiurgiu.net/mobile.html",
     "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
     "type": null,
     "sourceCount": 4,

@@ -3638,6 +3638,40 @@
     "updatedAt": "2026-01-14T23:32:04Z"
   },
   {
+    "id": "awb_5e717ba7a5d0aa47b441",
+    "name": "Decibel Eurodance",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [
+      "eurodance"
+    ],
+    "homepage": "https://decibel.nl/",
+    "favicon": "https://decibel.nl/images/decibeleurodance.webp",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-20T15:37:33Z"
+  },
+  {
+    "id": "awb_b8e3a5ce16271ba1b5d0",
+    "name": "Decibel Party!",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://decibel.nl/",
+    "favicon": "https://decibel.nl/images/decibelparty.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T15:39:06Z"
+  },
+  {
     "id": "awb_499bb070bd64240ef0dc",
     "name": "Dedimusic",
     "country": "NL",
@@ -3824,6 +3858,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_e311a2c5b4955a373f67",
+    "name": "Dirty Disco Radio 24/7",
+    "country": "NL",
+    "subdivision": "Flevoland, Almere",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.dirtydiscoradio.com/deep-house-radio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T17:31:59Z"
   },
   {
     "id": "awb_9f3b03f4b87f3549d750",
@@ -12826,12 +12874,12 @@
     "id": "awb_14ceba8d1d61b15cdc22",
     "name": "Power FM Breda",
     "country": "NL",
-    "subdivision": "Noord Brabant",
+    "subdivision": "Noord-Brabant",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://powerfmbreda.x10.mx/",
-    "favicon": "https://powerfmbreda.x10.mx/favicon.png",
+    "favicon": "https://powerfmbreda.x10.mx/wp-content/uploads/fbrfg/favicon.svg",
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-03-11T09:52:26Z"
@@ -14742,6 +14790,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-18T06:27:04Z"
+  },
+  {
+    "id": "awb_86edf5ba675452d45e6f",
+    "name": "Radio Decibel",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://decibel.nl/",
+    "favicon": "https://decibel.nl/images/decibel-mainchannel.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T15:34:05Z"
   },
   {
     "id": "awb_0d52d7b0b49a9c80c685",
@@ -17441,8 +17505,8 @@
     "homepage": "https://reformatorischeomroep.nl/",
     "favicon": "https://reformatorischeomroep.nl/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T07:50:50Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-10-20T19:12:50Z"
   },
   {
     "id": "awb_4e3f0e83bfeb84877262",

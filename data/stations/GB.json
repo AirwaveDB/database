@@ -2042,16 +2042,21 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop",
+      "rock"
     ],
     "tags": [
-      "90s radio"
+      "90s",
+      "90s pop",
+      "90s radio",
+      "90s rock"
     ],
     "homepage": "https://www.hellorayo.co.uk/absolute-radio-90s",
     "favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1678796943/brand_manager/stations/ptydn13uvtcw7aa0t3cx.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-27T11:19:50Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-21T07:21:13Z"
   },
   {
     "id": "awb_fcf6362aa15b16854a86",
@@ -21286,7 +21291,7 @@
     "id": "awb_6ccd96adbde9f3c95959",
     "name": "LOVERADIO247",
     "country": "GB",
-    "subdivision": "London, England",
+    "subdivision": "England",
     "languages": [
       "en"
     ],
@@ -25375,6 +25380,24 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_3d385b654d5ea23c4ff8",
+    "name": "Pink Noise Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "relax"
+    ],
+    "homepage": "https://mobile.pinknoise.com/radio/",
+    "favicon": "https://sao.fm/wp-content/uploads/20240907133539197.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T22:56:07Z"
+  },
+  {
     "id": "awb_e325a6fd315882518fbd",
     "name": "PLANET ROCK: Where Rock Lives",
     "country": "GB",
@@ -27017,6 +27040,48 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:16:26Z"
+  },
+  {
+    "id": "awb_86467b3d57102d77401b",
+    "name": "Radio Elton John",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "elton john",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://rej.world/",
+    "favicon": "https://hq3.yesstreaming.net/media/scripteaseltd/station_5/logos/logo_1783642319725.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T16:59:34Z"
+  },
+  {
+    "id": "awb_126749e01b3efd26b445",
+    "name": "Radio Elton John • REJ.World",
+    "country": "GB",
+    "subdivision": "Surrey",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "elton john",
+      "pop"
+    ],
+    "homepage": "https://www.rej.world/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T19:12:50Z"
   },
   {
     "id": "awb_a589db6d2c583a3e7862",
@@ -32498,6 +32563,7 @@
       "jazz music",
       "neo soul",
       "nu-soul",
+      "pop",
       "pop classics",
       "reggae",
       "rnb",
@@ -32507,8 +32573,8 @@
     "homepage": "https://soulrhythmsradio.com/home/",
     "favicon": "https://soulrhythmsradio.com/wp-content/uploads/2023/12/SRR-LOGOTHIS_ONE.jpg",
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-05-25T23:15:32Z"
+    "sourceCount": 6,
+    "updatedAt": "2026-10-20T22:59:05Z"
   },
   {
     "id": "awb_cd234067142efa0ffcae",
@@ -37159,7 +37225,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

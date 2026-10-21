@@ -233,7 +233,7 @@
   },
   {
     "id": "awb_ef17dfb7a806c053be76",
-    "name": "Bob FM",
+    "name": "Bob fm",
     "country": "IE",
     "subdivision": null,
     "languages": [
@@ -244,7 +244,7 @@
       "whatever"
     ],
     "homepage": "https://www.eastcoast.fm/player/bobfm/",
-    "favicon": "https://www.eastcoast.fm/player/bobfm/",
+    "favicon": "https://www.bobfm.ie/",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-06-22T23:37:53Z"
@@ -328,6 +328,27 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_9e21c5a042b262b92d7c",
+    "name": "Chillout Essentials on MixLive.net",
+    "country": "IE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "chillout music",
+      "laid-back tunes"
+    ],
+    "homepage": "https://www.mixlive.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T18:01:51Z"
   },
   {
     "id": "awb_a0a386d7be2633f9e47d",
@@ -1937,6 +1958,25 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_5d59816b1ee1eba882fa",
+    "name": "Northern Sound",
+    "country": "IE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "local radio",
+      "varied"
+    ],
+    "homepage": "https://www.northernsound.ie/",
+    "favicon": "https://assets.radioplayer.org/372/37235/600/600/la1azzs4.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T21:14:48Z"
+  },
+  {
     "id": "awb_7ba44b42735efbbea0ee",
     "name": "Off The Ball",
     "country": "IE",
@@ -2455,6 +2495,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_3f8dd01f4788b497256b",
+    "name": "Radio Kerry",
+    "country": "IE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "local radio"
+    ],
+    "homepage": "https://www.radiokerry.ie/",
+    "favicon": "https://i.resized.co/radiokerry-ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1nLnJhZGlva2VycnkuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcL3JhZGlvLWtlcnJ5LWxvZ28uanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo5MDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5yYWRpb2tlcnJ5LmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYjM3MWY1NTQ3MzEzMDdiYzcyYmIyMzYwMmNiZDFkMDA1NDY3OTRlNSJ9/radio-kerry-logo.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T17:28:29Z"
   },
   {
     "id": "awb_5d42b6c0e2ce2d15982b",
@@ -2998,7 +3056,7 @@
     "id": "awb_3461835dfd861bca0ca5",
     "name": "SPIN South West",
     "country": "IE",
-    "subdivision": "Limerick",
+    "subdivision": "Dublin",
     "languages": [
       "en"
     ],
@@ -3010,8 +3068,8 @@
       "top 40",
       "top-40"
     ],
-    "homepage": "https://www.spinsouthwest.com/",
-    "favicon": "https://www.spinsouthwest.com/images/logo.svg",
+    "homepage": "http://www.spinsouthwest.com/",
+    "favicon": "https://www.spinsouthwest.com/i/android-icon-192x192.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"

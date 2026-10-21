@@ -1821,6 +1821,28 @@
     "updatedAt": "2026-01-15T06:57:09Z"
   },
   {
+    "id": "awb_f8a7e7fce488177f27d8",
+    "name": "CGTN Documentary TV audio 伴音",
+    "country": "CN",
+    "subdivision": "Beijing",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "culture",
+      "documentales",
+      "documentaries",
+      "documentary",
+      "documentation"
+    ],
+    "homepage": "https://www.cgtn.com/",
+    "favicon": "https://radio-res.cgtn.com/image/2201/1643162478720.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T13:08:59Z"
+  },
+  {
     "id": "awb_5584a5d998106ea9fdfb",
     "name": "CGTN Radio",
     "country": "CN",
@@ -1857,6 +1879,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-07T03:23:12Z"
+  },
+  {
+    "id": "awb_01437c237496b9bf86d2",
+    "name": "CGTN TV audio 伴音",
+    "country": "CN",
+    "subdivision": "Beijing",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.cgtn.com/",
+    "favicon": "https://radio-res.cgtn.com/image/2210/1665880846449.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T13:07:07Z"
   },
   {
     "id": "awb_42fb47a01961ca394fa1",
@@ -12142,6 +12184,26 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-08T03:00:30Z"
+  },
+  {
+    "id": "awb_5f53e9f9fa71ab7c9174",
+    "name": "嘉善新闻综合广播",
+    "country": "CN",
+    "subdivision": "Zhejiang",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "entertainment",
+      "full service",
+      "full severice"
+    ],
+    "homepage": "https://apps.apple.com/cn/app/in%E5%98%89%E5%96%84/id1598078513",
+    "favicon": "https://imagev2.xmcdn.com/storages/74ce-audiofreehighqps/1F/40/GKwRIDoJjQ-GAABv8QKhzeUq.jpg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T15:25:27Z"
   },
   {
     "id": "awb_5117c3e9f6ef12802611",
@@ -32553,7 +32615,7 @@
       "pop"
     ],
     "homepage": "https://www.lyg1.com/index.html",
-    "favicon": "https://m.mlzhongguo.com/uploads/image/05/15901171693455.jpg",
+    "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiF2.png@350w_1l",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T17:46:36Z"

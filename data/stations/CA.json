@@ -1850,6 +1850,28 @@
     "updatedAt": "2026-08-27T15:44:08Z"
   },
   {
+    "id": "awb_1b8fbd862b66322168b6",
+    "name": "Alien Radio",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic",
+      "hard dance",
+      "psytrance"
+    ],
+    "homepage": "https://radio.alienplugins.com/",
+    "favicon": "https://radio.alienplugins.com/static/station/img/icon.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T21:22:42Z"
+  },
+  {
     "id": "awb_4bccf7dabd1e1f71f8a0",
     "name": "All sound Radio",
     "country": "CA",
@@ -27215,7 +27237,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto",
+    "subdivision": "Toronto, ON",
     "languages": [],
     "categories": [
       "jazz"
@@ -27224,7 +27246,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
+    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,

@@ -19307,7 +19307,7 @@
   },
   {
     "id": "awb_1d190ad77ab885676d97",
-    "name": "arberwaldradio",
+    "name": "Arberwaldradio",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -19317,7 +19317,7 @@
     "tags": [
       "folk"
     ],
-    "homepage": "https://www.arberwoidradio.com/",
+    "homepage": "https://arberwoidradio.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -26495,7 +26495,7 @@
     "id": "awb_4d93db1f5602c64a3ae1",
     "name": "Club85",
     "country": "DE",
-    "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
+    "subdivision": "Baden-Württemberg",
     "languages": [
       "de"
     ],
@@ -38298,7 +38298,7 @@
       "rock",
       "soul"
     ],
-    "homepage": "https://www.flaemingradio.de/",
+    "homepage": "https://flaemingradio.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -42422,6 +42422,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_c3ecfd14eb83519b5572",
+    "name": "Germanyrock",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://laut.fm/germanyrock",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T04:33:40Z"
   },
   {
     "id": "awb_cca1e55401c3c61bd370",
@@ -59481,6 +59495,27 @@
     "updatedAt": "2026-05-08T12:58:09Z"
   },
   {
+    "id": "awb_b67be8570bedd90876d2",
+    "name": "Metropol FM (Berlin)",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "turkish music"
+    ],
+    "homepage": "https://www.metropolfm.de/",
+    "favicon": "https://www.metropolfm.de/assets/favicons/favicon-96x96.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-02-28T21:29:45Z"
+  },
+  {
     "id": "awb_cd861037cb29ddeabd43",
     "name": "Metropol FM (Bremen)",
     "country": "DE",
@@ -59583,27 +59618,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-14T12:11:25Z"
-  },
-  {
-    "id": "awb_b67be8570bedd90876d2",
-    "name": "Metropol FM Berlin",
-    "country": "DE",
-    "subdivision": "Berlin",
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "turkish music"
-    ],
-    "homepage": "https://www.metropolfm.de/",
-    "favicon": "https://www.metropolfm.de/assets/favicons/favicon-96x96.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-02-28T21:29:45Z"
   },
   {
     "id": "awb_8af2df838c5f7f7a2059",
@@ -60646,7 +60660,7 @@
       "youth"
     ],
     "homepage": "https://n-joy.de/",
-    "favicon": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Njoy-logo.svg/512px-Njoy-logo.svg.png",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-01-15T08:34:02Z"
@@ -71940,6 +71954,34 @@
     "updatedAt": "2026-01-17T15:53:07Z"
   },
   {
+    "id": "awb_7d841746483bc77e9ac2",
+    "name": "Radio BOB! Iron Maden",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radioplayer.de/radio/radio-bob-iron-maiden.html",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T14:39:12Z"
+  },
+  {
+    "id": "awb_10025532d11bd04fac12",
+    "name": "Radio BOB! Iron Maiden",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiobob.de/iron-maiden-stream",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T08:40:46Z"
+  },
+  {
     "id": "awb_4e5a3fff943bad933105",
     "name": "Radio BOB! Live",
     "country": "DE",
@@ -81726,7 +81768,7 @@
   },
   {
     "id": "awb_7b44365c7ed5c851f87c",
-    "name": "Radio Santec",
+    "name": "radio santec",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -81734,7 +81776,7 @@
     "tags": [
       "religous"
     ],
-    "homepage": "https://radio-santec.com/en/home/audio/",
+    "homepage": "https://radio-santec.com/",
     "favicon": "https://radio-santec.com/wp-content/uploads/2019/02/radio_-santec_logo.png",
     "type": null,
     "sourceCount": 2,
@@ -104758,7 +104800,7 @@
     "id": "awb_672de553ce76017853b3",
     "name": "Veedelsradio",
     "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
+    "subdivision": "Nrw",
     "languages": [
       "de"
     ],

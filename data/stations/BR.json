@@ -4711,20 +4711,26 @@
       "pt"
     ],
     "categories": [
+      "ambient",
       "hip-hop"
     ],
     "tags": [
       "brazilian music",
+      "chill",
+      "discord",
+      "gaming",
       "hiphop",
       "indie",
       "mpb",
-      "podcast"
+      "podcast",
+      "study",
+      "work"
     ],
     "homepage": "https://referencias.xyz/radio/",
-    "favicon": null,
+    "favicon": "https://referencias.xyz/assets/img/radio-touch.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-02T17:55:59Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-21T05:32:11Z"
   },
   {
     "id": "awb_f4372dd5b630f3d54d32",
@@ -6700,6 +6706,26 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_43b79e9ed22885683a12",
+    "name": "Kiss FM 92.5",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "alternative rock",
+      "classic rock",
+      "rock"
+    ],
+    "homepage": "https://kissfm.com.br/",
+    "favicon": "https://kissfm.com.br/wp-content/uploads/2024/05/KISSFMSP.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T15:58:15Z"
+  },
+  {
     "id": "awb_24aa1ffd403434ab8bec",
     "name": "Kiss FM São Paulo",
     "country": "BR",
@@ -7949,7 +7975,7 @@
     "id": "awb_ae4fefbf450bfef15049",
     "name": "Metal Zone Radio",
     "country": "BR",
-    "subdivision": "Sao Paulo (Brazil)",
+    "subdivision": "São Paulo",
     "languages": [],
     "categories": [
       "metal"
@@ -7966,7 +7992,7 @@
       "symphonic metal",
       "trash metal"
     ],
-    "homepage": "https://metalzone.radio.br/",
+    "homepage": "http://www.metalzone.radio.br/",
     "favicon": "https://metalzone.radio.br/assets/img/favicon-512.png",
     "type": null,
     "sourceCount": 2,
@@ -13356,7 +13382,7 @@
       "soul hiphop rnb"
     ],
     "homepage": "https://radiocharme.com/",
-    "favicon": "https://i.imgur.com/cGgYqri.jpeg",
+    "favicon": "https://app.box.com/s/lup4s98pb04e1nbx7l6uaimd67nmqihq",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-09T07:35:35Z"
@@ -14314,6 +14340,24 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_6b295fc0064011520d03",
+    "name": "Rádio Cultura FM 103,3",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": "https://cultura.uol.com.br/radio/",
+    "favicon": "https://cultura.uol.com.br/_img/tvcultura/header/logotipo-tvcultura-desktop-orange.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T11:38:21Z"
+  },
+  {
     "id": "awb_c1a53aa0207b0d650a40",
     "name": "Rádio Cultura Rio Grande",
     "country": "BR",
@@ -14593,7 +14637,7 @@
   },
   {
     "id": "awb_1b25463ba387190ec3ab",
-    "name": "rádio Digital fm",
+    "name": "Rádio Digital fm",
     "country": "BR",
     "subdivision": null,
     "languages": [],
