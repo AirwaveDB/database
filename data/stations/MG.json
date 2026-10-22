@@ -186,6 +186,22 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_4c874e98020ff7e36c83",
+    "name": "RADIO RFA ANDAPA",
+    "country": "MG",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "fampitambaovao-fanabeazana-fialamboly"
+    ],
+    "homepage": "http://radiorfa.on-air.fm/",
+    "favicon": "https://www.facebook.com/Radiorfa",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-03T08:09:43Z"
+  },
+  {
     "id": "awb_b598e882f71abe9a0b16",
     "name": "RADIO RFA ANDAPA",
     "country": "MG",
@@ -288,5 +304,23 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-02T17:26:05Z"
+  },
+  {
+    "id": "awb_e95e4b0fdefc2101682f",
+    "name": "Tropicast Radio Station",
+    "country": "MG",
+    "subdivision": "Vakinakaratra",
+    "languages": [
+      "mg"
+    ],
+    "categories": [],
+    "tags": [
+      "music"
+    ],
+    "homepage": "https://www.tropicastradio.com/",
+    "favicon": "https://www.tropicastradio.com/tropicast-logo-256.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T11:44:08Z"
   }
 ]

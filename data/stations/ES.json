@@ -1122,6 +1122,38 @@
     "updatedAt": "2026-01-15T06:20:34Z"
   },
   {
+    "id": "awb_6d8876f956c78e107ebc",
+    "name": "ALEX WOLF RADIO",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "ro",
+      "ru"
+    ],
+    "categories": [
+      "electronic",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "alex wolf",
+      "dance",
+      "electronic",
+      "indie",
+      "pop",
+      "rock",
+      "toxic"
+    ],
+    "homepage": "https://alexwolfradio.com/?from=radio_browser",
+    "favicon": "https://alexwolfradio.com/assets/radio-logo.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T08:32:58Z"
+  },
+  {
     "id": "awb_8f53519a56b3a6b4c223",
     "name": "All Stars Radio",
     "country": "ES",
@@ -1930,7 +1962,7 @@
   },
   {
     "id": "awb_14a68cf1e031a1db0967",
-    "name": "Bilbo Hiria irratia",
+    "name": "Bilbo Hiria Irratia",
     "country": "ES",
     "subdivision": null,
     "languages": [],
@@ -3653,7 +3685,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://cadenaser.com/radio-san-sebastian/",
-    "favicon": "https://listaradio.com/storage/radios/17744/37779/conversions/mNYLhS77V1B5YyOMtoIV0T2cHSfukH-metaUmFkaW9TYW5TZWJhc3RpYW5DYWRlbmFTRVIucG5n--lg.webp",
+    "favicon": "http://cadenaser00.epimg.net/iconos/v1.x/v1.0/redes/imagenes_og/emisoras_v2/1200x630_imagen_control_radio_san_sebastian.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:22:40Z"
@@ -5637,7 +5669,7 @@
       "hardstyle",
       "music"
     ],
-    "homepage": "https://decibeliafm.es/",
+    "homepage": "https://decibeliafm.es/web/",
     "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
     "type": null,
     "sourceCount": 2,
@@ -8701,7 +8733,7 @@
     "id": "awb_3affbb98dab24e7b2119",
     "name": "GRX BIT RADIO on line",
     "country": "ES",
-    "subdivision": "granada",
+    "subdivision": "Alhama - Granada- Andalucía",
     "languages": [],
     "categories": [
       "pop"
@@ -9566,6 +9598,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_25475958f42b36d00fc0",
+    "name": "Ibiza Sonica | Balearic Sound",
+    "country": "ES",
+    "subdivision": "Ibiza",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "balearic"
+    ],
+    "homepage": "https://www.ibizasonica.com/livestreams/balearic-sound/1031",
+    "favicon": "https://d2zc6zei1a4ice.cloudfront.net/media/cover-image/383799137ace498e9858c9b55c78d916.600x600_q85_crop.png?Expires=1788912000&Signature=EGHcN200d31hhXVpo5VkiAQgug3DQslWq9iz8BqaJypoTyg9cmzsgUiu9K1Nm9WQ6ugHVPvjrGsYgm9MGy-4arX8Q~z2JwR7l1tGoYmxoOA3N-x3HsCbN9NgfcLXrIYiUxdreya2M~Xb4LhS1Fngifj4TZbumbUnF5noueBGtnMnhcnfAIn2JBA13KRJXpKV~CBgFO9u-7njv6Ds-H3ZjmuOa8CrbLWs71SeHzqKBDYYq7JL6oJKQr3qSPqYoHbiOZJht454n-IM3ssbx5DhLDiJud69EfPd9zOYE-SLBJ7XkXEGuXIYcoXwryQm1P9~W18nakz8VXqLuIOcWLevrQ__&Key-Pair-Id=KWDD4JQ4TPZC8",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-03-13T08:52:42Z"
   },
   {
     "id": "awb_daff3880a10f46a13b25",
@@ -17873,7 +17921,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiolagranjazaragoza.wordpress.com/",
-    "favicon": "https://radiolagranjazaragoza.wordpress.com/wp-content/uploads/2021/07/cropped-radiolagranjaramone.png?w=180",
+    "favicon": "https://radiobot.radioslibres.info/static/uploads/radio_la_granja/background.1713382583.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-17T06:08:50Z"
@@ -18579,7 +18627,7 @@
   },
   {
     "id": "awb_eae89279089f361794d2",
-    "name": "Radio María España",
+    "name": "RADIO MARÍA ESPAÑA",
     "country": "ES",
     "subdivision": "Madrid",
     "languages": [
@@ -18587,7 +18635,8 @@
     ],
     "categories": [
       "news",
-      "religious"
+      "religious",
+      "talk"
     ],
     "tags": [
       "catholic",
@@ -18597,12 +18646,14 @@
       "christian-music",
       "música religiosa",
       "noticias",
-      "religión"
+      "radio maria",
+      "religión",
+      "talk"
     ],
     "homepage": "https://www.radiomaria.es/",
     "favicon": "https://www.radiomaria.es/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 4,
     "updatedAt": "2026-08-24"
   },
   {
@@ -19462,6 +19513,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-28T12:47:49Z"
+  },
+  {
+    "id": "awb_9debcb7886922140b741",
+    "name": "Radio Radio - CSO La Rosa",
+    "country": "ES",
+    "subdivision": "Madrid",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "alternative",
+      "political talk",
+      "talk"
+    ],
+    "homepage": "https://radio.csolarosa.net/",
+    "favicon": "https://radio.csolarosa.net/images/logo/logo-radio_hu_4f96a903c24f46c2.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T11:51:35Z"
   },
   {
     "id": "awb_80b86f88178fb21a0bf8",
@@ -23929,7 +24002,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 6,
-    "updatedAt": "2026-10-17T22:31:08Z"
+    "updatedAt": "2026-10-22T00:48:43Z"
   },
   {
     "id": "awb_60668b862f76c8a40ef9",
@@ -23964,6 +24037,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_5f889021bf0a6b0ab6ba",
+    "name": "Vacalloria Radio",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin",
+      "pop"
+    ],
+    "tags": [
+      "cumbia",
+      "pop",
+      "ranchera",
+      "salsa"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-09-06T11:09:30Z"
   },
   {
     "id": "awb_7d2606e1fe3fdc393b8a",

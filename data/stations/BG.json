@@ -100,6 +100,31 @@
     "updatedAt": "2026-01-15T08:08:04Z"
   },
   {
+    "id": "awb_cc868a1e61227f5dabed",
+    "name": "Art Berry Music",
+    "country": "BG",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "jazz"
+    ],
+    "tags": [
+      "disco",
+      "funk",
+      "lounge",
+      "nu jazz",
+      "soul"
+    ],
+    "homepage": "https://air.artberry.eu/",
+    "favicon": "https://air.artberry.eu/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T14:45:50Z"
+  },
+  {
     "id": "awb_9eeb507d296c3a62fbc1",
     "name": "Avto Radio",
     "country": "BG",
@@ -351,7 +376,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/bgestrada.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-17T18:35:09Z"
+    "updatedAt": "2026-10-21T23:54:13Z"
   },
   {
     "id": "awb_2db2776867c3a828814e",
@@ -743,7 +768,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/citylatin.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-17T13:44:32Z"
+    "updatedAt": "2026-10-22T00:26:13Z"
   },
   {
     "id": "awb_5bfedef4441262879e27",
@@ -1421,7 +1446,7 @@
     "favicon": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T02:18:29Z"
+    "updatedAt": "2026-10-22T02:23:33Z"
   },
   {
     "id": "awb_240e9eb79646ea680f88",
@@ -1445,7 +1470,7 @@
     "favicon": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T04:31:28Z"
+    "updatedAt": "2026-10-22T05:41:27Z"
   },
   {
     "id": "awb_ea55fd895037dca643c0",
@@ -2649,7 +2674,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/note/note-fm.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-17T00:28:57Z"
+    "updatedAt": "2026-10-22T01:52:31Z"
   },
   {
     "id": "awb_ff184f6a6485a4b5fd8e",
@@ -4023,6 +4048,41 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_31392e094b48baafe1cd",
+    "name": "Radio NRG",
+    "country": "BG",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "hip-hop",
+      "pop"
+    ],
+    "tags": [
+      "best",
+      "dance",
+      "hip-hop",
+      "hit",
+      "hits",
+      "modern",
+      "music",
+      "nrg",
+      "nrj",
+      "party",
+      "party hits",
+      "party mix",
+      "pop",
+      "radio",
+      "rap",
+      "retro",
+      "urban"
+    ],
+    "homepage": "https://radionrg.com/",
+    "favicon": "https://radionrg.com/img/radionrg.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-02-20T19:21:55Z"
+  },
+  {
     "id": "awb_942dfd876c8517d39c0f",
     "name": "Radio ORV",
     "country": "BG",
@@ -4691,7 +4751,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/cafe.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-17T23:58:43Z"
+    "updatedAt": "2026-10-22T04:10:58Z"
   },
   {
     "id": "awb_7d6da6ea41204bd17f3f",
@@ -4923,7 +4983,7 @@
     "favicon": "https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-17T07:20:45Z"
+    "updatedAt": "2026-10-22T06:48:24Z"
   },
   {
     "id": "awb_eebab4e816707604e006",
@@ -6412,7 +6472,7 @@
     "id": "awb_ceac03347026f81dacb7",
     "name": "��� � ����� �����",
     "country": "BG",
-    "subdivision": "Sofia City",
+    "subdivision": "Shumen",
     "languages": [
       "bg"
     ],
@@ -6426,7 +6486,7 @@
       "public radio",
       "talk"
     ],
-    "homepage": "https://bnrnews.bg/sofia",
+    "homepage": "https://bnrnews.bg/shumen",
     "favicon": null,
     "type": "public",
     "sourceCount": 8,

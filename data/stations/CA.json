@@ -8708,20 +8708,6 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
-    "id": "awb_ca004d7f3ab20e892268",
-    "name": "CHOI 98,1 Radio X",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiox.com/",
-    "favicon": "https://radiox.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_9400b580214de8fda6bd",
     "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
     "country": "CA",
@@ -8742,6 +8728,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:49:38Z"
+  },
+  {
+    "id": "awb_ca004d7f3ab20e892268",
+    "name": "CHOI 98.1 Radio X",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_0db5abdaad511193eccc",
@@ -27237,7 +27237,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto, ON",
+    "subdivision": "Toronto",
     "languages": [],
     "categories": [
       "jazz"
@@ -27246,7 +27246,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,

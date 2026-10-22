@@ -5244,6 +5244,28 @@
     "updatedAt": "2026-08-22T01:52:14Z"
   },
   {
+    "id": "awb_715c47013997bbb339ae",
+    "name": "FM Rainbow Visakhapatnam",
+    "country": "IN",
+    "subdivision": "Andhra Pradesh",
+    "languages": [
+      "te"
+    ],
+    "categories": [
+      "public"
+    ],
+    "tags": [
+      "fm rainbow",
+      "music",
+      "public radio"
+    ],
+    "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
+    "favicon": null,
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-08-22T07:09:55Z"
+  },
+  {
     "id": "awb_ce2be44c46e8eec60dcb",
     "name": "fm-city-100-1",
     "country": "IN",
@@ -6104,11 +6126,14 @@
       "ta"
     ],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "tamil cinema music",
+      "tamil music"
+    ],
     "homepage": "https://southradios.com/",
-    "favicon": null,
+    "favicon": "https://southradios.com/assets/images/logo/logo90.webp",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -9568,6 +9593,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_740d70803212496c72d9",
+    "name": "Parwaz Radio Punjabi",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/04/parwaz-radio.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_55ce9ba73c79f416bee4",

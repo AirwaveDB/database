@@ -682,7 +682,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Athens Greece",
+    "subdivision": "Kozani",
     "languages": [
       "el",
       "en"
@@ -2122,7 +2122,7 @@
     "id": "awb_97841c7b9f3b00a5469b",
     "name": "A1812Radio",
     "country": "GR",
-    "subdivision": "Attica, Athens",
+    "subdivision": "Athens Greece",
     "languages": [],
     "categories": [],
     "tags": [],
@@ -5664,7 +5664,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://s6.citrus3.com/stream/coolradio",
+    "homepage": "http://s6.citrus3.com/stream/coolradio",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -11641,7 +11641,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-17T20:49:52Z"
+    "updatedAt": "2026-10-22T07:00:49Z"
   },
   {
     "id": "awb_6238359a928c7aa2b0fe",
@@ -14440,7 +14440,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-17T18:05:29Z"
+    "updatedAt": "2026-10-21T21:43:10Z"
   },
   {
     "id": "awb_f6721fc2fc91afd0e9b8",
@@ -23421,7 +23421,7 @@
     "favicon": "https://rebetis.duckdns.org/rebetis.png",
     "type": null,
     "sourceCount": 7,
-    "updatedAt": "2026-10-17T19:11:19Z"
+    "updatedAt": "2026-10-22T06:20:45Z"
   },
   {
     "id": "awb_d7a84c80fd5892c5a153",
@@ -26943,7 +26943,7 @@
     "favicon": "https://studio19.gr/images/Studio19_logo2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T12:12:22Z"
+    "updatedAt": "2026-10-21T22:59:51Z"
   },
   {
     "id": "awb_5576fa95e6cc10a65f36",
@@ -30675,6 +30675,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:26:48Z"
+  },
+  {
+    "id": "awb_bbc4ce35778ad2c762ca",
+    "name": "Δημοτικό Ραδιόφωνο Ιωαννίνων 98.7",
+    "country": "GR",
+    "subdivision": "Ioannina",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "municipal",
+      "music",
+      "news",
+      "news talk"
+    ],
+    "homepage": "https://www.dimotikoradiofono.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/677e35af-49d1-49c3-a1d6-7f11940100ae.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-09-19T18:59:49Z"
   },
   {
     "id": "awb_37952e47ee08d4dfd244",
@@ -34947,6 +34971,25 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_ab52655af59ee9fa04d8",
+    "name": "Ξάνθη 93.5",
+    "country": "GR",
+    "subdivision": "Xanthi",
+    "languages": [],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "cultural",
+      "jazz"
+    ],
+    "homepage": "https://staging.radioxanthi.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/9a65e075-0221-4daf-b983-026014973cdd.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T18:43:57Z"
   },
   {
     "id": "awb_f2a782399ca9e1fb7243",

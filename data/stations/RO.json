@@ -5872,7 +5872,7 @@
   },
   {
     "id": "awb_c5814f64112ea11d099f",
-    "name": "OK MUSIC RADIO -Botoșani",
+    "name": "OK Music Radio -Botoșani",
     "country": "RO",
     "subdivision": null,
     "languages": [
@@ -7552,6 +7552,40 @@
     "updatedAt": "2026-01-15T01:12:36Z"
   },
   {
+    "id": "awb_98e09b503f3fc975de57",
+    "name": "Radio Camarad LIVE",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [
+      "ro",
+      "roh",
+      "rup"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "history",
+      "jewish",
+      "legionar",
+      "nationalism",
+      "nationalist",
+      "orthodox",
+      "orthodoxy",
+      "ortodox",
+      "peace",
+      "romania",
+      "romanian",
+      "ww2"
+    ],
+    "homepage": "https://radiocamarad.com/",
+    "favicon": "https://radiocamarad.com/img/logo-500.jpg",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-22T07:27:25Z"
+  },
+  {
     "id": "awb_036e6626f61257c95365",
     "name": "Radio Campus Transilvania",
     "country": "RO",
@@ -8726,7 +8760,7 @@
     "favicon": "https://radiofiladelfia.ro/wp-content/uploads/2020/03/Radio-Filadelfia_logo_500px.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-16T22:42:40Z"
+    "updatedAt": "2026-10-21T23:31:40Z"
   },
   {
     "id": "awb_fdecb3d280c4fac29329",
@@ -11013,6 +11047,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-13T14:11:35Z"
+  },
+  {
+    "id": "awb_42ff11a27da7eb998b1c",
+    "name": "Radio Noise We Love 90s",
+    "country": "RO",
+    "subdivision": "Bucharest",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radionoise.ro/",
+    "favicon": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-We-Love-90s-Logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-07-13T14:10:46Z"
   },
   {
     "id": "awb_3e8768a7ba02dcf8902f",

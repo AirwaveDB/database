@@ -6217,6 +6217,20 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_6bab74ef4eb4b10e3ac6",
+    "name": "Jovem Pan FM",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://jovempan.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T05:08:19Z"
+  },
+  {
     "id": "awb_23a0ea8f2252bb843a9a",
     "name": "Jovem Pan FM - Belo Horizonte - MG - 99.1 Mhz",
     "country": "BR",
@@ -11393,7 +11407,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC+",
+    "name": "Rádio AMC",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -11408,7 +11422,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
+    "favicon": "https://radioamc.com.br/shared/amclogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -14637,7 +14651,7 @@
   },
   {
     "id": "awb_1b25463ba387190ec3ab",
-    "name": "Rádio Digital fm",
+    "name": "rádio Digital fm",
     "country": "BR",
     "subdivision": null,
     "languages": [],
@@ -14983,6 +14997,30 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
+    "id": "awb_fd245a0b1ca40a381c6d",
+    "name": "Rádio Em Defesa da Sã Doutrina",
+    "country": "BR",
+    "subdivision": "Goiás",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "evangelical",
+      "gospel",
+      "portuguese",
+      "religious"
+    ],
+    "homepage": "https://igrejapentecostaldedeuscirurgiadivina.vercel.app/",
+    "favicon": "https://igrejapentecostaldedeuscirurgiadivina.vercel.app/assets/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T22:24:31Z"
+  },
+  {
     "id": "awb_dd9bc9e17cc4c4815b0c",
     "name": "Rádio Emboabas FM 96,9 Mhz (São João Del Rei - MG)",
     "country": "BR",
@@ -15171,17 +15209,19 @@
     "id": "awb_a9e6c546c8b0d43f0694",
     "name": "Rádio Estádio",
     "country": "BR",
-    "subdivision": null,
-    "languages": [],
+    "subdivision": "Pernambuco",
+    "languages": [
+      "pt"
+    ],
     "categories": [],
     "tags": [
       "futebol"
     ],
     "homepage": "https://toligado.net.br/",
-    "favicon": null,
+    "favicon": "https://cordeiroplasticos.com.br/estadio1.jpg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-04-22T07:53:36Z"
   },
   {
     "id": "awb_a342dfb9ec362fdb109f",
@@ -25455,7 +25495,7 @@
       "modao"
     ],
     "homepage": "https://violaviva.com.br/instrumental/",
-    "favicon": "https://a.favicon.im/violaviva.com.br",
+    "favicon": "https://violaviva.com.br/wp-content/uploads/2026/01/cropped-5-192x192.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T20:28:37Z"

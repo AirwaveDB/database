@@ -8953,7 +8953,7 @@
     "favicon": "https://aspradio.au/static/uploads/browser_icon/original.1709873524.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-17T19:57:32Z"
+    "updatedAt": "2026-10-21T23:18:23Z"
   },
   {
     "id": "awb_a1ad733d531b36b1afea",
@@ -17104,6 +17104,30 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_9e49de485e4bb3047fc0",
+    "name": "Coast 2 Coast Radio Australia",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "dance",
+      "hits",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://c2cra.online/",
+    "favicon": "https://c2cra.online/wp-content/uploads/2026/03/update_logo-1-1024x683.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T22:38:21Z"
+  },
+  {
     "id": "awb_3e2a67c815bf708d3ca3",
     "name": "Coast FM",
     "country": "AU",
@@ -24114,6 +24138,52 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_5debbfae1aae9cf03b65",
+    "name": "Lofty Community Media",
+    "country": "AU",
+    "subdivision": "South Australia",
+    "languages": [],
+    "categories": [
+      "community",
+      "country",
+      "folk",
+      "jazz",
+      "news",
+      "pop",
+      "religious",
+      "rock",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "adelaide hills",
+      "australian",
+      "christian",
+      "community access media",
+      "country",
+      "folk",
+      "football",
+      "funk",
+      "hfl",
+      "jazz",
+      "local information",
+      "mixed genre",
+      "mount barker",
+      "music",
+      "news",
+      "pop",
+      "rock",
+      "south australia",
+      "sport",
+      "talk"
+    ],
+    "homepage": "https://lofty.org.au/",
+    "favicon": "https://lofty.org.au/wp-content/uploads/2017/11/Loftyavatar-300x300.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-06-16T02:24:02Z"
   },
   {
     "id": "awb_7b6f1fd092476cf4fc8a",
@@ -33592,6 +33662,20 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:17:03Z"
+  },
+  {
+    "id": "awb_7368102bd4e92e79948e",
+    "name": "UltraCool Radio",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.ultracoolradio.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_6a8f21e7662013192c8d",

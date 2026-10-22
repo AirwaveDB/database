@@ -210,7 +210,7 @@
     "favicon": "https://meta.1zwolle.nl/logos/64x64.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T12:13:36Z"
+    "updatedAt": "2026-10-22T03:33:37Z"
   },
   {
     "id": "awb_3861f863ae11d5bbecf3",
@@ -942,7 +942,7 @@
     "favicon": "https://forums.ah.fm/data/assets/logo/favicon.png",
     "type": null,
     "sourceCount": 8,
-    "updatedAt": "2026-10-17T22:31:08Z"
+    "updatedAt": "2026-10-22T01:17:50Z"
   },
   {
     "id": "awb_e499ee5a4e0ed96f5c3d",
@@ -1842,6 +1842,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_cdd051f2b944f48272cf",
+    "name": "boy woortman",
+    "country": "NL",
+    "subdivision": "Enschede",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.dedraaiorgel.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T16:07:17Z"
   },
   {
     "id": "awb_80cc82ba49ef2ce519f8",
@@ -5909,6 +5923,26 @@
     "updatedAt": "2026-01-15T07:11:09Z"
   },
   {
+    "id": "awb_58fcc6984f56c1a711f9",
+    "name": "Heimatradio.nl",
+    "country": "NL",
+    "subdivision": "Gelderland",
+    "languages": [
+      "de",
+      "en",
+      "nl"
+    ],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://heimatradio.nl/",
+    "favicon": "https://heimatradio.nl/wp-content/uploads/2025/10/Heimatradio-Hoofdtelefoon-4k.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T09:38:24Z"
+  },
+  {
     "id": "awb_429c48729c0c652dd554",
     "name": "Henk's Streaming Audio",
     "country": "NL",
@@ -9189,7 +9223,7 @@
     "id": "awb_8a0d399c51b7ae5a645a",
     "name": "MeerRadio",
     "country": "NL",
-    "subdivision": "Noord-Holland",
+    "subdivision": "Noord-Holland, Haarlemmermeer",
     "languages": [
       "nl"
     ],
@@ -9203,7 +9237,7 @@
       "local news",
       "pop music"
     ],
-    "homepage": "https://meerradio.nl/radio/luister-naar-meerradio/",
+    "homepage": "https://meerradio.nl/",
     "favicon": "https://meerradio.nl/wp-content/uploads/2023/07/Watermerk-meerradio.png",
     "type": "community",
     "sourceCount": 2,
@@ -9978,6 +10012,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:41:04Z"
+  },
+  {
+    "id": "awb_1d61a129eb23adec955d",
+    "name": "Nieuwspaal Radio",
+    "country": "NL",
+    "subdivision": "Noord-Holland",
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [
+      "music"
+    ],
+    "homepage": "https://nieuwspaal.nl/",
+    "favicon": "https://nieuwspaal.nl/pwa/nieuwspaal-pwa-icon-256x256-t.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T10:18:01Z"
   },
   {
     "id": "awb_d2771b68328715acd1bd",
@@ -10916,6 +10968,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T18:09:41Z"
+  },
+  {
+    "id": "awb_e43264a68c76391d14f6",
+    "name": "Octaaf Radio",
+    "country": "NL",
+    "subdivision": "Zuid Holland",
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "70s 80s 90s00s 20s"
+    ],
+    "homepage": "https://octaafradio.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-21T13:22:40Z"
   },
   {
     "id": "awb_dda2b96590b21941e411",
@@ -12874,12 +12946,12 @@
     "id": "awb_14ceba8d1d61b15cdc22",
     "name": "Power FM Breda",
     "country": "NL",
-    "subdivision": "Noord-Brabant",
+    "subdivision": "Noord Brabant",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://powerfmbreda.x10.mx/",
-    "favicon": "https://powerfmbreda.x10.mx/wp-content/uploads/fbrfg/favicon.svg",
+    "favicon": "https://powerfmbreda.x10.mx/favicon.png",
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-03-11T09:52:26Z"
@@ -12942,6 +13014,7 @@
     "country": "NL",
     "subdivision": null,
     "languages": [
+      "en",
       "nl"
     ],
     "categories": [
@@ -12954,8 +13027,8 @@
     "homepage": "https://progressieverock.nl/",
     "favicon": "https://progressieverock.nl/logo.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-02T10:18:39Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-08-08T06:48:54Z"
   },
   {
     "id": "awb_207b336bd057ef0c67ec",
@@ -19868,7 +19941,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T02:01:14Z"
+    "updatedAt": "2026-10-22T02:07:34Z"
   },
   {
     "id": "awb_dd748d6ac2bea7f2fb37",
