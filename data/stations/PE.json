@@ -710,7 +710,7 @@
     "id": "awb_214a09e246b76d46e0f5",
     "name": "Full Techno",
     "country": "PE",
-    "subdivision": null,
+    "subdivision": "Lima",
     "languages": [
       "es"
     ],
@@ -718,6 +718,7 @@
       "electronic"
     ],
     "tags": [
+      "clasicos del techno",
       "dance",
       "electronic",
       "house",
@@ -725,10 +726,10 @@
       "trance"
     ],
     "homepage": "https://www.full-techno.com/",
-    "favicon": null,
+    "favicon": "https://i.postimg.cc/m2GsqtzZ/1000484475.jpg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-23T01:20:27Z"
   },
   {
     "id": "awb_aa614d3c6ed1b8330fce",
@@ -2019,7 +2020,7 @@
     "favicon": "https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T16:53:14Z"
+    "updatedAt": "2026-10-22T18:47:20Z"
   },
   {
     "id": "awb_1b104ad6bd36161f6122",
@@ -2129,6 +2130,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_391ce3c3fec79862f7f9",
+    "name": "Radio Amistades Forever",
+    "country": "PE",
+    "subdivision": "Junín",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "baladas",
+      "pop",
+      "rocks"
+    ],
+    "homepage": "https://imvt.ddns.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-12T09:20:06Z"
   },
   {
     "id": "awb_66cc9e50c1271864f348",

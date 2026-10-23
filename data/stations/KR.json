@@ -239,6 +239,29 @@
     "updatedAt": "2026-01-15T01:12:03Z"
   },
   {
+    "id": "awb_346cb38d2b765b629b06",
+    "name": "Busan e FM",
+    "country": "KR",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "education",
+      "information",
+      "music",
+      "news"
+    ],
+    "homepage": null,
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTihZxBHWCYGJUDwM_NZ_UtayatOGsQZ3i-X3hPaFx3vw&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T12:27:33Z"
+  },
+  {
     "id": "awb_11e79208a13fb7ee30f2",
     "name": "CBS Joy FM",
     "country": "KR",
@@ -1141,6 +1164,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:39:51Z"
+  },
+  {
+    "id": "awb_91c6ff13da42066afce6",
+    "name": "MBC Munhwa Bangsong FM 4U",
+    "country": "KR",
+    "subdivision": null,
+    "languages": [
+      "ko"
+    ],
+    "categories": [
+      "anime",
+      "pop"
+    ],
+    "tags": [
+      "classic hits",
+      "entertainment",
+      "k-pop",
+      "pop music"
+    ],
+    "homepage": "https://m.imbc.com/radiomain",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfZhAjmDC9Q6KIOILQiRnGR7_KpXwJ_RwArzYCNVwPg&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T12:28:31Z"
   },
   {
     "id": "awb_f29d4f68444b2c949894",

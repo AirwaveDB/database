@@ -8669,7 +8669,7 @@
     "favicon": "https://www.radio-zoom.de/fileadmin/template_2022/image/favicon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T20:49:52Z"
+    "updatedAt": "2026-10-22T22:16:21Z"
   },
   {
     "id": "awb_0e861c5e4d8c7f9f634c",
@@ -15299,18 +15299,33 @@
       "en"
     ],
     "categories": [
+      "ambient",
+      "pop",
+      "punk",
+      "rock",
       "talk"
     ],
     "tags": [
       "ai",
-      "talk",
-      "various"
+      "ambient",
+      "downtempo",
+      "electro",
+      "electropop",
+      "funk",
+      "indie pop",
+      "indie rock",
+      "pop",
+      "punk",
+      "rock",
+      "soft rock",
+      "synthwave",
+      "talk"
     ],
     "homepage": "https://radio.node-io.dev/",
     "favicon": "https://radio.node-io.dev/static/logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T23:22:44Z"
+    "updatedAt": "2026-10-22T23:53:23Z"
   },
   {
     "id": "awb_22dede5c8fbe230c9659",
@@ -16260,7 +16275,7 @@
       "pop music"
     ],
     "homepage": "https://www.antenneac.de/",
-    "favicon": "https://logos-der-nrwlokalradios.s3.eu-central-1.amazonaws.com/0172-36-13.png",
+    "favicon": "https://stream.antenneac.de/aac",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-10T14:34:53Z"
@@ -19329,7 +19344,7 @@
   },
   {
     "id": "awb_1d190ad77ab885676d97",
-    "name": "arberwaldradio",
+    "name": "Arberwaldradio",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -19339,7 +19354,7 @@
     "tags": [
       "folk"
     ],
-    "homepage": "https://www.arberwoidradio.com/",
+    "homepage": "https://arberwoidradio.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -19463,7 +19478,7 @@
     "id": "awb_9f6c026e52f2cc2ab155",
     "name": "as.if.radio",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
+    "subdivision": "Cologne",
     "languages": [
       "de",
       "en"
@@ -19497,7 +19512,7 @@
       "werbefrei"
     ],
     "homepage": "https://www.as-if-radio.com/",
-    "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+    "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-04T14:43:37Z"
@@ -19606,7 +19621,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T11:11:11Z"
+    "updatedAt": "2026-10-22T11:49:20Z"
   },
   {
     "id": "awb_7784eae281f93e075d75",
@@ -20188,7 +20203,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T22:41:56Z"
+    "updatedAt": "2026-10-22T23:43:41Z"
   },
   {
     "id": "awb_86ffb3b45aafce133481",
@@ -20208,7 +20223,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T15:29:51Z"
+    "updatedAt": "2026-10-22T15:45:01Z"
   },
   {
     "id": "awb_42d1ea05745a5324df7f",
@@ -20248,7 +20263,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T10:44:59Z"
+    "updatedAt": "2026-10-22T10:58:25Z"
   },
   {
     "id": "awb_1b8ce7ea002d4dbf214c",
@@ -20308,7 +20323,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T11:23:52Z"
+    "updatedAt": "2026-10-22T12:49:04Z"
   },
   {
     "id": "awb_ee7f8a2f92bf52e85745",
@@ -20326,7 +20341,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:5d72d15e88d309ec?w=512",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T19:01:44Z"
+    "updatedAt": "2026-10-22T19:18:01Z"
   },
   {
     "id": "awb_8f4108de1262d33be829",
@@ -20398,7 +20413,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:52fd25fc45de7c6a?w=512",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T17:18:24Z"
+    "updatedAt": "2026-10-22T17:56:17Z"
   },
   {
     "id": "awb_13056cb34438f3cd9cff",
@@ -23556,7 +23571,7 @@
     "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-22T03:49:13Z"
+    "updatedAt": "2026-10-22T13:40:09Z"
   },
   {
     "id": "awb_f57c55eac446fe41ce7f",
@@ -23935,7 +23950,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:37a3d50efe6feacb?w=512",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T10:44:12Z"
+    "updatedAt": "2026-10-22T12:14:32Z"
   },
   {
     "id": "awb_3ff3657f3e5e9f8779e6",
@@ -23953,7 +23968,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:9091a20989ecaad5?w=512",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T15:54:50Z"
+    "updatedAt": "2026-10-22T17:40:34Z"
   },
   {
     "id": "awb_19ad174ad362fb4e0ed5",
@@ -23973,7 +23988,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:476e47d76c4bbf78?w=512",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-17T16:24:33Z"
+    "updatedAt": "2026-10-22T17:59:16Z"
   },
   {
     "id": "awb_421f2cbcfe41780019b7",
@@ -24638,7 +24653,7 @@
       "pop"
     ],
     "homepage": "https://www.bremenzwei.de/",
-    "favicon": "https://www.bremenzwei.de/static/img/favicons/favicon-32.png?v=4",
+    "favicon": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:44:42Z"
@@ -24919,7 +24934,7 @@
     "homepage": "https://t.me/Am3el1us",
     "favicon": "https://pbs.twimg.com/profile_images/469051279486906368/QLjkWvWr.jpeg",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 3,
     "updatedAt": "2026-01-15T04:32:05Z"
   },
   {
@@ -25281,8 +25296,8 @@
     "homepage": "https://chaos.social/@satanskrapfen.rss",
     "favicon": "https://scontent-ber1-1.xx.fbcdn.net/v/t1.6435-9/86970785_108025277452220_6505182501885968384_n.jpg?_nc_ohc=YML4NReJxJ0AX-sIF_a&_nc_ht=scontent-ber1-1.xx&oh=00_AfBrBUHlcVxiVf566NyOHz1OS9nI1o5nlmXdKu-s1wflSQ&oe=65F33FDC",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:42:49Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-01-15T05:05:13Z"
   },
   {
     "id": "awb_4586ad086e75294b9520",
@@ -25781,7 +25796,7 @@
     "favicon": "https://chillhouse-live.com/chillhouse-radio-logo.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-22T05:24:49Z"
+    "updatedAt": "2026-10-22T12:32:52Z"
   },
   {
     "id": "awb_7f30cd2c1b972a1bab77",
@@ -29019,7 +29034,7 @@
     "favicon": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T17:42:54Z"
+    "updatedAt": "2026-10-22T18:59:58Z"
   },
   {
     "id": "awb_5b96b0d9ab72372f0ca5",
@@ -29065,7 +29080,7 @@
     "favicon": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-18T00:23:11Z"
+    "updatedAt": "2026-10-23T01:08:24Z"
   },
   {
     "id": "awb_337dcb0b428620439c32",
@@ -29115,7 +29130,7 @@
     "favicon": "https://www.deutschlandradio.de/static/img/deutschlandradio/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T17:48:58Z"
+    "updatedAt": "2026-10-22T21:13:20Z"
   },
   {
     "id": "awb_6e524d08d348820df500",
@@ -29165,7 +29180,7 @@
     "favicon": "https://www.deutschlandradio.de/static/img/deutschlandradio/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T20:15:53Z"
+    "updatedAt": "2026-10-22T20:44:48Z"
   },
   {
     "id": "awb_5c4f6a9ff9bf68977538",
@@ -29227,7 +29242,7 @@
     "favicon": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T06:11:35Z"
+    "updatedAt": "2026-10-22T07:57:31Z"
   },
   {
     "id": "awb_9fa893bb77ab43ea4176",
@@ -29250,7 +29265,7 @@
     "favicon": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T10:38:01Z"
+    "updatedAt": "2026-10-22T11:22:45Z"
   },
   {
     "id": "awb_13302162b4f65a01d767",
@@ -29296,7 +29311,7 @@
     "favicon": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T15:46:08Z"
+    "updatedAt": "2026-10-22T16:00:16Z"
   },
   {
     "id": "awb_8b569bcb70c406a440a7",
@@ -29319,7 +29334,7 @@
     "favicon": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T08:36:48Z"
+    "updatedAt": "2026-10-22T09:23:05Z"
   },
   {
     "id": "awb_08f2040241b2ab3628e1",
@@ -29356,7 +29371,7 @@
     "favicon": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T18:30:35Z"
+    "updatedAt": "2026-10-22T20:33:56Z"
   },
   {
     "id": "awb_fb82c93d4194aa4c7734",
@@ -29379,7 +29394,7 @@
     "favicon": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T10:10:05Z"
+    "updatedAt": "2026-10-22T10:46:27Z"
   },
   {
     "id": "awb_8e1702a4df47ca004453",
@@ -29402,7 +29417,7 @@
     "favicon": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T18:09:31Z"
+    "updatedAt": "2026-10-22T18:22:34Z"
   },
   {
     "id": "awb_fe5f93a0704277e2d3ca",
@@ -29471,7 +29486,7 @@
     "favicon": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T15:41:59Z"
+    "updatedAt": "2026-10-22T17:44:40Z"
   },
   {
     "id": "awb_bd547ce4d00a5ca66f6c",
@@ -36958,7 +36973,7 @@
     "favicon": "https://www.euer-radio.de/images/Logo6.Erde.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-22T05:17:00Z"
+    "updatedAt": "2026-10-22T21:08:21Z"
   },
   {
     "id": "awb_1938d908d53f2599bd6a",
@@ -37269,7 +37284,7 @@
     "favicon": "https://extra-radio.de/wp-content/uploads/2023/03/cropped-favicon-extraradio-192x192.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T12:58:39Z"
+    "updatedAt": "2026-10-22T13:40:09Z"
   },
   {
     "id": "awb_da00f12334a81ee102e9",
@@ -38360,7 +38375,7 @@
       "rock",
       "soul"
     ],
-    "homepage": "https://flaemingradio.de/",
+    "homepage": "https://www.flaemingradio.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -44162,7 +44177,7 @@
     "favicon": "https://www.hertz879.de/wp-content/themes/wp-hertz/assets/img/favicon.ico",
     "type": "college",
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T12:17:03Z"
+    "updatedAt": "2026-10-22T12:19:29Z"
   },
   {
     "id": "awb_c71785f2879db10db4b6",
@@ -47671,7 +47686,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-22T03:20:01Z"
+    "updatedAt": "2026-10-22T21:00:36Z"
   },
   {
     "id": "awb_d45e0c5d3fc2b5f52ab6",
@@ -51956,6 +51971,59 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_a57145c43fb4945e2f27",
+    "name": "Lasota",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "electronic",
+      "hip-hop"
+    ],
+    "tags": [
+      "disco",
+      "funk",
+      "hiphop",
+      "house",
+      "rnb",
+      "soul"
+    ],
+    "homepage": "https://laut.fm/lasota",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T02:23:24Z"
+  },
+  {
+    "id": "awb_854fac7d6e7c7dca969e",
+    "name": "Latehome Radio",
+    "country": "DE",
+    "subdivision": "NRW",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "electronic",
+      "rock"
+    ],
+    "tags": [
+      "blues rock",
+      "classic rock",
+      "electronic",
+      "hard rock",
+      "progressive rock"
+    ],
+    "homepage": "https://latehome.de/",
+    "favicon": "https://www.startpage.com/sp/search",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T11:11:42Z"
+  },
+  {
     "id": "awb_9f7630801c5dc2b1c8dd",
     "name": "LAUSITZWELLE",
     "country": "DE",
@@ -52810,13 +52878,17 @@
     "country": "DE",
     "subdivision": null,
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
     "homepage": "https://laut.fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_8aabd1b08af2eb673a69",
@@ -56026,6 +56098,29 @@
     "updatedAt": "2026-01-14T23:18:26Z"
   },
   {
+    "id": "awb_a04128af5109624c7e7b",
+    "name": "Lueneburger Radio,AutoDJ",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "80er",
+      "90er",
+      "oldies",
+      "pop",
+      "schlager"
+    ],
+    "homepage": null,
+    "favicon": "https://xn--lneburger-radio-zvb.de/wp-content/uploads/2024/02/343301329_926617238457915_1386385931747483500_n-768x768.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
     "id": "awb_9d70c0e3f5409f290f97",
     "name": "Lumaxit Radio",
     "country": "DE",
@@ -56625,7 +56720,7 @@
     "favicon": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T20:51:58Z"
+    "updatedAt": "2026-10-23T07:09:57Z"
   },
   {
     "id": "awb_aec2687c3ccce7b89ec1",
@@ -68889,7 +68984,7 @@
     "favicon": "https://www.radio80k.de/app/uploads/2022/10/cropped-favicon-8000-192x192.gif",
     "type": "community",
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T12:41:19Z"
+    "updatedAt": "2026-10-22T13:41:54Z"
   },
   {
     "id": "awb_c98f7fff2ebe5a433210",
@@ -70128,7 +70223,7 @@
   },
   {
     "id": "awb_64da13ba48280ff8393c",
-    "name": "Radio BOB",
+    "name": "Radio Bob",
     "country": "DE",
     "subdivision": "Hessen (Kassel)",
     "languages": [
@@ -70136,7 +70231,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobob.de/#",
+    "homepage": "https://www.radiobob.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -72784,7 +72879,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobreidenbach.de/",
+    "homepage": "https://www.radiobreidenbach.de/index.php?seite=startseite",
     "favicon": "https://www.radiobreidenbach.de/templates/favicon.ico",
     "type": null,
     "sourceCount": 2,
@@ -76428,6 +76523,44 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_c513f89959c1017df056",
+    "name": "Radio Grammo",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "languages": [],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community",
+      "greek"
+    ],
+    "homepage": "https://myonlineradio.de/radio-grammo",
+    "favicon": null,
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-09-28T19:53:43Z"
+  },
+  {
+    "id": "awb_0a2e326ad0d456463645",
+    "name": "Radio Grammo - Das Schellack-Radio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "78",
+      "schellack"
+    ],
+    "homepage": "https://www.radio-grammo.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:38:37Z"
   },
   {
     "id": "awb_31f1737e986173c1926d",
@@ -81713,7 +81846,7 @@
     "favicon": "https://radio-r.de/images/radio-r/favicon.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-21T21:49:46Z"
+    "updatedAt": "2026-10-22T22:32:53Z"
   },
   {
     "id": "awb_fa8f2464fa855b593220",
@@ -84628,7 +84761,7 @@
     "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
     "type": "college",
     "sourceCount": 17,
-    "updatedAt": "2026-10-22T06:43:47Z"
+    "updatedAt": "2026-10-22T21:55:11Z"
   },
   {
     "id": "awb_41ddcbb3d618cd8ae305",
@@ -88685,7 +88818,7 @@
     "favicon": "https://refugeworldwide.com/apple-touch-icon.png",
     "type": "community",
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T11:55:11Z"
+    "updatedAt": "2026-10-22T12:27:33Z"
   },
   {
     "id": "awb_e08c054ce3a42ccf33b7",
@@ -105842,12 +105975,14 @@
       "de"
     ],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "musik der 80er"
+    ],
     "homepage": "https://www1.wdr.de/radio/wdr4/index.html",
     "favicon": "https://www1.wdr.de/resources/img/wdr/logo/epgmodule/wdr4_logo_claim.svg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-01T14:36:30Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-22T14:00:37Z"
   },
   {
     "id": "awb_397f513354577e44038a",

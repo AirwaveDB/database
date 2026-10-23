@@ -5872,7 +5872,7 @@
   },
   {
     "id": "awb_c5814f64112ea11d099f",
-    "name": "OK Music Radio -Botoșani",
+    "name": "OK MUSIC RADIO -Botoșani",
     "country": "RO",
     "subdivision": null,
     "languages": [
@@ -7273,6 +7273,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_4738833f781b53c4f8d1",
+    "name": "Radio BOOM Energy -Buzău",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "dance"
+    ],
+    "homepage": "https://stream.radioboom.ro/public/boom_energy",
+    "favicon": "https://live.radioboom.ro/generic_song-energy.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-05-15T18:31:09Z"
   },
   {
     "id": "awb_33656cea9254aeeee9ff",
@@ -9277,6 +9293,22 @@
     "updatedAt": "2026-08-30T07:36:45Z"
   },
   {
+    "id": "awb_ec33b770c5ce4d66945a",
+    "name": "Radio Glasul Ortodoxiei",
+    "country": "RO",
+    "subdivision": "internet",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "crestin-ortodox"
+    ],
+    "homepage": "https://glasulortodoxiei.ro/",
+    "favicon": "https://glasulortodoxiei.ro/wp-content/uploads/2026/05/logo-png-cruce.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T20:09:20Z"
+  },
+  {
     "id": "awb_f82242ada69e05f833a3",
     "name": "Radio GMusic Colinde",
     "country": "RO",
@@ -9746,6 +9778,26 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_8bf62a7541ba3a95abba",
+    "name": "Radio Killer Turda",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "local radio",
+      "music",
+      "news"
+    ],
+    "homepage": "https://radio-killer.ro/",
+    "favicon": "https://files.cdn-files-a.com/uploads/6878586/400_66dbf7e00ffe0.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-05-21T11:36:32Z"
   },
   {
     "id": "awb_511034c5c67d8af699bd",

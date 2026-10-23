@@ -11822,7 +11822,7 @@
     "id": "awb_023f2667c997817c3da6",
     "name": "哈尔滨经济广播",
     "country": "CN",
-    "subdivision": "Amur River",
+    "subdivision": "黑龙江",
     "languages": [
       "zh"
     ],
@@ -28259,6 +28259,27 @@
     "updatedAt": "2026-01-15T00:20:02Z"
   },
   {
+    "id": "awb_bb6688a8cc0450c74766",
+    "name": "登封综合广播",
+    "country": "CN",
+    "subdivision": "Honan",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "music",
+      "news"
+    ],
+    "homepage": "https://www.qingting.fm/radios/5022077",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:00:57Z"
+  },
+  {
     "id": "awb_3012c0e0205684f674cf",
     "name": "白山交通广播",
     "country": "CN",
@@ -32636,7 +32657,7 @@
       "news"
     ],
     "homepage": "https://www.lyg1.com/index.html",
-    "favicon": "https://upload-qn.ajmide.com/p/image/202011/07/200-F8R6QPe8jN1604681117564_638x638.jpg@350w_1l",
+    "favicon": "https://img23.11467.com/2023/02-07/571360612.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T03:55:46Z"
@@ -33649,7 +33670,7 @@
       "information",
       "news"
     ],
-    "homepage": "https://www.nxw.org.cn/",
+    "homepage": "http://www.nxw.org.cn/",
     "favicon": "http://pic.qingting.fm/2017/0413/20170413110818.jpeg",
     "type": null,
     "sourceCount": 2,
@@ -33668,7 +33689,7 @@
       "full service",
       "information"
     ],
-    "homepage": "https://www.nxw.org.cn/",
+    "homepage": "http://www.nxw.org.cn/",
     "favicon": "http://pic.qtfm.cn/2015/0327/2015032716520180.jpg!200",
     "type": null,
     "sourceCount": 2,
@@ -36404,6 +36425,24 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:59:15Z"
+  },
+  {
+    "id": "awb_e0c1aa67a2fb98996cef",
+    "name": "章贡综合广播",
+    "country": "CN",
+    "subdivision": "Kiangsi",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "music"
+    ],
+    "homepage": "https://sj.qq.com/appdetail/com.jxmfkj.www.company.zgfb",
+    "favicon": "http://www.fm160.com/201911/27/2019112716510747226.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-06-07T08:59:56Z"
   },
   {
     "id": "awb_16dafc67e8c41b508dd6",

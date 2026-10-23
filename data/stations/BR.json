@@ -4296,7 +4296,7 @@
     "favicon": "https://redefanfm.com.br/wp-content/uploads/2023/07/favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T17:52:37Z"
+    "updatedAt": "2026-10-22T18:09:05Z"
   },
   {
     "id": "awb_cd2981357d40dbe6e9a3",
@@ -8967,6 +8967,27 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_654185550b1aefd0ae1b",
+    "name": "Na Paz",
+    "country": "BR",
+    "subdivision": "SC",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "pop"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T20:48:04Z"
+  },
+  {
     "id": "awb_1065e9644e356bc101a3",
     "name": "Nacional Web 80",
     "country": "BR",
@@ -9099,6 +9120,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-07T23:17:56Z"
+  },
+  {
+    "id": "awb_79e9c0602d5c5f144389",
+    "name": "NBC FM - Rádio Comunitária de Nova Brasília - Imbituba/SC",
+    "country": "BR",
+    "subdivision": "Santa Catarina",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "esportes",
+      "futebol",
+      "gauchesca",
+      "local news",
+      "noticias",
+      "sertanejo"
+    ],
+    "homepage": "https://www.nbcfm.com.br/",
+    "favicon": "https://www.nbcfm.com.br/wp-content/uploads/sites/7/2022/04/cropped-favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-06-04T18:45:22Z"
   },
   {
     "id": "awb_d682f4c9f68e81784268",
@@ -9670,6 +9716,23 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-18T22:05:28Z"
+  },
+  {
+    "id": "awb_41dcc10a844ac464b82b",
+    "name": "Opara News web rádio Penedo",
+    "country": "BR",
+    "subdivision": "Alagoas",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "eclética",
+      "esportes"
+    ],
+    "homepage": "https://www.oparanews.com.br/",
+    "favicon": "https://www.radios.com.br/aovivo/opara-news/27871",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-06-18T03:05:49Z"
   },
   {
     "id": "awb_26596fada3a5c8a473f9",
@@ -13032,6 +13095,29 @@
     "updatedAt": "2026-07-14T13:35:06Z"
   },
   {
+    "id": "awb_2b7b7954faeaf86005a4",
+    "name": "Rádio Cambirela - Virtual,mas real.",
+    "country": "BR",
+    "subdivision": "Santa Catarina,SC",
+    "languages": [],
+    "categories": [
+      "country",
+      "rock"
+    ],
+    "tags": [
+      "brazillian music",
+      "contenmporary",
+      "country",
+      "retro music",
+      "rock"
+    ],
+    "homepage": "https://radiocambirela.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-03-22T02:08:43Z"
+  },
+  {
     "id": "awb_afbb2d6edd3763aa0cf4",
     "name": "Rádio Campeira FM",
     "country": "BR",
@@ -14086,7 +14172,7 @@
     "favicon": "https://radioaconchego.org/files/2015/03/cropped-cropped-5617042203_961643d1a0_o-180x180.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T23:47:26Z"
+    "updatedAt": "2026-10-23T00:46:07Z"
   },
   {
     "id": "awb_5f174301d3d27e6688ba",
@@ -25182,6 +25268,27 @@
     "updatedAt": "2026-09-25T01:54:26Z"
   },
   {
+    "id": "awb_9b65bc41aa53bc68e34e",
+    "name": "Universidade FM 106,9",
+    "country": "BR",
+    "subdivision": "Maranhão",
+    "languages": [],
+    "categories": [
+      "college"
+    ],
+    "tags": [
+      "local music",
+      "local radio",
+      "radio universitaria",
+      "university radio"
+    ],
+    "homepage": "http://www.universidadefm.ufma.br/",
+    "favicon": null,
+    "type": "college",
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
     "id": "awb_875d4d36bea24eb5710f",
     "name": "Universitária FM 102.1",
     "country": "BR",
@@ -25495,7 +25602,7 @@
       "modao"
     ],
     "homepage": "https://violaviva.com.br/instrumental/",
-    "favicon": "https://violaviva.com.br/wp-content/uploads/2026/01/cropped-5-192x192.png",
+    "favicon": "https://a.favicon.im/violaviva.com.br",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T20:28:37Z"

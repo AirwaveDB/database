@@ -376,7 +376,7 @@
   },
   {
     "id": "awb_50c906d8b25236ec2e93",
-    "name": "88.6 Kiira FM",
+    "name": "88.6 Kiira Fm",
     "country": "UG",
     "subdivision": null,
     "languages": [
@@ -3971,14 +3971,24 @@
     "name": "RADIO SSESE 101.9 FM",
     "country": "UG",
     "subdivision": "Kalangala",
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "tags": [
+      "news",
+      "sports",
+      "talks"
+    ],
     "homepage": "https://stream.zeno.fm/bphnslpg8p1uv",
-    "favicon": null,
+    "favicon": "https://stream.zeno.fm/bphnslpg8p1uv",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-22T05:06:11Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-22T21:33:22Z"
   },
   {
     "id": "awb_c3405c575f9aeb99b005",
@@ -4925,7 +4935,7 @@
   },
   {
     "id": "awb_157cae45a63d534142e8",
-    "name": "TalkSport",
+    "name": "Talksport",
     "country": "UG",
     "subdivision": null,
     "languages": [
@@ -4937,7 +4947,7 @@
     "tags": [
       "sports"
     ],
-    "homepage": "https://radio.talksport.com/stream",
+    "homepage": "https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241102_165602672.jpg?alt=media&token=e2a175e1-3810-4929-84e8-77833dbb5cfd",
     "type": null,
     "sourceCount": 3,

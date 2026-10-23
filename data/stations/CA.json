@@ -8708,6 +8708,20 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
+    "id": "awb_ca004d7f3ab20e892268",
+    "name": "CHOI 98,1 Radio X",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
     "id": "awb_9400b580214de8fda6bd",
     "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
     "country": "CA",
@@ -8728,20 +8742,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:49:38Z"
-  },
-  {
-    "id": "awb_ca004d7f3ab20e892268",
-    "name": "CHOI 98.1 Radio X",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiox.com/",
-    "favicon": "https://radiox.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_0db5abdaad511193eccc",
@@ -20145,8 +20145,8 @@
     "homepage": "https://deadmoonradio.com/",
     "favicon": "https://stream.deadmoonradio.com/static/uploads/album_art.1765903062.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-19T20:10:30Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-22T13:41:54Z"
   },
   {
     "id": "awb_17fc77e0a4e7c2a5aff4",
@@ -20774,7 +20774,7 @@
     "favicon": "https://fullspectrumradio.com/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T15:54:50Z"
+    "updatedAt": "2026-10-22T16:06:18Z"
   },
   {
     "id": "awb_14704d2b6cddb6ffab8a",
@@ -21662,6 +21662,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:20:09Z"
+  },
+  {
+    "id": "awb_841261e67b8a216137cf",
+    "name": "INDI 101-5",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.indi1015.ca/",
+    "favicon": "https://indi1015.ca/wp-content/uploads/2021/09/logo_indi-Reverse.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-05-19T02:11:25Z"
   },
   {
     "id": "awb_62866e2d73722f1c2802",
@@ -28801,6 +28815,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-13T20:42:07Z"
+  },
+  {
+    "id": "awb_e7ee881597c7e5496967",
+    "name": "Yggdrasil Radio",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "ja",
+      "ko"
+    ],
+    "categories": [
+      "anime"
+    ],
+    "tags": [
+      "anime",
+      "jpop",
+      "jrock",
+      "kpop"
+    ],
+    "homepage": "https://yggdrasilradio.com/",
+    "favicon": "https://yggdrasilradio.com/favicon-32x32.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T19:39:21Z"
   },
   {
     "id": "awb_a789db0289dfa72388eb",

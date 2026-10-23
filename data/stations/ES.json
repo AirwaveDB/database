@@ -4932,6 +4932,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_4601a2d2b8611a4f1b93",
+    "name": "Cope + Zamora",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.cope.es/directos/zamora",
+    "favicon": "https://graph.facebook.com/COPE/picture?width=200&height=200",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-07-03T16:55:25Z"
+  },
+  {
     "id": "awb_aa7b0a1105f991d68410",
     "name": "COPE A CORUÑA",
     "country": "ES",
@@ -5516,6 +5530,31 @@
     "updatedAt": "2026-04-16T15:08:08Z"
   },
   {
+    "id": "awb_e6522cc6bebd1f00a559",
+    "name": "Dale Radio",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "electronic",
+      "latin",
+      "pop"
+    ],
+    "tags": [
+      "afrobeat",
+      "dance pop",
+      "deep house",
+      "disco",
+      "hits",
+      "reggaeton"
+    ],
+    "homepage": "https://www.daleradio.es/",
+    "favicon": "https://i.postimg.cc/dtBgbhhb/03-Perfil-cuadrado-pincel.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T22:34:53Z"
+  },
+  {
     "id": "awb_20dcb6e4f2d208750cb3",
     "name": "Dance Wave Retro!",
     "country": "ES",
@@ -5669,7 +5708,7 @@
       "hardstyle",
       "music"
     ],
-    "homepage": "https://decibeliafm.es/web/",
+    "homepage": "https://decibeliafm.es/",
     "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
     "type": null,
     "sourceCount": 2,
@@ -9187,7 +9226,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T21:39:32Z"
+    "updatedAt": "2026-10-22T22:07:41Z"
   },
   {
     "id": "awb_1a0d5615e13b0cbd99ad",
@@ -10355,11 +10394,39 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
+    "id": "awb_2abf0597f59210cd0620",
+    "name": "Josema Metal Radio",
+    "country": "ES",
+    "subdivision": "Almería",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "grindcore",
+      "hardcore",
+      "heavy",
+      "metal",
+      "rock",
+      "thrash"
+    ],
+    "homepage": "https://radio.josema.zapto.org:8443/public/metal",
+    "favicon": "https://radio.josema.zapto.org:8443/static/uploads/browser_icon_metal/192.1792001088.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-22T13:31:58Z"
+  },
+  {
     "id": "awb_8e6bed8d71023a170cc1",
     "name": "Josema MSX Radio",
     "country": "ES",
     "subdivision": "Almería",
     "languages": [
+      "en",
       "es"
     ],
     "categories": [],
@@ -10377,8 +10444,34 @@
     "homepage": "https://radio.josema.zapto.org:8443/public/msx",
     "favicon": "https://radio.josema.zapto.org:8443/static/uploads/browser_icon/192.1791617283.png",
     "type": null,
+    "sourceCount": 4,
+    "updatedAt": "2026-10-22T13:15:38Z"
+  },
+  {
+    "id": "awb_70c272e12dd7f0865831",
+    "name": "Josema Retro Radio",
+    "country": "ES",
+    "subdivision": "Almería",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "arcade",
+      "megadrive",
+      "nes",
+      "pc",
+      "pcengine",
+      "snes",
+      "videogame music",
+      "x68000"
+    ],
+    "homepage": "https://radio.josema.zapto.org:8443/public/retro",
+    "favicon": "https://radio.josema.zapto.org:8443/static/uploads/browser_icon_retro/192.1792001088.png",
+    "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-14T15:43:12Z"
+    "updatedAt": "2026-10-22T13:36:03Z"
   },
   {
     "id": "awb_d864279f25bb5cdc22d3",
@@ -10429,6 +10522,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:49:40Z"
+  },
+  {
+    "id": "awb_bc63c66cf63df4c286df",
+    "name": "KAMIKAZE RADIO",
+    "country": "ES",
+    "subdivision": "Valencia",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://kamikazeradio.com/",
+    "favicon": "https://kamikazeradio.com/wp-content/uploads/2022/01/cropped-logo-web.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T11:00:35Z"
   },
   {
     "id": "awb_0f6ee056b4e19d9a68a4",
@@ -13939,6 +14052,26 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_87a95674c51654a1e438",
+    "name": "Onda Cero Sagunto",
+    "country": "ES",
+    "subdivision": "Sagunto",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "noticias"
+    ],
+    "homepage": "https://www.ondacero.es/emisoras/comunidad-valenciana/sagunto/directo/",
+    "favicon": "https://commons.wikimedia.org/wiki/Special:FilePath/Onda-cero-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T06:12:45Z"
+  },
+  {
     "id": "awb_7ec695e48e6c36cc2fa5",
     "name": "Onda Cero Santander",
     "country": "ES",
@@ -15209,7 +15342,7 @@
     "favicon": "https://punkirratia.net/punkirratia.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-17T20:04:10Z"
+    "updatedAt": "2026-10-22T20:27:49Z"
   },
   {
     "id": "awb_2d748205b8cd10558fa7",
@@ -16998,6 +17131,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-04T07:27:02Z"
+  },
+  {
+    "id": "awb_b595e6b5246e0fcf6734",
+    "name": "Radio Espiritrompa",
+    "country": "ES",
+    "subdivision": "Aragón",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "radio libre"
+    ],
+    "homepage": "https://radioespiritrompa.blogspot.com/",
+    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXPk5ciHXcumgeIMO6TPEpU2pwecm6gTxQHT41KrNFSfONVwXkvOeaUp8Ot4gcg78TOy_9nfGm9nwkCMCavJBGan6Rg1LT3OnHZwdOra5dZ18dwWrXpczb9BvEukEx60_Pb3b2F3O6khJXAjgJWbOL3S2WHwrQdq9h-jmGluMScGcGxmJoRVmoSvsST_sR/s400/Logo%20Radio.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T07:49:33Z"
   },
   {
     "id": "awb_b50d46157199ac038f15",
@@ -23079,6 +23230,24 @@
     "updatedAt": "2026-10-19T21:24:13Z"
   },
   {
+    "id": "awb_b62798c30fb80ab6ac24",
+    "name": "SER Zaragoza",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
     "id": "awb_bd565b0ed045c5e1929c",
     "name": "Sevilla FC Radio",
     "country": "ES",
@@ -23343,6 +23512,24 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_9f490b927bfe94b2119a",
+    "name": "Sonido de Valencia Radio",
+    "country": "ES",
+    "subdivision": "Valencia",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "remember"
+    ],
+    "homepage": "https://sonidodevalenciaradio.com/",
+    "favicon": "https://radiostreamingserver.com/static/uploads/album_art.1753096093.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T09:00:55Z"
   },
   {
     "id": "awb_e0cd00a0d00efa870230",
@@ -24002,7 +24189,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 6,
-    "updatedAt": "2026-10-22T00:48:43Z"
+    "updatedAt": "2026-10-22T23:31:36Z"
   },
   {
     "id": "awb_60668b862f76c8a40ef9",

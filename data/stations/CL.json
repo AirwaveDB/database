@@ -6537,7 +6537,7 @@
   },
   {
     "id": "awb_f85d515686d208619eea",
-    "name": "Radio La Chúkara",
+    "name": "Radio la Chúkara",
     "country": "CL",
     "subdivision": null,
     "languages": [
@@ -7165,6 +7165,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-14T07:10:17Z"
+  },
+  {
+    "id": "awb_bd83229031c1c73fd714",
+    "name": "Radio Nuble 89.7 fm",
+    "country": "CL",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "pop",
+      "talk"
+    ],
+    "homepage": "http://radionuble.cl/linea/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:09:32Z"
   },
   {
     "id": "awb_9f8c5092c97a62590778",
