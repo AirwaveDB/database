@@ -3448,6 +3448,26 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_295671226b2743135375",
+    "name": "DERLEI RADIO",
+    "country": "BR",
+    "subdivision": "PR",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "bots",
+      "derlei",
+      "highrise"
+    ],
+    "homepage": "https://high.rs/user?name=y.Bro",
+    "favicon": "https://high.rs/user?name=y.Bro",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T22:58:22Z"
+  },
+  {
     "id": "awb_d77ff5a06922b6c89a66",
     "name": "Diário FM -Ribeirão Preto",
     "country": "BR",
@@ -7989,7 +8009,7 @@
     "id": "awb_ae4fefbf450bfef15049",
     "name": "Metal Zone Radio",
     "country": "BR",
-    "subdivision": "São Paulo",
+    "subdivision": "Sao Paulo (Brazil)",
     "languages": [],
     "categories": [
       "metal"
@@ -8006,7 +8026,7 @@
       "symphonic metal",
       "trash metal"
     ],
-    "homepage": "http://www.metalzone.radio.br/",
+    "homepage": "https://metalzone.radio.br/",
     "favicon": "https://metalzone.radio.br/assets/img/favicon-512.png",
     "type": null,
     "sourceCount": 2,
@@ -8779,6 +8799,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_0fe6aee12cddd641a381",
+    "name": "multisertaneja",
+    "country": "BR",
+    "subdivision": "RIO ESPERA Minas Gerais Brasil",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://multisertaneja.netlify.app/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T19:56:50Z"
   },
   {
     "id": "awb_b20f2fba433b08226eba",
@@ -13098,7 +13132,7 @@
     "id": "awb_2b7b7954faeaf86005a4",
     "name": "Rádio Cambirela - Virtual,mas real.",
     "country": "BR",
-    "subdivision": "Santa Catarina,SC",
+    "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [
       "country",
@@ -16594,6 +16628,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_f6bca9032f3fff0c5fde",
+    "name": "Rádio Imprensa FM 101,5",
+    "country": "BR",
+    "subdivision": "São Paulo (SP)",
+    "languages": [],
+    "categories": [
+      "jazz",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "eclética",
+      "jazz",
+      "pop rock",
+      "popular"
+    ],
+    "homepage": "http://www.imprensafm.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T03:13:34Z"
   },
   {
     "id": "awb_f1a4044046e16f03b16f",

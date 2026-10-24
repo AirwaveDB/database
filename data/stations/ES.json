@@ -1962,7 +1962,7 @@
   },
   {
     "id": "awb_14a68cf1e031a1db0967",
-    "name": "Bilbo Hiria Irratia",
+    "name": "Bilbo Hiria irratia",
     "country": "ES",
     "subdivision": null,
     "languages": [],
@@ -8530,6 +8530,24 @@
     "updatedAt": "2026-01-15T00:38:37Z"
   },
   {
+    "id": "awb_11283e84af1580d224e5",
+    "name": "FRONTERA RADIO",
+    "country": "ES",
+    "subdivision": "Andalucia",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "flamenco"
+    ],
+    "homepage": "https://www.fronteraradio.org/",
+    "favicon": "https://i.imgur.com/AvLDWo8.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T15:53:25Z"
+  },
+  {
     "id": "awb_de8ce23d6a1cc751de97",
     "name": "GameOver Music Radio",
     "country": "ES",
@@ -10360,6 +10378,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-28T14:09:24Z"
+  },
+  {
+    "id": "awb_84a6a28d711620884d12",
+    "name": "Jeremías Sebastián Roco",
+    "country": "ES",
+    "subdivision": "Valencia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://nexxored-lpdm.github.io/Glitchchannel",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/3/157953.v1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T18:22:10Z"
   },
   {
     "id": "awb_3eb9c733a6dbf3497747",
@@ -18072,7 +18104,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiolagranjazaragoza.wordpress.com/",
-    "favicon": "https://radiobot.radioslibres.info/static/uploads/radio_la_granja/background.1713382583.jpg",
+    "favicon": "https://radiolagranjazaragoza.wordpress.com/wp-content/uploads/2021/07/cropped-radiolagranjaramone.png?w=180",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-17T06:08:50Z"
@@ -19050,6 +19082,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:29:53Z"
+  },
+  {
+    "id": "awb_0fcad74dbbab8095cd47",
+    "name": "Radio Muy Pequeña",
+    "country": "ES",
+    "subdivision": "Madrid",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiomuypequena.com/",
+    "favicon": "https://radiomuypequena.com/wp-content/uploads/2026/10/rmp-icono-milu-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T11:56:29Z"
   },
   {
     "id": "awb_b940fae1f3d36b268ddf",

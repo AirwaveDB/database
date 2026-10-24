@@ -1933,8 +1933,8 @@
     "homepage": "https://www.eskarock.pl/",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/2LqeyZhdFq.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 5,
+    "updatedAt": "2026-10-23T21:54:25Z"
   },
   {
     "id": "awb_c029a523a3b97b936b41",
@@ -12265,7 +12265,7 @@
     "id": "awb_4b49e5c817ec766fe4aa",
     "name": "radiOFF",
     "country": "PL",
-    "subdivision": "Oderland",
+    "subdivision": "Lubuskie",
     "languages": [
       "de",
       "pl"
@@ -12297,7 +12297,7 @@
       "storytelling",
       "viadrina"
     ],
-    "homepage": "https://radioff.com/",
+    "homepage": "http://radioff.com/",
     "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
     "type": null,
     "sourceCount": 3,
@@ -13953,7 +13953,7 @@
     "id": "awb_ccafb97eb92dab888427",
     "name": "RMF MAXX",
     "country": "PL",
-    "subdivision": "Małopolskie",
+    "subdivision": "Malopolskie",
     "languages": [
       "pl"
     ],
@@ -13961,13 +13961,19 @@
       "pop"
     ],
     "tags": [
-      "pop"
+      "dance pop",
+      "energetic",
+      "high energy",
+      "party",
+      "pop",
+      "top 40",
+      "upbeat"
     ],
     "homepage": "https://www.rmfmaxx.pl/",
-    "favicon": "https://www.rmfmaxx.pl/favicon.ico",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_VCxLogQxD9XPszTgZkGp3WCNUOBzXBkyQQ&s",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T12:16:58Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-23T21:50:24Z"
   },
   {
     "id": "awb_9493052b0105f3b567e3",
@@ -16239,20 +16245,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_91712b3e161013d0af4f",
-    "name": "Valor Radio",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.mikihisa.dev/public/valor",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-23T06:07:20Z"
   },
   {
     "id": "awb_a3c634e57559c3a186aa",

@@ -373,6 +373,20 @@
     "updatedAt": "2026-01-15T06:57:09Z"
   },
   {
+    "id": "awb_fd4cf0798f014987f2ad",
+    "name": "Jæren Misjonsradio",
+    "country": "NO",
+    "subdivision": "Rogaland",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.jmradio.no/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T11:45:44Z"
+  },
+  {
     "id": "awb_e37cba220bd510624663",
     "name": "Klem FM",
     "country": "NO",
@@ -1462,13 +1476,17 @@
     "country": "NO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "religious"
+    ],
     "homepage": "https://ptro.no/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-10T14:01:13Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-23T11:34:41Z"
   },
   {
     "id": "awb_10883575b545df6796e5",

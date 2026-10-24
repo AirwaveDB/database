@@ -2566,6 +2566,27 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_2331799ace4f5f068cf4",
+    "name": "Ambient on Party Vibe Radio",
+    "country": "GB",
+    "subdivision": "London",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
+    "tags": [
+      "ambient electronic"
+    ],
+    "homepage": "https://www.partyvibe.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T11:48:05Z"
+  },
+  {
     "id": "awb_dc932ec879a07388f6e4",
     "name": "AmbientRadio.org",
     "country": "GB",
@@ -3675,13 +3696,19 @@
     "languages": [
       "en"
     ],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
     "homepage": "http://www.bbc.co.uk/radio1",
     "favicon": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-28T12:50:37Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-10-23T21:42:27Z"
   },
   {
     "id": "awb_03f2217432c401c49797",
@@ -3763,13 +3790,16 @@
       "pop"
     ],
     "tags": [
-      "pop"
+      "club",
+      "dance",
+      "pop",
+      "top 40"
     ],
     "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_one",
-    "favicon": null,
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemOydmGxNx5OLQiUd_GHNEQJvZrqTI92JbhlQhvr-nA&s=10",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-04T15:44:31Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-23T21:46:16Z"
   },
   {
     "id": "awb_1a9a40768ecfff0419b5",
@@ -9853,20 +9883,6 @@
     "updatedAt": "2026-05-18T21:35:19Z"
   },
   {
-    "id": "awb_a7e79a9104a8596d4d1c",
-    "name": "Cool Old Skool",
-    "country": "GB",
-    "subdivision": "Northern Ireland",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.hellorayo.co.uk/cool-old-skool",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-23T06:21:48Z"
-  },
-  {
     "id": "awb_155e255b02b33a7ab26c",
     "name": "Cornwall Rewind",
     "country": "GB",
@@ -9962,7 +9978,7 @@
       "afrobeats"
     ],
     "homepage": "https://cosororadio.co.uk/",
-    "favicon": "https://cosororadio.co.uk/storage/2025/08/Cosoro-Afrobeats-1000-min-370x370.png",
+    "favicon": "https://m.media-amazon.com/images/I/71qvsqWYTwL.png",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-09-29T12:04:31Z"
@@ -11828,6 +11844,24 @@
     "updatedAt": "2026-01-15T01:44:13Z"
   },
   {
+    "id": "awb_eaf7508d2cfe90f8c1c8",
+    "name": "Dubstep on Party Vibe Radio",
+    "country": "GB",
+    "subdivision": "London",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "dubstep"
+    ],
+    "homepage": "https://www.partyvibe.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T11:53:43Z"
+  },
+  {
     "id": "awb_767a14d377dd29edeceb",
     "name": "Dubstep Radio",
     "country": "GB",
@@ -12517,6 +12551,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-06T09:41:23Z"
+  },
+  {
+    "id": "awb_016101d2e1771c7e2f01",
+    "name": "EWTN Great Britain & Ireland",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "catholic",
+      "christian",
+      "christianity",
+      "religious"
+    ],
+    "homepage": "https://www.ewtn.com/",
+    "favicon": "https://www.ewtn.com/img/favicons/favicon-128x128.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T09:23:41Z"
   },
   {
     "id": "awb_b775dd7675ff5d6e10ba",
@@ -27498,7 +27555,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiohorton.co.uk/",
-    "favicon": "https://radiohorton.co.uk/wp-content/uploads/2024/07/logo-150px.png",
+    "favicon": "https://radiohorton.co.uk/wp-content/uploads/2024/05/cropped-Radio-Horton-60-1.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -29834,6 +29891,26 @@
     "type": "community",
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_4ea479c379672b38eac3",
+    "name": "Reggae on Party Vibe Radio",
+    "country": "GB",
+    "subdivision": "London",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "reggae"
+    ],
+    "tags": [
+      "reggae"
+    ],
+    "homepage": "https://www.partyvibe.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T11:53:43Z"
   },
   {
     "id": "awb_eb80f4241078ef1e10ad",
@@ -34096,6 +34173,26 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_a14bd7f429401f1dfca0",
+    "name": "Techno on Party Vibe Radio",
+    "country": "GB",
+    "subdivision": "London",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "techno"
+    ],
+    "homepage": "https://www.partyvibe.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T11:56:16Z"
+  },
+  {
     "id": "awb_0e9b3a59c5e4299648d4",
     "name": "Techno.FM",
     "country": "GB",
@@ -35356,6 +35453,27 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_3779f0d52ea582cfa904",
+    "name": "Totalmusic 2000s",
+    "country": "GB",
+    "subdivision": "London, England",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "music",
+      "pop music"
+    ],
+    "homepage": "https://www.40mediagroup.com/",
+    "favicon": "https://static.elektamedia.com/ch/tmc_00s.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T10:56:12Z"
   },
   {
     "id": "awb_f3015bb3f66b77d6c2e6",

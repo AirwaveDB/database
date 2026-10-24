@@ -3576,10 +3576,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.dastotalerlebnis.com/",
-    "favicon": null,
+    "favicon": "https://dastotalerlebnis.com/images/das-total-erlebnis-logo.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-23T21:53:38Z"
   },
   {
     "id": "awb_b872ee213083332db03e",
@@ -3854,7 +3854,7 @@
       "pop"
     ],
     "homepage": "https://www.deventerrtv.nl/",
-    "favicon": "https://www.deventerrtv.nl/own-files/drtv-512x512.png",
+    "favicon": "https://www.deventerrtv.nl/own-files/apple-touch-icon.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -5085,8 +5085,8 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://glassrock.nl/",
-    "favicon": "https://glassrock.nl/grlogo.png",
+    "homepage": "http://www.glassrock.nl/",
+    "favicon": "https://www.glassrock.nl/images/GR%20Logo%20rm.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-08T14:11:56Z"
@@ -5855,6 +5855,48 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-23T01:25:45Z"
+  },
+  {
+    "id": "awb_1664ff4f40aa97cf0665",
+    "name": "HARDER-FM THE HARDERSOUND",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [
+      "frenchcore",
+      "gabber",
+      "hardcore",
+      "raggatek"
+    ],
+    "homepage": "https://frenchcore.co4.in/",
+    "favicon": "https://harder-fm.nl/static/uploads/techno/album_art.1780774831.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T01:38:04Z"
+  },
+  {
+    "id": "awb_ab0e719d2b480819273c",
+    "name": "Harder.fm",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "nl"
+    ],
+    "categories": [],
+    "tags": [
+      "hardstyle",
+      "raw hardstyle",
+      "uptempo hardcore"
+    ],
+    "homepage": "https://www.harder.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-23T14:40:48Z"
   },
   {
     "id": "awb_05493aa87643513b1f2a",
@@ -9223,7 +9265,7 @@
     "id": "awb_8a0d399c51b7ae5a645a",
     "name": "MeerRadio",
     "country": "NL",
-    "subdivision": "Noord-Holland",
+    "subdivision": "Noord-Holland, Haarlemmermeer",
     "languages": [
       "nl"
     ],
@@ -9237,7 +9279,7 @@
       "local news",
       "pop music"
     ],
-    "homepage": "https://meerradio.nl/radio/luister-naar-meerradio/",
+    "homepage": "https://meerradio.nl/",
     "favicon": "https://meerradio.nl/wp-content/uploads/2023/07/Watermerk-meerradio.png",
     "type": "community",
     "sourceCount": 2,
@@ -16730,6 +16772,29 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_c5685abccb91f6b6f0ce",
+    "name": "Radio UNDR",
+    "country": "NL",
+    "subdivision": "Zuid Holland",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "00s",
+      "dnb",
+      "edm",
+      "electronic"
+    ],
+    "homepage": "https://radioundr.com/",
+    "favicon": "https://radioundr.com/favicon.png?v=2",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T00:02:10Z"
+  },
+  {
     "id": "awb_e586dd3cdebe1e981abc",
     "name": "Radio Uniek Rotterdam",
     "country": "NL",
@@ -18718,6 +18783,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_5a7c9b1b4712378adc36",
+    "name": "silvia rademaker",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [
+      "gabber",
+      "hardcore"
+    ],
+    "homepage": "https://frenchcore.co4.in/",
+    "favicon": "https://harder-fm.nl/static/uploads/techno/album_art.1780774831.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T01:38:04Z"
   },
   {
     "id": "awb_726f531d336c3979dc59",

@@ -2089,6 +2089,25 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_22394019aa422b32123b",
+    "name": "CHTV百姓健康频道",
+    "country": "CN",
+    "subdivision": "Beijing",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "health",
+      "tv"
+    ],
+    "homepage": "http://www.mychtv.com/",
+    "favicon": "http://www.mychtv.com/Public/Images/logo_02.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T23:49:55Z"
+  },
+  {
     "id": "awb_3539e153073d16697011",
     "name": "CityFM城市音乐台",
     "country": "CN",
@@ -11822,7 +11841,7 @@
     "id": "awb_023f2667c997817c3da6",
     "name": "哈尔滨经济广播",
     "country": "CN",
-    "subdivision": "黑龙江",
+    "subdivision": "Amur River",
     "languages": [
       "zh"
     ],
@@ -24210,6 +24229,26 @@
     "updatedAt": "2026-01-15T06:48:55Z"
   },
   {
+    "id": "awb_1d20a56d8a17a7a1d5e9",
+    "name": "法国国际广播电台",
+    "country": "CN",
+    "subdivision": null,
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.rfi.fr/cn/",
+    "favicon": "https://www.rfi.fr/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-23T14:28:44Z"
+  },
+  {
     "id": "awb_2a97a44e5aa82300e905",
     "name": "泗水广播电视台",
     "country": "CN",
@@ -32612,7 +32651,7 @@
       "traffic radio broadcast"
     ],
     "homepage": "https://www.lyg1.com/index.html",
-    "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiEo.png@350w_1l",
+    "favicon": "http://pic.qingting.fm/2021/0714/20210714033025.jpeg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T18:33:11Z"
@@ -32657,7 +32696,7 @@
       "news"
     ],
     "homepage": "https://www.lyg1.com/index.html",
-    "favicon": "https://img23.11467.com/2023/02-07/571360612.jpg",
+    "favicon": "https://upload-qn.ajmide.com/p/image/202011/07/200-F8R6QPe8jN1604681117564_638x638.jpg@350w_1l",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T03:55:46Z"
@@ -33071,6 +33110,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:05:52Z"
+  },
+  {
+    "id": "awb_dcf35bbf3cf2ec650f66",
+    "name": "那曲综合广播",
+    "country": "CN",
+    "subdivision": "xizang",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "full service"
+    ],
+    "homepage": "https://nq.tianma3600.com/application/tenma01ds_tvradio/view/web/#/radio",
+    "favicon": "https://nq.tianma3600.com/uploads/20260728/20903583218623630651021914548013814845681220.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:43:18Z"
   },
   {
     "id": "awb_b8d2b92ca548ba875b72",

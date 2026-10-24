@@ -305,7 +305,7 @@
       "discography"
     ],
     "homepage": "https://enigma.101.ru/",
-    "favicon": "https://101.ru/proxy/vardata/modules/channel/image/8700bf0eb42cee25219de44034753570.jpg",
+    "favicon": "https://101.ru/proxy/vardata/modules/channel/image/8700bf0eb42cee25219de44034753570.jpg%22",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T12:28:06Z"
@@ -2481,6 +2481,24 @@
     "updatedAt": "2026-10-21T12:37:19Z"
   },
   {
+    "id": "awb_615b534d2f5fa8b6dae7",
+    "name": "Bad Boys Blue",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "discography"
+    ],
+    "homepage": "https://101.ru/radio/user/235128",
+    "favicon": "https://media.pcradio.app/media/logos/180/1006461/logo_bdZZ20azBG.jpg?v=20260529-media-restore",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T20:41:59Z"
+  },
+  {
     "id": "awb_09d04597f59aeb4450b6",
     "name": "BadBeatRadio",
     "country": "RU",
@@ -2906,7 +2924,7 @@
     "id": "awb_bb18e22d61efdf04b4fe",
     "name": "BRİDGE TV",
     "country": "RU",
-    "subdivision": "Moscow",
+    "subdivision": "Moscow (Russia)",
     "languages": [
       "en",
       "ru"
@@ -2917,7 +2935,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://bridgetv.ru/about/channels/",
+    "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
     "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
     "type": null,
     "sourceCount": 3,
@@ -2991,6 +3009,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_ea5cc3717475e43a0380",
+    "name": "C.C.Catch",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "discography"
+    ],
+    "homepage": "https://101.ru/radio/user/630880",
+    "favicon": "https://media.pcradio.app/media/logos/180/1006379/logo_fyXjClMehC.jpg?v=20260529-media-restore",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-23T22:54:17Z"
   },
   {
     "id": "awb_ac2cb42de02234bd93b3",
@@ -6056,6 +6092,24 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_eab22271bea59a886324",
+    "name": "Dr Alban",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "discography"
+    ],
+    "homepage": "https://101.ru/radio/user/1789143",
+    "favicon": "https://media.pcradio.app/media/logos/180/1006462/logo_hqlCFu0Yyr.jpg?v=20260529-media-restore",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T20:30:16Z"
+  },
+  {
     "id": "awb_e6f21f16e723fb50cbdf",
     "name": "Drakkar",
     "country": "RU",
@@ -6076,7 +6130,7 @@
       "house"
     ],
     "homepage": "https://kamchatkalive.ru/",
-    "favicon": "https://kamchatkalive.ru/img/house.jpg",
+    "favicon": "https://kamchatkalive.ru/img/dance.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-12T11:07:02Z"
@@ -27476,6 +27530,24 @@
     "updatedAt": "2026-01-14T23:53:54Z"
   },
   {
+    "id": "awb_81a3f8750dbd469a3ef6",
+    "name": "Sandra",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "discography"
+    ],
+    "homepage": "https://101.ru/radio/channel/179",
+    "favicon": "https://media.pcradio.app/media/logos/180/1006444/logo_75j8kpj3x6.jpg?v=20260529-media-restore",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T23:14:59Z"
+  },
+  {
     "id": "awb_752e7e660b95996b8bd1",
     "name": "secmdssec",
     "country": "RU",
@@ -39163,7 +39235,7 @@
   },
   {
     "id": "awb_e409ed31da9366df648d",
-    "name": "Радио ViBE Новый Звук",
+    "name": "Радио Vibe Новый Звук",
     "country": "RU",
     "subdivision": "russia",
     "languages": [
@@ -39178,7 +39250,7 @@
       "pop"
     ],
     "homepage": "https://radiovibe.ru/",
-    "favicon": "https://radiovibe.ru/img/vibe_500.png",
+    "favicon": "https://radiovibe.ru/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T13:24:17Z"
@@ -49117,7 +49189,7 @@
     "id": "awb_d0e72ae4262a7e8be492",
     "name": "Хит FM",
     "country": "RU",
-    "subdivision": "Moscow",
+    "subdivision": "Moscow/Saint Petersburg",
     "languages": [
       "ru"
     ],
@@ -49411,7 +49483,7 @@
   },
   {
     "id": "awb_6a099e7d3c6d0b4bfad9",
-    "name": "Чистая волна",
+    "name": "ЧИСТАЯ ВОЛНА",
     "country": "RU",
     "subdivision": null,
     "languages": [

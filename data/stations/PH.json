@@ -1534,7 +1534,7 @@
     "id": "awb_5989de5122b255078072",
     "name": "99.5 DZYW koolFM",
     "country": "PH",
-    "subdivision": "Quezon City",
+    "subdivision": "Metro Manila",
     "languages": [
       "en"
     ],
@@ -5952,6 +5952,34 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_4d080535873190828d46",
+    "name": "iFM Cauayan",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rmn.ph/985ifmcauayan/",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/2019-DWKD-Cauayan.png?w=696&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:21:43Z"
+  },
+  {
+    "id": "awb_51fe3b5f8aec5cab0910",
+    "name": "iFM Cebu",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://rmn.ph/ifm939cebu",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/2019-iFM-Cebu.png?w=593&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:23:40Z"
+  },
+  {
     "id": "awb_135063a3eceafae04cd7",
     "name": "iFM Iloilo",
     "country": "PH",
@@ -5964,6 +5992,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T16:01:23Z"
+  },
+  {
+    "id": "awb_c8b656be89f8e7cd8276",
+    "name": "iFM Roxas",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://thermnnetworks.ph/stations/roxas/",
+    "favicon": "https://thermnnetworks.ph/wp-content/uploads/sites/4/2025/11/STATION-INFO-KV-85-1280x720.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:28:30Z"
   },
   {
     "id": "awb_1f72f6ba52acd1ad929c",
@@ -10102,6 +10144,20 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_116d6825c62bab3fbd98",
+    "name": "RMN DXDR 981 Dipolog",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://rmn.ph/dxdr981dipolog",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/Dipolog.png?w=400&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:18:20Z"
+  },
+  {
     "id": "awb_e8a8caa2b420c98dc692",
     "name": "RMN DYHB 747 Bacolod",
     "country": "PH",
@@ -10132,6 +10188,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_8d9683d8475bc66009b0",
+    "name": "RMN DYRI 774 Iloilo",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://rmn.ph/dyri774iloilo",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/Iloilo.png?w=400&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:34:13Z"
   },
   {
     "id": "awb_adc853daa374a6e700eb",

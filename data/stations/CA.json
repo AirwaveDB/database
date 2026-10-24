@@ -2242,6 +2242,25 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_1c6971099981503047cc",
+    "name": "Beautiful Music 101",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "beautiful music",
+      "easy listening"
+    ],
+    "homepage": "https://www.facebook.com/BeautifulMusic101/",
+    "favicon": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/299607849_201166902252346_3918548756766255567_n.jpg?stp=dst-jpg_tt6&cstp=mx600x600&ctp=s600x600&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=NoXtyNaVzWYQ7kNvwF5ie3P&_nc_oc=Adq2HYFA-A31DXDoPNCRE4CY9lL4b2HdUBfUWrpm-XJn-XheTspICv5MJbmYkqntYI0&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=glS-Ez5Ohgz9pBZt3UqIcA&_nc_ss=7b289&oh=00_AQNfs1XBb64e4bu-miZ9sKesivpbAf01jtX_wbATtY9EpA&oe=6AE1E478",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T03:42:07Z"
+  },
+  {
     "id": "awb_fb286359b539920372c6",
     "name": "BestNewAge",
     "country": "CA",
@@ -8708,20 +8727,6 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
-    "id": "awb_ca004d7f3ab20e892268",
-    "name": "CHOI 98,1 Radio X",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiox.com/",
-    "favicon": "https://radiox.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_9400b580214de8fda6bd",
     "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
     "country": "CA",
@@ -8742,6 +8747,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:49:38Z"
+  },
+  {
+    "id": "awb_ca004d7f3ab20e892268",
+    "name": "CHOI 98.1 Radio X",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_0db5abdaad511193eccc",
@@ -22101,6 +22120,26 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_a3d0329ce5d27d3e31fd",
+    "name": "JAZZ.FM91",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz"
+    ],
+    "homepage": "https://jazz.fm/",
+    "favicon": "https://i1.sndcdn.com/avatars-000334585547-rx3ta1-t240x240.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T21:22:55Z"
+  },
+  {
     "id": "awb_ab6c9b1543f35b45fa04",
     "name": "JAZZ.FM91 (CJRT-FM)",
     "country": "CA",
@@ -24157,6 +24196,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_df7d665e4f123c6314af",
+    "name": "psoup.art brown noise",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "brown noise",
+      "focus",
+      "generative",
+      "noise",
+      "sleep"
+    ],
+    "homepage": "https://psoup.art/machine/?utm_source=radio-browser",
+    "favicon": "https://psoup.art/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T03:13:34Z"
   },
   {
     "id": "awb_3c17d7c2eebc25cab86a",
