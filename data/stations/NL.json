@@ -3854,7 +3854,7 @@
       "pop"
     ],
     "homepage": "https://www.deventerrtv.nl/",
-    "favicon": "https://www.deventerrtv.nl/own-files/apple-touch-icon.png",
+    "favicon": "https://www.deventerrtv.nl/own-files/drtv-512x512.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -5085,8 +5085,8 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.glassrock.nl/",
-    "favicon": "https://www.glassrock.nl/images/GR%20Logo%20rm.png",
+    "homepage": "https://glassrock.nl/",
+    "favicon": "https://glassrock.nl/grlogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-08T14:11:56Z"
@@ -7947,6 +7947,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_666fb331506012e47370",
+    "name": "joyradio",
+    "country": "NL",
+    "subdivision": "joyradio",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://joyradio.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T09:01:51Z"
   },
   {
     "id": "awb_ad89eec414515ab79608",
@@ -10949,6 +10963,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_0a17cf539ad1b384dc76",
+    "name": "NPO Sterren NL",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.nporadio5.nl/sterrennl",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T12:19:52Z"
   },
   {
     "id": "awb_b26a58ab60960cfe2bc3",
@@ -21244,6 +21272,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-24T14:52:18Z"
+  },
+  {
+    "id": "awb_84af6c736ffb308599c7",
+    "name": "WEEFF Radio",
+    "country": "NL",
+    "subdivision": "Noord-Holland, Hoorn",
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.streekomroepwestfriesland.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T18:03:12Z"
   },
   {
     "id": "awb_60f83a14f71387521f5a",

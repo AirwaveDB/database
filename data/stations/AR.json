@@ -3342,7 +3342,9 @@
     "name": "Estación PRODAN fm 100.7",
     "country": "AR",
     "subdivision": "Mendoza",
-    "languages": [],
+    "languages": [
+      "es"
+    ],
     "categories": [
       "blues",
       "pop",
@@ -3351,15 +3353,18 @@
     "tags": [
       "alternative rock",
       "blues",
+      "indie",
       "indie rock",
+      "pop music",
       "pop rock",
-      "regional"
+      "regional",
+      "rock"
     ],
     "homepage": "https://www.estacionprodan.com.ar/",
     "favicon": "https://www.estacionprodan.com.ar/",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-05T17:09:28Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-24T13:43:06Z"
   },
   {
     "id": "awb_26ec6b21df3ba41d543c",
@@ -14028,7 +14033,7 @@
   },
   {
     "id": "awb_d049a8b8118ea943f532",
-    "name": "Radio Cristiana fm 88.3",
+    "name": "Radio Cristiana FM 88.3",
     "country": "AR",
     "subdivision": "Buenos Aires",
     "languages": [
@@ -14045,7 +14050,7 @@
       "radio hablada",
       "religious"
     ],
-    "homepage": "https://radiocristiana883.com.ar/",
+    "homepage": "https://www.radiocristiana883.com.ar/",
     "favicon": "https://www.radiocristiana883.com.ar/splash.jpg",
     "type": null,
     "sourceCount": 2,

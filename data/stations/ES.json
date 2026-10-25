@@ -5283,6 +5283,29 @@
     "updatedAt": "2026-01-15T07:56:58Z"
   },
   {
+    "id": "awb_a0a597a57c444b5a9d2b",
+    "name": "Costa Blanca Radio",
+    "country": "ES",
+    "subdivision": "Comunidad Valenciana",
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "costa blanca",
+      "dutch",
+      "hits"
+    ],
+    "homepage": "https://costablancaradio.nl/",
+    "favicon": "https://costablancaradio.nl/wp-content/uploads/2026/06/cropped-CBR-logo-2026-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T10:17:46Z"
+  },
+  {
     "id": "awb_42eaaddc3963ead5c464",
     "name": "Costa Calida International Radio",
     "country": "ES",
@@ -5708,7 +5731,7 @@
       "hardstyle",
       "music"
     ],
-    "homepage": "https://decibeliafm.es/",
+    "homepage": "https://decibeliafm.es/web/",
     "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
     "type": null,
     "sourceCount": 2,
@@ -13950,8 +13973,8 @@
       "sports",
       "talks"
     ],
-    "homepage": "https://www.ondacero.es/emisoras/andalucia/huelva/directo/",
-    "favicon": "https://i.scdn.co/image/ab6775700000ee851a865a3769a3e6868928a43f",
+    "homepage": "https://ondacero.es/",
+    "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-04-01T11:00:35Z"
@@ -22683,8 +22706,8 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://emisorasmusicales.net/",
-    "favicon": "https://www.emisorasmusicales.net/emisoras/rockstar/#",
+    "homepage": "https://www.emisorasmusicales.net/",
+    "favicon": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023734/Rockstar-300x300.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-12T05:08:43Z"
@@ -24099,6 +24122,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-19T21:24:13Z"
+  },
+  {
+    "id": "awb_fb9812bead1c7ed24447",
+    "name": "topor",
+    "country": "ES",
+    "subdivision": "Albacete",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "polker"
+    ],
+    "homepage": "https://needle-hold-first.com/",
+    "favicon": "https://i.imgur.com/z2A7Vcg.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T06:06:18Z"
   },
   {
     "id": "awb_8321d13fb4081ba6452a",

@@ -5444,6 +5444,26 @@
     "updatedAt": "2026-10-08T13:26:23Z"
   },
   {
+    "id": "awb_8b7f827bb4d71cce1e30",
+    "name": "Hunter.FM - O Canal Rock",
+    "country": "BR",
+    "subdivision": "São Paulo - SP",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://hunter.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T22:39:47Z"
+  },
+  {
     "id": "awb_eb6b2b3228c09114bcf7",
     "name": "Hunter.FM - O Canal Sertanejo",
     "country": "BR",
@@ -6117,7 +6137,7 @@
     "id": "awb_a21216fd9e9d6f2e9273",
     "name": "Jovem pan 95,9 FM",
     "country": "BR",
-    "subdivision": "Pernambuco",
+    "subdivision": "Recife",
     "languages": [],
     "categories": [
       "pop",
@@ -6722,6 +6742,20 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_dd2cf7ed8ca013e09d92",
+    "name": "Kiel FM",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiokiel.com.br/",
+    "favicon": "https://radiokiel.com.br/kielfm-icone-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T18:32:46Z"
+  },
+  {
     "id": "awb_1def6fc22bb92cb33df2",
     "name": "Kiss FM - 92.5 - São Paulo",
     "country": "BR",
@@ -7094,6 +7128,23 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-06T19:47:04Z"
+  },
+  {
+    "id": "awb_f80a1ede4c5fef549472",
+    "name": "LTS",
+    "country": "BR",
+    "subdivision": "Sergipe",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio-lts.blogspot.com/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/279/lts.bf981a00.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T15:06:15Z"
   },
   {
     "id": "awb_d3fa3f1bfe23c00cbfd2",
@@ -8009,7 +8060,7 @@
     "id": "awb_ae4fefbf450bfef15049",
     "name": "Metal Zone Radio",
     "country": "BR",
-    "subdivision": "Sao Paulo (Brazil)",
+    "subdivision": "São Paulo",
     "languages": [],
     "categories": [
       "metal"
@@ -8026,7 +8077,7 @@
       "symphonic metal",
       "trash metal"
     ],
-    "homepage": "https://metalzone.radio.br/",
+    "homepage": "http://www.metalzone.radio.br/",
     "favicon": "https://metalzone.radio.br/assets/img/favicon-512.png",
     "type": null,
     "sourceCount": 2,
@@ -11097,6 +11148,24 @@
     "updatedAt": "2026-02-24T11:50:52Z"
   },
   {
+    "id": "awb_b8015c6d6aa171930c5a",
+    "name": "Radio A Voz da Salvação Divina",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "radio cristal"
+    ],
+    "homepage": "https://radioavozdasalvacaodivina.zdx.com.br/",
+    "favicon": "https://radioavozdasalvacaodivina.zdx.com.br/",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T16:01:43Z"
+  },
+  {
     "id": "awb_d53b0a4ac843bc34cc15",
     "name": "Rádio AD Perus Capivari",
     "country": "BR",
@@ -13132,7 +13201,7 @@
     "id": "awb_2b7b7954faeaf86005a4",
     "name": "Rádio Cambirela - Virtual,mas real.",
     "country": "BR",
-    "subdivision": "Santa Catarina, SC",
+    "subdivision": "Santa Catarina,SC",
     "languages": [],
     "categories": [
       "country",
@@ -14926,6 +14995,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:17:03Z"
+  },
+  {
+    "id": "awb_a7a1fcc138dc1859342e",
+    "name": "Rádio Dosvox",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro - RJ",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "college",
+      "variety"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T23:29:33Z"
   },
   {
     "id": "awb_39e47cf7de6b58aa68dc",

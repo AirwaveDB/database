@@ -5353,7 +5353,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao Radio",
+    "name": "Cacao-Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -9695,7 +9695,7 @@
     "id": "awb_7e7569648104bc027057",
     "name": "DIGITAL2RADIO",
     "country": "FR",
-    "subdivision": "Normandy",
+    "subdivision": "Normandie",
     "languages": [],
     "categories": [
       "oldies",
@@ -13789,6 +13789,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:29:20Z"
+  },
+  {
+    "id": "awb_66755b55150cf80a13d5",
+    "name": "France Culture officiel",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "culture"
+    ],
+    "homepage": "https://www.franceculture.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T07:55:44Z"
   },
   {
     "id": "awb_1dc8ef586f413c40f241",
@@ -18761,8 +18777,8 @@
       "love-songs",
       "pop"
     ],
-    "homepage": "https://hotmixradio.com/",
-    "favicon": "https://cdn.hotmixradio.com/hotmix-love-fr-mp3.jpg",
+    "homepage": "https://www.hotmixradio.com/",
+    "favicon": "https://www.hotmixradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -27348,8 +27364,8 @@
       "nostalgie",
       "soul"
     ],
-    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-funky-collector",
-    "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA_WR_FUNKY-COLLECTOR.jpg",
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios",
+    "favicon": "https://www.nostalgie.fr/uploads/assets/nostalgie/icons/apple-icon-180x180.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-30T08:20:08Z"
@@ -35901,6 +35917,22 @@
     "updatedAt": "2026-01-15T04:29:57Z"
   },
   {
+    "id": "awb_e93126655a5e48b283b9",
+    "name": "PulsRadio 80s",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "80's"
+    ],
+    "homepage": "https://www.pulsradio.com/de/80s/",
+    "favicon": "https://www.pulsradio.com/img/logo-80.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T07:26:49Z"
+  },
+  {
     "id": "awb_4afeefafb330532d246e",
     "name": "PulsRadio Club",
     "country": "FR",
@@ -37837,14 +37869,14 @@
   },
   {
     "id": "awb_344f994bcc4a86baedee",
-    "name": "Radio Club 105.7FM",
+    "name": "RADIO CLUB 105.7FM",
     "country": "FR",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://radioclub.fr/",
-    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/269965503_533759981882903_4768925474557172552_n-1.jpg",
+    "homepage": "https://radioclub.fr/wp-admin/",
+    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/cropped-269965503_533759981882903_4768925474557172552_n-270x270.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-18T11:23:34Z"
@@ -38028,7 +38060,7 @@
     "id": "awb_d032b5f52782fed4daa0",
     "name": "Radio Couleur Sud",
     "country": "FR",
-    "subdivision": "Var",
+    "subdivision": "France",
     "languages": [
       "en",
       "fr"
@@ -39758,7 +39790,7 @@
     "id": "awb_4236313780f9154e875b",
     "name": "Rádio IBNJ Paris",
     "country": "FR",
-    "subdivision": "Île-de-France",
+    "subdivision": "Ile de France",
     "languages": [
       "fr",
       "pt"
@@ -40938,6 +40970,20 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_da341e56fad40c4ddce6",
+    "name": "Radio Nîmes",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radionimes.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T08:50:53Z"
+  },
+  {
     "id": "awb_a99f076126b0676ca9bc",
     "name": "Ràdio Nissa Pantai",
     "country": "FR",
@@ -40955,6 +41001,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:17:41Z"
+  },
+  {
+    "id": "awb_c328ccf68cd0d9086b84",
+    "name": "Radio Noel",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radio-noel.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T09:52:58Z"
   },
   {
     "id": "awb_9dd74bd5fa781372ee24",
@@ -41931,6 +41991,22 @@
     "updatedAt": "2026-01-15T02:45:26Z"
   },
   {
+    "id": "awb_183193d8aefe18130c6c",
+    "name": "Radio Radio Toulouse",
+    "country": "FR",
+    "subdivision": "Occitanie",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radioradiotoulouse.net/",
+    "favicon": "https://static.wixstatic.com/media/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png",
+    "type": null,
+    "sourceCount": 3,
+    "updatedAt": "2026-08-21T19:44:18Z"
+  },
+  {
     "id": "awb_54764c36c49b298e952d",
     "name": "Radio RBS",
     "country": "FR",
@@ -42754,6 +42830,29 @@
     "updatedAt": "2026-06-03T09:58:09Z"
   },
   {
+    "id": "awb_e75132f0e840720361ce",
+    "name": "RADIO SYNO",
+    "country": "FR",
+    "subdivision": "Nord",
+    "languages": [],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "bossa",
+      "chill",
+      "chillhop",
+      "lofi",
+      "study"
+    ],
+    "homepage": "https://radiosyno.fr/",
+    "favicon": "https://radiosyno.fr/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T10:20:10Z"
+  },
+  {
     "id": "awb_b6e6534ca27f596bd033",
     "name": "Radio Tempête",
     "country": "FR",
@@ -43555,22 +43654,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-08T00:36:54Z"
-  },
-  {
-    "id": "awb_183193d8aefe18130c6c",
-    "name": "Radio-Radio Toulouse",
-    "country": "FR",
-    "subdivision": "Midi-Pyrénées",
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radioradiotoulouse.net/",
-    "favicon": "https://static.wixstatic.com/media/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-21T19:44:18Z"
   },
   {
     "id": "awb_9b100c0fe8323743eb03",
@@ -46821,6 +46904,20 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_ea8ace6bfcb8458d4834",
+    "name": "rvm",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.rvm.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T12:26:02Z"
+  },
+  {
     "id": "awb_ec54c80e514851e9a501",
     "name": "RVR",
     "country": "FR",
@@ -47988,7 +48085,7 @@
       "metal"
     ],
     "homepage": "https://lesonunique.com/mysun/parcourir/sun-metal",
-    "favicon": "https://assets.radioplayer.org/250/2501923/600/600/mrp1g2m0.png",
+    "favicon": "https://assets.radioplayer.org/250/2501928/600/600/m6gk7w9y.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-02T03:21:24Z"
@@ -48413,7 +48510,7 @@
       "talk"
     ],
     "homepage": "https://www.tbm06.fr/radio/",
-    "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
+    "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-20T17:58:29Z"

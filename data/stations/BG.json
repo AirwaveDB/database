@@ -892,7 +892,10 @@
     "name": "Dark Wave Radomir",
     "country": "BG",
     "subdivision": "Pernik",
-    "languages": [],
+    "languages": [
+      "bg",
+      "en"
+    ],
     "categories": [
       "punk"
     ],
@@ -910,8 +913,8 @@
     "homepage": "https://dwr.radio/",
     "favicon": "https://dwr.radio/wp-content/uploads/2023/10/cropped-favicon.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-24T19:51:52Z"
   },
   {
     "id": "awb_9d8c945c46b0f28beea8",
@@ -6470,9 +6473,9 @@
   },
   {
     "id": "awb_ceac03347026f81dacb7",
-    "name": "��� � ����� �����",
+    "name": "��� � ����� ������",
     "country": "BG",
-    "subdivision": "Sofia City",
+    "subdivision": "Burgas",
     "languages": [
       "bg"
     ],
@@ -6486,7 +6489,7 @@
       "public radio",
       "talk"
     ],
-    "homepage": "https://bnrnews.bg/sofia",
+    "homepage": "https://bnrnews.bg/burgas",
     "favicon": null,
     "type": "public",
     "sourceCount": 8,

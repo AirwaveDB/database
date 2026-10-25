@@ -17471,6 +17471,20 @@
     "updatedAt": "2026-01-15T05:36:39Z"
   },
   {
+    "id": "awb_83c75524df31541b122c",
+    "name": "ANTENNE BAYERN Workout Mix",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.antenne.de/webradio/workout-hits",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T15:26:29Z"
+  },
+  {
     "id": "awb_57505f59706d8e50e3d9",
     "name": "Antenne Bayern, Schlagersahne",
     "country": "DE",
@@ -19390,7 +19404,7 @@
   },
   {
     "id": "awb_1d190ad77ab885676d97",
-    "name": "Arberwaldradio",
+    "name": "arberwaldradio",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -19400,7 +19414,7 @@
     "tags": [
       "folk"
     ],
-    "homepage": "https://arberwoidradio.com/",
+    "homepage": "https://www.arberwoidradio.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -21922,7 +21936,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z"
@@ -23159,8 +23173,8 @@
     "homepage": "https://www.bigfm.de/",
     "favicon": "https://cdn.bigfm.de/sites/default/files/styles/wide/public/scald/image/bigFM-XMAS-300x300.jpg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:59:17Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-24T11:34:29Z"
   },
   {
     "id": "awb_427f357207fa89e971f2",
@@ -25360,6 +25374,28 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_d30acfbab38504862b9a",
+    "name": "CaRaMe - Campusradio Merseburg",
+    "country": "DE",
+    "subdivision": "DE-ST",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "campusradio",
+      "campusradio merseburg",
+      "carame",
+      "caramel",
+      "hochschule merseburg"
+    ],
+    "homepage": "https://radio.hs-merseburg.de/",
+    "favicon": "https://radio.hs-merseburg.de/data/carame.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T16:17:46Z"
+  },
+  {
     "id": "awb_a85b8b19cd7db1c11716",
     "name": "CARAVAN.fm",
     "country": "DE",
@@ -26618,7 +26654,7 @@
     "id": "awb_4d93db1f5602c64a3ae1",
     "name": "Club85",
     "country": "DE",
-    "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
+    "subdivision": "Baden-Württemberg",
     "languages": [
       "de"
     ],
@@ -48292,7 +48328,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://inthemix.at/?live_stream_id=108",
+    "homepage": "https://inthemix.at/",
     "favicon": "https://inthemix.at/image.php?object_id=108&object_type=live_stream&thumb=14",
     "type": null,
     "sourceCount": 2,
@@ -70287,7 +70323,7 @@
   },
   {
     "id": "awb_64da13ba48280ff8393c",
-    "name": "Radio Bob",
+    "name": "Radio BOB",
     "country": "DE",
     "subdivision": "Hessen (Kassel)",
     "languages": [
@@ -70295,7 +70331,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobob.de/",
+    "homepage": "https://www.radiobob.de/#",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -75321,6 +75357,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:19:36Z"
+  },
+  {
+    "id": "awb_1aad25932b5e6f63057a",
+    "name": "Radio Fantasy Classix",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "throwbacks"
+    ],
+    "homepage": "https://www.fantasy.de/",
+    "favicon": "https://www.fantasy.de/templates/main/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T13:41:56Z"
   },
   {
     "id": "awb_5a0a18bdcf50a58b6f83",
@@ -85234,6 +85288,22 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_9afb0a387441efb29f46",
+    "name": "Radio Wildherz",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://bellawildherz.de/",
+    "favicon": "https://bellawildherz.de/Bilder/RadioWildherz.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T19:09:16Z"
+  },
+  {
     "id": "awb_9707139a6dde3a440e22",
     "name": "Radio Winsen (Luhe)",
     "country": "DE",
@@ -85477,7 +85547,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
+    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"
@@ -99580,7 +99650,7 @@
   },
   {
     "id": "awb_4a0594f664b678b4203c",
-    "name": "sunshine live - Trance",
+    "name": "Sunshine Live - Trance",
     "country": "DE",
     "subdivision": "baden-wurttemberg",
     "languages": [],

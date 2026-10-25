@@ -682,7 +682,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Kozani",
+    "subdivision": "Attica, Athens",
     "languages": [
       "el",
       "en"
@@ -7664,6 +7664,25 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_3b27cdb124e3f746db26",
+    "name": "Energy 93.4",
+    "country": "GR",
+    "subdivision": "Preveza",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult hits",
+      "pop"
+    ],
+    "homepage": "https://energy934.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/d3330778-81ac-4b96-bd3e-35e85df5247e.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T19:16:55Z"
+  },
+  {
     "id": "awb_3f0a6a6d43d7ee0edd50",
     "name": "Energy 94.2",
     "country": "GR",
@@ -12701,6 +12720,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_fd9f9181637bf606fda3",
+    "name": "LaikiNota",
+    "country": "GR",
+    "subdivision": "Thessaloniki",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "laika"
+    ],
+    "homepage": "https://laikinota.gr/",
+    "favicon": "https://laikinota.gr/LaikiNota.GR-Logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T15:47:55Z"
   },
   {
     "id": "awb_3437fe8f4333199a9620",
@@ -17934,6 +17971,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_2868f4a3b2c156c96f12",
+    "name": "Preveza 93",
+    "country": "GR",
+    "subdivision": "Preveza",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "adult hits",
+      "news",
+      "news talk",
+      "pop"
+    ],
+    "homepage": "https://www.radiopreveza.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/5cd88e6d-8326-46a7-9fa4-94cac2936ebf.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T19:02:23Z"
   },
   {
     "id": "awb_f5179ba8329969697505",
@@ -37449,6 +37511,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:06:20Z"
+  },
+  {
+    "id": "awb_12e5e818cb3542ef6c33",
+    "name": "Ρυθμός Μακεδονίας 106.7",
+    "country": "GR",
+    "subdivision": "Pieria",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radio-rythmos.gr/",
+    "favicon": "https://www.radio-rythmos.gr/images/Rythmos_1024%CF%87585_back1.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T18:35:05Z"
   },
   {
     "id": "awb_a9716bcc1df20b43d689",

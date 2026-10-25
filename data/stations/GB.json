@@ -883,6 +883,24 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_a4ab14fd83afdb110914",
+    "name": "24-7 Punk",
+    "country": "GB",
+    "subdivision": "unknown",
+    "languages": [],
+    "categories": [
+      "punk"
+    ],
+    "tags": [
+      "punk"
+    ],
+    "homepage": "https://24-7nicheradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T19:06:41Z"
+  },
+  {
     "id": "awb_3744ecf6a8c15fb354ab",
     "name": "24-7 Reggae",
     "country": "GB",
@@ -8431,6 +8449,26 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_b4b00fd9b46e7a0fe8e6",
+    "name": "Capital North East (Tyne and Wear)",
+    "country": "GB",
+    "subdivision": "Tyne and Wear",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits"
+    ],
+    "homepage": "https://www.capitalfm.com/tynewear/",
+    "favicon": "https://www.capitalfm.com/assets_v4r/dist/combined/img/large_logos/capital_north_east.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T15:17:01Z"
+  },
+  {
     "id": "awb_f8ce995c382da2f8ffc1",
     "name": "Capital North Wales - North Wales Coast",
     "country": "GB",
@@ -8626,6 +8664,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_a3684b4a7db4d5891702",
+    "name": "Catamaran Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.catamaranradio.com/",
+    "favicon": "https://www.catamaranradio.com/wp-content/uploads/2026/10/Emblema-Catamarano-Dorato-Lucente1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T14:50:59Z"
   },
   {
     "id": "awb_22bb3a5151ac737cb9ad",
@@ -9978,7 +10030,7 @@
       "afrobeats"
     ],
     "homepage": "https://cosororadio.co.uk/",
-    "favicon": "https://m.media-amazon.com/images/I/71qvsqWYTwL.png",
+    "favicon": "https://cosororadio.co.uk/storage/2025/08/Cosoro-Afrobeats-1000-min-370x370.png",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-09-29T12:04:31Z"
@@ -11675,6 +11727,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_a3baa5449983d8327673",
+    "name": "Dragon 470 Radio",
+    "country": "GB",
+    "subdivision": "Wales",
+    "languages": [],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio"
+    ],
+    "homepage": "https://www.dragon470radio.com/",
+    "favicon": null,
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T16:13:18Z"
   },
   {
     "id": "awb_a2ec10aa478aaeae62e7",
@@ -32759,6 +32829,34 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_f7c0e54f72b0e6ead6f8",
+    "name": "Soul Rhythms Radio",
+    "country": "GB",
+    "subdivision": "Kent",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "jazz",
+      "reggae"
+    ],
+    "tags": [
+      "house",
+      "independent music",
+      "jazz",
+      "neo soul",
+      "reggae",
+      "rnb",
+      "soul"
+    ],
+    "homepage": "https://soulrhythmsradio.com/",
+    "favicon": "https://soulrhythmsradio.com/",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T11:51:18Z"
   },
   {
     "id": "awb_0d84734a9ee1e4dddcf0",
