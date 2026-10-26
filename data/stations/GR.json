@@ -682,7 +682,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Attica, Athens",
+    "subdivision": "Athens Greece",
     "languages": [
       "el",
       "en"
@@ -3592,7 +3592,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.atticaradios.gr/athens-deejay-952/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NVxJAkegta5hGh8IW16JZH-h0fEU01y9dmKUz8nJaw&s",
+    "favicon": "https://www.atticaradios.gr/Content/ImagesDatabase/p/crop/both/9d/9d212880d56d43a7bc49cb7e531ecb4c.svg?quality=85&404=default&v=4",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-07T10:16:56Z"
@@ -5630,6 +5630,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:34:36Z"
+  },
+  {
+    "id": "awb_619cac02a72ee04cc9ea",
+    "name": "Cool 106.8",
+    "country": "GR",
+    "subdivision": "Rethimno",
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.coolfm.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/7fd0d66a-a56c-4539-9ba5-9727cb6849d3.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T19:29:26Z"
   },
   {
     "id": "awb_16021b5b6da932abf1fc",
@@ -32727,6 +32747,25 @@
     "updatedAt": "2026-01-15T08:12:44Z"
   },
   {
+    "id": "awb_224cd598e861d5ec45d3",
+    "name": "Ήχος 94.2",
+    "country": "GR",
+    "subdivision": "Rethimno",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://hxosfm.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/b1ca0619-5066-46d8-a051-ce18295c6a5c.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T18:45:17Z"
+  },
+  {
     "id": "awb_beecd2fdca2b44fc07fd",
     "name": "Ηχώ 98.1",
     "country": "GR",
@@ -36976,6 +37015,24 @@
     "updatedAt": "2026-01-15T00:53:11Z"
   },
   {
+    "id": "awb_a0d73afb5c520907420e",
+    "name": "Ραδιοκύματα 102.6",
+    "country": "GR",
+    "subdivision": "Rethimno",
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://radiowaves.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/fd5777bd-f5dd-4087-a8be-450e57cac0a6.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T19:15:40Z"
+  },
+  {
     "id": "awb_87e846ff9e358b5aff91",
     "name": "Ραδιοτσάμπουνο",
     "country": "GR",
@@ -38606,6 +38663,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:40:06Z"
+  },
+  {
+    "id": "awb_5a9f282febf3492c4678",
+    "name": "Χώρος 94.2",
+    "country": "GR",
+    "subdivision": "Samos",
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock",
+      "student radio"
+    ],
+    "homepage": "https://xoros.samos.aegean.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/204d391e-3c05-409e-9ccf-cfe3c5099bc8.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T20:11:56Z"
   },
   {
     "id": "awb_df9a2d3a147127c22745",

@@ -2028,6 +2028,24 @@
     "updatedAt": "2026-09-21T11:15:45Z"
   },
   {
+    "id": "awb_eb998569ff147ab2f89b",
+    "name": "Absolute Radio 00s",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "00s"
+    ],
+    "homepage": "https://www.hellorayo.co.uk/absolute-radio-00s",
+    "favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1678796903/brand_manager/stations/u9pb7pyvwufaywva8qfv.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T11:50:00Z"
+  },
+  {
     "id": "awb_08383f279b79bb579001",
     "name": "Absolute Radio 10s",
     "country": "GB",
@@ -30482,7 +30500,7 @@
       "rock"
     ],
     "homepage": "https://rock.scot/",
-    "favicon": "https://rf.broadcast.radio/api/image/a47741f3-6103-40c4-9e21-0453a30fc67e.png?g=center&w=600&h=600&f=png",
+    "favicon": "https://rock.scot/assets/images/logo.webp",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-30T21:53:05Z"
@@ -30817,8 +30835,22 @@
     "updatedAt": "2026-01-15T08:38:09Z"
   },
   {
+    "id": "awb_4d900e46928ed7781c23",
+    "name": "Rokit Radio 1940s Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www2.rokitradio.com/",
+    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
     "id": "awb_f76b3b62acdafadb1e33",
-    "name": "ROKiT Radio : Science Fiction",
+    "name": "ROKit Radio Science Fiction",
     "country": "GB",
     "subdivision": "London, England",
     "languages": [
@@ -30835,24 +30867,10 @@
       "scifi"
     ],
     "homepage": "https://rokitradio.com/",
-    "favicon": "https://rokitradio.com/images/rokit-radio-mic.png",
+    "favicon": "https://rokitradio.com/images/channels/scifi.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:11:46Z"
-  },
-  {
-    "id": "awb_4d900e46928ed7781c23",
-    "name": "Rokit Radio 1940s Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www2.rokitradio.com/",
-    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_4f80b87c36c6127a0778",

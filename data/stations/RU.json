@@ -2847,6 +2847,24 @@
     "updatedAt": "2026-01-15T00:09:17Z"
   },
   {
+    "id": "awb_6f23f521470e70fc98cb",
+    "name": "Boney M",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "discography"
+    ],
+    "homepage": "https://pcradio.app/radio/boney-m-live-pcr-27oxozy/",
+    "favicon": "https://media.pcradio.app/media/logos/180/1006512/logo_PtJSnPVz68.jpg?v=20260529-media-restore",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T09:02:14Z"
+  },
+  {
     "id": "awb_f1a3a289fbee7ff4bc7b",
     "name": "Book out loud",
     "country": "RU",
@@ -2960,7 +2978,7 @@
     "id": "awb_bb18e22d61efdf04b4fe",
     "name": "BRİDGE TV",
     "country": "RU",
-    "subdivision": "Moscow (Russia)",
+    "subdivision": "Moscow",
     "languages": [
       "en",
       "ru"
@@ -2971,7 +2989,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
+    "homepage": "https://bridgetv.ru/about/channels/",
     "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
     "type": null,
     "sourceCount": 3,
@@ -36098,6 +36116,24 @@
     "updatedAt": "2026-01-15T07:52:11Z"
   },
   {
+    "id": "awb_6954bcb3463e153651b5",
+    "name": "Ирина Круг",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "russian shanson"
+    ],
+    "homepage": "https://pcradio.app/radio/irina-krug-live-pcr-27ppe1s/",
+    "favicon": "https://media.pcradio.app/media/logos/180/1006786/logo_FSJmWo45PH.jpg?v=20260529-media-restore",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T08:57:13Z"
+  },
+  {
     "id": "awb_618048d4882e00cd948f",
     "name": "Искатель",
     "country": "RU",
@@ -40717,7 +40753,7 @@
   },
   {
     "id": "awb_e409ed31da9366df648d",
-    "name": "Радио Vibe Новый Звук",
+    "name": "Радио ViBE Новый Звук",
     "country": "RU",
     "subdivision": "russia",
     "languages": [
@@ -40732,7 +40768,7 @@
       "pop"
     ],
     "homepage": "https://radiovibe.ru/",
-    "favicon": "https://radiovibe.ru/favicon.ico",
+    "favicon": "https://radiovibe.ru/img/vibe_500.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T13:24:17Z"
@@ -50701,7 +50737,7 @@
     "id": "awb_d0e72ae4262a7e8be492",
     "name": "Хит FM",
     "country": "RU",
-    "subdivision": "Moscow",
+    "subdivision": "Moscow/Saint Petersburg",
     "languages": [
       "ru"
     ],

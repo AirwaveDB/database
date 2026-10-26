@@ -6187,6 +6187,22 @@
     "updatedAt": "2026-09-28T06:38:07Z"
   },
   {
+    "id": "awb_83c4d279e0b353b2d3f3",
+    "name": "RGR classic",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.rgrfmbe/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T10:51:59Z"
+  },
+  {
     "id": "awb_7db0dff0051d5d19004f",
     "name": "RGR Classic Hits",
     "country": "BE",
@@ -6266,7 +6282,7 @@
   },
   {
     "id": "awb_4efbd7a6b22fc211c2b1",
-    "name": "Rowyna Music (NEW stream)",
+    "name": "Rowyna Music (New stream)",
     "country": "BE",
     "subdivision": null,
     "languages": [
@@ -8178,6 +8194,26 @@
     "updatedAt": "2026-06-11T09:22:00Z"
   },
   {
+    "id": "awb_1aeb2a69d25e2db21647",
+    "name": "VRT Klara",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": "https://www.vrt.be/vrtmax/",
+    "favicon": "https://www.phonostar.de/images/auto_created/VRT_Klara3184x184.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T17:49:15Z"
+  },
+  {
     "id": "awb_4a97cbf03a3d4daed236",
     "name": "vrt klara high quality",
     "country": "BE",
@@ -8192,6 +8228,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:38:17Z"
+  },
+  {
+    "id": "awb_9c06c43fe1ce7e64fdd2",
+    "name": "VRT MNM",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://www.vrt.be/vrtmax/",
+    "favicon": "https://www.phonostar.de/images/auto_created/VRT_MNM5184x184.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T17:47:51Z"
   },
   {
     "id": "awb_faf29f38eea9589515a4",
@@ -8556,6 +8613,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T06:26:51Z"
+  },
+  {
+    "id": "awb_4d7c1608bb82dd72d488",
+    "name": "VRT Studio Brussel",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.vrt.be/vrtmax/livestream/audio/studio-brussel/",
+    "favicon": "https://www.phonostar.de/images/auto_created/VRT_Studio_Brussel4184x184.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T17:47:51Z"
   },
   {
     "id": "awb_cc5007a113f9476c0589",

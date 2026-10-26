@@ -31499,27 +31499,6 @@
     "updatedAt": "2026-03-08T18:31:01Z"
   },
   {
-    "id": "awb_596abffd4f28712bc78a",
-    "name": "Discover YOU RADIO",
-    "country": "US",
-    "subdivision": "Colorado",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "alternative",
-      "clean",
-      "independent",
-      "indie"
-    ],
-    "homepage": "https://discoveryouradio.com/",
-    "favicon": "https://discoveryouradio.com/files/1436797/prism-avatar-mansion-v2.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-24T22:18:27Z"
-  },
-  {
     "id": "awb_5f70198437ab52bc1307",
     "name": "Disney Resorts Radio",
     "country": "US",
@@ -36099,7 +36078,7 @@
       "the nation’s premiere sports lineup"
     ],
     "homepage": "http://www.foxsportsradio.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NxjbCTIAKVhtl5ndaYjM2JHlo0g2Ksr8zYoHwos-vQ&s",
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5e972321d790eb6e190b8f7d",
     "type": null,
     "sourceCount": 7,
     "updatedAt": "2026-05-10T03:51:53Z"
@@ -53473,6 +53452,27 @@
     "updatedAt": "2026-01-15T03:23:20Z"
   },
   {
+    "id": "awb_b2c046b32dc7b5228c57",
+    "name": "KIXP 102.3 - Eastsound, Orcas Island, Washington",
+    "country": "US",
+    "subdivision": "Washington",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "alternative / indie",
+      "community radio"
+    ],
+    "homepage": "https://www.kixp.org/",
+    "favicon": "https://static.wixstatic.com/media/4c7f69_52ae055633fc48829030db4ed94a428a~mv2.png/v1/fill/w_136,h_147,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/KIXP%20New%20Logo-300x300.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T02:39:50Z"
+  },
+  {
     "id": "awb_d14e27fc1337a9501873",
     "name": "KIXR AM 1400 and FM 94.5 the talk of Utah County",
     "country": "US",
@@ -54077,6 +54077,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:38:47Z"
+  },
+  {
+    "id": "awb_fefb6ec5205b0b17206a",
+    "name": "KKAU 96.5 Naalehu, Hawaii",
+    "country": "US",
+    "subdivision": "Hawaii",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "classic hits",
+      "classic rock"
+    ],
+    "homepage": "https://kkaufm.com/",
+    "favicon": "https://img1.wsimg.com/isteam/ip/e7fa53e3-4d5c-4b02-a118-d31f1230dc10/KKAU-6e9bf83.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T03:28:07Z"
   },
   {
     "id": "awb_e0d8606e0bf07efdbafa",
@@ -56031,6 +56053,29 @@
     "updatedAt": "2026-01-15T06:12:34Z"
   },
   {
+    "id": "awb_5b29db909d20a0b2d46b",
+    "name": "KMYB \"My 95.1\" Killeen, Texas",
+    "country": "US",
+    "subdivision": "Texas",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "sports"
+    ],
+    "tags": [
+      "high school radio",
+      "local sports",
+      "variety hits"
+    ],
+    "homepage": "https://www.killeenisd.org/page/kisd-radio",
+    "favicon": "https://cmsv2-assets.apptegy.net/uploads/28453/logo/31266/download.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T00:40:57Z"
+  },
+  {
     "id": "awb_6f411d6c18cd696b83de",
     "name": "KNBA 90.3 Koahnic Broadcasting - Anchorage, AK",
     "country": "US",
@@ -56450,6 +56495,28 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-10-16T00:26:50Z"
+  },
+  {
+    "id": "awb_a759a30918798dc71e8d",
+    "name": "KNJC 99.9 \"La Patrona\" Baytown, Texas",
+    "country": "US",
+    "subdivision": "Texas",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "banda",
+      "cumbia",
+      "regional mexican"
+    ],
+    "homepage": "http://lapatronaradioenlinea.com/",
+    "favicon": "http://lapatronaradioenlinea.com/wafx_res/Images/0-512-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T00:44:49Z"
   },
   {
     "id": "awb_27db52d4f4f19ef3c0ba",
@@ -63786,6 +63853,27 @@
     "updatedAt": "2026-01-14T23:42:14Z"
   },
   {
+    "id": "awb_898bd6c873fa71873e0a",
+    "name": "KVOV 101.9 \"The Voice Of Vashon\" Vashon Island, Washington",
+    "country": "US",
+    "subdivision": "Washington",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "music variety"
+    ],
+    "homepage": "https://voiceofvashon.org/",
+    "favicon": "https://voiceofvashon.org/wp-content/themes/voice-of-vashon/images/placeholder-no-album-cover.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T02:41:48Z"
+  },
+  {
     "id": "awb_9d18116d48f05dce1c1e",
     "name": "KVOX \"Froggy 99.9\" Moorhead, MN",
     "country": "US",
@@ -64745,6 +64833,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_79fa73c2a4feccf07c96",
+    "name": "KXIQ 105.1 Brownsville, Texas",
+    "country": "US",
+    "subdivision": "Texas",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "community",
+      "jazz"
+    ],
+    "tags": [
+      "community radio",
+      "jazz",
+      "music variety",
+      "podcast",
+      "regional mexican"
+    ],
+    "homepage": "https://brosoperformingarts.org/kxiq-105-1fm",
+    "favicon": "https://la2.indexcom.com/player/bspa/blu/img/Image_Default.jpg",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T00:54:16Z"
   },
   {
     "id": "awb_c4221b8c310f2f15f1e2",
@@ -86736,6 +86850,24 @@
     "updatedAt": "2026-03-26T00:08:27Z"
   },
   {
+    "id": "awb_6d8f911fc9a51b990992",
+    "name": "Raymond Hernandez",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "freestyle 80s"
+    ],
+    "homepage": "http://www.rewind1039.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T21:27:36Z"
+  },
+  {
     "id": "awb_ac821fdf161d76ceb69d",
     "name": "RBN",
     "country": "US",
@@ -89102,7 +89234,7 @@
     "tags": [
       "anime music from japan. we also play eurobeat and city pop"
     ],
-    "homepage": "https://www.facebook.com/",
+    "homepage": "https://www.facebook.com/roninsradio",
     "favicon": "https://www.facebook.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
@@ -93287,7 +93419,7 @@
     "tags": [
       "bossa nova"
     ],
-    "homepage": "https://somafm.com/",
+    "homepage": "https://somafm.com/player/#/now-playing/bossa",
     "favicon": "https://somafm.com/logos/400/bossa-400.jpg",
     "type": null,
     "sourceCount": 2,
@@ -95897,6 +96029,20 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_b349cca0323394389617",
+    "name": "Soulful Society Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://soulfulsocietyradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T16:41:41Z"
+  },
+  {
     "id": "awb_e6cc70c4eebe5ec78f44",
     "name": "Sound Bite Radio",
     "country": "US",
@@ -97940,6 +98086,37 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-04T06:20:53Z"
+  },
+  {
+    "id": "awb_748c7ec7fadfd275e38a",
+    "name": "Super Hit Mix Radio -- The Perfect mix for Any Ocasion! (powered by Live365)",
+    "country": "US",
+    "subdivision": "Texas",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "christmas",
+      "country",
+      "electronic",
+      "jazz"
+    ],
+    "tags": [
+      "blind radio",
+      "christmas music",
+      "country",
+      "dance",
+      "electronic dance music",
+      "jazz",
+      "misc",
+      "miscellaneous",
+      "variety"
+    ],
+    "homepage": "http://hit-mix-radio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T05:21:02Z"
   },
   {
     "id": "awb_83a4b1a695d82be093f5",
@@ -101461,6 +101638,24 @@
     "updatedAt": "2026-05-29T04:24:13Z"
   },
   {
+    "id": "awb_0c1d0239fe599121ea53",
+    "name": "The New Z105",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "variety hits"
+    ],
+    "homepage": "https://cast5.asurahosting.com/start/z105/",
+    "favicon": "https://i.ibb.co/QFYR4CJh/file-00000000ec3881f98413527c07b46524.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T15:57:03Z"
+  },
+  {
     "id": "awb_142b59218c801cc375c4",
     "name": "The Night Shift | Stupid Potato",
     "country": "US",
@@ -104233,6 +104428,20 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_15e383f0d0e8f450558d",
+    "name": "Tropicalisima.fm Instrumental",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://tropicalisima.fm/",
+    "favicon": "https://tropicalisima.fm/images/301837471_753419932299391_3681794150075646260_n-removebg-preview%201%201.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T14:27:53Z"
+  },
+  {
     "id": "awb_0199c23d5179421907f5",
     "name": "Tropico.fm",
     "country": "US",
@@ -105726,6 +105935,26 @@
     "updatedAt": "2026-05-19T14:31:18Z"
   },
   {
+    "id": "awb_bd9d4a0855a86c432bcc",
+    "name": "Vashon Island Alerts 1650 AM - Vashon Island, Washington",
+    "country": "US",
+    "subdivision": "Washington",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "emergency & public safety",
+      "information",
+      "local information"
+    ],
+    "homepage": "https://voiceofvashon.org/",
+    "favicon": "https://voiceofvashon.org/wp-content/themes/voice-of-vashon/images/alert-cover-head.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T02:39:50Z"
+  },
+  {
     "id": "awb_bc4c82fd52eac6e8012e",
     "name": "VCY America (national)",
     "country": "US",
@@ -105999,7 +106228,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.vintagebroadcast.com/",
-    "favicon": "https://vintagebroadcast.com/favicon.ico",
+    "favicon": "https://www.vintagebroadcast.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -118560,6 +118789,28 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_db53a5431104616165a6",
+    "name": "WLGO \"NAPS Radio\" 90.1 Sawyerville, Alabama",
+    "country": "US",
+    "subdivision": "Alabama",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian preaching",
+      "christian worship",
+      "sermons"
+    ],
+    "homepage": "https://www.wlgoradio.com/",
+    "favicon": "https://static.wixstatic.com/media/8c387d_bcb96dea059d4f168608d8aea6082437~mv2.png/v1/fill/w_980,h_980,fp_0.50_0.50,q_95,enc_avif,quality_auto/8c387d_bcb96dea059d4f168608d8aea6082437~mv2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T04:48:17Z"
+  },
+  {
     "id": "awb_43b217dfaef140b029e4",
     "name": "WLHA",
     "country": "US",
@@ -123844,6 +124095,27 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-09T17:53:37Z"
+  },
+  {
+    "id": "awb_661fed19b543abdd82b4",
+    "name": "WQJZ 103.9 Murfreesboro, Tennessee",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "easy listening",
+      "smooth jazz"
+    ],
+    "homepage": "https://wqjz-lp.com/",
+    "favicon": "https://media.live365.com/download/7acad13a-ce18-49a4-9b4e-85a0618f0733.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T00:21:00Z"
   },
   {
     "id": "awb_b3088bbd81b082abd3bf",
@@ -129266,6 +129538,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-07T04:01:15Z"
+  },
+  {
+    "id": "awb_19c5fe32bf710820ef0e",
+    "name": "WUOK \"OK 94.1\" Leesburg, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "regional mexican"
+    ],
+    "homepage": "https://www.ok941fm.com/",
+    "favicon": "https://www.ok941fm.com/reproductor_radio/assets/cover.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T00:16:35Z"
   },
   {
     "id": "awb_a01bde15d11fbdd343e9",
@@ -136231,7 +136521,7 @@
   },
   {
     "id": "awb_d4dffdef11ea48c90167",
-    "name": "ZTVGM Radio",
+    "name": "ZTVGM radio",
     "country": "US",
     "subdivision": "Connecticut",
     "languages": [
@@ -136255,7 +136545,7 @@
       "weather",
       "wilde mischung diverse metal-stilrichtungen inkl. ruhigerer "
     ],
-    "homepage": "https://www.zapstech.net/",
+    "homepage": "https://www.zapstech.net/feed",
     "favicon": null,
     "type": "community",
     "sourceCount": 4,

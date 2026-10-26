@@ -1127,6 +1127,30 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_c51158f599398adb6cfe",
+    "name": "Conexión X",
+    "country": "CL",
+    "subdivision": "Santiago, Región Metropolitana",
+    "languages": [],
+    "categories": [
+      "news",
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "2000s",
+      "80s",
+      "90s",
+      "noticias",
+      "pop music"
+    ],
+    "homepage": "https://www.devnova.cl/",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/639/start-radio.b763752c.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T15:41:59Z"
+  },
+  {
     "id": "awb_329717aca0f0c9e8674e",
     "name": "congreso",
     "country": "CL",
@@ -3892,7 +3916,7 @@
   },
   {
     "id": "awb_488a05d1d811ecb5936d",
-    "name": "Radio 7 Tazas de Molina FM",
+    "name": "Radio 7 Tazas de Molina FM.",
     "country": "CL",
     "subdivision": "Maule",
     "languages": [],
@@ -9030,6 +9054,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-09T11:44:37Z"
+  },
+  {
+    "id": "awb_111b97d70da42a114f79",
+    "name": "Ritmo en Frecuencia",
+    "country": "CL",
+    "subdivision": "Valparaíso",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "80s",
+      "90s",
+      "pop"
+    ],
+    "homepage": "https://zeno.fm/radio/ritmo-en-frecuencia/",
+    "favicon": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ36Xd4AsMCxIOU3RhdGlvblByb2ZpbGUYgIDQn7-81QkMogEEemVubw/image/?u=1667171822000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T02:02:38Z"
   },
   {
     "id": "awb_6dac017fe81c8ed314b0",

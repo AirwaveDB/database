@@ -12294,6 +12294,22 @@
     "updatedAt": "2026-01-15T00:42:52Z"
   },
   {
+    "id": "awb_17dfaf4e301012dd666e",
+    "name": "80s80s Synthiepop",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.80s80s.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T11:22:27Z"
+  },
+  {
     "id": "awb_46c0837df99121fa7cfb",
     "name": "80s80s Techno",
     "country": "DE",
@@ -19538,7 +19554,7 @@
     "id": "awb_9f6c026e52f2cc2ab155",
     "name": "as.if.radio",
     "country": "DE",
-    "subdivision": "Cologne",
+    "subdivision": "North Rhine-Westphalia",
     "languages": [
       "de",
       "en"
@@ -19572,7 +19588,7 @@
       "werbefrei"
     ],
     "homepage": "https://www.as-if-radio.com/",
-    "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
+    "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-04T14:43:37Z"
@@ -23445,6 +23461,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_17b7740e066e1083c58e",
+    "name": "Bluenite Jazz Radio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://laut.fm/bluenite",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T18:32:50Z"
   },
   {
     "id": "awb_8190c9ddc390bf0a7507",
@@ -38457,7 +38487,7 @@
       "rock",
       "soul"
     ],
-    "homepage": "https://flaemingradio.de/",
+    "homepage": "https://www.flaemingradio.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -60307,6 +60337,22 @@
     "updatedAt": "2026-01-15T06:06:20Z"
   },
   {
+    "id": "awb_0aaea15f4f0ebdd165ae",
+    "name": "Moon Safari",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "90' relaxed electro"
+    ],
+    "homepage": "https://laut.fm/moon-safari",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T21:12:08Z"
+  },
+  {
     "id": "awb_e16fc894f931a5b1e0a4",
     "name": "moonquito radio",
     "country": "DE",
@@ -70323,7 +70369,7 @@
   },
   {
     "id": "awb_64da13ba48280ff8393c",
-    "name": "Radio BOB",
+    "name": "Radio Bob",
     "country": "DE",
     "subdivision": "Hessen (Kassel)",
     "languages": [
@@ -70331,7 +70377,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobob.de/#",
+    "homepage": "https://www.radiobob.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -85547,7 +85593,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
+    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"
@@ -86016,6 +86062,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:37:16Z"
+  },
+  {
+    "id": "awb_b9a010ad9f2990b49531",
+    "name": "Radio21 Wilhelmshaven",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://www.radio21.de/index.html#",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T09:27:11Z"
   },
   {
     "id": "awb_42f3b648eab7b9e1fb27",

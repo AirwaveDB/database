@@ -16,6 +16,20 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_ae605345988e26f488af",
+    "name": "Nau FM",
+    "country": "PG",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://yumifm.net/",
+    "favicon": "https://yumifm.net/wp-content/uploads/2021/06/Yumi-FM-CORRECT-LOGO.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T09:07:58Z"
+  },
+  {
     "id": "awb_12be36dcaab9201d9948",
     "name": "Radio Bantaba",
     "country": "PG",
@@ -28,5 +42,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_7c8d9eb9e13c750d8842",
+    "name": "Yumi FM",
+    "country": "PG",
+    "subdivision": "National Capital District",
+    "languages": [],
+    "categories": [
+      "reggae"
+    ],
+    "tags": [
+      "pacific island",
+      "pacific island music",
+      "reggae"
+    ],
+    "homepage": "https://yumifm.net/",
+    "favicon": "https://yumifm.net/wp-content/uploads/2021/06/Yumi-FM-CORRECT-LOGO.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-25T09:17:07Z"
   }
 ]
