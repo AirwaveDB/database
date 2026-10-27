@@ -184,6 +184,20 @@
     "updatedAt": "2026-01-15T04:42:48Z"
   },
   {
+    "id": "awb_be263cf79542cf000cb2",
+    "name": "7 RadioVisione",
+    "country": "IT",
+    "subdivision": "Verbania",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiovisione.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
     "id": "awb_e6075ffa22097961252a",
     "name": "70 80 90",
     "country": "IT",
@@ -686,20 +700,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-27T20:37:44Z"
-  },
-  {
-    "id": "awb_f54e82632089ffe581c2",
-    "name": "ANMIC 24",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.anmic24.com/",
-    "favicon": "https://www.anmic24.com/wp-content/uploads/2024/03/nuovo_logo_anmic24-3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-30T07:09:33Z"
   },
   {
     "id": "awb_b6fc4dc59f24c3e37b02",
@@ -1461,21 +1461,14 @@
       "pop"
     ],
     "tags": [
-      "1970s",
-      "1980s",
-      "70's",
       "70s",
-      "70s disco",
-      "80",
-      "80's",
       "80s",
-      "classic hits",
       "classic-hits"
     ],
     "homepage": "http://classichits.radio/italy/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2780,7 +2773,7 @@
     "favicon": "https://www.fangoradio.com/img/fango-logo.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-22T19:28:45Z"
+    "updatedAt": "2026-10-26T23:46:38Z"
   },
   {
     "id": "awb_c85f7e648b007cd93955",
@@ -6178,7 +6171,7 @@
     "id": "awb_ea957fb1a3fbc0c64030",
     "name": "MotoStorie",
     "country": "IT",
-    "subdivision": null,
+    "subdivision": "Lombardy",
     "languages": [
       "it"
     ],
@@ -6875,13 +6868,12 @@
       "pop"
     ],
     "tags": [
-      "hits",
-      "new hits"
+      "hits"
     ],
     "homepage": "https://newhits.radio/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7235,7 +7227,7 @@
     "id": "awb_4ea10e8371f4aa0bcc57",
     "name": "ORBITA24",
     "country": "IT",
-    "subdivision": null,
+    "subdivision": "Lazio",
     "languages": [
       "it"
     ],
@@ -9062,7 +9054,7 @@
     "id": "awb_82fb46b1c7d85ac91347",
     "name": "Radio 906",
     "country": "IT",
-    "subdivision": null,
+    "subdivision": "Veneto",
     "languages": [
       "it"
     ],
@@ -13809,7 +13801,7 @@
     "id": "awb_fd850d5ecab0e90ea5ba",
     "name": "Radio ERRE18",
     "country": "IT",
-    "subdivision": null,
+    "subdivision": "Piedmont",
     "languages": [
       "it"
     ],
@@ -13821,7 +13813,7 @@
     "favicon": "https://erre18.com/wp-content/uploads/2023/08/Logo-Nero.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T03:22:13Z"
+    "updatedAt": "2026-10-27T03:57:16Z"
   },
   {
     "id": "awb_93601bf016f194e90594",
@@ -14438,7 +14430,7 @@
     "favicon": "https://cloud.radiofreccia.it/assets/www.radiofreccia.it/1.0.43/img/logo/android-icon-192x192.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T00:31:08Z"
+    "updatedAt": "2026-10-27T01:08:33Z"
   },
   {
     "id": "awb_cb8956f744c2d5f75c8b",
@@ -17832,7 +17824,7 @@
     "id": "awb_2ec5014d6733135a428b",
     "name": "Radio Meano",
     "country": "IT",
-    "subdivision": "Belluno",
+    "subdivision": "Veneto",
     "languages": [
       "it"
     ],
@@ -17862,7 +17854,7 @@
     "id": "awb_04c6219b2e58081013a9",
     "name": "Radio Mediterranea",
     "country": "IT",
-    "subdivision": null,
+    "subdivision": "Apulia",
     "languages": [
       "it"
     ],
@@ -20780,28 +20772,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_ed9dafa93fc8a8580062",
-    "name": "Radio Rai 1",
-    "country": "IT",
-    "subdivision": "Lazio",
-    "languages": [
-      "it"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "general",
-      "music",
-      "news"
-    ],
-    "homepage": "https://www.raiplaysound.it/radio1",
-    "favicon": "https://www.rai.it/cropgd/560x292/dl/img/2019/01/07/1280x720_1546854278675_conferenza%20radio1.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:24:51Z"
-  },
-  {
     "id": "awb_20a35d4348c1994a85cf",
     "name": "Radio Rai 2",
     "country": "IT",
@@ -21494,7 +21464,7 @@
     "id": "awb_6808a991ac6bdde2e08c",
     "name": "RADIO RVD",
     "country": "IT",
-    "subdivision": null,
+    "subdivision": "Lombardy",
     "languages": [
       "it"
     ],
@@ -21508,7 +21478,7 @@
     "favicon": "https://radio.motostorie.blog/static/uploads/rvd/album_art.1782297111.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T00:26:13Z"
+    "updatedAt": "2026-10-27T01:30:55Z"
   },
   {
     "id": "awb_fd2288fc2d4673ede4e6",
@@ -25244,20 +25214,6 @@
     "updatedAt": "2026-01-15T07:55:29Z"
   },
   {
-    "id": "awb_398c33c7801673bbc150",
-    "name": "Radiouno",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radio1.rai.it/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_608a149bcb1fd2c6a1eb",
     "name": "RadioUno",
     "country": "IT",
@@ -25312,22 +25268,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:13Z"
-  },
-  {
-    "id": "awb_19cdaad344a6fed59aea",
-    "name": "rai",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radio1.rai.it/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:22:35Z"
   },
   {
     "id": "awb_80b7d7dc1a6db238f1da",
@@ -25556,19 +25496,13 @@
     "name": "Rai Radio 1",
     "country": "IT",
     "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "public radio"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.raiplaysound.it/radio1",
-    "favicon": "https://radio-streaming.it/assets/image/radio/180/rairadio1logo.png",
-    "type": "public",
-    "sourceCount": 3,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
     "updatedAt": "2026-03-01T19:55:32Z"
   },
   {
@@ -25589,37 +25523,10 @@
       "rai"
     ],
     "homepage": "http://www.radio1.rai.it/",
-    "favicon": null,
+    "favicon": "https://www.rai.it/cropgd/560x292/dl/img/2019/01/07/1280x720_1546854278675_conferenza%20radio1.jpg",
     "type": "public",
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T05:21:40Z"
-  },
-  {
-    "id": "awb_e2d235c34daf5001d7c4",
-    "name": "Rai Radio 1",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [
-      "news",
-      "pop",
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "music",
-      "news",
-      "pop",
-      "sports",
-      "talk"
-    ],
-    "homepage": "https://www.rai.it/",
-    "favicon": "https://www.raicom.rai.it/wp-content/uploads/2021/12/RADIO1-1024x1024.jpg",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-07-26T12:28:00Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T03:12:41Z"
   },
   {
     "id": "awb_799a723c8c63b1e147ce",
@@ -26005,7 +25912,7 @@
     "homepage": "https://www.raiplaysound.it/radiotuttaitaliana",
     "favicon": "https://www.raiplaysound.it/cropgd/184x184/dl/img/2021/07/16/1626451934893_radio-tuttaitaliana_600x6001.png",
     "type": "public",
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-03-01T21:31:04Z"
   },
   {
@@ -26021,22 +25928,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_6c7f1450c7bf1adb978f",
-    "name": "Rai Radio Uno",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.raiplaysound.it/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:27:11Z"
   },
   {
     "id": "awb_b6932d9e10af444b3ab7",
@@ -26129,20 +26020,6 @@
     "updatedAt": "2026-01-15T03:18:28Z"
   },
   {
-    "id": "awb_37cdc4d8054be60dea92",
-    "name": "Rai Uno Radio",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://raiplay.it/",
-    "favicon": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Rai-1-in-diretta-live.png?resize=1068%2C601&ssl=1",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_fff8243ff94ac755e6e8",
     "name": "RAI24",
     "country": "IT",
@@ -26174,7 +26051,7 @@
     "id": "awb_1191689da5ab261a9517",
     "name": "Ram Power 102.7",
     "country": "IT",
-    "subdivision": "Roma",
+    "subdivision": "Lazio",
     "languages": [
       "it"
     ],
@@ -26360,7 +26237,7 @@
   },
   {
     "id": "awb_11ab40cc55b8779b4047",
-    "name": "RCUNO",
+    "name": "rcuno",
     "country": "IT",
     "subdivision": null,
     "languages": [
@@ -26378,7 +26255,7 @@
       "rock"
     ],
     "homepage": "http://rcuno.altervista.org/",
-    "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/cropped-RCUNO1.jpg",
+    "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/RCUNO1.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-15T15:59:50Z"
@@ -26591,6 +26468,24 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-23T09:54:06Z"
+  },
+  {
+    "id": "awb_b10f8f6cfebc6b951c05",
+    "name": "Relax Radio",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [],
+    "tags": [
+      "relax music"
+    ],
+    "homepage": "https://www.musiclubwebradio.com/home/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:33:41Z"
   },
   {
     "id": "awb_07fb8b28b3dba9d7c1f1",
@@ -28994,7 +28889,7 @@
     "favicon": "https://radiospore.oziosi.org/user/themes/quark/images/logo/logoprova2.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-22T23:39:44Z"
+    "updatedAt": "2026-10-27T05:23:51Z"
   },
   {
     "id": "awb_234d9c2b691f781ed058",

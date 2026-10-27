@@ -590,6 +590,22 @@
     "updatedAt": "2026-01-15T02:58:06Z"
   },
   {
+    "id": "awb_d38ddc81d37e0a29cca8",
+    "name": "101.ru Алексей Брянцев",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "russian shanson"
+    ],
+    "homepage": "https://101.ru/radio/user/927583",
+    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.stgyA1sX2O5eam4uQYT8ngHaEd%3Fr%3D0%26pid%3DApi&f=1&ipt=fbf6cbf7b29ab9d05e14f94a6415d9f5bc51c2dc1bc98640861bff49a1df10cf&ipo=images",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T07:29:40Z"
+  },
+  {
     "id": "awb_0a51f2a0b484bd5c66c0",
     "name": "101.ru ДДТ",
     "country": "RU",
@@ -657,6 +673,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:56:00Z"
+  },
+  {
+    "id": "awb_c10f0bde41a4bf1f02f5",
+    "name": "101.ru Музыка и песни из советских фильмов",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "retro music"
+    ],
+    "homepage": "https://101.ru/radio/user/661332",
+    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.ZpDxYw69IWSE3CCrAHa7XQHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=ac5f6255864f664ac8eb51407a05bd567ddf9f15ab834acef49c6f92ef69a756&ipo=images",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-27T06:59:41Z"
   },
   {
     "id": "awb_eb6ec7ef4cf997eb14b2",
@@ -2937,7 +2969,7 @@
     "favicon": "https://breaking-bass.ru/wp-content/uploads/2024/05/bb-air-logo-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T00:42:22Z"
+    "updatedAt": "2026-10-27T00:59:21Z"
   },
   {
     "id": "awb_e83d66287c6fd549c4c4",
@@ -2978,7 +3010,7 @@
     "id": "awb_bb18e22d61efdf04b4fe",
     "name": "BRİDGE TV",
     "country": "RU",
-    "subdivision": "Moscow",
+    "subdivision": "Moscow (Russia)",
     "languages": [
       "en",
       "ru"
@@ -2989,7 +3021,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://bridgetv.ru/about/channels/",
+    "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
     "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
     "type": null,
     "sourceCount": 3,
@@ -3066,7 +3098,7 @@
   },
   {
     "id": "awb_ea5cc3717475e43a0380",
-    "name": "C.C.Catch",
+    "name": "C. C. Catch",
     "country": "RU",
     "subdivision": "Moscow",
     "languages": [
@@ -10489,30 +10521,6 @@
     "updatedAt": "2026-01-15T05:17:03Z"
   },
   {
-    "id": "awb_38b72ba820bebf5ff975",
-    "name": "Love radio Иваново 87.9 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "ivanovo",
-      "love radio",
-      "music",
-      "pop",
-      "region 37"
-    ],
-    "homepage": "https://top-radio.ru/ivanovo/love",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241227_192556408.jpg?alt=media&token=97479766-3070-4b73-a10b-65b7f366aabe",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:41:54Z"
-  },
-  {
     "id": "awb_9c57b1b57d59ab8ea49c",
     "name": "Love Radio Москва 106.6 FM",
     "country": "RU",
@@ -10559,27 +10567,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:32:41Z"
-  },
-  {
-    "id": "awb_364ae015c91bf3d02566",
-    "name": "Love radio Ростов-на-Дону 101.6 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "music",
-      "pop"
-    ],
-    "homepage": "https://top-radio.ru/rostov-na-donu/love",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240925_204037752.jpg?alt=media&token=2942e94c-cd25-4378-b211-deaa7058119d",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:50:20Z"
   },
   {
     "id": "awb_82fa1cd551a732bb4a83",
@@ -20204,7 +20191,7 @@
       "radcap"
     ],
     "homepage": "http://radcap.ru/lo-fi.html",
-    "favicon": "https://radcap.ru/graf2/rclogo.png",
+    "favicon": "http://radcap.ru/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T07:52:11Z"
@@ -21759,7 +21746,8 @@
     "country": "RU",
     "subdivision": null,
     "languages": [
-      "en"
+      "en",
+      "ru"
     ],
     "categories": [
       "metal",
@@ -21769,12 +21757,13 @@
       "ballads",
       "metal ballads",
       "radio caprice",
-      "rock"
+      "rock",
+      "rock ballads"
     ],
-    "homepage": "http://radcap.ru/",
-    "favicon": "http://radcap.ru/apple-touch-icon.png",
+    "homepage": "http://www.radcap.ru/rockball.html",
+    "favicon": "http://www.radcap.ru/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T08:11:44Z"
   },
   {
@@ -34480,30 +34469,6 @@
     "updatedAt": "2026-01-15T08:50:49Z"
   },
   {
-    "id": "awb_75e908fae6a8ea140a81",
-    "name": "Дорожное радио Волхов 102.2 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "102_2",
-      "dorognoe radio",
-      "music",
-      "pop",
-      "volkhov"
-    ],
-    "homepage": "https://top-radio.ru/volxov/dorozhnoe",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:47:04Z"
-  },
-  {
     "id": "awb_8867eded4f97124d4c3c",
     "name": "Дорожное радио Воронеж 102.3 FM",
     "country": "RU",
@@ -44198,31 +44163,6 @@
     "updatedAt": "2026-01-19T14:03:46Z"
   },
   {
-    "id": "awb_2999f6680d485b019d65",
-    "name": "Радио РБЖ",
-    "country": "RU",
-    "subdivision": "Moscow",
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "archive",
-      "comedy",
-      "retro",
-      "russian",
-      "spoken word",
-      "talk"
-    ],
-    "homepage": "https://rbj.recomedy.ru/",
-    "favicon": "https://rbj.recomedy.ru/assets/radio-rbj-512.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-28T13:46:28Z"
-  },
-  {
     "id": "awb_716ecbcda6b4492e9b7b",
     "name": "Радио Рекорд (основной канал)",
     "country": "RU",
@@ -50737,7 +50677,7 @@
     "id": "awb_d0e72ae4262a7e8be492",
     "name": "Хит FM",
     "country": "RU",
-    "subdivision": "Moscow/Saint Petersburg",
+    "subdivision": "Moscow",
     "languages": [
       "ru"
     ],

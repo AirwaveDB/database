@@ -324,6 +324,26 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_bffbb8e688df73362815",
+    "name": "89 A Rádio Rock Curitiba 89.3 FM",
+    "country": "BR",
+    "subdivision": "Paraná",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T10:51:42Z"
+  },
+  {
     "id": "awb_104c52e176cabd2a12ca",
     "name": "89 FM",
     "country": "BR",
@@ -646,7 +666,7 @@
   },
   {
     "id": "awb_70b2b2c4cb95c9c8747f",
-    "name": "94fm",
+    "name": "94FM",
     "country": "BR",
     "subdivision": "Rio Grande do Sul",
     "languages": [],
@@ -1897,6 +1917,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_0905ed870a14f248c9e4",
+    "name": "Benchi FM",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "eclectic"
+    ],
+    "homepage": "https://radio.pevaio.top/public/benchi",
+    "favicon": "https://radio.pevaio.top/static/uploads/album_art.1784866749.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T00:54:16Z"
   },
   {
     "id": "awb_fccba9e4f43fcf4b34c2",
@@ -4791,7 +4830,7 @@
     "id": "awb_f9cd36f565bfb92a1a06",
     "name": "Gay FM Brasil",
     "country": "BR",
-    "subdivision": "São Paulo (SP)",
+    "subdivision": "Sao Paulo (Brazil)",
     "languages": [],
     "categories": [
       "pop"
@@ -6137,7 +6176,7 @@
     "id": "awb_a21216fd9e9d6f2e9273",
     "name": "Jovem pan 95,9 FM",
     "country": "BR",
-    "subdivision": "Recife",
+    "subdivision": "Pernambuco",
     "languages": [],
     "categories": [
       "pop",
@@ -7734,7 +7773,7 @@
       "samba"
     ],
     "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": "https://www.radiomaresol.com.br/",
+    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-04-05T04:56:57Z"
@@ -15717,24 +15756,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_3f82022bb9a0ce959593",
-    "name": "Rádio força do interior",
-    "country": "BR",
-    "subdivision": "São Paulo",
-    "languages": [
-      "pt"
-    ],
-    "categories": [],
-    "tags": [
-      "popular"
-    ],
-    "homepage": "https://www.owh.radio.br/",
-    "favicon": "https://cp-1.owh.radio.br/static/uploads/album_art.1779240973.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T03:23:39Z"
-  },
-  {
     "id": "awb_5734b0f60a579db6e9fe",
     "name": "Rádio Forró",
     "country": "BR",
@@ -17795,9 +17816,9 @@
   },
   {
     "id": "awb_43e77ff2f25e7ec81601",
-    "name": "Rádio Livre som",
+    "name": "Rádio Livre Som",
     "country": "BR",
-    "subdivision": "Santa Catarina",
+    "subdivision": "Paraná(Brazil)",
     "languages": [],
     "categories": [],
     "tags": [
@@ -17807,7 +17828,7 @@
     "homepage": "https://www.radiolivresom.com.br/",
     "favicon": "http://radiolivresom.com.br/admin/assets/img/logo.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-31T14:02:57Z"
   },
   {
@@ -24033,6 +24054,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_beb9d4482a5ccc62e390",
+    "name": "Sertanejo Rádio",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://sertanejoradio.com.br/",
+    "favicon": "https://sertanejoradio.com.br/img/cover.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T13:34:47Z"
+  },
+  {
     "id": "awb_28082b293377d8e23d55",
     "name": "Sertanejona | Geração Sertanejo Universitário",
     "country": "BR",
@@ -24978,6 +25013,30 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-02T17:21:01Z"
+  },
+  {
+    "id": "awb_78b8540d9e19e1265d8a",
+    "name": "TMC Curitiba 100.3 FM",
+    "country": "BR",
+    "subdivision": "Paraná",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://tmc.com.br/",
+    "favicon": "https://tmc.com.br/wp-content/uploads/2026/03/cropped-logo-tmc-270x270.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T11:01:38Z"
   },
   {
     "id": "awb_a83e7292a23be3051380",

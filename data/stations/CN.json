@@ -21563,22 +21563,6 @@
     "updatedAt": "2026-03-26T01:25:22Z"
   },
   {
-    "id": "awb_9b9a645cb650b9e97aad",
-    "name": "桓仁电台",
-    "country": "CN",
-    "subdivision": "Liaoning",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.hr.gov.cn/xwzx/hrxw",
-    "favicon": "https://pic.qtfm.cn/2022/1101/20221101044926.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:20:40Z"
-  },
-  {
     "id": "awb_7f7156b3812315b9f904",
     "name": "桦甸综合广播",
     "country": "CN",
@@ -27327,6 +27311,26 @@
     "updatedAt": "2026-01-15T06:57:09Z"
   },
   {
+    "id": "awb_863362e8b986979d275d",
+    "name": "潮州交通音乐广播",
+    "country": "CN",
+    "subdivision": "Kwangtung",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "lifestyle",
+      "music",
+      "traffic information"
+    ],
+    "homepage": "https://www.czbtv.com/",
+    "favicon": "https://ytmedia.radio.cn/CCYT%2F202412%2F06%2F19%2FetuOE8yV6vpldA2024120619172.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-20T07:31:36Z"
+  },
+  {
     "id": "awb_56884f99a6349cb73607",
     "name": "潮州戏曲广播",
     "country": "CN",
@@ -31534,7 +31538,7 @@
     "id": "awb_1051529e5a11aafea44b",
     "name": "诸暨综合广播",
     "country": "CN",
-    "subdivision": "Chekiang",
+    "subdivision": "Zhejiang",
     "languages": [
       "zh"
     ],
@@ -32489,16 +32493,12 @@
     ],
     "categories": [],
     "tags": [
-      "crosstalk",
-      "culture",
-      "entertainment",
-      "literature",
       "music"
     ],
     "homepage": "http://www.dongliao.gov.cn/xxgk/dtxw/dlxw/index_2.html",
-    "favicon": "https://pic.qtfm.cn/2018/0702/20180702120841.jpeg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -33767,7 +33767,7 @@
       "information",
       "news"
     ],
-    "homepage": "http://www.nxw.org.cn/",
+    "homepage": "https://www.nxw.org.cn/",
     "favicon": "http://pic.qingting.fm/2017/0413/20170413110818.jpeg",
     "type": null,
     "sourceCount": 2,

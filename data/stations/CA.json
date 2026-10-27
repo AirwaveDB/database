@@ -1466,8 +1466,8 @@
     "homepage": "https://colemac1.wixsite.com/kool96internetradio",
     "favicon": "https://static.wixstatic.com/media/2f97ed_965e4fe505524ec5aa4a7407b7cabcf0~mv2.png/v1/fill/w_302,h_220,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPOILER_96_kool_fm_cswk-ir_logo.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-18T16:46:44Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-26T23:37:51Z"
   },
   {
     "id": "awb_8a1cfb85bcd7718e6bed",
@@ -2156,6 +2156,55 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T15:44:22Z"
+  },
+  {
+    "id": "awb_d0a82324256237cde374",
+    "name": "AZUR7 Jazz",
+    "country": "CA",
+    "subdivision": "Québec",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "ambient",
+      "jazz"
+    ],
+    "tags": [
+      "azur7",
+      "jazz",
+      "lounge",
+      "quebec"
+    ],
+    "homepage": "https://webradio.azur7.pro/",
+    "favicon": "https://webradio.azur7.pro/assets/a7-speaker.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T08:15:59Z"
+  },
+  {
+    "id": "awb_5b6477588184421228cc",
+    "name": "AZUR7 Pulse",
+    "country": "CA",
+    "subdivision": "Québec",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "azur7",
+      "edm",
+      "electronic",
+      "house",
+      "quebec",
+      "techno"
+    ],
+    "homepage": "https://webradio.azur7.pro/",
+    "favicon": "https://webradio.azur7.pro/assets/a7-speaker.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T08:07:47Z"
   },
   {
     "id": "awb_24b5fd9c0677ca3fe6ba",
@@ -5993,7 +6042,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -6011,7 +6060,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://www.cfnj.net/",
+    "homepage": "http://cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -8726,6 +8775,20 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
+    "id": "awb_ca004d7f3ab20e892268",
+    "name": "CHOI 98,1 Radio X",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
     "id": "awb_9400b580214de8fda6bd",
     "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
     "country": "CA",
@@ -8746,20 +8809,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:49:38Z"
-  },
-  {
-    "id": "awb_ca004d7f3ab20e892268",
-    "name": "CHOI 98.1 Radio X",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiox.com/",
-    "favicon": "https://radiox.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_0db5abdaad511193eccc",
@@ -20876,6 +20925,20 @@
     "updatedAt": "2026-01-24T18:29:31Z"
   },
   {
+    "id": "awb_059a0a9e3683b88d5d84",
+    "name": "Global 1 FM Radio",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.global1fmradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T04:28:48Z"
+  },
+  {
     "id": "awb_b2313ecfebb8b80fde91",
     "name": "Glory To Jesus",
     "country": "CA",
@@ -26941,7 +27004,7 @@
     "homepage": "https://serrebiradio.com/",
     "favicon": "https://radio.serrebiradio.com/static/uploads/logo.png",
     "type": null,
-    "sourceCount": 7,
+    "sourceCount": 6,
     "updatedAt": "2026-09-23T06:48:34Z"
   },
   {
@@ -27312,7 +27375,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto",
+    "subdivision": "Toronto, ON",
     "languages": [],
     "categories": [
       "jazz"
@@ -27321,7 +27384,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
+    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,
@@ -28702,6 +28765,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_affd383612a0883fc0aa",
+    "name": "VotV Community Broadcaster",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://votvbroadcast.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T12:13:37Z"
   },
   {
     "id": "awb_1b0c783c02c7ca32c93f",

@@ -8995,7 +8995,7 @@
     "favicon": "https://aspradio.au/static/uploads/browser_icon/original.1709873524.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-22T21:00:36Z"
+    "updatedAt": "2026-10-26T23:42:38Z"
   },
   {
     "id": "awb_a1ad733d531b36b1afea",
@@ -19558,30 +19558,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:00:15Z"
-  },
-  {
-    "id": "awb_0e3bd5c6c38301bd755d",
-    "name": "Gospel Plus (MP3)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian",
-      "christian music",
-      "gospel",
-      "gospel music",
-      "religious"
-    ],
-    "homepage": "http://www.gospelplus.com.au/",
-    "favicon": "https://i.ibb.co/9y1bNkr/image.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:42:50Z"
   },
   {
     "id": "awb_b254e27dddbaee8ae5c0",
@@ -30648,6 +30624,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_d553ba656ba585dd7670",
+    "name": "Sparx Radio",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://sparxradio.dpdns.org:18443/public/sparxradio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T10:09:58Z"
   },
   {
     "id": "awb_053efdfcc33acbc447da",

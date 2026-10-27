@@ -1124,7 +1124,7 @@
     "favicon": "https://i.imgur.com/o0y6tmP.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T07:34:36Z"
+    "updatedAt": "2026-10-27T07:45:46Z"
   },
   {
     "id": "awb_1e22bf1c158461103c56",
@@ -1408,7 +1408,7 @@
     "favicon": "https://i.imgur.com/EewJI7x.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-21T21:43:10Z"
+    "updatedAt": "2026-10-26T22:24:59Z"
   },
   {
     "id": "awb_ce7e9b89b6f44fda444f",
@@ -1459,24 +1459,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:39:08Z"
-  },
-  {
-    "id": "awb_c6c1c0aa1862bc3a64be",
-    "name": "Cosmopolitan",
-    "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [],
-    "tags": [
-      "family"
-    ],
-    "homepage": "https://cosmopolitanfm.com/",
-    "favicon": "https://i.ibb.co/cpy1q30r/ramadan-mpo777.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:17:44Z"
   },
   {
     "id": "awb_87ce00f81c20d93ec92f",
@@ -1711,6 +1693,28 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_a5e1948a98f88c1242ec",
+    "name": "Diozz FM",
+    "country": "ID",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://radiostream.novawap.com/",
+    "favicon": "https://i.postimg.cc/SscsjcFX/300817895-463238445813397-6367606043435269443-n.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-05-28T23:26:56Z"
   },
   {
     "id": "awb_fcfb2347ee230b1f71f5",
@@ -2586,7 +2590,7 @@
     "favicon": "https://i.imgur.com/ObPAKbZ.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T01:29:04Z"
+    "updatedAt": "2026-10-27T02:40:53Z"
   },
   {
     "id": "awb_6c4f601ec548e532a07b",
@@ -2665,13 +2669,16 @@
       "pop"
     ],
     "tags": [
-      "hits"
+      "hits",
+      "indonesia",
+      "pop",
+      "top 40"
     ],
     "homepage": "http://www.bilitonesefm.com/",
     "favicon": "https://i.imgur.com/J37C5xS.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T05:17:00Z"
+    "updatedAt": "2026-10-27T05:39:01Z"
   },
   {
     "id": "awb_df29112b697969c754ff",
@@ -3724,15 +3731,13 @@
       "pop"
     ],
     "tags": [
-      "indonesia",
-      "pop",
-      "top 40"
+      "pop"
     ],
     "homepage": "https://kradionews.com/",
     "favicon": "https://i.imgur.com/MIalWN9.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-22T20:50:46Z"
+    "updatedAt": "2026-10-27T03:27:39Z"
   },
   {
     "id": "awb_ab37595bdd210aa92fe6",
@@ -5841,13 +5846,20 @@
       "en",
       "id"
     ],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "rock",
+      "top 40"
+    ],
     "homepage": "https://radiobola.co.id/",
     "favicon": "https://i.imgur.com/jWiTHyJ.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-21T21:47:04Z"
+    "updatedAt": "2026-10-26T22:00:40Z"
   },
   {
     "id": "awb_d365638f430591d14f3d",
@@ -6532,32 +6544,31 @@
     "name": "Radio Manggarai 88",
     "country": "ID",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "id"
+    ],
     "categories": [
-      "pop"
+      "country",
+      "electronic",
+      "oldies",
+      "pop",
+      "rock",
+      "talk"
     ],
     "tags": [
-      "pop"
+      "country",
+      "dance",
+      "electronic",
+      "oldies",
+      "pop",
+      "rock",
+      "talk"
     ],
-    "homepage": "https://radiomanggarai88.online/",
-    "favicon": "https://radiomanggarai88.online/static/uploads/rm88/album_art.1769048363.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-26T00:13:52Z"
-  },
-  {
-    "id": "awb_eeb2085f9c4598072f22",
-    "name": "Radio Manggarai 88",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiomanggarai88.com/#home",
+    "homepage": "https://radiomanggarai88.com/",
     "favicon": "https://radiomanggarai88.com/favicon.png?v=2",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-19T05:27:36Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-27T03:54:11Z"
   },
   {
     "id": "awb_baef0107b9693fde5b9a",
@@ -8644,7 +8655,7 @@
     "favicon": "https://i.imgur.com/mIV5WlL.jpeg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T05:06:28Z"
+    "updatedAt": "2026-10-27T05:51:42Z"
   },
   {
     "id": "awb_993dd59d1cbffa39f541",
@@ -8862,7 +8873,7 @@
     "favicon": "https://i.imgur.com/NV4Irpq.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-21T21:54:16Z"
+    "updatedAt": "2026-10-26T22:20:42Z"
   },
   {
     "id": "awb_d86b73f8c1ad7d637e24",
@@ -8964,7 +8975,7 @@
     "favicon": "https://i.imgur.com/60EsDSg.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T03:26:52Z"
+    "updatedAt": "2026-10-27T04:07:53Z"
   },
   {
     "id": "awb_ee3a569f7205ab5931ca",

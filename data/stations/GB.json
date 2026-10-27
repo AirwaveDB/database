@@ -1968,7 +1968,7 @@
     "favicon": "https://aajamusic.com/_nuxt/icons/icon_64x64.fafdcd.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T02:43:27Z"
+    "updatedAt": "2026-10-27T03:18:48Z"
   },
   {
     "id": "awb_767e7c9e6067a15b3e35",
@@ -5767,6 +5767,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:44:13Z"
+  },
+  {
+    "id": "awb_8b80f4bcf34eef19bb4c",
+    "name": "Beats Central",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://beatscentral.co.uk/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-30T06:25:41Z"
   },
   {
     "id": "awb_79165cec34e8822a24e2",
@@ -10048,7 +10062,7 @@
       "afrobeats"
     ],
     "homepage": "https://cosororadio.co.uk/",
-    "favicon": "https://cosororadio.co.uk/storage/2025/08/Cosoro-Afrobeats-1000-min-370x370.png",
+    "favicon": "https://m.media-amazon.com/images/I/71qvsqWYTwL.png",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-09-29T12:04:31Z"
@@ -10920,7 +10934,7 @@
     "favicon": "http://www.dandelionradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-21T23:50:08Z"
+    "updatedAt": "2026-10-27T00:33:26Z"
   },
   {
     "id": "awb_a7094e4e43bfdc768d67",
@@ -11293,6 +11307,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:17:02Z"
+  },
+  {
+    "id": "awb_e81a3dfa27fdb83a1a61",
+    "name": "Dial Inn Radio",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "eclectic",
+      "glasgow",
+      "independent",
+      "spoken word"
+    ],
+    "homepage": "https://dialinnstudio.com/",
+    "favicon": "https://dialinnstudio.com/assets/dial-inn-logo.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T04:31:22Z"
   },
   {
     "id": "awb_7840b887ccd3934430b1",
@@ -21566,7 +21603,7 @@
     "id": "awb_6ccd96adbde9f3c95959",
     "name": "LOVERADIO247",
     "country": "GB",
-    "subdivision": "England",
+    "subdivision": "London, England",
     "languages": [
       "en"
     ],
@@ -26865,7 +26902,7 @@
     "favicon": "https://buenavida.co.uk/wp-content/uploads/2022/08/Small-logo-for-Soundcloud.jpg",
     "type": "community",
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T00:35:42Z"
+    "updatedAt": "2026-10-27T01:01:32Z"
   },
   {
     "id": "awb_d9b84e2fe545cb4ac5d3",
@@ -27413,7 +27450,7 @@
     "favicon": "https://i0.wp.com/radioenrg.com/wp-content/uploads/2020/06/radio-enrg-triangle-black-10.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-21T22:28:33Z"
+    "updatedAt": "2026-10-26T22:33:05Z"
   },
   {
     "id": "awb_1b38758d4250c2f37858",
@@ -30835,22 +30872,8 @@
     "updatedAt": "2026-01-15T08:38:09Z"
   },
   {
-    "id": "awb_4d900e46928ed7781c23",
-    "name": "Rokit Radio 1940s Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www2.rokitradio.com/",
-    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_f76b3b62acdafadb1e33",
-    "name": "ROKit Radio Science Fiction",
+    "name": "ROKiT Radio : Science Fiction",
     "country": "GB",
     "subdivision": "London, England",
     "languages": [
@@ -30867,10 +30890,24 @@
       "scifi"
     ],
     "homepage": "https://rokitradio.com/",
-    "favicon": "https://rokitradio.com/images/channels/scifi.jpg",
+    "favicon": "https://rokitradio.com/images/rokit-radio-mic.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:11:46Z"
+  },
+  {
+    "id": "awb_4d900e46928ed7781c23",
+    "name": "Rokit Radio 1940s Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www2.rokitradio.com/",
+    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_4f80b87c36c6127a0778",
@@ -33174,7 +33211,7 @@
     "favicon": "https://spaceunicorn.radio/assets/img/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T04:20:05Z"
+    "updatedAt": "2026-10-27T04:33:39Z"
   },
   {
     "id": "awb_47dc726d0868a62c9060",
@@ -34049,25 +34086,14 @@
     "id": "awb_4ef38b7bb5d759dfc5e6",
     "name": "SYNK Radio",
     "country": "GB",
-    "subdivision": "Walsall",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic",
-      "hip-hop"
-    ],
-    "tags": [
-      "dance",
-      "drum and bass",
-      "edm",
-      "rap",
-      "various"
-    ],
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://synkradio.co.uk/",
     "favicon": "https://synkradio.co.uk/images/synk-logo.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-06-25T11:54:26Z"
   },
   {
@@ -35326,7 +35352,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T02:20:31Z"
+    "updatedAt": "2026-10-27T03:37:01Z"
   },
   {
     "id": "awb_9a85824534bace90044d",
@@ -35372,7 +35398,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T05:12:57Z"
+    "updatedAt": "2026-10-27T07:38:44Z"
   },
   {
     "id": "awb_0cd68043fc15aa1212bb",
@@ -36396,22 +36422,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_5d4e9fa987e0c47d5953",
-    "name": "Urban All In 1 Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://urbanallin1radio.co.uk/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-25T00:04:11Z"
   },
   {
     "id": "awb_7041dc2518183a75b394",

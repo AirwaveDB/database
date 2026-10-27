@@ -682,7 +682,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Athens Greece",
+    "subdivision": "Attica, Athens",
     "languages": [
       "el",
       "en"
@@ -2580,6 +2580,24 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_afffdd23d0dfd13e3d08",
+    "name": "Alfa 96",
+    "country": "GR",
+    "subdivision": "Serres",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.alfaradio.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/992eb0a5-a0ad-4ed9-9af6-9b4a91343b5f.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T17:47:27Z"
+  },
+  {
     "id": "awb_4ddd702e761763daddd6",
     "name": "Alimos",
     "country": "GR",
@@ -3592,7 +3610,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.atticaradios.gr/athens-deejay-952/",
-    "favicon": "https://www.atticaradios.gr/Content/ImagesDatabase/p/crop/both/9d/9d212880d56d43a7bc49cb7e531ecb4c.svg?quality=85&404=default&v=4",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NVxJAkegta5hGh8IW16JZH-h0fEU01y9dmKUz8nJaw&s",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-07T10:16:56Z"
@@ -6937,6 +6955,27 @@
     "updatedAt": "2026-03-22T20:44:29Z"
   },
   {
+    "id": "awb_dec7960d23441b8e787a",
+    "name": "Dromos 89,8",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek music",
+      "greek pop"
+    ],
+    "homepage": "https://www.dromosfm.gr/",
+    "favicon": "https://www.dromosfm.gr/wp-content/uploads/2017/03/dromosfmlogo3d-retina.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T15:33:32Z"
+  },
+  {
     "id": "awb_5ec34d17fb95ae68883e",
     "name": "DRS 95.3",
     "country": "GR",
@@ -6985,6 +7024,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_12b81239f51eb3745183",
+    "name": "E 103",
+    "country": "GR",
+    "subdivision": "Serres",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "greek music",
+      "news",
+      "news talk"
+    ],
+    "homepage": "https://epsilon103.gr/",
+    "favicon": "https://i0.wp.com/epsilon103.gr/wp-content/uploads/2021/12/1268352_674786059199213_1830716791_o.jpg?fit=1181%2C709&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T18:24:54Z"
   },
   {
     "id": "awb_3482821ee8f17bdb221f",
@@ -9037,6 +9099,23 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_43aa897ffa13a91bf0d7",
+    "name": "Figaro Discotheque",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "disco",
+      "italo disco"
+    ],
+    "homepage": "https://www.figarodisco.com/",
+    "favicon": "https://figarodisco.odoo.com/web/image/465-9d3163ba/DALL%C2%B7E%202025-01-22%2013.07.42%20-%20A%20vibrant%20and%20dynamic%20design%20representing%20a%20disco%20theme%20with%20a%20red%20and%20black%20color%20palette.%20The%20image%20features%20a%20retro-style%20disco%20ball%20reflecting%20col.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-04-09T21:37:06Z"
   },
   {
     "id": "awb_35fb413178a56d9738b5",
@@ -11698,7 +11777,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-23T00:13:53Z"
+    "updatedAt": "2026-10-27T07:13:39Z"
   },
   {
     "id": "awb_6238359a928c7aa2b0fe",
@@ -14515,7 +14594,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-22T18:12:41Z"
+    "updatedAt": "2026-10-26T22:15:35Z"
   },
   {
     "id": "awb_f6721fc2fc91afd0e9b8",
@@ -17805,20 +17884,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-25T19:48:02Z"
-  },
-  {
-    "id": "awb_af99aa228729f0692cf3",
-    "name": "PolisView",
-    "country": "GR",
-    "subdivision": "Athens",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://polisview.com/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/216823d5-ef31-46d0-9fd5-1f9c9d9deb9c.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_3e6f7c32660ed1b64d8b",
@@ -23521,7 +23586,7 @@
     "favicon": "https://rebetis.duckdns.org/rebetis.png",
     "type": null,
     "sourceCount": 7,
-    "updatedAt": "2026-10-22T23:10:10Z"
+    "updatedAt": "2026-10-27T07:17:56Z"
   },
   {
     "id": "awb_d7a84c80fd5892c5a153",
@@ -31122,6 +31187,26 @@
     "updatedAt": "2026-01-14T23:17:02Z"
   },
   {
+    "id": "awb_0104884ef1a58b3c76cc",
+    "name": "ΔΡΟΜΟΣ 89,8",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "athens",
+      "greece",
+      "mainstream"
+    ],
+    "homepage": "https://www.dromosfm.gr/",
+    "favicon": "https://www.dromosfm.gr/wp-content/uploads/2016/09/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T15:06:01Z"
+  },
+  {
     "id": "awb_776b44fc96e4b84c12a7",
     "name": "Δρομοσ 89,8 | Dromos 89,8",
     "country": "GR",
@@ -31332,6 +31417,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_d6beb7d467756f17a3e5",
+    "name": "Ελληνάδικο 102 FM",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://ellinadikofm.gr/",
+    "favicon": "http://resources.live24.gr/resources/images/stations/ca728aea-c5f6-4f86-b510-102f00fce8fd.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:42:03Z"
   },
   {
     "id": "awb_b8f0acdfd05320bfbb32",
@@ -33707,6 +33813,25 @@
     "updatedAt": "2026-01-15T02:58:06Z"
   },
   {
+    "id": "awb_4f05dde79f78fa84f63d",
+    "name": "Κρητόραμα 97.9",
+    "country": "GR",
+    "subdivision": "Heraclion",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "greek",
+      "traditional"
+    ],
+    "homepage": "https://www.facebook.com/kritorama96",
+    "favicon": "https://www.facebook.com/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:22:35Z"
+  },
+  {
     "id": "awb_c5c5b4628627bae13b31",
     "name": "ΚΣΕΝΥΧΤΙΣ ΜΙΤΙΛΙΝΙ",
     "country": "GR",
@@ -34201,22 +34326,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-17T19:01:44Z"
-  },
-  {
-    "id": "awb_25e80df4ace359978a91",
-    "name": "Λόφος",
-    "country": "GR",
-    "subdivision": "Lesvos",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "student radio"
-    ],
-    "homepage": "http://my.aegean.gr/radio/Lesvos/",
-    "favicon": "http://my.aegean.gr/radio/Lesvos/pix/now-playing-lofosbox3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-19T17:55:13Z"
   },
   {
     "id": "awb_bfc9a0249ee1111e6602",

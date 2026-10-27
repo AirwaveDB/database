@@ -210,7 +210,7 @@
     "favicon": "https://meta.1zwolle.nl/logos/64x64.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T12:21:37Z"
+    "updatedAt": "2026-10-27T03:39:50Z"
   },
   {
     "id": "awb_3861f863ae11d5bbecf3",
@@ -942,7 +942,7 @@
     "favicon": "https://forums.ah.fm/data/assets/logo/favicon.png",
     "type": null,
     "sourceCount": 8,
-    "updatedAt": "2026-10-23T01:08:24Z"
+    "updatedAt": "2026-10-27T01:26:18Z"
   },
   {
     "id": "awb_e499ee5a4e0ed96f5c3d",
@@ -5156,20 +5156,6 @@
     "updatedAt": "2026-10-22T13:41:54Z"
   },
   {
-    "id": "awb_757de2498fd6a4452755",
-    "name": "GLXY THROWBACK RADIO",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://glxy.radio/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_a0bd610c0db6d36ad5e5",
     "name": "GLXY.RADIO",
     "country": "NL",
@@ -9279,7 +9265,7 @@
     "id": "awb_8a0d399c51b7ae5a645a",
     "name": "MeerRadio",
     "country": "NL",
-    "subdivision": "Noord-Holland",
+    "subdivision": "Noord-Holland, Haarlemmermeer",
     "languages": [
       "nl"
     ],
@@ -9293,7 +9279,7 @@
       "local news",
       "pop music"
     ],
-    "homepage": "https://meerradio.nl/radio/luister-naar-meerradio/",
+    "homepage": "https://meerradio.nl/",
     "favicon": "https://meerradio.nl/wp-content/uploads/2023/07/Watermerk-meerradio.png",
     "type": "community",
     "sourceCount": 2,
@@ -11281,9 +11267,9 @@
   },
   {
     "id": "awb_07f37dcda9704329f8c3",
-    "name": "Omroep Horst aan de Maas!",
+    "name": "Omroep Horst aan de Maas",
     "country": "NL",
-    "subdivision": "Limburg",
+    "subdivision": "Limburg, Horst",
     "languages": [
       "nl"
     ],
@@ -11292,7 +11278,7 @@
       "divers"
     ],
     "homepage": "https://www.omroephorstaandemaas.nl/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/106/omroep-horst-aan-de-maas.01f137ca.png",
+    "favicon": "http://omroephorstaandemaas.nl/",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-07-27T09:31:17Z"
@@ -13019,12 +13005,12 @@
     "id": "awb_14ceba8d1d61b15cdc22",
     "name": "Power FM Breda",
     "country": "NL",
-    "subdivision": "Noord Brabant",
+    "subdivision": "Noord-Brabant",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://powerfmbreda.x10.mx/",
-    "favicon": "https://powerfmbreda.x10.mx/favicon.png",
+    "favicon": "https://powerfmbreda.x10.mx/wp-content/uploads/fbrfg/favicon.svg",
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-03-11T09:52:26Z"
@@ -20056,7 +20042,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T02:07:34Z"
+    "updatedAt": "2026-10-27T02:22:08Z"
   },
   {
     "id": "awb_dd748d6ac2bea7f2fb37",

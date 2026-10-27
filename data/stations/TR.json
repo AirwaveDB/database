@@ -1916,7 +1916,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T06:48:24Z"
+    "updatedAt": "2026-10-27T07:02:29Z"
   },
   {
     "id": "awb_8dc344dd987ed3d504a1",
@@ -1939,7 +1939,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-22T05:04:32Z"
+    "updatedAt": "2026-10-27T06:48:50Z"
   },
   {
     "id": "awb_1da58c9adefda6d59499",
@@ -1985,7 +1985,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T18:55:38Z"
+    "updatedAt": "2026-10-26T22:29:13Z"
   },
   {
     "id": "awb_18ef70fa187d5f788e31",
@@ -2035,7 +2035,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-mmradyo-favicon.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-21T21:22:43Z"
+    "updatedAt": "2026-10-26T22:02:52Z"
   },
   {
     "id": "awb_ffeadaecbf30ca44c405",
@@ -2089,7 +2089,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-22T16:32:55Z"
+    "updatedAt": "2026-10-27T00:41:56Z"
   },
   {
     "id": "awb_173bf527a4d7f5eb635c",
@@ -4544,6 +4544,20 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_5caea4c30a095513f5ff",
+    "name": "KLAS RADİO TURKEY",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://anadolu.liderhost.com.tr:10929/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
     "id": "awb_ba588235246724cf4481",
     "name": "KLASİK HOME",
     "country": "TR",
@@ -5423,7 +5437,7 @@
     "id": "awb_9b304479aab13c23b99c",
     "name": "MK Radyo",
     "country": "TR",
-    "subdivision": "Istanbul",
+    "subdivision": "Bursa",
     "languages": [
       "tr"
     ],

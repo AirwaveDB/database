@@ -59,17 +59,20 @@
     "country": "MA",
     "subdivision": "New York",
     "languages": [
-      "ar"
+      "ar",
+      "en"
     ],
     "categories": [],
     "tags": [
-      "arabic"
+      "arabic",
+      "english",
+      "france"
     ],
     "homepage": "https://xglite.listen2myradio.com/",
     "favicon": "https://drive.google.com/file/d/1UCRLXymEBsuwoJVLF1VSsptvA_spPUeN/view?usp=drivesdk",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-22T19:00:23Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-26T20:41:41Z"
   },
   {
     "id": "awb_fc5826df87cff30c4709",
@@ -184,32 +187,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_415690e855bc27f61e24",
-    "name": "aswatalweb",
-    "country": "MA",
-    "subdivision": "moroco",
-    "languages": [
-      "ar"
-    ],
-    "categories": [
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "film talk",
-      "live sport",
-      "music",
-      "music arabe",
-      "radio maroc",
-      "sports commentary"
-    ],
-    "homepage": "https://aswatalweb.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-17T09:47:08Z"
   },
   {
     "id": "awb_eeafc189518def9770fa",

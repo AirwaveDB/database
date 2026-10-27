@@ -1490,6 +1490,28 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_876e9a69d3fe5bc0ee8e",
+    "name": "AIR Thrissur",
+    "country": "IN",
+    "subdivision": "kerala",
+    "languages": [
+      "ml"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "local radio",
+      "malayalam",
+      "news"
+    ],
+    "homepage": "https://akashvani.gov.in/radio/live.php",
+    "favicon": "https://newsonair.gov.in/wp-content/uploads/2024/03/Akhashvani-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-08-27T04:11:08Z"
+  },
+  {
     "id": "awb_e4b7d1f583e1de34cf69",
     "name": "AIR Tuticorin",
     "country": "IN",
@@ -1918,6 +1940,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_c1e093f8431a798e2189",
+    "name": "Akashvani Markapur",
+    "country": "IN",
+    "subdivision": "Andhra Pradesh",
+    "languages": [
+      "te"
+    ],
+    "categories": [
+      "news",
+      "public",
+      "talk"
+    ],
+    "tags": [
+      "news talk",
+      "public radio"
+    ],
+    "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
+    "favicon": null,
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-08-22T04:46:32Z"
   },
   {
     "id": "awb_83ebe1c6768acbec6e92",
@@ -3535,11 +3580,11 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://bollyhitsradio.com/",
-    "favicon": "https://bollyhitsradio.com/wp-content/uploads/sites/558/2026/02/BollyHits-Radio-White-300x300.jpg",
+    "homepage": "http://bollyhitsradio.com/",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/1/88371.v5.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-19T02:41:27Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-06-22T02:42:47Z"
   },
   {
     "id": "awb_9abe93ed84ed722568a0",
@@ -5921,20 +5966,6 @@
     "updatedAt": "2026-01-15T04:34:00Z"
   },
   {
-    "id": "awb_74c3d9daa92ad79c7666",
-    "name": "GupShup Internet Radio",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://gupshupradio.com/",
-    "favicon": "https://gupshupradio.com/wp-content/uploads/2021/11/gupshuplogo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_b7f7fd96fdc851fb938b",
     "name": "Gupshup Radio",
     "country": "IN",
@@ -7505,6 +7536,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:49:59Z"
+  },
+  {
+    "id": "awb_ba97606bdade76e736ae",
+    "name": "Karaikal",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [
+      "ta"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://akashvani.gov.in/radio/live.php",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:37:33Z"
   },
   {
     "id": "awb_eaae4c713c6ed6ae5888",
@@ -14308,14 +14355,11 @@
       "ta"
     ],
     "categories": [],
-    "tags": [
-      "south india",
-      "tamil"
-    ],
+    "tags": [],
     "homepage": "https://www.tamilradios.com/tamil-80s-radio",
-    "favicon": "https://www.tamilradios.com/assets/img/radio-logos/tamil-80s-radio.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -14853,7 +14897,7 @@
     "id": "awb_535bc28f8985a73d24e5",
     "name": "Thandora FM",
     "country": "IN",
-    "subdivision": "Tamil Nadu",
+    "subdivision": "Tamilnadu",
     "languages": [
       "ta"
     ],
