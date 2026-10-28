@@ -160,22 +160,6 @@
     "updatedAt": "2026-07-14T03:56:17Z"
   },
   {
-    "id": "awb_17ecc94155a9f02d63de",
-    "name": "Abdulbasit Abdulsamad",
-    "country": "CL",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:09:01Z"
-  },
-  {
     "id": "awb_32e16504781bc1fb35f4",
     "name": "Acordes de Chile",
     "country": "CL",
@@ -3079,22 +3063,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_17ae7423ce2f78383b21",
-    "name": "LOVE FM: All you need is Love ♥ Clásicos románticos",
-    "country": "CL",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://lovefm.com.mx/",
-    "favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T16:23:10Z"
-  },
-  {
     "id": "awb_2a5508fef4eb719344ad",
     "name": "Maldonado FM",
     "country": "CL",
@@ -3206,6 +3174,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-24T05:47:42Z"
+  },
+  {
+    "id": "awb_9710595b525b1cbb9142",
+    "name": "Master of Rock Chile",
+    "country": "CL",
+    "subdivision": "Valparaiso",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://onlineradiobox.com/cl/masterofrockchile/?cs=cl.masterofrockchile&played=1",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T18:17:29Z"
   },
   {
     "id": "awb_dcaa563d29865f5874bd",
@@ -7291,6 +7273,28 @@
     "updatedAt": "2026-07-08T21:08:01Z"
   },
   {
+    "id": "awb_dae5e9a95bac74fec895",
+    "name": "Radio Nuevo Tiempo Chile",
+    "country": "CL",
+    "subdivision": "Santiago",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "adventist",
+      "christian",
+      "religious"
+    ],
+    "homepage": "https://www.nuevotiempo.org/",
+    "favicon": "https://cdn.onlineradiobox.com/img/fblogo/4/3234.v10.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:52:20Z"
+  },
+  {
     "id": "awb_e441a25d428fa8f58582",
     "name": "Radio Ocurrente, Ocurrente Como Tú",
     "country": "CL",
@@ -8472,32 +8476,13 @@
     "name": "Radio Universidad de Chile",
     "country": "CL",
     "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "culture",
-      "current affairs",
-      "derechos humanos",
-      "local news",
-      "multicultural",
-      "music",
-      "news",
-      "news talk",
-      "political talk",
-      "politics & current affairs",
-      "progressive politics",
-      "sports news"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radio.uchile.cl/",
     "favicon": "https://radio.uchile.cl/wp-content/themes/duch-2026/assets/i/favicon-160px.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24T14:08:24Z"
   },
   {

@@ -129,16 +129,12 @@
     "languages": [
       "ar"
     ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "islamic"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -200,24 +196,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T19:08:28Z"
-  },
-  {
-    "id": "awb_06c223c5db6090af7878",
-    "name": "al quran radio",
-    "country": "DZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_8bd1f7118d3c0ceab9fd",
@@ -1680,20 +1658,6 @@
     "updatedAt": "2026-10-12T15:37:09Z"
   },
   {
-    "id": "awb_5ee49298ae8e6d1851a5",
-    "name": "LOVE FM: أغاني البوب ​​الكلاسيكية من الثمانينيات وحتى الآن",
-    "country": "DZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://maxplay.com.mx/",
-    "favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-25T04:32:18Z"
-  },
-  {
     "id": "awb_cbc9bd1e846eb67d7f69",
     "name": "M'sila المسيلة",
     "country": "DZ",
@@ -2901,9 +2865,9 @@
       "classical"
     ],
     "homepage": null,
-    "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {

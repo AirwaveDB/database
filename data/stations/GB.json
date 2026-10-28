@@ -1,21 +1,5 @@
 [
   {
-    "id": "awb_9ff2145d6f9bd4c5abac",
-    "name": ". Abdulbasit Abdulsamad",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:50:53Z"
-  },
-  {
     "id": "awb_b20c2de2dd92e8282d5a",
     "name": ".. Al quran radio",
     "country": "GB",
@@ -28,9 +12,9 @@
       "classical"
     ],
     "homepage": null,
-    "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1948,7 +1932,7 @@
     "favicon": "https://aajamusic.com/_nuxt/icons/icon_64x64.fafdcd.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T20:50:46Z"
+    "updatedAt": "2026-10-27T21:42:09Z"
   },
   {
     "id": "awb_51d9026b7064707aeffe",
@@ -4487,7 +4471,7 @@
     "favicon": "https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T07:58:16Z"
+    "updatedAt": "2026-10-27T09:20:02Z"
   },
   {
     "id": "awb_84c695af035e048128c3",
@@ -7947,7 +7931,7 @@
     "favicon": "https://cloud-4shg5daq1-hack-club-bot.vercel.app/0calm_n_chill_radio_logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T11:47:10Z"
+    "updatedAt": "2026-10-27T12:16:39Z"
   },
   {
     "id": "awb_243b7269629fb4e8cb56",
@@ -9648,20 +9632,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_c520d03296597c14591c",
-    "name": "Classic Gold",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mytuner-radio.com/radio/classic-gold-united-kingdom-517110/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-14T20:10:32Z"
-  },
-  {
     "id": "awb_bd41b2b1cbde6455d35d",
     "name": "Classic Hits Forest Radio",
     "country": "GB",
@@ -10062,7 +10032,7 @@
       "afrobeats"
     ],
     "homepage": "https://cosororadio.co.uk/",
-    "favicon": "https://m.media-amazon.com/images/I/71qvsqWYTwL.png",
+    "favicon": "https://cosororadio.co.uk/storage/2025/08/Cosoro-Afrobeats-1000-min-370x370.png",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-09-29T12:04:31Z"
@@ -11288,6 +11258,25 @@
     "updatedAt": "2026-05-09T13:37:19Z"
   },
   {
+    "id": "awb_b2514367cae7e87240c8",
+    "name": "DevRadio",
+    "country": "GB",
+    "subdivision": "Oxfordshire",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "lofi",
+      "lofi beats"
+    ],
+    "homepage": "https://devradio.co.uk/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T20:25:54Z"
+  },
+  {
     "id": "awb_f0b2f780c9d3aa5634fb",
     "name": "DFM Christmas",
     "country": "GB",
@@ -11753,7 +11742,7 @@
     "favicon": "https://www.bidstonobservatory.org/favicon-32x32.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T19:31:51Z"
+    "updatedAt": "2026-10-27T21:28:16Z"
   },
   {
     "id": "awb_003cff6d52adc54f83ea",
@@ -11832,22 +11821,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-27T12:06:10Z"
-  },
-  {
-    "id": "awb_39cd7747555ee4cb637e",
-    "name": "Drearburh - The Ninth House Radio",
-    "country": "GB",
-    "subdivision": "Scotland",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.drearburh.uk/",
-    "favicon": "https://www.drearburh.uk/TBMC/crew/Bubblina.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-22T18:23:44Z"
   },
   {
     "id": "awb_3ec6b03541deb1b7e0e0",
@@ -21603,7 +21576,7 @@
     "id": "awb_6ccd96adbde9f3c95959",
     "name": "LOVERADIO247",
     "country": "GB",
-    "subdivision": "London, England",
+    "subdivision": "England",
     "languages": [
       "en"
     ],
@@ -26201,7 +26174,7 @@
       "praise",
       "worship"
     ],
-    "homepage": "https://www.premier.plus/stations/premier-praise",
+    "homepage": "https://www.premier.plus/stations/premier-peace",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -29983,7 +29956,7 @@
     "favicon": "https://www.reformradio.co.uk/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T14:19:12Z"
+    "updatedAt": "2026-10-27T14:38:48Z"
   },
   {
     "id": "awb_89fa503ea86beb35b8f2",
@@ -30156,7 +30129,7 @@
     "favicon": "https://cdn.prod.website-files.com/62bc4b9b51f455e9a386fdd1/62be3ea967ffbeb32ccfe453_android-chrome-256x256.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T15:22:54Z"
+    "updatedAt": "2026-10-27T15:26:01Z"
   },
   {
     "id": "awb_1ad96a99543438d854f7",
@@ -30537,7 +30510,7 @@
       "rock"
     ],
     "homepage": "https://rock.scot/",
-    "favicon": "https://rock.scot/assets/images/logo.webp",
+    "favicon": "https://rf.broadcast.radio/api/image/a47741f3-6103-40c4-9e21-0453a30fc67e.png?g=center&w=600&h=600&f=png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-30T21:53:05Z"
@@ -31281,26 +31254,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_48c0e28803865ae790b7",
-    "name": "Santa Christmas Radio (MP3)",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "christmas"
-    ],
-    "tags": [
-      "christmas music"
-    ],
-    "homepage": "http://www.santachristmasradio.co.uk/",
-    "favicon": "https://i.ibb.co/B6qv1P6/a-HR0c-HM6-Ly9zd-HJl-YW0td-G9vb-HMuem-Vub21l-ZGlh-Lm-Nvb-S9jb250-ZW50-L3-N0-YXRpb25z-L2-Fne-Hpmbn-Bs.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:49:40Z"
   },
   {
     "id": "awb_0908522c9d308b7d379b",
@@ -32917,7 +32870,7 @@
     "id": "awb_0d84734a9ee1e4dddcf0",
     "name": "Soul Rhythms Radio UK",
     "country": "GB",
-    "subdivision": "London, England",
+    "subdivision": "Kent",
     "languages": [
       "en"
     ],
@@ -32960,7 +32913,7 @@
       "soul",
       "soul music"
     ],
-    "homepage": "https://soulrhythmsradio.com/home/",
+    "homepage": "https://soulrhythmsradio.com/",
     "favicon": "https://soulrhythmsradio.com/wp-content/uploads/2023/12/SRR-LOGOTHIS_ONE.jpg",
     "type": null,
     "sourceCount": 6,
@@ -34081,20 +34034,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_4ef38b7bb5d759dfc5e6",
-    "name": "SYNK Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://synkradio.co.uk/",
-    "favicon": "https://synkradio.co.uk/images/synk-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-25T11:54:26Z"
   },
   {
     "id": "awb_1619885246757fd60352",
@@ -35325,7 +35264,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T09:09:54Z"
+    "updatedAt": "2026-10-27T10:44:12Z"
   },
   {
     "id": "awb_1a2831c0a454ad6e1da7",
@@ -35375,7 +35314,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T23:49:03Z"
+    "updatedAt": "2026-10-28T00:52:28Z"
   },
   {
     "id": "awb_1a0ff23f93608f601f69",
@@ -37629,7 +37568,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

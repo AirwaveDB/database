@@ -1,21 +1,5 @@
 [
   {
-    "id": "awb_634f1adb1369d8e51fec",
-    "name": ". Abdulbasit Abdulsamad",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:22:38Z"
-  },
-  {
     "id": "awb_a43231b5614c6a9b50c2",
     "name": "149FM",
     "country": "RO",
@@ -75,7 +59,7 @@
       "manele vechi"
     ],
     "homepage": "https://atentat.ro/",
-    "favicon": "https://atentat.ro/wp-content/uploads/2021/03/radio240.png",
+    "favicon": "https://atentat.ro/wp-content/uploads/2021/03/radio240-150x150.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:11Z"
@@ -696,23 +680,6 @@
     "updatedAt": "2026-04-28T17:51:38Z"
   },
   {
-    "id": "awb_b3021ac11df4aab2a612",
-    "name": "Balamuc_Fm -Cluj Napoca",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "manele",
-      "petrecere"
-    ],
-    "homepage": "https://xat.com/Balamuc_FM",
-    "favicon": "https://play-lh.googleusercontent.com/u2m4oVC_mtcPP123T0Xy4CEzZZxTXuBoEoj_pNn7rueFef7EXZV45hR_3kARujlhzLI=w240-h480",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-21T09:58:48Z"
-  },
-  {
     "id": "awb_2eed6c42a873ed94afe1",
     "name": "Balcan Radio Manele -Brăila",
     "country": "RO",
@@ -1198,6 +1165,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_3655730e96b3645b0f3d",
+    "name": "CityWave Radio",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "ro"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "00s",
+      "10s",
+      "dance",
+      "pop dance"
+    ],
+    "homepage": "https://citywaveradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T18:54:23Z"
   },
   {
     "id": "awb_2e95e90cfec2f4e179cb",
@@ -3347,7 +3338,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://fyplus.ro/",
+    "homepage": "https://fyplus.ro/radio",
     "favicon": "https://fyplus.ro/fy-radio-logo.png",
     "type": null,
     "sourceCount": 2,
@@ -4598,7 +4589,7 @@
       "oldies",
       "the best of 80's"
     ],
-    "homepage": "https://radio.free-shoutcast.com/site/89000",
+    "homepage": "http://radio.free-shoutcast.com/site/89000",
     "favicon": null,
     "type": null,
     "sourceCount": 3,
@@ -7269,9 +7260,9 @@
       "pop"
     ],
     "homepage": "https://radioboom.ro/",
-    "favicon": null,
+    "favicon": "https://stream.radioboom.ro/static/uploads/boom_energy/album_art.1711440856.jpg",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8399,13 +8390,27 @@
     "languages": [
       "ro"
     ],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "bisericesc",
+      "christian",
+      "christian music",
+      "christian orthodox",
+      "church",
+      "crestin",
+      "crestin-ortodox",
+      "orthodox christian",
+      "orthodox church",
+      "orthodoxy",
+      "ortodox"
+    ],
     "homepage": "https://doxologia.ro/",
-    "favicon": null,
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/6NqCWKe4VD.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:27:11Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-27T14:24:57Z"
   },
   {
     "id": "awb_dfd6c50d42e1f925ebeb",
@@ -9140,20 +9145,16 @@
       "hu"
     ],
     "categories": [
-      "news",
-      "pop",
-      "talk"
+      "pop"
     ],
     "tags": [
-      "local news",
       "local radio",
-      "talk & speech",
       "top hits"
     ],
-    "homepage": "https://www.radiogaga.ro/",
+    "homepage": "https://www.radiogaga.ro/radio-player/?station=2",
     "favicon": "https://cdn.radiogaga.ro/sounder-child/images/GaGa_Logo-HA.svg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-19T21:56:14Z"
   },
   {
@@ -12952,17 +12953,29 @@
       "ro"
     ],
     "categories": [
-      "classical"
+      "classical",
+      "religious"
     ],
     "tags": [
+      "byzantine",
+      "christian",
+      "christian music",
+      "christian orthodox",
+      "church",
       "classical",
+      "crestin",
+      "crestin-ortodox",
+      "orthodox",
+      "orthodox christian",
+      "orthodox church",
+      "orthodoxy",
       "religion"
     ],
     "homepage": "http://www.radiotrinitas.ro/",
-    "favicon": null,
+    "favicon": "https://app.radio.com.ro/images/88966_radio.webp",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:54:13Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-10-27T15:38:44Z"
   },
   {
     "id": "awb_e550cbaddee0340859fb",
@@ -14496,6 +14509,105 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-24T09:15:16Z"
+  },
+  {
+    "id": "awb_1bb4a3a95362ab658998",
+    "name": "Schitul Sfântul Neagoe Vodă Basarab",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [
+      "grc",
+      "ro"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "bisericesc",
+      "byzantine",
+      "christian orthodox",
+      "church",
+      "crestin",
+      "crestin-ortodox",
+      "liturgical",
+      "monastery",
+      "orthodox",
+      "orthodox christian",
+      "orthodox church",
+      "orthodoxy",
+      "ortodox"
+    ],
+    "homepage": "https://sfantulneagoe.ro/",
+    "favicon": "https://sfantulneagoe.ro/assets/img/header-mobil.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T13:59:20Z"
+  },
+  {
+    "id": "awb_f285847493f9523e7c68",
+    "name": "Schitul Sfântul Neagoe Vodă Basarab, Vlădești, Argeș",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [
+      "grc",
+      "ro"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "bisericesc",
+      "byzantine",
+      "christian orthodox",
+      "church",
+      "crestin",
+      "crestin-ortodox",
+      "liturgical",
+      "monastery",
+      "orthodox",
+      "orthodox christian",
+      "orthodox church",
+      "orthodoxy",
+      "ortodox"
+    ],
+    "homepage": "https://sfantulneagoe.ro/",
+    "favicon": "https://sfantulneagoe.ro/assets/img/header-mobil.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T13:07:15Z"
+  },
+  {
+    "id": "awb_f0a852ed03f1e05ef247",
+    "name": "Schitul Vladesti Arges",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [
+      "grc",
+      "ro"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "bisericesc",
+      "byzantine",
+      "christian orthodox",
+      "church",
+      "crestin",
+      "crestin-ortodox",
+      "liturgical",
+      "monastery",
+      "orthodox",
+      "orthodox christian",
+      "orthodox church",
+      "orthodoxy",
+      "ortodox"
+    ],
+    "homepage": "https://sfantulneagoe.ro/",
+    "favicon": "https://sfantulneagoe.ro/assets/img/header-mobil.webp",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-27T13:01:36Z"
   },
   {
     "id": "awb_41ef0bb9ef743fbc3746",

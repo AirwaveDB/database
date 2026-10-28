@@ -37,22 +37,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_57ef28c3b0af86d2c60d",
-    "name": ". Abdulbasit Abdulsamad",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:41:42Z"
-  },
-  {
     "id": "awb_af29e060cec1d139b7a6",
     "name": "# 100 NU-DISCO CENTRAL RADIO",
     "country": "IT",
@@ -1425,29 +1409,6 @@
     "updatedAt": "2026-01-15T07:01:02Z"
   },
   {
-    "id": "awb_b7148f2f326f8752e502",
-    "name": "Classic Hits Radio CLASSIC HITS anni 70 80 90",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "70's",
-      "80's",
-      "90's",
-      "classic hits",
-      "oldies"
-    ],
-    "homepage": "https://classichits.radio/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_076b5c71cb881e233bf1",
     "name": "CLASSIC HITS RADIO Italia",
     "country": "IT",
@@ -2773,7 +2734,7 @@
     "favicon": "https://www.fangoradio.com/img/fango-logo.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-26T23:46:38Z"
+    "updatedAt": "2026-10-27T19:48:09Z"
   },
   {
     "id": "awb_c85f7e648b007cd93955",
@@ -6190,7 +6151,7 @@
     "favicon": "https://radio.motostorie.blog/static/uploads/motostorie/album_art.1776953816.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T18:47:20Z"
+    "updatedAt": "2026-10-27T19:07:11Z"
   },
   {
     "id": "awb_cd00a94b3489648acdd8",
@@ -10880,6 +10841,33 @@
     "updatedAt": "2026-08-22T10:55:24Z"
   },
   {
+    "id": "awb_1da7a87d083b2b2f179e",
+    "name": "Radio Bruno Roma 101.5",
+    "country": "IT",
+    "subdivision": "Lazio, Rome",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "pop",
+      "sports"
+    ],
+    "tags": [
+      "entertainment",
+      "hits",
+      "international music",
+      "italian music",
+      "musica italiana",
+      "pop",
+      "sport"
+    ],
+    "homepage": "https://www.radiobruno.it/",
+    "favicon": "https://imgur.com/a/kqt7EIe",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T16:24:26Z"
+  },
+  {
     "id": "awb_745afc64b2cae2b450d8",
     "name": "Radio Bruno Top 40",
     "country": "IT",
@@ -14650,6 +14638,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-10T15:34:16Z"
+  },
+  {
+    "id": "awb_8bf8dea65c672a59f0c2",
+    "name": "Radio Game Firenze",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "golden oldies",
+      "italian oldies",
+      "oldies"
+    ],
+    "homepage": "https://radiogamefirenze.altervista.org/",
+    "favicon": "https://radiogamefirenze.altervista.org/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T06:59:17Z"
   },
   {
     "id": "awb_3f8989df0bcdb74ba6e8",
@@ -22774,7 +22784,7 @@
     "favicon": "https://www.radiostudio104.com/wp-content/uploads/2025/06/104-logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T22:03:36Z"
+    "updatedAt": "2026-10-27T23:48:19Z"
   },
   {
     "id": "awb_ca4a09c821cbf4f08849",
@@ -28889,7 +28899,7 @@
     "favicon": "https://radiospore.oziosi.org/user/themes/quark/images/logo/logoprova2.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-27T05:23:51Z"
+    "updatedAt": "2026-10-28T00:52:28Z"
   },
   {
     "id": "awb_234d9c2b691f781ed058",

@@ -12,7 +12,7 @@
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1773,6 +1773,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_08d5cea0fbdcb7d8f0dc",
+    "name": "Chatline Radio",
+    "country": "UG",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://app.tunio.ai/stream/radio-cd3ac31fc8334d23b1429cbed0609df7",
+    "favicon": "https://app.tunio.ai/stream/radio-cd3ac31fc8334d23b1429cbed0609df7",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T03:53:45Z"
   },
   {
     "id": "awb_e33c00b3a89b416124ff",
@@ -3944,6 +3958,27 @@
     "updatedAt": "2026-04-13T13:37:39Z"
   },
   {
+    "id": "awb_e075c9afa2770e22c1c3",
+    "name": "Radio Simba",
+    "country": "UG",
+    "subdivision": "Kampala",
+    "languages": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.radiosimba.ug/",
+    "favicon": "https://www.radiosimba.ug/wp-content/uploads/2022/03/cropped-favicon-32x32-1-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T13:47:28Z"
+  },
+  {
     "id": "awb_87b8549f2033134307ca",
     "name": "Radio Sinza (MP3)",
     "country": "UG",
@@ -4935,7 +4970,7 @@
   },
   {
     "id": "awb_157cae45a63d534142e8",
-    "name": "Talksport",
+    "name": "TalkSport",
     "country": "UG",
     "subdivision": null,
     "languages": [
@@ -4947,7 +4982,7 @@
     "tags": [
       "sports"
     ],
-    "homepage": "https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957",
+    "homepage": "https://radio.talksport.com/stream",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241102_165602672.jpg?alt=media&token=e2a175e1-3810-4929-84e8-77833dbb5cfd",
     "type": null,
     "sourceCount": 3,

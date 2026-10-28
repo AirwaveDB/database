@@ -12,7 +12,7 @@
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -474,6 +474,28 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_3cc2f50c23323e4179b2",
+    "name": "105.9 Energy FM - DWLA",
+    "country": "PH",
+    "subdivision": "Pasig City",
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "opm",
+      "pop",
+      "rock",
+      "top 40"
+    ],
+    "homepage": "https://www.facebook.com/share/1BxMCYxeCA/",
+    "favicon": "https://energyfmph.com/wp-content/uploads/2026/09/cropped-Energy-Logo-2012-generic-768x376.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:04:25Z"
+  },
+  {
     "id": "awb_3a730059cf2c4eaa0db6",
     "name": "105.9 Hot FM - DWLA",
     "country": "PH",
@@ -755,20 +777,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-01T10:27:08Z"
-  },
-  {
-    "id": "awb_3cd57432a433bb462096",
-    "name": "1188 DZXO",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.bigsoundfm.com:2199/start/dzxotoa/",
-    "favicon": "https://apk.radyoph.com/upload/1772957285_DZXO.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-16T22:51:55Z"
   },
   {
     "id": "awb_bf4e6103be0351b3d0c8",
@@ -1238,20 +1246,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24T12:27:37Z"
-  },
-  {
-    "id": "awb_1f3d2ffb33bb5c371d45",
-    "name": "94.5 K5 NEWS FM KALIBO",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://us1.amfmph.com:2199/start/sweetfmkalibo/",
-    "favicon": "https://www.amfmph.com/wp-content/uploads/amfmph/sweet-fm-k5-logo-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-25T10:59:46Z"
   },
   {
     "id": "awb_b5b7c32728b3fb0be0fe",
@@ -2331,20 +2325,6 @@
     "updatedAt": "2026-09-22T04:50:17Z"
   },
   {
-    "id": "awb_78c71299498ca1b8eb77",
-    "name": "Barangay LS 99.5 Cebu",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.gmanetwork.com/",
-    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Barangay_LS_Cebu.jpg/500px-Barangay_LS_Cebu.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-22T04:50:51Z"
-  },
-  {
     "id": "awb_9bbe3de3871d1d5b7174",
     "name": "Basco Radio 93.3 Studio 2",
     "country": "PH",
@@ -2672,6 +2652,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-14T08:02:56Z"
+  },
+  {
+    "id": "awb_d87dbb46fb59a3097ee4",
+    "name": "Bombo Radyo Cagayan De Oro",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://cdo.bomboradyo.com/",
+    "favicon": "https://bomboradyo.com/wp-images/cdo-default-banner.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-06-14T08:07:11Z"
   },
   {
     "id": "awb_4966b75411a007525e02",
@@ -5325,8 +5319,8 @@
     "homepage": "https://pcmc.com.ph/fm-radio/",
     "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwlweKWJhQcfgi8kqVMXb9APowp4fNagi_KogIZBf7og&s=10",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-04-12T00:50:33Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-03-20T02:56:13Z"
   },
   {
     "id": "awb_3bf29a6a3acfa39b0684",
@@ -5406,8 +5400,8 @@
     "homepage": "https://pcmc.com.ph/fm-radio/",
     "favicon": "https://pcmc.com.ph/wp-content/uploads/2024/09/FM-Radio.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-07-13T13:37:56Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-02-15T08:55:27Z"
   },
   {
     "id": "awb_818d8cb9800e1502a8fa",
@@ -5760,20 +5754,6 @@
     "updatedAt": "2026-05-06T05:17:50Z"
   },
   {
-    "id": "awb_7be66b516e86a45b9041",
-    "name": "Home Radio Dagupan",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.979homeradio.com/",
-    "favicon": "https://static.wikia.nocookie.net/logopedia/images/9/9e/89.3_Home_Radio_Dagupan_Logo_2010_nu.png/revision/latest/scale-to-width-down/300?cb=20260414063324",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-08T12:32:38Z"
-  },
-  {
     "id": "awb_7fe8972ecd2df7813d1c",
     "name": "Home Radio Davao",
     "country": "PH",
@@ -5786,20 +5766,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-06T05:39:50Z"
-  },
-  {
-    "id": "awb_59a13b67e08bbed954ef",
-    "name": "Home Radio GenSan",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://979homeradio.com/98-3-homeradio-general-santos/#",
-    "favicon": "https://979homeradio.com/wp-content/uploads/2026/06/cropped-PROFILE-FB-1-192x192.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-23T12:56:08Z"
   },
   {
     "id": "awb_29cc7f67fc2e60286e74",
@@ -7713,20 +7679,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_330a0dde3f516f4d8db1",
-    "name": "Myx",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://myx.global/",
-    "favicon": "https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_6ab44c70504f65738512",
     "name": "MYX P-POP",
     "country": "PH",
@@ -7878,6 +7830,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_1e1f7f72afce51322b9a",
+    "name": "OK-FM Legazpi",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.pbnbicol.com/",
+    "favicon": "https://www.pbnbicol.com/images/ok-fm-legazpi-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-08-20T14:53:08Z"
   },
   {
     "id": "awb_e6f2a8c91ddff8426007",
@@ -10116,20 +10082,6 @@
     "updatedAt": "2026-06-01T14:36:44Z"
   },
   {
-    "id": "awb_f66b9baf65b04d27fb71",
-    "name": "Retro Davao 95.5",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.amfmph.com/retro-95-5-davao-15875.html",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Retrodavao.jpg/500px-Retrodavao.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-15T08:20:20Z"
-  },
-  {
     "id": "awb_b3cee4a7a4007ef44d8c",
     "name": "Retro House Radio",
     "country": "PH",
@@ -10732,6 +10684,27 @@
     "updatedAt": "2026-01-15T07:12:24Z"
   },
   {
+    "id": "awb_33996a05694ed2886537",
+    "name": "Star FM 95.5 Cebu",
+    "country": "PH",
+    "subdivision": "Cebu City",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "music",
+      "news"
+    ],
+    "homepage": "https://news.bomboradyo.com/live-stream/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkmJbMGly1Bat3iKoG3oxBckfAntnOFUH4X5wFwsCe9laDEYCkVWJ5UA&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T08:34:02Z"
+  },
+  {
     "id": "awb_cc8d07766e352a1e3205",
     "name": "Star FM Bacolod",
     "country": "PH",
@@ -10870,6 +10843,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_fd4dfe27286e241b6030",
+    "name": "Star FM Roxas",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.bomboradyo.com/",
+    "favicon": "https://radyoph.com/wp-content/uploads/2024/11/StarFMRoxas.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-20T01:59:49Z"
   },
   {
     "id": "awb_d3d7e46ac6fc8b594bed",
@@ -11386,10 +11373,10 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://amfmph.com/radio/#11585",
+    "homepage": "https://www.amfmph.com/wild-fm-iloilo-dywt-105-9-mhz-11585.html",
     "favicon": "https://4.bp.blogspot.com/-rSXBbOwI5bY/V-oEMyBQyeI/AAAAAAAACn0/5AOvPSxpbPcj4JwXn2PV6yI4G9kVit5vQCLcB/s200/wild-fm-iloilo-92-7-amfmph.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-04-11T13:56:38Z"
   },
   {
@@ -11407,20 +11394,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_889dbc90ff90626dc555",
-    "name": "Wild FM Valencia",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://fr1.amfmph.com:2199/start/wildvalencia/",
-    "favicon": "https://radyoph.com/wp-content/uploads/2024/11/wildvalencia.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T13:08:18Z"
   },
   {
     "id": "awb_e7598c31b6b18c94dee7",

@@ -1,21 +1,5 @@
 [
   {
-    "id": "awb_03de24da3435e407fba6",
-    "name": ". Abdulbasit Abdulsamad",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:14:22Z"
-  },
-  {
     "id": "awb_6285ba99fe2d645033d5",
     "name": "24Dubstep.pl || CalmFlow",
     "country": "PL",
@@ -703,7 +687,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T11:17:26Z"
+    "updatedAt": "2026-10-27T11:24:42Z"
   },
   {
     "id": "awb_d013b3c05f20f2b85511",
@@ -725,7 +709,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T23:23:24Z"
+    "updatedAt": "2026-10-28T00:05:15Z"
   },
   {
     "id": "awb_fe441815feb3d96d49cf",
@@ -747,7 +731,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T08:52:37Z"
+    "updatedAt": "2026-10-27T08:55:58Z"
   },
   {
     "id": "awb_536fb95e6d637330abf0",
@@ -1132,7 +1116,7 @@
     "favicon": "https://cyberstacja.pl/images/historia/logo_sluchawki.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T02:34:52Z"
+    "updatedAt": "2026-10-28T01:00:49Z"
   },
   {
     "id": "awb_02c971fd71a7b8aaeddb",
@@ -6670,7 +6654,7 @@
       "top 40"
     ],
     "homepage": "https://warszawa.eska.pl/",
-    "favicon": "https://cdn.music.smcloud.net/t/logo/2f7b5979-4b66-4586-aefb-ca31e4b8580d_eska_1500x1500_500x500.jpg",
+    "favicon": "http://eska.pl/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-25T15:43:00Z"
@@ -10633,7 +10617,7 @@
     "favicon": "https://stream.radiosar.pl/logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-17T23:46:11Z"
+    "updatedAt": "2026-10-28T00:08:10Z"
   },
   {
     "id": "awb_8905c570441dc64baced",
@@ -11062,6 +11046,24 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_33219a8dd3000e97aaba",
+    "name": "Radio Strefa Zero",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "disco polo italo disco techno"
+    ],
+    "homepage": "https://a7.asurahosting.com/public/radio_strefa_0_",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-28T07:34:53Z"
   },
   {
     "id": "awb_18b6668bfd6df4954fca",
@@ -11765,6 +11767,22 @@
     "updatedAt": "2026-01-15T08:21:23Z"
   },
   {
+    "id": "awb_e99d27fd124cf9f4a5cb",
+    "name": "Radio Żak",
+    "country": "PL",
+    "subdivision": "Łódzkie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.zak.lodz.pl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:46:11Z"
+  },
+  {
     "id": "awb_3e40fa42546dc40a193c",
     "name": "RADIO ZAWIERCIE",
     "country": "PL",
@@ -12147,10 +12165,10 @@
       "romantic"
     ],
     "homepage": "https://radiozodiak.pl/",
-    "favicon": "https://radiozodiak.pl/wp-content/uploads/2020/06/LOGO-ZODIAK2.png",
+    "favicon": "https://radiozodiak.pl/wp-content/uploads/2020/06/IkonaRadioZodiak512x512.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-12T19:05:37Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-03-12T20:48:59Z"
   },
   {
     "id": "awb_e4aa26ccfb7e90d80d48",
@@ -12785,27 +12803,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:18:50Z"
-  },
-  {
-    "id": "awb_eb28657dd9d8408ad35b",
-    "name": "REPLAY NEWS - Polski",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "information",
-      "news"
-    ],
-    "homepage": "https://www.replaynews.net/",
-    "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-PL.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-16T11:48:16Z"
   },
   {
     "id": "awb_89b33e85b95a1178bbfc",
@@ -14018,7 +14015,7 @@
     "id": "awb_ccafb97eb92dab888427",
     "name": "RMF MAXX",
     "country": "PL",
-    "subdivision": "Małopolskie",
+    "subdivision": "Malopolskie",
     "languages": [
       "pl"
     ],
@@ -15354,20 +15351,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_cf2ff7efb1b00c9be527",
-    "name": "Shadow",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T16:08:33Z"
-  },
-  {
     "id": "awb_c11495d87e2187ed6464",
     "name": "Sizeer",
     "country": "PL",
@@ -15453,7 +15436,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T15:49:34Z"
+    "updatedAt": "2026-10-27T15:53:42Z"
   },
   {
     "id": "awb_6a8307b78259863d8db5",
@@ -15475,7 +15458,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T13:36:03Z"
+    "updatedAt": "2026-10-27T13:53:58Z"
   },
   {
     "id": "awb_a97c92681ac9281b8fbe",
@@ -15496,7 +15479,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T11:25:01Z"
+    "updatedAt": "2026-10-27T11:54:10Z"
   },
   {
     "id": "awb_d4e9b951cc81c034ecc8",

@@ -12,7 +12,7 @@
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -82,6 +82,29 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_f37a2f1a6e17d01da314",
+    "name": "Khukh Tenger Radio (MNB Radio 2)",
+    "country": "MN",
+    "subdivision": "Ulaanbaatar",
+    "languages": [
+      "mn"
+    ],
+    "categories": [
+      "public",
+      "talk"
+    ],
+    "tags": [
+      "culture",
+      "public radio",
+      "talk"
+    ],
+    "homepage": "https://mnb.mn/",
+    "favicon": null,
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T18:18:36Z"
+  },
+  {
     "id": "awb_0c08018c9e751f3e8773",
     "name": "MGL Radio",
     "country": "MN",
@@ -120,6 +143,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:05:08Z"
+  },
+  {
+    "id": "awb_e5bfdd74c44ae7363805",
+    "name": "Mongolyn radio (MNB Radio 1)",
+    "country": "MN",
+    "subdivision": "Ulaanbaatar",
+    "languages": [
+      "mn"
+    ],
+    "categories": [
+      "news",
+      "public",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "public radio",
+      "talk"
+    ],
+    "homepage": "https://mnb.mn/",
+    "favicon": null,
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T16:52:07Z"
   },
   {
     "id": "awb_cb1d39761cc4433212a2",

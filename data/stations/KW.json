@@ -1,28 +1,5 @@
 [
   {
-    "id": "awb_859c2526ef681943cfde",
-    "name": "Abdulbasit Abdulsamad",
-    "country": "KW",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "islam",
-      "quran",
-      "recitation",
-      "religion"
-    ],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-17T06:23:07Z"
-  },
-  {
     "id": "awb_a9e8baad18eb1988a8df",
     "name": "islamina",
     "country": "KW",
@@ -93,24 +70,13 @@
       "religious"
     ],
     "tags": [
-      "abdulbasit",
-      "abdulsamad",
-      "arab",
-      "egypt",
       "islam",
-      "islamic",
-      "kuwait",
       "quran",
-      "quran radio",
-      "saudi",
-      "القرآن",
-      "القرآن الكريم",
-      "راديو القرآن",
-      "عبدالباسط",
-      "عبدالصمد"
+      "recitation",
+      "religion"
     ],
     "homepage": "https://mp3islam.com/",
-    "favicon": "https://radio.mp3islam.com/api/station/3/art/302654b6976c9b1da4415ee4-1678140427.jpg",
+    "favicon": "https://mp3islam.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"

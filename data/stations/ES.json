@@ -96,22 +96,6 @@
     "updatedAt": "2026-03-14T12:22:35Z"
   },
   {
-    "id": "awb_1cc802ecaea271f260a6",
-    "name": ". Abdulbasit Abdulsamad",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:04:00Z"
-  },
-  {
     "id": "awb_a710e783722ee786a5ac",
     "name": "[REE] Radio Exterior de España",
     "country": "ES",
@@ -1832,6 +1816,37 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:37:28Z"
+  },
+  {
+    "id": "awb_a95bdac90e55634209fe",
+    "name": "Barcelona Old Hits - PlexusRadio.com",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "latin",
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "1980s hits",
+      "80s",
+      "80s en español",
+      "90s",
+      "latin",
+      "pop en español e inglés",
+      "rock en español",
+      "rock en inglés"
+    ],
+    "homepage": "https://plexusradio.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s301728/images/logod.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T02:32:54Z"
   },
   {
     "id": "awb_06317bc6add266c14fc4",
@@ -9285,7 +9300,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T22:07:41Z"
+    "updatedAt": "2026-10-27T22:35:47Z"
   },
   {
     "id": "awb_1a0d5615e13b0cbd99ad",
@@ -12314,22 +12329,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_69689980b331570ca8cf",
-    "name": "LOVE FM: Clásicos pop de los 80s, 90s y 2000s a hoy",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://maxplay.com.mx/",
-    "favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-12T19:14:02Z"
-  },
-  {
     "id": "awb_27882ada51fdf9a23766",
     "name": "LOVE RADIO - LOVE.radio",
     "country": "ES",
@@ -13048,30 +13047,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_27b1edc212a639f16b18",
-    "name": "Mixadance Fm",
-    "country": "ES",
-    "subdivision": "Ibiza",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "dj mix",
-      "indie dance",
-      "melodic house & techno",
-      "organic house",
-      "progressive house"
-    ],
-    "homepage": "https://mixadance.fm/",
-    "favicon": "https://radiosamui.online/album/logo_mxd.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-19T16:49:49Z"
-  },
-  {
     "id": "awb_780038ac4744a7bf306c",
     "name": "MixFM Gran Canaria",
     "country": "ES",
@@ -13208,6 +13183,45 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_28b5431f7144dacfc66b",
+    "name": "Mundo Oculto - PlexusRadio.com",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "conspiracies",
+      "conspiracy",
+      "conspiracy theories",
+      "debates & interviews",
+      "debates e entrevistas",
+      "extraterrestres",
+      "historia",
+      "historico",
+      "history",
+      "magazines",
+      "ovnis",
+      "paranormal",
+      "parapsicología",
+      "parapsychology",
+      "science",
+      "science fiction",
+      "talk",
+      "talk & speech",
+      "ufo"
+    ],
+    "homepage": "https://plexusradio.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s303460/images/logod.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T02:23:59Z"
   },
   {
     "id": "awb_f4394d2525b277f1db88",
@@ -15273,6 +15287,36 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_67abb8b0928fedc2d86b",
+    "name": "Plexus 80s Hits - PlexusRadio.com",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "1980s",
+      "1980s hits",
+      "70 80 hits",
+      "80s",
+      "80s rock",
+      "eurodisco & italo disco new generation italo disco spacesynt",
+      "new wave",
+      "pop rock",
+      "the best of 80's"
+    ],
+    "homepage": "https://plexusradio.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s301726/images/logod.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T03:00:56Z"
+  },
+  {
     "id": "awb_887fa7275af1e5d57b4d",
     "name": "Plexus Chillout",
     "country": "ES",
@@ -15285,6 +15329,87 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-09T00:01:25Z"
+  },
+  {
+    "id": "awb_b796b92893a8968ed3ed",
+    "name": "Plexus Dance - PlexusRadio.com",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "deephouse",
+      "edm",
+      "electronic dance music",
+      "house",
+      "pop dance",
+      "trance"
+    ],
+    "homepage": "https://plexusradio.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s301727/images/logod.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T02:41:11Z"
+  },
+  {
+    "id": "awb_b556e94ad44ff04f4ac5",
+    "name": "Plexus Jazz - PlexusRadio.com",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "blues",
+      "jazz"
+    ],
+    "tags": [
+      "blues",
+      "chicago blues",
+      "jazz",
+      "piano jazz",
+      "smooth jazz"
+    ],
+    "homepage": "https://plexusradio.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s301729/images/logod.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T02:41:11Z"
+  },
+  {
+    "id": "awb_4df9ae66e9df7b9236f7",
+    "name": "Plexus Motown - PlexusRadio.com",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "oldies",
+      "religious"
+    ],
+    "tags": [
+      "60s",
+      "70s",
+      "black gospel",
+      "motown",
+      "r&b",
+      "rhythm and blues",
+      "soul"
+    ],
+    "homepage": "https://plexusradio.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s302735/images/logod.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T02:47:48Z"
   },
   {
     "id": "awb_7b71f43282eaaea86e33",
@@ -15415,7 +15540,7 @@
     "favicon": "https://punkirratia.net/punkirratia.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-22T20:27:49Z"
+    "updatedAt": "2026-10-27T23:07:49Z"
   },
   {
     "id": "awb_2d748205b8cd10558fa7",
@@ -19261,31 +19386,6 @@
     "updatedAt": "2026-01-15T07:03:15Z"
   },
   {
-    "id": "awb_57359db603e611846b32",
-    "name": "Radio Obradoiro",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "culture",
-      "galicia",
-      "music",
-      "news",
-      "sports"
-    ],
-    "homepage": null,
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tOXtfdRidkAva3JBueslQDrDeWXRA-IuprBhpunA7A&s=10",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-06T13:13:25Z"
-  },
-  {
     "id": "awb_af7b77e503cbd9899252",
     "name": "Ràdio Olot",
     "country": "ES",
@@ -21641,28 +21741,6 @@
     "updatedAt": "2026-01-15T03:57:28Z"
   },
   {
-    "id": "awb_d4851841e1199d064623",
-    "name": "Radixu Irratia",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "eu"
-    ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "music",
-      "regional",
-      "talk"
-    ],
-    "homepage": "https://www.radixu.info/",
-    "favicon": "https://yt3.googleusercontent.com/ytc/AIdro_nfJENFaGpT4M-Hjv8TQyzfD3L3pAEAFJhapAi3qf79SQ=s160-c-k-c0x00ffffff-no-rj",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-05T21:11:11Z"
-  },
-  {
     "id": "awb_e5a3295cfeb1ea1c4267",
     "name": "RAP 107",
     "country": "ES",
@@ -21916,28 +21994,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_fd7dc7c364d830a66d23",
-    "name": "RKV Radio",
-    "country": "ES",
-    "subdivision": "Vigo - Pontevedra",
-    "languages": [],
-    "categories": [
-      "jazz",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "jazz",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://rkvradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:13Z"
   },
   {
     "id": "awb_3040d1e977ebe82d5a51",
@@ -24309,7 +24365,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 6,
-    "updatedAt": "2026-10-27T00:52:03Z"
+    "updatedAt": "2026-10-28T00:39:20Z"
   },
   {
     "id": "awb_60668b862f76c8a40ef9",
@@ -24550,27 +24606,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_121fab4dbe194eed479a",
-    "name": "Waiting Room",
-    "country": "ES",
-    "subdivision": "BIZKAIA",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "chill out",
-      "chillout+lounge"
-    ],
-    "homepage": "https://www.thewaitingroom.com/",
-    "favicon": "https://streaming.coolmusicradio.com/static/uploads/waiting-room/album_art.1710176611.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:41:59Z"
   },
   {
     "id": "awb_aedc59d6bf4a5a6a0c0d",

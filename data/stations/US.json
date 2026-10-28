@@ -139,40 +139,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_3f4462bb97f7ec839e91",
-    "name": ". Abdulbasit Abdulsamad",
-    "country": "US",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:34:17Z"
-  },
-  {
-    "id": "awb_d1ae3059983a473d57c2",
-    "name": "..al quran radio",
-    "country": "US",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_697eae231b9da4a35642",
     "name": ".100 Hip hop and RNB FM",
     "country": "US",
@@ -7345,9 +7311,9 @@
   },
   {
     "id": "awb_55d09ea1a556d2936616",
-    "name": "2020 The Beacon -- Shining A Light On You",
+    "name": "2020 The Beacon -- Shining A light on you",
     "country": "US",
-    "subdivision": "Colorado",
+    "subdivision": "col",
     "languages": [
       "en"
     ],
@@ -7456,7 +7422,7 @@
       "worship"
     ],
     "homepage": "https://www.247praiseradio.co/",
-    "favicon": "https://www.247praiseradio.co/favicon.ico",
+    "favicon": "https://www.247praiseradio.co/favicon.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-17T14:09:15Z"
@@ -7752,20 +7718,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:40:19Z"
-  },
-  {
-    "id": "awb_83ea742860d7aab9e214",
-    "name": "313.fm",
-    "country": "US",
-    "subdivision": "Detroit",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.313.fm/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8BZnPFSX-VR_uuV6xK9bhdR0SZyNbf8Efg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_2bfb182f39a4704e31d6",
@@ -14232,6 +14184,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-14T19:41:46Z"
+  },
+  {
+    "id": "awb_41a783e608bf3942b903",
+    "name": "98kupd",
+    "country": "US",
+    "subdivision": "Arizona",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "hard rock"
+    ],
+    "homepage": "https://98kupd.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T04:18:55Z"
   },
   {
     "id": "awb_4de3caaf4aa0ed2bc6f9",
@@ -23371,22 +23343,6 @@
     "updatedAt": "2026-06-28T08:22:32Z"
   },
   {
-    "id": "awb_14e0148749e9526816fe",
-    "name": "Buena Park Radio",
-    "country": "US",
-    "subdivision": "California",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "hotmix"
-    ],
-    "homepage": "https://www.buenaparkradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-04T00:38:46Z"
-  },
-  {
     "id": "awb_95a365fba30fb97dbf4e",
     "name": "Buffalo, NY - The Station of the Cross",
     "country": "US",
@@ -25663,7 +25619,7 @@
     "favicon": "https://www.christianclassicrock.net/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T08:58:45Z"
+    "updatedAt": "2026-10-27T11:20:28Z"
   },
   {
     "id": "awb_4dfd33e26d914d8a5192",
@@ -25727,7 +25683,7 @@
     "favicon": "https://www.christianhardrock.net/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-23T01:04:09Z"
+    "updatedAt": "2026-10-28T02:18:56Z"
   },
   {
     "id": "awb_e3c8f755afe3544f36be",
@@ -25872,7 +25828,7 @@
     "favicon": "https://www.christianrock.net/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T06:52:23Z"
+    "updatedAt": "2026-10-27T09:24:16Z"
   },
   {
     "id": "awb_be5d660e2930f032b61b",
@@ -26659,21 +26615,14 @@
       "pop"
     ],
     "tags": [
-      "1970s",
-      "1980s",
-      "70's",
       "70s",
-      "70s disco",
-      "80",
-      "80's",
       "80s",
-      "classic hits",
       "classic-hits"
     ],
     "homepage": "http://classichits.radio/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -28020,6 +27969,26 @@
     "updatedAt": "2026-09-18T19:32:09Z"
   },
   {
+    "id": "awb_0c37a0f4b45e14697642",
+    "name": "Coheed and Cambria iHeart",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://www.iheart.com/artist/coheed-and-cambria-89592/now-playing",
+    "favicon": "https://i.iheart.com/v3/url/aHR0cCUzQSUyRiUyRmltYWdlLmloZWFydC5jb20lMkZpbWFnZXMlMkZyb3ZpJTJGMTA4MCUyRjAwMDclMkYwMjIlMkZNSTAwMDcwMjIxOTcuanBn?ops=ratio%281%2C1%29%2Crun%28%22circle%22%29%2Cscale%28166%2C0%29&cacheable=true",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T17:32:03Z"
+  },
+  {
     "id": "awb_e21578bbfcb627575ece",
     "name": "ColoRadio",
     "country": "US",
@@ -28196,7 +28165,7 @@
     "favicon": "https://yayponies.no/favicon-32x32.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T23:27:26Z"
+    "updatedAt": "2026-10-28T00:12:32Z"
   },
   {
     "id": "awb_6ee584118891db253853",
@@ -32645,7 +32614,7 @@
     "favicon": "http://radio.ds4u.com/images/logo-512.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-22T08:27:22Z"
+    "updatedAt": "2026-10-27T08:58:06Z"
   },
   {
     "id": "awb_f2db63dc688ae370969e",
@@ -33092,7 +33061,7 @@
     "favicon": "https://animikii.club/static/uploads/browser_icon/original.1750185150.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T08:50:35Z"
+    "updatedAt": "2026-10-27T09:24:16Z"
   },
   {
     "id": "awb_1ae1fc38af2ab24dbfb6",
@@ -33866,6 +33835,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:33:41Z"
+  },
+  {
+    "id": "awb_3afa3c7b533c00e8e04e",
+    "name": "Escape (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "escape",
+      "mystery",
+      "old time radio",
+      "otr",
+      "radio drama",
+      "suspense",
+      "thriller"
+    ],
+    "homepage": "https://stupidpotato.com/escape/",
+    "favicon": "https://stupidpotato.com/escape/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:35:04Z"
   },
   {
     "id": "awb_a7d417f7331cde28c51a",
@@ -35035,6 +35028,29 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_2fcadb64961833dad953",
+    "name": "Fibber McGee and Molly (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "classic radio",
+      "comedy",
+      "fibber mcgee",
+      "old time radio",
+      "otr",
+      "sitcom"
+    ],
+    "homepage": "https://stupidpotato.com/fibber-mcgee/",
+    "favicon": "https://stupidpotato.com/fibber-mcgee/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:23:38Z"
+  },
+  {
     "id": "awb_a7f9051b7ba54373c4ef",
     "name": "Fiesta 97.1",
     "country": "US",
@@ -36156,7 +36172,7 @@
       "the nation’s premiere sports lineup"
     ],
     "homepage": "http://www.foxsportsradio.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NxjbCTIAKVhtl5ndaYjM2JHlo0g2Ksr8zYoHwos-vQ&s",
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5e972321d790eb6e190b8f7d",
     "type": null,
     "sourceCount": 7,
     "updatedAt": "2026-05-10T03:51:53Z"
@@ -37370,27 +37386,6 @@
     "updatedAt": "2026-01-25T12:04:20Z"
   },
   {
-    "id": "awb_55b95eb34c10a9ad2e0d",
-    "name": "Gamepad Music",
-    "country": "US",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "gamemusic",
-      "games",
-      "video game",
-      "video game music",
-      "videogame music",
-      "videogames"
-    ],
-    "homepage": "https://www.gamepadmusic.com/",
-    "favicon": "https://www.gamepadmusic.com/wp-content/uploads/2021/10/cropped-favicon-1-32x32.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-22T13:30:54Z"
-  },
-  {
     "id": "awb_120c731a1b845512f817",
     "name": "Gangstaville Radio",
     "country": "US",
@@ -37450,6 +37445,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:10:11Z"
+  },
+  {
+    "id": "awb_aba299e7bf74fb95fb1d",
+    "name": "Gateway Access Radio",
+    "country": "US",
+    "subdivision": "Missouri",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://live365.com/station/a55729",
+    "favicon": "https://image.live365.com/download/dfa01599-8889-473c-8ba2-c36ba712dc0e.png/400/image.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:38:49Z"
   },
   {
     "id": "awb_57121dba92be066240be",
@@ -41083,7 +41092,7 @@
     "favicon": "https://img1.wsimg.com/isteam/ip/56a4969b-e591-4c57-b68b-f6a75cf900d2/blob-c3b0c70.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T22:28:58Z"
+    "updatedAt": "2026-10-27T23:16:14Z"
   },
   {
     "id": "awb_25ab04e104178a0ca6b4",
@@ -42913,15 +42922,17 @@
       "rock"
     ],
     "tags": [
+      "alternative / indie",
       "indie",
       "indie rock",
-      "new music"
+      "new music",
+      "rock"
     ],
     "homepage": "http://idobi.com/",
     "favicon": "https://idobi.com/wp-content/themes/idobi-2022/assets/img/idobi%20logo%20medium%20transparent.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T05:32:00Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-27T19:35:50Z"
   },
   {
     "id": "awb_3ebd845ec45f99316f22",
@@ -42952,18 +42963,21 @@
       "en"
     ],
     "categories": [
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
+      "hard rock",
       "hardcore",
       "metal",
-      "new music"
+      "new music",
+      "rock"
     ],
     "homepage": "http://idobi.com/",
-    "favicon": null,
+    "favicon": "https://idobi.com/wp-content/themes/idobi-2022/assets/img/idobi%20logo%202026%20-%20Reversed.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:37:46Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-27T19:23:06Z"
   },
   {
     "id": "awb_96071a9fd8dfdab9d4d7",
@@ -42979,15 +42993,16 @@
     ],
     "tags": [
       "alternative",
+      "alternative rock",
       "new music",
       "punk",
       "rock"
     ],
     "homepage": "http://idobi.com/",
-    "favicon": null,
+    "favicon": "https://idobi.com/wp-content/themes/idobi-2022/assets/img/idobi%20logo%202026%20-%20Reversed.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:47:54Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-27T19:35:50Z"
   },
   {
     "id": "awb_c44e5d8014846f70fda9",
@@ -44205,6 +44220,30 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:07:32Z"
+  },
+  {
+    "id": "awb_8124d466927172a68c4c",
+    "name": "Inner Sanctum Mysteries (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "inner sanctum",
+      "mystery",
+      "old time radio",
+      "otr",
+      "radio drama",
+      "suspense",
+      "thriller"
+    ],
+    "homepage": "https://stupidpotato.com/inner-sanctum/",
+    "favicon": "https://stupidpotato.com/inner-sanctum/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:00:53Z"
   },
   {
     "id": "awb_3baed30ef27f58dd4e07",
@@ -45641,7 +45680,7 @@
     "favicon": "https://www.jiveradio.org/wp-content/uploads/2022/06/cropped-cropped-jive-512-180x180.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T19:04:16Z"
+    "updatedAt": "2026-10-27T19:36:34Z"
   },
   {
     "id": "awb_acb00c60750a402f9b68",
@@ -49658,22 +49697,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-18T12:11:51Z"
-  },
-  {
-    "id": "awb_1f7fb025c38de5576fc2",
-    "name": "KDDL-FM 94.3 Mhz",
-    "country": "US",
-    "subdivision": "Arizona",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://cattlecountryradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:09:17Z"
   },
   {
     "id": "awb_60d8d2a3bacb3528cbc5",
@@ -55593,7 +55616,7 @@
     "favicon": null,
     "type": "college",
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T16:02:24Z"
+    "updatedAt": "2026-10-27T17:44:55Z"
   },
   {
     "id": "awb_717f2fcdbe00195b8b3d",
@@ -68366,17 +68389,25 @@
   },
   {
     "id": "awb_6c951fa7caee96e9f943",
-    "name": "LOVE FM: All you need is Love",
+    "name": "LOVE FM: All You Need Is... Love",
     "country": "US",
     "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "amor sólo música romántica",
+      "pop clásico",
+      "sólo música romántica"
+    ],
     "homepage": "https://maxplay.com.mx/",
     "favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-08-29T14:37:27Z"
+    "updatedAt": "2026-10-28T00:50:16Z"
   },
   {
     "id": "awb_1d021dcef0a0145dbda5",
@@ -68682,6 +68713,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:36:39Z"
+  },
+  {
+    "id": "awb_315c270600368211d2b6",
+    "name": "Lux Radio Theatre (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "classic movies",
+      "lux radio theatre",
+      "old time radio",
+      "otr",
+      "radio drama",
+      "radio theatre"
+    ],
+    "homepage": "https://stupidpotato.com/lux-radio-theatre/",
+    "favicon": "https://stupidpotato.com/lux-radio-theatre/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:32:54Z"
   },
   {
     "id": "awb_d529d539dd3fcd87ec08",
@@ -71280,20 +71334,6 @@
     "updatedAt": "2026-01-15T04:58:11Z"
   },
   {
-    "id": "awb_4652a08387885b62ac25",
-    "name": "Mov'em Radio",
-    "country": "US",
-    "subdivision": "Nevada",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://zeno.fm/radio/movem-radio/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-03T00:15:20Z"
-  },
-  {
     "id": "awb_01be68b6d93b0f10b556",
     "name": "Movie Soundtracks Hits Radio @ 1.fm",
     "country": "US",
@@ -72150,36 +72190,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:41:59Z"
-  },
-  {
-    "id": "awb_00ed970df7bc1bffed90",
-    "name": "My Jewish Radio - The Kol Yehudim Show",
-    "country": "US",
-    "subdivision": "New Jersey",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "religious",
-      "talk"
-    ],
-    "tags": [
-      "chassidic",
-      "hasidic",
-      "israeli",
-      "jewish",
-      "jewish music",
-      "klezmer",
-      "music",
-      "religious",
-      "talk",
-      "yiddish"
-    ],
-    "homepage": "https://myjewishradio.com/",
-    "favicon": "https://myjewishradio.com/img/podcast-cover-1400.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-08T16:59:14Z"
   },
   {
     "id": "awb_3a9cf4709a811a29b4cc",
@@ -76308,6 +76318,29 @@
     "updatedAt": "2026-02-10T14:15:12Z"
   },
   {
+    "id": "awb_0027ef36a3631cce9d41",
+    "name": "Our Miss Brooks (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "classic radio",
+      "comedy",
+      "old time radio",
+      "otr",
+      "our miss brooks",
+      "sitcom"
+    ],
+    "homepage": "https://stupidpotato.com/our-miss-brooks/",
+    "favicon": "https://stupidpotato.com/our-miss-brooks/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:18:48Z"
+  },
+  {
     "id": "awb_6c1837bcfe41bc70864a",
     "name": "Ourturn Records Radio",
     "country": "US",
@@ -76380,7 +76413,7 @@
     "favicon": "https://r.bgp.rodeo/static/icons/production/180.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T21:37:48Z"
+    "updatedAt": "2026-10-27T22:46:31Z"
   },
   {
     "id": "awb_236b4e7b4327a33afe2e",
@@ -77115,6 +77148,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_b094c8173bf2630dc993",
+    "name": "PC Radio Live",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://unlabeled.media/pcradio",
+    "favicon": "https://tribe-s3-production.imgix.net/BT22TjchOfvqQQqOBcHAL?fit=max&w=500&auto=compress,format",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-04-06T13:12:48Z"
   },
   {
     "id": "awb_ab6c868d837b502e338d",
@@ -81568,7 +81615,7 @@
     "favicon": "https://radio.eltarantin.com/logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T15:18:38Z"
+    "updatedAt": "2026-10-27T15:44:54Z"
   },
   {
     "id": "awb_166614b0c76b280a731e",
@@ -83014,6 +83061,59 @@
     "updatedAt": "2026-08-10T19:25:35Z"
   },
   {
+    "id": "awb_5685bedf0d9106515626",
+    "name": "Radio Misericordia y Justicia - Iglesia Jesucristo Es El Señor (San Francisco)",
+    "country": "US",
+    "subdivision": "California",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "bible",
+      "christian",
+      "cristiana",
+      "gospel",
+      "predicacion",
+      "rvr1960",
+      "san francisco"
+    ],
+    "homepage": "https://www.jesucristoeselsenor.org/radio",
+    "favicon": "https://www.jesucristoeselsenor.org/icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T10:26:13Z"
+  },
+  {
+    "id": "awb_df1b0e27cf6bf23ab1a6",
+    "name": "Radio Misericordia y Justicia - San Francisco",
+    "country": "US",
+    "subdivision": "California",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "alabanza",
+      "bible",
+      "christian",
+      "cristiana",
+      "espanol",
+      "evangelica",
+      "predicacion",
+      "san francisco"
+    ],
+    "homepage": "https://iglesia.vanersity.com/radio",
+    "favicon": "https://s11.citrus3.com:2020/pub/radiomisericordiayjusticia/background.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T10:06:01Z"
+  },
+  {
     "id": "awb_74cc775e07d39309e8b1",
     "name": "Radio Mixtaz 98.5 FM",
     "country": "US",
@@ -83558,7 +83658,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T16:53:53Z"
+    "updatedAt": "2026-10-27T17:54:49Z"
   },
   {
     "id": "awb_80d236eac87b13ce495e",
@@ -83656,6 +83756,20 @@
     "updatedAt": "2026-06-26T20:48:13Z"
   },
   {
+    "id": "awb_cf42be92450ae0f18485",
+    "name": "Radio Paradise Beyond... | mp3 192k",
+    "country": "US",
+    "subdivision": "California",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T15:33:14Z"
+  },
+  {
     "id": "awb_d34df955dccdac780cec",
     "name": "Radio Paradise Eclectic (EU) 192k OGG",
     "country": "US",
@@ -83693,7 +83807,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T16:15:20Z"
+    "updatedAt": "2026-10-27T18:52:16Z"
   },
   {
     "id": "awb_0246dd91b61a043a2a56",
@@ -83713,7 +83827,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T12:19:29Z"
+    "updatedAt": "2026-10-27T12:51:24Z"
   },
   {
     "id": "awb_5dedaf3bd6b00636e9eb",
@@ -83785,7 +83899,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T21:41:42Z"
+    "updatedAt": "2026-10-27T22:06:02Z"
   },
   {
     "id": "awb_ccc9030646e54846ab07",
@@ -83809,7 +83923,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T09:57:54Z"
+    "updatedAt": "2026-10-27T10:06:01Z"
   },
   {
     "id": "awb_9fcc42b3ee4cf6d50a7c",
@@ -83899,7 +84013,7 @@
     "favicon": "https://www.radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T11:33:03Z"
+    "updatedAt": "2026-10-27T13:13:37Z"
   },
   {
     "id": "awb_a2768fb95620351deceb",
@@ -83923,7 +84037,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T20:50:02Z"
+    "updatedAt": "2026-10-27T21:34:38Z"
   },
   {
     "id": "awb_be97cd9f81e917f54379",
@@ -83947,7 +84061,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-23T00:08:00Z"
+    "updatedAt": "2026-10-28T02:20:55Z"
   },
   {
     "id": "awb_956078e52ef16e6aa2f5",
@@ -83971,7 +84085,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T17:21:29Z"
+    "updatedAt": "2026-10-27T17:29:54Z"
   },
   {
     "id": "awb_b3b0979ce88b444e3cbf",
@@ -84019,7 +84133,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T23:02:45Z"
+    "updatedAt": "2026-10-28T00:23:38Z"
   },
   {
     "id": "awb_f508890108c03bdf6fdd",
@@ -84043,7 +84157,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T13:10:31Z"
+    "updatedAt": "2026-10-27T15:00:39Z"
   },
   {
     "id": "awb_1329ab6b00ef64adeece",
@@ -84091,7 +84205,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T21:35:29Z"
+    "updatedAt": "2026-10-27T22:07:22Z"
   },
   {
     "id": "awb_07d6401a5f647474a6e2",
@@ -84139,7 +84253,7 @@
     "favicon": "https://www.radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T23:39:44Z"
+    "updatedAt": "2026-10-27T23:50:46Z"
   },
   {
     "id": "awb_2db14334c548c57e8a2f",
@@ -84187,7 +84301,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T02:55:07Z"
+    "updatedAt": "2026-10-27T14:36:40Z"
   },
   {
     "id": "awb_5656b42e803534f1cda4",
@@ -84211,7 +84325,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-23T01:14:32Z"
+    "updatedAt": "2026-10-28T02:11:15Z"
   },
   {
     "id": "awb_653a3f17c154fac3ba7d",
@@ -84235,7 +84349,7 @@
     "favicon": "https://www.radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T15:06:27Z"
+    "updatedAt": "2026-10-27T16:07:12Z"
   },
   {
     "id": "awb_8384fee7e98d4bc069a8",
@@ -84283,7 +84397,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T21:31:08Z"
+    "updatedAt": "2026-10-27T22:11:40Z"
   },
   {
     "id": "awb_f10506d5b7fa30420a29",
@@ -84307,7 +84421,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T22:53:50Z"
+    "updatedAt": "2026-10-27T23:18:25Z"
   },
   {
     "id": "awb_38066d27a7761b23bbf0",
@@ -84349,7 +84463,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T08:47:41Z"
+    "updatedAt": "2026-10-27T09:20:02Z"
   },
   {
     "id": "awb_5f7b8094f1ebb26adc1b",
@@ -84373,7 +84487,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T13:05:48Z"
+    "updatedAt": "2026-10-27T13:15:40Z"
   },
   {
     "id": "awb_fc04575f89704b50fec5",
@@ -84397,7 +84511,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T21:43:40Z"
+    "updatedAt": "2026-10-27T22:24:07Z"
   },
   {
     "id": "awb_d1af13d8684e7163f585",
@@ -84493,7 +84607,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T19:29:37Z"
+    "updatedAt": "2026-10-27T20:17:59Z"
   },
   {
     "id": "awb_31a9df9e52d9e239cbbb",
@@ -84593,7 +84707,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T14:26:30Z"
+    "updatedAt": "2026-10-27T18:27:01Z"
   },
   {
     "id": "awb_a90242068e48bceacf1f",
@@ -84619,7 +84733,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T08:16:24Z"
+    "updatedAt": "2026-10-27T08:21:41Z"
   },
   {
     "id": "awb_b72f23bbacb5c56f5c60",
@@ -84671,7 +84785,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T07:29:38Z"
+    "updatedAt": "2026-10-27T08:23:50Z"
   },
   {
     "id": "awb_ef386317ba0bbf7a52e5",
@@ -84697,7 +84811,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T22:18:16Z"
+    "updatedAt": "2026-10-27T23:26:47Z"
   },
   {
     "id": "awb_e2fc799c3b00883b1eb3",
@@ -84792,7 +84906,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T10:23:16Z"
+    "updatedAt": "2026-10-27T10:59:26Z"
   },
   {
     "id": "awb_9bb7f350f3206e5a902e",
@@ -84815,7 +84929,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T18:28:27Z"
+    "updatedAt": "2026-10-27T20:24:20Z"
   },
   {
     "id": "awb_0bbc4003195ec35e7639",
@@ -84884,7 +84998,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T12:21:37Z"
+    "updatedAt": "2026-10-27T13:38:00Z"
   },
   {
     "id": "awb_27d6c3845d6e6ef0329a",
@@ -84907,7 +85021,7 @@
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T18:54:38Z"
+    "updatedAt": "2026-10-27T19:31:29Z"
   },
   {
     "id": "awb_f3cdb6fb4bebf385d329",
@@ -86836,7 +86950,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s48938/images/logod.png?t=637036447340000000",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T19:51:48Z"
+    "updatedAt": "2026-10-27T20:04:20Z"
   },
   {
     "id": "awb_a272dd61552c5295579d",
@@ -89352,7 +89466,7 @@
     "tags": [
       "anime music from japan. we also play eurobeat and city pop"
     ],
-    "homepage": "https://www.facebook.com/",
+    "homepage": "https://www.facebook.com/roninsradio",
     "favicon": "https://www.facebook.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
@@ -92111,7 +92225,7 @@
     "id": "awb_07a7ec04480fa4f909c1",
     "name": "SLS Digital Music",
     "country": "US",
-    "subdivision": "TX",
+    "subdivision": "Texas",
     "languages": [
       "en",
       "es",
@@ -92651,7 +92765,7 @@
     "favicon": "https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T19:24:42Z"
+    "updatedAt": "2026-10-27T20:25:54Z"
   },
   {
     "id": "awb_1dc2a448905e60b00295",
@@ -93389,7 +93503,7 @@
     "favicon": "https://somafm.com/img3/beatblender-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T19:33:04Z"
+    "updatedAt": "2026-10-27T21:13:31Z"
   },
   {
     "id": "awb_f13feb4f91fb428568a3",
@@ -93435,7 +93549,7 @@
     "favicon": "https://somafm.com/img3/brfm-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T18:28:27Z"
+    "updatedAt": "2026-10-27T20:47:06Z"
   },
   {
     "id": "awb_50065defd6893badca6e",
@@ -93458,7 +93572,7 @@
     "favicon": "https://somafm.com/img3/brfm-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T15:45:01Z"
+    "updatedAt": "2026-10-27T16:10:09Z"
   },
   {
     "id": "awb_8ed997614ad1f2a58016",
@@ -93481,7 +93595,7 @@
     "favicon": "https://somafm.com/img3/brfm-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T22:12:06Z"
+    "updatedAt": "2026-10-27T23:44:21Z"
   },
   {
     "id": "awb_8c81ae42d8f84bfa19c2",
@@ -93502,7 +93616,7 @@
     "favicon": "https://somafm.com/img3/bootliquor-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T23:14:52Z"
+    "updatedAt": "2026-10-27T23:46:22Z"
   },
   {
     "id": "awb_cb8991b6f2ba9f7a4aed",
@@ -93523,7 +93637,7 @@
     "favicon": "https://somafm.com/img3/bootliquor-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T08:05:53Z"
+    "updatedAt": "2026-10-27T08:33:15Z"
   },
   {
     "id": "awb_8f2cb935049f50fd59a6",
@@ -93562,7 +93676,7 @@
     "favicon": "https://somafm.com/img3/chillits400.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T09:50:15Z"
+    "updatedAt": "2026-10-27T10:44:12Z"
   },
   {
     "id": "awb_9eb3d7440fecda3bc691",
@@ -93584,7 +93698,7 @@
     "favicon": "https://somafm.com/img3/christmas-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T17:18:53Z"
+    "updatedAt": "2026-10-27T17:50:51Z"
   },
   {
     "id": "awb_325e49b126eaa591cf2c",
@@ -93606,7 +93720,7 @@
     "favicon": "https://somafm.com/img3/christmas-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T17:54:19Z"
+    "updatedAt": "2026-10-27T18:16:42Z"
   },
   {
     "id": "awb_fe567fc3824db1591326",
@@ -93630,7 +93744,7 @@
     "favicon": "https://somafm.com/img3/xmasrocks-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T16:35:43Z"
+    "updatedAt": "2026-10-27T16:48:00Z"
   },
   {
     "id": "awb_f6cc0b13752dfeeb1239",
@@ -93664,7 +93778,7 @@
     "favicon": "https://somafm.com/img3/cliqhop-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T11:36:34Z"
+    "updatedAt": "2026-10-27T11:50:13Z"
   },
   {
     "id": "awb_a9f4dc42a9af7666a8a8",
@@ -93700,7 +93814,7 @@
     "favicon": "https://somafm.com/img3/covers-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T16:54:53Z"
+    "updatedAt": "2026-10-27T17:36:35Z"
   },
   {
     "id": "awb_b2d8f0bcb9de0e968487",
@@ -93723,7 +93837,7 @@
     "favicon": "http://somafm.com/img3/deepspaceone-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T23:43:41Z"
+    "updatedAt": "2026-10-27T23:57:08Z"
   },
   {
     "id": "awb_14df62304f7131f02cf3",
@@ -93746,7 +93860,7 @@
     "favicon": "http://somafm.com/img3/deepspaceone-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T23:41:46Z"
+    "updatedAt": "2026-10-27T23:55:05Z"
   },
   {
     "id": "awb_f814a34c19cfda6419fc",
@@ -93769,7 +93883,7 @@
     "favicon": "http://somafm.com/img3/deepspaceone-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T20:39:19Z"
+    "updatedAt": "2026-10-27T21:28:16Z"
   },
   {
     "id": "awb_b5ab3742612b9d91eb14",
@@ -93795,7 +93909,7 @@
     "favicon": "https://somafm.com/img3/defcon400.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-23T01:02:09Z"
+    "updatedAt": "2026-10-28T02:07:49Z"
   },
   {
     "id": "awb_d8b984017e08949cd12c",
@@ -93831,7 +93945,7 @@
     "favicon": "https://somafm.com/img3/deptstore400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T14:08:42Z"
+    "updatedAt": "2026-10-27T14:22:55Z"
   },
   {
     "id": "awb_be36d20e4e5bac294703",
@@ -93897,7 +94011,7 @@
     "favicon": "https://somafm.com/img3/digitalis-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-23T01:18:47Z"
+    "updatedAt": "2026-10-28T03:05:39Z"
   },
   {
     "id": "awb_de039f69a19bd1e843c3",
@@ -93942,7 +94056,7 @@
     "favicon": "https://somafm.com/img3/dronezone-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T16:46:20Z"
+    "updatedAt": "2026-10-27T17:57:02Z"
   },
   {
     "id": "awb_862f6f98471578ce0ea5",
@@ -93986,7 +94100,7 @@
     "favicon": "https://somafm.com/img3/dronezone-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T19:28:45Z"
+    "updatedAt": "2026-10-27T20:28:04Z"
   },
   {
     "id": "awb_9d2d7aedc73ea60304f5",
@@ -94009,7 +94123,7 @@
     "favicon": "https://somafm.com/img3/dronezone-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T22:53:50Z"
+    "updatedAt": "2026-10-27T23:00:07Z"
   },
   {
     "id": "awb_18fd5d14288a8d7ccc0e",
@@ -94050,7 +94164,7 @@
     "favicon": "https://somafm.com/img3/dubstep-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T23:46:54Z"
+    "updatedAt": "2026-10-27T23:58:47Z"
   },
   {
     "id": "awb_5a5017f304b2594f6eb4",
@@ -94072,7 +94186,7 @@
     "favicon": "https://somafm.com/img3/dubstep-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T11:12:55Z"
+    "updatedAt": "2026-10-27T11:45:28Z"
   },
   {
     "id": "awb_5c68b83bba322c039e7b",
@@ -94094,7 +94208,7 @@
     "favicon": "https://somafm.com/img3/dubstep-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T07:41:49Z"
+    "updatedAt": "2026-10-27T09:04:33Z"
   },
   {
     "id": "awb_b9d564340911807b22a1",
@@ -94140,7 +94254,7 @@
     "favicon": "https://somafm.com/img3/folkfwd-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T22:03:36Z"
+    "updatedAt": "2026-10-27T23:16:14Z"
   },
   {
     "id": "awb_42530b04a059bc17dacc",
@@ -94162,7 +94276,7 @@
     "favicon": "https://somafm.com/img3/folkfwd-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T07:57:31Z"
+    "updatedAt": "2026-10-27T09:04:33Z"
   },
   {
     "id": "awb_8009a2a86f7383ec2aa7",
@@ -94321,7 +94435,7 @@
     "favicon": "https://somafm.com/img3/groovesalad-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T10:09:32Z"
+    "updatedAt": "2026-10-27T10:16:41Z"
   },
   {
     "id": "awb_624e3be4c36f4451bbff",
@@ -94407,7 +94521,7 @@
     "favicon": "https://somafm.com/img3/gsclassic400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-23T01:37:47Z"
+    "updatedAt": "2026-10-28T02:17:23Z"
   },
   {
     "id": "awb_51359e55abd83034a63d",
@@ -94468,7 +94582,7 @@
     "favicon": "https://somafm.com/img3/reggae400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T11:37:18Z"
+    "updatedAt": "2026-10-27T11:54:10Z"
   },
   {
     "id": "awb_962ce2232331902bdf1d",
@@ -94491,7 +94605,7 @@
     "favicon": "https://somafm.com/img3/reggae400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T11:00:35Z"
+    "updatedAt": "2026-10-27T11:20:28Z"
   },
   {
     "id": "awb_2a49f805b09339ce4116",
@@ -94532,7 +94646,7 @@
     "favicon": "https://somafm.com/img3/illstreet-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T21:37:48Z"
+    "updatedAt": "2026-10-27T23:37:09Z"
   },
   {
     "id": "awb_cfc22c17a811f9573a6e",
@@ -94555,7 +94669,7 @@
     "favicon": "https://somafm.com/img3/indiepop-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T22:32:53Z"
+    "updatedAt": "2026-10-27T22:37:50Z"
   },
   {
     "id": "awb_8cddf81e0db1524e0b1d",
@@ -94601,7 +94715,7 @@
     "favicon": "https://somafm.com/img3/indiepop-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T22:03:36Z"
+    "updatedAt": "2026-10-27T22:05:07Z"
   },
   {
     "id": "awb_c031d4f16d05ce636bbd",
@@ -94619,7 +94733,7 @@
     "favicon": "https://somafm.com/img3/jollysoul-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T20:31:45Z"
+    "updatedAt": "2026-10-27T21:22:15Z"
   },
   {
     "id": "awb_d42a6562665c67725c8e",
@@ -94642,7 +94756,7 @@
     "favicon": "https://somafm.com/img3/seventies400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T08:52:37Z"
+    "updatedAt": "2026-10-27T09:34:36Z"
   },
   {
     "id": "awb_8da03c506af3729e8048",
@@ -94666,7 +94780,7 @@
     "favicon": "https://somafm.com/img3/seventies400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T08:45:35Z"
+    "updatedAt": "2026-10-27T09:04:33Z"
   },
   {
     "id": "awb_01032b0f69a337997379",
@@ -94708,7 +94822,7 @@
     "favicon": "https://somafm.com/img3/live-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T19:28:45Z"
+    "updatedAt": "2026-10-27T19:33:54Z"
   },
   {
     "id": "awb_46f319a44ca97923c2d8",
@@ -94733,7 +94847,7 @@
     "favicon": "https://somafm.com/img3/lush-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T06:30:58Z"
+    "updatedAt": "2026-10-27T09:35:23Z"
   },
   {
     "id": "awb_2f509aed5b4d31094dd5",
@@ -94758,7 +94872,7 @@
     "favicon": "https://somafm.com/img3/lush-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T09:50:15Z"
+    "updatedAt": "2026-10-27T12:59:18Z"
   },
   {
     "id": "awb_9916739bb6c762fdb42d",
@@ -94811,7 +94925,7 @@
     "favicon": "https://somafm.com/img3/metal-400.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T23:04:46Z"
+    "updatedAt": "2026-10-27T23:43:12Z"
   },
   {
     "id": "awb_c43e81bd9ad7db6cc122",
@@ -94839,7 +94953,7 @@
     "favicon": "https://somafm.com/img3/metal-400.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T13:33:54Z"
+    "updatedAt": "2026-10-27T14:49:13Z"
   },
   {
     "id": "awb_b1d8368bcd2aacb5620c",
@@ -94867,7 +94981,7 @@
     "favicon": "https://somafm.com/img3/metal-400.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T17:40:34Z"
+    "updatedAt": "2026-10-27T17:44:55Z"
   },
   {
     "id": "awb_0ca80b7beb0994c7632b",
@@ -94895,7 +95009,7 @@
     "favicon": "https://somafm.com/img3/metal-400.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T20:25:30Z"
+    "updatedAt": "2026-10-27T21:42:09Z"
   },
   {
     "id": "awb_ab7be2828d2369104a48",
@@ -94941,7 +95055,7 @@
     "favicon": "https://somafm.com/img3/missioncontrol-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T22:58:25Z"
+    "updatedAt": "2026-10-27T23:26:47Z"
   },
   {
     "id": "awb_78f1e43d73013fa9c25e",
@@ -94966,7 +95080,7 @@
     "favicon": "https://somafm.com/img3/n5md-400.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T18:39:12Z"
+    "updatedAt": "2026-10-27T18:45:46Z"
   },
   {
     "id": "awb_5528e4331fff39b42a29",
@@ -94991,7 +95105,7 @@
     "favicon": "https://somafm.com/img3/n5md-400.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T14:57:47Z"
+    "updatedAt": "2026-10-27T15:00:39Z"
   },
   {
     "id": "awb_813c1fa32d0ca3828f45",
@@ -95011,7 +95125,7 @@
     "favicon": "https://somafm.com/img3/poptron-400.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T22:05:35Z"
+    "updatedAt": "2026-10-27T22:57:52Z"
   },
   {
     "id": "awb_62d5cd558983d9bbb444",
@@ -95051,7 +95165,7 @@
     "favicon": "https://somafm.com/img3/poptron-400.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-23T00:38:41Z"
+    "updatedAt": "2026-10-28T01:39:39Z"
   },
   {
     "id": "awb_f3ec5ee3c3373fb65f5f",
@@ -95097,7 +95211,7 @@
     "favicon": "https://somafm.com/img3/secretagent-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T18:43:08Z"
+    "updatedAt": "2026-10-27T19:12:51Z"
   },
   {
     "id": "awb_e973293ce3387f19208d",
@@ -95123,7 +95237,7 @@
     "favicon": "https://somafm.com/img3/secretagent-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T16:55:51Z"
+    "updatedAt": "2026-10-27T17:19:17Z"
   },
   {
     "id": "awb_3af1d2a71ce5c25f4f13",
@@ -95167,7 +95281,7 @@
     "favicon": "https://somafm.com/img3/7soul-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T23:02:45Z"
+    "updatedAt": "2026-10-28T00:00:53Z"
   },
   {
     "id": "awb_a54f3949230a6df37412",
@@ -95185,7 +95299,7 @@
     "favicon": "https://somafm.com/img3/7soul-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-23T00:07:15Z"
+    "updatedAt": "2026-10-28T02:47:48Z"
   },
   {
     "id": "awb_61a41f4e3128682f3ff5",
@@ -95249,7 +95363,7 @@
     "favicon": "https://somafm.com/img3/scanner-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T17:29:59Z"
+    "updatedAt": "2026-10-27T17:34:07Z"
   },
   {
     "id": "awb_22d19056ac8f1c1182b0",
@@ -95271,7 +95385,7 @@
     "favicon": "https://somafm.com/img3/sonicuniverse-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-23T00:46:07Z"
+    "updatedAt": "2026-10-28T01:26:55Z"
   },
   {
     "id": "awb_231748fb97880736ac91",
@@ -95293,7 +95407,7 @@
     "favicon": "https://somafm.com/img3/sonicuniverse-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T22:16:21Z"
+    "updatedAt": "2026-10-27T23:50:46Z"
   },
   {
     "id": "awb_7a25f9cd63bf94d400b9",
@@ -95333,7 +95447,7 @@
     "favicon": "https://somafm.com/img3/sonicuniverse-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T17:10:45Z"
+    "updatedAt": "2026-10-27T18:11:52Z"
   },
   {
     "id": "awb_daeeb4b7d24e846ed417",
@@ -95355,7 +95469,7 @@
     "favicon": "https://somafm.com/img3/sonicuniverse-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T11:47:10Z"
+    "updatedAt": "2026-10-27T13:03:52Z"
   },
   {
     "id": "awb_492fec48228b782a0023",
@@ -95378,7 +95492,7 @@
     "favicon": "https://somafm.com/img3/spacestation-400.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T08:19:15Z"
+    "updatedAt": "2026-10-27T09:50:03Z"
   },
   {
     "id": "awb_cc4569c14de2cf0fa062",
@@ -95424,7 +95538,7 @@
     "favicon": "https://somafm.com/img3/spacestation-400.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T20:39:19Z"
+    "updatedAt": "2026-10-27T22:55:33Z"
   },
   {
     "id": "awb_fcbdf6839ba14aa9fa99",
@@ -95461,7 +95575,7 @@
     "favicon": "https://somafm.com/img3/suburbsofgoa-400.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T11:49:20Z"
+    "updatedAt": "2026-10-27T12:07:17Z"
   },
   {
     "id": "awb_797092442be691e03a4b",
@@ -95480,7 +95594,7 @@
     "favicon": "https://somafm.com/img3/suburbsofgoa-400.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T06:34:06Z"
+    "updatedAt": "2026-10-27T08:33:15Z"
   },
   {
     "id": "awb_d2a988b4ee7a1dfa5783",
@@ -95633,7 +95747,7 @@
     "favicon": "https://somafm.com/img3/thetrip-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T07:42:31Z"
+    "updatedAt": "2026-10-27T09:20:02Z"
   },
   {
     "id": "awb_8fd5f3420819ee725f9e",
@@ -95655,7 +95769,7 @@
     "favicon": "https://somafm.com/img3/thetrip-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T18:33:06Z"
+    "updatedAt": "2026-10-27T19:33:54Z"
   },
   {
     "id": "awb_1af3924bc61e4aa8a551",
@@ -95676,7 +95790,7 @@
     "favicon": "https://somafm.com/img3/thistle-400.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T08:45:35Z"
+    "updatedAt": "2026-10-27T10:42:06Z"
   },
   {
     "id": "awb_c48e05420276c871a670",
@@ -95718,7 +95832,7 @@
     "favicon": "https://somafm.com/img3/thistle-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T10:39:14Z"
+    "updatedAt": "2026-10-27T11:02:30Z"
   },
   {
     "id": "awb_92fca8f13cd8cf75548d",
@@ -95739,7 +95853,7 @@
     "favicon": "https://somafm.com/img3/thistle-400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T07:25:13Z"
+    "updatedAt": "2026-10-27T09:17:52Z"
   },
   {
     "id": "awb_2a1b54c87a4d086023d9",
@@ -95805,7 +95919,7 @@
     "favicon": "https://somafm.com/img3/u80s-400.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T18:03:59Z"
+    "updatedAt": "2026-10-27T19:05:17Z"
   },
   {
     "id": "awb_d2b9daf02f8924dd8739",
@@ -95849,7 +95963,7 @@
     "favicon": "https://somafm.com/img3/u80s-400.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T22:49:31Z"
+    "updatedAt": "2026-10-28T00:35:04Z"
   },
   {
     "id": "awb_4ea42157e744ae0c4767",
@@ -95867,7 +95981,7 @@
     "favicon": "https://somafm.com/img3/vaporwaves400.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T05:33:21Z"
+    "updatedAt": "2026-10-27T08:33:15Z"
   },
   {
     "id": "awb_9085266b45bfd1a6cb3b",
@@ -97143,7 +97257,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T09:29:24Z"
+    "updatedAt": "2026-10-27T11:26:44Z"
   },
   {
     "id": "awb_ad84cabd44664b13476d",
@@ -98477,6 +98591,29 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_e88ba4745d7401b16972",
+    "name": "Suspense (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "mystery",
+      "old time radio",
+      "otr",
+      "radio drama",
+      "suspense",
+      "thriller"
+    ],
+    "homepage": "https://stupidpotato.com/suspense/",
+    "favicon": "https://stupidpotato.com/suspense/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:50:16Z"
+  },
+  {
     "id": "awb_00639e3d5f46cc50feee",
     "name": "Suspense Radio USA",
     "country": "US",
@@ -99450,6 +99587,29 @@
     "updatedAt": "2026-10-15T08:23:41Z"
   },
   {
+    "id": "awb_59fc53a9395aca383c27",
+    "name": "The Adventures of Superman (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "adventure",
+      "old time radio",
+      "otr",
+      "radio drama",
+      "superhero",
+      "superman"
+    ],
+    "homepage": "https://stupidpotato.com/superman/",
+    "favicon": "https://stupidpotato.com/superman/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:39:20Z"
+  },
+  {
     "id": "awb_f871dfd7d6deb4562728",
     "name": "The Alway's Christmas Channel (MP3)",
     "country": "US",
@@ -99943,6 +100103,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_5b47db931cdf88947962",
+    "name": "The Burns and Allen Show (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "burns and allen",
+      "classic radio",
+      "comedy",
+      "old time radio",
+      "otr",
+      "sitcom"
+    ],
+    "homepage": "https://stupidpotato.com/burns-and-allen/",
+    "favicon": "https://stupidpotato.com/burns-and-allen/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:10:14Z"
   },
   {
     "id": "awb_ef465d53dd43df805ed3",
@@ -100551,7 +100734,7 @@
     "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvuzuuDQQUvzPBH8230eudBhmbvQnc19DDQvj47IRZkjudWyv4-ZIAPdLJcEWhkeC-SS6nAdZFmhf5WBAvVe5lEO-WU5-qFqHIjWaNyWLcJ6DLGGD2DW2LnwH17a6w5Y74AWp0Y9bg9h1VKvJ8c5s4StQlH1Yjx2U93ZxPBcmzXUaTDN84vDGlDiPAZ8jH/s1000/FobiddenCoconutCoaster.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T23:31:36Z"
+    "updatedAt": "2026-10-27T23:43:12Z"
   },
   {
     "id": "awb_35c162f3a9284c4f40a8",
@@ -100618,6 +100801,52 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_8a0052a62a56bee959f0",
+    "name": "The Great Gildersleeve (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "classic radio",
+      "comedy",
+      "great gildersleeve",
+      "old time radio",
+      "otr",
+      "sitcom"
+    ],
+    "homepage": "https://stupidpotato.com/great-gildersleeve/",
+    "favicon": "https://stupidpotato.com/great-gildersleeve/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:20:56Z"
+  },
+  {
+    "id": "awb_f261b1ea0579cbb9f577",
+    "name": "The Green Hornet (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "adventure",
+      "green hornet",
+      "old time radio",
+      "otr",
+      "radio drama",
+      "superhero"
+    ],
+    "homepage": "https://stupidpotato.com/green-hornet/",
+    "favicon": "https://stupidpotato.com/green-hornet/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:41:25Z"
   },
   {
     "id": "awb_ace0369ff8d54732b56a",
@@ -101083,6 +101312,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_9d2fac99f3c6d496e187",
+    "name": "The Jack Benny Program (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "classic radio",
+      "comedy",
+      "jack benny",
+      "old time radio",
+      "otr",
+      "sitcom"
+    ],
+    "homepage": "https://stupidpotato.com/jack-benny/",
+    "favicon": "https://stupidpotato.com/jack-benny/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T23:43:12Z"
   },
   {
     "id": "awb_6be8f4cf3cceb20ecc19",
@@ -102958,6 +103210,29 @@
     "updatedAt": "2026-06-23T12:15:12Z"
   },
   {
+    "id": "awb_d14341218f03a8e9c272",
+    "name": "The Variety Hour (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "classic radio",
+      "comedy",
+      "old time radio",
+      "otr",
+      "sitcom",
+      "variety hour"
+    ],
+    "homepage": "https://stupidpotato.com/variety-hour/",
+    "favicon": "https://stupidpotato.com/variety-hour/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T23:46:22Z"
+  },
+  {
     "id": "awb_8d82dc61d008d6895967",
     "name": "The Very Best Of Art Bell - U7 Radio (U7Radio.org)",
     "country": "US",
@@ -103041,26 +103316,6 @@
     "updatedAt": "2026-05-30T15:29:33Z"
   },
   {
-    "id": "awb_bfe737cf70038a3e14da",
-    "name": "The Webb Radio Network",
-    "country": "US",
-    "subdivision": "Alabama",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock"
-    ],
-    "homepage": "https://thewebbradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T17:46:36Z"
-  },
-  {
     "id": "awb_1b44a8121a377710334b",
     "name": "THE WELL",
     "country": "US",
@@ -103091,6 +103346,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_f82d9277aa19b6b2ea5f",
+    "name": "The Whistler (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "mystery",
+      "old time radio",
+      "otr",
+      "radio drama",
+      "suspense",
+      "the whistler",
+      "thriller"
+    ],
+    "homepage": "https://stupidpotato.com/the-whistler/",
+    "favicon": "https://stupidpotato.com/the-whistler/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:41:25Z"
   },
   {
     "id": "awb_f55ead3d8e6cab64899b",
@@ -103665,6 +103944,33 @@
     "updatedAt": "2026-08-26T01:23:25Z"
   },
   {
+    "id": "awb_95de8485a0a685e8fde8",
+    "name": "This Just In - Old-Time Radio News (Stupid Potato)",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "1940s",
+      "history",
+      "news",
+      "old time radio",
+      "otr",
+      "talk",
+      "world war ii"
+    ],
+    "homepage": "https://stupidpotato.com/this-just-in/",
+    "favicon": "https://stupidpotato.com/this-just-in/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:46:11Z"
+  },
+  {
     "id": "awb_84e46171575016f05163",
     "name": "Throwback 103 (Z103 [KFTZ] Web Radio)",
     "country": "US",
@@ -104182,7 +104488,7 @@
     "favicon": "https://cdn.onlyhitsradio.net/logo/tophits.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-22T13:36:03Z"
+    "updatedAt": "2026-10-27T15:26:01Z"
   },
   {
     "id": "awb_9733869e64dfa88e326b",
@@ -104544,6 +104850,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_73aabd00d33efe4d782b",
+    "name": "Tropicalísima.fm - Bachata",
+    "country": "US",
+    "subdivision": "New York",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "bachata",
+      "latin",
+      "tropical"
+    ],
+    "homepage": "https://tropicalisima.fm/",
+    "favicon": "https://cdn.onlineradiobox.com/img/fblogo/3/32933.v5.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:52:20Z"
   },
   {
     "id": "awb_15e383f0d0e8f450558d",
@@ -109073,7 +109401,7 @@
     "favicon": "https://wbor.org/assets/images/favicon.png?v=7be406e9",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T03:28:20Z"
+    "updatedAt": "2026-10-27T12:51:24Z"
   },
   {
     "id": "awb_6a3dca311eafd8472c9d",
@@ -112224,7 +112552,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T22:38:52Z"
+    "updatedAt": "2026-10-27T23:43:12Z"
   },
   {
     "id": "awb_5e6567f3778d30651fcf",
@@ -112475,6 +112803,28 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:47:10Z"
+  },
+  {
+    "id": "awb_ff61ec15d9f19b855116",
+    "name": "WEZS \"Easy Swing 106.5\" Palm Coast, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "lite music",
+      "oldies",
+      "swing"
+    ],
+    "homepage": "https://www.thejourneypc.com/ministries/radio-station",
+    "favicon": "https://dq5pwpg1q8ru0.cloudfront.net/2025/07/20/15/07/57/e348a8f2-49e1-49cc-8974-9a1f086d2abb/Easy-Swing%2528optionB%2529.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T01:18:04Z"
   },
   {
     "id": "awb_5acfbc477d218959aa45",
@@ -114150,6 +114500,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-10T14:12:07Z"
+  },
+  {
+    "id": "awb_154a26ac1d0b6b5bd6eb",
+    "name": "WGNK \"Bless 88.3\" Pennsuco, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian contemporary"
+    ],
+    "homepage": "https://bless883fm.com/es",
+    "favicon": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84dbaebec7f80b6fda9734cfc1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T02:41:11Z"
   },
   {
     "id": "awb_05db3a65a858e583a720",
@@ -118555,6 +118925,22 @@
     "updatedAt": "2026-09-04T23:49:31Z"
   },
   {
+    "id": "awb_94e3690df94bbfab12b2",
+    "name": "WKSL 97.9 Kiss FM - Jacksonville, FL",
+    "country": "US",
+    "subdivision": "Jacksonville FL",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://979kissfm.iheart.com/",
+    "favicon": "https://979kissfm.iheart.com/favicon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-27T16:48:00Z"
+  },
+  {
     "id": "awb_b69a4bbc11b48e5a74d0",
     "name": "WKSU Classical",
     "country": "US",
@@ -121210,24 +121596,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_21ade8fbc1661d501ccf",
-    "name": "WMXP-LP 95.5 FM Greenville, SC",
-    "country": "US",
-    "subdivision": "Greenville, South Carolina",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "urban adult contemporary"
-    ],
-    "homepage": "https://www.wmxp955.org/",
-    "favicon": "https://liveonlineradio.net/wp-content/uploads/2025/03/WMXP-95.5-FM.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-03T12:38:39Z"
-  },
-  {
     "id": "awb_d5b85e8fc80f3c1407b5",
     "name": "WNAP",
     "country": "US",
@@ -122635,25 +123003,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-23T03:33:56Z"
-  },
-  {
-    "id": "awb_f8a2d7e37843762087cf",
-    "name": "WORC-AM \"La Mega\" 1310 & 106.1 Worcester, MA",
-    "country": "US",
-    "subdivision": "Massachusetts",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "tropical",
-      "worcester"
-    ],
-    "homepage": "http://www.megaworcester.com/",
-    "favicon": "https://static.wixstatic.com/media/dd4a80_730a6ede4b0245bba115cdce7687ebb8~mv2_d_5319_1949_s_2.png/v1/fill/w_458,h_172,al_c,usm_0.66_1.00_0.01/dd4a80_730a6ede4b0245bba115cdce7687ebb8~mv2_d_5319_1949_s_2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:56:14Z"
   },
   {
     "id": "awb_60821c3446a2c1d8418d",
@@ -126832,28 +127181,6 @@
       "jazz",
       "news",
       "urban"
-    ],
-    "homepage": "https://www.ecsu.edu/radio-tv/index.php",
-    "favicon": null,
-    "type": "college",
-    "sourceCount": 2,
-    "updatedAt": "2026-09-22T00:44:26Z"
-  },
-  {
-    "id": "awb_1d908023038bfd6355df",
-    "name": "WRVS HD2 Jazzy 89.9",
-    "country": "US",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "college",
-      "jazz"
-    ],
-    "tags": [
-      "college radio",
-      "jazz"
     ],
     "homepage": "https://www.ecsu.edu/radio-tv/index.php",
     "favicon": null,
@@ -131605,7 +131932,7 @@
     "favicon": "https://stream.lentzsystems.net/thepointfm.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T21:40:03Z"
+    "updatedAt": "2026-10-27T22:51:24Z"
   },
   {
     "id": "awb_c99a62e533e354c86d68",
@@ -134398,6 +134725,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_c1b4d94e306de5eaf3a3",
+    "name": "X Minus One (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "old time radio",
+      "otr",
+      "radio drama",
+      "sci-fi",
+      "science fiction",
+      "x minus one"
+    ],
+    "homepage": "https://stupidpotato.com/x-minus-one/",
+    "favicon": "https://stupidpotato.com/x-minus-one/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T00:30:36Z"
   },
   {
     "id": "awb_856d65b220ea4d26f45f",

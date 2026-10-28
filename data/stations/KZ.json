@@ -37,7 +37,7 @@
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -152,6 +152,28 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_0c7a7472aa28931f25e9",
+    "name": "Energy FM 102.2 Almaty",
+    "country": "KZ",
+    "subdivision": "Almaty",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "hits",
+      "music"
+    ],
+    "homepage": "https://energyfm.kz/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T16:43:49Z"
+  },
+  {
     "id": "awb_5c3a3867ee4b9e08e49f",
     "name": "KTK TV",
     "country": "KZ",
@@ -180,6 +202,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_f53a27a6baafcb14f8be",
+    "name": "Lux FM Kazakhstan",
+    "country": "KZ",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "culture",
+      "music"
+    ],
+    "homepage": "https://luxfm.kz/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T17:17:22Z"
   },
   {
     "id": "awb_487e1ceea3ad134f3ba0",

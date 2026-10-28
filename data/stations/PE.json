@@ -12,7 +12,7 @@
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1196,22 +1196,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_fb081c044120292b5dc8",
-    "name": "LOVE FM: Amor en cada canción / Clásicos del pop",
-    "country": "PE",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://maxplay.com.mx/",
-    "favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-12T19:29:59Z"
-  },
-  {
     "id": "awb_aa2cf395fd0ee2016a3a",
     "name": "Mambo INN Radio",
     "country": "PE",
@@ -1470,7 +1454,7 @@
     "id": "awb_6383bfdcbad5a847db68",
     "name": "Onda Cero Te Activa",
     "country": "PE",
-    "subdivision": null,
+    "subdivision": "Lima",
     "languages": [
       "es"
     ],
@@ -1480,6 +1464,7 @@
     ],
     "tags": [
       "latin pop",
+      "latin pop reguetón",
       "latin-pop",
       "música urbana",
       "reggaeton",
@@ -1488,8 +1473,8 @@
     "homepage": "https://www.ondacero.com.pe/radio",
     "favicon": "https://i1.sndcdn.com/avatars-000035616174-q7tb9i-t240x240.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-28T00:00:53Z"
   },
   {
     "id": "awb_7849772914f3a68de53d",
@@ -2020,7 +2005,7 @@
     "favicon": "https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T18:47:20Z"
+    "updatedAt": "2026-10-27T18:56:47Z"
   },
   {
     "id": "awb_1b104ad6bd36161f6122",
@@ -2450,9 +2435,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radioclasicarockandpop.webnode.pe/",
-    "favicon": "https://d1di2lzuh97fh2.cloudfront.net/files/1j/1j3/1j3767.ico?ph=d98415a4ea",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4349,25 +4334,6 @@
     "updatedAt": "2026-10-19T04:32:14Z"
   },
   {
-    "id": "awb_6ce1b31b85c9b6b80f98",
-    "name": "Radio Perú Cochabamba",
-    "country": "PE",
-    "subdivision": "Cajamarca",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "folclore",
-      "huayno"
-    ],
-    "homepage": "https://www.radioperu.pe/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3YbG97Qvk5_SdtTW4WPpGg6L9agxWFnS7LLVGQZIle3rrry-5Ga6Ws2NaQKEDLKf_RqdSnBcNw_SrZ2fxul7oCyk2ON1cA8TEE9JjK9WM0TxBtyHwsLRF-sp4MgEHgymib9yUHhO1muCne9foqBd5b6_lOgG-r3LU5LDGlyskEi-QJzzKCeXdDpjcU_w1/s320/1000047896.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-02T14:10:52Z"
-  },
-  {
     "id": "awb_a175cb3e22e3d5f3bacf",
     "name": "Radio Pirata 97.7 tu radio retro",
     "country": "PE",
@@ -5048,9 +5014,9 @@
   },
   {
     "id": "awb_4b79688d257d9ed6a2ab",
-    "name": "Radio TV. Sureña (Puno, Juliaca)",
+    "name": "Radio TV. Sureña - Puno, Juliaca",
     "country": "PE",
-    "subdivision": "Puno / Juliaca",
+    "subdivision": "Juliaca - Puno",
     "languages": [],
     "categories": [],
     "tags": [],
@@ -5068,12 +5034,17 @@
     "languages": [
       "es"
     ],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "oldies",
+      "rock"
+    ],
+    "tags": [
+      "classic rock oldies"
+    ],
     "homepage": "https://unhuecoenelespacio.wixsite.com/radio",
-    "favicon": null,
+    "favicon": "https://i.imgur.com/2OquMk0.png",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5328,6 +5299,26 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_9f31416835bedc52d542",
+    "name": "Ritmo Romántica",
+    "country": "PE",
+    "subdivision": "Lima",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "baladas pop"
+    ],
+    "homepage": "https://www.oigo.com/ritmoromantica/radioenvivo/",
+    "favicon": "https://mmo.aiircdn.com/766/6a97035cd37a8910818.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T04:26:49Z"
   },
   {
     "id": "awb_b85fab40a4d862431875",

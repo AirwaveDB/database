@@ -14,22 +14,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_80c0bb73529b252c6c9a",
-    "name": ". Abdulbasit Abdulsamad",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:32:40Z"
-  },
-  {
     "id": "awb_ac14b8608a896a0ebd96",
     "name": "..:: KIDS HIT - ДЕТСКИЙ ХИТ - РЕЗЕРВ ::..",
     "country": "RU",
@@ -594,7 +578,9 @@
     "name": "101.ru Алексей Брянцев",
     "country": "RU",
     "subdivision": "Moscow",
-    "languages": [],
+    "languages": [
+      "ru"
+    ],
     "categories": [],
     "tags": [
       "russian shanson"
@@ -602,8 +588,8 @@
     "homepage": "https://101.ru/radio/user/927583",
     "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.stgyA1sX2O5eam4uQYT8ngHaEd%3Fr%3D0%26pid%3DApi&f=1&ipt=fbf6cbf7b29ab9d05e14f94a6415d9f5bc51c2dc1bc98640861bff49a1df10cf&ipo=images",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-27T07:29:40Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-27T17:50:08Z"
   },
   {
     "id": "awb_0a51f2a0b484bd5c66c0",
@@ -673,6 +659,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:56:00Z"
+  },
+  {
+    "id": "awb_d02ce2575dd777e8eccd",
+    "name": "101.ru МИХАИЛ и ИРИНА КРУГ",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "russian shanson"
+    ],
+    "homepage": "https://101.ru/radio/user/931360",
+    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.vJGToPx1jKSDiQGf_4DuSAHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=2a115bf56858ef0d4064be48af615adb232c25164677ad16ea2a37da5fa7e6e7&ipo=images",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T09:43:57Z"
   },
   {
     "id": "awb_c10f0bde41a4bf1f02f5",
@@ -3010,7 +3014,7 @@
     "id": "awb_bb18e22d61efdf04b4fe",
     "name": "BRİDGE TV",
     "country": "RU",
-    "subdivision": "Moscow (Russia)",
+    "subdivision": "Moscow",
     "languages": [
       "en",
       "ru"
@@ -3021,7 +3025,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
+    "homepage": "https://bridgetv.ru/about/channels/",
     "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
     "type": null,
     "sourceCount": 3,
@@ -3098,7 +3102,7 @@
   },
   {
     "id": "awb_ea5cc3717475e43a0380",
-    "name": "C. C. Catch",
+    "name": "C.C.Catch",
     "country": "RU",
     "subdivision": "Moscow",
     "languages": [
@@ -3857,7 +3861,7 @@
     "favicon": "https://coffee-wave.ru/img/fav/favicon180.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T20:53:56Z"
+    "updatedAt": "2026-10-27T23:07:49Z"
   },
   {
     "id": "awb_c274d957390cdf8ac07a",
@@ -7006,6 +7010,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:45:08Z"
+  },
+  {
+    "id": "awb_3237025d1c1689d9aa21",
+    "name": "EuropaRussia",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://europarussia.ru/",
+    "favicon": "https://europarussia.ru/wp-content/uploads/2020/06/cropped-512-512-180x180.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-03-27T15:21:58Z"
   },
   {
     "id": "awb_80655f41b53463292e0d",
@@ -23855,28 +23873,6 @@
     "updatedAt": "2026-01-15T03:14:59Z"
   },
   {
-    "id": "awb_c5fad0756f658e7c0a42",
-    "name": "Radio Guberniya",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "hits",
-      "pop"
-    ],
-    "homepage": "https://www.gubernia-media.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:15:15Z"
-  },
-  {
     "id": "awb_cf57d95c007fdacaca52",
     "name": "Radio Hit Orsk 103.7 FM",
     "country": "RU",
@@ -24791,27 +24787,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:42:27Z"
-  },
-  {
-    "id": "awb_f3b28bc3e72a0703c093",
-    "name": "Radio Minor",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "classic jazz",
-      "jazz"
-    ],
-    "homepage": "https://radiominor.ru/",
-    "favicon": "https://radiominor.ru/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:40:59Z"
   },
   {
     "id": "awb_0fa27b83ff75d3016ae2",
@@ -26199,6 +26174,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-06T12:50:48Z"
+  },
+  {
+    "id": "awb_137b7d6cc23f0b32b5c2",
+    "name": "Radio Sefon",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "hip-hop",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "rap",
+      "russian programming",
+      "top40"
+    ],
+    "homepage": "http://sefong.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:12:47Z"
   },
   {
     "id": "awb_ae36969d72761af09e16",
@@ -29434,7 +29434,7 @@
     "favicon": "https://play.google.com/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T18:12:41Z"
+    "updatedAt": "2026-10-27T18:22:51Z"
   },
   {
     "id": "awb_605aa6f231103b2256d0",
@@ -31489,6 +31489,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:15:03Z"
+  },
+  {
+    "id": "awb_415bbed7ee17b5e9798a",
+    "name": "Алла Пугачева",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "discography",
+      "pop music"
+    ],
+    "homepage": "https://pcradio.app/radio/alla-pugacheva-live-pcr-27oj4zu/",
+    "favicon": "https://media.pcradio.app/media/logos/180/1006368/logo_UlPOK6HzOQ.jpg?v=20260529-media-restore",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T14:28:28Z"
   },
   {
     "id": "awb_48941251d628b055d4ad",
@@ -37848,15 +37869,13 @@
     "categories": [],
     "tags": [
       "джаз",
-      "инди-рок",
       "поп-музыка",
-      "русский рок",
       "соул"
     ],
     "homepage": "https://radiominor.ru/",
     "favicon": "https://topradio.me/assets/image/radio/100/minor.png",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 3,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -40718,7 +40737,7 @@
   },
   {
     "id": "awb_e409ed31da9366df648d",
-    "name": "Радио ViBE Новый Звук",
+    "name": "Радио Vibe Новый Звук",
     "country": "RU",
     "subdivision": "russia",
     "languages": [
@@ -40733,7 +40752,7 @@
       "pop"
     ],
     "homepage": "https://radiovibe.ru/",
-    "favicon": "https://radiovibe.ru/img/vibe_500.png",
+    "favicon": "https://radiovibe.ru/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T13:24:17Z"
@@ -45532,6 +45551,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:30:45Z"
+  },
+  {
+    "id": "awb_01f3492e6dee1a395a17",
+    "name": "Радио Родных Дорог Ярославль 93.0 FM",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "chanson",
+      "music",
+      "pop",
+      "radio native roads",
+      "yaroslavl"
+    ],
+    "homepage": "https://top-radio.ru/yaroslavl/rodnyix-dorog",
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241228_113621685.jpg?alt=media&token=6a20331f-6cc0-4186-ae92-e177bfface40",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T06:46:57Z"
   },
   {
     "id": "awb_cb60f1b87b3625dc31cd",

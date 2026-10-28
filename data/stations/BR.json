@@ -666,7 +666,7 @@
   },
   {
     "id": "awb_70b2b2c4cb95c9c8747f",
-    "name": "94FM",
+    "name": "94fm",
     "country": "BR",
     "subdivision": "Rio Grande do Sul",
     "languages": [],
@@ -883,22 +883,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_c1910b4e33800425a731",
-    "name": "Abdulbasit Abdulsamad",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": "https://mp3islam.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:11:09Z"
   },
   {
     "id": "awb_47500d851b5848479aed",
@@ -2744,20 +2728,6 @@
     "updatedAt": "2026-01-20T12:39:54Z"
   },
   {
-    "id": "awb_cb582569a726a1d2691b",
-    "name": "Cidade Canção FM",
-    "country": "BR",
-    "subdivision": "Rio Grande do Sul",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.cidadecancaofm.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_2c922cfda96cf530ceb5",
     "name": "Cidade FM de Matão",
     "country": "BR",
@@ -4355,7 +4325,7 @@
     "favicon": "https://redefanfm.com.br/wp-content/uploads/2023/07/favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T18:09:05Z"
+    "updatedAt": "2026-10-27T19:05:17Z"
   },
   {
     "id": "awb_cd2981357d40dbe6e9a3",
@@ -8099,7 +8069,7 @@
     "id": "awb_ae4fefbf450bfef15049",
     "name": "Metal Zone Radio",
     "country": "BR",
-    "subdivision": "Sao Paulo (Brazil)",
+    "subdivision": "São Paulo",
     "languages": [],
     "categories": [
       "metal"
@@ -8116,7 +8086,7 @@
       "symphonic metal",
       "trash metal"
     ],
-    "homepage": "https://metalzone.radio.br/",
+    "homepage": "http://www.metalzone.radio.br/",
     "favicon": "https://metalzone.radio.br/assets/img/favicon-512.png",
     "type": null,
     "sourceCount": 2,
@@ -11729,36 +11699,6 @@
     "updatedAt": "2026-10-12T10:11:26Z"
   },
   {
-    "id": "awb_7b8e7e5ebc79b5e39ffa",
-    "name": "Radio Amigos do Rock",
-    "country": "BR",
-    "subdivision": "SP",
-    "languages": [
-      "pt"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://leonelapantonellij.wixsite.com/website-2",
-    "favicon": "https://www.wix.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:23:35Z"
-  },
-  {
-    "id": "awb_c1945a7dbec85b22d982",
-    "name": "Rádio Amigos do Rock",
-    "country": "BR",
-    "subdivision": "São Paulo (SP)",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioamigosdorock.wixsite.com/radio-amigos-do-ro-1",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_4e4f92d6707c51520698",
     "name": "Rádio Amigos do Rock Nacional",
     "country": "BR",
@@ -12901,6 +12841,25 @@
     "updatedAt": "2026-09-05T23:20:32Z"
   },
   {
+    "id": "awb_9ff08f34e13409bb7555",
+    "name": "Rádio BragaNews",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "brasil",
+      "webradio"
+    ],
+    "homepage": "https://radiobraganews.tatocando.com.br/",
+    "favicon": "https://radiobraganews.tatocando.com.br/logo",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T23:28:46Z"
+  },
+  {
     "id": "awb_a59ddfb68ce3f870fe31",
     "name": "Rádio Brasil 2000",
     "country": "BR",
@@ -13364,25 +13323,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_4f76846f5e7545e96651",
-    "name": "Rádio Catedral 106.7 FM",
-    "country": "BR",
-    "subdivision": "Rio de Janeiro",
-    "languages": [],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "catholic radio",
-      "católica"
-    ],
-    "homepage": "https://www.radiocatedral.org.br/",
-    "favicon": "https://img.radios.com.br/radio/lg/radio11213_1439401387.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-26T01:43:02Z"
-  },
-  {
     "id": "awb_3ea002b33282f7914872",
     "name": "Rádio Catedral FM 102,3 MHz (Juiz de Fora - MG)",
     "country": "BR",
@@ -13399,20 +13339,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_b84d1d3ec97fc3ec8e32",
-    "name": "Radio Catedral FM RJ 106.7",
-    "country": "BR",
-    "subdivision": "Rio de Janeiro",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiocatedral.com.br/",
-    "favicon": "https://radiocatedral.com.br/wp-content/uploads/2019/07/logo-catedral-oficial-e1562107838784.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_1e2199331347da011aa1",
@@ -14314,7 +14240,7 @@
     "favicon": "https://radioaconchego.org/files/2015/03/cropped-cropped-5617042203_961643d1a0_o-180x180.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-23T00:46:07Z"
+    "updatedAt": "2026-10-28T00:52:28Z"
   },
   {
     "id": "awb_5f174301d3d27e6688ba",
@@ -17801,6 +17727,20 @@
     "updatedAt": "2026-02-23T20:46:27Z"
   },
   {
+    "id": "awb_82746f9b0739630ffcad",
+    "name": "Rádio Litoral Paulista",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiolitoralpaulista.com.br/",
+    "favicon": "https://public-rf-upload.minhawebradio.net/249842/logo/5858b33d14658264c398eac3a8a3ad38.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
     "id": "awb_44e08c28f5ec5d0d36eb",
     "name": "Radio Livre 95",
     "country": "BR",
@@ -17813,23 +17753,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_43e77ff2f25e7ec81601",
-    "name": "Rádio Livre Som",
-    "country": "BR",
-    "subdivision": "Paraná(Brazil)",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "local radio",
-      "variety"
-    ],
-    "homepage": "https://www.radiolivresom.com.br/",
-    "favicon": "http://radiolivresom.com.br/admin/assets/img/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-31T14:02:57Z"
   },
   {
     "id": "awb_67dc044539bd09184e7f",
@@ -21130,6 +21053,23 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-02T18:20:50Z"
+  },
+  {
+    "id": "awb_2fe5206c0d89e2c199ac",
+    "name": "Rádio Serrana Mix",
+    "country": "BR",
+    "subdivision": "Espírito Santo",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "ecletic",
+      "ecletica"
+    ],
+    "homepage": "https://www.radioserranamix.com.br/",
+    "favicon": "https://www.radioserranamix.com.br/public/24456-2024-06-25.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_649f73e49cf01f5d0f6b",

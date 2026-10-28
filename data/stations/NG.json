@@ -14,7 +14,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -108,7 +108,7 @@
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -292,6 +292,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:35:26Z"
+  },
+  {
+    "id": "awb_40670983995d232d9098",
+    "name": "Beat FM Lagos 99.9",
+    "country": "NG",
+    "subdivision": "Lagos",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "entertainment",
+      "music"
+    ],
+    "homepage": "https://thebeat99.com/",
+    "favicon": "https://thebeat99.com/wp-content/uploads/2025/11/cropped-BEAT-LOGO-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T12:44:06Z"
   },
   {
     "id": "awb_ed5113feee2cdf895c20",
@@ -965,6 +984,29 @@
     "updatedAt": "2026-01-15T02:55:32Z"
   },
   {
+    "id": "awb_63031db78c8bb1f4e551",
+    "name": "Naija FM 102.7 Lagos",
+    "country": "NG",
+    "subdivision": "Lagos",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://naija102.com/lagos/",
+    "favicon": "https://naija102.com/wp-content/uploads/2022/02/Naija_logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T14:34:43Z"
+  },
+  {
     "id": "awb_242d8695b1bc5f1566bf",
     "name": "Nigeria Info",
     "country": "NG",
@@ -1138,6 +1180,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_74a73c0df2b494acc0f6",
+    "name": "Rhythm 93.7 FM Lagos",
+    "country": "NG",
+    "subdivision": "Lagos",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "entertainment",
+      "music"
+    ],
+    "homepage": "https://rhythm937.com/",
+    "favicon": "https://rhythm937.com/wp-content/uploads/2023/02/logo-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T13:06:26Z"
   },
   {
     "id": "awb_a9b76cfc4431c3332547",

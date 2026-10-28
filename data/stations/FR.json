@@ -100,24 +100,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_fb69e7d3fbb0918054c0",
-    "name": "..al quran radio",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_0634dc76bf16e25176d1",
     "name": ".mohammed ayyub",
     "country": "FR",
@@ -1469,20 +1451,29 @@
     "updatedAt": "2026-01-15T06:40:25Z"
   },
   {
-    "id": "awb_95ee2c923ad0caa55dcb",
-    "name": "Abdulbasit Abdulsamad",
+    "id": "awb_d5565c209dbff3c450a8",
+    "name": "Absolument Classique",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "Île-de-France",
     "languages": [
-      "ar"
+      "fr"
     ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical",
+      "classical music",
+      "culture",
+      "histoire",
+      "podcasts",
+      "webradio"
+    ],
+    "homepage": "https://absolumentclassique.com/",
+    "favicon": "https://absolumentclassique.com/assets/images/icon.png",
+    "type": "internet",
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:53:53Z"
+    "updatedAt": "2026-10-27T22:05:07Z"
   },
   {
     "id": "awb_95a41d9268e38d024265",
@@ -5353,7 +5344,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao-Radio",
+    "name": "Cacao Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -6010,15 +6001,27 @@
       "en",
       "fr"
     ],
-    "categories": [],
-    "tags": [
-      "music"
+    "categories": [
+      "electronic",
+      "folk",
+      "pop",
+      "rock"
     ],
-    "homepage": "http://chaos-radio.fr/",
-    "favicon": "http://chaos-radio.fr/assets/icons/icon-128x128.png",
+    "tags": [
+      "electronic",
+      "folk",
+      "groove",
+      "music",
+      "pop",
+      "progressive rock",
+      "psychedelic",
+      "rock"
+    ],
+    "homepage": "https://chaos-radio.fr/",
+    "favicon": "https://chaos-radio.fr/assets/icons/icon-128x128.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-25T17:18:31Z"
+    "updatedAt": "2026-10-27T17:52:54Z"
   },
   {
     "id": "awb_db3196f3d03abed7cd41",
@@ -6695,7 +6698,7 @@
     "homepage": "https://www.cheriefm.fr/",
     "favicon": null,
     "type": "internet",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-18T18:49:50Z"
   },
   {
@@ -6994,44 +6997,6 @@
     "type": "internet",
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:50:49Z"
-  },
-  {
-    "id": "awb_3bf8017b4a2a6900b33a",
-    "name": "Chérie FM La Playlist de 2000",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "cherie fm",
-      "webradio"
-    ],
-    "homepage": "https://www.cheriefm.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 2,
-    "updatedAt": "2026-09-18T18:58:01Z"
-  },
-  {
-    "id": "awb_fcc4d1828b1b53280f2e",
-    "name": "Chérie FM La Playlist de 2002",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "cherie fm",
-      "webradio"
-    ],
-    "homepage": "https://www.cheriefm.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 2,
-    "updatedAt": "2026-09-18T18:53:49Z"
   },
   {
     "id": "awb_6c62d1a16474e0699642",
@@ -8681,9 +8646,9 @@
       "classical"
     ],
     "homepage": null,
-    "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10209,26 +10174,6 @@
     "updatedAt": "2026-05-11T16:59:41Z"
   },
   {
-    "id": "awb_dee589a9b7e11f58e927",
-    "name": "ECLIPSE",
-    "country": "FR",
-    "subdivision": "Grand Est",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://eclipseradio.fr/",
-    "favicon": "https://studio10.vestaradio.com/uploads/user-music/1788/covers/cover_1788_1786173983_3aed47.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-08T10:24:39Z"
-  },
-  {
     "id": "awb_39a145c1639445fb836d",
     "name": "Écoutez Mon petit France Inter",
     "country": "FR",
@@ -10319,7 +10264,7 @@
     "favicon": "https://www.egrego.re/RESOURCES/IMAGES/EGREGORELOGO.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T23:31:36Z"
+    "updatedAt": "2026-10-28T01:05:24Z"
   },
   {
     "id": "awb_9f2cbe07bf0627568cc4",
@@ -20358,6 +20303,29 @@
     "updatedAt": "2026-01-15T00:08:30Z"
   },
   {
+    "id": "awb_5edc221412784055cf6c",
+    "name": "ISARA Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "24/7",
+      "live",
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "homepage": "https://isara-radio.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s360345/images/logog.png?t=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T14:57:11Z"
+  },
+  {
     "id": "awb_9231acde3007f4fb601b",
     "name": "ISEKOI Radio",
     "country": "FR",
@@ -20385,7 +20353,7 @@
     "favicon": "https://i.postimg.cc/BQZXKJnh/LOGO-3-2-bg1.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T01:39:05Z"
+    "updatedAt": "2026-10-27T19:47:11Z"
   },
   {
     "id": "awb_59958b09a5492c724646",
@@ -20418,7 +20386,7 @@
     "favicon": "https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T03:54:11Z"
+    "updatedAt": "2026-10-27T18:34:19Z"
   },
   {
     "id": "awb_7e1888e862706fbd34c1",
@@ -20442,7 +20410,7 @@
     "favicon": "https://i.postimg.cc/3rFkNkY4/LOGO-3-2-bg3.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T16:48:25Z"
+    "updatedAt": "2026-10-27T17:43:59Z"
   },
   {
     "id": "awb_663247fe9bfb98162cd8",
@@ -23643,46 +23611,14 @@
     "categories": [],
     "tags": [
       "années 80",
-      "trafic...",
+      "trafic",
       "tubes actuels"
     ],
     "homepage": "http://www.lorfm.com/",
-    "favicon": "https://www.lorfm.com/thumbnails/64x64/uploads/pages/lorfm---la-radio-lorraine---actualites-en-lorraine/lorfm---la-radio-lorraine---actualites-en-lorraineimage.jpg",
-    "type": null,
-    "sourceCount": 57,
-    "updatedAt": "2026-01-15T08:47:21Z"
-  },
-  {
-    "id": "awb_5263b9ea025db2ecc0d5",
-    "name": "LOR'FM",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.lorfm.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T06:33:47Z"
-  },
-  {
-    "id": "awb_d890e2d54d6eb4d60a5e",
-    "name": "LORFM",
-    "country": "FR",
-    "subdivision": "Grand Est",
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.lorfm.com/",
-    "favicon": "https://www.lorfm.com/thumbnails/64x64/uploads/pages/lorfm---la-radio-lorraine---actualites-en-lorraine/lorfm---la-radio-lorraine---actualites-en-lorraineimage.jpg",
+    "favicon": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/lorfm/images/logo_9SxgbO8jJt.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:51:16Z"
+    "updatedAt": "2026-01-15T00:57:08Z"
   },
   {
     "id": "awb_cee72ea8151d098b4881",
@@ -23783,7 +23719,7 @@
     "favicon": "https://lyl.live/favicon.ico",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T21:33:22Z"
+    "updatedAt": "2026-10-27T22:09:26Z"
   },
   {
     "id": "awb_11e4b384c12f65d075d6",
@@ -23822,6 +23758,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:24:53Z"
+  },
+  {
+    "id": "awb_c977a1cae49437e5eb4f",
+    "name": "Lyxia Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "top 40",
+      "top hits"
+    ],
+    "homepage": "https://lyxia.fr/",
+    "favicon": "https://cdn-profiles.tunein.com/s343097/images/logog.png?t=2",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T14:28:25Z"
   },
   {
     "id": "awb_729e672b8bda0cfb37d8",
@@ -26770,6 +26726,27 @@
     "updatedAt": "2026-04-19T09:32:05Z"
   },
   {
+    "id": "awb_2bbca9dc4d3287b26d9f",
+    "name": "Musiquose",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "rnb",
+      "urban"
+    ],
+    "homepage": "https://musiquose.fr/",
+    "favicon": "https://musiquose.com/images/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T15:12:57Z"
+  },
+  {
     "id": "awb_5ec6a1dbe53ae7c71557",
     "name": "Muzaiko",
     "country": "FR",
@@ -27843,6 +27820,40 @@
     "updatedAt": "2026-08-30T21:10:46Z"
   },
   {
+    "id": "awb_ab45a7ac6d82d6149d56",
+    "name": "Nostalgie Funk & Dance",
+    "country": "FR",
+    "subdivision": "Paris",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "disco funk"
+    ],
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-funk-dance",
+    "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/nostalgie-funk-dance-1400-1400.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T06:27:19Z"
+  },
+  {
+    "id": "awb_9571118ee19c91c9431c",
+    "name": "Nostalgie Funk & Disco",
+    "country": "FR",
+    "subdivision": "Paris",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-funk-dance",
+    "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/nostalgie-funk-dance-1400-1400.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T06:19:58Z"
+  },
+  {
     "id": "awb_34414951ac9511917589",
     "name": "Nostalgie Funky Collector",
     "country": "FR",
@@ -27974,6 +27985,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-05T20:58:32Z"
+  },
+  {
+    "id": "awb_6c94438ee29365023d32",
+    "name": "Nostalgie Italia",
+    "country": "FR",
+    "subdivision": "Paris",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "italian pop"
+    ],
+    "homepage": "https://www.nostalgie.fr/webradios",
+    "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA-WR-ITALIA.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:01:04Z"
   },
   {
     "id": "awb_57543dd6c2f9cdc60aac",
@@ -31326,28 +31357,6 @@
     "updatedAt": "2026-09-18T18:57:28Z"
   },
   {
-    "id": "awb_5b015385c2a770eb4a25",
-    "name": "NRJ Hits Mixes",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "nrj",
-      "webradio"
-    ],
-    "homepage": "https://www.nrj.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:51:20Z"
-  },
-  {
     "id": "awb_a77e5dabc8ff082c37ba",
     "name": "NRJ Hits Rap de L'Eté",
     "country": "FR",
@@ -32257,28 +32266,6 @@
     "updatedAt": "2026-09-18T18:51:20Z"
   },
   {
-    "id": "awb_dabb4a6f76a0fb2d8d43",
-    "name": "NRJ Nos Hits Préférés",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "nrj",
-      "webradio"
-    ],
-    "homepage": "https://www.nrj.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:52:50Z"
-  },
-  {
     "id": "awb_432d77238a63e19cbdcf",
     "name": "NRJ Nouveautés",
     "country": "FR",
@@ -32534,28 +32521,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:55:52Z"
-  },
-  {
-    "id": "awb_3ae77d1034acfcdf9f51",
-    "name": "NRJ Plus De 30 Min De Hits Non Stop",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "nrj",
-      "webradio"
-    ],
-    "homepage": "https://www.nrj.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:58:01Z"
   },
   {
     "id": "awb_dfa40d224f13a71b8b72",
@@ -36321,20 +36286,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_66268187b269e7ad50b7",
-    "name": "PulsRadio 2000",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.pulsradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-09T19:37:18Z"
-  },
-  {
     "id": "awb_d10cfc5199e38609a0b0",
     "name": "PulsRadio 2000 (64k AAC)",
     "country": "FR",
@@ -36355,22 +36306,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_4edd8c3cd6a825420a95",
-    "name": "PulsRadio 80's",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.pulsradio.com/80/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:29:57Z"
   },
   {
     "id": "awb_e93126655a5e48b283b9",
@@ -36498,24 +36433,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-10T16:26:46Z"
-  },
-  {
-    "id": "awb_8458fec638f5bc28602d",
-    "name": "Pulsradio.com/",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "trance"
-    ],
-    "homepage": "http://www.pulsradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_571e23323797537785b3",
@@ -37713,7 +37630,7 @@
     "favicon": "https://stream.radiobroussaille.fr:8443/favicon-32x32.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-27T03:27:39Z"
+    "updatedAt": "2026-10-28T02:05:21Z"
   },
   {
     "id": "awb_7e734f5079f289eeae18",
@@ -38343,14 +38260,14 @@
   },
   {
     "id": "awb_344f994bcc4a86baedee",
-    "name": "RADIO CLUB 105.7FM",
+    "name": "Radio Club 105.7FM",
     "country": "FR",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://radioclub.fr/wp-admin/",
-    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/cropped-269965503_533759981882903_4768925474557172552_n-270x270.jpg",
+    "homepage": "https://radioclub.fr/",
+    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/269965503_533759981882903_4768925474557172552_n-1.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-18T11:23:34Z"
@@ -40264,7 +40181,7 @@
     "id": "awb_4236313780f9154e875b",
     "name": "Rádio IBNJ Paris",
     "country": "FR",
-    "subdivision": "Île-de-France",
+    "subdivision": "Ile de France",
     "languages": [
       "fr",
       "pt"
@@ -40279,7 +40196,7 @@
       "gospel music",
       "pop rock"
     ],
-    "homepage": "https://radioibnjparis.com/",
+    "homepage": "https://www.radioibnjparis.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 3,
@@ -40629,7 +40546,7 @@
     "favicon": "https://www.lapurdi.net/squelettes/img/logo_web_small.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T06:48:24Z"
+    "updatedAt": "2026-10-27T08:29:14Z"
   },
   {
     "id": "awb_dc9e303757687b995c02",
@@ -42281,7 +42198,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T18:33:06Z"
+    "updatedAt": "2026-10-27T18:41:52Z"
   },
   {
     "id": "awb_170145a89df6bee49f9c",
@@ -42301,7 +42218,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T23:41:46Z"
+    "updatedAt": "2026-10-28T00:05:15Z"
   },
   {
     "id": "awb_f9e6ec4fab79c1be88df",
@@ -42460,6 +42377,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:45:26Z"
+  },
+  {
+    "id": "awb_183193d8aefe18130c6c",
+    "name": "Radio Radio Toulouse",
+    "country": "FR",
+    "subdivision": "Occitanie",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radioradiotoulouse.net/",
+    "favicon": "https://static.wixstatic.com/media/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png",
+    "type": null,
+    "sourceCount": 3,
+    "updatedAt": "2026-08-21T19:44:18Z"
   },
   {
     "id": "awb_54764c36c49b298e952d",
@@ -43979,7 +43912,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-22T21:40:03Z"
+    "updatedAt": "2026-10-27T22:07:22Z"
   },
   {
     "id": "awb_3184303c9e1059ff5d5d",
@@ -44109,22 +44042,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-08T00:36:54Z"
-  },
-  {
-    "id": "awb_183193d8aefe18130c6c",
-    "name": "Radio-Radio Toulouse",
-    "country": "FR",
-    "subdivision": "Midi-Pyrénées",
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radioradiotoulouse.net/",
-    "favicon": "https://static.wixstatic.com/media/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-21T19:44:18Z"
   },
   {
     "id": "awb_9b100c0fe8323743eb03",
@@ -44619,26 +44536,6 @@
     "updatedAt": "2026-01-15T03:52:28Z"
   },
   {
-    "id": "awb_3df303307c8e76db81f3",
-    "name": "RCF Côtes d'Armor",
-    "country": "FR",
-    "subdivision": "Bretagne",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "https://rcf.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:23:58Z"
-  },
-  {
     "id": "awb_f04b1177a09f52a43ea5",
     "name": "RCF en Berry",
     "country": "FR",
@@ -44657,26 +44554,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:15:05Z"
-  },
-  {
-    "id": "awb_ca3ec75233ed62f4ffa4",
-    "name": "RCF Haute-Loire",
-    "country": "FR",
-    "subdivision": "Auvergne-Rhône-Alpes",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "https://rcf.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:52:50Z"
   },
   {
     "id": "awb_c14d94995ed7e7eed74c",
@@ -44719,26 +44596,6 @@
     "updatedAt": "2026-01-15T06:45:24Z"
   },
   {
-    "id": "awb_7f45d525e3f4b89e1492",
-    "name": "RCF Jerico Moselle",
-    "country": "FR",
-    "subdivision": "Grand Est",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "https://rcf.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:50:59Z"
-  },
-  {
     "id": "awb_0abb576965e3a4d81cd9",
     "name": "RCF Limousin",
     "country": "FR",
@@ -44757,26 +44614,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:30:45Z"
-  },
-  {
-    "id": "awb_3fee1f19967c47a48e8b",
-    "name": "RCF Lyon",
-    "country": "FR",
-    "subdivision": "Auvergne-Rhône-Alpes",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "https://rcf.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:33:47Z"
   },
   {
     "id": "awb_0e95b472b2e10780cc14",
@@ -44875,46 +44712,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:42:26Z"
-  },
-  {
-    "id": "awb_732562e75dbf49edc8c6",
-    "name": "RCF Sarthe",
-    "country": "FR",
-    "subdivision": "Pays de la Loire",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "https://rcf.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:19:54Z"
-  },
-  {
-    "id": "awb_dcff2dd073a38ec0cb63",
-    "name": "RCF Sud Bretagne",
-    "country": "FR",
-    "subdivision": "Bretagne",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "https://rcf.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:34:17Z"
   },
   {
     "id": "awb_01477af3a044ebfe580d",
@@ -46034,25 +45831,6 @@
     "updatedAt": "2026-09-18T18:53:49Z"
   },
   {
-    "id": "awb_46a42cb5b42a7e8ad318",
-    "name": "Rire & Chansons Elie Semoun",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "rire et chansons",
-      "webradio"
-    ],
-    "homepage": "https://www.rireetchansons.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:54:22Z"
-  },
-  {
     "id": "awb_909efad96cbc5263295f",
     "name": "Rire & Chansons Florence Foresti",
     "country": "FR",
@@ -46444,7 +46222,7 @@
     "favicon": "https://fichiers.rjrradio.fr/logo/Fond%20blanc/RJR%202016%20carr%C3%A9%20sans%20marge.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-22T15:18:38Z"
+    "updatedAt": "2026-10-27T16:14:32Z"
   },
   {
     "id": "awb_b28184bdfe102a729a8c",
@@ -46962,24 +46740,8 @@
     "homepage": "https://www.rtl.fr/",
     "favicon": "https://duckduckgo.com/i/035a5e15d396c67a.png",
     "type": null,
-    "sourceCount": 23,
-    "updatedAt": "2026-01-15T08:44:42Z"
-  },
-  {
-    "id": "awb_e47e32eb145f85ad56b3",
-    "name": "RTL",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.rli.fr/",
-    "favicon": "https://cdn3.dan.com/assets/icons/touch-icon-iphone-retina-bdd5112764b4900705e85f7845ca32c42ae1bbefea7e6da068d8c85973fa199c.png",
-    "type": null,
     "sourceCount": 6,
-    "updatedAt": "2026-01-15T08:15:25Z"
+    "updatedAt": "2026-01-15T06:09:44Z"
   },
   {
     "id": "awb_e9104e1013797b85aba8",
@@ -47479,7 +47241,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-26T22:37:14Z"
+    "updatedAt": "2026-10-27T22:11:40Z"
   },
   {
     "id": "awb_27f177cc378d35086ddb",
@@ -48901,7 +48663,7 @@
       "talk"
     ],
     "homepage": "https://www.tbm06.fr/radio/",
-    "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
+    "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-20T17:58:29Z"
@@ -48989,6 +48751,48 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_259dd5f00799144fce6a",
+    "name": "Tendance Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "2000s",
+      "80s",
+      "90s",
+      "hits",
+      "today",
+      "top 40"
+    ],
+    "homepage": "https://tendanceradio.net/",
+    "favicon": "https://tendanceradio.net/images/Logo-Tendance.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T16:48:00Z"
+  },
+  {
+    "id": "awb_8a2447ea1f52373bd122",
+    "name": "Tendance Radio Lounge",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "lounge"
+    ],
+    "homepage": "https://tendanceradio.net/",
+    "favicon": "https://tendanceradio.net/images/Logo-T-Lounge.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T14:58:01Z"
   },
   {
     "id": "awb_193de4e71864b291ab2c",
@@ -50254,7 +50058,7 @@
     "favicon": "https://vicecity.fr/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-23T00:08:00Z"
+    "updatedAt": "2026-10-28T00:12:32Z"
   },
   {
     "id": "awb_e5ecac656bef647da481",
@@ -51227,6 +51031,20 @@
     "updatedAt": "2026-10-12T19:17:59Z"
   },
   {
+    "id": "awb_3b0cd925420ce05de9b6",
+    "name": "WFM, le fil musical du web",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://w-feel-muse.fr/",
+    "favicon": "https://www.radio.fr/175/wfmlefilmusicalduweb.jpeg?version=acb990ed56bf713a09e2f5f1f64830d26b45cccf",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T14:19:10Z"
+  },
+  {
     "id": "awb_b301ba62a1fe1a29d776",
     "name": "Wit FM",
     "country": "FR",
@@ -51430,6 +51248,38 @@
     "updatedAt": "2026-01-14T23:19:04Z"
   },
   {
+    "id": "awb_b357d3c6edd9c73fa668",
+    "name": "XEL MAXI",
+    "country": "FR",
+    "subdivision": "normandie",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.xelradio.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T04:26:00Z"
+  },
+  {
+    "id": "awb_b2f15faac01bbb8164f4",
+    "name": "XEL RADIO",
+    "country": "FR",
+    "subdivision": "normandie",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop music"
+    ],
+    "homepage": "https://www.xelradio.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T04:24:36Z"
+  },
+  {
     "id": "awb_230f3246135e38d748c6",
     "name": "Xiberoko botza",
     "country": "FR",
@@ -51617,7 +51467,7 @@
     "favicon": "https://i.imgur.com/cVC439t.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-26T23:44:32Z"
+    "updatedAt": "2026-10-28T01:09:20Z"
   },
   {
     "id": "awb_72b0c0b1ce1aa867247a",
@@ -51737,24 +51587,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:49:44Z"
-  },
-  {
-    "id": "awb_c6becc0722cb08a59ef8",
-    "name": "إذاعة القرآن الكريم",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_fa263ad57095ca322cc0",

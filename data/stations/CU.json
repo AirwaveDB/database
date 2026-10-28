@@ -44,7 +44,7 @@
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -291,28 +291,6 @@
     "updatedAt": "2026-03-15T21:10:24Z"
   },
   {
-    "id": "awb_5bc6970d15c648faa9d8",
-    "name": "LOVE FM: All you need is Love ♥ Música con Amor",
-    "country": "CU",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "amor sólo música romántica",
-      "pop clásico",
-      "sólo música romántica"
-    ],
-    "homepage": "https://lovefm.com.mx/",
-    "favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T14:17:00Z"
-  },
-  {
     "id": "awb_deba8174d6baba47d024",
     "name": "Neonradioxl",
     "country": "CU",
@@ -489,11 +467,18 @@
       "es"
     ],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "90.3 fm",
+      "icrt",
+      "la onda de la alegria",
+      "musica cubana",
+      "radio cubana",
+      "radio progreso"
+    ],
     "homepage": "https://www.radioprogreso.icrt.cu/",
-    "favicon": null,
+    "favicon": "https://static-media.streema.com/media/cache/49/ac/49ac79efdd21590658341bf4475a5721.png",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {

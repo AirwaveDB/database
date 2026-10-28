@@ -1,21 +1,5 @@
 [
   {
-    "id": "awb_e949bede8d02c17699bc",
-    "name": ". Abdulbasit Abdulsamad",
-    "country": "AE",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:06:00Z"
-  },
-  {
     "id": "awb_bfa953786807e976447d",
     "name": ".Quran Radio",
     "country": "AE",
@@ -140,6 +124,48 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:14:52Z"
+  },
+  {
+    "id": "awb_badd35f5f92eedbe0a46",
+    "name": "Al Arabiya 99 FM",
+    "country": "AE",
+    "subdivision": "Dubai",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "arabic pop",
+      "music"
+    ],
+    "homepage": "https://www.99fm.ae/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T13:57:23Z"
+  },
+  {
+    "id": "awb_456c24c12f379bd19a1b",
+    "name": "Al Khaleejiya 100.9 FM",
+    "country": "AE",
+    "subdivision": "Dubai",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "arabic pop",
+      "music"
+    ],
+    "homepage": "https://www.1009.ae/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T13:26:24Z"
   },
   {
     "id": "awb_3657a6bd702c28cabf99",

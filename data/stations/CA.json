@@ -467,24 +467,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_a2b62605d3d115b6dfcb",
-    "name": "##Radio Qur. Sa.",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_42ed8b920ac005841aca",
     "name": "#1 RdMix Love Songs",
     "country": "CA",
@@ -1698,22 +1680,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_b19fdc1fb6c7e22c8fa4",
-    "name": "Abdulbasit Abdulsamad",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:44:56Z"
-  },
-  {
     "id": "awb_9c4caf1b6e677a3d71c3",
     "name": "Absoluut FM",
     "country": "CA",
@@ -2152,7 +2118,7 @@
       "traditional"
     ],
     "homepage": "https://www.azstartv.com/home/About",
-    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.gKfahNAkDBbWH-x6okspwQHaEo%3Fpid%3DApi&f=1&ipt=b54ad8af054b0f3cdb5c2434108ced19e3153353bc39e8c49781eb26178dcd04&ipo=images",
+    "favicon": "https://duckduckgo.com/?q=azstar+tv+logo&t=iphone&ia=images&iax=images&iai=https%3A%2F%2Fwww.parsatv.com%2Findex_files%2Fchannels%2Fazstartv.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T15:44:22Z"
@@ -6042,7 +6008,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -6060,7 +6026,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://cfnj.net/",
+    "homepage": "http://www.cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -17831,6 +17797,31 @@
     "updatedAt": "2026-01-15T05:29:20Z"
   },
   {
+    "id": "awb_ec1b8d042b180165d1f6",
+    "name": "CKON 97.3 \"Akwesasne Mohawk Radio\" Akwesasne/Cornwall, Ontario",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "country",
+      "rock"
+    ],
+    "tags": [
+      "bingo",
+      "blues rock",
+      "country music",
+      "first nations"
+    ],
+    "homepage": "http://ckonfm.net/",
+    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wYycPsSQyP.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T01:50:01Z"
+  },
+  {
     "id": "awb_236afd71d7059a675075",
     "name": "CKOT-FM \"Easy 101.3\" Tillsonburg, ON",
     "country": "CA",
@@ -20213,7 +20204,7 @@
     "favicon": "https://stream.deadmoonradio.com/static/uploads/album_art.1765903062.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-22T13:41:54Z"
+    "updatedAt": "2026-10-27T13:49:39Z"
   },
   {
     "id": "awb_17fc77e0a4e7c2a5aff4",
@@ -20841,7 +20832,7 @@
     "favicon": "https://fullspectrumradio.com/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T16:06:18Z"
+    "updatedAt": "2026-10-27T16:43:49Z"
   },
   {
     "id": "awb_14704d2b6cddb6ffab8a",
@@ -20929,14 +20920,16 @@
     "name": "Global 1 FM Radio",
     "country": "CA",
     "subdivision": "Ontario",
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://www.global1fmradio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-27T04:28:48Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-27T10:38:55Z"
   },
   {
     "id": "awb_b2313ecfebb8b80fde91",
@@ -23292,6 +23285,28 @@
     "updatedAt": "2026-01-15T06:03:28Z"
   },
   {
+    "id": "awb_967d1eb630c9992d102f",
+    "name": "Mental Health Radio",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "mental health",
+      "music",
+      "talk"
+    ],
+    "homepage": "https://mentalhealthradio.ca/",
+    "favicon": "https://mentalhealthradio.ca/wp-content/uploads/2025/06/cropped-IMG_0863.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T17:17:22Z"
+  },
+  {
     "id": "awb_f0a8f5018251272232a1",
     "name": "Merry Christmas Radio (AAC)",
     "country": "CA",
@@ -25515,7 +25530,7 @@
   },
   {
     "id": "awb_299244679b78e413cb28",
-    "name": "Radio faro.net",
+    "name": "radio faro.net",
     "country": "CA",
     "subdivision": null,
     "languages": [],
@@ -25957,6 +25972,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:22:50Z"
+  },
+  {
+    "id": "awb_9c45082dcbc98e5adf17",
+    "name": "Radio-Canada Ici Première - Montréal",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://ici.radio-canada.ca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T20:33:21Z"
   },
   {
     "id": "awb_f0dddd9f54767a03280e",
@@ -27610,20 +27639,6 @@
     "updatedAt": "2026-01-15T07:52:50Z"
   },
   {
-    "id": "awb_6a635c96a47dadb23cc4",
-    "name": "Tens radio",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://kingdom.lifestyle/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-21T22:54:24Z"
-  },
-  {
     "id": "awb_44cb6f4a0eda52aa223b",
     "name": "Terry Callaghan's Real Oldies Channel",
     "country": "CA",
@@ -29103,9 +29118,9 @@
       "classical"
     ],
     "homepage": null,
-    "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {

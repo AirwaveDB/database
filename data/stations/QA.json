@@ -48,7 +48,7 @@
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -260,6 +260,51 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_e5fbaabfea2edefda1cc",
+    "name": "Qatar Radio",
+    "country": "QA",
+    "subdivision": "Doha",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://qatarradio.qa/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T14:08:14Z"
+  },
+  {
+    "id": "awb_006220cac9273992b2ba",
+    "name": "QBS Radio 97.5",
+    "country": "QA",
+    "subdivision": "Doha",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://qbsradio.qa/",
+    "favicon": "https://qbsradio.qa/assets/images/logomix1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T14:54:27Z"
   },
   {
     "id": "awb_2837746d05b2ac8eec18",

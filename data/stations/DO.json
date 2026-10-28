@@ -68,7 +68,7 @@
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -93,6 +93,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_861375885ea418cac855",
+    "name": "Alofoke FM 99.3 (antes Sonido Suave)",
+    "country": "DO",
+    "subdivision": "Santo Domingo",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin",
+      "talk"
+    ],
+    "tags": [
+      "reggaeton",
+      "talk",
+      "urban"
+    ],
+    "homepage": "https://www.alofoke.fm/",
+    "favicon": "https://cdn.onlineradiobox.com/img/fblogo/7/126797.v4.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:52:20Z"
   },
   {
     "id": "awb_aac2e1190783f5e601bd",
@@ -716,6 +739,29 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_17128c3ad1bf7a552bbd",
+    "name": "Estrella 90 FM",
+    "country": "DO",
+    "subdivision": "Santo Domingo",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "bachata",
+      "latin",
+      "merengue",
+      "tropical"
+    ],
+    "homepage": null,
+    "favicon": "https://cdn.onlineradiobox.com/img/fblogo/0/32810.v10.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:52:20Z"
+  },
+  {
     "id": "awb_7a085d7b4214f215ae38",
     "name": "Estrella 92.3 FM",
     "country": "DO",
@@ -808,7 +854,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://extasis895.com/",
-    "favicon": "https://i.imgur.com/nl57h4x.png",
+    "favicon": "https://www.instagram.com/extasis89.5?utm_source=qr&igsh=MTB4aG45Ym52a3U5aQ==",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-01-14T22:54:10Z"
@@ -946,6 +992,52 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_f64da6cdfe46e46cddd0",
+    "name": "Independencia FM 93.3",
+    "country": "DO",
+    "subdivision": "Santo Domingo",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "talk"
+    ],
+    "homepage": null,
+    "favicon": "https://cdn.onlineradiobox.com/img/fblogo/3/32953.v5.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:52:20Z"
+  },
+  {
+    "id": "awb_8416d5e97d60c9d753c2",
+    "name": "KV 94.7 FM",
+    "country": "DO",
+    "subdivision": "Santiago",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "bachata",
+      "latin",
+      "merengue",
+      "tropical"
+    ],
+    "homepage": null,
+    "favicon": "https://cdn.onlineradiobox.com/img/fblogo/6/78896.v8.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:52:20Z"
   },
   {
     "id": "awb_9d3409de0741b4bb6e6c",
@@ -1153,22 +1245,6 @@
     "updatedAt": "2026-01-30T14:41:26Z"
   },
   {
-    "id": "awb_027d527e14a22967e036",
-    "name": "LOVE FM: All you need is Love ♥ Clásicos de Amor",
-    "country": "DO",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://lovefm.com.mx/",
-    "favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-16T17:55:41Z"
-  },
-  {
     "id": "awb_0ddf10a3abc31af3f802",
     "name": "MC Anime Radio",
     "country": "DO",
@@ -1344,6 +1420,27 @@
     "updatedAt": "2026-01-15T06:20:33Z"
   },
   {
+    "id": "awb_0fbf2f1e5cf74eb4a51d",
+    "name": "Pura Vida FM",
+    "country": "DO",
+    "subdivision": "Santo Domingo",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "contemporary christian"
+    ],
+    "homepage": null,
+    "favicon": "https://cdn.onlineradiobox.com/img/fblogo/4/32474.v6.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:53:52Z"
+  },
+  {
     "id": "awb_04965fe672d7d0549ab2",
     "name": "Radio Amanecer",
     "country": "DO",
@@ -1362,6 +1459,27 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_527d12c334859e3ea87f",
+    "name": "Radio Arca de Salvación 95.3 FM",
+    "country": "DO",
+    "subdivision": "Puerto Plata",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "religious"
+    ],
+    "homepage": null,
+    "favicon": "https://cdn.onlineradiobox.com/img/fblogo/2/32362.v5.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:52:20Z"
   },
   {
     "id": "awb_4b0cfba4959523d1e6ce",
@@ -2129,5 +2247,27 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_2d1586b4b1da9d67c6a2",
+    "name": "Zol 106.5 FM",
+    "country": "DO",
+    "subdivision": "Santo Domingo",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://zolfm.com/",
+    "favicon": "https://cdn.onlineradiobox.com/img/fblogo/1/32371.v9.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:53:52Z"
   }
 ]

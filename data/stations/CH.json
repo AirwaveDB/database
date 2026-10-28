@@ -1,21 +1,5 @@
 [
   {
-    "id": "awb_582d4249c015a00bfcff",
-    "name": ". Abdulbasit Abdulsamad",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:56:44Z"
-  },
-  {
     "id": "awb_312d550cd5e6ad2688e4",
     "name": ". Al quran radio",
     "country": "CH",
@@ -28,9 +12,9 @@
       "classical"
     ],
     "homepage": null,
-    "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -58,7 +42,7 @@
     "favicon": "https://pbs.twimg.com/profile_images/301775983/dj_spock_400x400.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T19:13:46Z"
+    "updatedAt": "2026-10-27T21:53:17Z"
   },
   {
     "id": "awb_ab3ca56da6d8c8d7ce7b",
@@ -2030,7 +2014,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T20:54:37Z"
+    "updatedAt": "2026-10-27T21:42:09Z"
   },
   {
     "id": "awb_7b5b737718b2c45aa688",
@@ -2188,7 +2172,7 @@
     "favicon": "https://basspistol.com/siteicon.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-26T21:39:36Z"
+    "updatedAt": "2026-10-27T12:42:08Z"
   },
   {
     "id": "awb_f77356d4857e0699bf04",
@@ -5468,27 +5452,6 @@
     "updatedAt": "2026-01-15T05:28:02Z"
   },
   {
-    "id": "awb_82558d76d9f6f0771a7f",
-    "name": "Radio Henri Dès",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "kids"
-    ],
-    "tags": [
-      "children",
-      "no ads"
-    ],
-    "homepage": "http://www.radio-henrides.net/",
-    "favicon": "http://www.radio-henrides.net/henri.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-25T07:35:28Z"
-  },
-  {
     "id": "awb_b7217e27c1f4b9371520",
     "name": "Radio HOF—BAR",
     "country": "CH",
@@ -5997,7 +5960,7 @@
     "favicon": "https://static.wixstatic.com/media/d168f9_11af99f87f4448daaf0e1bda1d1a1169~mv2.png/v1/fill/w_180,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20Radio%20S.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-27T00:40:01Z"
+    "updatedAt": "2026-10-27T22:17:10Z"
   },
   {
     "id": "awb_cf50d2d3d4317f01aae0",
@@ -8777,6 +8740,22 @@
     "updatedAt": "2026-01-14T23:49:40Z"
   },
   {
+    "id": "awb_c4704b9791e9089f65ac",
+    "name": "SRF1 Regionaljournal Basel Baselland",
+    "country": "CH",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.srf.ch/audio/regionaljournal-basel-baselland",
+    "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T12:42:08Z"
+  },
+  {
     "id": "awb_eb79a4346c11d52179fd",
     "name": "SRF1 Regionaljournal Zürich-Schaffhausen",
     "country": "CH",
@@ -8789,6 +8768,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_caf588343f0246cee01d",
+    "name": "SRF3",
+    "country": "CH",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.srf.ch/radio-srf-3",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T17:12:53Z"
   },
   {
     "id": "awb_1bdfbb77daeedd105b92",

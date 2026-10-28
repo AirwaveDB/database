@@ -1,21 +1,5 @@
 [
   {
-    "id": "awb_9c09876003fd3d811c67",
-    "name": "Abdulbasit Abdulsamad",
-    "country": "LK",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:27:13Z"
-  },
-  {
     "id": "awb_fa0a2a3f2fc701d385f3",
     "name": "bestcoast.fm",
     "country": "LK",
@@ -539,24 +523,6 @@
     "updatedAt": "2026-02-01T14:50:16Z"
   },
   {
-    "id": "awb_828746bed2cf1626c574",
-    "name": "Pirai FM",
-    "country": "LK",
-    "subdivision": "South Province",
-    "languages": [
-      "ta"
-    ],
-    "categories": [],
-    "tags": [
-      "slbc mazhayaga fm"
-    ],
-    "homepage": "https://www.slbc.lk/world-heritage-sites/pirei-fm",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-21T09:05:01Z"
-  },
-  {
     "id": "awb_e959f1d023f27dc447fe",
     "name": "Radio Plus Hitz",
     "country": "LK",
@@ -714,6 +680,25 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_62559fdda5b4a037b1e5",
+    "name": "Shaa FM",
+    "country": "LK",
+    "subdivision": null,
+    "languages": [
+      "si"
+    ],
+    "categories": [],
+    "tags": [
+      "music",
+      "sinhala"
+    ],
+    "homepage": "https://www.shaafm.lk/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T13:38:00Z"
   },
   {
     "id": "awb_28198f2cde4cd5289627",

@@ -231,22 +231,6 @@
     "updatedAt": "2026-04-01T13:31:54Z"
   },
   {
-    "id": "awb_7d47d0fb36e049dabe6d",
-    "name": "Abdulbasit Abdulsamad",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:08:30Z"
-  },
-  {
     "id": "awb_a44a17b5e36dee6ef2a0",
     "name": "Accent Radio",
     "country": "BE",
@@ -1146,7 +1130,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T09:05:11Z"
+    "updatedAt": "2026-10-27T09:35:23Z"
   },
   {
     "id": "awb_de2b368b2358d1635b4c",
@@ -2084,6 +2068,29 @@
     "updatedAt": "2026-06-08T13:43:51Z"
   },
   {
+    "id": "awb_f3ba545b26a6770e3b1b",
+    "name": "Jovani Radio",
+    "country": "BE",
+    "subdivision": "West-Vlaanderen",
+    "languages": [
+      "en",
+      "nl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "alternative",
+      "pop"
+    ],
+    "homepage": "https://sites.google.com/view/jovaniradio/homepage",
+    "favicon": "https://drive.google.com/file/d/1AuB5BMO95ooL-elXBAfxitAnhanppDhl/view?usp=sharing",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-27T18:20:35Z"
+  },
+  {
     "id": "awb_ab530bcc58ecf6779320",
     "name": "K I F",
     "country": "BE",
@@ -2173,7 +2180,7 @@
     "favicon": "https://kioskradio.com/favicon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T19:31:51Z"
+    "updatedAt": "2026-10-27T21:34:38Z"
   },
   {
     "id": "awb_7c8746132dce40cfe955",
@@ -2253,7 +2260,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T22:45:14Z"
+    "updatedAt": "2026-10-27T23:09:44Z"
   },
   {
     "id": "awb_e9b95c56fb49244683e6",
@@ -2274,7 +2281,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/klara-continuo/v2/color.svg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-23T01:02:09Z"
+    "updatedAt": "2026-10-28T01:29:01Z"
   },
   {
     "id": "awb_74c6297f95c86b70f72e",
@@ -5719,6 +5726,20 @@
     "updatedAt": "2026-05-01T10:46:16Z"
   },
   {
+    "id": "awb_8d1d40ad0ac0434cda32",
+    "name": "Radio Studio 22 Gullegem, be",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.luister22.be/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-23T22:27:30Z"
+  },
+  {
     "id": "awb_729e501c454597497e1c",
     "name": "Radio Sud",
     "country": "BE",
@@ -6126,26 +6147,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:18:44Z"
-  },
-  {
-    "id": "awb_e43f1d70d7c52da7f08e",
-    "name": "RCF Liège",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "https://rcf.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:50:53Z"
   },
   {
     "id": "awb_255ab0aa55ac4c816f44",
@@ -7154,7 +7155,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T14:12:56Z"
+    "updatedAt": "2026-10-27T14:22:55Z"
   },
   {
     "id": "awb_a2f67dcdaa68fae6d5dd",
@@ -8409,7 +8410,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio-1-classics/v1/color.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T10:11:03Z"
+    "updatedAt": "2026-10-27T10:36:46Z"
   },
   {
     "id": "awb_798bd5b5d51be0b21548",
@@ -8984,7 +8985,7 @@
     "favicon": "https://zoe.radio/zoeradio/images/logo-vierkant-512.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-26T23:30:04Z"
+    "updatedAt": "2026-10-27T13:45:17Z"
   },
   {
     "id": "awb_f3125b1ad09615ee5d45",

@@ -1,19 +1,5 @@
 [
   {
-    "id": "awb_0a17bd4ae41ed1e7f029",
-    "name": "011 Radio",
-    "country": "ZA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://famcast.co.za/home/stations/011-radio/shows/",
-    "favicon": "https://eu2.contabostorage.com/b94f201d35554c5283f96247e0e97a2c:famcast-storage/011Radio/011-radio.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-27T15:55:07Z"
-  },
-  {
     "id": "awb_a88754c389c94f7b7d24",
     "name": "5FM",
     "country": "ZA",
@@ -128,22 +114,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:16:50Z"
-  },
-  {
-    "id": "awb_c99d55e3368eff7952e4",
-    "name": "Abdulbasit Abdulsamad",
-    "country": "ZA",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:25:41Z"
   },
   {
     "id": "awb_4392e2b48d02726b6479",
@@ -1745,6 +1715,27 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_043441f5d39a1cec66fd",
+    "name": "Lotus FM",
+    "country": "ZA",
+    "subdivision": "KwaZulu-Natal",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "talk"
+    ],
+    "homepage": "https://www.lotusfm.co.za/lotusfm/",
+    "favicon": "https://www.lotusfm.co.za/lotusfm/wp-content/uploads/2025/10/cropped-LOTUS_FM_50-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T12:42:08Z"
+  },
+  {
     "id": "awb_16a4d7e388d393017267",
     "name": "Luister FM",
     "country": "ZA",
@@ -3130,6 +3121,29 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_2988ebadf57dc9858bb0",
+    "name": "Umhlobo Wenene FM",
+    "country": "ZA",
+    "subdivision": "Eastern Cape",
+    "languages": [
+      "xh"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.umhlobowenenefm.co.za/umhlobowenenefm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T12:34:09Z"
   },
   {
     "id": "awb_734961d388147e1689ac",

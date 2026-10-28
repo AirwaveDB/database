@@ -12,7 +12,7 @@
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1982,22 +1982,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_5781d05ae75ef52248e7",
-    "name": "Radio Perec FM",
-    "country": "UA",
-    "subdivision": "Kyiv",
-    "languages": [
-      "uk"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://perec.fm/",
-    "favicon": "https://perec.fm/favicon.ico",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-01T18:51:39Z"
   },
   {
     "id": "awb_7b4aa2b4b529e9af217f",
@@ -4172,15 +4156,12 @@
     "languages": [],
     "categories": [],
     "tags": [
-      "128 kbit/s",
-      "https",
-      "mp3",
       "music"
     ],
     "homepage": "https://perec.fm/",
-    "favicon": "https://perec.fm/wp-content/themes/perecfm/img/logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -4226,6 +4207,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_2342f2bb95a93139b211",
+    "name": "Просто Radi.O (Київ)",
+    "country": "UA",
+    "subdivision": null,
+    "languages": [
+      "uk"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "information",
+      "local news",
+      "music",
+      "news",
+      "other",
+      "pop"
+    ],
+    "homepage": "https://www.instagram.com/prosto102.5?igsh=MTZ3d2R6ZmluMzdicg==",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:20:08Z"
   },
   {
     "id": "awb_bb2ba49e6e660871b81a",

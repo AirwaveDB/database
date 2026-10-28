@@ -1838,7 +1838,7 @@
     "id": "awb_b75cfc000841a41fb8db",
     "name": "9.ΕΡΑ sports",
     "country": "GR",
-    "subdivision": "Attica, Athens",
+    "subdivision": "Athens",
     "languages": [
       "el"
     ],
@@ -2154,22 +2154,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:25:41Z"
-  },
-  {
-    "id": "awb_59abc8a670765e900e90",
-    "name": "Abdulbasit Abdulsamad",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:45:48Z"
   },
   {
     "id": "awb_7c4492eb557800d1174e",
@@ -2615,25 +2599,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:17:35Z"
-  },
-  {
-    "id": "awb_eb6349b1f1ff5d79bee9",
-    "name": "Alpha & Omega 107.3",
-    "country": "GR",
-    "subdivision": "Korinthos",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "evangelical",
-      "religion"
-    ],
-    "homepage": "http://www.alfaomegaradio.gr/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/5b7231c5-7422-407e-8e51-87bb65799c10.gif",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:30:19Z"
   },
   {
     "id": "awb_0dead7df75d5ab484d99",
@@ -3282,6 +3247,27 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_0fcab434607ebd1f4f3e",
+    "name": "Aquarius FM 105.5",
+    "country": "GR",
+    "subdivision": "Elis",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek",
+      "greek hits",
+      "greek music",
+      "greek pop"
+    ],
+    "homepage": "https://aquariusfm.gr/",
+    "favicon": "https://aquariusfm.gr/wp-content/uploads/2022/02/LOGO1-300x142.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-27T23:43:12Z"
   },
   {
     "id": "awb_246131a2658d4efdfd3e",
@@ -11777,7 +11763,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-27T07:13:39Z"
+    "updatedAt": "2026-10-28T01:30:58Z"
   },
   {
     "id": "awb_6238359a928c7aa2b0fe",
@@ -11920,29 +11906,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-03T07:50:35Z"
-  },
-  {
-    "id": "awb_5bad100c7047da681d15",
-    "name": "Kerkyra 100.1",
-    "country": "GR",
-    "subdivision": "Corfu",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "greek music",
-      "news",
-      "news talk"
-    ],
-    "homepage": "https://www.startmediacorfu.gr/",
-    "favicon": "https://www.startmediacorfu.gr/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:50:24Z"
   },
   {
     "id": "awb_7bf262513bd745cb0fd5",
@@ -14594,7 +14557,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-26T22:15:35Z"
+    "updatedAt": "2026-10-27T19:40:41Z"
   },
   {
     "id": "awb_f6721fc2fc91afd0e9b8",
@@ -15816,6 +15779,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:08:23Z"
+  },
+  {
+    "id": "awb_e3f561c53790925af9c5",
+    "name": "NET 101.9",
+    "country": "GR",
+    "subdivision": "Lamia",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "greek music",
+      "news talk"
+    ],
+    "homepage": "https://lamianet.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/36135a58-5b29-430e-aa30-b42669f1cbfe.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T18:05:35Z"
   },
   {
     "id": "awb_6807cc31417326b405c6",
@@ -23258,7 +23243,7 @@
     "favicon": "https://meraklis.ddnsfree.com/logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T23:21:09Z"
+    "updatedAt": "2026-10-27T23:55:05Z"
   },
   {
     "id": "awb_346b3683b2aedf080370",
@@ -23586,7 +23571,7 @@
     "favicon": "https://rebetis.duckdns.org/rebetis.png",
     "type": null,
     "sourceCount": 7,
-    "updatedAt": "2026-10-27T07:17:56Z"
+    "updatedAt": "2026-10-27T23:46:22Z"
   },
   {
     "id": "awb_d7a84c80fd5892c5a153",
@@ -27108,7 +27093,7 @@
     "favicon": "https://studio19.gr/images/Studio19_logo2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-22T12:23:05Z"
+    "updatedAt": "2026-10-27T13:03:52Z"
   },
   {
     "id": "awb_5576fa95e6cc10a65f36",
@@ -30653,6 +30638,22 @@
     "updatedAt": "2026-01-15T08:47:21Z"
   },
   {
+    "id": "awb_bb20427681adbd2abb58",
+    "name": "Γλέντι 95",
+    "country": "GR",
+    "subdivision": "Lamia",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "greek traditional"
+    ],
+    "homepage": "https://sh.onweb.gr/cp/widgets/player/?p=8554&type=rain",
+    "favicon": "https://resources.live24.gr/resources/images/stations/facac88c-9803-43e9-9381-86ac8a873b98.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T17:35:17Z"
+  },
+  {
     "id": "awb_21f257e1d618cebc5400",
     "name": "Γλέντι FM 101.1",
     "country": "GR",
@@ -33603,30 +33604,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-03T16:54:04Z"
-  },
-  {
-    "id": "awb_b101a0c3028d6a2e1876",
-    "name": "Κέρκυρα",
-    "country": "GR",
-    "subdivision": "Corfu",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "news",
-      "pop",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "pop",
-      "talk"
-    ],
-    "homepage": "https://www.startmediacorfu.gr/",
-    "favicon": "https://www.startmediacorfu.gr/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:43:38Z"
   },
   {
     "id": "awb_9ec61b84660fc09f9a94",
@@ -36710,6 +36687,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-28T07:34:33Z"
+  },
+  {
+    "id": "awb_27e99fd8e98bfbef4682",
+    "name": "ΡΑΔΙΟ ΑΡΧΑΓΓΕΛΟΣ",
+    "country": "GR",
+    "subdivision": "Rodos",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radio941.gr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T14:55:51Z"
   },
   {
     "id": "awb_973af2313d95b4a3c0d4",

@@ -34,7 +34,7 @@
     "homepage": "https://mp3islam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -235,6 +235,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-16T08:32:44Z"
+  },
+  {
+    "id": "awb_e70b11359600d5231d26",
+    "name": "EASY RADIO CAMEROUN",
+    "country": "CM",
+    "subdivision": "Littoral",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://easyradiokribi.com/",
+    "favicon": "https://www.image-heberg.fr/files/17930342603439706463.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T10:07:44Z"
   },
   {
     "id": "awb_f479b0e317f43f056e46",
@@ -704,6 +718,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-16T08:21:30Z"
+  },
+  {
+    "id": "awb_12da5a5d504664b9773d",
+    "name": "Radio Equinoxe",
+    "country": "CM",
+    "subdivision": "Douala",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "music",
+      "news"
+    ],
+    "homepage": "https://radioequinoxe.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T16:48:00Z"
   },
   {
     "id": "awb_26a928be1f2f83795723",

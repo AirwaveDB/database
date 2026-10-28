@@ -14,22 +14,6 @@
     "updatedAt": "2026-03-08T03:10:48Z"
   },
   {
-    "id": "awb_99d3dd68180fb2dcd2eb",
-    "name": "Abdulbasit Abdulsamad",
-    "country": "EC",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:41:36Z"
-  },
-  {
     "id": "awb_592da2750f224f3a2795",
     "name": "Alfa Radio98.5FM",
     "country": "EC",
@@ -889,9 +873,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.la99radio.com/",
-    "favicon": "https://www.la99radio.com/wp-content/uploads/2023/02/La99Radio180x180.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -911,22 +895,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_76d30b528a29e5a35ca1",
-    "name": "LOVE FM: All you need is Love ♥ Clásicos con Amor",
-    "country": "EC",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://lovefm.com.mx/",
-    "favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-20T00:16:17Z"
   },
   {
     "id": "awb_2a996c54ef2668419a90",
@@ -2801,6 +2769,24 @@
     "updatedAt": "2026-01-15T04:18:44Z"
   },
   {
+    "id": "awb_5873627757378aa6732d",
+    "name": "RCS. Noticias",
+    "country": "EC",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "noticias nacionales e internacionales"
+    ],
+    "homepage": "https://wwwradiocadenastereo.blogspot.com/",
+    "favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
     "id": "awb_255231ffd38c3f071716",
     "name": "RCS. Orellana Stereo",
     "country": "EC",
@@ -2956,6 +2942,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_d026fb792f0e39a8217e",
+    "name": "Sonorama",
+    "country": "EC",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "music"
+    ],
+    "homepage": "https://www.sonorama.com.ec/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T16:43:49Z"
   },
   {
     "id": "awb_d9950d24bcfa9bbb4616",

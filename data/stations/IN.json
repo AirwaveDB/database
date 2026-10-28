@@ -281,6 +281,29 @@
     "updatedAt": "2026-01-15T07:08:10Z"
   },
   {
+    "id": "awb_0339a409dcb39877ffaf",
+    "name": "93.5 jamshedpur",
+    "country": "IN",
+    "subdivision": "Jamshedpur , Jharkhand",
+    "languages": [
+      "en",
+      "hi"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "high energy",
+      "rock",
+      "slow"
+    ],
+    "homepage": "https://www.redfmindia.in/jamshedpur/home",
+    "favicon": "https://www.redfmindia.in/jamshedpur/home",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T18:58:57Z"
+  },
+  {
     "id": "awb_c14adb62acfd76ccfd6c",
     "name": "986malayalamradio",
     "country": "IN",
@@ -499,22 +522,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:32:40Z"
-  },
-  {
-    "id": "awb_b59fb31de845049b9f70",
-    "name": "Abdulbasit Abdulsamad",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:22:40Z"
   },
   {
     "id": "awb_03549bdeb47bd5708552",
@@ -1297,23 +1304,6 @@
     "updatedAt": "2026-01-15T08:29:20Z"
   },
   {
-    "id": "awb_92237edd159205939a5e",
-    "name": "AIR Nanded",
-    "country": "IN",
-    "subdivision": "Maharashtra",
-    "languages": [
-      "hi",
-      "mr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://prasarbharati.gov.in/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:38:46Z"
-  },
-  {
     "id": "awb_812c3cc2721024752912",
     "name": "AIR News 24/7",
     "country": "IN",
@@ -2011,6 +2001,29 @@
     "updatedAt": "2026-08-22T00:42:34Z"
   },
   {
+    "id": "awb_26efc90569461bd01447",
+    "name": "Akashvani Visakhapatnam",
+    "country": "IN",
+    "subdivision": "Andhra Pradesh",
+    "languages": [
+      "te"
+    ],
+    "categories": [
+      "news",
+      "public",
+      "talk"
+    ],
+    "tags": [
+      "news talk",
+      "public radio"
+    ],
+    "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
+    "favicon": null,
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-08-22T02:30:20Z"
+  },
+  {
     "id": "awb_5d15e8e1066773220faa",
     "name": "Akashvani Warangal",
     "country": "IN",
@@ -2446,20 +2459,6 @@
     "updatedAt": "2026-01-15T03:49:38Z"
   },
   {
-    "id": "awb_aeeac20515e497c8222f",
-    "name": "Anime Tracks",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.animetracks.com/",
-    "favicon": "https://www.animetracks.com/wp-content/themes/anime/images/Shape.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-07T13:27:20Z"
-  },
-  {
     "id": "awb_2fe8fda9e3cfa39b8f32",
     "name": "Anirudh Radio",
     "country": "IN",
@@ -2594,14 +2593,11 @@
       "ta"
     ],
     "categories": [],
-    "tags": [
-      "tamil cinema music",
-      "tamil music"
-    ],
+    "tags": [],
     "homepage": "https://southradios.com/",
-    "favicon": "https://southradios.com/assets/images/logo/logo90.webp",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4507,6 +4503,20 @@
     "updatedAt": "2026-01-15T06:40:25Z"
   },
   {
+    "id": "awb_3f38b6a0be50dc37087e",
+    "name": "CNBC-TV18",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.cnbctv18.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-28T02:59:38Z"
+  },
+  {
     "id": "awb_d2bfd6cc310817546ce2",
     "name": "Community Radio Benziger",
     "country": "IN",
@@ -5000,6 +5010,20 @@
     "updatedAt": "2026-01-15T06:36:23Z"
   },
   {
+    "id": "awb_1a0f9d0939a6284334c7",
+    "name": "ET Now",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.etnownews.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T03:00:57Z"
+  },
+  {
     "id": "awb_16e59cd6dbcf10ff49b7",
     "name": "etrradio",
     "country": "IN",
@@ -5368,6 +5392,28 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-08-22T07:09:55Z"
+  },
+  {
+    "id": "awb_11e8848f96ea4d1a88b8",
+    "name": "FM Simhapuri Nellore",
+    "country": "IN",
+    "subdivision": "Andhra Pradesh",
+    "languages": [
+      "te"
+    ],
+    "categories": [
+      "public"
+    ],
+    "tags": [
+      "fm rainbow",
+      "music",
+      "public radio"
+    ],
+    "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
+    "favicon": null,
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-08-22T01:24:12Z"
   },
   {
     "id": "awb_ce2be44c46e8eec60dcb",
@@ -5914,22 +5960,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_ca278b15a22cdefd7ad6",
-    "name": "gpsp",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://gupshupradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_518c4d8325244b5bab31",
     "name": "GunjanRadio",
     "country": "IN",
@@ -5946,38 +5976,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_9359f80d8add45b0f85b",
-    "name": "GUP SHUP",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [
-      "as"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://gupshupradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:34:00Z"
-  },
-  {
-    "id": "awb_b7f7fd96fdc851fb938b",
-    "name": "Gupshup Radio",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://gupshupradio.com/",
-    "favicon": "https://gupshupradio.com/wp-content/uploads/2021/11/gupshuplogo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_e86ef8d7058567a41d28",
@@ -7132,26 +7130,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_4792de8c30db81940177",
-    "name": "JAVA HITS",
-    "country": "IN",
-    "subdivision": "Uttar Pradesh",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "bollywood hits",
-      "bollywood music",
-      "hindi songs"
-    ],
-    "homepage": "http://javahits.duckdns.org/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T10:37:33Z"
   },
   {
     "id": "awb_4b97de864b27906b9ac1",
@@ -9371,6 +9349,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_09c7bc673ba91b34d1ad",
+    "name": "NDTV Profit",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.ndtvprofit.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T02:56:57Z"
   },
   {
     "id": "awb_2e8769b32e47df9f3e1d",
@@ -13207,7 +13199,7 @@
     "homepage": "https://funasia.streamguys1.com/live9",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -14897,7 +14889,7 @@
     "id": "awb_535bc28f8985a73d24e5",
     "name": "Thandora FM",
     "country": "IN",
-    "subdivision": "Tamilnadu",
+    "subdivision": "Tamil Nadu",
     "languages": [
       "ta"
     ],

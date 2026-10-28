@@ -14,22 +14,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_c9551c8348e11d758070",
-    "name": "Abdulbasit Abdulsamad",
-    "country": "MY",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mp3islam.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:48:15Z"
-  },
-  {
     "id": "awb_a45a7b4cc817a73d178d",
     "name": "AFO Radio Chinese",
     "country": "MY",
@@ -182,21 +166,46 @@
     "id": "awb_c8ac33dd3aaaa4657b25",
     "name": "BFM 89.9",
     "country": "MY",
-    "subdivision": null,
+    "subdivision": "Selangor",
     "languages": [
       "en"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
-      "news"
+      "business news",
+      "news talk"
+    ],
+    "homepage": "https://www.bfm.my/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-28T04:15:23Z"
+  },
+  {
+    "id": "awb_af12947b80699b458292",
+    "name": "BFM 89.9 Malaysia",
+    "country": "MY",
+    "subdivision": "Selangor",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "business news",
+      "business programs",
+      "news talk"
     ],
     "homepage": "https://www.bfm.my/",
     "favicon": "https://www.bfm.my/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-23"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T04:40:53Z"
   },
   {
     "id": "awb_1945e14dd61bad83cdd8",
@@ -358,20 +367,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_ca6c51dfe12f9de7d562",
-    "name": "era sarawak",
-    "country": "MY",
-    "subdivision": "sarawak",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://audio1.syok.my/amp-era-kch",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-19T10:38:41Z"
   },
   {
     "id": "awb_adba2a0427a15defd5f9",
@@ -542,22 +537,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-17T05:33:59Z"
-  },
-  {
-    "id": "awb_aaa05afd72f61fbb217e",
-    "name": "ILA FM",
-    "country": "MY",
-    "subdivision": null,
-    "languages": [
-      "ms"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://ilafm.blogspot.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkBlRKXTqKKyA-0V9Qcaw829xznVjBujAww&usqp=CAU",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:36:02Z"
   },
   {
     "id": "awb_605074a6b74da5308a09",
@@ -798,22 +777,26 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_3782300a8f75c65b12e9",
-    "name": "Melody FM Malaysia",
+    "id": "awb_1f6b231cf7cdd2be5330",
+    "name": "Melody FM",
     "country": "MY",
-    "subdivision": null,
-    "languages": [],
+    "subdivision": "Kuala Lumpur",
+    "languages": [
+      "zh"
+    ],
     "categories": [
-      "classical"
+      "pop"
     ],
     "tags": [
-      "classical"
+      "chinese",
+      "music",
+      "pop"
     ],
-    "homepage": "https://melody.syok.my/",
-    "favicon": "https://media2.fishtank.my/app_themes/melody/ico/apple-icon-120x120.png",
+    "homepage": "https://melody.my/",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
+    "updatedAt": "2026-10-27T15:08:35Z"
   },
   {
     "id": "awb_7f2cb568d6beafcbed33",
@@ -877,6 +860,28 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T04:16:45Z"
+  },
+  {
+    "id": "awb_d5b17998857a9db2a4c9",
+    "name": "MY FM",
+    "country": "MY",
+    "subdivision": "Kuala Lumpur",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "chinese",
+      "music",
+      "pop"
+    ],
+    "homepage": "https://my.com.my/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T16:12:17Z"
   },
   {
     "id": "awb_e3f0504721f14f2a33b4",
@@ -1318,43 +1323,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_026d447d4c47ce41c948",
-    "name": "THR Gegar",
-    "country": "MY",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "ms"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://gegar.syok.my/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-06T01:37:28Z"
-  },
-  {
-    "id": "awb_40f195ca65258e200869",
-    "name": "THR Gegar Pilihan #1 Pantai Timur",
-    "country": "MY",
-    "subdivision": "Kelantan",
-    "languages": [
-      "ms"
-    ],
-    "categories": [],
-    "tags": [
-      "#1 pilihan pantai timur",
-      "entertaining segments",
-      "mix genres"
-    ],
-    "homepage": "https://gegar.syok.my/",
-    "favicon": "https://cdn-profiles.tunein.com/s3129/images/logod.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:04:46Z"
   },
   {
     "id": "awb_d7ad8aa3b41283d2d64d",
