@@ -12244,6 +12244,20 @@
     "updatedAt": "2026-05-20T05:38:58Z"
   },
   {
+    "id": "awb_0cca48e20830392d8ab8",
+    "name": "EB IT Radio",
+    "country": "GB",
+    "subdivision": "Lincolnshire",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://eb-it.uk/radio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T14:57:15Z"
+  },
+  {
     "id": "awb_a238ed10f016194ee60a",
     "name": "Edge 1",
     "country": "GB",
@@ -23030,6 +23044,34 @@
     "updatedAt": "2026-06-14T13:54:36Z"
   },
   {
+    "id": "awb_cb9677699503bd86e584",
+    "name": "MPB Radio 1 DJ Sets",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://mpbradio1.com/",
+    "favicon": "https://mpbradio1.com/img/480/channels/pl6PED6PK46OZiKd1tG22tZKzE4Ottg9Qgv6xycb.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T11:44:39Z"
+  },
+  {
+    "id": "awb_3b16da62051d4ff24868",
+    "name": "MPB Radio 1 Eurodance",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://mpbradio1.com/",
+    "favicon": "https://mpbradio1.com/img/480/channels/cOxBejblmBTHcA6y4xLZxoop0XWgwD18MEMY0LIz.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T11:43:21Z"
+  },
+  {
     "id": "awb_5ccf9977d5b2f8c7b127",
     "name": "Music Box Radio",
     "country": "GB",
@@ -26174,7 +26216,7 @@
       "praise",
       "worship"
     ],
-    "homepage": "https://www.premier.plus/stations/premier-peace",
+    "homepage": "https://www.premier.plus/stations/premier-praise",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -32870,7 +32912,7 @@
     "id": "awb_0d84734a9ee1e4dddcf0",
     "name": "Soul Rhythms Radio UK",
     "country": "GB",
-    "subdivision": "Kent",
+    "subdivision": "London, England",
     "languages": [
       "en"
     ],
@@ -32913,7 +32955,7 @@
       "soul",
       "soul music"
     ],
-    "homepage": "https://soulrhythmsradio.com/",
+    "homepage": "https://soulrhythmsradio.com/home/",
     "favicon": "https://soulrhythmsradio.com/wp-content/uploads/2023/12/SRR-LOGOTHIS_ONE.jpg",
     "type": null,
     "sourceCount": 6,
@@ -34084,34 +34126,16 @@
       "en"
     ],
     "categories": [
-      "sports"
+      "news"
     ],
     "tags": [
-      "sports"
+      "news"
     ],
     "homepage": "https://talksport.com/",
-    "favicon": null,
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAcdmwRcs4FcWk_OQqxq4EyZH5YA7ixM2dvQ&usqp=CAU",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_d95642339e53ed07a233",
-    "name": "talkSPORT",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": null,
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAcdmwRcs4FcWk_OQqxq4EyZH5YA7ixM2dvQ&usqp=CAU",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_8c2039a316c0534ae603",
@@ -35116,13 +35140,18 @@
     "country": "GB",
     "subdivision": "North Yorkshire",
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "local news",
+      "music"
+    ],
     "homepage": "https://www.thisisthecoast.co.uk/",
     "favicon": "https://mmo.aiircdn.com/428/6192188de6d51.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-28T10:14:26Z"
   },
   {
     "id": "awb_4447dba4d6e9f5dda83f",
@@ -37568,7 +37597,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

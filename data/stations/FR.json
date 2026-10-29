@@ -50,24 +50,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_cea4a151194ccb193941",
-    "name": ".. مختصر التفسير",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:44Z"
-  },
-  {
     "id": "awb_be69ad39caa4a246623d",
     "name": "..87,5!. Nantes",
     "country": "FR",
@@ -98,24 +80,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_0634dc76bf16e25176d1",
-    "name": ".mohammed ayyub",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:44Z"
   },
   {
     "id": "awb_571d1ac056fcda1f432f",
@@ -4232,6 +4196,29 @@
     "updatedAt": "2026-01-15T05:01:43Z"
   },
   {
+    "id": "awb_3d11b44028d54e37df33",
+    "name": "AtraxRadio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "80s",
+      "90s",
+      "oldies",
+      "vintage"
+    ],
+    "homepage": "https://atraxradio.fr/",
+    "favicon": "https://images.tuneinhub.com/thumbnail/47625/0dfa51703696bb52607f1e92f82a9654",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T07:22:27Z"
+  },
+  {
     "id": "awb_925faccc283336ffb425",
     "name": "Attitude",
     "country": "FR",
@@ -5048,7 +5035,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox Radio",
+    "name": "Boombox radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -5344,7 +5331,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao Radio",
+    "name": "Cacao-Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -6681,25 +6668,6 @@
     "type": "internet",
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:50:49Z"
-  },
-  {
-    "id": "awb_4d9a987ac9117702c4f1",
-    "name": "Chérie FM Cultes Etes 2000",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "cherie fm",
-      "webradio"
-    ],
-    "homepage": "https://www.cheriefm.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:49:50Z"
   },
   {
     "id": "awb_4ef724907e4320566331",
@@ -9660,7 +9628,7 @@
     "id": "awb_7e7569648104bc027057",
     "name": "DIGITAL2RADIO",
     "country": "FR",
-    "subdivision": "Normandy",
+    "subdivision": "Normandie",
     "languages": [],
     "categories": [
       "oldies",
@@ -9691,7 +9659,7 @@
     "id": "awb_d11758ec03ebfb7bcf83",
     "name": "Direct FM",
     "country": "FR",
-    "subdivision": "Grand Est",
+    "subdivision": null,
     "languages": [
       "fr"
     ],
@@ -9700,8 +9668,8 @@
     "homepage": "http://www.directfm.fr/",
     "favicon": "https://bocir-prod-bucket.s3.amazonaws.com/radios/directfm/images/favicon.x-icon",
     "type": null,
-    "sourceCount": 12,
-    "updatedAt": "2026-01-15T08:29:20Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:39:08Z"
   },
   {
     "id": "awb_10fc909fe262283bd2da",
@@ -27916,20 +27884,23 @@
     "id": "awb_8273334c7a91505cea48",
     "name": "Nostalgie Génération 90",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "Paris",
     "languages": [
       "fr"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "nostalgie",
+      "pop dance",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/",
-    "favicon": null,
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-generation-90",
+    "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/nosta90.jpeg",
     "type": "internet",
-    "sourceCount": 2,
-    "updatedAt": "2026-09-18T18:53:20Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-28T16:34:43Z"
   },
   {
     "id": "awb_10600aa8531a97cb5a21",
@@ -28889,20 +28860,21 @@
     "id": "awb_4c7d67502f5a9dbca985",
     "name": "Nostalgie Saturday Night",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "Paris",
     "languages": [
       "fr"
     ],
     "categories": [],
     "tags": [
+      "disco funk",
       "nostalgie",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/",
-    "favicon": null,
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-saturday-night",
+    "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA_WR_SATURDAY-NIGHT.jpg",
     "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:53:20Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-28T16:12:08Z"
   },
   {
     "id": "awb_dcb9c1be0f372fd077c5",
@@ -34885,8 +34857,8 @@
     "homepage": "http://www.pharefmcom/",
     "favicon": null,
     "type": null,
-    "sourceCount": 15,
-    "updatedAt": "2026-01-15T08:47:21Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:47:10Z"
   },
   {
     "id": "awb_931bc1d7faafa342e5d9",
@@ -34947,8 +34919,8 @@
     "homepage": "http://pharefm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 17,
-    "updatedAt": "2026-01-15T08:31:59Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T04:45:19Z"
   },
   {
     "id": "awb_e934dfafee881bd4bdf6",
@@ -38260,14 +38232,14 @@
   },
   {
     "id": "awb_344f994bcc4a86baedee",
-    "name": "Radio Club 105.7FM",
+    "name": "RADIO CLUB 105.7FM",
     "country": "FR",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://radioclub.fr/",
-    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/269965503_533759981882903_4768925474557172552_n-1.jpg",
+    "homepage": "https://radioclub.fr/wp-admin/",
+    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/cropped-269965503_533759981882903_4768925474557172552_n-270x270.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-18T11:23:34Z"
@@ -40196,7 +40168,7 @@
       "gospel music",
       "pop rock"
     ],
-    "homepage": "https://www.radioibnjparis.com/",
+    "homepage": "https://radioibnjparis.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 3,
@@ -43269,6 +43241,27 @@
     "updatedAt": "2026-01-17T06:58:46Z"
   },
   {
+    "id": "awb_fb5b95e0d80769598543",
+    "name": "Radio TFM",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "variété française des années 60 à nos jours"
+    ],
+    "homepage": "https://www.radiotfm.com/",
+    "favicon": "https://www.radiotfm.com/brand/logob.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T18:30:18Z"
+  },
+  {
     "id": "awb_4e3effa0f870131630a7",
     "name": "Radio ThurTàl",
     "country": "FR",
@@ -44338,8 +44331,8 @@
     "homepage": "http://www.radyonne.fr/",
     "favicon": "http://www.radyonne.fr/favicon.ico",
     "type": null,
-    "sourceCount": 11,
-    "updatedAt": "2026-01-15T08:27:11Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:41:54Z"
   },
   {
     "id": "awb_1246cca2a21755acae45",
@@ -48663,7 +48656,7 @@
       "talk"
     ],
     "homepage": "https://www.tbm06.fr/radio/",
-    "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
+    "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-20T17:58:29Z"
@@ -49005,24 +48998,8 @@
     "homepage": "http://www.topmusic.fr/",
     "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/top-music/images/favicon.x-icon",
     "type": null,
-    "sourceCount": 14,
-    "updatedAt": "2026-01-15T06:45:25Z"
-  },
-  {
-    "id": "awb_78ee8ba90015453063cc",
-    "name": "Top music",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.topmusic.com/",
-    "favicon": null,
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:49:53Z"
+    "updatedAt": "2026-01-15T05:36:39Z"
   },
   {
     "id": "awb_24ee55fc9e2fc9eb26d2",

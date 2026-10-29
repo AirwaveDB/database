@@ -1121,6 +1121,27 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_d2325bca236dfd819eea",
+    "name": "Alpha FM Floripa 91.3 -",
+    "country": "BR",
+    "subdivision": "Florianópolis SC",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "80s",
+      "90s"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T01:04:01Z"
+  },
+  {
     "id": "awb_0912570692425a2d398f",
     "name": "Alpha MPB",
     "country": "BR",
@@ -6146,7 +6167,7 @@
     "id": "awb_a21216fd9e9d6f2e9273",
     "name": "Jovem pan 95,9 FM",
     "country": "BR",
-    "subdivision": "Pernambuco",
+    "subdivision": "Recife",
     "languages": [],
     "categories": [
       "pop",
@@ -7192,6 +7213,32 @@
     "updatedAt": "2026-09-13T14:34:17Z"
   },
   {
+    "id": "awb_78f922f72e4f712d251b",
+    "name": "MAGIC BOXX RADIO",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "deep house",
+      "electronic",
+      "eurodance",
+      "house",
+      "progressive",
+      "tech house"
+    ],
+    "homepage": "https://mboxxradio.com/",
+    "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T05:52:08Z"
+  },
+  {
     "id": "awb_93f71fed57428d6cd095",
     "name": "Maior Amor",
     "country": "BR",
@@ -7434,144 +7481,6 @@
     "updatedAt": "2026-02-07T15:45:13Z"
   },
   {
-    "id": "awb_68990a15ff4431363875",
-    "name": "Maresol web radio",
-    "country": "BR",
-    "subdivision": "Aracajú",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-28T22:19:30Z"
-  },
-  {
-    "id": "awb_c30bd21ce3644a669f43",
-    "name": "maresol web radio - Boa vista",
-    "country": "BR",
-    "subdivision": "Roraima",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-21T20:20:40Z"
-  },
-  {
-    "id": "awb_0ee5ec485db783993544",
-    "name": "maresol web radio - Coari",
-    "country": "BR",
-    "subdivision": "Amazonas",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "amazon music.",
-      "pop music"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-20T03:24:26Z"
-  },
-  {
-    "id": "awb_c56536fc22406e073ec1",
-    "name": "maresol web radio - cruzeiro do sul",
-    "country": "BR",
-    "subdivision": "Acre",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "alternative rock",
-      "pop music"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-20T00:11:18Z"
-  },
-  {
-    "id": "awb_71352c992dd40d383943",
-    "name": "maresol web radio - eirunepé",
-    "country": "BR",
-    "subdivision": "Amazonas",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-19T23:45:05Z"
-  },
-  {
-    "id": "awb_9bdfe0aa19d7da22d6ea",
-    "name": "maresol web radio - Feijó",
-    "country": "BR",
-    "subdivision": "Acre",
-    "languages": [
-      "en",
-      "es",
-      "pt"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-20T00:24:37Z"
-  },
-  {
-    "id": "awb_4382cfe0ab68bfa1b3e1",
-    "name": "maresol web radio - Macapá",
-    "country": "BR",
-    "subdivision": "Amapá",
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "categories": [
-      "electronic",
-      "jazz",
-      "pop"
-    ],
-    "tags": [
-      "edm",
-      "jazz",
-      "pop"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-21T20:13:46Z"
-  },
-  {
     "id": "awb_2772cc240a3c21505649",
     "name": "maresol web radio - Manaus",
     "country": "BR",
@@ -7596,157 +7505,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-20T03:01:49Z"
-  },
-  {
-    "id": "awb_7c3e8401ee05229aaad5",
-    "name": "maresol web radio - Manaus",
-    "country": "BR",
-    "subdivision": "Amazonas",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://manaus.radiomaresol.com.br/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-16T18:43:41Z"
-  },
-  {
-    "id": "awb_5f43aff5759f0fc8b2cf",
-    "name": "maresol web radio - Parintins",
-    "country": "BR",
-    "subdivision": "Amazonas",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-20T13:01:38Z"
-  },
-  {
-    "id": "awb_ac0a294bb2d22e63fa6a",
-    "name": "maresol web radio - Porto Velho",
-    "country": "BR",
-    "subdivision": "Porto Velho",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "mpb",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-20T00:36:34Z"
-  },
-  {
-    "id": "awb_0c0a39ce01fb81a2c473",
-    "name": "maresol web radio - rio branco",
-    "country": "BR",
-    "subdivision": "Acre",
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "categories": [
-      "blues",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "electric blues",
-      "pop rock"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-19T23:59:02Z"
-  },
-  {
-    "id": "awb_92929e36946690055550",
-    "name": "maresol web radio - Santarém",
-    "country": "BR",
-    "subdivision": "Pará",
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pagode",
-      "pop music",
-      "rock"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-20T03:12:41Z"
-  },
-  {
-    "id": "awb_cb3e284d6ed30a2ec575",
-    "name": "maresol web radio - Tefé",
-    "country": "BR",
-    "subdivision": "Amazonas",
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "amazon music",
-      "pop music",
-      "rock"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-20T03:18:45Z"
-  },
-  {
-    "id": "awb_d086c17919d8cecb9234",
-    "name": "maresolwebradio",
-    "country": "BR",
-    "subdivision": "AM",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "jazz",
-      "pop"
-    ],
-    "tags": [
-      "forro",
-      "jazz",
-      "mpb",
-      "pagode",
-      "pop",
-      "pop music",
-      "samba"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-04-05T04:56:57Z"
   },
   {
     "id": "awb_6c92439d0158ad1bba94",
@@ -8069,7 +7827,7 @@
     "id": "awb_ae4fefbf450bfef15049",
     "name": "Metal Zone Radio",
     "country": "BR",
-    "subdivision": "São Paulo",
+    "subdivision": "Sao Paulo (Brazil)",
     "languages": [],
     "categories": [
       "metal"
@@ -8086,7 +7844,7 @@
       "symphonic metal",
       "trash metal"
     ],
-    "homepage": "http://www.metalzone.radio.br/",
+    "homepage": "https://metalzone.radio.br/",
     "favicon": "https://metalzone.radio.br/assets/img/favicon-512.png",
     "type": null,
     "sourceCount": 2,
@@ -13199,7 +12957,7 @@
     "id": "awb_2b7b7954faeaf86005a4",
     "name": "Rádio Cambirela - Virtual,mas real.",
     "country": "BR",
-    "subdivision": "Santa Catarina,SC",
+    "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [
       "country",
@@ -19897,7 +19655,7 @@
     "id": "awb_a76eeb567f319bbe44bd",
     "name": "Rádio Play Mix FM",
     "country": "BR",
-    "subdivision": "AC",
+    "subdivision": "Acre",
     "languages": [
       "en",
       "pt"
@@ -19906,8 +19664,8 @@
     "tags": [
       "eclética"
     ],
-    "homepage": "https://www.playmixfm.com.br/",
-    "favicon": "https://i.postimg.cc/TwZKqbtt/Logo-play-mix-oficial.png",
+    "homepage": "https://playmixfm.com.br/",
+    "favicon": "https://i.postimg.cc/d3x5xqy2/PLAY-MIX-FM-fundo-transparente.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T18:53:16Z"

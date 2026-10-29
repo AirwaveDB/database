@@ -27,6 +27,26 @@
     "updatedAt": "2026-01-14T23:56:58Z"
   },
   {
+    "id": "awb_95936e1ee66d076d7821",
+    "name": "ABC Cardinal 730AM",
+    "country": "PY",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.abc.com.py/730am/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T21:33:26Z"
+  },
+  {
     "id": "awb_c50f9d3968ca3ce6754f",
     "name": "Abdulbasit Abdulsamad",
     "country": "PY",
@@ -112,6 +132,20 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_cacfc84d0f6a7946cd41",
+    "name": "Cardinal Romance 98.5 FM",
+    "country": "PY",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.abc.com.py/fm/",
+    "favicon": "https://www.abc.com.py/pf/resources/images/favicon.png?d=2650",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T12:35:13Z"
   },
   {
     "id": "awb_d27a7f175333e5bd861d",
@@ -233,40 +267,18 @@
       "es"
     ],
     "categories": [
-      "news",
       "pop",
       "rock"
     ],
     "tags": [
-      "93.3 fm",
-      "entretenimiento",
-      "español",
-      "estación",
-      "exa",
-      "exa fm",
-      "fm",
-      "juvenil",
-      "la estación exacta",
-      "la estación naranja",
-      "moi merino",
-      "mvs",
-      "mvs noticias",
-      "mvs radio",
-      "música en español e inglés",
-      "música pop",
-      "ponte exa",
       "pop",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
       "pop-music",
-      "pop-rock",
-      "radio"
+      "pop-rock"
     ],
     "homepage": "https://www.exafm.com/veracruz/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -597,7 +609,7 @@
       "spanish radio"
     ],
     "homepage": "https://radiaura.net/arasuncion",
-    "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
+    "favicon": "https://radiaura.net/apple-touch-icon.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-09-02T23:05:11Z"

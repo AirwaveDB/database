@@ -2926,7 +2926,7 @@
   },
   {
     "id": "awb_aabb100432959fd1d9f1",
-    "name": "Lem.fm",
+    "name": "Lem FM",
     "country": "PL",
     "subdivision": "Podkarpacie",
     "languages": [
@@ -6654,10 +6654,10 @@
       "top 40"
     ],
     "homepage": "https://warszawa.eska.pl/",
-    "favicon": "http://eska.pl/favicon.ico",
+    "favicon": "https://cdn.music.smcloud.net/t/logo/2f7b5979-4b66-4586-aefb-ca31e4b8580d_eska_1500x1500_500x500.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-25T15:43:00Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-29T07:38:13Z"
   },
   {
     "id": "awb_ab4602265e63812b1891",
@@ -6678,6 +6678,28 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-01-15T06:43:16Z"
+  },
+  {
+    "id": "awb_da707f98b1b75a1d27c0",
+    "name": "Radio Eska Warszawa (64kbps + metadata)",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "128 kbps",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://warszawa.eska.pl/",
+    "favicon": "https://cdn.music.smcloud.net/t/logo/2f7b5979-4b66-4586-aefb-ca31e4b8580d_eska_1500x1500_500x500.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T08:26:51Z"
   },
   {
     "id": "awb_a68851d52ae80363703c",
@@ -11767,22 +11789,6 @@
     "updatedAt": "2026-01-15T08:21:23Z"
   },
   {
-    "id": "awb_e99d27fd124cf9f4a5cb",
-    "name": "Radio Żak",
-    "country": "PL",
-    "subdivision": "Łódzkie",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.zak.lodz.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-28T07:46:11Z"
-  },
-  {
     "id": "awb_3e40fa42546dc40a193c",
     "name": "RADIO ZAWIERCIE",
     "country": "PL",
@@ -12348,7 +12354,7 @@
     "id": "awb_4b49e5c817ec766fe4aa",
     "name": "radiOFF",
     "country": "PL",
-    "subdivision": "Oderland",
+    "subdivision": "Lubuskie",
     "languages": [
       "de",
       "pl"
@@ -12380,7 +12386,7 @@
       "storytelling",
       "viadrina"
     ],
-    "homepage": "https://radioff.com/",
+    "homepage": "http://radioff.com/",
     "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
     "type": null,
     "sourceCount": 3,
@@ -14015,7 +14021,7 @@
     "id": "awb_ccafb97eb92dab888427",
     "name": "RMF MAXX",
     "country": "PL",
-    "subdivision": "Malopolskie",
+    "subdivision": "Małopolskie",
     "languages": [
       "pl"
     ],
@@ -15546,6 +15552,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:41:54Z"
+  },
+  {
+    "id": "awb_b01421539c9fa1c4fcd2",
+    "name": "Studenckie Radio Żak Politechniki Łódzkiej",
+    "country": "PL",
+    "subdivision": "Łódzkie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.zak.lodz.pl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T13:13:37Z"
   },
   {
     "id": "awb_3a6893bbad6aaaec3fd7",

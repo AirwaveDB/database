@@ -7422,7 +7422,7 @@
       "worship"
     ],
     "homepage": "https://www.247praiseradio.co/",
-    "favicon": "https://www.247praiseradio.co/favicon.png",
+    "favicon": "https://www.247praiseradio.co/favicon.ico",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-17T14:09:15Z"
@@ -14186,26 +14186,6 @@
     "updatedAt": "2026-05-14T19:41:46Z"
   },
   {
-    "id": "awb_41a783e608bf3942b903",
-    "name": "98kupd",
-    "country": "US",
-    "subdivision": "Arizona",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "hard rock"
-    ],
-    "homepage": "https://98kupd.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-28T04:18:55Z"
-  },
-  {
     "id": "awb_4de3caaf4aa0ed2bc6f9",
     "name": "98Q",
     "country": "US",
@@ -16113,6 +16093,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_ff6aa50a560a7ea9e3e4",
+    "name": "All Classical Radio (KQAC 89.9 FM Portland)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://allclassical.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T15:14:01Z"
   },
   {
     "id": "awb_704db77a6a2e0c9c0855",
@@ -26907,6 +26901,24 @@
     "updatedAt": "2026-01-15T07:27:51Z"
   },
   {
+    "id": "awb_ea2276e5bc1a69d90bef",
+    "name": "Classic Videogames Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "retro"
+    ],
+    "homepage": "http://www.classic-videogames.de/",
+    "favicon": "https://cdn-profiles.tunein.com/s259239/images/logod.jpg?t=638354465690000000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T21:22:58Z"
+  },
+  {
     "id": "awb_63209fc7c0720d71e7b1",
     "name": "Classic Vinyl HD",
     "country": "US",
@@ -26949,8 +26961,8 @@
     "homepage": "https://walmradio.com/classic",
     "favicon": "https://icecast.walmradio.com:8443/classic.jpg",
     "type": null,
-    "sourceCount": 13,
-    "updatedAt": "2026-10-16T10:25:15Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_7af4d475034c946a3d02",
@@ -34330,33 +34342,6 @@
     "updatedAt": "2026-01-15T01:14:34Z"
   },
   {
-    "id": "awb_827acc1c0e5d29a23c43",
-    "name": "EXA FM: POP MUSIC in Spanish and English",
-    "country": "US",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "contemporary hits",
-      "entertainment",
-      "music",
-      "news",
-      "pop",
-      "pop music",
-      "top 40"
-    ],
-    "homepage": "https://exafm.com/plaza/veracruz/",
-    "favicon": "https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:30:35Z"
-  },
-  {
     "id": "awb_9860a66f921e16f7a98c",
     "name": "Excellent Eighties",
     "country": "US",
@@ -36172,7 +36157,7 @@
       "the nation’s premiere sports lineup"
     ],
     "homepage": "http://www.foxsportsradio.com/",
-    "favicon": "https://i.iheart.com/v3/re/assets.brands/5e972321d790eb6e190b8f7d",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NxjbCTIAKVhtl5ndaYjM2JHlo0g2Ksr8zYoHwos-vQ&s",
     "type": null,
     "sourceCount": 7,
     "updatedAt": "2026-05-10T03:51:53Z"
@@ -40516,6 +40501,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:42:49Z"
+  },
+  {
+    "id": "awb_dfdc52fb0e7ec82219a8",
+    "name": "HD Radio Jazz",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://hd-radio.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T08:27:33Z"
   },
   {
     "id": "awb_22a79684932f3a637110",
@@ -56954,6 +56953,30 @@
     "updatedAt": "2026-01-15T03:29:48Z"
   },
   {
+    "id": "awb_f7ff72982b0ac304488e",
+    "name": "KNWG-LP \"Diné Adventist Radio\" - St. Michaels, Arizona",
+    "country": "US",
+    "subdivision": "Arizona",
+    "languages": [
+      "en",
+      "nv"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "adventist",
+      "christian music",
+      "christian preaching",
+      "native american"
+    ],
+    "homepage": "https://www.dineadventistradio.org/",
+    "favicon": "https://static.wixstatic.com/media/2f4233_b260bbcaba584aadaf64802879ddac92~mv2.png/v1/crop/x_0,y_316,w_4807,h_3205/fill/w_118,h_76,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Dar%20Logo%20Lite%20(Transparent).png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T04:43:40Z"
+  },
+  {
     "id": "awb_4f841c030ec12d952c45",
     "name": "KOA 850 AM & 94.1 FM",
     "country": "US",
@@ -62737,6 +62760,35 @@
     "type": "college",
     "sourceCount": 1,
     "updatedAt": "2026-10-23T02:37:02Z"
+  },
+  {
+    "id": "awb_17cbe4b18582c85f26db",
+    "name": "KUHN Radio",
+    "country": "US",
+    "subdivision": "Oregon",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "folk",
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "ai",
+      "celtic",
+      "electronic",
+      "folk",
+      "news",
+      "portland",
+      "talk"
+    ],
+    "homepage": "https://kuhnradio.com/",
+    "favicon": "https://kuhnradio.com/brand/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T22:59:48Z"
   },
   {
     "id": "awb_ee1a568c3173be0aa576",
@@ -81461,99 +81513,6 @@
     "updatedAt": "2026-01-14T23:58:18Z"
   },
   {
-    "id": "awb_95abb0e8455bfca68edc",
-    "name": "Radio Disney 1110 AM",
-    "country": "US",
-    "subdivision": "Los Angeles CA",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "film music",
-      "pop",
-      "top 40",
-      "youth"
-    ],
-    "homepage": "https://www.radiodisney.com/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Radio_Disney_logo.svg/300px-Radio_Disney_logo.svg.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:16:50Z"
-  },
-  {
-    "id": "awb_9c185c41f0b5fd7bce56",
-    "name": "Radio Disney 1560 AM",
-    "country": "US",
-    "subdivision": "New York City, New York",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "film music",
-      "hot ac",
-      "pop",
-      "top 40",
-      "variety",
-      "youth"
-    ],
-    "homepage": "https://www.radiodisney.com/",
-    "favicon": "https://static.wikia.nocookie.net/logopedia/images/e/e7/Radiodisneynewyork.png/revision/latest?cb=20211004040035",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:27:18Z"
-  },
-  {
-    "id": "awb_a8cadb5c8dd53b9c912f",
-    "name": "Radio Disney 640 AM",
-    "country": "US",
-    "subdivision": "Mount Holly, NJ",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "ac",
-      "hot",
-      "pop",
-      "top 40",
-      "youth"
-    ],
-    "homepage": "https://www.radiodisney.com/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Radio_Disney_logo.svg/300px-Radio_Disney_logo.svg.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:42:04Z"
-  },
-  {
-    "id": "awb_324452f55161f81e66b4",
-    "name": "Radio Disney Country FM 99.1",
-    "country": "US",
-    "subdivision": "Los Angeles, CA",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "county music",
-      "pop"
-    ],
-    "homepage": "https://www.radiodisney.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSNzAYoI5Femhuri7WV9SNYheO4GO_Ovr_MUzgWIWYg&s/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:39:41Z"
-  },
-  {
     "id": "awb_c388622b499f13a13ef9",
     "name": "Radio DJ Kidnu",
     "country": "US",
@@ -87141,29 +87100,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_cca039506724bf22c9a5",
-    "name": "RD Revival (Radio Disney)",
-    "country": "US",
-    "subdivision": "Los Angeles, CA",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "film music",
-      "hits",
-      "pop",
-      "youth"
-    ],
-    "homepage": "https://play.radioking.com/radio/rd-revival1",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:21:39Z"
   },
   {
     "id": "awb_3d8b898a28802fad2bad",
@@ -102445,6 +102381,29 @@
     "updatedAt": "2026-01-15T00:50:24Z"
   },
   {
+    "id": "awb_b5b4d83c696c2dc9ec00",
+    "name": "The Press Box - Old-time radio sports (Stupid Potato)",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "tags": [
+      "1940s",
+      "old time radio",
+      "otr",
+      "sports"
+    ],
+    "homepage": "https://stupidpotato.com/press-box/",
+    "favicon": "https://stupidpotato.com/press-box/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T18:52:33Z"
+  },
+  {
     "id": "awb_d0507e1268c05881a6cd",
     "name": "The Promise 100.7",
     "country": "US",
@@ -106743,8 +106702,8 @@
     "homepage": "https://vintageobscura.net/",
     "favicon": "https://vintageobscura.net/img/ms-icon-144x144.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-04-04T08:56:59Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-28T12:20:03Z"
   },
   {
     "id": "awb_99a02c193adc8fb54c48",
@@ -110489,6 +110448,29 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_faae0c1e629bf3c95042",
+    "name": "WCOC 103.5 \"Truth FM\" Jacksonville, Alabama",
+    "country": "US",
+    "subdivision": "Alabama",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "a cappella",
+      "christian hymns",
+      "christian preaching",
+      "christian teaching"
+    ],
+    "homepage": "https://www.truth.fm/",
+    "favicon": "https://images.subsplash.com/image.jpg?id=202cb7c1-372c-4872-af7d-a0088269c304&w=1280&h=720",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T04:06:52Z"
+  },
+  {
     "id": "awb_78550bdde6ebd618e6be",
     "name": "WCOM- LP 103.5 Carrboro, NC",
     "country": "US",
@@ -113805,6 +113787,28 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_786a930adabd3759d735",
+    "name": "WFTP 103.9 \"Truth FM\" Fort Payne, Alabama",
+    "country": "US",
+    "subdivision": "Alabama",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "a cappella",
+      "christian preaching",
+      "christian teaching"
+    ],
+    "homepage": "https://truthfm.live/fpls/",
+    "favicon": "https://truth-fm.s3.amazonaws.com/wp-content/uploads/2018/08/24084819/Fort-Payne-Radio-square-copy.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T04:06:52Z"
+  },
+  {
     "id": "awb_835bc01244e1ec3af9d5",
     "name": "WFTU 1570 Five Towns College - Riverhead, NY",
     "country": "US",
@@ -115997,7 +116001,7 @@
     "id": "awb_22024cbbd9c119a9375e",
     "name": "WHYR 96.9 FM – Baton Rouge Community Radio",
     "country": "US",
-    "subdivision": "LA - Louisiana",
+    "subdivision": "Loui",
     "languages": [
       "en"
     ],
@@ -118162,6 +118166,29 @@
     "updatedAt": "2026-01-15T08:16:49Z"
   },
   {
+    "id": "awb_24c746ddf0b2e5b9b65d",
+    "name": "WKCG 99.1 Dothan, Alabama",
+    "country": "US",
+    "subdivision": "Alabama",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "talk"
+    ],
+    "tags": [
+      "african american",
+      "rhythm and blues",
+      "talk show"
+    ],
+    "homepage": "https://www.wearetops.org/",
+    "favicon": "https://le-cdn.website-editor.net/s/e90a14b4adbe4712937ee1a279631b06/dms3rep/multi/opt/tops+logo+hetic-1920w.jpg?Expires=1795053076&Signature=CgRLfW8qBwzOqzC45LQO-IyXE-AjIfzkIVL-zaKbAuHUl23fsQVswLgH2Z3saHvUevW9p3kr8fwEAm23z-one2fA4yFmkGM3eDdqKSxUMn2VAVvQiGEW8fc7qjJEDynVSiFCdD1SMVuTmSu6kqLH7267RVXe1gZSYaYXo3~jRpFW7VnwMhJx42IW7CAFFsRFlN3L49p8acbSVb-UbuTkwDWWYnwBS6qAFUpyMMst5Tkbf1SWHz4mZwZm23G6U0EmgFAg5qIZ5TEnmQ6NIwCpduswKIy5oy7XELqtRK~OWG~Dazrp9Hy4AUaxx80UGAP8HNEpd051cs8HvwVPy8OgZQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T03:31:18Z"
+  },
+  {
     "id": "awb_360782a28c9f23037023",
     "name": "WKCR",
     "country": "US",
@@ -118651,6 +118678,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:22:39Z"
+  },
+  {
+    "id": "awb_24f845f66394837d7040",
+    "name": "WKMT-DB DaGr8FM",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.dagr8fm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T22:13:26Z"
   },
   {
     "id": "awb_7845e39991ea82a69853",
@@ -124793,6 +124834,28 @@
     "updatedAt": "2026-06-09T17:53:37Z"
   },
   {
+    "id": "awb_ed1f4a838d9015436066",
+    "name": "WQJJ 100.1 \"Cat 40 Hits\" Jasper, Alabama",
+    "country": "US",
+    "subdivision": "alabama",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "oldies & retro hits 70s 80s 90s 00s",
+      "oldies 50's/60's"
+    ],
+    "homepage": "https://cat40hits.com/",
+    "favicon": "https://i0.wp.com/cat40hits.com/wp-content/uploads/2023/07/kitty-phones.gif?resize=128%2C128&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T03:38:22Z"
+  },
+  {
     "id": "awb_661fed19b543abdd82b4",
     "name": "WQJZ 103.9 Murfreesboro, Tennessee",
     "country": "US",
@@ -126435,6 +126498,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:13:27Z"
+  },
+  {
+    "id": "awb_e45764d07cde78557704",
+    "name": "WRNK 96.3 \"The Keeper\" Lanett, Alabama",
+    "country": "US",
+    "subdivision": "Alabama",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian praise&worship",
+      "christian preaching",
+      "christian worship"
+    ],
+    "homepage": "https://wrnk.com/",
+    "favicon": "https://wrnk.com/wp-content/uploads/2019/06/keeper-1-e1560965188674.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T02:20:17Z"
   },
   {
     "id": "awb_c442d79b0ae930947d89",
@@ -134771,22 +134856,6 @@
     "updatedAt": "2026-01-15T05:09:14Z"
   },
   {
-    "id": "awb_d823f202a95bdb95ef32",
-    "name": "X Radio",
-    "country": "US",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "international"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_f54284bdb6d28d13ea35",
     "name": "X Treme Vibes Radio -- The rhythm of the People!",
     "country": "US",
@@ -134806,6 +134875,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-11T10:56:32Z"
+  },
+  {
+    "id": "awb_d823f202a95bdb95ef32",
+    "name": "X-Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "international"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_737a3240526c80236ca0",
@@ -136575,6 +136660,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:14:22Z"
+  },
+  {
+    "id": "awb_8ef27093d712b772334c",
+    "name": "z103.com -- Over 7 decades of Great Music!",
+    "country": "US",
+    "subdivision": "Indiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "blind",
+      "blind radio",
+      "community radio",
+      "community radio station",
+      "misc",
+      "miscellaneous",
+      "variety"
+    ],
+    "homepage": "https://z103.com/",
+    "favicon": null,
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T16:05:05Z"
   },
   {
     "id": "awb_8ceb4f4db354f306db6d",

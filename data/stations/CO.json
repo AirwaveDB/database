@@ -4510,6 +4510,20 @@
     "updatedAt": "2026-08-17T22:03:05Z"
   },
   {
+    "id": "awb_076d4a39cd2c3fa19afd",
+    "name": "El Túnel Rock",
+    "country": "CO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://eltunel.co/staff/",
+    "favicon": "https://cdn-profiles.tunein.com/s269409/images/logog.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T03:09:38Z"
+  },
+  {
     "id": "awb_2b26c30574621b7b3dee",
     "name": "elbaulsalsero",
     "country": "CO",
@@ -4994,40 +5008,18 @@
       "es"
     ],
     "categories": [
-      "news",
       "pop",
       "rock"
     ],
     "tags": [
-      "93.3 fm",
-      "entretenimiento",
-      "español",
-      "estación",
-      "exa",
-      "exa fm",
-      "fm",
-      "juvenil",
-      "la estación exacta",
-      "la estación naranja",
-      "moi merino",
-      "mvs",
-      "mvs noticias",
-      "mvs radio",
-      "música en español e inglés",
-      "música pop",
-      "ponte exa",
       "pop",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
       "pop-music",
-      "pop-rock",
-      "radio"
+      "pop-rock"
     ],
     "homepage": "https://www.exafm.com/veracruz/",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7525,6 +7517,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-19T21:36:14Z"
+  },
+  {
+    "id": "awb_9825ff79f39b191df1bc",
+    "name": "la voz de Cali 900 am",
+    "country": "CO",
+    "subdivision": "cali",
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "baladas",
+      "noticias",
+      "romántica"
+    ],
+    "homepage": "https://www.todelarcali.com/en-vivo",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T20:22:19Z"
   },
   {
     "id": "awb_00498ff6fa0c9a286b66",

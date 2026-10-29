@@ -1949,40 +1949,18 @@
       "es"
     ],
     "categories": [
-      "news",
       "pop",
       "rock"
     ],
     "tags": [
-      "93.3 fm",
-      "entretenimiento",
-      "español",
-      "estación",
-      "exa",
-      "exa fm",
-      "fm",
-      "juvenil",
-      "la estación exacta",
-      "la estación naranja",
-      "moi merino",
-      "mvs",
-      "mvs noticias",
-      "mvs radio",
-      "música en español e inglés",
-      "música pop",
-      "ponte exa",
       "pop",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
       "pop-music",
-      "pop-rock",
-      "radio"
+      "pop-rock"
     ],
     "homepage": "https://www.exafm.com/veracruz/",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8709,6 +8687,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-16T15:27:19Z"
+  },
+  {
+    "id": "awb_d7fdf83425553003803d",
+    "name": "Radio80 Club",
+    "country": "CL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://stream.radioclub80.cl:8012/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T16:47:07Z"
   },
   {
     "id": "awb_d206b04259ac9d50cbe8",

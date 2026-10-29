@@ -9053,26 +9053,6 @@
     "updatedAt": "2026-03-27T03:36:23Z"
   },
   {
-    "id": "awb_d5b2cc05ad0ec815a57b",
-    "name": "talkSPORT",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "sport",
-      "talk"
-    ],
-    "homepage": "https://radiostream.novawap.com/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/22yeCk65a6.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-03T19:08:18Z"
-  },
-  {
     "id": "awb_883c72aac26fefb81333",
     "name": "Tarakan FM",
     "country": "ID",
@@ -9280,6 +9260,25 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_42ef0197b318d6032f06",
+    "name": "TJANDRA FM CIANJUR",
+    "country": "ID",
+    "subdivision": "Jawa Barat",
+    "languages": [
+      "en",
+      "id"
+    ],
+    "categories": [],
+    "tags": [
+      "dangdut"
+    ],
+    "homepage": "https://www.tjandrafm.com/",
+    "favicon": "https://i.imgur.com/NwN4rnC.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T02:57:15Z"
   },
   {
     "id": "awb_e30b54925828758d32cf",
@@ -9816,23 +9815,5 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_0050a07bece947ea9395",
-    "name": "اذاعة القرآن الكريم",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   }
 ]

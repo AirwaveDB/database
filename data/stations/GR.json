@@ -7664,7 +7664,7 @@
     "id": "awb_26a51cf565919736f4ad",
     "name": "eMusic Site",
     "country": "GR",
-    "subdivision": "Attica, Athens",
+    "subdivision": "Attiki",
     "languages": [
       "el",
       "en"
@@ -35202,6 +35202,25 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
+    "id": "awb_7e4f5dc09ae836961353",
+    "name": "Νότες 97.4",
+    "country": "GR",
+    "subdivision": "Chania",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://noteschania.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/b39de048-1248-495b-8171-619db87c2ce7.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T18:33:32Z"
+  },
+  {
     "id": "awb_ab52655af59ee9fa04d8",
     "name": "Ξάνθη 93.5",
     "country": "GR",
@@ -38613,6 +38632,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:55:32Z"
+  },
+  {
+    "id": "awb_c760b7ab50f25eac52d7",
+    "name": "Χιακός 102.4",
+    "country": "GR",
+    "subdivision": "Chios",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream",
+      "news talk"
+    ],
+    "homepage": "https://www.xiakoslaos.gr/",
+    "favicon": "https://www.xiakhttps//resources.live24.gr/resources/images/stations/8bf3c391-f34c-4283-9abc-bf67bf11936f.pngo",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T19:27:49Z"
   },
   {
     "id": "awb_3c7856f56154b9c10f71",

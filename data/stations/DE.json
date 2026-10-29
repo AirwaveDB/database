@@ -22010,7 +22010,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z"
@@ -24801,7 +24801,7 @@
       "pop"
     ],
     "homepage": "https://www.bremenzwei.de/",
-    "favicon": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
+    "favicon": "https://www.bremenzwei.de/static/img/favicons/favicon-32.png?v=4",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:44:42Z"
@@ -25924,7 +25924,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.ffn.de/",
+    "homepage": "https://www.ffn.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 4,
@@ -48416,7 +48416,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://inthemix.at/",
+    "homepage": "https://inthemix.at/?live_stream_id=108",
     "favicon": "https://inthemix.at/image.php?object_id=108&object_type=live_stream&thumb=14",
     "type": null,
     "sourceCount": 2,
@@ -56890,7 +56890,7 @@
     "favicon": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-23T08:09:04Z"
+    "updatedAt": "2026-10-28T13:47:32Z"
   },
   {
     "id": "awb_aec2687c3ccce7b89ec1",
@@ -59841,27 +59841,6 @@
     "updatedAt": "2026-05-08T12:58:09Z"
   },
   {
-    "id": "awb_b67be8570bedd90876d2",
-    "name": "Metropol FM (Berlin)",
-    "country": "DE",
-    "subdivision": "Berlin",
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "turkish music"
-    ],
-    "homepage": "https://www.metropolfm.de/",
-    "favicon": "https://www.metropolfm.de/assets/favicons/favicon-96x96.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-02-28T21:29:45Z"
-  },
-  {
     "id": "awb_cd861037cb29ddeabd43",
     "name": "Metropol FM (Bremen)",
     "country": "DE",
@@ -59964,6 +59943,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-14T12:11:25Z"
+  },
+  {
+    "id": "awb_b67be8570bedd90876d2",
+    "name": "Metropol FM Berlin",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "turkish music"
+    ],
+    "homepage": "https://www.metropolfm.de/",
+    "favicon": "https://www.metropolfm.de/assets/favicons/favicon-96x96.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-02-28T21:29:45Z"
   },
   {
     "id": "awb_8af2df838c5f7f7a2059",
@@ -73501,7 +73501,7 @@
     "id": "awb_7de0ca0a0de8e897860e",
     "name": "Radio Budowlaniec",
     "country": "DE",
-    "subdivision": "Deutschland und NRW",
+    "subdivision": "Deutschland / NRW /",
     "languages": [
       "de",
       "pl"
@@ -73526,10 +73526,10 @@
       "radio internetowe"
     ],
     "homepage": "https://radio-budowlaniec.de/",
-    "favicon": "https://radio-budowlaniec.de/sites/default/files/512.1%20logo%20rund.png",
+    "favicon": "https://radio-budowlaniec.de/sites/default/files/2026-04/user-radio.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-28T07:18:42Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-28T19:33:32Z"
   },
   {
     "id": "awb_b006267223102b81f600",
@@ -78574,27 +78574,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-16T07:46:50Z"
-  },
-  {
-    "id": "awb_f76d25a0775adcfcd50e",
-    "name": "Radio Luca",
-    "country": "DE",
-    "subdivision": "Sachsen-Anhalt",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "deutschland",
-      "pop"
-    ],
-    "homepage": "https://radio-luca.jimdofree.com/",
-    "favicon": "https://image.jimcdn.com/app/cms/image/transf/none/path/s79cec96568b26f45/image/i5caa35bbb9c8e63a/version/1654619498/image.png",
-    "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T06:22:11Z"
   },
   {
     "id": "awb_30f9b0c28f40a5137b1f",
@@ -85655,7 +85634,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
+    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"
@@ -85939,6 +85918,27 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_f76d25a0775adcfcd50e",
+    "name": "Radio.luca",
+    "country": "DE",
+    "subdivision": "Deutschland (Germany)",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "deutschland",
+      "pop"
+    ],
+    "homepage": "https://radio-luca.jimdofree.com/",
+    "favicon": "https://image.jimcdn.com/app/cms/image/transf/none/path/s79cec96568b26f45/image/i5caa35bbb9c8e63a/version/1654619498/image.png",
+    "type": null,
+    "sourceCount": 4,
+    "updatedAt": "2026-01-15T06:22:11Z"
   },
   {
     "id": "awb_49f4b30fc25b13b86697",
@@ -87187,6 +87187,36 @@
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-01-15T07:42:26Z"
+  },
+  {
+    "id": "awb_e80dad5b855ac4b4fa15",
+    "name": "radioGAGA",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "talk"
+    ],
+    "tags": [
+      "24/7",
+      "ai",
+      "ai radio",
+      "ai-generated",
+      "artificial intelligence",
+      "electronic",
+      "experimental",
+      "generative",
+      "open source",
+      "talk"
+    ],
+    "homepage": "https://www.radiogaga.ai/",
+    "favicon": "https://www.radiogaga.ai/favicon-192.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-28T17:12:55Z"
   },
   {
     "id": "awb_98bba15720258dbabcb4",
@@ -96656,6 +96686,22 @@
     "updatedAt": "2026-07-20T23:31:46Z"
   },
   {
+    "id": "awb_0a20d59cf40d9bb66eef",
+    "name": "SolidCast Test Stream",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://stream.solid-software.net/",
+    "favicon": "https://stream.solid-software.net/logo/stream",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T19:53:01Z"
+  },
+  {
     "id": "awb_0be3ca0954a226e21a5a",
     "name": "SOLO PIANO by Epic Piano",
     "country": "DE",
@@ -101751,27 +101797,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_880df00bfde0d9287e41",
-    "name": "TeaTime.FM",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [
-      "dance",
-      "drum and bass",
-      "happy hardcore",
-      "hardcore"
-    ],
-    "homepage": "https://teatime.fm/",
-    "favicon": "https://teatime.fm/media/icons/tt/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:40:59Z"
   },
   {
     "id": "awb_53e51d1c23012f64ab99",

@@ -586,7 +586,7 @@
       "russian shanson"
     ],
     "homepage": "https://101.ru/radio/user/927583",
-    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.stgyA1sX2O5eam4uQYT8ngHaEd%3Fr%3D0%26pid%3DApi&f=1&ipt=fbf6cbf7b29ab9d05e14f94a6415d9f5bc51c2dc1bc98640861bff49a1df10cf&ipo=images",
+    "favicon": "http://bryancev.ru/wp-content/uploads/2020/03/main_photo01-3.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-27T17:50:08Z"
@@ -6220,7 +6220,7 @@
       "house"
     ],
     "homepage": "https://kamchatkalive.ru/",
-    "favicon": "https://kamchatkalive.ru/img/dance.jpg",
+    "favicon": "https://kamchatkalive.ru/img/house.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-12T11:07:02Z"
@@ -29565,22 +29565,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_602c9e00ee298b06705b",
-    "name": "Soyuz",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T04:22:41Z"
-  },
-  {
     "id": "awb_3a03a3f2969d5fbeffea",
     "name": "Soyuz TV",
     "country": "RU",
@@ -29597,7 +29581,7 @@
     "homepage": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
     "favicon": null,
     "type": null,
-    "sourceCount": 10,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:19:57Z"
   },
   {
@@ -40737,7 +40721,7 @@
   },
   {
     "id": "awb_e409ed31da9366df648d",
-    "name": "Радио Vibe Новый Звук",
+    "name": "Радио ViBE Новый Звук",
     "country": "RU",
     "subdivision": "russia",
     "languages": [
@@ -40752,7 +40736,7 @@
       "pop"
     ],
     "homepage": "https://radiovibe.ru/",
-    "favicon": "https://radiovibe.ru/favicon.ico",
+    "favicon": "https://radiovibe.ru/img/vibe_500.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T13:24:17Z"
@@ -50720,7 +50704,7 @@
     "id": "awb_d0e72ae4262a7e8be492",
     "name": "Хит FM",
     "country": "RU",
-    "subdivision": "Moscow",
+    "subdivision": "Moscow/Saint Petersburg",
     "languages": [
       "ru"
     ],

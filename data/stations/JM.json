@@ -81,28 +81,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_e73baeb0e0d1b6c8b57d",
-    "name": "Bess 100 FM",
-    "country": "JM",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "reggae",
-      "religious",
-      "talk"
-    ],
-    "tags": [
-      "gospel",
-      "reggae",
-      "talk"
-    ],
-    "homepage": "https://www.bessfm.com/",
-    "favicon": "https://static.wixstatic.com/media/2e386c_0307312e27bf4c43b2995c5afa891ace~mv2.png/v1/fill/w_155,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e386c_0307312e27bf4c43b2995c5afa891ace~mv2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-28T03:19:22Z"
-  },
-  {
     "id": "awb_a1c874a3944ed6d3ea92",
     "name": "Fame 95 FM",
     "country": "JM",
@@ -624,6 +602,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-19T18:46:53Z"
+  },
+  {
+    "id": "awb_098befbc5e0a5c295f51",
+    "name": "SLEEK Radio 93FM",
+    "country": "JM",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news talk",
+      "talk"
+    ],
+    "homepage": "https://sleekradio.com/",
+    "favicon": "https://sleekradio.com/wp-content/uploads/cropped-SLEEK-Radio-magenta-outlined.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T21:44:36Z"
   },
   {
     "id": "awb_b66de2513115e3412940",

@@ -7055,7 +7055,7 @@
     "homepage": "https://www.intenseradio.net/",
     "favicon": "https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg",
     "type": null,
-    "sourceCount": 13,
+    "sourceCount": 2,
     "updatedAt": "2026-09-01T06:40:20Z"
   },
   {
@@ -9277,8 +9277,8 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://ai-metal-radio-station.nl/",
-    "favicon": "https://ai-metal-radio-station.nl/favicon.png",
+    "homepage": "https://www.ai-metal-radio-station.nl/",
+    "favicon": "https://www.ai-metal-radio-station.nl/img/ai-radio.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-31T18:29:57Z"
@@ -9344,6 +9344,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:03:07Z"
+  },
+  {
+    "id": "awb_ff22d26d245deed55c6b",
+    "name": "mijncooleradiostation",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://192.168.0.6:8000/stream",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T07:48:52Z"
   },
   {
     "id": "awb_f136dce0473354fe4a2d",
@@ -21923,6 +21937,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:28:23Z"
+  },
+  {
+    "id": "awb_58761aa48238d2f8d5d5",
+    "name": "ZILTradio",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "70's",
+      "80's",
+      "90's",
+      "dance",
+      "rock",
+      "top 40",
+      "zeeuws"
+    ],
+    "homepage": null,
+    "favicon": "https://ziltradio.nl/wp-content/uploads/2023/03/ZILT-radio-e1723367427586.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T12:18:09Z"
   },
   {
     "id": "awb_63ec72d73f31a3d947c5",
