@@ -8383,20 +8383,6 @@
     "updatedAt": "2026-01-15T00:44:56Z"
   },
   {
-    "id": "awb_cb590f8362f156ddb776",
-    "name": "1 Live",
-    "country": "DE",
-    "subdivision": "NRW",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-20T11:00:29Z"
-  },
-  {
     "id": "awb_0c47460d63e11e63d763",
     "name": "1 oldies",
     "country": "DE",
@@ -10324,61 +10310,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_d2945a921fca5940716e",
-    "name": "1live",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_2df9f0e56c53e84fdef0",
-    "name": "1LIVE - WDR",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www1.wdr.de/radio/1live/index.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-20T15:15:17Z"
-  },
-  {
-    "id": "awb_e521435bbb2a40a4e257",
-    "name": "1LIVE -- (https)",
-    "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "pop",
-      "public",
-      "rock"
-    ],
-    "tags": [
-      "ard",
-      "pop",
-      "public radio",
-      "rock",
-      "top 40",
-      "wdr"
-    ],
-    "homepage": "https://einslive.de/",
-    "favicon": "https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:29:44Z"
-  },
-  {
     "id": "awb_4e42719f481d49244671",
     "name": "1LIVE Chillout",
     "country": "DE",
@@ -10582,20 +10513,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-22T05:30:29Z"
-  },
-  {
-    "id": "awb_f503ff2074011f888b24",
-    "name": "1live.fm",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_ac2744d61a4a71b33ac8",
@@ -19459,7 +19376,7 @@
   },
   {
     "id": "awb_1d190ad77ab885676d97",
-    "name": "arberwaldradio",
+    "name": "Arberwaldradio",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -19469,7 +19386,7 @@
     "tags": [
       "folk"
     ],
-    "homepage": "https://www.arberwoidradio.com/",
+    "homepage": "https://arberwoidradio.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -19612,7 +19529,7 @@
     "id": "awb_9f6c026e52f2cc2ab155",
     "name": "as.if.radio",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
+    "subdivision": "Cologne",
     "languages": [
       "de",
       "en"
@@ -19646,7 +19563,7 @@
       "werbefrei"
     ],
     "homepage": "https://www.as-if-radio.com/",
-    "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+    "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-04T14:43:37Z"
@@ -24801,7 +24718,7 @@
       "pop"
     ],
     "homepage": "https://www.bremenzwei.de/",
-    "favicon": "https://www.bremenzwei.de/static/img/favicons/favicon-32.png?v=4",
+    "favicon": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:44:42Z"
@@ -26742,7 +26659,7 @@
     "id": "awb_4d93db1f5602c64a3ae1",
     "name": "Club85",
     "country": "DE",
-    "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
+    "subdivision": "Baden-Württemberg",
     "languages": [
       "de"
     ],
@@ -27119,7 +27036,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www1.wdr.de/radio/cosmo/",
-    "favicon": "https://www1.wdr.de/resources/img/wdr/logo/epgmodule/cosmo_logo.svg",
+    "favicon": "https://api.ardmediathek.de/image-service/images/urn%3Aard%3Aimage%3A582c5c2e55a837ff?ch=1775721740344&w=320",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-19T11:18:27Z"
@@ -27590,12 +27507,18 @@
     "name": "Dance Wave!",
     "country": "DE",
     "subdivision": "Bayern",
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "electronic"
     ],
     "tags": [
-      "club dance electronic house trance"
+      "club",
+      "dance",
+      "electronic",
+      "house",
+      "trance"
     ],
     "homepage": "https://dancewave.online/",
     "favicon": "https://dancewave.online/dw_logo.png",
@@ -43474,6 +43397,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_4e94495e0c3ade827bb4",
+    "name": "Halloween Hit Radio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://halloween-hit-radio.com/",
+    "favicon": "https://halloween-hit-radio.com/wp-content/uploads/2025/12/cropped-newhomepageh-h-r-oben-logo-768x379.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T17:49:47Z"
   },
   {
     "id": "awb_8f3e4143581f5894eea6",
@@ -70431,7 +70368,7 @@
   },
   {
     "id": "awb_64da13ba48280ff8393c",
-    "name": "Radio BOB",
+    "name": "Radio Bob",
     "country": "DE",
     "subdivision": "Hessen (Kassel)",
     "languages": [
@@ -70439,7 +70376,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobob.de/#",
+    "homepage": "https://www.radiobob.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -78576,6 +78513,27 @@
     "updatedAt": "2026-07-16T07:46:50Z"
   },
   {
+    "id": "awb_f76d25a0775adcfcd50e",
+    "name": "Radio Luca",
+    "country": "DE",
+    "subdivision": "Sachsen-Anhalt",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "deutschland",
+      "pop"
+    ],
+    "homepage": "https://radio-luca.jimdofree.com/",
+    "favicon": "https://image.jimcdn.com/app/cms/image/transf/none/path/s79cec96568b26f45/image/i5caa35bbb9c8e63a/version/1654619498/image.png",
+    "type": null,
+    "sourceCount": 4,
+    "updatedAt": "2026-01-15T06:22:11Z"
+  },
+  {
     "id": "awb_30f9b0c28f40a5137b1f",
     "name": "Radio M1",
     "country": "DE",
@@ -79948,9 +79906,9 @@
   },
   {
     "id": "awb_111b51398f4845819796",
-    "name": "Radio Paralax",
+    "name": "Radio PARALAX",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
+    "subdivision": "Nordrhein-Westfalen",
     "languages": [
       "de"
     ],
@@ -85918,27 +85876,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_f76d25a0775adcfcd50e",
-    "name": "Radio.luca",
-    "country": "DE",
-    "subdivision": "Deutschland (Germany)",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "deutschland",
-      "pop"
-    ],
-    "homepage": "https://radio-luca.jimdofree.com/",
-    "favicon": "https://image.jimcdn.com/app/cms/image/transf/none/path/s79cec96568b26f45/image/i5caa35bbb9c8e63a/version/1654619498/image.png",
-    "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T06:22:11Z"
   },
   {
     "id": "awb_49f4b30fc25b13b86697",
@@ -105739,22 +105676,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_0226aa0961a126e9d33d",
-    "name": "WDR – 1LIVE | mp3 -128 kBit/s",
-    "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www1.wdr.de/radio/1live/index.html",
-    "favicon": "https://www1.wdr.de/radio/1live/resources-v5.122.3/img/favicon/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:53:55Z"
   },
   {
     "id": "awb_cf0c8f85150306e056d6",

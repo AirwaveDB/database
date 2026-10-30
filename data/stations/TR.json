@@ -195,13 +195,12 @@
     ],
     "tags": [
       "90s hits",
-      "hits 90's",
       "turkish pop"
     ],
     "homepage": "https://radyohome.com/radyolar/90lar",
     "favicon": "https://onlineradio.com.tr/images/50_radio.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-24T10:59:26Z"
   },
   {
@@ -237,14 +236,21 @@
     "name": "90lar turkey",
     "country": "TR",
     "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://37.247.98.8/stream/166/",
-    "favicon": null,
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits 90's",
+      "turkish pop"
+    ],
+    "homepage": "https://radyohome.com/radyolar/90lar",
+    "favicon": "https://onlineradio.com.tr/images/50_radio.png",
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-03-20T11:55:20Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_00785e40d88015adaaf5",
@@ -5812,6 +5818,25 @@
     "updatedAt": "2026-09-08T08:51:58Z"
   },
   {
+    "id": "awb_75d50e00041910f1f082",
+    "name": "Pal Station",
+    "country": "TR",
+    "subdivision": "Music",
+    "languages": [
+      "en",
+      "tr"
+    ],
+    "categories": [],
+    "tags": [
+      "yabancı"
+    ],
+    "homepage": "https://paldigital.com.tr/radyolar/pal-station",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T21:40:57Z"
+  },
+  {
     "id": "awb_e399180509bec6fb8f45",
     "name": "Pal station",
     "country": "TR",
@@ -7212,8 +7237,8 @@
     "homepage": "http://www.radyo7.com/",
     "favicon": "https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png",
     "type": null,
-    "sourceCount": 8,
-    "updatedAt": "2026-04-04T20:32:06Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_f4b163554b19ca4b6d92",
@@ -7352,24 +7377,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-19T15:24:23Z"
-  },
-  {
-    "id": "awb_9da05f70d88240e8f14e",
-    "name": "Radyo 90s",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_8c15d2642aa9df24abfa",
@@ -10038,27 +10045,6 @@
     "updatedAt": "2026-04-19T15:42:09Z"
   },
   {
-    "id": "awb_11b619e59842d673a374",
-    "name": "S1lhoutte - 90's FM",
-    "country": "TR",
-    "subdivision": "Istanbul",
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "90s",
-      "slow"
-    ],
-    "homepage": "http://37.247.98.8/stream/166/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:00:01Z"
-  },
-  {
     "id": "awb_a874260494d723cb1de0",
     "name": "S1lhoutte - Slow FM",
     "country": "TR",
@@ -11527,20 +11513,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-19T00:17:05Z"
-  },
-  {
-    "id": "awb_9364f882c37b48518392",
-    "name": "VİVA TEMPO",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://37.247.98.8/stream/166/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-19T13:49:23Z"
   },
   {
     "id": "awb_4f01f4cbe4351eaeba5b",

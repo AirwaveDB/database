@@ -11091,6 +11091,27 @@
     "updatedAt": "2026-01-15T06:24:38Z"
   },
   {
+    "id": "awb_5ab38530bd849d4b0d8c",
+    "name": "Radio Cantù",
+    "country": "IT",
+    "subdivision": "Lombardia Cantù (CO)",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "music",
+      "news"
+    ],
+    "homepage": "https://www.radiocantu.it/",
+    "favicon": "https://www.corallo.org/wp-content/uploads/sites/2/2025/09/Radio-Cantu.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T18:21:54Z"
+  },
+  {
     "id": "awb_7f38fbfa78ff90ea1d94",
     "name": "Radio Caos Italia",
     "country": "IT",
@@ -17859,7 +17880,7 @@
     "id": "awb_2ec5014d6733135a428b",
     "name": "Radio Meano",
     "country": "IT",
-    "subdivision": "Belluno",
+    "subdivision": "Veneto",
     "languages": [
       "it"
     ],
@@ -26272,7 +26293,7 @@
   },
   {
     "id": "awb_11ab40cc55b8779b4047",
-    "name": "rcuno",
+    "name": "RCUNO",
     "country": "IT",
     "subdivision": null,
     "languages": [
@@ -26290,7 +26311,7 @@
       "rock"
     ],
     "homepage": "http://rcuno.altervista.org/",
-    "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/RCUNO1.jpg",
+    "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/cropped-RCUNO1.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-15T15:59:50Z"
@@ -28145,6 +28166,28 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T05:46:02Z"
+  },
+  {
+    "id": "awb_c4784c21407d12e01673",
+    "name": "RTL 102.5",
+    "country": "IT",
+    "subdivision": "Italy",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop dance",
+      "pop rock"
+    ],
+    "homepage": "https://play.rtl.it/live/1/radiovisione",
+    "favicon": "https://www.rtl.it/favicon.ico",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T14:21:22Z"
   },
   {
     "id": "awb_07f805fcdf8b52aa7ad2",

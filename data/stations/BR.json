@@ -14,7 +14,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2036,6 +2036,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-07T20:07:11Z"
+  },
+  {
+    "id": "awb_f1989aa1d7dc4c08becf",
+    "name": "Black Radio Mistura Certa",
+    "country": "BR",
+    "subdivision": "Sao Paulo (Brazil)",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiomisturacerta.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T17:09:18Z"
   },
   {
     "id": "awb_023a4763459fe9b12a1e",
@@ -6167,7 +6181,7 @@
     "id": "awb_a21216fd9e9d6f2e9273",
     "name": "Jovem pan 95,9 FM",
     "country": "BR",
-    "subdivision": "Recife",
+    "subdivision": "Pernambuco",
     "languages": [],
     "categories": [
       "pop",
@@ -7216,12 +7230,13 @@
     "id": "awb_78f922f72e4f712d251b",
     "name": "MAGIC BOXX RADIO",
     "country": "BR",
-    "subdivision": null,
+    "subdivision": "Espirito Santo",
     "languages": [
       "pt"
     ],
     "categories": [
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -7229,14 +7244,15 @@
       "electronic",
       "eurodance",
       "house",
+      "pop",
       "progressive",
       "tech house"
     ],
     "homepage": "https://mboxxradio.com/",
-    "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
+    "favicon": "https://radio.mboxxradio.com/static/uploads/magic-boxx-radio/album_art.1793272391.webp",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-29T05:52:08Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-29T13:04:22Z"
   },
   {
     "id": "awb_93f71fed57428d6cd095",
@@ -9462,6 +9478,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_bc395bb6b6d77d5b6299",
+    "name": "Nuevo Tiempo",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.nuevotiempo.org/envivo/radio/",
+    "favicon": "https://yt3.googleusercontent.com/IjJKtq-PsglPDmKUl2nBp73YlhBUprieqqPkd6JPW4AluT0LGJUx50zRpf9HPJ-iMv01xbu48Q=w544-c-h544-k-c0x00ffffff-no-l90-rj",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T17:37:47Z"
   },
   {
     "id": "awb_24165c82079ef0b58ff2",
@@ -12957,7 +12989,7 @@
     "id": "awb_2b7b7954faeaf86005a4",
     "name": "Rádio Cambirela - Virtual,mas real.",
     "country": "BR",
-    "subdivision": "Santa Catarina, SC",
+    "subdivision": "Santa Catarina,SC",
     "languages": [],
     "categories": [
       "country",
@@ -14248,6 +14280,36 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-28T21:47:07Z"
+  },
+  {
+    "id": "awb_2ff02265a39913a37e9e",
+    "name": "Rádio Cultura de Lavras 96.5 FM (Lavras - MG)",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "96.5 fm",
+      "lavras",
+      "local news",
+      "minas gerais",
+      "mpb",
+      "news",
+      "sertanejo",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://radioculturadelavras.com.br/",
+    "favicon": "https://radioculturadelavras.com.br/midia/marca/radio-cultura-lavras-quadrada-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T15:07:09Z"
   },
   {
     "id": "awb_7943e5b6093c66e9104f",
@@ -22339,6 +22401,33 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-02T18:48:32Z"
+  },
+  {
+    "id": "awb_2cc653899d08d11158b2",
+    "name": "Rádio UP!",
+    "country": "BR",
+    "subdivision": "São Paulo (SP)",
+    "languages": [
+      "ja",
+      "pt"
+    ],
+    "categories": [
+      "anime",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "anime",
+      "asian programming",
+      "j-music",
+      "j-pop",
+      "j-rock"
+    ],
+    "homepage": "https://radioup.antbr.com/",
+    "favicon": "https://radioup.antbr.com/images/logos/logo_player.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T23:27:15Z"
   },
   {
     "id": "awb_8e3fe62ecd7010ee84a1",

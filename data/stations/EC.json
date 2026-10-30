@@ -1087,6 +1087,26 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_76a14f8707c0d003231c",
+    "name": "Oro Verde",
+    "country": "EC",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "latin",
+      "pop"
+    ],
+    "tags": [
+      "latin pop",
+      "variedad"
+    ],
+    "homepage": "https://radiooroverde.com/public/oroverde",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T23:51:21Z"
+  },
+  {
     "id": "awb_6d68e6d40776aee0b88b",
     "name": "Pa ti Pati cumbia",
     "country": "EC",
@@ -1765,6 +1785,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_cfb9d678c0f653feda09",
+    "name": "Radio Carisma",
+    "country": "EC",
+    "subdivision": "Carchi",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://onlineradiobox.com/ec/extremahd/?cs=ec.extremahd&played=1",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/1/84501.v12.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T13:46:42Z"
   },
   {
     "id": "awb_7920274a35b6f920b11e",

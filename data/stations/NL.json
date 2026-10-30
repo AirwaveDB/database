@@ -1258,6 +1258,20 @@
     "updatedAt": "2026-01-15T03:56:47Z"
   },
   {
+    "id": "awb_40b3d18b1db5f8de3f0e",
+    "name": "Ampere Radio",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://ampere-radio.nl/",
+    "favicon": "https://ampere-radio.nl/wp-content/uploads/2026/06/amrlogo-768x249.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T12:45:20Z"
+  },
+  {
     "id": "awb_189e32f9b2261c9bfb0c",
     "name": "Amsterdam Funk Channel",
     "country": "NL",
@@ -3951,7 +3965,7 @@
     "id": "awb_e7b624d1e594c8bb57a4",
     "name": "Domstad Radio",
     "country": "NL",
-    "subdivision": "Utrecht, Utrecht",
+    "subdivision": "Utrecht",
     "languages": [
       "nl"
     ],
@@ -3964,7 +3978,7 @@
       "top 40"
     ],
     "homepage": "https://domstadradio.nl/",
-    "favicon": "https://domstadradio.nl/wp-content/uploads/2024/04/Logo_modern_trans_wit.png",
+    "favicon": "https://domstadradio.nl/uploads/1790411210483-10406851.png",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-10-12T03:00:48Z"
@@ -7296,10 +7310,10 @@
       "symphonic rock"
     ],
     "homepage": "https://iskcrocks.com/",
-    "favicon": null,
+    "favicon": "https://iskcrocks.com/wp-content/uploads/2025/03/Rock-Radio-RPO.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:02:42Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-29T17:10:44Z"
   },
   {
     "id": "awb_3cf133bfe3d1eb88b95e",
@@ -9344,20 +9358,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:03:07Z"
-  },
-  {
-    "id": "awb_ff22d26d245deed55c6b",
-    "name": "mijncooleradiostation",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://192.168.0.6:8000/stream",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-29T07:48:52Z"
   },
   {
     "id": "awb_f136dce0473354fe4a2d",
@@ -15402,6 +15402,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_220c3349922bc21c8705",
+    "name": "Radio JND",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiojnd.nl/",
+    "favicon": "https://radiojnd.nl/storage/media/folder-2/XUK1xwyrWf5VWPpYgC1cgNEifEGrYH1S67Uq06Ph.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T17:22:28Z"
+  },
+  {
     "id": "awb_059ba656df0fdc367838",
     "name": "Radio Joe",
     "country": "NL",
@@ -17799,6 +17813,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_953ac10696d8c9e6789d",
+    "name": "Relentless Grace Radio",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://relentlessgraceradio.com/#",
+    "favicon": "https://relentlessgraceradio.com/wp-content/themes/blankslate/react-app/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T17:27:53Z"
+  },
+  {
     "id": "awb_4c6ca2ba74c35c0c628e",
     "name": "REPLAY NEWS - Nederlands",
     "country": "NL",
@@ -18659,6 +18687,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:31:14Z"
+  },
+  {
+    "id": "awb_726d26505183eea34f31",
+    "name": "Rust Radio",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "http://www.rustradio.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T11:34:45Z"
   },
   {
     "id": "awb_e2af9dc3897a1f739636",
@@ -20982,6 +21030,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_a8249b675dd96f610bde",
+    "name": "Veronica Beste 80's",
+    "country": "NL",
+    "subdivision": "Noord Holland",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "the best of 80's"
+    ],
+    "homepage": "https://www.radioveronica.nl/",
+    "favicon": "https://api.mediahuisradio.nl/media/c20dqttt/radio-veronica-80s-1080x1080.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T07:37:29Z"
   },
   {
     "id": "awb_eddd98eaaf6159d4aaaf",

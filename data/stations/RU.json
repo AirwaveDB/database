@@ -586,10 +586,10 @@
       "russian shanson"
     ],
     "homepage": "https://101.ru/radio/user/927583",
-    "favicon": "http://bryancev.ru/wp-content/uploads/2020/03/main_photo01-3.jpg",
+    "favicon": "https://biogr.net/wp-content/uploads/2023/02/4358.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-27T17:50:08Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-29T09:20:19Z"
   },
   {
     "id": "awb_0a51f2a0b484bd5c66c0",
@@ -3014,7 +3014,7 @@
     "id": "awb_bb18e22d61efdf04b4fe",
     "name": "BRİDGE TV",
     "country": "RU",
-    "subdivision": "Moscow",
+    "subdivision": "Moscow (Russia)",
     "languages": [
       "en",
       "ru"
@@ -3025,7 +3025,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://bridgetv.ru/about/channels/",
+    "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
     "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
     "type": null,
     "sourceCount": 3,
@@ -7518,6 +7518,30 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_c346464c0b9bb1f1c618",
+    "name": "get.radio — 60-е",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "music",
+      "sipout.ai",
+      "sixties"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=sixties",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/sixties.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T20:02:39Z"
+  },
+  {
     "id": "awb_a76218f000bf71986e1f",
     "name": "get.radio — 60-е (Английский)",
     "country": "RU",
@@ -7596,6 +7620,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-24T21:06:14Z"
+  },
+  {
+    "id": "awb_201cbfe062a9c6449a06",
+    "name": "get.radio — 80-е",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "eighties",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=eighties",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/eighties.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:54:30Z"
   },
   {
     "id": "awb_7cbdf0bf389e03ccfdf1",
@@ -7678,6 +7726,30 @@
     "updatedAt": "2026-10-24T21:06:14Z"
   },
   {
+    "id": "awb_f678e2bb9cd4cd29ada0",
+    "name": "get.radio — Гиперпоп",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "hyperpop",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=hyperpop",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/hyperpop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:41:13Z"
+  },
+  {
     "id": "awb_b449388e610bd7ba4fce",
     "name": "get.radio — Гиперпоп (Английский)",
     "country": "RU",
@@ -7756,6 +7828,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-24T21:06:14Z"
+  },
+  {
+    "id": "awb_7ff425fa2df1645fe545",
+    "name": "get.radio — Джаз",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=jazz",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/jazz.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:54:30Z"
   },
   {
     "id": "awb_0db4cba5f8878579dd67",
@@ -7846,6 +7944,30 @@
     "updatedAt": "2026-10-24T21:05:23Z"
   },
   {
+    "id": "awb_992d6c76d113b6b9678a",
+    "name": "get.radio — Кино",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "cinema",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=cinema",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/cinema.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:45:22Z"
+  },
+  {
     "id": "awb_8f2d8a0326a356bf94ed",
     "name": "get.radio — Кино (Английский)",
     "country": "RU",
@@ -7924,6 +8046,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-24T21:05:23Z"
+  },
+  {
+    "id": "awb_9e11274809a9d7bc21de",
+    "name": "get.radio — Классика",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=classical",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/classical.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:41:13Z"
   },
   {
     "id": "awb_10380a6e3e48d08b914e",
@@ -8017,17 +8165,25 @@
     "id": "awb_3561e5cf095f3dc794a4",
     "name": "get.radio — Лоу-фай",
     "country": "RU",
-    "subdivision": null,
+    "subdivision": "Moscow",
     "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
       "ru"
     ],
     "categories": [],
-    "tags": [],
-    "homepage": "https://get-radio.sipout.ai/?wave=lofi&lang=ru",
+    "tags": [
+      "lofi",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=lofi",
     "favicon": "https://get-radio.sipout.ai/cover/wave/lofi.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-24T21:05:23Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T19:45:22Z"
   },
   {
     "id": "awb_ff06552aecbb801315cb",
@@ -8088,6 +8244,80 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-24T21:05:23Z"
+  },
+  {
+    "id": "awb_4a9b4b7f18577a5b2467",
+    "name": "get.radio — Микс всех волн",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "mix",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=mix",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/mix.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:45:22Z"
+  },
+  {
+    "id": "awb_6234a39afc4bd2e853df",
+    "name": "get.radio — Новый год",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "music",
+      "newyear",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=newyear",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/newyear.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:54:30Z"
+  },
+  {
+    "id": "awb_411f2462761f37a581c9",
+    "name": "get.radio — Поп",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "music",
+      "pop",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=pop",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/pop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:41:13Z"
   },
   {
     "id": "awb_58659f6f37d53ae92899",
@@ -8178,6 +8408,32 @@
     "updatedAt": "2026-10-24T21:05:23Z"
   },
   {
+    "id": "awb_51e19bdf87ac8f32b979",
+    "name": "get.radio — Рок",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "music",
+      "rock",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=rock",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/rock.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:56:28Z"
+  },
+  {
     "id": "awb_dcd2c15af8b5ae76499f",
     "name": "get.radio — Рок (Английский)",
     "country": "RU",
@@ -8264,6 +8520,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-24T21:06:14Z"
+  },
+  {
+    "id": "awb_d01427eea1a0ea2cec8e",
+    "name": "get.radio — Рэп",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "music",
+      "rap",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=rap",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/rap.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:45:22Z"
   },
   {
     "id": "awb_5f5343271fd411fe3c13",
@@ -8354,6 +8636,30 @@
     "updatedAt": "2026-10-24T21:06:14Z"
   },
   {
+    "id": "awb_d381a93927b48266ef24",
+    "name": "get.radio — Синтвейв",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "music",
+      "sipout.ai",
+      "synth"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=synth",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/synth.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T20:02:39Z"
+  },
+  {
     "id": "awb_5da5d4f35797da34b47b",
     "name": "get.radio — Синтвейв (Английский)",
     "country": "RU",
@@ -8432,6 +8738,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-24T21:05:23Z"
+  },
+  {
+    "id": "awb_84f803bad54aa659a30f",
+    "name": "get.radio — Хаус",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "house",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=house",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/house.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:56:29Z"
   },
   {
     "id": "awb_c5b83cfe5a0c407b2a9f",
@@ -8522,6 +8854,32 @@
     "updatedAt": "2026-10-24T21:05:23Z"
   },
   {
+    "id": "awb_1adee8774aec17855332",
+    "name": "get.radio — Хип-хоп",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hiphop",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=hiphop",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/hiphop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:41:13Z"
+  },
+  {
     "id": "awb_a762af6c2b8027f0c882",
     "name": "get.radio — Хип-хоп (Английский)",
     "country": "RU",
@@ -8608,6 +8966,56 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-24T21:05:23Z"
+  },
+  {
+    "id": "awb_2106d27df0b0920dffc7",
+    "name": "get.radio — Хэллоуин",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "halloween",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=halloween",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/halloween.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:37:16Z"
+  },
+  {
+    "id": "awb_21b658384fd607d59f28",
+    "name": "get.radio — Чилл",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "chill",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=chill",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/chill.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:56:28Z"
   },
   {
     "id": "awb_3857389c7afd99319120",
@@ -8698,6 +9106,30 @@
     "updatedAt": "2026-10-24T21:06:14Z"
   },
   {
+    "id": "awb_0fd500ae99d27ec91f86",
+    "name": "get.radio — Шансон",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "chanson",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=chanson",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/chanson.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:45:22Z"
+  },
+  {
     "id": "awb_5cb1c5f7af7228e26009",
     "name": "get.radio — Шансон (Английский)",
     "country": "RU",
@@ -8776,6 +9208,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-24T21:06:31Z"
+  },
+  {
+    "id": "awb_ed1d6693e731c3bef907",
+    "name": "get.radio — Эмбиент",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=ambient",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/ambient.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:54:30Z"
   },
   {
     "id": "awb_5d4e90a5074c3afb7ab8",
@@ -28630,20 +29088,6 @@
     "updatedAt": "2026-09-10T13:05:48Z"
   },
   {
-    "id": "awb_633fef822f5bfa13bcbe",
-    "name": "russ",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rusradio.hostingradio.ru/rusradio105.5.aacp",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_ea310a941646518edb0a",
     "name": "Russian Drive",
     "country": "RU",
@@ -28738,20 +29182,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:17:35Z"
-  },
-  {
-    "id": "awb_44a929a214c473446938",
-    "name": "Russian Radio Moscow",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rusradio.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_f9aee4b9457f04e3e549",
@@ -48428,25 +48858,6 @@
     "id": "awb_37f285b28fb0471cffed",
     "name": "Русское Радио",
     "country": "RU",
-    "subdivision": "Москва",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "misc",
-      "pop"
-    ],
-    "homepage": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/8/248.v10.png",
-    "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_5b76e3b292eb57b7930f",
-    "name": "Русское радио",
-    "country": "RU",
     "subdivision": "cremea",
     "languages": [
       "ru"
@@ -48457,34 +48868,15 @@
     "tags": [
       "music",
       "pop",
+      "pop music",
       "russian music",
       "russian pop"
     ],
     "homepage": "https://rusradio.ru/",
-    "favicon": null,
+    "favicon": "https://cdn.onlineradiobox.com/img/l/8/248.v10.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-06-18T20:50:13Z"
-  },
-  {
-    "id": "awb_f88c2e55ea06e5d80c6a",
-    "name": "Русское Радио Moscow",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "https://rusradio.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:43:13Z"
+    "sourceCount": 5,
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_f20e9657d602bdb56e48",
@@ -50751,16 +51143,18 @@
     "name": "ХИТ FM Пермь",
     "country": "RU",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "ru"
+    ],
     "categories": [],
     "tags": [
       "хит fm"
     ],
     "homepage": "https://top-radio.ru/perm/xit-fm",
-    "favicon": "https://top-radio.ru/assets/image/radio/180/hit-fm.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 10,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_624368faf84185ed7707",

@@ -1200,6 +1200,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_7f4d65a94fa34672002d",
+    "name": "20th Century Classical Radio",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": "https://20thclassicalmusic.gr/",
+    "favicon": "https://20thclassicalmusic.gr/wp-content/uploads/2026/10/logo-1.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:13:30Z"
+  },
+  {
     "id": "awb_7595edd9dd89a386f091",
     "name": "21.ΕΡΑ Vintage",
     "country": "GR",
@@ -1838,7 +1856,7 @@
     "id": "awb_b75cfc000841a41fb8db",
     "name": "9.ΕΡΑ sports",
     "country": "GR",
-    "subdivision": "Athens",
+    "subdivision": "Attica, Athens",
     "languages": [
       "el"
     ],
@@ -5688,7 +5706,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://s6.citrus3.com/stream/coolradio",
+    "homepage": "https://s6.citrus3.com/stream/coolradio",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -7664,7 +7682,7 @@
     "id": "awb_26a51cf565919736f4ad",
     "name": "eMusic Site",
     "country": "GR",
-    "subdivision": "Attiki",
+    "subdivision": "Attica, Athens",
     "languages": [
       "el",
       "en"
@@ -7873,13 +7891,17 @@
     "country": "GR",
     "subdivision": null,
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult hits"
+    ],
     "homepage": "https://cosmopolitanradio.com/",
     "favicon": "https://cosmopolitanradio.com/wp-content/uploads/2025/01/cropped-Epic-1.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T20:16:38Z"
   },
   {
     "id": "awb_5ce7d3c536a6d97fabd2",
@@ -11330,6 +11352,20 @@
     "updatedAt": "2026-01-15T06:34:58Z"
   },
   {
+    "id": "awb_3775bfe91aa163fbf948",
+    "name": "Imaret Online",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://imaret.online/",
+    "favicon": "https://imaret.online/favicon.ico?utm_source=chatgpt.com",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T12:39:04Z"
+  },
+  {
     "id": "awb_2ea9cf76aad143ea3ac1",
     "name": "Imera FM 90.4",
     "country": "GR",
@@ -11358,6 +11394,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_d735f03de9d4cc3cd0db",
+    "name": "Innersound Radio",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [],
+    "categories": [
+      "jazz",
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "indie",
+      "jazz",
+      "rock"
+    ],
+    "homepage": "https://innersound-radio.com/",
+    "favicon": "https://cdn.e-radio.gr/logos/gr/big/innersound.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:20:11Z"
   },
   {
     "id": "awb_6546c10efb475f82cc36",
@@ -11640,6 +11698,20 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_b464853b598244df4857",
+    "name": "je t'aime club",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.jetaimeclubradio.gr/",
+    "favicon": "https://www.jetaimeclubradio.gr/images/298333_252413334798724_6729792_n.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T20:03:11Z"
+  },
+  {
     "id": "awb_e7949dcedd1e60c4d128",
     "name": "Jockey",
     "country": "GR",
@@ -11711,6 +11783,24 @@
     "updatedAt": "2026-10-10T19:22:12Z"
   },
   {
+    "id": "awb_81e75163fb82d4418f33",
+    "name": "Kalithea",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult pop"
+    ],
+    "homepage": "https://www.kalitheapress.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/aa7325ea-4223-4700-b72b-0f1f10fae718.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T20:31:49Z"
+  },
+  {
     "id": "awb_c4ce19932466b432a103",
     "name": "Kalloni 87.5",
     "country": "GR",
@@ -11764,6 +11854,24 @@
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-10-28T01:30:58Z"
+  },
+  {
+    "id": "awb_5daf4d1f3882debc368d",
+    "name": "Kartel",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hiphop"
+    ],
+    "homepage": "https://lalala.gr/#kartel",
+    "favicon": "https://lalala.gr/wp-content/uploads/2022/08/small-logo-kartel.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T20:45:28Z"
   },
   {
     "id": "awb_6238359a928c7aa2b0fe",
@@ -29104,6 +29212,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:02:30Z"
+  },
+  {
+    "id": "awb_f45f5add3b7d37308c96",
+    "name": "XENIS Radio",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "ambient",
+      "classical",
+      "jazz"
+    ],
+    "tags": [
+      "ambient",
+      "classical",
+      "jazz",
+      "soundtracks"
+    ],
+    "homepage": "https://xenisradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T12:23:12Z"
   },
   {
     "id": "awb_3dc92ee56df7355e3691",
