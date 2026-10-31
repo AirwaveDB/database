@@ -6008,7 +6008,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -6026,7 +6026,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://www.cfnj.net/",
+    "homepage": "http://cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -11407,29 +11407,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:24:21Z"
-  },
-  {
-    "id": "awb_8c0dcf2916c955991d51",
-    "name": "CISB 106.3 Sandy Bay, Manitoba",
-    "country": "CA",
-    "subdivision": "Manitoba",
-    "languages": [
-      "en",
-      "oj"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "first nations",
-      "music variety"
-    ],
-    "homepage": "https://sbofn.com/sandy-bay-radio-106-3-cisb-fm/",
-    "favicon": "https://sbofn.com/wp-content/uploads/2025/08/Sandy-Bay-Radio-Logo.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-10-30T03:23:53Z"
   },
   {
     "id": "awb_2a8d122498653c7bad9e",
@@ -27475,7 +27452,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto, ON",
+    "subdivision": "Toronto",
     "languages": [],
     "categories": [
       "jazz"
@@ -27484,7 +27461,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,
@@ -29175,6 +29152,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:45:26Z"
+  },
+  {
+    "id": "awb_e9777fb9cbbbda9e3284",
+    "name": "Пончо FM",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "uk"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://ponchofm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T10:17:02Z"
   },
   {
     "id": "awb_b39712d1e9d60ec16efb",

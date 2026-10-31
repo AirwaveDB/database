@@ -13433,6 +13433,31 @@
     "updatedAt": "2026-01-15T01:34:09Z"
   },
   {
+    "id": "awb_e1afd3d8773e8cc93fff",
+    "name": "RMF Chopin (64 kbps, playlista + FAKTY)",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "24/7",
+      "chopin",
+      "classical",
+      "classical piano",
+      "piano",
+      "playlist"
+    ],
+    "homepage": "http://www.rmfon.pl/play,85",
+    "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T09:30:48Z"
+  },
+  {
     "id": "awb_57da0bf3eb29440ef82d",
     "name": "RMF Chopin + FAKTY",
     "country": "PL",
@@ -13444,13 +13469,14 @@
       "classical"
     ],
     "tags": [
+      "chopin",
       "classical"
     ],
     "homepage": "http://www.rmfon.pl/play,85",
     "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:40:20Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-10-30T09:30:48Z"
   },
   {
     "id": "awb_b6811db8fde7ce49e536",
@@ -14021,7 +14047,7 @@
     "id": "awb_ccafb97eb92dab888427",
     "name": "RMF MAXX",
     "country": "PL",
-    "subdivision": "Małopolskie",
+    "subdivision": "Malopolskie",
     "languages": [
       "pl"
     ],

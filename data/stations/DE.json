@@ -19376,7 +19376,7 @@
   },
   {
     "id": "awb_1d190ad77ab885676d97",
-    "name": "Arberwaldradio",
+    "name": "arberwaldradio",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -19386,7 +19386,7 @@
     "tags": [
       "folk"
     ],
-    "homepage": "https://arberwoidradio.com/",
+    "homepage": "https://www.arberwoidradio.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -19529,7 +19529,7 @@
     "id": "awb_9f6c026e52f2cc2ab155",
     "name": "as.if.radio",
     "country": "DE",
-    "subdivision": "Cologne",
+    "subdivision": "North Rhine-Westphalia",
     "languages": [
       "de",
       "en"
@@ -19563,7 +19563,7 @@
       "werbefrei"
     ],
     "homepage": "https://www.as-if-radio.com/",
-    "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
+    "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-04T14:43:37Z"
@@ -20189,6 +20189,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:46:22Z"
+  },
+  {
+    "id": "awb_63a2ac60f59857700694",
+    "name": "Bavariabeats",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "drum & bass",
+      "drum and bass",
+      "elektro",
+      "house",
+      "smooth",
+      "techno"
+    ],
+    "homepage": "https://bavariabeats.de/",
+    "favicon": "https://bavariabeats.de/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T23:03:49Z"
   },
   {
     "id": "awb_30db16def6a205e8b4c9",
@@ -21927,7 +21953,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
+    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z"
@@ -27036,7 +27062,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www1.wdr.de/radio/cosmo/",
-    "favicon": "https://api.ardmediathek.de/image-service/images/urn%3Aard%3Aimage%3A582c5c2e55a837ff?ch=1775721740344&w=320",
+    "favicon": "https://www1.wdr.de/resources/img/wdr/logo/epgmodule/cosmo_logo.svg",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-19T11:18:27Z"
@@ -30377,6 +30403,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-20T04:47:12Z"
+  },
+  {
+    "id": "awb_b3486d66c4e183212855",
+    "name": "DJNoisy Radio",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "disco polo",
+      "dj",
+      "house",
+      "independent",
+      "polish",
+      "trance"
+    ],
+    "homepage": "https://djnoisy-radio.pl/",
+    "favicon": "https://djnoisy-radio.pl/djnoisy-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T20:59:38Z"
   },
   {
     "id": "awb_4908ab07205a8f6e4f07",
@@ -48353,7 +48405,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://inthemix.at/?live_stream_id=108",
+    "homepage": "https://inthemix.at/",
     "favicon": "https://inthemix.at/image.php?object_id=108&object_type=live_stream&thumb=14",
     "type": null,
     "sourceCount": 2,
@@ -55289,7 +55341,7 @@
       "techno"
     ],
     "homepage": "https://www.leipzig-beatzz.de/",
-    "favicon": "https://assets.website-files.com/5f5ff904eff116e46575e21b/5f6007dbf31b43899f2f51c9_Beatzz%20Logo%20Wei%C3%9F-p-800.png",
+    "favicon": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/75/28/9c75281d-92b1-a6e0-8373-cc9dc35a86d0/source/60x60bb.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -70368,7 +70420,7 @@
   },
   {
     "id": "awb_64da13ba48280ff8393c",
-    "name": "Radio Bob",
+    "name": "Radio BOB",
     "country": "DE",
     "subdivision": "Hessen (Kassel)",
     "languages": [
@@ -70376,7 +70428,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobob.de/",
+    "homepage": "https://www.radiobob.de/#",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -77474,6 +77526,20 @@
     "updatedAt": "2026-01-15T07:47:33Z"
   },
   {
+    "id": "awb_5a3f67e44db24a1cee67",
+    "name": "Radio Hybrid",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radio-hybrid.de/",
+    "favicon": "https://www.radio-hybrid.de/assets/icons/radio_hybrid_logo_zemivo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T14:58:55Z"
+  },
+  {
     "id": "awb_0b4517d785951e404f1e",
     "name": "Radio IN",
     "country": "DE",
@@ -79906,9 +79972,9 @@
   },
   {
     "id": "awb_111b51398f4845819796",
-    "name": "Radio PARALAX",
+    "name": "Radio Paralax",
     "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
+    "subdivision": "North Rhine-Westphalia",
     "languages": [
       "de"
     ],
@@ -82184,7 +82250,7 @@
   },
   {
     "id": "awb_7b44365c7ed5c851f87c",
-    "name": "Radio Santec",
+    "name": "radio santec",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -82192,7 +82258,7 @@
     "tags": [
       "religous"
     ],
-    "homepage": "https://radio-santec.com/en/home/audio/",
+    "homepage": "https://radio-santec.com/",
     "favicon": "https://radio-santec.com/wp-content/uploads/2019/02/radio_-santec_logo.png",
     "type": null,
     "sourceCount": 2,
@@ -105292,7 +105358,7 @@
     "id": "awb_672de553ce76017853b3",
     "name": "Veedelsradio",
     "country": "DE",
-    "subdivision": "Nrw",
+    "subdivision": "Nordrhein-Westfalen",
     "languages": [
       "de"
     ],
@@ -107212,8 +107278,8 @@
     "homepage": "https://www1.wdr.de/radio/wdr4/index.html",
     "favicon": "https://www1.wdr.de/resources/img/favicon/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 6,
+    "updatedAt": "2026-10-30T19:05:02Z"
   },
   {
     "id": "awb_e68ca491c4807a60d3d6",

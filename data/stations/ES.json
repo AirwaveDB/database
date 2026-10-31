@@ -1511,6 +1511,20 @@
     "updatedAt": "2026-10-19T21:24:13Z"
   },
   {
+    "id": "awb_0238a1da37cbcdce0fbf",
+    "name": "ArcoFM",
+    "country": "ES",
+    "subdivision": "Santander",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://arcofm.com/",
+    "favicon": "https://arcofm.com/favicon",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T15:37:32Z"
+  },
+  {
     "id": "awb_336e446d92a58169ec28",
     "name": "Armonia Duero",
     "country": "ES",
@@ -3700,7 +3714,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://cadenaser.com/radio-san-sebastian/",
-    "favicon": "https://listaradio.com/storage/radios/17744/37779/conversions/mNYLhS77V1B5YyOMtoIV0T2cHSfukH-metaUmFkaW9TYW5TZWJhc3RpYW5DYWRlbmFTRVIucG5n--lg.webp",
+    "favicon": "http://cadenaser00.epimg.net/iconos/v1.x/v1.0/redes/imagenes_og/emisoras_v2/1200x630_imagen_control_radio_san_sebastian.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:22:40Z"
@@ -5746,7 +5760,7 @@
       "hardstyle",
       "music"
     ],
-    "homepage": "https://decibeliafm.es/web/",
+    "homepage": "https://decibeliafm.es/",
     "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
     "type": null,
     "sourceCount": 2,
@@ -11492,7 +11506,7 @@
     "tags": [
       "hits"
     ],
-    "homepage": "http://www.locafm.com/",
+    "homepage": "https://www.locafm.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -14006,8 +14020,8 @@
       "sports",
       "talks"
     ],
-    "homepage": "https://ondacero.es/",
-    "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
+    "homepage": "https://www.ondacero.es/emisoras/andalucia/huelva/directo/",
+    "favicon": "https://i.scdn.co/image/ab6775700000ee851a865a3769a3e6868928a43f",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-04-01T11:00:35Z"
@@ -18288,7 +18302,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiolagranjazaragoza.wordpress.com/",
-    "favicon": "https://radiolagranjazaragoza.wordpress.com/wp-content/uploads/2021/07/cropped-radiolagranjaramone.png?w=180",
+    "favicon": "https://radiobot.radioslibres.info/static/uploads/radio_la_granja/background.1713382583.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-17T06:08:50Z"
@@ -22814,8 +22828,8 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://emisorasmusicales.net/",
-    "favicon": "https://www.emisorasmusicales.net/emisoras/rockstar/#",
+    "homepage": "https://www.emisorasmusicales.net/",
+    "favicon": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023734/Rockstar-300x300.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-12T05:08:43Z"
@@ -24823,6 +24837,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-23T20:11:50Z"
+  },
+  {
+    "id": "awb_0bbb4c33276c9e08e81f",
+    "name": "yeclamedia",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "local radio"
+    ],
+    "homepage": "https://yeclamedia.com/radio/",
+    "favicon": "https://yeclamedia.com/wp-content/uploads/2024/12/logotipo-yeclamedia-ok.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T08:11:42Z"
   },
   {
     "id": "awb_b252d4b367443580d328",

@@ -666,7 +666,7 @@
   },
   {
     "id": "awb_70b2b2c4cb95c9c8747f",
-    "name": "94fm",
+    "name": "94FM",
     "country": "BR",
     "subdivision": "Rio Grande do Sul",
     "languages": [],
@@ -3298,6 +3298,24 @@
     "updatedAt": "2026-10-12T22:23:10Z"
   },
   {
+    "id": "awb_44c8e360bb61e0d6c19c",
+    "name": "Corinthians Radio Craque Neto",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "futebol"
+    ],
+    "homepage": "https://radiocraqueneto.com/",
+    "favicon": "https://cp-1.owh.radio.br/static/uploads/owh_s34052/album_art.1793396868.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T22:50:46Z"
+  },
+  {
     "id": "awb_680bb797283e0b3a9a13",
     "name": "Correio FM Correio FM Campina Grande",
     "country": "BR",
@@ -5488,6 +5506,28 @@
     "updatedAt": "2026-10-08T13:26:23Z"
   },
   {
+    "id": "awb_e050b3645f85e05a74bf",
+    "name": "Hunter.FM - O Canal Pop2K",
+    "country": "BR",
+    "subdivision": "Brasília - DF",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "anos 2000",
+      "flashback",
+      "pop"
+    ],
+    "homepage": "https://hunter.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T21:06:37Z"
+  },
+  {
     "id": "awb_8b7f827bb4d71cce1e30",
     "name": "Hunter.FM - O Canal Rock",
     "country": "BR",
@@ -7249,7 +7289,7 @@
       "tech house"
     ],
     "homepage": "https://mboxxradio.com/",
-    "favicon": "https://radio.mboxxradio.com/static/uploads/magic-boxx-radio/album_art.1793272391.webp",
+    "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-29T13:04:22Z"
@@ -9619,6 +9659,24 @@
     "updatedAt": "2026-06-18T03:05:49Z"
   },
   {
+    "id": "awb_fdcad6f39ce62a6ebacc",
+    "name": "os matutos",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "popular"
+    ],
+    "homepage": "https://www.owh.radio.br/",
+    "favicon": "https://cp-1.owh.radio.br/static/uploads/album_art.1779240973.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-31T02:20:38Z"
+  },
+  {
     "id": "awb_26596fada3a5c8a473f9",
     "name": "Ouro Verde FM Easy 105.5",
     "country": "BR",
@@ -11249,6 +11307,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_15686701521afdd8dc6c",
+    "name": "Radio Alto Astral",
+    "country": "BR",
+    "subdivision": "Roraima",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.altoastralfm.com.br/",
+    "favicon": "https://www.altoastralfm.com.br/uploads/1706728291-ezgif-7-9d23caa132.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T21:10:24Z"
   },
   {
     "id": "awb_b4eca898c9ae1c9c1718",
@@ -13183,6 +13255,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_4805a68e779f771e9434",
+    "name": "Rádio Caxias",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "caxias do sul",
+      "journalism",
+      "news",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://radiocaxias.com.br/",
+    "favicon": "https://www.radiocaxias.com.br/marca/radio-caxias-600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T22:20:30Z"
   },
   {
     "id": "awb_798c26075b7c53ef27cd",
@@ -15500,6 +15598,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_7d6b528412725aa5cc66",
+    "name": "Radio Folha",
+    "country": "BR",
+    "subdivision": "Roraima",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiofolha.fm/",
+    "favicon": "https://www.radiofolha.fm/site/assets/images/logo_retangulo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T20:26:09Z"
   },
   {
     "id": "awb_5734b0f60a579db6e9fe",
@@ -20508,6 +20620,20 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_d0610e347ad0bad6d531",
+    "name": "Rádio Roraima",
+    "country": "BR",
+    "subdivision": "Roraima",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiororaima.com.br/",
+    "favicon": "https://pbr-str.srvsite.com/arquivos/9048/cabecalho-9048-20220914111213.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T20:34:11Z"
+  },
+  {
     "id": "awb_5a311aadaacd76fd95c6",
     "name": "Rádio Rural de Natal 91.9 FM",
     "country": "BR",
@@ -22019,6 +22145,28 @@
     "updatedAt": "2026-02-23T22:15:48Z"
   },
   {
+    "id": "awb_4758c26a3f360d47f342",
+    "name": "Rádio Tua Voz",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "caxias do sul",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://tuavoz.com.br/",
+    "favicon": "https://www.radiocaxias.com.br/marca/radio-tua-voz-600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T22:13:04Z"
+  },
+  {
     "id": "awb_c41df0beea045dca9e21",
     "name": "Radio Tupa FM",
     "country": "BR",
@@ -22329,6 +22477,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-13T19:29:15Z"
+  },
+  {
+    "id": "awb_1eb0608a898e74d72044",
+    "name": "Radio Universitária de Roraima",
+    "country": "BR",
+    "subdivision": "Roraima",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio.ufrr.br/",
+    "favicon": "https://radio.ufrr.br/img/logo-radio.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T20:58:16Z"
   },
   {
     "id": "awb_4ed39d3a4b6dd1f5f466",

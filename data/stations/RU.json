@@ -25969,6 +25969,31 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_a4429eae799785ae59c8",
+    "name": "Radio Record 10's Dance (via Marseille)",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "electronic",
+      "pop"
+    ],
+    "tags": [
+      "2010s",
+      "dance",
+      "electronic",
+      "house",
+      "pop"
+    ],
+    "homepage": "https://www.radiorecord.ru/station/2010",
+    "favicon": "https://www.radiorecord.ru/icons/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T10:18:34Z"
+  },
+  {
     "id": "awb_4cffbb137f4d0e828903",
     "name": "Radio Record 2-step",
     "country": "RU",
@@ -41757,6 +41782,23 @@
     "updatedAt": "2026-01-15T00:34:47Z"
   },
   {
+    "id": "awb_6f5ac415b39dce5ce157",
+    "name": "Радио Группы Солидарности с КНДР",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ko",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://vk.ru/solidarity_dprk",
+    "favicon": "https://kuasark.com/files/stations-logos/russian-chinese-music-radio-e-zhong-yin-le-tai.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T14:22:06Z"
+  },
+  {
     "id": "awb_526f877300f5a8d956d3",
     "name": "РАДИО ГУСЬ",
     "country": "RU",
@@ -42650,6 +42692,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:56:18Z"
+  },
+  {
+    "id": "awb_e4e1bcec5b2ea203a278",
+    "name": "Радио Любимые хиты",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "retro"
+    ],
+    "homepage": "http://lyubimyehity.ru/",
+    "favicon": "https://i.imgur.com/V1lp79A.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T20:34:53Z"
   },
   {
     "id": "awb_3e3b438a1a1a487ae8b6",
@@ -51096,7 +51159,7 @@
     "id": "awb_d0e72ae4262a7e8be492",
     "name": "Хит FM",
     "country": "RU",
-    "subdivision": "Moscow/Saint Petersburg",
+    "subdivision": "Moscow",
     "languages": [
       "ru"
     ],

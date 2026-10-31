@@ -10733,7 +10733,7 @@
       "music",
       "the best dance music mix"
     ],
-    "homepage": "https://danceuk.danceradiouk.com/",
+    "homepage": "https://danceuk.danceradiouk.com/both-channels/",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240224_044329769.jpg?alt=media&token=87304d76-106f-47e3-beb5-ea733ecba274",
     "type": null,
     "sourceCount": 4,
@@ -22301,7 +22301,7 @@
       "top 40"
     ],
     "homepage": "http://www.mazoozie.com/",
-    "favicon": "https://www.mazoozie.com/images/loader.png",
+    "favicon": "https://www.mazoozie.com/img/logo-mazoozie-mashup.c4c3588a.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-06-28T13:32:35Z"
@@ -26212,7 +26212,7 @@
       "praise",
       "worship"
     ],
-    "homepage": "https://www.premier.plus/stations/premier-peace",
+    "homepage": "https://www.premier.plus/stations/premier-praise",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -29568,7 +29568,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiowave.eu/public/test",
-    "favicon": "https://radiowave.eu/static/uploads/browser_icon/180.1743030143.png",
+    "favicon": "https://radiowave.eu/static/uploads/browser_icon/192.1743030143.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-23T14:38:15Z"
@@ -30883,8 +30883,22 @@
     "updatedAt": "2026-01-15T08:38:09Z"
   },
   {
+    "id": "awb_4d900e46928ed7781c23",
+    "name": "Rokit Radio 1940s Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www2.rokitradio.com/",
+    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
     "id": "awb_f76b3b62acdafadb1e33",
-    "name": "ROKiT Radio : Science Fiction",
+    "name": "ROKit Radio Science Fiction",
     "country": "GB",
     "subdivision": "London, England",
     "languages": [
@@ -30901,24 +30915,10 @@
       "scifi"
     ],
     "homepage": "https://rokitradio.com/",
-    "favicon": "https://rokitradio.com/images/rokit-radio-mic.png",
+    "favicon": "https://rokitradio.com/images/channels/scifi.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:11:46Z"
-  },
-  {
-    "id": "awb_4d900e46928ed7781c23",
-    "name": "Rokit Radio 1940s Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www2.rokitradio.com/",
-    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_4f80b87c36c6127a0778",

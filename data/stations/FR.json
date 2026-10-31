@@ -17326,8 +17326,8 @@
       "hotmix",
       "pop"
     ],
-    "homepage": "https://www.hotmixradio.com/",
-    "favicon": "https://www.hotmixradio.com/favicon.ico",
+    "homepage": "https://hotmixradio.com/",
+    "favicon": "https://cdn.hotmixradio.com/hotmix-2000s-fr-mp3.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -27749,7 +27749,7 @@
       "pop dance",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/",
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-generation-90",
     "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/nosta90.jpeg",
     "type": "internet",
     "sourceCount": 3,
@@ -40020,7 +40020,7 @@
       "gospel music",
       "pop rock"
     ],
-    "homepage": "https://www.radioibnjparis.com/",
+    "homepage": "https://radioibnjparis.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 3,
@@ -46991,6 +46991,29 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_bf7e693373c9d38a853a",
+    "name": "Saravadio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "alternative rock",
+      "experimental/avant garde",
+      "indie rock",
+      "rock"
+    ],
+    "homepage": "https://saravadio.fr/",
+    "favicon": "http://streamradio.fr/assets/img/index/saravadio.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T09:45:05Z"
+  },
+  {
     "id": "awb_f2930a35d81e6e7d6952",
     "name": "Satellite FM Paris",
     "country": "FR",
@@ -48105,7 +48128,7 @@
       "metal"
     ],
     "homepage": "https://lesonunique.com/mysun/parcourir/sun-metal",
-    "favicon": "https://assets.radioplayer.org/250/2501928/600/600/m6gk7w9y.png",
+    "favicon": "https://assets.radioplayer.org/250/2501923/600/600/mrp1g2m0.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-02T03:21:24Z"
@@ -48530,7 +48553,7 @@
       "talk"
     ],
     "homepage": "https://www.tbm06.fr/radio/",
-    "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
+    "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-20T17:58:29Z"
@@ -50686,6 +50709,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-16T15:11:09Z"
+  },
+  {
+    "id": "awb_32cfde61cfd2dd4912b5",
+    "name": "Voltige Radio Dance",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "dancefloor",
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://www.voltigeradio.net/",
+    "favicon": "https://www.voltigeradio.net/uploads/6925ac837cef6b0dabaaa932a884b08d.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T11:44:13Z"
   },
   {
     "id": "awb_149339d521ec7bbad641",
