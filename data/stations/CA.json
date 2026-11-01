@@ -1802,6 +1802,31 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_a57efead73e6c6076c73",
+    "name": "Alberta Radio",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "electronic",
+      "rock"
+    ],
+    "tags": [
+      "country",
+      "edm",
+      "rock",
+      "trance"
+    ],
+    "homepage": "https://www.albertaradio.ca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T05:21:43Z"
+  },
+  {
     "id": "awb_b424998edc3da4f92569",
     "name": "Alexandria Radio",
     "country": "CA",
@@ -6008,7 +6033,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -6026,7 +6051,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://cfnj.net/",
+    "homepage": "http://www.cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -8741,20 +8766,6 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
-    "id": "awb_ca004d7f3ab20e892268",
-    "name": "CHOI 98,1 Radio X",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiox.com/",
-    "favicon": "https://radiox.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_9400b580214de8fda6bd",
     "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
     "country": "CA",
@@ -8775,6 +8786,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:49:38Z"
+  },
+  {
+    "id": "awb_ca004d7f3ab20e892268",
+    "name": "CHOI 98.1 Radio X",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_0db5abdaad511193eccc",
@@ -10052,24 +10077,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_cf34e49b4133da4c5ea4",
-    "name": "CIBL-FM 101.5 Montreal, QC",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "radio communautaire"
-    ],
-    "homepage": "https://www.cibl1015.ca/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CIBL_101%2C5_logo.png/220px-CIBL_101%2C5_logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:32:40Z"
   },
   {
     "id": "awb_22250435f1458d9bc6fc",
@@ -14151,27 +14158,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_87ca53351fc86370c992",
-    "name": "CJRG 94.5 Radio-Gaspesie, Gaspe, QC",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "gaspe"
-    ],
-    "homepage": "http://radiogaspesie.ca/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:36:39Z"
   },
   {
     "id": "awb_8f8b45c786bfe3d9666b",
@@ -18272,20 +18258,6 @@
     "updatedAt": "2026-01-15T02:05:55Z"
   },
   {
-    "id": "awb_d149b3ac23c89f77d931",
-    "name": "CKRD-FM 90.5 \"Shine FM\"",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://ckrd.ca/",
-    "favicon": "https://en.wikipedia.org/wiki/File:CKRD_Shine90.5FM_logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_e28eef9806b81d0fec2e",
     "name": "CKRK \"K103.7\" Kahnawake, QC",
     "country": "CA",
@@ -20679,7 +20651,7 @@
   },
   {
     "id": "awb_cd75ecd4c2b2e4fa4504",
-    "name": "Fallout '26 radio",
+    "name": "Fallout '26 Radio",
     "country": "CA",
     "subdivision": "Ontario",
     "languages": [],
@@ -20693,7 +20665,7 @@
       "jazz",
       "orchestra"
     ],
-    "homepage": "https://radio.greenwoodlabs.ca/listen/fallout26",
+    "homepage": "https://radio.greenwoodlabs.ca/public/fallout26",
     "favicon": "https://radio.greenwoodlabs.ca/static/uploads/fallout26/background.1779547063.png",
     "type": null,
     "sourceCount": 2,
@@ -21249,6 +21221,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:42:51Z"
+  },
+  {
+    "id": "awb_6e16131776e1a767ba7c",
+    "name": "Heimat Beats Radio",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "german folk",
+      "schlager",
+      "volksmusik"
+    ],
+    "homepage": "https://heimatbeats.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T23:21:25Z"
   },
   {
     "id": "awb_73692113d2aa92fb0460",
@@ -27136,8 +27130,10 @@
     "id": "awb_043e0b81d1a70f6e9e87",
     "name": "SMOOTH JAZZ DELUXE",
     "country": "CA",
-    "subdivision": null,
-    "languages": [],
+    "subdivision": "Toronto",
+    "languages": [
+      "en"
+    ],
     "categories": [
       "ambient",
       "jazz"
@@ -27161,8 +27157,8 @@
     "homepage": "https://radiosuitenetwork.torontocast.stream/smooth-jazz-deluxe/",
     "favicon": "https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-04-29/b4058cf6abde795b40675623669b665f.ico.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-31T08:38:12Z"
   },
   {
     "id": "awb_3b7ba2cb58669c7a9a89",
@@ -27685,6 +27681,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:52:50Z"
+  },
+  {
+    "id": "awb_6a635c96a47dadb23cc4",
+    "name": "Tens Radio",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://kingdom.lifestyle/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T20:01:18Z"
   },
   {
     "id": "awb_44cb6f4a0eda52aa223b",
@@ -28988,6 +28998,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-09T19:01:56Z"
+  },
+  {
+    "id": "awb_dcbb5f97bb5caa72ab76",
+    "name": "WorkSafe Sounds Radio",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://worksafesounds.com/radio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T22:54:56Z"
   },
   {
     "id": "awb_bad376d24d3d1e9fee2c",

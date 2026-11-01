@@ -194,7 +194,7 @@
     "favicon": "https://meta.1zwolle.nl/logos/64x64.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T13:44:40Z"
+    "updatedAt": "2026-11-01T04:20:06Z"
   },
   {
     "id": "awb_3861f863ae11d5bbecf3",
@@ -926,7 +926,7 @@
     "favicon": "https://forums.ah.fm/data/assets/logo/favicon.png",
     "type": null,
     "sourceCount": 8,
-    "updatedAt": "2026-10-28T01:41:41Z"
+    "updatedAt": "2026-11-01T01:31:04Z"
   },
   {
     "id": "awb_e499ee5a4e0ed96f5c3d",
@@ -6237,39 +6237,6 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
-    "id": "awb_9d91d4293ae517b74c79",
-    "name": "Hi On Line Radio - Pop",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.hionline.eu/pop/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-20T19:06:55Z"
-  },
-  {
-    "id": "awb_fb0ecd076e46e7e25203",
-    "name": "Hi On Line Radio - World",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "nl"
-    ],
-    "categories": [],
-    "tags": [
-      "world music"
-    ],
-    "homepage": "https://www.hionline.eu/world-music/",
-    "favicon": "https://www.hionline.eu/wp-content/uploads/2015/11/cropped-radio-2.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-29T14:04:29Z"
-  },
-  {
     "id": "awb_053648d350c89b0d7323",
     "name": "Hi On Line World Radio",
     "country": "NL",
@@ -6476,6 +6443,30 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_130db3cda23cb5409bb3",
+    "name": "Holland Country Radio",
+    "country": "NL",
+    "subdivision": "Gelderland, Arnhem",
+    "languages": [
+      "en",
+      "nl"
+    ],
+    "categories": [
+      "country"
+    ],
+    "tags": [
+      "country",
+      "country mix",
+      "country radio",
+      "holland country"
+    ],
+    "homepage": "https://www.hollandcountry.nl/",
+    "favicon": "https://hollandcountry.com/gallery_gen/1efc21f438e549068f4c10a47ea7276c_162x172_fit.jpg?ts=1787926232",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T15:10:22Z"
   },
   {
     "id": "awb_17344f04f414bf724e65",
@@ -9363,12 +9354,12 @@
     "id": "awb_f136dce0473354fe4a2d",
     "name": "Mijnstreek Vandaag",
     "country": "NL",
-    "subdivision": "Limburg",
+    "subdivision": "Limburg, Sittard-Geleen",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://www.mijnstreekvandaag.nl/radio",
-    "favicon": "https://www.mijnstreekvandaag.nl/assets/images/apple-touch-icon.png",
+    "favicon": "https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.mijnstreekvandaag.nl%2fradio",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-31T13:06:07Z"
@@ -11030,7 +11021,7 @@
     "id": "awb_e43264a68c76391d14f6",
     "name": "Octaaf Radio",
     "country": "NL",
-    "subdivision": "Noord holland Amsterdam",
+    "subdivision": "Zuid Holland",
     "languages": [
       "nl"
     ],
@@ -15123,25 +15114,14 @@
     "name": "Radio eXtra",
     "country": "NL",
     "subdivision": "Amsterdam",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "1990s pop music",
-      "90s dance",
-      "90s eurodance",
-      "eurodance"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radioextra.net/",
     "favicon": "https://radioextra.net/extra.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:06:34Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_5a225077a59193c6ee7c",
@@ -16964,6 +16944,26 @@
     "updatedAt": "2026-01-15T04:22:03Z"
   },
   {
+    "id": "awb_3b818be40d3f39294eb0",
+    "name": "Radio Veronica – De Beste 90's",
+    "country": "NL",
+    "subdivision": "Noord-Holland",
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "90's pop"
+    ],
+    "homepage": "https://www.radioveronica.nl/",
+    "favicon": "https://dlprizi2qtumd.cloudfront.net/images/stations/radio-veronica-de-beste-90s-cover.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T08:47:55Z"
+  },
+  {
     "id": "awb_3114f0022f8cdc0f0c7d",
     "name": "Radio Veronica Live",
     "country": "NL",
@@ -17174,6 +17174,25 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_eaaa64f33969a70ff2b9",
+    "name": "Radio010",
+    "country": "NL",
+    "subdivision": "zh",
+    "languages": [
+      "en",
+      "nl"
+    ],
+    "categories": [],
+    "tags": [
+      "all styles"
+    ],
+    "homepage": "https://www.serviceverkoop.eu/domain/radio010.nl",
+    "favicon": "https://www.serviceverkoop.eu/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T16:55:45Z"
   },
   {
     "id": "awb_6a89b4512cc60796028b",
@@ -20088,7 +20107,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T02:22:08Z"
+    "updatedAt": "2026-11-01T03:35:31Z"
   },
   {
     "id": "awb_dd748d6ac2bea7f2fb37",
@@ -20296,6 +20315,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-21T23:22:52Z"
+  },
+  {
+    "id": "awb_6f530622e77f70087b5d",
+    "name": "the dutch eagles",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://paneel.streambudget.nl/listen/yhedutcheagles/stream",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-01T09:04:23Z"
   },
   {
     "id": "awb_4fcb223af3dbc37e30ae",

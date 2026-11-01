@@ -4876,36 +4876,10 @@
       "salsa"
     ],
     "homepage": "https://energia1025.com/",
-    "favicon": "https://energia1025.com/wp-content/uploads/2019/11/cropped-logoenergia-2-180x180.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_8c31c7fc8281fa0f571d",
-    "name": "Energía 102.5 FM",
-    "country": "CO",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin"
-    ],
-    "tags": [
-      "crossover",
-      "latino",
-      "merengue",
-      "music",
-      "salsa",
-      "tropical",
-      "vallenato"
-    ],
-    "homepage": "https://energia1025.com/",
-    "favicon": "https://energia1025.com/wp-content/uploads/2019/11/cropped-logoe2.png",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:25:16Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_8f42ba29906cf6efa950",
@@ -10389,26 +10363,6 @@
     "updatedAt": "2026-08-19T21:36:14Z"
   },
   {
-    "id": "awb_313e56b0160e01441217",
-    "name": "Radio Energía",
-    "country": "CO",
-    "subdivision": "Cali",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin"
-    ],
-    "tags": [
-      "salsa"
-    ],
-    "homepage": "https://emisorascolombianas.online/energia/",
-    "favicon": "https://emisorascolombianas.online/logos/energia.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-19T21:36:14Z"
-  },
-  {
     "id": "awb_e99d3408fa72e345dd6f",
     "name": "RADIO EXPRESO LATINO",
     "country": "CO",
@@ -11599,17 +11553,14 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "news"
-    ],
+    "categories": [],
     "tags": [
-      "music",
-      "news"
+      "music"
     ],
     "homepage": "https://radio.unal.edu.co/",
-    "favicon": "https://estadisticas.unal.edu.co/typo3conf/ext/estadistica_unal/Resources/Public/Images/Escudo_unal_2016.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {

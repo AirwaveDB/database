@@ -182,6 +182,29 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_ea73c8813c1649b16937",
+    "name": "90 LAR POP",
+    "country": "TR",
+    "subdivision": "Istanbul",
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "90s",
+      "90s pop",
+      "pop"
+    ],
+    "homepage": "https://onlineradio.com.tr/station/90-lar",
+    "favicon": "https://onlineradio.com.tr/images/50_radio.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-31T17:24:34Z"
+  },
+  {
     "id": "awb_c9899eb14c0141889244",
     "name": "90'lar Türkçe Pop",
     "country": "TR",
@@ -1922,7 +1945,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T08:00:35Z"
+    "updatedAt": "2026-11-01T08:29:06Z"
   },
   {
     "id": "awb_8dc344dd987ed3d504a1",
@@ -1945,7 +1968,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T06:48:50Z"
+    "updatedAt": "2026-11-01T07:04:29Z"
   },
   {
     "id": "awb_1da58c9adefda6d59499",
@@ -1991,7 +2014,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T20:25:04Z"
+    "updatedAt": "2026-10-31T23:16:10Z"
   },
   {
     "id": "awb_18ef70fa187d5f788e31",
@@ -2041,7 +2064,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-mmradyo-favicon.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-26T22:02:52Z"
+    "updatedAt": "2026-10-31T23:58:13Z"
   },
   {
     "id": "awb_ffeadaecbf30ca44c405",
@@ -2095,7 +2118,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T17:19:17Z"
+    "updatedAt": "2026-11-01T01:35:37Z"
   },
   {
     "id": "awb_173bf527a4d7f5eb635c",
@@ -2120,7 +2143,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-smog-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T08:19:37Z"
+    "updatedAt": "2026-11-01T09:13:11Z"
   },
   {
     "id": "awb_cc0a413a69dc071e0aed",
@@ -3724,6 +3747,30 @@
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_93f2d8137dc324ddcba9",
+    "name": "HKÜ Radyo 106.8",
+    "country": "TR",
+    "subdivision": "Gaziantep",
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "college",
+      "pop"
+    ],
+    "tags": [
+      "college radio",
+      "pop",
+      "turkish pop",
+      "university"
+    ],
+    "homepage": "https://www.hku.edu.tr/radyo/",
+    "favicon": "https://www.hku.edu.tr/wp-content/themes/hku/assets/images/hku-radyo-logo.png",
+    "type": "college",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T17:25:14Z"
   },
   {
     "id": "awb_b6a124026840e708ccc7",
@@ -5443,7 +5490,7 @@
     "id": "awb_9b304479aab13c23b99c",
     "name": "MK Radyo",
     "country": "TR",
-    "subdivision": "Bursa",
+    "subdivision": "Istanbul",
     "languages": [
       "tr"
     ],

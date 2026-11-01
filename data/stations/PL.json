@@ -665,7 +665,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T04:23:12Z"
+    "updatedAt": "2026-11-01T04:26:09Z"
   },
   {
     "id": "awb_16a33c59720939783c39",
@@ -731,7 +731,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T08:55:58Z"
+    "updatedAt": "2026-11-01T09:02:31Z"
   },
   {
     "id": "awb_536fb95e6d637330abf0",
@@ -1116,7 +1116,7 @@
     "favicon": "https://cyberstacja.pl/images/historia/logo_sluchawki.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-28T01:00:49Z"
+    "updatedAt": "2026-11-01T02:40:01Z"
   },
   {
     "id": "awb_02c971fd71a7b8aaeddb",
@@ -2587,22 +2587,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_17db34bd20788ff9b191",
-    "name": "JEDYNKA.PL",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://jedynka.polskieradio.pl/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_183405096.jpg?alt=media&token=dadc43aa-8597-43e8-9003-2c6bd93842b1",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:25:56Z"
   },
   {
     "id": "awb_15927563f0f11132fbc1",
@@ -9472,15 +9456,13 @@
       "dj",
       "dj mixes",
       "dj remix",
-      "djpatrys",
       "party hits",
-      "partymix",
       "smooth"
     ],
     "homepage": "https://radio.pejpal.cloud/",
     "favicon": "https://radio.pejpal.cloud/static/uploads/browser_icon/192.1747064544.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -11393,6 +11375,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_2feeabe9d7f6952c90bb",
+    "name": "radio trojka",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://stream3.polskieradio.pl:8954/;.mp3",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-08-31T16:43:37Z"
+  },
+  {
     "id": "awb_9a30c73bc008a9259b67",
     "name": "Radio Trojka 3",
     "country": "PL",
@@ -12354,7 +12350,7 @@
     "id": "awb_4b49e5c817ec766fe4aa",
     "name": "radiOFF",
     "country": "PL",
-    "subdivision": "Oderland",
+    "subdivision": "Lubuskie",
     "languages": [
       "de",
       "pl"
@@ -12386,7 +12382,7 @@
       "storytelling",
       "viadrina"
     ],
-    "homepage": "https://radioff.com/",
+    "homepage": "http://radioff.com/",
     "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
     "type": null,
     "sourceCount": 3,
@@ -15447,7 +15443,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sj_logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-26T22:17:41Z"
+    "updatedAt": "2026-10-31T22:31:36Z"
   },
   {
     "id": "awb_d14c10e45802e34a828a",

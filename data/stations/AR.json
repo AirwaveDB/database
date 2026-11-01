@@ -2949,8 +2949,8 @@
     "homepage": "https://www.eldestapeweb.com/eldestaperadio",
     "favicon": "https://www.eldestapeweb.com/img/favicons/apple-icon-120x120.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-23T17:48:55Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-10-31T17:48:29Z"
   },
   {
     "id": "awb_67ab32d1a31ad3a89cf4",
@@ -4932,7 +4932,7 @@
   },
   {
     "id": "awb_ebaae8359699ee7ab378",
-    "name": "Fm Ciudad",
+    "name": "Fm ciudad",
     "country": "AR",
     "subdivision": null,
     "languages": [],
@@ -5972,22 +5972,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_1ded33bbff08ee064bab",
-    "name": "FM Estudio 2 105.9",
-    "country": "AR",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioarg.net/fm-estudio-2",
-    "favicon": "https://radioarg.net/storage/radios/7871/9993/conversions/fm-estudio-2-1059-lg.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-21T20:18:32Z"
-  },
-  {
     "id": "awb_91d08e5cfb7216e04264",
     "name": "FM Estudio Playa Pinamar 98.1",
     "country": "AR",
@@ -6050,6 +6034,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_e10d870066e5a3de5d88",
+    "name": "FM Fribuay 90.7",
+    "country": "AR",
+    "subdivision": "Buenos Air",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "independiente",
+      "rock"
+    ],
+    "homepage": "https://fmfribuay.org.ar/",
+    "favicon": "https://fmfribuay.org.ar/wp-content/uploads/2025/07/img_logo-FM-Fribuay.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T22:23:27Z"
   },
   {
     "id": "awb_7cd9787d0001cf99b42b",
@@ -7365,22 +7371,6 @@
     "updatedAt": "2026-10-31T08:13:21Z"
   },
   {
-    "id": "awb_509f2ff882318f95bdd2",
-    "name": "Frecuencia 97.5",
-    "country": "AR",
-    "subdivision": "Laboulaye",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://frecuencia97.com.ar/",
-    "favicon": "https://frecuencia97.com.ar/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-31T08:16:15Z"
-  },
-  {
     "id": "awb_5ec27b067a289db47bfa",
     "name": "Frecuencia Arena 98.3",
     "country": "AR",
@@ -7754,11 +7744,8 @@
     "name": "GX Radio",
     "country": "AR",
     "subdivision": "Rosario",
-    "languages": [
-      "es"
-    ],
+    "languages": [],
     "categories": [
-      "ambient",
       "electronic",
       "oldies",
       "pop",
@@ -7773,7 +7760,6 @@
       "2000s dance",
       "2000s hits",
       "2000s rock",
-      "80s",
       "80s rock",
       "80s soft rock",
       "90s",
@@ -7784,54 +7770,31 @@
       "adult hits",
       "adult-contemporary",
       "adulto contemporáneo",
-      "argentina",
-      "chillout",
-      "chillout+lounge",
       "classic hits",
-      "classic rock",
       "classic rock oldies",
       "classic-hits",
-      "club dance",
       "dance music",
       "dance-music",
       "electro house",
       "electro techno",
       "electronic",
       "electronic dance music",
-      "eurodance",
-      "groove",
       "new classics",
       "new classics 80´s",
-      "old school",
-      "old school dance",
-      "oldies",
-      "pop",
       "pop dance",
       "pop music",
       "pop rock",
       "pop-music",
       "pop-rock",
-      "progressive rock",
-      "retro",
-      "retro hits",
-      "retro music",
-      "rock",
-      "rock argentino",
       "rock classics",
-      "rock en español",
-      "rock en español e inglés",
       "soft adult contemporary",
-      "soft pop",
-      "spanish",
-      "synthpop",
       "the best of 80's",
-      "the best of 90's",
-      "vintage music"
+      "the best of 90's"
     ],
     "homepage": "https://turadioeninternet.com.ar/GXRADIO/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7921,6 +7884,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-25T09:30:40Z"
+  },
+  {
+    "id": "awb_77f768d5d041cbcc3682",
+    "name": "HORIZONTE RADIO CORDOBA",
+    "country": "AR",
+    "subdivision": "Córdoba(Argentina)",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "classic hits 80's 90's"
+    ],
+    "homepage": "https://www.horizonteradio.com.ar/",
+    "favicon": "https://radiocitycba.com.ar/wp-content/uploads/2026/03/Horizonte-Radio-Cordoba.webp",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-31T22:25:28Z"
   },
   {
     "id": "awb_d2d2aa94c84617c393f0",
@@ -12580,7 +12561,7 @@
     "favicon": "https://www.eduneu.eu/logo_radio2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T18:58:57Z"
+    "updatedAt": "2026-11-01T06:47:17Z"
   },
   {
     "id": "awb_c27fcca225832e7a7ea8",
@@ -12675,7 +12656,7 @@
     "favicon": "https://www.eduneu.eu/logo_radio_amen.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T14:53:36Z"
+    "updatedAt": "2026-10-31T23:58:13Z"
   },
   {
     "id": "awb_c8b7539e733e11454619",
@@ -12707,7 +12688,7 @@
     "favicon": "https://www.eduneu.eu/logo_radio_eduneuradio.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T08:00:35Z"
+    "updatedAt": "2026-11-01T08:05:47Z"
   },
   {
     "id": "awb_6b3cf29974f303444212",
@@ -13987,7 +13968,7 @@
   },
   {
     "id": "awb_d049a8b8118ea943f532",
-    "name": "Radio Cristiana FM 88.3",
+    "name": "Radio Cristiana fm 88.3",
     "country": "AR",
     "subdivision": "Buenos Aires",
     "languages": [
@@ -14004,7 +13985,7 @@
       "radio hablada",
       "religious"
     ],
-    "homepage": "https://www.radiocristiana883.com.ar/",
+    "homepage": "https://radiocristiana883.com.ar/",
     "favicon": "https://www.radiocristiana883.com.ar/splash.jpg",
     "type": null,
     "sourceCount": 2,
@@ -18713,7 +18694,7 @@
     "favicon": "https://www.eduneu.eu/logo_radio1.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T06:50:47Z"
+    "updatedAt": "2026-11-01T08:19:24Z"
   },
   {
     "id": "awb_cbd979efb55a56983822",
@@ -19458,28 +19439,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-21T20:21:40Z"
-  },
-  {
-    "id": "awb_aacafb1298f244d12d57",
-    "name": "Si 98.9 FM",
-    "country": "AR",
-    "subdivision": "Rosario",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "rosario",
-      "spanish pop"
-    ],
-    "homepage": "http://www.si989.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:18:06Z"
   },
   {
     "id": "awb_4ae7aeb4a55ac287c531",

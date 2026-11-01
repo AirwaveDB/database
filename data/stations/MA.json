@@ -37,9 +37,9 @@
   },
   {
     "id": "awb_d79b7c2456eb1cc86053",
-    "name": "© XGlite™® XGlite Radio FM Web Station",
+    "name": "© XGlite™® XGlite Radio FM Web Station.",
     "country": "MA",
-    "subdivision": "New York",
+    "subdivision": "Angad",
     "languages": [
       "ar",
       "en"
@@ -51,9 +51,9 @@
       "france"
     ],
     "homepage": "https://xglite.listen2myradio.com/",
-    "favicon": "https://drive.google.com/file/d/1UCRLXymEBsuwoJVLF1VSsptvA_spPUeN/view?usp=drivesdk",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-26T20:41:41Z"
   },
   {
@@ -153,6 +153,32 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_415690e855bc27f61e24",
+    "name": "aswatalweb",
+    "country": "MA",
+    "subdivision": "moroco",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "film talk",
+      "live sport",
+      "music",
+      "music arabe",
+      "radio maroc",
+      "sports commentary"
+    ],
+    "homepage": "https://aswatalweb.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-06-17T09:47:08Z"
   },
   {
     "id": "awb_eeafc189518def9770fa",
@@ -1249,20 +1275,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_fb35cbaa32bb643056f0",
-    "name": "XGlite Radio FM Web Station",
-    "country": "MA",
-    "subdivision": "Angad",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://xglite.listen2myradio.com/",
-    "favicon": "https://xglite.blogspot.com/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-20T18:54:03Z"
   },
   {
     "id": "awb_adf99b1f18eb1b89f563",

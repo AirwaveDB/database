@@ -19529,7 +19529,7 @@
     "id": "awb_9f6c026e52f2cc2ab155",
     "name": "as.if.radio",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
+    "subdivision": "Cologne",
     "languages": [
       "de",
       "en"
@@ -19563,7 +19563,7 @@
       "werbefrei"
     ],
     "homepage": "https://www.as-if-radio.com/",
-    "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+    "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-04T14:43:37Z"
@@ -20320,7 +20320,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T03:36:08Z"
+    "updatedAt": "2026-11-01T04:46:47Z"
   },
   {
     "id": "awb_d8cc3307015a28b9abaf",
@@ -20834,6 +20834,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_6a9a77dd64b822694f9c",
+    "name": "BE4 Digital Classix",
+    "country": "DE",
+    "subdivision": "Bayern, München, AAC",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.digitalclassix.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T16:21:37Z"
   },
   {
     "id": "awb_0d8286b6f6fafc58d0cc",
@@ -23662,7 +23678,7 @@
     "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T14:27:04Z"
+    "updatedAt": "2026-11-01T04:17:20Z"
   },
   {
     "id": "awb_f57c55eac446fe41ce7f",
@@ -24139,7 +24155,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c3ab9296f3b282bf?w=512",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T02:05:34Z"
+    "updatedAt": "2026-11-01T03:33:51Z"
   },
   {
     "id": "awb_6eaf4c1bff2890f86177",
@@ -25909,7 +25925,7 @@
     "favicon": "https://chillhouse-live.com/chillhouse-radio-logo.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T13:15:40Z"
+    "updatedAt": "2026-11-01T06:43:13Z"
   },
   {
     "id": "awb_7f30cd2c1b972a1bab77",
@@ -29084,7 +29100,7 @@
     "favicon": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T06:30:16Z"
+    "updatedAt": "2026-11-01T07:26:19Z"
   },
   {
     "id": "awb_8ca63c64d4d81fc75a2d",
@@ -29107,7 +29123,7 @@
     "favicon": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-26T21:29:06Z"
+    "updatedAt": "2026-10-31T21:38:10Z"
   },
   {
     "id": "awb_b17f7e177615c5885522",
@@ -29130,7 +29146,7 @@
     "favicon": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T04:59:26Z"
+    "updatedAt": "2026-11-01T05:44:21Z"
   },
   {
     "id": "awb_f13f68bd6540cb1395cb",
@@ -29176,7 +29192,7 @@
     "favicon": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T04:59:25Z"
+    "updatedAt": "2026-11-01T05:06:55Z"
   },
   {
     "id": "awb_7972f162d98da66adbe1",
@@ -29224,7 +29240,7 @@
     "favicon": "https://www.deutschlandradio.de/static/img/deutschlandradio/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T01:45:22Z"
+    "updatedAt": "2026-11-01T02:34:59Z"
   },
   {
     "id": "awb_46c4a0a56220830bb9c7",
@@ -29274,7 +29290,7 @@
     "favicon": "https://www.deutschlandradio.de/static/img/deutschlandradio/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-26T22:39:19Z"
+    "updatedAt": "2026-10-31T23:23:33Z"
   },
   {
     "id": "awb_3fd5130d292aa5309fc8",
@@ -29338,7 +29354,7 @@
     "favicon": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T04:59:26Z"
+    "updatedAt": "2026-11-01T05:23:43Z"
   },
   {
     "id": "awb_dd7af43ca72bd29fd557",
@@ -29407,7 +29423,7 @@
     "favicon": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T04:43:32Z"
+    "updatedAt": "2026-11-01T05:49:24Z"
   },
   {
     "id": "awb_bb20f0aa8fa65a3b9795",
@@ -29559,7 +29575,7 @@
     "favicon": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-26T23:31:33Z"
+    "updatedAt": "2026-11-01T00:28:43Z"
   },
   {
     "id": "awb_b3a7fbcee8b65472d93c",
@@ -29582,7 +29598,7 @@
     "favicon": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T04:10:04Z"
+    "updatedAt": "2026-11-01T05:00:36Z"
   },
   {
     "id": "awb_d07e58025483dd3b932a",
@@ -37118,7 +37134,7 @@
     "favicon": "https://www.euer-radio.de/images/Logo6.Erde.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-27T21:51:04Z"
+    "updatedAt": "2026-11-01T06:18:46Z"
   },
   {
     "id": "awb_1938d908d53f2599bd6a",
@@ -38520,7 +38536,7 @@
       "rock",
       "soul"
     ],
-    "homepage": "https://flaemingradio.de/",
+    "homepage": "https://www.flaemingradio.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -42373,20 +42389,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_234346b1cd2dfdfa2ebe",
-    "name": "Gatekeeper Radio",
-    "country": "DE",
-    "subdivision": "Baden-Württemberg",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://gatekeeperradio.com/",
-    "favicon": "https://gatekeeperradio.com/visuals/gkr-logo-left-align.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_44eb3ec4a208ea4c3785",
@@ -47845,7 +47847,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T21:23:06Z"
+    "updatedAt": "2026-11-01T05:00:36Z"
   },
   {
     "id": "awb_d45e0c5d3fc2b5f52ab6",
@@ -48401,15 +48403,23 @@
     "id": "awb_06938eab222fff6c4cba",
     "name": "inthemix.at - Unplugged",
     "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://inthemix.at/",
-    "favicon": "https://inthemix.at/image.php?object_id=108&object_type=live_stream&thumb=14",
+    "subdivision": "Sachsen",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "acoustic",
+      "hits",
+      "unplugged"
+    ],
+    "homepage": "https://inthemix.at/?live_stream_id=108",
+    "favicon": "https://inthemix.at/image.php?object_id=13&object_type=playlist&thumb=11",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-07-05T11:53:49Z"
+    "updatedAt": "2026-11-01T03:37:29Z"
   },
   {
     "id": "awb_c59774416de50d252f31",
@@ -55341,7 +55351,7 @@
       "techno"
     ],
     "homepage": "https://www.leipzig-beatzz.de/",
-    "favicon": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/75/28/9c75281d-92b1-a6e0-8373-cc9dc35a86d0/source/60x60bb.jpg",
+    "favicon": "https://assets.website-files.com/5f5ff904eff116e46575e21b/5f6007dbf31b43899f2f51c9_Beatzz%20Logo%20Wei%C3%9F-p-800.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -69237,15 +69247,34 @@
     "id": "awb_8124010d736915a58e13",
     "name": "Radio 91.2",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "subdivision": "NRW",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "91.2 fm",
+      "charts",
+      "dortmund",
+      "infos",
+      "lokalnachrichten",
+      "lokalradio",
+      "mein dortmund",
+      "musik",
+      "nachrichten",
+      "nrw",
+      "pop",
+      "radio 912",
+      "ruhrgebiet"
+    ],
     "homepage": "https://www.radio912.de/index.html",
     "favicon": "https://www.radio912.de/assets/images/favicons/radio912/favicon_x96.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-09-20T16:30:37Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-10-31T11:19:48Z"
   },
   {
     "id": "awb_6eeed5c751dff2785903",
@@ -74318,6 +74347,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:19:59Z"
+  },
+  {
+    "id": "awb_ca84c0d6c577b7dd7b0e",
+    "name": "Radio Dreisam",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "alternative indie rock"
+    ],
+    "homepage": "https://radio-dreisam-bc98df.webnode.page/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T13:21:03Z"
   },
   {
     "id": "awb_3152b1a069acf30a8baf",
@@ -79972,9 +80021,9 @@
   },
   {
     "id": "awb_111b51398f4845819796",
-    "name": "Radio Paralax",
+    "name": "Radio PARALAX",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
+    "subdivision": "Nordrhein-Westfalen",
     "languages": [
       "de"
     ],
@@ -82075,7 +82124,7 @@
     "favicon": "https://radio-r.de/images/radio-r/favicon.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-28T00:10:14Z"
+    "updatedAt": "2026-10-31T22:39:38Z"
   },
   {
     "id": "awb_fa8f2464fa855b593220",
@@ -85218,7 +85267,7 @@
     "tags": [
       "christian"
     ],
-    "homepage": "https://missionsdienst-wegbereiter.de/radio/",
+    "homepage": "https://missionsdienst-wegbereiter.de/",
     "favicon": "https://missionsdienst-wegbereiter.de/wp-content/uploads/2020/04/cropped-favicon-180x180.png",
     "type": null,
     "sourceCount": 2,
@@ -90054,20 +90103,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:09:14Z"
-  },
-  {
-    "id": "awb_e6d0018bda6e9aecf489",
-    "name": "Rochthefolk",
-    "country": "DE",
-    "subdivision": "Hessen (Kassel)",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioblog.rockthefolk.de/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_6b1264eab538cf171dbf",
@@ -105358,7 +105393,7 @@
     "id": "awb_672de553ce76017853b3",
     "name": "Veedelsradio",
     "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
+    "subdivision": "Nrw",
     "languages": [
       "de"
     ],
@@ -107965,20 +108000,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:01:29Z"
-  },
-  {
-    "id": "awb_e9f78b4a6f7e00b4d4b5",
-    "name": "World Radio",
-    "country": "DE",
-    "subdivision": "World",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://mediaserv38.live-streams.nl:8027/live",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_ca8ed484659c5a645b23",

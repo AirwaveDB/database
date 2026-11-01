@@ -313,6 +313,27 @@
     "updatedAt": "2026-10-12T19:09:21Z"
   },
   {
+    "id": "awb_93812e9915d10bd3de56",
+    "name": "101.ru Italo Disco",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "dance",
+      "euro disco",
+      "italo disco"
+    ],
+    "homepage": "https://101.ru/radio/channel/161",
+    "favicon": "https://radiocenter.pro/files/stations/1478/italo-disco-101-md.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T10:30:24Z"
+  },
+  {
     "id": "awb_844b00ddc1a70a5f99fb",
     "name": "101.ru Madonna",
     "country": "RU",
@@ -586,7 +607,7 @@
       "russian shanson"
     ],
     "homepage": "https://101.ru/radio/user/927583",
-    "favicon": "https://biogr.net/wp-content/uploads/2023/02/4358.jpg",
+    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.stgyA1sX2O5eam4uQYT8ngHaEd%3Fr%3D0%26pid%3DApi&f=1&ipt=fbf6cbf7b29ab9d05e14f94a6415d9f5bc51c2dc1bc98640861bff49a1df10cf&ipo=images",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-29T09:20:19Z"
@@ -2973,7 +2994,7 @@
     "favicon": "https://breaking-bass.ru/wp-content/uploads/2024/05/bb-air-logo-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T00:59:21Z"
+    "updatedAt": "2026-11-01T01:17:48Z"
   },
   {
     "id": "awb_e83d66287c6fd549c4c4",
@@ -3014,7 +3035,7 @@
     "id": "awb_bb18e22d61efdf04b4fe",
     "name": "BRİDGE TV",
     "country": "RU",
-    "subdivision": "Moscow (Russia)",
+    "subdivision": "Moscow",
     "languages": [
       "en",
       "ru"
@@ -3025,7 +3046,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
+    "homepage": "https://bridgetv.ru/about/channels/",
     "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
     "type": null,
     "sourceCount": 3,
@@ -4521,20 +4542,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-01T13:15:09Z"
-  },
-  {
-    "id": "awb_c6ed05946aa6026002e8",
-    "name": "Deep House Mix",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://bestdeepfm.ru/deepmix",
-    "favicon": "https://static.tildacdn.com/tild3763-6436-4261-b330-623130393834/Original.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-10T11:59:28Z"
   },
   {
     "id": "awb_24199afd14ae59e01fd6",
@@ -8179,7 +8186,7 @@
       "music",
       "sipout.ai"
     ],
-    "homepage": "https://get-radio.sipout.ai/?wave=lofi",
+    "homepage": "https://get-radio.sipout.ai/?wave=lofi&lang=ru",
     "favicon": "https://get-radio.sipout.ai/cover/wave/lofi.png",
     "type": null,
     "sourceCount": 2,
@@ -27141,36 +27148,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_5b466e40350dee60f01a",
-    "name": "Radio Источник",
-    "country": "RU",
-    "subdivision": "Saratov",
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "60s",
-      "70s",
-      "80s",
-      "90s",
-      "ballads",
-      "disco",
-      "pop",
-      "retro",
-      "rock"
-    ],
-    "homepage": "http://id051561.myrh.ru/",
-    "favicon": "https://billing.radioheart.ru/public_pages/logo/1715187160663badd816f19.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-31T09:56:26Z"
-  },
-  {
     "id": "awb_9757fa3dea8c25ccfb74",
     "name": "Radio-Continental Chelyabinsk",
     "country": "RU",
@@ -30471,6 +30448,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_48117c3784538449b5d8",
+    "name": "Superrock KYOI",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://kyoi.ru/sam/web/index.php",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T06:09:35Z"
   },
   {
     "id": "awb_373cdf2f944f14e7d1ab",
@@ -33842,6 +33835,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:05:52Z"
+  },
+  {
+    "id": "awb_555b5751067d898cde9e",
+    "name": "Говору нет FM",
+    "country": "RU",
+    "subdivision": "Krasnodar region",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://govorunet.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T14:10:26Z"
   },
   {
     "id": "awb_85115860c75ae1de75e3",
@@ -38298,24 +38305,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:09:02Z"
-  },
-  {
-    "id": "awb_1127b58baa17b66f0605",
-    "name": "Минор",
-    "country": "RU",
-    "subdivision": "Рыбинск",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "джаз",
-      "поп-музыка",
-      "соул"
-    ],
-    "homepage": "https://radiominor.ru/",
-    "favicon": "https://topradio.me/assets/image/radio/100/minor.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_f5aae72f2b7d93b2fb9b",
@@ -42778,26 +42767,6 @@
     "updatedAt": "2026-01-15T07:51:28Z"
   },
   {
-    "id": "awb_3c1cbc5af291d2e6de69",
-    "name": "Радио Маяк Вологда 102.3 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": "https://top-radio.ru/vologda/mayak",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:47:04Z"
-  },
-  {
     "id": "awb_f3c4b4f33f997cabea0c",
     "name": "Радио Маяк Кострома 100.9 FM",
     "country": "RU",
@@ -44659,6 +44628,31 @@
     "updatedAt": "2026-01-19T14:03:46Z"
   },
   {
+    "id": "awb_2999f6680d485b019d65",
+    "name": "Радио РБЖ",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "archive",
+      "comedy",
+      "retro",
+      "russian",
+      "spoken word",
+      "talk"
+    ],
+    "homepage": "https://rbj.recomedy.ru/",
+    "favicon": "https://rbj.recomedy.ru/assets/radio-rbj-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-04-28T13:46:28Z"
+  },
+  {
     "id": "awb_716ecbcda6b4492e9b7b",
     "name": "Радио Рекорд (основной канал)",
     "country": "RU",
@@ -46231,7 +46225,7 @@
     "homepage": "https://top-radio.ru/vologda/rossii",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T08:16:50Z"
   },
   {
@@ -46818,22 +46812,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:49:40Z"
-  },
-  {
-    "id": "awb_764c02f747732737e18c",
-    "name": "Радио СССР",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "ретро"
-    ],
-    "homepage": "https://top-radio.ru/web/radio-sssr",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_7abd88278437d4d9f4ac",
@@ -51159,7 +51137,7 @@
     "id": "awb_d0e72ae4262a7e8be492",
     "name": "Хит FM",
     "country": "RU",
-    "subdivision": "Moscow",
+    "subdivision": "Moscow/Saint Petersburg",
     "languages": [
       "ru"
     ],
@@ -51217,7 +51195,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
+    "updatedAt": "2026-11-01T03:23:38Z"
   },
   {
     "id": "awb_624368faf84185ed7707",

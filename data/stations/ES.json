@@ -1991,7 +1991,7 @@
   },
   {
     "id": "awb_14a68cf1e031a1db0967",
-    "name": "Bilbo Hiria irratia",
+    "name": "Bilbo Hiria Irratia",
     "country": "ES",
     "subdivision": null,
     "languages": [],
@@ -5231,14 +5231,21 @@
     "name": "COPE Tenerife",
     "country": "ES",
     "subdivision": "Islas Canarias",
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "magazine",
+      "noticias"
+    ],
     "homepage": "https://www.cope.es/directos/cope-mas-tenerife",
     "favicon": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T03:25:25Z"
   },
   {
     "id": "awb_03c3f20f39b4b53ea224",
@@ -5760,7 +5767,7 @@
       "hardstyle",
       "music"
     ],
-    "homepage": "https://decibeliafm.es/",
+    "homepage": "https://decibeliafm.es/web/",
     "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
     "type": null,
     "sourceCount": 2,
@@ -11506,7 +11513,7 @@
     "tags": [
       "hits"
     ],
-    "homepage": "https://www.locafm.com/",
+    "homepage": "http://www.locafm.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -14020,8 +14027,8 @@
       "sports",
       "talks"
     ],
-    "homepage": "https://www.ondacero.es/emisoras/andalucia/huelva/directo/",
-    "favicon": "https://i.scdn.co/image/ab6775700000ee851a865a3769a3e6868928a43f",
+    "homepage": "https://ondacero.es/",
+    "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-04-01T11:00:35Z"
@@ -18302,7 +18309,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiolagranjazaragoza.wordpress.com/",
-    "favicon": "https://radiobot.radioslibres.info/static/uploads/radio_la_granja/background.1713382583.jpg",
+    "favicon": "https://radiolagranjazaragoza.wordpress.com/wp-content/uploads/2021/07/cropped-radiolagranjaramone.png?w=180",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-17T06:08:50Z"
@@ -20525,7 +20532,7 @@
     "homepage": "https://radiosintonia.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:13Z"
   },
   {
@@ -22743,12 +22750,16 @@
     "country": "ES",
     "subdivision": "Madrid",
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
     "homepage": "http://www.rockfm.fm/",
     "favicon": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 4,
     "updatedAt": "2026-06-28T12:27:22Z"
   },
   {
@@ -22828,8 +22839,8 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.emisorasmusicales.net/",
-    "favicon": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023734/Rockstar-300x300.png",
+    "homepage": "https://emisorasmusicales.net/",
+    "favicon": "https://www.emisorasmusicales.net/emisoras/rockstar/#",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-12T05:08:43Z"
@@ -23288,6 +23299,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_dcafb3f02e1f6358a601",
+    "name": "Ser Bilbao",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "tags": [
+      "debates y deportes",
+      "noticias"
+    ],
+    "homepage": "https://cadenaser.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T21:14:49Z"
   },
   {
     "id": "awb_147a6639c3c8977369f7",
@@ -24380,7 +24411,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 6,
-    "updatedAt": "2026-10-28T00:39:20Z"
+    "updatedAt": "2026-11-01T01:28:55Z"
   },
   {
     "id": "awb_60668b862f76c8a40ef9",
@@ -24837,22 +24868,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-23T20:11:50Z"
-  },
-  {
-    "id": "awb_0bbb4c33276c9e08e81f",
-    "name": "yeclamedia",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "local radio"
-    ],
-    "homepage": "https://yeclamedia.com/radio/",
-    "favicon": "https://yeclamedia.com/wp-content/uploads/2024/12/logotipo-yeclamedia-ok.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-31T08:11:42Z"
   },
   {
     "id": "awb_b252d4b367443580d328",

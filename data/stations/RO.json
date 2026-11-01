@@ -974,25 +974,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_cf9402d988d5b8a717cf",
-    "name": "Buzz FM -Buzău 87.9 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock",
-      "soft rock"
-    ],
-    "homepage": "http://radio.tvbuzau.ro/",
-    "favicon": "http://radio.tvbuzau.ro/wp-content/uploads/2019/01/sigla-buzz-copy.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-15T17:44:43Z"
-  },
-  {
     "id": "awb_7e377252c8fcfb0aa7a5",
     "name": "Campus Buzău -Buzău 98.0 FM",
     "country": "RO",
@@ -3356,7 +3337,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://fyplus.ro/radio",
+    "homepage": "https://fyplus.ro/",
     "favicon": "https://fyplus.ro/fy-radio-logo.png",
     "type": null,
     "sourceCount": 2,
@@ -8799,7 +8780,7 @@
     "favicon": "https://radiofiladelfia.ro/wp-content/uploads/2020/03/Radio-Filadelfia_logo_500px.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-26T23:37:51Z"
+    "updatedAt": "2026-11-01T00:07:20Z"
   },
   {
     "id": "awb_fdecb3d280c4fac29329",
@@ -9305,7 +9286,7 @@
       "stuttgart",
       "torino"
     ],
-    "homepage": "https://radiogiurgiu.net/mobile.html",
+    "homepage": "https://radiogiurgiu.net/",
     "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
     "type": null,
     "sourceCount": 4,
@@ -10593,25 +10574,6 @@
     "updatedAt": "2026-04-30T16:37:38Z"
   },
   {
-    "id": "awb_02e716b4961b4c11538f",
-    "name": "Radio Noise",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [],
-    "tags": [
-      "dance",
-      "dj"
-    ],
-    "homepage": "https://www.radionoise.ro/",
-    "favicon": "https://www.radionoise.ro/wp-content/uploads/2022/07/faviconnew.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:22:38Z"
-  },
-  {
     "id": "awb_01c204962c4f432670ee",
     "name": "Radio Noise 2000s",
     "country": "RO",
@@ -10734,27 +10696,13 @@
     "name": "Radio Noise Gold",
     "country": "RO",
     "subdivision": "Bucharest",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "00s",
-      "70s",
-      "80s",
-      "90s",
-      "hits",
-      "pop",
-      "romanian",
-      "romanian music"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.radionoise.ro/",
     "favicon": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Gold-Romania-Logo.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-07-13T13:54:16Z"
   },
   {
@@ -10956,19 +10904,13 @@
     "name": "Radio Noise Party",
     "country": "RO",
     "subdivision": "Bucharest",
-    "languages": [
-      "ro"
-    ],
+    "languages": [],
     "categories": [],
-    "tags": [
-      "manele",
-      "manele vechi",
-      "petrecere"
-    ],
+    "tags": [],
     "homepage": "https://www.radionoise.ro/",
-    "favicon": "https://www.radionoise.ro/wp-content/uploads/2023/05/radionoiseparty.png",
+    "favicon": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Party-RO-Logo.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-07-13T14:05:22Z"
   },
   {
@@ -10976,27 +10918,13 @@
     "name": "Radio Noise Retro",
     "country": "RO",
     "subdivision": "Bucharest",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "1970s",
-      "1980s",
-      "1990s",
-      "70s",
-      "80s",
-      "90s",
-      "retro",
-      "romanian",
-      "romanian music"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.radionoise.ro/",
-    "favicon": "https://www.radionoise.ro/wp-content/uploads/2022/07/faviconnew.png",
+    "favicon": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Retro-Logo.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-07-13T13:57:43Z"
   },
   {
@@ -11146,36 +11074,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-13T14:03:54Z"
-  },
-  {
-    "id": "awb_546c1f0aebd05b226fd3",
-    "name": "Radio Nova22",
-    "country": "RO",
-    "subdivision": "Bucharest",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "jazz",
-      "latin",
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "dance",
-      "jazz",
-      "latin",
-      "oldies",
-      "pop",
-      "relax",
-      "rock"
-    ],
-    "homepage": "http://s2.myradiostream.com:4520/listen.m4a",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:50:37Z"
   },
   {
     "id": "awb_41e6d54cac3c2e4e53cf",
@@ -13291,24 +13189,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_f9221a505134566caf2b",
-    "name": "Radio Vocea Evangheliei Suceava - RVE",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [],
-    "tags": [
-      "religous"
-    ],
-    "homepage": "https://www.rvesv.ro/",
-    "favicon": "https://www.rvesv.ro/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:28:14Z"
   },
   {
     "id": "awb_979aebc3c929adf30eb7",

@@ -685,28 +685,6 @@
     "updatedAt": "2026-10-16T10:06:41Z"
   },
   {
-    "id": "awb_d191122840f5b9333910",
-    "name": "Mzimba Community Radio - 107.6 FM",
-    "country": "MW",
-    "subdivision": "Mzimba",
-    "languages": [
-      "ny"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-16T10:07:42Z"
-  },
-  {
     "id": "awb_e04324a444cf73cc372c",
     "name": "Nathenje Community Radio",
     "country": "MW",
@@ -749,6 +727,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-16T10:10:28Z"
+  },
+  {
+    "id": "awb_94d4b17d94968fdc5bdb",
+    "name": "Nkhoma Synod Radio",
+    "country": "MW",
+    "subdivision": "Lilongwe",
+    "languages": [
+      "ny"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-16T10:08:10Z"
   },
   {
     "id": "awb_7639b0bc1eea122b0747",

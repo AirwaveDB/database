@@ -639,6 +639,24 @@
     "updatedAt": "2026-05-06T07:39:10Z"
   },
   {
+    "id": "awb_ae5a4bab542536b653a7",
+    "name": "Cool FM Belfast",
+    "country": "IE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.hellorayo.co.uk/cool-fm/play?stationId=14",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T15:18:48Z"
+  },
+  {
     "id": "awb_0bee7939ad1044a70b52",
     "name": "Cork 96 FM",
     "country": "IE",
@@ -1661,13 +1679,11 @@
       "en"
     ],
     "categories": [],
-    "tags": [
-      "variety"
-    ],
-    "homepage": "http://www.midwestradio.ie/",
-    "favicon": "http://www.liveradio.ie/files/images/101457/resized/140x134c/midwest_radio.jpg",
+    "tags": [],
+    "homepage": "https://www.midwestradio.ie/",
+    "favicon": "https://www.midwestradio.ie/wp-content/uploads/2024/11/Midwest_Radio.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1827,7 +1843,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio1.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-26T23:09:01Z"
+    "updatedAt": "2026-10-31T23:25:50Z"
   },
   {
     "id": "awb_a44327735b7952495ef8",

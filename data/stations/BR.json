@@ -1940,7 +1940,7 @@
     "favicon": "https://radio.pevaio.top/static/uploads/album_art.1784866749.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T00:54:16Z"
+    "updatedAt": "2026-11-01T01:13:37Z"
   },
   {
     "id": "awb_fccba9e4f43fcf4b34c2",
@@ -2904,6 +2904,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-15T00:59:33Z"
+  },
+  {
+    "id": "awb_1e28505d0950dd9405c7",
+    "name": "CLIP FM",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://clipfm.com.br/",
+    "favicon": "https://clipfm.com.br/wp-content/uploads/2023/02/LOGO-CLIP-3D.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-07-12T13:33:24Z"
   },
   {
     "id": "awb_8e7a05e42062b733ce45",
@@ -4853,7 +4867,7 @@
     "id": "awb_f9cd36f565bfb92a1a06",
     "name": "Gay FM Brasil",
     "country": "BR",
-    "subdivision": "Sao Paulo (Brazil)",
+    "subdivision": "São Paulo (SP)",
     "languages": [],
     "categories": [
       "pop"
@@ -5781,6 +5795,34 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_0814ebf0df1f600164fa",
+    "name": "Ipe",
+    "country": "BR",
+    "subdivision": "Brasília",
+    "languages": [
+      "ja"
+    ],
+    "categories": [
+      "anime",
+      "electronic",
+      "metal"
+    ],
+    "tags": [
+      "death metal",
+      "doujin",
+      "edm",
+      "idm",
+      "jpop",
+      "metal",
+      "symphonic metal"
+    ],
+    "homepage": "https://0x45.pw/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-03-01T21:13:00Z"
+  },
+  {
     "id": "awb_ad233aa189e1915bcda0",
     "name": "Irecê Líder FM 103.7 Irecê - BA",
     "country": "BR",
@@ -6221,7 +6263,7 @@
     "id": "awb_a21216fd9e9d6f2e9273",
     "name": "Jovem pan 95,9 FM",
     "country": "BR",
-    "subdivision": "Pernambuco",
+    "subdivision": "Recife",
     "languages": [],
     "categories": [
       "pop",
@@ -7289,7 +7331,7 @@
       "tech house"
     ],
     "homepage": "https://mboxxradio.com/",
-    "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
+    "favicon": "https://radio.mboxxradio.com/static/uploads/magic-boxx-radio/album_art.1793272391.webp",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-29T13:04:22Z"
@@ -15723,6 +15765,20 @@
     "updatedAt": "2026-09-28T21:38:48Z"
   },
   {
+    "id": "awb_849cf4acff2e7bf6eeff",
+    "name": "Rádio Fronteira 102.3 FM",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiofronteirapp.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
     "id": "awb_078b1c7e3889792763e2",
     "name": "Rádio Furacão 2000",
     "country": "BR",
@@ -19698,20 +19754,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_b56664a33a71225bb875",
-    "name": "Rádio Paraty",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioparaty.com.br/",
-    "favicon": "https://radioparaty.com.br/wp-content/uploads/2023/10/logotipo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-08T06:50:55Z"
-  },
-  {
     "id": "awb_9b98d2b7a9ce3ae304a7",
     "name": "Rádio Petrolina FM (ZYX802, 98,3 MHz FM, Petronila, PE)",
     "country": "BR",
@@ -19829,7 +19871,7 @@
     "id": "awb_a76eeb567f319bbe44bd",
     "name": "Rádio Play Mix FM",
     "country": "BR",
-    "subdivision": "Acre",
+    "subdivision": "AC",
     "languages": [
       "en",
       "pt"
@@ -19838,8 +19880,8 @@
     "tags": [
       "eclética"
     ],
-    "homepage": "https://playmixfm.com.br/",
-    "favicon": "https://i.postimg.cc/d3x5xqy2/PLAY-MIX-FM-fundo-transparente.png",
+    "homepage": "https://www.playmixfm.com.br/",
+    "favicon": "https://i.postimg.cc/TwZKqbtt/Logo-play-mix-oficial.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T18:53:16Z"

@@ -6712,29 +6712,6 @@
     "updatedAt": "2026-04-04T17:32:12Z"
   },
   {
-    "id": "awb_68c227220e96272af005",
-    "name": "Diva 91.6",
-    "country": "GR",
-    "subdivision": "Kozani",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "electronic",
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "electronic",
-      "pop"
-    ],
-    "homepage": "http://divaradio.gr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:58:35Z"
-  },
-  {
     "id": "awb_ffd105c087d794ad75d3",
     "name": "Diva FM",
     "country": "GR",
@@ -11853,7 +11830,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-10-28T01:30:58Z"
+    "updatedAt": "2026-11-01T07:19:29Z"
   },
   {
     "id": "awb_5daf4d1f3882debc368d",
@@ -11993,6 +11970,25 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_f096720e866ca9e8b171",
+    "name": "Kea",
+    "country": "GR",
+    "subdivision": "Kea",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://radiokea.gr/",
+    "favicon": "https://radiokea.gr/wp-content/uploads/2025/10/Radio-Player-Radios-Site-Logo.jpg.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T17:02:14Z"
+  },
+  {
     "id": "awb_d1645fe366d9407304f7",
     "name": "Kefalonication Radio",
     "country": "GR",
@@ -12016,6 +12012,24 @@
     "updatedAt": "2026-06-03T07:50:35Z"
   },
   {
+    "id": "awb_44c47f4fd709221483b1",
+    "name": "Keratea",
+    "country": "GR",
+    "subdivision": "Piraeus",
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://xat.com/keratearadio",
+    "favicon": "https://images.weserv.nl/?&output=gif&n=-1&url=https%3A%2F%2Fxatimg.com%2Fimage%2Fe9Rzn9vMvPpw.gif",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T17:06:36Z"
+  },
+  {
     "id": "awb_7bf262513bd745cb0fd5",
     "name": "Kids Radio",
     "country": "GR",
@@ -12036,6 +12050,32 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_1a8281ee10ace11618e8",
+    "name": "Kifinas",
+    "country": "GR",
+    "subdivision": "Thiva",
+    "languages": [],
+    "categories": [
+      "electronic",
+      "hip-hop"
+    ],
+    "tags": [
+      "alternative",
+      "drum & bass",
+      "electronica",
+      "funk",
+      "hiphop",
+      "house",
+      "nu disco",
+      "soul"
+    ],
+    "homepage": "https://www.kifinasradio.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/2fedc97f-b645-471e-a169-c108ed7f4621.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T17:16:56Z"
   },
   {
     "id": "awb_c925a289b4ecbc5622e0",
@@ -12892,6 +12932,24 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_4091886eecf39a2868bf",
+    "name": "Laikasematzore",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://laikasematzore.gr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T18:06:40Z"
+  },
+  {
     "id": "awb_fd9f9181637bf606fda3",
     "name": "LaikiNota",
     "country": "GR",
@@ -12928,6 +12986,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:29:53Z"
+  },
+  {
+    "id": "awb_f0093321d8a6efb10f9b",
+    "name": "Laiko Radio",
+    "country": "GR",
+    "subdivision": "Chania",
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://www.facebook.com/laiko.radiofono.1",
+    "favicon": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-1/343683510_6149805545101118_8235727024488569112_n.jpg?stp=dst-jpg_tt6&cstp=mx160x160&ctp=s160x160&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_ohc=E4vqRuxHz44Q7kNvwGi1Pn0&_nc_oc=AdrQlYtNtT5nnCb3uaJyFAonovruvaVGsbecmWQKzptgM9E-ux2JbxGDy62e9TXEaiI&_nc_zt=24&_nc_ht=scontent-lhr6-1.xx&_nc_gid=mYFi1YL1DApFzr-7zE0yaA&_nc_ss=79289&oh=00_AQTaZBEPLNYdTugDB8_eIumE56WRU4IhYCd8H20pdR5nBQ&oe=6AEBE623",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T18:00:02Z"
   },
   {
     "id": "awb_9b8a9d09dc32abe6cc0e",
@@ -13142,6 +13218,47 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-30T13:40:15Z"
+  },
+  {
+    "id": "awb_5e95ee520db843a213c5",
+    "name": "Laternative",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "greek",
+      "laiko",
+      "rock"
+    ],
+    "homepage": "https://laternative.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T20:20:28Z"
+  },
+  {
+    "id": "awb_76dfe5e1cd763b33cff7",
+    "name": "LD Radio.eu",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://www.ldradio.eu/",
+    "favicon": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/879638810_2292299064971495_420412478459067720_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=p526x296&_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=73YjpHBfplcQ7kNvwEPKvm4&_nc_oc=AdoppPAOs98pi6u_KYRuMBwg6628KnlVvXjtl2d5jO1yDmiAJcyE5qJcfNxCaeUR0I4&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=_FEc5aeW9Nv_Ku0ORaSKcQ&_nc_ss=79289&oh=00_AQRsKbeRjbr5ydjG0CBVuCOxy6CFutFTx9hCQH4ZbTkJjg&oe=6AEC1307",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T18:17:16Z"
   },
   {
     "id": "awb_0e8cb308170471cfb01e",
@@ -13702,6 +13819,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-23T18:24:46Z"
+  },
+  {
+    "id": "awb_bee79b09bde75bc10298",
+    "name": "Love FM GR",
+    "country": "GR",
+    "subdivision": "Thessaloniki",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "greek music"
+    ],
+    "homepage": "https://www.lovefm.gr/",
+    "favicon": "https://www.lovefm.gr/images/new%20logo%2003.jpg?crc=3788049184",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T18:54:48Z"
   },
   {
     "id": "awb_5e4d82f8f3bcc9c89d89",
@@ -14665,7 +14798,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-27T19:40:41Z"
+    "updatedAt": "2026-10-31T22:19:25Z"
   },
   {
     "id": "awb_f6721fc2fc91afd0e9b8",
@@ -23662,7 +23795,7 @@
     "id": "awb_31f3a9d9a08f212ce6d5",
     "name": "Radio Rebetikes Melodies",
     "country": "GR",
-    "subdivision": "Agrinio Greece",
+    "subdivision": "Agrinio",
     "languages": [
       "el",
       "en",
@@ -23679,7 +23812,7 @@
     "favicon": "https://rebetis.duckdns.org/rebetis.png",
     "type": null,
     "sourceCount": 7,
-    "updatedAt": "2026-10-27T23:46:22Z"
+    "updatedAt": "2026-11-01T08:43:48Z"
   },
   {
     "id": "awb_d7a84c80fd5892c5a153",
@@ -27201,7 +27334,7 @@
     "favicon": "https://studio19.gr/images/Studio19_logo2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T13:03:52Z"
+    "updatedAt": "2026-10-31T23:36:01Z"
   },
   {
     "id": "awb_5576fa95e6cc10a65f36",
@@ -33758,6 +33891,22 @@
     "updatedAt": "2026-01-15T00:12:47Z"
   },
   {
+    "id": "awb_5b8c5c17e227e7909153",
+    "name": "Κλαρίνα 24 FM",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "greek traditional"
+    ],
+    "homepage": "https://www.facebook.com/klarina.eikositeserafm.3/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/47d4221e-1f6f-4ba0-95d6-71e2359badf4.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T17:23:03Z"
+  },
+  {
     "id": "awb_9693d11711de6a4afb0b",
     "name": "κλαρινόβιος",
     "country": "GR",
@@ -33811,6 +33960,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:39:41Z"
+  },
+  {
+    "id": "awb_7a1c4b1516b913069de3",
+    "name": "Κουρσάρος",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://www.radiokoyrsaros.top/",
+    "favicon": "https://webinternetradio.net/photo/koyrsaros/koyrsaros8.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T17:47:48Z"
   },
   {
     "id": "awb_7ebb318f4c2276329e96",
@@ -34434,6 +34601,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-17T19:01:44Z"
+  },
+  {
+    "id": "awb_25e80df4ace359978a91",
+    "name": "Λόφος",
+    "country": "GR",
+    "subdivision": "Lesvos",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "student radio"
+    ],
+    "homepage": "https://my.aegean.gr/radio/Lesvos/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/dca9db0a-5ae1-4b14-bf03-07199db9425f.jpg",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-31T18:38:20Z"
   },
   {
     "id": "awb_bfc9a0249ee1111e6602",
@@ -35548,7 +35731,7 @@
     "id": "awb_215970eda529aaad3464",
     "name": "Ορθοδοξία - Αγία Γραφή",
     "country": "GR",
-    "subdivision": "Heraklion Crete",
+    "subdivision": null,
     "languages": [
       "el"
     ],
@@ -35561,14 +35744,14 @@
     "homepage": "https://rasp35.ddnsfree.com/",
     "favicon": "https://rasp35.ddnsfree.com/icons/grafi.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-21T23:15:21Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-21T18:19:55Z"
   },
   {
     "id": "awb_a266f315dabfd6451c28",
     "name": "Ορθοδοξία Άγιος Παϊσιος",
     "country": "GR",
-    "subdivision": "Heraklion Crete",
+    "subdivision": null,
     "languages": [
       "el"
     ],
@@ -35581,7 +35764,7 @@
     "homepage": "https://rasp35.ddnsfree.com/",
     "favicon": "https://rasp35.ddnsfree.com/icons/pss.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-22T06:42:33Z"
   },
   {
@@ -35614,7 +35797,7 @@
     "id": "awb_0314c7490040ffe8061b",
     "name": "Ορθοδοξία Μυτηλιναίος",
     "country": "GR",
-    "subdivision": "Heraklion Crete",
+    "subdivision": null,
     "languages": [
       "el"
     ],
@@ -35627,7 +35810,7 @@
     "homepage": "https://rasp35.ddnsfree.com/",
     "favicon": "https://rasp35.ddnsfree.com/icons/mtlns.webp",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-22T01:05:46Z"
   },
   {
@@ -35667,8 +35850,8 @@
     "homepage": "https://rasp35.ddnsfree.com/",
     "favicon": "https://rasp35.ddnsfree.com/icons/strpls.jpg",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-08-22T06:59:02Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-08-22T00:34:34Z"
   },
   {
     "id": "awb_cdfabf3b98a03ec2de32",
@@ -35685,8 +35868,8 @@
     "homepage": "https://rasp35.ddnsfree.com/",
     "favicon": "https://rasp35.ddnsfree.com/icons/ortdx.jpg",
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-08-22T06:03:45Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-08-21T23:54:45Z"
   },
   {
     "id": "awb_9d7f27051a167a98112d",

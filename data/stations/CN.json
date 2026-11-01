@@ -183,6 +183,28 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_1fc999810cdada4e7503",
+    "name": "708090 Music",
+    "country": "CN",
+    "subdivision": "chongqing",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "golden oldies",
+      "pop music"
+    ],
+    "homepage": "https://myradio.023520.xyz:4443/public/pop7890",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T10:49:09Z"
+  },
+  {
     "id": "awb_a4856bd4ed57946af205",
     "name": "80后音悦台",
     "country": "CN",
@@ -917,20 +939,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:54:34Z"
-  },
-  {
-    "id": "awb_a434f88e94ea14107e9b",
-    "name": "BIG BIG MIX 精选歌单",
-    "country": "CN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://bigbigmix.com/",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/4/157454.v6.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-08T16:52:32Z"
   },
   {
     "id": "awb_3601f924dd855a0d1e13",
@@ -4148,6 +4156,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:40:44Z"
+  },
+  {
+    "id": "awb_f1b80095e6a991862976",
+    "name": "Radio Impetus 心动电台",
+    "country": "CN",
+    "subdivision": "Dalian",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "electronic",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "electronic",
+      "hits",
+      "music",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.qtfm.cn/radios/20500161",
+    "favicon": "https://pic.qtfm.cn/2022/0921/20220921112337.gif",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:21:40Z"
   },
   {
     "id": "awb_0b5f10da0c5e147d9f36",
@@ -21656,6 +21690,22 @@
     "updatedAt": "2026-03-26T01:25:22Z"
   },
   {
+    "id": "awb_9b9a645cb650b9e97aad",
+    "name": "桓仁电台",
+    "country": "CN",
+    "subdivision": "Liaoning",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.hr.gov.cn/xwzx/hrxw",
+    "favicon": "https://pic.qtfm.cn/2022/1101/20221101044926.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:20:40Z"
+  },
+  {
     "id": "awb_7f7156b3812315b9f904",
     "name": "桦甸综合广播",
     "country": "CN",
@@ -28753,6 +28803,24 @@
     "updatedAt": "2026-01-15T01:07:32Z"
   },
   {
+    "id": "awb_cedaf18ac1b18958db1e",
+    "name": "睢宁综合广播",
+    "country": "CN",
+    "subdivision": "Kiangsu",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "entertainment"
+    ],
+    "homepage": "http://xuzhou.people.com.cn/GB/359715/359828/index.html",
+    "favicon": "https://pic.qtfm.cn/sso/48/1692176675554_qt-nQa8Mn.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-16T12:24:50Z"
+  },
+  {
     "id": "awb_6a650d0132eb022c6292",
     "name": "石嘴山综合广播",
     "country": "CN",
@@ -29494,7 +29562,7 @@
     "homepage": "http://www.shaoxing.com.cn/",
     "favicon": "http://pic.qtfm.cn/sso/48/1689237486257_cAzBAhuYR.png!200",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-08T03:01:58Z"
   },
   {
@@ -29517,7 +29585,7 @@
     "homepage": "http://www.shaoxing.com.cn/",
     "favicon": "http://pic.qtfm.cn/sso/48/1689237604713_KblxSErAD.png!200",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-08T03:01:58Z"
   },
   {
@@ -35212,6 +35280,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:59:14Z"
+  },
+  {
+    "id": "awb_8bed892adef0d934c908",
+    "name": "防城港综合广播",
+    "country": "CN",
+    "subdivision": "Kwangsi",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "full service"
+    ],
+    "homepage": "https://www.fcgtvb.com/page/",
+    "favicon": "https://bkimg.cdn.bcebos.com/pic/79f0f736afc379310a5551b61595a04543a98326bba8?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-05-07T03:12:54Z"
   },
   {
     "id": "awb_c7d0007c50fa4af0d095",
