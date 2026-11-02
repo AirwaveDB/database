@@ -703,20 +703,6 @@
     "updatedAt": "2026-01-15T08:14:13Z"
   },
   {
-    "id": "awb_02f82a04d7081b651b1b",
-    "name": "AIR Berhampur",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "https://onlineradiohub.com/wp-content/uploads/2024/01/air-behrampur-fm.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_c56463038f8022f4ec9b",
     "name": "AIR bhopal",
     "country": "IN",
@@ -804,31 +790,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T07:58:24Z"
-  },
-  {
-    "id": "awb_e2c2ea0140e0bdeccf81",
-    "name": "AIR DELHI INDRAPRASTHA",
-    "country": "IN",
-    "subdivision": "Delhi",
-    "languages": [
-      "en",
-      "hi"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "infotainment",
-      "local news",
-      "news talk",
-      "radio drama"
-    ],
-    "homepage": "https://prasarbharati.gov.in/",
-    "favicon": "https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:50:24Z"
   },
   {
     "id": "awb_c29496eb9c89f44034c1",
@@ -1044,24 +1005,6 @@
     "updatedAt": "2026-01-15T02:51:36Z"
   },
   {
-    "id": "awb_7b13da0f06dfc203aff9",
-    "name": "AIR Kochi",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_de0cd3395e028ba3ce59",
     "name": "AIR KODAI FM",
     "country": "IN",
@@ -1172,25 +1115,6 @@
     "updatedAt": "2026-01-15T00:25:41Z"
   },
   {
-    "id": "awb_a0a808c55bde104bdfa3",
-    "name": "AIR Madikeri",
-    "country": "IN",
-    "subdivision": "Karnataka",
-    "languages": [],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news talk music"
-    ],
-    "homepage": "https://prasarbharati.gov.in/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_81639b733ceec9f54468",
     "name": "AIR Madurai AM1269",
     "country": "IN",
@@ -1245,24 +1169,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:17:37Z"
-  },
-  {
-    "id": "awb_2580dad9cfa2a2b9e07b",
-    "name": "air nagaon",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [
-      "as"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://liveradios.in/air-nagaon.html",
-    "favicon": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:11:24Z"
   },
   {
     "id": "awb_49e1fe700fde7516dc1e",
@@ -2063,22 +1969,6 @@
     "updatedAt": "2026-01-14T23:48:52Z"
   },
   {
-    "id": "awb_c3a1f397f1852d7bdd75",
-    "name": "akashvaninews",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [
-      "hi"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "https://radiosindia.com/images/airnews.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:53:10Z"
-  },
-  {
     "id": "awb_51af62f13773d13050ee",
     "name": "akashvaniraagam",
     "country": "IN",
@@ -2151,8 +2041,16 @@
     "languages": [
       "hi"
     ],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "infotainment",
+      "local news",
+      "news talk",
+      "radio drama"
+    ],
     "homepage": null,
     "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/06/air-radio-news-24-7.jpg",
     "type": null,
@@ -5024,22 +4922,6 @@
     "updatedAt": "2026-01-15T06:36:23Z"
   },
   {
-    "id": "awb_16e59cd6dbcf10ff49b7",
-    "name": "etrradio",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [
-      "ta"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "https://radiosindia.com/images/etrradio.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:15:00Z"
-  },
-  {
     "id": "awb_5db2bb01a1132d7e8ea7",
     "name": "evergreen-tamil-radio",
     "country": "IN",
@@ -5592,25 +5474,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_e61b0027781098b3bb2d",
-    "name": "Free FM 80´s India",
-    "country": "IN",
-    "subdivision": "Mumbai",
-    "languages": [],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "#80s",
-      "#freefm"
-    ],
-    "homepage": "http://www.freefmworld.com/",
-    "favicon": "https://lh4.googleusercontent.com/acjVH3-jt6Rup86sTS16ZbClPjcB-xcVHsr-0RxPZplbCCgvPbb9WKSj2XdpcTdOCe_wzLfv9uktiQIJKkKgYc4lajlD5qKO6rSJl18sDC9yIehJREvzmK2zj9jc3V-n=w1280",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_8e455d74c99d7ced6b0a",
@@ -7135,26 +6998,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_4b97de864b27906b9ac1",
-    "name": "JAVA HITS",
-    "country": "IN",
-    "subdivision": "Uttar Pradesh",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "bollywood hits",
-      "bollywood music",
-      "hindi songs"
-    ],
-    "homepage": "https://highrise.game/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T10:06:26Z"
-  },
-  {
     "id": "awb_2b6f9fc1ae3ff5496460",
     "name": "JAVA MASTIKHOR",
     "country": "IN",
@@ -7353,22 +7196,6 @@
     "updatedAt": "2026-01-15T06:51:37Z"
   },
   {
-    "id": "awb_47d7db084d39bca6b4eb",
-    "name": "jorhat",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "music drama"
-    ],
-    "homepage": "https://onlineradiofm.in/assam/jorhat/all-india-air-akashvani",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_cba8a2e06951efa42e2c",
     "name": "JU Radio",
     "country": "IN",
@@ -7510,6 +7337,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:49:59Z"
+  },
+  {
+    "id": "awb_e0edf8439ca1374c8e8c",
+    "name": "Kannadasan Radio",
+    "country": "IN",
+    "subdivision": "Tamil Nadu",
+    "languages": [
+      "ta"
+    ],
+    "categories": [],
+    "tags": [
+      "india",
+      "kannadasan",
+      "kaviarasar",
+      "tamil",
+      "tamil nadu"
+    ],
+    "homepage": "https://www.tamilradios.com/kaviyarasar-radio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:51:12Z"
   },
   {
     "id": "awb_ba97606bdade76e736ae",
@@ -8156,22 +8005,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_c91551c1effa5efb557a",
-    "name": "lycaradio",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [
-      "hi"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "https://radiosindia.com/images/lycaradio.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:10:00Z"
   },
   {
     "id": "awb_4607df9f08dabee974a0",
@@ -10672,16 +10505,14 @@
     ],
     "tags": [
       "90s",
-      "bollywood",
-      "oldies",
       "retro",
       "romantic"
     ],
     "homepage": "https://radiohotstar.com/radiogaana.php",
     "favicon": "https://radiohotstar.com/logo2.png",
     "type": null,
-    "sourceCount": 7,
-    "updatedAt": "2026-08-12T17:07:57Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-06-25T07:37:50Z"
   },
   {
     "id": "awb_47ac7f5b4938dc2dc1d0",
@@ -13195,7 +13026,7 @@
     "homepage": "https://funasia.streamguys1.com/live9",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {

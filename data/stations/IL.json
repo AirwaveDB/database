@@ -521,7 +521,7 @@
   },
   {
     "id": "awb_769f5959d590f4abb5de",
-    "name": "Imsostablee Radio",
+    "name": "imsostablee Radio",
     "country": "IL",
     "subdivision": null,
     "languages": [],
@@ -721,6 +721,33 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-10-01T19:07:04Z"
+  },
+  {
+    "id": "awb_2861c8cf5adac7bfdd95",
+    "name": "Kan Reshet Bet",
+    "country": "IL",
+    "subdivision": null,
+    "languages": [
+      "he"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "192kbps",
+      "aac",
+      "current affairs",
+      "hls",
+      "music",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.kan.org.il/content/kan/kan-b/",
+    "favicon": "https://i.imgur.com/A9ZyEze.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T10:11:57Z"
   },
   {
     "id": "awb_d4a9b492231a62dd1019",

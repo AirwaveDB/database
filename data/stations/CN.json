@@ -4846,6 +4846,25 @@
     "updatedAt": "2026-08-08T03:00:12Z"
   },
   {
+    "id": "awb_ffdc14f6876bcd282c7e",
+    "name": "SZFY971深圳飞扬971",
+    "country": "CN",
+    "subdivision": "Guangzhou",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "chinese music",
+      "guangzhou info"
+    ],
+    "homepage": "https://www.feiyang971.com/",
+    "favicon": "https://sao.fm/wp-content/uploads/20220725223526776-300x300.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T08:24:59Z"
+  },
+  {
     "id": "awb_6bd8434aefda124a8ad0",
     "name": "T-Radio旅游广播104",
     "country": "CN",
@@ -11900,7 +11919,7 @@
     "id": "awb_023f2667c997817c3da6",
     "name": "哈尔滨经济广播",
     "country": "CN",
-    "subdivision": "Amur River",
+    "subdivision": "黑龙江",
     "languages": [
       "zh"
     ],
@@ -29554,15 +29573,12 @@
     ],
     "categories": [],
     "tags": [
-      "94.1",
-      "94.1 fm",
-      "entertainment",
       "traffic radio broadcast"
     ],
     "homepage": "http://www.shaoxing.com.cn/",
     "favicon": "http://pic.qtfm.cn/sso/48/1689237486257_cAzBAhuYR.png!200",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-08T03:01:58Z"
   },
   {
@@ -29596,22 +29612,14 @@
     "languages": [
       "zh"
     ],
-    "categories": [
-      "news",
-      "public"
-    ],
+    "categories": [],
     "tags": [
-      "93.6",
-      "93.6 fm",
-      "full service",
-      "information",
-      "news",
-      "public radio"
+      "full service"
     ],
     "homepage": "http://www.shaoxing.com.cn/",
-    "favicon": "http://img.shaoxing.com.cn/a/thumb/10001/201907/8bce752c2c560ddf9537fed0bd371476.jpg!w800_h600.jpg",
-    "type": "public",
-    "sourceCount": 4,
+    "favicon": "http://pic.qtfm.cn/sso/48/1689237317741_ssnuc4EFB.png!200",
+    "type": null,
+    "sourceCount": 2,
     "updatedAt": "2026-08-08T03:01:58Z"
   },
   {
@@ -33868,7 +33876,7 @@
       "information",
       "news"
     ],
-    "homepage": "https://www.nxw.org.cn/",
+    "homepage": "http://www.nxw.org.cn/",
     "favicon": "http://pic.qingting.fm/2017/0413/20170413110818.jpeg",
     "type": null,
     "sourceCount": 2,

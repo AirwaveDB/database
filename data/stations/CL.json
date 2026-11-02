@@ -400,6 +400,22 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_c75e92754ce043f1c769",
+    "name": "Beat FM 98.7 Valle de Aconcagua",
+    "country": "CL",
+    "subdivision": "Valparaíso",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://zeno.fm/radio/beat-fm-valle-de-aconcagua-en-vivo/",
+    "favicon": "https://proxy.zeno.fm/content/stations/bac48acd-320d-48ba-9093-1107db26d307/image/?u=1713873237000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T19:17:12Z"
+  },
+  {
     "id": "awb_2964123ffca2fb118713",
     "name": "Beethoven - Santiago FM",
     "country": "CL",
@@ -2335,6 +2351,27 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_6b92c8edf8b16de096f3",
+    "name": "Generación 80s 90s Neltume",
+    "country": "CL",
+    "subdivision": "Los Ríos",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "80s",
+      "90s"
+    ],
+    "homepage": "https://zeno.fm/radio/generacion-80s-90s-neltume-chile-radio/",
+    "favicon": "https://proxy.zeno.fm/content/stations/1453b8b9-01ad-49ad-9f4a-09bd33afb695/image/?u=1790479830000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T19:13:52Z"
   },
   {
     "id": "awb_c48de788a07cfd5a2e97",
@@ -5469,6 +5506,54 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_26e9f930b3f303b23758",
+    "name": "Radio Dulce 103.1 Pichidangui y Los Vilos",
+    "country": "CL",
+    "subdivision": "Coquimbo",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://zeno.fm/radio/radio-dulce-103-1-en-pichidangui-y-los-vilos/",
+    "favicon": "https://proxy.zeno.fm/content/stations/3247f816-c38e-49b2-8312-d47e8653767b/image/?u=1771952554000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T19:12:38Z"
+  },
+  {
+    "id": "awb_46a5148fcafd155088c6",
+    "name": "Radio Dulce 103.3 Marga-Marga",
+    "country": "CL",
+    "subdivision": "Valparaíso",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://zeno.fm/radio/radio-dulce-103-3-marga-marga/",
+    "favicon": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQo_-SsAsMCxIOU3RhdGlvblByb2ZpbGUYgIDIucqBpwgMogEEemVubw/image/?u=1771952574000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T19:12:37Z"
+  },
+  {
+    "id": "awb_83497e0d2937409dbd1e",
+    "name": "Radio Dulce 106.3 Puerto Varas",
+    "country": "CL",
+    "subdivision": "Los Lagos",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://zeno.fm/radio/radio-dulce-106-3-puerto-varas/",
+    "favicon": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQo_-SsAsMCxIOU3RhdGlvblByb2ZpbGUYgICQs4-bjQkMogEEemVubw/image/?u=1771952720000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T19:27:07Z"
+  },
+  {
     "id": "awb_a223acb0da5cd7f4036f",
     "name": "Radio Dulce 95.3 en La Ligua",
     "country": "CL",
@@ -6542,11 +6627,13 @@
     "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "misc"
+    ],
     "homepage": "https://radiokurruf.org/",
-    "favicon": null,
+    "favicon": "https://radiokurruf.org/favicon.ico",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {

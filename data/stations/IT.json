@@ -2734,7 +2734,7 @@
     "favicon": "https://www.fangoradio.com/img/fango-logo.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-01T00:56:50Z"
+    "updatedAt": "2026-11-01T19:51:20Z"
   },
   {
     "id": "awb_c85f7e648b007cd93955",
@@ -6151,7 +6151,7 @@
     "favicon": "https://radio.motostorie.blog/static/uploads/motostorie/album_art.1776953816.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T19:07:11Z"
+    "updatedAt": "2026-11-01T19:11:58Z"
   },
   {
     "id": "awb_cd00a94b3489648acdd8",
@@ -9300,7 +9300,7 @@
       "pop"
     ],
     "homepage": "http://www.radioalfalombardia.it/",
-    "favicon": "https://www.radioalfalombardia.it/wp-content/uploads/2024/05/1698582165981_small.jpg",
+    "favicon": "https://images.app.goo.gl/qSVCrU2pFd1kunSR6",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-01-15T03:01:40Z"
@@ -20830,24 +20830,6 @@
     "updatedAt": "2026-06-08T10:27:57Z"
   },
   {
-    "id": "awb_e808015229c85f7432d9",
-    "name": "radio rai 3",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [],
-    "tags": [
-      "culture"
-    ],
-    "homepage": "https://www.raiplaysound.it/radio3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:09:17Z"
-  },
-  {
     "id": "awb_ab77e496610109a22ddf",
     "name": "Radio RaiSport",
     "country": "IT",
@@ -22812,7 +22794,7 @@
     "favicon": "https://www.radiostudio104.com/wp-content/uploads/2025/06/104-logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T23:48:19Z"
+    "updatedAt": "2026-11-01T23:57:29Z"
   },
   {
     "id": "awb_ca4a09c821cbf4f08849",
@@ -24887,6 +24869,31 @@
     "updatedAt": "2026-01-15T08:46:38Z"
   },
   {
+    "id": "awb_d1bbf55b3b9382b2eeae",
+    "name": "radiodellaconcia-rock",
+    "country": "IT",
+    "subdivision": "Emilia-Romagna",
+    "languages": [],
+    "categories": [
+      "metal",
+      "punk",
+      "rock"
+    ],
+    "tags": [
+      "grunge",
+      "indie",
+      "new wave",
+      "nu metal",
+      "punk",
+      "rock"
+    ],
+    "homepage": "https://www.radiodellaconcia-rock.it/",
+    "favicon": "https://www.radiodellaconcia-rock.it/",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T23:20:09Z"
+  },
+  {
     "id": "awb_b32b05385a0666e6a732",
     "name": "Radiofreccia",
     "country": "IT",
@@ -25369,20 +25376,6 @@
     "updatedAt": "2026-01-15T01:42:49Z"
   },
   {
-    "id": "awb_12076dc65015c0b324e5",
-    "name": "RAI classic",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://icestreaming.rai.it/3.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_da6d19f18a74f174f051",
     "name": "RAI Friuli Venezia Giulia",
     "country": "IT",
@@ -25717,32 +25710,27 @@
   },
   {
     "id": "awb_38ba4fa9b8c3332bbb19",
-    "name": "RAI Radio 3",
+    "name": "Rai Radio 3",
     "country": "IT",
     "subdivision": null,
     "languages": [
       "it"
     ],
     "categories": [
-      "classical",
       "news",
-      "public",
       "talk"
     ],
     "tags": [
-      "classical",
-      "culture",
       "music",
       "news",
-      "public radio",
       "talk",
       "variety"
     ],
     "homepage": "https://www.raiplaysound.it/radio3",
     "favicon": "https://www.raiplaysound.it/radio3",
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:51:37Z"
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:18:42Z"
   },
   {
     "id": "awb_4129ff936dac28c88f85",
@@ -25754,64 +25742,19 @@
     ],
     "categories": [
       "classical",
-      "news",
-      "public",
-      "talk"
+      "public"
     ],
     "tags": [
       "classical",
       "culture",
-      "news",
       "public radio",
-      "rai",
-      "talk",
-      "variety"
+      "rai"
     ],
     "homepage": "http://www.radio3.rai.it/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:37:46Z"
-  },
-  {
-    "id": "awb_4d8dc98d9936b3bb8db3",
-    "name": "Rai Radio 3",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical",
-      "culture",
-      "music"
-    ],
-    "homepage": "https://www.rai.it/",
     "favicon": "https://www.raicom.rai.it/wp-content/uploads/2021/12/RADIO3-1024x1024.jpg",
-    "type": null,
+    "type": "public",
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:34:00Z"
-  },
-  {
-    "id": "awb_7ec6c171df982c839b15",
-    "name": "RAI Radio 3",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "updatedAt": "2026-01-15T02:05:55Z"
   },
   {
     "id": "awb_b2154f5a1adba1b10732",
@@ -25966,20 +25909,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_b6932d9e10af444b3ab7",
-    "name": "RAI Radio3",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rayplaysound.it/radio3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_37f6013c36dbb12fee42",
@@ -26291,7 +26220,7 @@
   },
   {
     "id": "awb_11ab40cc55b8779b4047",
-    "name": "RCUNO",
+    "name": "rcuno",
     "country": "IT",
     "subdivision": null,
     "languages": [
@@ -26309,7 +26238,7 @@
       "rock"
     ],
     "homepage": "http://rcuno.altervista.org/",
-    "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/cropped-RCUNO1.jpg",
+    "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/RCUNO1.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-15T15:59:50Z"
@@ -28990,7 +28919,7 @@
     "favicon": "https://radiospore.oziosi.org/user/themes/quark/images/logo/logoprova2.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-11-01T05:58:59Z"
+    "updatedAt": "2026-11-02T00:55:56Z"
   },
   {
     "id": "awb_234d9c2b691f781ed058",

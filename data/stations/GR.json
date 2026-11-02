@@ -190,20 +190,6 @@
     "updatedAt": "2026-08-11T08:55:53Z"
   },
   {
-    "id": "awb_bcbeeb7fbd85dda22167",
-    "name": "09.ΕΡΑ sport",
-    "country": "GR",
-    "subdivision": "Athens Greece",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.ertecho.gr/radio/eraspor/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJc2uGynM0hiPvSSTzudwE3KvaO1woB4V6gT2WzRHWw&s=10",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-11T09:01:18Z"
-  },
-  {
     "id": "awb_0d17e19b06122fd86eef",
     "name": "1 News",
     "country": "GR",
@@ -234,22 +220,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-11T05:36:11Z"
-  },
-  {
-    "id": "awb_8210befb8208ae3285ce",
-    "name": "10.ΕΡΑ 1ο",
-    "country": "GR",
-    "subdivision": "Athens Greece",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://webradio.ert.gr/proto/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/5/5c/First_Programme_%28ERA_1%29_logo.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-11T07:19:50Z"
   },
   {
     "id": "awb_8059d5cde726cb8450a4",
@@ -1839,36 +1809,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_7d9ff7f24528249b5368",
-    "name": "9.ΕΡΑ sport",
-    "country": "GR",
-    "subdivision": "Athens Greece",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.ertecho.gr/radio/eraspor/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJc2uGynM0hiPvSSTzudwE3KvaO1woB4V6gT2WzRHWw&s=10",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-11T07:02:23Z"
-  },
-  {
-    "id": "awb_b75cfc000841a41fb8db",
-    "name": "9.ΕΡΑ sports",
-    "country": "GR",
-    "subdivision": "Attica, Athens",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.ertecho.gr/radio/eraspor/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Era_Spor_101.8_Greece_-_Old_Logo_Original.svg/250px-Era_Spor_101.8_Greece_-_Old_Logo_Original.svg.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-11T06:53:41Z"
-  },
-  {
     "id": "awb_1c6f9a71a32bc050ab06",
     "name": "90.4 Αριστερά στα FM",
     "country": "GR",
@@ -2326,22 +2266,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:59:53Z"
-  },
-  {
-    "id": "awb_4fc525ac568d2a9ff667",
-    "name": "Agrinio",
-    "country": "GR",
-    "subdivision": "Agrinio",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://agrinioliveradio.blogspot.com/",
-    "favicon": "http://resources.live24.gr/resources/images/stations/4110a597-2687-48f8-841f-f6fa8a9fa3c9.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:29:18Z"
   },
   {
     "id": "awb_9cba5bbdb705888bff6d",
@@ -5523,25 +5447,6 @@
     "updatedAt": "2026-01-15T04:07:10Z"
   },
   {
-    "id": "awb_e6fb8bf2f061a52d96c8",
-    "name": "Classic Radio Greece",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical music",
-      "opera"
-    ],
-    "homepage": "http://classicradiogreece.playtheradio.com/",
-    "favicon": "http://resources.live24.gr/resources/images/stations/66571b2e-aee0-423b-ac20-bd15462b0350.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_424ecaad81dd902627b1",
     "name": "Clearjet",
     "country": "GR",
@@ -6085,23 +5990,18 @@
   },
   {
     "id": "awb_6701abcebd45b6846fd2",
-    "name": "D-Code 96,2",
+    "name": "D-Code 96.2",
     "country": "GR",
-    "subdivision": "Chania (Greece)",
+    "subdivision": "Chania",
     "languages": [
       "el",
       "en"
     ],
     "categories": [
       "electronic",
-      "oldies",
       "pop"
     ],
     "tags": [
-      "70s",
-      "80s",
-      "dance",
-      "disco",
       "electronica",
       "house",
       "indiepop",
@@ -6112,11 +6012,11 @@
       "soul",
       "triphop"
     ],
-    "homepage": "http://www.962.gr/",
+    "homepage": "https://962.gr/",
     "favicon": "https://962.gr/wp-content/uploads/2022/08/cropped-Untitled-design-93-192x192.png",
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-01-15T04:29:18Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-01-15T03:03:48Z"
   },
   {
     "id": "awb_1060ed30961e99d21b28",
@@ -6174,24 +6074,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_106221cf602422eb130a",
-    "name": "Dance Wave!",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "club dance electronic house trance"
-    ],
-    "homepage": "https://dancewave.online/",
-    "favicon": "https://dancewave.online/dw_logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_a7a70804d9442bc06dfc",
@@ -6710,20 +6592,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-04T17:32:12Z"
-  },
-  {
-    "id": "awb_ffd105c087d794ad75d3",
-    "name": "Diva FM",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.divaradio.gr/",
-    "favicon": "https://www.divaradio.gr/logo_diva.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_9656db03c014f4019ac2",
@@ -7456,27 +7324,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_7a679df5283f169b34d0",
-    "name": "Elium Club",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "club dance",
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://live24.gr/radio/generic.jsp?sid=2819",
-    "favicon": "http://resources.live24.gr/resources/images/stations/6ee779fd-455c-4ecd-832b-22f7698ef54d.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_8e06063aaa0ae8489488",
     "name": "Ellada 94.3",
     "country": "GR",
@@ -8025,20 +7872,6 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:18:26Z"
-  },
-  {
-    "id": "awb_d41d66b78f5da3f257fe",
-    "name": "ERA Sport 101.8",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://live24.gr/radio/generic.jsp?sid=2231",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_ee593587a93827427d81",
@@ -11830,7 +11663,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-11-01T07:19:29Z"
+    "updatedAt": "2026-11-02T01:36:47Z"
   },
   {
     "id": "awb_5daf4d1f3882debc368d",
@@ -14798,7 +14631,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-31T22:19:25Z"
+    "updatedAt": "2026-11-01T19:51:58Z"
   },
   {
     "id": "awb_f6721fc2fc91afd0e9b8",
@@ -16184,29 +16017,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_775f0d2e2108b3eba684",
-    "name": "North",
-    "country": "GR",
-    "subdivision": "Thessaloniki",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "music",
-      "news",
-      "talk"
-    ],
-    "homepage": "https://www.radionorth.gr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:25:18Z"
   },
   {
     "id": "awb_79a1514c3cf030dc156f",
@@ -23484,7 +23294,7 @@
     "favicon": "https://meraklis.ddnsfree.com/logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T23:55:05Z"
+    "updatedAt": "2026-11-01T23:57:29Z"
   },
   {
     "id": "awb_346b3683b2aedf080370",
@@ -23795,10 +23605,9 @@
     "id": "awb_31f3a9d9a08f212ce6d5",
     "name": "Radio Rebetikes Melodies",
     "country": "GR",
-    "subdivision": "Agrinio",
+    "subdivision": "Agrinio Greece",
     "languages": [
       "el",
-      "en",
       "gr"
     ],
     "categories": [
@@ -23811,8 +23620,8 @@
     "homepage": "https://rebetis.duckdns.org/",
     "favicon": "https://rebetis.duckdns.org/rebetis.png",
     "type": null,
-    "sourceCount": 7,
-    "updatedAt": "2026-11-01T08:43:48Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T12:17:21Z"
   },
   {
     "id": "awb_d7a84c80fd5892c5a153",
@@ -27334,7 +27143,7 @@
     "favicon": "https://studio19.gr/images/Studio19_logo2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-31T23:36:01Z"
+    "updatedAt": "2026-11-01T13:37:50Z"
   },
   {
     "id": "awb_5576fa95e6cc10a65f36",
@@ -30339,21 +30148,15 @@
     "name": "Άνοιξη 100.7",
     "country": "GR",
     "subdivision": "Patra",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "pop"
-    ],
+    "languages": [],
+    "categories": [],
     "tags": [
-      "greek",
-      "greek music",
-      "pop"
+      "greek music"
     ],
-    "homepage": "https://anoixifm.gr/",
+    "homepage": "https://www.anoixifm.gr/",
     "favicon": "https://resources.live24.gr/resources/images/stations/99045acd-8efe-493c-9984-506c59947812.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-03-23T17:59:09Z"
   },
   {
@@ -32076,20 +31879,6 @@
     "updatedAt": "2026-01-15T04:29:57Z"
   },
   {
-    "id": "awb_61a0222b9b4f0db66aa7",
-    "name": "Έντεχνα",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rasp35.ddnsfree.com:3535/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-17T06:09:06Z"
-  },
-  {
     "id": "awb_c78fb0dfc122ff31bda3",
     "name": "Έντεχνος 92.5",
     "country": "GR",
@@ -32199,26 +31988,6 @@
     "updatedAt": "2026-10-03T18:43:31Z"
   },
   {
-    "id": "awb_32912ad5bec0e09f306a",
-    "name": "ΕΡΑ 1ο",
-    "country": "GR",
-    "subdivision": "Athens Greece",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "public radio"
-    ],
-    "homepage": "https://webradio.ert.gr/proto/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/5/5c/First_Programme_%28ERA_1%29_logo.png",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-03-28T09:20:15Z"
-  },
-  {
     "id": "awb_aafa8f46bb1a582a20a6",
     "name": "ΕΡΑ 2ο",
     "country": "GR",
@@ -32283,26 +32052,6 @@
     "updatedAt": "2026-07-13T06:54:23Z"
   },
   {
-    "id": "awb_b76dc93e56a5449dcf50",
-    "name": "ΕΡΑ sport",
-    "country": "GR",
-    "subdivision": "Athens Greece",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "sports"
-    ],
-    "tags": [
-      "sports"
-    ],
-    "homepage": "https://www.ertecho.gr/radio/eraspor/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Era_Spor_101.8_Greece_-_Old_Logo_Original.svg/250px-Era_Spor_101.8_Greece_-_Old_Logo_Original.svg.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-20T09:23:18Z"
-  },
-  {
     "id": "awb_5239f38dcc50c37304e4",
     "name": "ΕΡΑ Δεύτερο Λαϊκά",
     "country": "GR",
@@ -32345,29 +32094,6 @@
     "updatedAt": "2026-03-28T10:08:01Z"
   },
   {
-    "id": "awb_f76c99ca8e2656966a91",
-    "name": "ΕΡΑ Πρώτο Πρόγραμμα",
-    "country": "GR",
-    "subdivision": "Athens",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news talk",
-      "public radio"
-    ],
-    "homepage": "https://www.ertecho.gr/radio/proto/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:40:19Z"
-  },
-  {
     "id": "awb_0f2c66051ffa821afc26",
     "name": "ΕΡΑ-Η φωνή της Ελλάδας",
     "country": "GR",
@@ -32402,8 +32128,8 @@
       "public radio",
       "sports"
     ],
-    "homepage": "https://webradio.ert.gr/eraspor/",
-    "favicon": "https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png",
+    "homepage": "https://www.ertecho.gr/radio/eraspor/",
+    "favicon": "https://www.ertecho.gr/wp-content/uploads/2022/06/cropped-ertecho-favicon-192x192.png",
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:36:10Z"
@@ -32672,51 +32398,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_d2f32b754fbda94b6121",
-    "name": "ΕΡΤ Πρώτο Πρόγραμμα",
-    "country": "GR",
-    "subdivision": "Athens",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news talk",
-      "public radio"
-    ],
-    "homepage": "https://www.ertecho.gr/radio/proto/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:24:52Z"
-  },
-  {
-    "id": "awb_ff73cda44ad524a7c0cd",
-    "name": "ΕΡΤ Πρώτο Πρόγραμμα",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "ert",
-      "ert proto",
-      "public radio"
-    ],
-    "homepage": "https://webradio.ert.gr/proto/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:33:47Z"
   },
   {
     "id": "awb_5ba3e8cdcd5707e859cc",
@@ -34612,8 +34293,8 @@
     "tags": [
       "student radio"
     ],
-    "homepage": "https://my.aegean.gr/radio/Lesvos/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/dca9db0a-5ae1-4b14-bf03-07199db9425f.jpg",
+    "homepage": "http://my.aegean.gr/radio/Lesvos/",
+    "favicon": "http://my.aegean.gr/radio/Lesvos/pix/now-playing-lofosbox3.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-31T18:38:20Z"
@@ -35728,46 +35409,6 @@
     "updatedAt": "2026-04-06T18:47:03Z"
   },
   {
-    "id": "awb_215970eda529aaad3464",
-    "name": "Ορθοδοξία - Αγία Γραφή",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "ομιλίες",
-      "ορθοδοξία",
-      "χριστιανισμός"
-    ],
-    "homepage": "https://rasp35.ddnsfree.com/",
-    "favicon": "https://rasp35.ddnsfree.com/icons/grafi.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-21T18:19:55Z"
-  },
-  {
-    "id": "awb_a266f315dabfd6451c28",
-    "name": "Ορθοδοξία Άγιος Παϊσιος",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "ομιλίες",
-      "ορθοδοξία",
-      "χριστιανισμός"
-    ],
-    "homepage": "https://rasp35.ddnsfree.com/",
-    "favicon": "https://rasp35.ddnsfree.com/icons/pss.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-22T06:42:33Z"
-  },
-  {
     "id": "awb_c90d2ca6c218db64c5e5",
     "name": "Ορθοδοξία και Παράδοση 103",
     "country": "GR",
@@ -35794,46 +35435,6 @@
     "updatedAt": "2026-01-15T06:45:25Z"
   },
   {
-    "id": "awb_0314c7490040ffe8061b",
-    "name": "Ορθοδοξία Μυτηλιναίος",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "ομιλίες",
-      "ορθοδοξία",
-      "χριστιανισμός"
-    ],
-    "homepage": "https://rasp35.ddnsfree.com/",
-    "favicon": "https://rasp35.ddnsfree.com/icons/mtlns.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-22T01:05:46Z"
-  },
-  {
-    "id": "awb_59ba62e4639cf4316264",
-    "name": "Ορθοδοξία Παναγώπουλος",
-    "country": "GR",
-    "subdivision": "Heraclion",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "ομιλίες",
-      "ορθοδοξία",
-      "χριστιανισμός"
-    ],
-    "homepage": "https://rasp35.ddnsfree.com/",
-    "favicon": "https://rasp35.ddnsfree.com/icons/pngpls.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-21T22:32:08Z"
-  },
-  {
     "id": "awb_837cf00dd2ba55712caa",
     "name": "Ορθοδοξία Σωτηρόπουλος",
     "country": "GR",
@@ -35850,8 +35451,8 @@
     "homepage": "https://rasp35.ddnsfree.com/",
     "favicon": "https://rasp35.ddnsfree.com/icons/strpls.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-22T00:34:34Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-21T22:36:23Z"
   },
   {
     "id": "awb_cdfabf3b98a03ec2de32",
@@ -35868,8 +35469,8 @@
     "homepage": "https://rasp35.ddnsfree.com/",
     "favicon": "https://rasp35.ddnsfree.com/icons/ortdx.jpg",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-21T23:54:45Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-21T16:19:03Z"
   },
   {
     "id": "awb_9d7f27051a167a98112d",
@@ -36755,22 +36356,6 @@
     "updatedAt": "2026-01-15T00:49:40Z"
   },
   {
-    "id": "awb_9a6c17b94b33f916babe",
-    "name": "Πρώτο Πρόγραμμα 105.8",
-    "country": "GR",
-    "subdivision": "Athens",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiostreaming.ert.gr/ert-proto",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:19:56Z"
-  },
-  {
     "id": "awb_e38461c6c27b3040fe52",
     "name": "Πρώτος Τύπος Φαρσάλων",
     "country": "GR",
@@ -36951,25 +36536,6 @@
     "updatedAt": "2026-04-09T20:11:14Z"
   },
   {
-    "id": "awb_15124987fb57fb6dc3e3",
-    "name": "Ράδιο Ακαρνανία 97.1",
-    "country": "GR",
-    "subdivision": "Agrinio",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "greek pop",
-      "mainstream"
-    ],
-    "homepage": "https://www.radioakarnania.gr/",
-    "favicon": "https://www.radioakarnania.gr/img/logo-radioakarnania1.jpg?8348",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_6fd108ec89604c07d922",
     "name": "ΡΑΔΙΟ ΑΛΙΒΕΡΙ 1",
     "country": "GR",
@@ -37146,7 +36712,7 @@
     "id": "awb_cae5d806d79650d3c313",
     "name": "Ράδιο Ελληνικά Ακούσματα",
     "country": "GR",
-    "subdivision": "Αττικής (Νησιά)",
+    "subdivision": "Athens",
     "languages": [],
     "categories": [],
     "tags": [],

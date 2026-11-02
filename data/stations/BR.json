@@ -104,6 +104,24 @@
     "updatedAt": "2026-01-14T23:32:04Z"
   },
   {
+    "id": "awb_28ee3dbc1ab7a980def7",
+    "name": "104 FM",
+    "country": "BR",
+    "subdivision": "Porto Alegre",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.radio104.com.br/",
+    "favicon": "https://i.imgur.com/aCWaX6x.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T20:47:42Z"
+  },
+  {
     "id": "awb_16d770e1dd853edfd003",
     "name": "104 FM Natal",
     "country": "BR",
@@ -666,7 +684,7 @@
   },
   {
     "id": "awb_70b2b2c4cb95c9c8747f",
-    "name": "94FM",
+    "name": "94fm",
     "country": "BR",
     "subdivision": "Rio Grande do Sul",
     "languages": [],
@@ -3088,27 +3106,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_3bf122a533f5b1b8d3d5",
-    "name": "Conecta Brasil",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "pop brasileiro",
-      "servicio social"
-    ],
-    "homepage": "https://conectaweb.tech/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-11T21:40:03Z"
-  },
-  {
     "id": "awb_82bb298d3bdbf7efdaf7",
     "name": "Conecta FM - Campinas",
     "country": "BR",
@@ -4392,7 +4389,7 @@
     "favicon": "https://redefanfm.com.br/wp-content/uploads/2023/07/favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T19:05:17Z"
+    "updatedAt": "2026-11-01T19:27:07Z"
   },
   {
     "id": "awb_cd2981357d40dbe6e9a3",
@@ -4867,7 +4864,7 @@
     "id": "awb_f9cd36f565bfb92a1a06",
     "name": "Gay FM Brasil",
     "country": "BR",
-    "subdivision": "São Paulo (SP)",
+    "subdivision": "Sao Paulo (Brazil)",
     "languages": [],
     "categories": [
       "pop"
@@ -6263,7 +6260,7 @@
     "id": "awb_a21216fd9e9d6f2e9273",
     "name": "Jovem pan 95,9 FM",
     "country": "BR",
-    "subdivision": "Recife",
+    "subdivision": "Pernambuco",
     "languages": [],
     "categories": [
       "pop",
@@ -6852,7 +6849,7 @@
     "id": "awb_288c14e20ef0d642d5e5",
     "name": "Kero Rock",
     "country": "BR",
-    "subdivision": "RS",
+    "subdivision": "Rio Grande do Sul",
     "languages": [],
     "categories": [
       "rock"
@@ -7925,7 +7922,7 @@
     "id": "awb_ae4fefbf450bfef15049",
     "name": "Metal Zone Radio",
     "country": "BR",
-    "subdivision": "Sao Paulo (Brazil)",
+    "subdivision": "São Paulo",
     "languages": [],
     "categories": [
       "metal"
@@ -7942,7 +7939,7 @@
       "symphonic metal",
       "trash metal"
     ],
-    "homepage": "https://metalzone.radio.br/",
+    "homepage": "http://www.metalzone.radio.br/",
     "favicon": "https://metalzone.radio.br/assets/img/favicon-512.png",
     "type": null,
     "sourceCount": 2,
@@ -9118,28 +9115,6 @@
     "updatedAt": "2026-08-07T19:57:35Z"
   },
   {
-    "id": "awb_e252e8985600d31d1260",
-    "name": "Nigthwave plaza",
-    "country": "BR",
-    "subdivision": "Bahia",
-    "languages": [],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "jazz",
-      "lofi",
-      "radio",
-      "sigthwave",
-      "vaporwave"
-    ],
-    "homepage": "https://plaza.one/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_75400c87f04af874129a",
     "name": "Nilton Vanin",
     "country": "BR",
@@ -9484,6 +9459,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_a813c3f3e824c2fcdfe2",
+    "name": "Nova Rádio IPB",
+    "country": "BR",
+    "subdivision": "São Paulo (SP)",
+    "languages": [],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "gospel evangélica"
+    ],
+    "homepage": "https://www.ipb.org.br/projetos-radio-ipb",
+    "favicon": "https://www.ipb.org.br/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T03:47:10Z"
   },
   {
     "id": "awb_5b049bf5206c8115746f",
@@ -10240,20 +10235,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_b3f8c0b864d5c93b06ae",
-    "name": "PRAIA MINEIRA",
-    "country": "BR",
-    "subdivision": "São Paulo (SP)",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://jpradios.com.br/public/praia-mineira",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-22T23:37:56Z"
-  },
-  {
     "id": "awb_60384b07302c1c7bff6c",
     "name": "Premium FM 94.7 MHz Muriaé MG",
     "country": "BR",
@@ -10572,6 +10553,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_c40c82923eea19873142",
+    "name": "Radio 104 FM",
+    "country": "BR",
+    "subdivision": "Porto Alegre",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.radio104.com.br/",
+    "favicon": "https://i.imgur.com/aCWaX6x.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T20:52:16Z"
   },
   {
     "id": "awb_d114e755898d2f82a6e6",
@@ -11486,7 +11485,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC",
+    "name": "Rádio AMC+",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -11501,7 +11500,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amclogo.png",
+    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -13103,7 +13102,7 @@
     "id": "awb_2b7b7954faeaf86005a4",
     "name": "Rádio Cambirela - Virtual,mas real.",
     "country": "BR",
-    "subdivision": "Santa Catarina,SC",
+    "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [
       "country",
@@ -14170,7 +14169,7 @@
     "favicon": "https://radioaconchego.org/files/2015/03/cropped-cropped-5617042203_961643d1a0_o-180x180.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-28T00:52:28Z"
+    "updatedAt": "2026-11-02T00:55:56Z"
   },
   {
     "id": "awb_5f174301d3d27e6688ba",
@@ -14595,6 +14594,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_f90c317f47dc4b7b6a34",
+    "name": "Rádio Deus é a Aliança Online",
+    "country": "BR",
+    "subdivision": "MG",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "evangelica",
+      "gospel"
+    ],
+    "homepage": "https://radiodeuseaaliancaonline.sintoniaonline.com.br/",
+    "favicon": "https://i.postimg.cc/yNSn3z00/Radio-Deus-e-a-Alianca-Online.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T20:42:47Z"
   },
   {
     "id": "awb_a86eb22ac4f966f6db13",
@@ -22106,22 +22126,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_475360140db8965211d1",
-    "name": "Rádio Tropical Diamantina",
-    "country": "BR",
-    "subdivision": "Mi",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "sertanejo"
-    ],
-    "homepage": "https://radiotropicaldiamantina.siteweb.net.br/",
-    "favicon": "https://radiotropicaldiamantina.siteweb.net.br/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-16T14:52:29Z"
-  },
-  {
     "id": "awb_386e642dae9181e8244d",
     "name": "Rádio Tropical FM 94.7 MHz (Barbacena - MG)",
     "country": "BR",
@@ -22307,33 +22311,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-19T05:34:23Z"
-  },
-  {
-    "id": "awb_94c7c060c6d0932734eb",
-    "name": "Rádio UFMG Educativa",
-    "country": "BR",
-    "subdivision": "Minas Gerais",
-    "languages": [
-      "pt"
-    ],
-    "categories": [
-      "college",
-      "rock",
-      "talk"
-    ],
-    "tags": [
-      "brazilian music",
-      "college radio",
-      "mpb",
-      "rock",
-      "talk & speech",
-      "universitária"
-    ],
-    "homepage": "https://www.ufmg.br/comunicacao/radio-ufmg-educativa/",
-    "favicon": null,
-    "type": "college",
-    "sourceCount": 1,
-    "updatedAt": "2026-02-03T19:03:25Z"
   },
   {
     "id": "awb_b8ddcf99c72b297a74b0",
@@ -23653,20 +23630,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-09T14:41:24Z"
-  },
-  {
-    "id": "awb_34dfaa0c28e120ff4cf1",
-    "name": "RikiNews",
-    "country": "BR",
-    "subdivision": "São Paulo",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rikinews.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-15T22:22:31Z"
   },
   {
     "id": "awb_ea275ff6cff6a731edf6",
@@ -25557,20 +25520,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_76187b25021c189dc28a",
-    "name": "Vatos Millo HR",
-    "country": "BR",
-    "subdivision": "São Paulo (SP)",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://jpdofunk3.com.br/public/server0204",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_9886ec0734b892cd7edd",

@@ -1991,7 +1991,7 @@
   },
   {
     "id": "awb_14a68cf1e031a1db0967",
-    "name": "Bilbo Hiria Irratia",
+    "name": "Bilbo Hiria irratia",
     "country": "ES",
     "subdivision": null,
     "languages": [],
@@ -5134,22 +5134,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_d075136c041c77724abb",
-    "name": "Cope Madrid FM",
-    "country": "ES",
-    "subdivision": "mad",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://cope.es/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/871/cope-madrid.51d780e3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-05T12:56:51Z"
-  },
-  {
     "id": "awb_88e80590943dec934621",
     "name": "COPE Málaga",
     "country": "ES",
@@ -5614,24 +5598,6 @@
     "updatedAt": "2026-10-22T22:34:53Z"
   },
   {
-    "id": "awb_20dcb6e4f2d208750cb3",
-    "name": "Dance Wave Retro!",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "90s dance"
-    ],
-    "homepage": "https://dancewave.online/",
-    "favicon": "https://dancewave.online/dwr_logo.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-22T01:32:46Z"
-  },
-  {
     "id": "awb_759b97714245399dff6c",
     "name": "Dark City Signal",
     "country": "ES",
@@ -6093,6 +6059,20 @@
     "updatedAt": "2026-09-06T17:10:36Z"
   },
   {
+    "id": "awb_0f914e0453e75f1c9525",
+    "name": "Dorado Digital Radio",
+    "country": "ES",
+    "subdivision": "Madrid",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://streaming.dorado.digital/public/dorado_digital",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T15:07:28Z"
+  },
+  {
     "id": "awb_dc3215c591c4a591a602",
     "name": "Dos FM Radio 97.7 / 101.0",
     "country": "ES",
@@ -6116,37 +6096,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:54:36Z"
-  },
-  {
-    "id": "awb_c5d1208b15b7f4b0f3eb",
-    "name": "dublab BCN",
-    "country": "ES",
-    "subdivision": "Spain",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.dublab.es/",
-    "favicon": "https://www.dublab.es/_next/image?url=%2Fassets%2FLogo_dublabBCN2024.png&w=640&q=75",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:10:16Z"
-  },
-  {
-    "id": "awb_ed832c995a8e6c2f76fa",
-    "name": "dublab BCN",
-    "country": "ES",
-    "subdivision": "Spain",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://l.instagram.com/?u=http%3A%2F%2Fdublab.es%2F&e=AT0zDLz4EeRQe2OeNkCaZpRz4x-Plk8PEPNVAa-gfVbNyYDdWg-LUUl7voK3igMuQFOx-RxYB_K9QisTwps68Br4NIK9R81Ct9Uibw",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_aa4558803b3513f39499",
@@ -6371,17 +6320,15 @@
       "electronic"
     ],
     "tags": [
-      "dance",
       "dance top 100",
       "edm",
-      "electronic",
       "electronic dance music",
       "music"
     ],
-    "homepage": "https://laut.fm/",
+    "homepage": "https://laut.fm/edmradio",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T05:18:50Z"
   },
   {
@@ -6401,44 +6348,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_fbee6e0cbabfbe7d053e",
-    "name": "EDM Radio",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "then music edm"
-    ],
-    "homepage": "https://play.edmradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_4738f729bcc6443fd29c",
-    "name": "EDM.RADIO/DANCE",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "dance",
-      "edm",
-      "electronic"
-    ],
-    "homepage": "https://edm.radio/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_8b527929468cbbd6ceb9",
@@ -8164,31 +8073,6 @@
     "updatedAt": "2026-10-12T14:04:41Z"
   },
   {
-    "id": "awb_415099630f40348f18cb",
-    "name": "FÓRMULA FUN",
-    "country": "ES",
-    "subdivision": "Galicia",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin",
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "latino",
-      "música en español",
-      "reggaeton",
-      "urbano"
-    ],
-    "homepage": "https://formulafungalicia.es/",
-    "favicon": "https://formulafungalicia.es/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:00:03Z"
-  },
-  {
     "id": "awb_e1dbf688f8e72206da94",
     "name": "Formula Hit",
     "country": "ES",
@@ -8273,10 +8157,10 @@
     "updatedAt": "2026-01-15T08:48:01Z"
   },
   {
-    "id": "awb_2619664e962a91ba655a",
+    "id": "awb_295cdb0b01785b5ba9d8",
     "name": "Free FM 80s",
     "country": "ES",
-    "subdivision": "Madrid",
+    "subdivision": "tokyo",
     "languages": [
       "en",
       "es"
@@ -8285,38 +8169,15 @@
       "oldies"
     ],
     "tags": [
-      "#80",
-      "#freefm #80s #90s #80",
-      "1980s",
-      "90's"
-    ],
-    "homepage": "http://freefmradio.net/",
-    "favicon": "https://lh6.googleusercontent.com/BR3eGbrdzStCIwJbWJaqGlKSHEGpU6wENZQ2c3IJYNvi8884X7n0EJoshH7p4unOWTayGTUqxa0MgOW7wDIrDA=w1280",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:05:08Z"
-  },
-  {
-    "id": "awb_3d2fd6eec105ab357f8d",
-    "name": "Free FM 80s Madrid",
-    "country": "ES",
-    "subdivision": "Comunidad de Madrid",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "#80",
-      "#80s"
+      "#80s",
+      "#freefm",
+      "#freefm80s"
     ],
     "homepage": "http://www.freefmworld.com/",
-    "favicon": "https://lh3.googleusercontent.com/XPHNaTU-6vmmfsmAUR9n-eNva_rMGrnq7QQesAoDEY2TjSjcmE7W6-7K1LvxblesgBPLF4-UkLj_rInJX_2FODY0XyhIJo9xBG79V0dMS_B1JC7D2pg0p8rYmVM8HRsy=w1280",
+    "favicon": "https://freefmworld.com/assets/img/freefmworld-logo-oficial.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:11:47Z"
+    "updatedAt": "2026-11-01T22:12:44Z"
   },
   {
     "id": "awb_9460f1920da093fb7d9a",
@@ -8558,26 +8419,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:29:43Z"
-  },
-  {
-    "id": "awb_9beadd07f17a1f389dc4",
-    "name": "Free Techno",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "creative commons",
-      "electronica",
-      "techno"
-    ],
-    "homepage": "https://icecast.apps.dj/",
-    "favicon": "https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-19T17:36:39Z"
   },
   {
     "id": "awb_4da646074c1a95db6e6e",
@@ -9321,7 +9162,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T22:35:47Z"
+    "updatedAt": "2026-11-01T22:45:06Z"
   },
   {
     "id": "awb_1a0d5615e13b0cbd99ad",
@@ -11873,6 +11714,27 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_dca59d8f29ed0a4d542f",
+    "name": "LogoRemakeFour Los 40 Windows España",
+    "country": "ES",
+    "subdivision": "Madrid",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "dance",
+      "hip-hop"
+    ],
+    "homepage": "http://www.los40.com/index.php?url=https%3A%2F%2Flogoremakefour8.github.io%2Flos40%2Fgithubpages404",
+    "favicon": "https://login.jkanime.net/storage/uploads/o2Nq286zk4VF66oiMpFHx4cMpew2hNIyuDuiSnli.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T14:25:59Z"
+  },
+  {
     "id": "awb_9f0b57ecb667d7425b78",
     "name": "Lola Fm",
     "country": "ES",
@@ -14027,8 +13889,8 @@
       "sports",
       "talks"
     ],
-    "homepage": "https://ondacero.es/",
-    "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
+    "homepage": "https://www.ondacero.es/emisoras/andalucia/huelva/directo/",
+    "favicon": "https://i.scdn.co/image/ab6775700000ee851a865a3769a3e6868928a43f",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-04-01T11:00:35Z"
@@ -15562,7 +15424,7 @@
     "favicon": "https://punkirratia.net/punkirratia.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T23:07:49Z"
+    "updatedAt": "2026-11-01T23:17:31Z"
   },
   {
     "id": "awb_2d748205b8cd10558fa7",
@@ -18309,7 +18171,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiolagranjazaragoza.wordpress.com/",
-    "favicon": "https://radiolagranjazaragoza.wordpress.com/wp-content/uploads/2021/07/cropped-radiolagranjaramone.png?w=180",
+    "favicon": "https://radiobot.radioslibres.info/static/uploads/radio_la_granja/background.1713382583.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-17T06:08:50Z"
@@ -20522,47 +20384,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_1a69b0156b0e679bbe1d",
-    "name": "Radio Sintonia",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiosintonia.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:13Z"
-  },
-  {
-    "id": "awb_6ea8be1829fa8c0d39c4",
-    "name": "Radio Sitges",
-    "country": "ES",
-    "subdivision": "sitges",
-    "languages": [
-      "ca",
-      "es"
-    ],
-    "categories": [
-      "community",
-      "jazz",
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "community",
-      "news",
-      "pop",
-      "smooth jazz"
-    ],
-    "homepage": "https://www.radiositges.com/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:53:11Z"
-  },
-  {
     "id": "awb_a347ab143bb2bec5033f",
     "name": "Radio Sol LP-35100",
     "country": "ES",
@@ -22039,20 +21860,6 @@
     "updatedAt": "2026-09-17T17:13:05Z"
   },
   {
-    "id": "awb_1072a51f8e7a4a37f6a9",
-    "name": "RM Radio",
-    "country": "ES",
-    "subdivision": "La Manchuela",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rmradio.es/",
-    "favicon": "https://rmradio.es/wp-content/uploads/2021/11/cropped-cropped-LOGO-RM-RADIO-2019-CIR-e1636987906643.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-16T04:55:31Z"
-  },
-  {
     "id": "awb_5f72b5599e7e8e13241b",
     "name": "RN1 - Valencia",
     "country": "ES",
@@ -22587,42 +22394,6 @@
     "updatedAt": "2026-10-19T21:26:17Z"
   },
   {
-    "id": "awb_5a58722ce1654c671f3c",
-    "name": "Rock FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://www.europafm.com/directo/",
-    "favicon": "https://statics.atresmedia.com/europafm/assets/web/icons/favicon/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_99e377745a8bb51d790f",
-    "name": "Rock FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://player.rockfm.fm/",
-    "favicon": "https://graph.facebook.com/RockFM/picture?width=200&height=200",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_ab053c361e376ff4927e",
     "name": "Rock FM",
     "country": "ES",
@@ -22640,26 +22411,8 @@
     "homepage": "http://www.rockfm.fm/",
     "favicon": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 6,
     "updatedAt": "2026-01-15T05:12:26Z"
-  },
-  {
-    "id": "awb_f86e5bebc3f8ef58b7ff",
-    "name": "ROCK FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/RockFM_Logo.svg/1200px-RockFM_Logo.svg.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_5c2e022af3ebd614a6d0",
@@ -22759,8 +22512,8 @@
     "homepage": "http://www.rockfm.fm/",
     "favicon": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-06-28T12:27:22Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-04-09T12:29:59Z"
   },
   {
     "id": "awb_b45ea433e0168d7ba214",
@@ -24411,7 +24164,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 6,
-    "updatedAt": "2026-11-01T01:28:55Z"
+    "updatedAt": "2026-11-02T01:08:18Z"
   },
   {
     "id": "awb_60668b862f76c8a40ef9",

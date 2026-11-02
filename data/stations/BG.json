@@ -360,7 +360,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/bgestrada.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-11-01T01:19:53Z"
+    "updatedAt": "2026-11-01T19:55:40Z"
   },
   {
     "id": "awb_2db2776867c3a828814e",
@@ -692,7 +692,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/cityrab.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T15:53:42Z"
+    "updatedAt": "2026-11-01T16:04:25Z"
   },
   {
     "id": "awb_69999cd8283c68d86b97",
@@ -712,7 +712,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/cityrab.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T16:28:58Z"
+    "updatedAt": "2026-11-01T16:31:23Z"
   },
   {
     "id": "awb_3005c7c05523c0418e30",
@@ -752,7 +752,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/citylatin.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T00:47:24Z"
+    "updatedAt": "2026-11-01T15:03:02Z"
   },
   {
     "id": "awb_5bfedef4441262879e27",
@@ -1317,7 +1317,7 @@
     "favicon": "https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-28T01:18:04Z"
+    "updatedAt": "2026-11-02T01:20:49Z"
   },
   {
     "id": "awb_90c1d424acedf01dc8ed",
@@ -1339,7 +1339,7 @@
     "favicon": "https://media.metacast.eu/pictures/02_2023/Aud5WKLJ6ZOzqVThrMmU-84388.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T12:48:37Z"
+    "updatedAt": "2026-11-01T13:29:31Z"
   },
   {
     "id": "awb_d457bc27a0a25c9c90cd",
@@ -1385,7 +1385,7 @@
     "favicon": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-28T00:56:42Z"
+    "updatedAt": "2026-11-02T00:59:50Z"
   },
   {
     "id": "awb_53bf5095068d2b58f3b7",
@@ -1927,29 +1927,6 @@
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_ae0652812e9dcb8cf85b",
-    "name": "kef.fm",
-    "country": "BG",
-    "subdivision": "Sofia",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "folk",
-      "pop"
-    ],
-    "tags": [
-      "folk",
-      "pop-folk",
-      "retro folk"
-    ],
-    "homepage": "https://kef.fm/",
-    "favicon": "https://kef.fm/keffm.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:06:28Z"
   },
   {
     "id": "awb_c5259758813d34e8cbbd",
@@ -3020,28 +2997,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_5f90fbf693a9c8437e61",
-    "name": "Radio Balkanika",
-    "country": "BG",
-    "subdivision": "Sofia City",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "folk",
-      "pop"
-    ],
-    "tags": [
-      "balkan",
-      "pop-folk"
-    ],
-    "homepage": "http://radiobalkanika.free.bg/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:28:52Z"
-  },
-  {
     "id": "awb_76a1b86b2f3c005505bb",
     "name": "Radio Beatport",
     "country": "BG",
@@ -3248,27 +3203,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_a5dc00c23f80c413fea7",
-    "name": "Radio Cyberfolk",
-    "country": "BG",
-    "subdivision": "Sofia City",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "folk",
-      "pop"
-    ],
-    "tags": [
-      "pop-folk"
-    ],
-    "homepage": "https://radiocyberfolk.com/",
-    "favicon": "https://radiocyberfolk.com/cyberfolk.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:07:55Z"
   },
   {
     "id": "awb_b3c41f5a612d8c118269",
@@ -3974,7 +3908,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/note/radio-nostalgia.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T19:33:54Z"
+    "updatedAt": "2026-11-01T19:48:58Z"
   },
   {
     "id": "awb_bbfc0ef7cb87b0c7eb71",
@@ -4114,30 +4048,38 @@
     "updatedAt": "2026-06-27T16:24:09Z"
   },
   {
-    "id": "awb_caafb055479570498eec",
-    "name": "Radio Rashi",
+    "id": "awb_d177eb3ea464fa91ca3b",
+    "name": "Radio Rashi online",
     "country": "BG",
-    "subdivision": "Bulgaria",
+    "subdivision": "South Carolina",
     "languages": [],
     "categories": [
+      "folk",
+      "hip-hop",
       "pop"
     ],
     "tags": [
       "broken beat",
-      "bulgaria",
-      "dvaz",
-      "hits",
-      "mix",
+      "dance",
+      "folk",
+      "folklore",
+      "folkloree",
+      "grupo digital retroland",
+      "musica regional",
       "música retro",
       "pop",
+      "pop dance",
+      "rap",
+      "region 47",
       "regional music",
+      "regional radio",
       "retro fm"
     ],
     "homepage": "https://radiorashi.alle.bg/",
-    "favicon": "https://rashimedia.alle.bg/",
+    "favicon": "https://radiorashi.alle.bg/-link-rel-icon-192",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-07T11:24:47Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-05-09T06:54:25Z"
   },
   {
     "id": "awb_eb981e3837e714a64130",
@@ -4713,7 +4655,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/cafe.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-11-01T05:47:28Z"
+    "updatedAt": "2026-11-02T01:12:04Z"
   },
   {
     "id": "awb_7d6da6ea41204bd17f3f",
@@ -4782,31 +4724,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_2dad41764e8e7b9694a5",
-    "name": "Rashi Edno",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "folk",
-      "hip-hop",
-      "pop"
-    ],
-    "tags": [
-      "discography",
-      "djaz",
-      "folkloree",
-      "hip hop",
-      "pop",
-      "pop folk"
-    ],
-    "homepage": "https://radiorashi.alle.bg/",
-    "favicon": "https://rashimedia.alle.bg/%D1%81%D0%BB%D1%83%D1%88%D0%B0%D0%B9-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%80%D0%B0%D1%88%D0%B8-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-07T08:19:25Z"
   },
   {
     "id": "awb_fe90935d082ea5a0efe4",
@@ -4945,7 +4862,7 @@
     "favicon": "https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T08:14:24Z"
+    "updatedAt": "2026-11-01T11:26:36Z"
   },
   {
     "id": "awb_eebab4e816707604e006",
@@ -4996,29 +4913,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-27T08:29:14Z"
-  },
-  {
-    "id": "awb_0f0d36133b03ff2b5bf0",
-    "name": "top.fm",
-    "country": "BG",
-    "subdivision": "Sofia",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "folk",
-      "pop"
-    ],
-    "tags": [
-      "chalga",
-      "folklore",
-      "pop-folk"
-    ],
-    "homepage": "https://top.fm/",
-    "favicon": "https://top.fm/topfm.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:32:39Z"
   },
   {
     "id": "awb_633ca09f7f941278a21c",
@@ -5124,7 +5018,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/vanilla.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T16:52:07Z"
+    "updatedAt": "2026-11-01T16:57:50Z"
   },
   {
     "id": "awb_6f71a7f3af6aec4facf9",
@@ -5345,7 +5239,7 @@
     "favicon": "https://xraydio.net/wp-content/uploads/2024/03/2.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-28T01:13:12Z"
+    "updatedAt": "2026-11-02T01:36:47Z"
   },
   {
     "id": "awb_b13f8ff504ae776f0572",
@@ -5431,22 +5325,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_d091b01b6e77938ff8a9",
-    "name": "zig zag",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [
-      "bg"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio-zigzag.free.bg/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250508_103406805.jpg?alt=media&token=165eced7-c0cf-4900-bbdd-bc3a226acde9",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:29:20Z"
   },
   {
     "id": "awb_951ebcdf816ef4786898",
@@ -6243,14 +6121,13 @@
     ],
     "tags": [
       "dance",
-      "dance and 90's",
       "pop",
       "rnb and 90's"
     ],
     "homepage": "https://radio-zigzag.free.bg/",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250508_104839446.jpg?alt=media&token=aa505737-c1ae-4e42-8996-c73e0d8c575f",
     "type": null,
-    "sourceCount": 7,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6434,7 +6311,7 @@
     "id": "awb_ceac03347026f81dacb7",
     "name": "��� � ����� �����",
     "country": "BG",
-    "subdivision": "Shumen",
+    "subdivision": "Sofia City",
     "languages": [
       "bg"
     ],
@@ -6448,7 +6325,7 @@
       "public radio",
       "talk"
     ],
-    "homepage": "https://bnrnews.bg/shumen",
+    "homepage": "https://bnrnews.bg/sofia",
     "favicon": null,
     "type": "public",
     "sourceCount": 8,

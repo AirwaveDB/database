@@ -64,6 +64,69 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_9fb4b3dccf3379b98118",
+    "name": "Christmas FM Non-stop!",
+    "country": "FI",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "ambient",
+      "christmas",
+      "jazz",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "advent",
+      "canti natalizi",
+      "canzoni di natale",
+      "carols",
+      "chansons de noël",
+      "christmas",
+      "christmas carols",
+      "christmas choir",
+      "christmas classics",
+      "christmas hits",
+      "christmas instrumental",
+      "christmas jazz",
+      "christmas lounge",
+      "christmas music",
+      "christmas piano",
+      "christmas pop",
+      "christmas radio",
+      "christmas rock",
+      "christmas songs",
+      "festive music",
+      "happy holidays",
+      "holiday music",
+      "holiday radio",
+      "jingle bells",
+      "joulumusiikki",
+      "jul",
+      "kerstmis",
+      "lapland",
+      "laponia",
+      "lappi",
+      "lappland",
+      "last christmas",
+      "merry christmas",
+      "musica di natale",
+      "musica natalizia",
+      "musique de noël",
+      "música navideña",
+      "natal",
+      "natale",
+      "navidad"
+    ],
+    "homepage": "https://armisa.it/natale",
+    "favicon": "https://zip.wf/chfm.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T15:33:40Z"
+  },
+  {
     "id": "awb_fff3d9c0c82030e4784b",
     "name": "Classic Hits",
     "country": "FI",
@@ -312,6 +375,24 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_8cbc193f56de10b4989c",
+    "name": "Jouluradio",
+    "country": "FI",
+    "subdivision": null,
+    "languages": [
+      "fi"
+    ],
+    "categories": [],
+    "tags": [
+      "joulumusiikki"
+    ],
+    "homepage": "https://www.jouluradio.fi/",
+    "favicon": "https://livetaajuus.fi/media/logos/jouluradio.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T18:06:05Z"
   },
   {
     "id": "awb_757f325b925e09724287",

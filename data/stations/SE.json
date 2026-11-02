@@ -34,26 +34,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_a5256e005b08e907fcd4",
-    "name": "106,7 Rockklassiker",
-    "country": "SE",
-    "subdivision": null,
-    "languages": [
-      "sv"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock"
-    ],
-    "homepage": "http://www.rockklassiker.se/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:39:47Z"
-  },
-  {
     "id": "awb_2bd29b0cbb172db2abde",
     "name": "24/7 Continuous Music",
     "country": "SE",
@@ -139,14 +119,12 @@
     ],
     "tags": [
       "ambient",
-      "instrumental",
-      "meditation",
-      "world music"
+      "instrumental"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -178,13 +156,12 @@
     "categories": [],
     "tags": [
       "alternative",
-      "grunge",
       "indie"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -200,14 +177,13 @@
       "rock"
     ],
     "tags": [
-      "americana",
       "country",
       "rock"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -263,30 +239,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_27d0887f7d1d23f0eba1",
-    "name": "Bakerman Radio",
-    "country": "SE",
-    "subdivision": null,
-    "languages": [
-      "sv"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "hits",
-      "pop",
-      "rock",
-      "swedish"
-    ],
-    "homepage": "https://madmix.se/radio/bakerman-radio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T14:41:29Z"
   },
   {
     "id": "awb_9c345ecf28dc63413227",
@@ -523,14 +475,12 @@
     ],
     "categories": [],
     "tags": [
-      "bhangra",
-      "bollywood",
-      "indian"
+      "bollywood"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -721,11 +671,13 @@
     ],
     "categories": [],
     "tags": [
+      "alternative",
       "dans",
       "dansband",
       "dansbandsradio",
       "danseband",
       "dansk",
+      "local",
       "norsk",
       "svensk",
       "swedish"
@@ -734,7 +686,7 @@
     "favicon": "https://dansbandsradio.se/images/dbr2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-01T04:27:43Z"
+    "updatedAt": "2026-11-01T09:55:56Z"
   },
   {
     "id": "awb_0fcef1c30f0c47afeb29",
@@ -750,39 +702,13 @@
     "tags": [
       "60s",
       "70s",
-      "classics",
-      "oldies",
-      "variety"
+      "oldies"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_d07b06730d74c5b9573d",
-    "name": "Dedication Radio",
-    "country": "SE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "dedications",
-      "hits",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://madmix.se/radio/dedication-radio",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T09:17:19Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_ba335c87ea29117d0112",
@@ -851,15 +777,12 @@
     ],
     "categories": [],
     "tags": [
-      "cinematic",
-      "film music",
-      "orchestral",
-      "soundtracks"
+      "orchestral"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -890,14 +813,13 @@
       "religious"
     ],
     "tags": [
-      "christian",
       "gospel",
       "worship"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1163,15 +1085,12 @@
       "ambient"
     ],
     "tags": [
-      "ambient",
-      "healing",
-      "meditation",
-      "new age"
+      "ambient"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1348,9 +1267,9 @@
       "house"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1368,13 +1287,12 @@
     "tags": [
       "ambient",
       "classical",
-      "instrumental",
-      "piano"
+      "instrumental"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1389,14 +1307,12 @@
       "jazz"
     ],
     "tags": [
-      "bebop",
-      "jazz",
-      "swing"
+      "jazz"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1477,9 +1393,9 @@
       "salsa"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1568,15 +1484,12 @@
       "pop"
     ],
     "tags": [
-      "curated",
-      "hits",
-      "mixed",
-      "variety"
+      "hits"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1691,22 +1604,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_be9a0145f78a0ca09bb3",
-    "name": "Mix Megapol",
-    "country": "SE",
-    "subdivision": null,
-    "languages": [
-      "sv"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.mixmegapol.se/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:02:57Z"
-  },
-  {
     "id": "awb_b27c02c669837cefde9a",
     "name": "Mix Megapol 104,3",
     "country": "SE",
@@ -1725,20 +1622,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_39b8faa9a20214c8e166",
-    "name": "Mixmegapol",
-    "country": "SE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.mixmegapol.se/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_edd2dc58544855f857d4",
@@ -1828,26 +1711,6 @@
     "updatedAt": "2026-01-15T08:44:04Z"
   },
   {
-    "id": "awb_d633fe671893cb172f91",
-    "name": "NRJ Sweden",
-    "country": "SE",
-    "subdivision": null,
-    "languages": [
-      "sv"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "top 40"
-    ],
-    "homepage": "http://www.nrj.se/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:58:28Z"
-  },
-  {
     "id": "awb_af6cb53134a7278e611a",
     "name": "Oldies FM",
     "country": "SE",
@@ -1895,6 +1758,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_17ac546b114a4bf557d1",
+    "name": "P4 Plus",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.sverigesradio.se/kanaler/p4-plus",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T11:14:55Z"
   },
   {
     "id": "awb_c535338f7ac3d59dde0b",
@@ -2221,15 +2098,14 @@
       "rock"
     ],
     "tags": [
-      "classic rock",
       "classic-rock",
       "rock",
       "soul"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2246,15 +2122,14 @@
       "rock"
     ],
     "tags": [
-      "classics",
       "hits",
       "oldies",
       "rock"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3199,30 +3074,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_8b598fa9badc26ed2695",
-    "name": "Slacker82Alpha",
-    "country": "SE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic",
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "electronic",
-      "hits",
-      "pop"
-    ],
-    "homepage": "https://madmix.se/radio/slacker82alpha",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T15:47:42Z"
-  },
-  {
     "id": "awb_c82ca82c48f39bd71e5c",
     "name": "SLAY Radio [aac]",
     "country": "SE",
@@ -3548,14 +3399,13 @@
     "tags": [
       "60s",
       "70s",
-      "classics",
       "disco",
       "oldies"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4332,14 +4182,12 @@
     ],
     "tags": [
       "country",
-      "folk",
-      "nordic",
-      "swedish"
+      "folk"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {

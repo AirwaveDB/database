@@ -194,7 +194,7 @@
     "favicon": "https://meta.1zwolle.nl/logos/64x64.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T04:20:06Z"
+    "updatedAt": "2026-11-01T14:09:25Z"
   },
   {
     "id": "awb_3861f863ae11d5bbecf3",
@@ -850,22 +850,6 @@
     "name": "AFM Alblasserdam",
     "country": "NL",
     "subdivision": "Zuid-Holland",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "various"
-    ],
-    "homepage": "https://alblasserdamfm.nl/",
-    "favicon": "http://gijserkelens.com/test.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-22T07:28:50Z"
-  },
-  {
-    "id": "awb_0bef81980fb709d1dede",
-    "name": "AFM Alblasserdam Low",
-    "country": "NL",
-    "subdivision": "Zuid Holland",
     "languages": [
       "nl"
     ],
@@ -874,10 +858,10 @@
       "various"
     ],
     "homepage": "https://alblasserdamfm.nl/",
-    "favicon": "http://gijserkelens.com/test.jpg",
+    "favicon": "http://gijserkelens.com/test.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-15T15:46:33Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-01T23:51:23Z"
   },
   {
     "id": "awb_c9c03332069a2c43624c",
@@ -904,7 +888,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T10:44:12Z"
+    "updatedAt": "2026-11-01T11:53:13Z"
   },
   {
     "id": "awb_adbe00e0ff15eab162bf",
@@ -925,8 +909,8 @@
     "homepage": "https://ah.fm/",
     "favicon": "https://forums.ah.fm/data/assets/logo/favicon.png",
     "type": null,
-    "sourceCount": 8,
-    "updatedAt": "2026-11-01T01:31:04Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-01T13:32:31Z"
   },
   {
     "id": "awb_e499ee5a4e0ed96f5c3d",
@@ -1580,7 +1564,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T09:50:03Z"
+    "updatedAt": "2026-11-01T09:55:56Z"
   },
   {
     "id": "awb_77432b1c1f3cfc4d495b",
@@ -5151,7 +5135,7 @@
     "favicon": "https://glowfm.nl/favicon.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T16:39:18Z"
+    "updatedAt": "2026-11-01T16:47:20Z"
   },
   {
     "id": "awb_a0bd610c0db6d36ad5e5",
@@ -5838,7 +5822,7 @@
     "favicon": "https://www.hardcoreradio.nl/wp-content/themes/hardcore-radio/static/images/favicon/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-28T01:47:57Z"
+    "updatedAt": "2026-11-02T02:00:06Z"
   },
   {
     "id": "awb_1664ff4f40aa97cf0665",
@@ -5984,7 +5968,7 @@
     "favicon": "https://www.henksplace.nl/hsa/skin/HSABanner1376x768.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-28T02:41:11Z"
+    "updatedAt": "2026-11-02T02:41:41Z"
   },
   {
     "id": "awb_8108e848d1d62a35d955",
@@ -6009,7 +5993,7 @@
     "favicon": "https://www.henksplace.nl/hsa/skin/HSABanner1376x768.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T17:25:41Z"
+    "updatedAt": "2026-11-01T17:27:29Z"
   },
   {
     "id": "awb_32503b5697e1d3a99775",
@@ -6087,26 +6071,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_b8d5f0aaaa3271fdbd5a",
-    "name": "Hi On Line Latin Radio",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "latin"
-    ],
-    "tags": [
-      "320kbps",
-      "latin",
-      "latino"
-    ],
-    "homepage": "http://www.hionline.eu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_6760247efd7648356ed5",
     "name": "Hi On Line Lounge Radio",
     "country": "NL",
@@ -6150,22 +6114,6 @@
     "updatedAt": "2026-09-29T14:02:24Z"
   },
   {
-    "id": "awb_f982969a3f3e8a10187b",
-    "name": "Hi On Line Radio - France",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "france"
-    ],
-    "homepage": "https://www.hionline.eu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_4e0005eac8f05291a102",
     "name": "Hi On Line Radio - Gold",
     "country": "NL",
@@ -6205,24 +6153,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_691d967cbbef655f2c0c",
-    "name": "Hi On Line Radio - Latin",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "latin"
-    ],
-    "tags": [
-      "latin"
-    ],
-    "homepage": "https://www.hionline.eu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_579685414a5d37dbb6e9",
     "name": "Hi On Line Radio - Lounge",
     "country": "NL",
@@ -6235,31 +6165,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_053648d350c89b0d7323",
-    "name": "Hi On Line World Radio",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "latin",
-      "reggae"
-    ],
-    "tags": [
-      "320kbps",
-      "african",
-      "ethnic",
-      "latin",
-      "latino",
-      "reggae",
-      "world music"
-    ],
-    "homepage": "http://www.hionline.eu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_d8081f90973ade2f2e2d",
@@ -7061,7 +6966,7 @@
     "favicon": "https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-09-01T06:40:20Z"
+    "updatedAt": "2026-11-01T14:14:33Z"
   },
   {
     "id": "awb_ed5ab2ed3096970a5be7",
@@ -9254,7 +9159,7 @@
     "id": "awb_8a0d399c51b7ae5a645a",
     "name": "MeerRadio",
     "country": "NL",
-    "subdivision": "Noord-Holland",
+    "subdivision": "Noord-Holland, Haarlemmermeer",
     "languages": [
       "nl"
     ],
@@ -9268,7 +9173,7 @@
       "local news",
       "pop music"
     ],
-    "homepage": "https://meerradio.nl/radio/luister-naar-meerradio/",
+    "homepage": "https://meerradio.nl/",
     "favicon": "https://meerradio.nl/wp-content/uploads/2023/07/Watermerk-meerradio.png",
     "type": "community",
     "sourceCount": 2,
@@ -9308,6 +9213,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_c991c98715727e979399",
+    "name": "michael zevenhuzien",
+    "country": "NL",
+    "subdivision": "0",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "hollands"
+    ],
+    "homepage": "https://radiostationfriendsforlife.nl/",
+    "favicon": "https://radiostationfriendsforlife.nl/templates/tsc_stargate_violett/header4.png?version=1793369824",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T18:45:04Z"
   },
   {
     "id": "awb_428522bb5330420d8fd7",
@@ -9354,12 +9275,12 @@
     "id": "awb_f136dce0473354fe4a2d",
     "name": "Mijnstreek Vandaag",
     "country": "NL",
-    "subdivision": "Limburg, Sittard-Geleen",
+    "subdivision": "Limburg",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://www.mijnstreekvandaag.nl/radio",
-    "favicon": "https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.mijnstreekvandaag.nl%2fradio",
+    "favicon": "https://www.mijnstreekvandaag.nl/assets/images/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-31T13:06:07Z"
@@ -11326,7 +11247,7 @@
     "id": "awb_a7dd28c5f273b7244e3a",
     "name": "Omroep Lekstroom",
     "country": "NL",
-    "subdivision": "Bergveste 2, DE HOUTEN",
+    "subdivision": "Utrecht, De Houten, Bergveste 2",
     "languages": [
       "nl"
     ],
@@ -15110,20 +15031,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_ac1cc78aad3e13307497",
-    "name": "Radio eXtra",
-    "country": "NL",
-    "subdivision": "Amsterdam",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioextra.net/",
-    "favicon": "https://radioextra.net/extra.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
     "id": "awb_5a225077a59193c6ee7c",
     "name": "Radio Fantasy Rotterdam",
     "country": "NL",
@@ -17018,30 +16925,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_66b15fadd4877d74cb1e",
-    "name": "Radio Wopke",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dutch",
-      "music",
-      "nederlands",
-      "pop",
-      "verzoekjes"
-    ],
-    "homepage": "https://radio.wopke.net/",
-    "favicon": "https://radio.wopke.net/icon-192.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-29T20:47:58Z"
   },
   {
     "id": "awb_79516defd4813c573854",
@@ -19971,7 +19854,7 @@
     "favicon": "https://studio040.nl/favicons/studio_040_favicon.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T14:02:12Z"
+    "updatedAt": "2026-11-01T14:37:35Z"
   },
   {
     "id": "awb_949a102148c6cea32e42",
@@ -20317,18 +20200,18 @@
     "updatedAt": "2026-02-21T23:22:52Z"
   },
   {
-    "id": "awb_6f530622e77f70087b5d",
+    "id": "awb_8fec65525f1a259574e8",
     "name": "the dutch eagles",
     "country": "NL",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://paneel.streambudget.nl/listen/yhedutcheagles/stream",
+    "homepage": "https://streambudget.nl/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-01T09:04:23Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T09:47:00Z"
   },
   {
     "id": "awb_4fcb223af3dbc37e30ae",
@@ -20360,8 +20243,8 @@
     "homepage": "https://thefinest.amsterdam/",
     "favicon": "https://thefinest.amsterdam/wp-content/uploads/2026/01/The_Finest_Amsterdam_1200x1200-1.png",
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-08-24T19:28:36Z"
+    "sourceCount": 6,
+    "updatedAt": "2026-11-02T06:52:41Z"
   },
   {
     "id": "awb_1b745215995ea30fdde2",

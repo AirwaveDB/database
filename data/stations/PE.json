@@ -493,20 +493,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_96eb1e09aabf2ce1b309",
-    "name": "Exitosa Noticias Chiclayo",
-    "country": "PE",
-    "subdivision": "Chi",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.exitosanoticias.pe/regiones/chiclayo",
-    "favicon": "https://cdn.radoxo.com/images/peru/exitosa-chiclayo.webp?v=1785963601",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-05T21:49:17Z"
-  },
-  {
     "id": "awb_c740d989146f7c6101bb",
     "name": "Faceit FM",
     "country": "PE",
@@ -689,7 +675,7 @@
   },
   {
     "id": "awb_214a09e246b76d46e0f5",
-    "name": "Full Techno",
+    "name": "Full TECHNO",
     "country": "PE",
     "subdivision": "Lima",
     "languages": [
@@ -921,7 +907,7 @@
   },
   {
     "id": "awb_3c0db48bc3d509978626",
-    "name": "La Inolvidable",
+    "name": "La Inolvidable 93.7 FM",
     "country": "PE",
     "subdivision": "Lima",
     "languages": [
@@ -940,28 +926,8 @@
     "homepage": "https://www.oigo.com/lainolvidable/",
     "favicon": "https://mmo.aiircdn.com/766/69c18f5b26674.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-02T17:28:25Z"
-  },
-  {
-    "id": "awb_9b8e195fe5115fa7c8ac",
-    "name": "La Inolvidable 93.7 FM",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "balada",
-      "español",
-      "musica del recuerdo"
-    ],
-    "homepage": "https://oigo.com/lainolvidable/radioenvivo/",
-    "favicon": "https://mmo.aiircdn.com/766/66390ff00cacd.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T08:00:38Z"
   },
   {
     "id": "awb_b2ea7550747676aac6cd",
@@ -1986,7 +1952,7 @@
     "favicon": "https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T18:56:47Z"
+    "updatedAt": "2026-11-01T19:15:11Z"
   },
   {
     "id": "awb_1b104ad6bd36161f6122",
@@ -2836,69 +2802,17 @@
       "es"
     ],
     "categories": [
-      "jazz",
       "news"
     ],
     "tags": [
-      "jazz",
       "news",
-      "noticias",
-      "noticias nacionales e internacionales"
+      "noticias"
     ],
     "homepage": "https://www.exitosanoticias.pe/",
     "favicon": "https://statics.exitosanoticias.pe/exitosa/img/global/favicon.png",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_8a8a1d6ac87c7ab251e0",
-    "name": "Radio Exitosa 95.5 f.m",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.exitosanoticias.pe/",
-    "favicon": "https://i.postimg.cc/m2ffp43g/logog.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-25T01:25:24Z"
-  },
-  {
-    "id": "awb_6cf7e8b72bd77b004759",
-    "name": "Radio Exitosa 95.5 FM",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "entretenimiento",
-      "news",
-      "noticias y deportes"
-    ],
-    "homepage": "https://www.exitosanoticias.pe/",
-    "favicon": "https://imgur.com/a/BtfHnnf",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-24T17:06:27Z"
-  },
-  {
-    "id": "awb_26eb368b460f8aaf956e",
-    "name": "Radio Exitosa Noticias",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.exitosanoticias.pe/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-03T17:48:01Z"
   },
   {
     "id": "awb_8c399fe64f116b6ab46b",
@@ -3438,52 +3352,6 @@
     "updatedAt": "2026-10-02T12:13:17Z"
   },
   {
-    "id": "awb_75550fa94d70106fcb01",
-    "name": "Radio La Inolvidable 93.7 fm",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "balada",
-      "latina",
-      "oldies",
-      "romantica"
-    ],
-    "homepage": "https://oigo.com/lainolvidable/radioenvivo/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_de_Radio_La_Inolvidable_93.7_FM.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T17:01:13Z"
-  },
-  {
-    "id": "awb_e39ca5b1d73e142c8935",
-    "name": "Radio La Inolvidable 93.7 FM - MDSTRM",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "balada",
-      "latina",
-      "oldies",
-      "romantica"
-    ],
-    "homepage": "https://oigo.com/lainolvidable/radioenvivo/",
-    "favicon": "https://mmo.aiircdn.com/766/69c18f5b26674.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T10:47:08Z"
-  },
-  {
     "id": "awb_34131950c16b6b62e051",
     "name": "Radio la inolvidable fm",
     "country": "PE",
@@ -3612,7 +3480,7 @@
       "smooth jazz"
     ],
     "homepage": "https://latremenda.pe/",
-    "favicon": "https://imgur.com/a/vahyGFo",
+    "favicon": "https://renewed-amaranth-wsrjzdvewp.edgeone.app/logo_latremenda.jpg",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-08-24"
@@ -5017,9 +4885,9 @@
   },
   {
     "id": "awb_4b79688d257d9ed6a2ab",
-    "name": "Radio TV. Sureña - Puno, Juliaca",
+    "name": "Radio TV. Sureña (Puno, Juliaca)",
     "country": "PE",
-    "subdivision": "Juliaca - Puno",
+    "subdivision": "Puno / Juliaca",
     "languages": [],
     "categories": [],
     "tags": [],

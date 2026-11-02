@@ -4627,10 +4627,70 @@
     "updatedAt": "2026-01-15T04:53:33Z"
   },
   {
-    "id": "awb_9177d45281e2c40b9d6b",
-    "name": "Dance Wave!",
+    "id": "awb_79a9e8272fa6b4410b75",
+    "name": "Dance Wave Retro! | MP3",
     "country": "ZZ",
     "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "90s dance"
+    ],
+    "homepage": "https://dancewave.online/",
+    "favicon": "https://dancewave.online/dwr_logo.png",
+    "type": null,
+    "sourceCount": 6,
+    "updatedAt": "2026-11-01T22:03:45Z"
+  },
+  {
+    "id": "awb_9177d45281e2c40b9d6b",
+    "name": "Dance Wave! | AAC",
+    "country": "ZZ",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "club dance electronic house trance"
+    ],
+    "homepage": "https://dancewave.online/",
+    "favicon": "https://dancewave.online/dw_logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T17:16:37Z"
+  },
+  {
+    "id": "awb_99236828eabed1f5bb5d",
+    "name": "Dance Wave! | FLAC",
+    "country": "ZZ",
+    "subdivision": "Bayern",
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "club",
+      "dance",
+      "electronic",
+      "house",
+      "trance"
+    ],
+    "homepage": "https://dancewave.online/",
+    "favicon": "https://dancewave.online/dw_logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T00:04:14Z"
+  },
+  {
+    "id": "awb_12f4d75fe91165f196d0",
+    "name": "Dance Wave! | MP3",
+    "country": "ZZ",
+    "subdivision": "Bayern",
     "languages": [
       "en"
     ],
@@ -4643,8 +4703,8 @@
     "homepage": "https://dancewave.online/",
     "favicon": "https://dancewave.online/dw_logo.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:42:05Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-11-01T16:48:58Z"
   },
   {
     "id": "awb_8b532d70845b2ddc1be4",
@@ -5481,30 +5541,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_de7ac10491fbf8827fe8",
-    "name": "Energy FM Old School Classics",
-    "country": "ZZ",
-    "subdivision": "England",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "disco",
-      "funk",
-      "pop",
-      "soul"
-    ],
-    "homepage": "https://www.energyfm.co.uk/",
-    "favicon": "https://cdn.onlineradiobox.com/img/logo/9/35209.v3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:53:11Z"
   },
   {
     "id": "awb_47b710b579b5a9047e75",
@@ -10111,6 +10147,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_58c326649e94737bcf2b",
+    "name": "Nightwave Plaza MP3 182",
+    "country": "ZZ",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz",
+      "lofi",
+      "radio",
+      "sigthwave",
+      "vaporwave"
+    ],
+    "homepage": "https://plaza.one/",
+    "favicon": "https://plaza.one/icons/apple-touch-icon.png?v=7knqx0ar5k",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_e8bd68057bdba49b2421",

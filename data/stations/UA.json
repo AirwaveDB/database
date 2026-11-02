@@ -1159,8 +1159,8 @@
       "chillout",
       "lounge"
     ],
-    "homepage": "https://loungefm.com.ua/chill",
-    "favicon": "https://loungefm.com.ua/img/favicon/favicon.ico",
+    "homepage": "https://loungefm.com.ua/",
+    "favicon": "https://loungefm.com.ua/img/icon-144x144.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -2442,6 +2442,62 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_7b720f76884cad613340",
+    "name": "RadiumFM Kyiv",
+    "country": "UA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "jazz",
+      "news"
+    ],
+    "tags": [
+      "ai generated",
+      "jazz",
+      "news",
+      "retro",
+      "rhythm and blues",
+      "soul",
+      "swing"
+    ],
+    "homepage": "https://radiumfm.com/kyiv",
+    "favicon": "https://radiumfm.com/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T11:01:19Z"
+  },
+  {
+    "id": "awb_1c59911ef58809bf0738",
+    "name": "RadiumFM Lviv",
+    "country": "UA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "jazz",
+      "news"
+    ],
+    "tags": [
+      "ai generated",
+      "jazz",
+      "news",
+      "retro",
+      "rhythm and blues",
+      "soul",
+      "swing"
+    ],
+    "homepage": "https://radiumfm.com/lviv",
+    "favicon": "https://radiumfm.com/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T11:19:52Z"
   },
   {
     "id": "awb_43702378f914873b8602",
@@ -4103,7 +4159,7 @@
       "pop"
     ],
     "homepage": "https://www.nasheradio.ua/",
-    "favicon": "https://play.tavr.media/static/image/nashe/NasheRadio_NewLogo_228x228.png",
+    "favicon": "https://play.tavr.media/static/image/nashe/Nashe_player_logo.png?v=4",
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-01-14T23:39:47Z"
@@ -5765,6 +5821,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_f00b0b064e1cadc56f95",
+    "name": "Родинне Радіо",
+    "country": "UA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T19:22:47Z"
   },
   {
     "id": "awb_249b2aa952414db78658",

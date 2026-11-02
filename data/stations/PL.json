@@ -687,7 +687,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T11:24:42Z"
+    "updatedAt": "2026-11-01T13:35:56Z"
   },
   {
     "id": "awb_d013b3c05f20f2b85511",
@@ -709,7 +709,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-28T00:05:15Z"
+    "updatedAt": "2026-11-02T00:06:52Z"
   },
   {
     "id": "awb_fe441815feb3d96d49cf",
@@ -1116,7 +1116,7 @@
     "favicon": "https://cyberstacja.pl/images/historia/logo_sluchawki.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T02:40:01Z"
+    "updatedAt": "2026-11-02T01:20:10Z"
   },
   {
     "id": "awb_02c971fd71a7b8aaeddb",
@@ -3777,33 +3777,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:21:39Z"
-  },
-  {
-    "id": "awb_fce2599541210413ae56",
-    "name": "Niepokalana.FM",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian",
-      "church",
-      "jezus",
-      "katolik",
-      "kościół",
-      "maria",
-      "maryja",
-      "niepokalana"
-    ],
-    "homepage": "https://player.niepokalana.fm/public/niepokalana_fm",
-    "favicon": "https://player.niepokalana.fm/static/uploads/album_art.1764693097.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T20:59:12Z"
   },
   {
     "id": "awb_8fbe2e1eb65ad293e190",
@@ -8688,20 +8661,6 @@
     "updatedAt": "2026-01-15T08:26:33Z"
   },
   {
-    "id": "awb_ca9e123d86f08c4d3433",
-    "name": "Radio Nowinki",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.nowinki.pk.edu.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_7098644c0454b545b253",
     "name": "Radio Nowy Świat",
     "country": "PL",
@@ -9446,23 +9405,14 @@
       "en",
       "pl"
     ],
-    "categories": [
-      "ambient",
-      "pop"
-    ],
+    "categories": [],
     "tags": [
-      "chill",
-      "disco",
-      "dj",
-      "dj mixes",
-      "dj remix",
-      "party hits",
-      "smooth"
+      "disco"
     ],
     "homepage": "https://radio.pejpal.cloud/",
-    "favicon": "https://radio.pejpal.cloud/static/uploads/browser_icon/192.1747064544.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10621,7 +10571,7 @@
     "favicon": "https://stream.radiosar.pl/logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-28T00:08:10Z"
+    "updatedAt": "2026-11-02T00:13:15Z"
   },
   {
     "id": "awb_8905c570441dc64baced",
@@ -11150,6 +11100,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_1761bb0023f1b774e4e4",
+    "name": "Radio Swinoujscie",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radioswinoujscie.pl/",
+    "favicon": "https://radioswinoujscie.pl/wp-content/uploads/2023/12/cropped-logo_rs-180x180.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_4d8a979e3357c127e9bb",
@@ -12350,7 +12314,7 @@
     "id": "awb_4b49e5c817ec766fe4aa",
     "name": "radiOFF",
     "country": "PL",
-    "subdivision": "Lubuskie",
+    "subdivision": "Oderland",
     "languages": [
       "de",
       "pl"
@@ -12382,7 +12346,7 @@
       "storytelling",
       "viadrina"
     ],
-    "homepage": "http://radioff.com/",
+    "homepage": "https://radioff.com/",
     "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
     "type": null,
     "sourceCount": 3,
@@ -12654,6 +12618,34 @@
     "updatedAt": "2026-06-29T06:27:50Z"
   },
   {
+    "id": "awb_86c24fdd3d806d3329b8",
+    "name": "RadiumFM Warsaw",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "jazz",
+      "news"
+    ],
+    "tags": [
+      "ai generated",
+      "jazz",
+      "news",
+      "retro",
+      "rhythm and blues",
+      "soul",
+      "swing"
+    ],
+    "homepage": "https://radiumfm.com/warsaw",
+    "favicon": "https://radiumfm.com/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T11:36:43Z"
+  },
+  {
     "id": "awb_c0bbc919bae9a71da1ee",
     "name": "RaveFM",
     "country": "PL",
@@ -12805,6 +12797,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:18:50Z"
+  },
+  {
+    "id": "awb_eb28657dd9d8408ad35b",
+    "name": "REPLAY NEWS - Polski",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "information",
+      "news"
+    ],
+    "homepage": "https://www.replaynews.net/",
+    "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-PL.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-16T11:48:16Z"
   },
   {
     "id": "awb_89b33e85b95a1178bbfc",
@@ -14043,7 +14056,7 @@
     "id": "awb_ccafb97eb92dab888427",
     "name": "RMF MAXX",
     "country": "PL",
-    "subdivision": "Malopolskie",
+    "subdivision": "Małopolskie",
     "languages": [
       "pl"
     ],
@@ -15464,7 +15477,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T15:53:42Z"
+    "updatedAt": "2026-11-01T15:55:38Z"
   },
   {
     "id": "awb_6a8307b78259863d8db5",
@@ -15486,7 +15499,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T13:53:58Z"
+    "updatedAt": "2026-11-01T13:56:19Z"
   },
   {
     "id": "awb_a97c92681ac9281b8fbe",
@@ -15507,7 +15520,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T11:54:10Z"
+    "updatedAt": "2026-11-01T12:08:46Z"
   },
   {
     "id": "awb_d4e9b951cc81c034ecc8",

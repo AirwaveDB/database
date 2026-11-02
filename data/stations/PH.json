@@ -263,28 +263,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_dc7edac4f9f170e7cce0",
-    "name": "103.5 All Radio - DWOW",
-    "country": "PH",
-    "subdivision": "Mandaluyong City",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "adult",
-      "music",
-      "top 40"
-    ],
-    "homepage": "https://allradio1035.com.ph/",
-    "favicon": "https://cdn.radio-addict.com/media/stream/b6499b02-8f63-4a8c-8183-47ffb76e7d61_CDBA2E8D571574E25386703A545C6141_january-2024-allradio-logo-final-768x505.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-16T05:23:23Z"
-  },
-  {
     "id": "awb_5c73c42a54841fd27a04",
     "name": "103.5 Retro Cebu",
     "country": "PH",
@@ -1026,20 +1004,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_0074a38d4c9731cc0f32",
-    "name": "91.1 BALITA FM BOHOL",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://911balitafmbohol.my.canva.site/91-1-balita-fm-bohol",
-    "favicon": "https://911balitafmbohol.my.canva.site/91-1-balita-fm-bohol/images/8f3e74f67411f0d310bba570a5265758.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-03T12:31:49Z"
-  },
-  {
     "id": "awb_fb996649fad581c234f5",
     "name": "91.1 Yes FM - DYYR",
     "country": "PH",
@@ -1104,7 +1068,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/440px-Radyo5truefmlogo.webp.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
+    "updatedAt": "2026-11-01T15:14:04Z"
   },
   {
     "id": "awb_b6843d1bef1ffaaa9585",
@@ -1213,6 +1177,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24T12:27:37Z"
+  },
+  {
+    "id": "awb_c76945efcc78e6df506f",
+    "name": "95.1 iFM Iloilo",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "contemporary",
+      "drama",
+      "middle of the road",
+      "music",
+      "news",
+      "opm",
+      "talk"
+    ],
+    "homepage": "https://rmn.ph/ifm951iloilo/",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/2019-iFM-Iloilo.png?w=592&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T12:16:30Z"
   },
   {
     "id": "awb_b5b7c32728b3fb0be0fe",
@@ -1492,30 +1481,26 @@
     "updatedAt": "2026-03-24T03:33:12Z"
   },
   {
-    "id": "awb_5989de5122b255078072",
-    "name": "99.5 DZYW koolFM",
+    "id": "awb_74e3a2b6b08b25ee7d35",
+    "name": "99.5 One FM - DZYW",
     "country": "PH",
-    "subdivision": "Quezon City",
-    "languages": [
-      "en"
-    ],
+    "subdivision": "Intramuros, Manila",
+    "languages": [],
     "categories": [
       "news",
-      "pop",
       "talk"
     ],
     "tags": [
-      "adult contemporary",
+      "music",
       "news",
-      "pop",
       "talk",
-      "top40"
+      "variety"
     ],
-    "homepage": "https://www.youtube.com/@smilenetworkph",
-    "favicon": "https://assets.clrd.net/uploads/logos/radios/019ee2c7-3a47-7dea-8a43-de299a77084c/d5d586fe-d253-4042-975e-dd4d6e9238c7.webp",
+    "homepage": "https://www.facebook.com/onefm.ph",
+    "favicon": "https://cdn.radio-addict.com/media/stream/c6041bb2-5a75-4596-98ea-eeba455bb25b_07A573E6CEAE83B08696EE9CF9D97512_4pa2myhht8hp.png",
     "type": null,
-    "sourceCount": 6,
-    "updatedAt": "2026-10-17T23:25:34Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T06:59:59Z"
   },
   {
     "id": "awb_73930fe496839772ef7b",
@@ -1558,31 +1543,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-07T13:46:03Z"
-  },
-  {
-    "id": "awb_1c736b3a9fc6b62efb28",
-    "name": "ABS-CBN All Radio 101.9 FM",
-    "country": "PH",
-    "subdivision": "Quezon City",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "chr",
-      "local news",
-      "music",
-      "news",
-      "talk"
-    ],
-    "homepage": "https://allradio1035.com.ph/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1ERZBjCdStxOc4uCDvwgRa780ElW2hkU1icaaJSa6w&s=10",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-16T02:38:49Z"
   },
   {
     "id": "awb_e454b18a466b7c14318c",
@@ -3148,20 +3108,6 @@
     "updatedAt": "2026-01-15T14:01:51Z"
   },
   {
-    "id": "awb_c087532dbfdb42c15988",
-    "name": "Brigada News FM Legazpi",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.brigadanews.ph/bnfm-legazpi/",
-    "favicon": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-22T13:52:56Z"
-  },
-  {
     "id": "awb_77ef4bc2188cdd626afa",
     "name": "Brigada News FM Lucena",
     "country": "PH",
@@ -3717,44 +3663,6 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
-    "id": "awb_96ec8972a4e2bbd84cd4",
-    "name": "DWAV FM RP3 Alert 89.1",
-    "country": "PH",
-    "subdivision": "Manila",
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "music",
-      "news"
-    ],
-    "homepage": "https://pbs.gov.ph/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8AelTGTQ7iHDIOvZ8EDdYODjs1upE72-s5_Mdo6ZHqA&s",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_ac4293bef43fae3d7175",
-    "name": "DWAV FM RP3 Alert 89.1 - HD2",
-    "country": "PH",
-    "subdivision": "Manila",
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "music",
-      "news"
-    ],
-    "homepage": "https://pbs.gov.ph/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8AelTGTQ7iHDIOvZ8EDdYODjs1upE72-s5_Mdo6ZHqA&s",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_c106c62f1dccf53d3a00",
     "name": "DWBL 91.9 Bright FM",
     "country": "PH",
@@ -4182,25 +4090,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_05d5c86c3d6fc75a71b2",
-    "name": "DYJJ IBC Radio 1296 AM",
-    "country": "PH",
-    "subdivision": "Roxas City, Capiz",
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "music",
-      "news"
-    ],
-    "homepage": "https://en.m.wikipedia.org/wiki/DYJJ",
-    "favicon": "https://logos.fandom.com/wiki/DYJJ?file=DYJJ-AM.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_4976da2551998837aab2",
     "name": "DYPS 98.1 FM Tuburan, Cebu",
     "country": "PH",
@@ -4227,25 +4116,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_e23c9e962236d9891f2c",
-    "name": "DZAG FM RP1 Agoo 97.1",
-    "country": "PH",
-    "subdivision": "Agoo, La Union",
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "music",
-      "news"
-    ],
-    "homepage": "http://pbs.gov.ph/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6FBvyFybjB6dKipfo-ntXda_MP7lT_CB0A&s",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_aca0b0d8d546149c7cea",
@@ -4294,23 +4164,26 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_b652ff3304e68f1ebcb5",
-    "name": "DZHB IBC Radio 1512 AM",
+    "id": "awb_0aabcf9c2c37a97b876f",
+    "name": "DZEX Radyo Pilipino 1026 AM",
     "country": "PH",
-    "subdivision": "Baguio City",
+    "subdivision": "Intramuros, Manila",
     "languages": [],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "music",
-      "news"
+      "news",
+      "talk",
+      "variety"
     ],
-    "homepage": "https://en.m.wikipedia.org/wiki/DZHB-TV",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XhBfIviGk6m0H3Zn9E57oQV1WY-pJknQDg&usqp=CAU",
+    "homepage": "https://www.facebook.com/radyopilipinodigital",
+    "favicon": "https://cdn.radio-addict.com/media/stream/3c56ee25-3187-4f30-bbe7-3a90e8a7f5fb_C3D41C8A765FCF6A984422533F3350F6_RadyoPilipino_logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
+    "updatedAt": "2026-11-02T06:57:48Z"
   },
   {
     "id": "awb_3471b3e1fab437e4a57e",
@@ -4885,27 +4758,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_e5fd6af865a6b0f7840e",
-    "name": "FM Radio 105.5 Pampanga",
-    "country": "PH",
-    "subdivision": "Mabalacat, Pampanga",
-    "languages": [],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "music",
-      "news",
-      "talk"
-    ],
-    "homepage": "https://pcmc.com.ph/fm-radio/",
-    "favicon": "https://pcmc.com.ph/wp-content/uploads/2024/09/FM-Radio.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_d85e12691e791c1615b9",
     "name": "FM Radio Butuan",
     "country": "PH",
@@ -5177,20 +5029,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-13T13:49:05Z"
-  },
-  {
-    "id": "awb_cf17328aa49b6d5d9ec2",
-    "name": "FMR Davao De Oro",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.facebook.com/ZRadio967/",
-    "favicon": "https://www.amfmph.com/wp-content/uploads/amfmph/dav-deoro.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-10T13:33:02Z"
   },
   {
     "id": "awb_0046d98eaf8722659c1d",
@@ -5638,10 +5476,10 @@
     "tags": [
       "opm"
     ],
-    "homepage": "http://www.979homeradio.com/",
-    "favicon": "http://www.979homeradio.com/wp-content/uploads/2018/09/cropped-LOGO-1024PNG.png",
+    "homepage": "https://www.979homeradio.com/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/8/80/Palawan-crop-final.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-05-18T22:53:44Z"
   },
   {
@@ -7374,26 +7212,6 @@
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
-    "id": "awb_dbd8fbde3b2b119e6ba2",
-    "name": "MOR Manila 103.5 FM",
-    "country": "PH",
-    "subdivision": "Mandaluyong City",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hot ac",
-      "opm",
-      "top 40"
-    ],
-    "homepage": "https://allradio1035.com.ph/",
-    "favicon": "https://apk.radyoph.com/upload/1695753244_MOR2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-19T08:37:54Z"
-  },
-  {
     "id": "awb_09169d304f2525b4f854",
     "name": "MOR Philippines",
     "country": "PH",
@@ -7434,26 +7252,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-05T03:13:20Z"
-  },
-  {
-    "id": "awb_6a80471eb73f0fe54e79",
-    "name": "MORe Manila 101.9 FM - DZMV",
-    "country": "PH",
-    "subdivision": "Quezon City",
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "chr",
-      "entertainment",
-      "local news"
-    ],
-    "homepage": "https://www.facebook.com/share/1M4qdk3iog/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8HkNmsrt36Qapfbr3gIc-O5he5FybtvAiGThl-dF3XwGeRJSMo981Mtc3&s=10",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-16T05:21:08Z"
   },
   {
     "id": "awb_af16efc2cd1ae0f95676",
@@ -7546,6 +7344,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_4558203055bf7f152533",
+    "name": "Newsline Central Luzon 103.1 FM",
+    "country": "PH",
+    "subdivision": "San Fernando City, Pampanga",
+    "languages": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.facebook.com/nlcentralluzonfm",
+    "favicon": "https://static.wikia.nocookie.net/tvradioschedules/images/a/ae/DWNL_103.1_FM.png/revision/latest/scale-to-width-down/300?cb=20260809022846",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T07:08:21Z"
   },
   {
     "id": "awb_5e546b2febc7ca40b730",
@@ -8345,20 +8164,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_1132ae2beeeb5c2d7724",
-    "name": "Radyo Magasin",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radyopilipinas.ph/RadyoMagasin/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/8/83/DZRM_Radyo_Magasin_1278_2025_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-28T09:19:37Z"
   },
   {
     "id": "awb_adb7439dc7cc0c599171",
@@ -9590,27 +9395,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_33b89705793f7dd8dca7",
-    "name": "Radyo Pilipinas 3 Alert",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [
-      "tl"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "government",
-      "news"
-    ],
-    "homepage": "https://pbs.gov.ph/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:36:39Z"
-  },
-  {
     "id": "awb_590b29a9adcaac05ade1",
     "name": "Radyo Pilipinas Davao",
     "country": "PH",
@@ -9837,20 +9621,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_5d2907434041a4bd86a6",
-    "name": "Rhythm 101 FM Online",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rhythm101.devcoderz.site/",
-    "favicon": "https://cdn-profiles.tunein.com/s355489/images/logoq.png?t=639122040340000000",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-06T12:38:21Z"
   },
   {
     "id": "awb_b7882528807adbb5e028",
@@ -10772,28 +10542,6 @@
     "updatedAt": "2026-09-24T05:51:11Z"
   },
   {
-    "id": "awb_166da8bc09f0172ce6ef",
-    "name": "TGON KoolFM 101.9 HD",
-    "country": "PH",
-    "subdivision": "Manila",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "opm",
-      "pop",
-      "variety"
-    ],
-    "homepage": "https://linktr.ee/tgonkoolfm",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBzawe6yvIhNEuGwnjVE71ZI4pQXtDTKX28xA5QTG66A&s=10",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-15T14:17:15Z"
-  },
-  {
     "id": "awb_5b463114003ad40161ae",
     "name": "TGON KoolFM 106.7",
     "country": "PH",
@@ -10814,27 +10562,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-25T09:26:04Z"
-  },
-  {
-    "id": "awb_c862b47eb61c4c41d0d1",
-    "name": "TGON koolFM 99.5",
-    "country": "PH",
-    "subdivision": "Manila",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "chr",
-      "local news"
-    ],
-    "homepage": "https://linktr.ee/tgonkoolfm",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBzawe6yvIhNEuGwnjVE71ZI4pQXtDTKX28xA5QTG66A&s=10",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-12T07:15:24Z"
   },
   {
     "id": "awb_411493dbc76c787562c7",
@@ -10893,26 +10620,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_1164906f9a4c3b5ebfa5",
-    "name": "UFM 105.5",
-    "country": "PH",
-    "subdivision": "Mabalacat, Pampanga",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "adult hits"
-    ],
-    "homepage": "https://www.1055ufm.ph/",
-    "favicon": "https://www.1055ufm.ph/favicon",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:48:01Z"
-  },
-  {
     "id": "awb_394b905447bebc0f18e7",
     "name": "UFM 105.5 HD",
     "country": "PH",
@@ -10920,16 +10627,12 @@
     "languages": [
       "en"
     ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "adult hits"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.1055ufm.ph/",
-    "favicon": "https://www.1055ufm.ph/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {

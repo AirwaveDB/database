@@ -12107,20 +12107,6 @@
     "updatedAt": "2026-01-15T00:32:40Z"
   },
   {
-    "id": "awb_a6fb73573b17611d8057",
-    "name": "REDENCIÓN STEREO",
-    "country": "CO",
-    "subdivision": "Magdalena",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://streamcast.vitrinamusical.com/public/redencionstereo",
-    "favicon": "https://i.postimg.cc/k4DgWGCw/LOGO-4K.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T01:44:08Z"
-  },
-  {
     "id": "awb_291e6e94fe0d8688cdcc",
     "name": "Redición Stereo",
     "country": "CO",
@@ -12491,6 +12477,58 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_9a0cede5340ea2d59964",
+    "name": "Sama Estéreo",
+    "country": "CO",
+    "subdivision": "Atlántico",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "colombia",
+      "latin",
+      "salsa",
+      "tropical",
+      "vallenato"
+    ],
+    "homepage": "https://samafm.online/",
+    "favicon": "https://samafm.online/sama/favicon-96x96.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T11:17:46Z"
+  },
+  {
+    "id": "awb_b14cf63986190181081a",
+    "name": "Sama Estéreo 100.9 FM",
+    "country": "CO",
+    "subdivision": "Atlántico",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "atlantico",
+      "campo de la cruz",
+      "champeta",
+      "colombia",
+      "merengue",
+      "reggaeton",
+      "salsa",
+      "tropical",
+      "vallenato"
+    ],
+    "homepage": "https://samafm.online/",
+    "favicon": "https://samafm.online/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T11:03:31Z"
   },
   {
     "id": "awb_e9903caec47a605f0197",

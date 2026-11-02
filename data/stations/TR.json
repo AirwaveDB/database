@@ -273,7 +273,7 @@
     "favicon": "https://onlineradio.com.tr/images/50_radio.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
+    "updatedAt": "2026-11-02T00:05:08Z"
   },
   {
     "id": "awb_00785e40d88015adaaf5",
@@ -645,38 +645,24 @@
     "id": "awb_28f5726c853601d6fd94",
     "name": "Apacik Radyo",
     "country": "TR",
-    "subdivision": "Istanbul",
+    "subdivision": null,
     "languages": [
-      "el",
       "en",
       "tr"
     ],
     "categories": [
-      "classical",
       "community",
-      "country",
-      "jazz",
-      "rock",
-      "talk"
+      "jazz"
     ],
     "tags": [
-      "classic rock",
-      "classical",
       "community radio",
-      "country",
-      "culture",
-      "ethnic",
-      "independent radio",
       "jazz",
-      "rock",
-      "talk",
-      "turkish music",
       "world music"
     ],
     "homepage": "http://www.apacikradyo.com.tr/",
-    "favicon": "https://apacikradyo.com.tr/logo1024",
+    "favicon": "https://www.apacikradyo.com.tr/themes/custom/acikradyo/assets/img/favicon.png",
     "type": "community",
-    "sourceCount": 8,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T08:44:42Z"
   },
   {
@@ -1992,7 +1978,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T16:52:07Z"
+    "updatedAt": "2026-11-01T16:54:24Z"
   },
   {
     "id": "awb_b35105ad16c219d0740f",
@@ -2014,7 +2000,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-31T23:16:10Z"
+    "updatedAt": "2026-11-01T20:26:57Z"
   },
   {
     "id": "awb_18ef70fa187d5f788e31",
@@ -2043,7 +2029,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-legacy-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T12:34:09Z"
+    "updatedAt": "2026-11-01T12:49:44Z"
   },
   {
     "id": "awb_7edc0fde3b3291cc2ace",
@@ -2092,7 +2078,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T18:45:46Z"
+    "updatedAt": "2026-11-01T18:52:35Z"
   },
   {
     "id": "awb_0726c5d4e8aa71680e95",
@@ -2118,7 +2104,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T01:35:37Z"
+    "updatedAt": "2026-11-01T17:26:01Z"
   },
   {
     "id": "awb_173bf527a4d7f5eb635c",
@@ -5034,6 +5020,30 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_5c2f751d974ea1a583d4",
+    "name": "LP Remix Fm",
+    "country": "TR",
+    "subdivision": "manisa",
+    "languages": [
+      "en",
+      "tr"
+    ],
+    "categories": [
+      "hip-hop",
+      "pop"
+    ],
+    "tags": [
+      "hip-hop",
+      "pop",
+      "remix"
+    ],
+    "homepage": "https://zeno.fm/radio/lp-remix-fm/",
+    "favicon": "https://images.zeno.fm/Ra3Yrlu7F-RP3sd6p9iDAsy5Kg334KCWMflmF86qqmk/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOWRjNzlkOTctMDNjNC00NzdlLThlZTUtMTdhMmRiMDgxN2MxL2ltYWdlLz91PTE3MTE0NjQ5NjgwMDA",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T22:03:06Z"
+  },
+  {
     "id": "awb_2b90c1965561e1da01ed",
     "name": "LP Roman Fm",
     "country": "TR",
@@ -5490,7 +5500,7 @@
     "id": "awb_9b304479aab13c23b99c",
     "name": "MK Radyo",
     "country": "TR",
-    "subdivision": "Istanbul",
+    "subdivision": "Bursa",
     "languages": [
       "tr"
     ],
@@ -5503,20 +5513,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-01T17:14:48Z"
-  },
-  {
-    "id": "awb_6cd97fefde9120996cd9",
-    "name": "MOOD ROCK",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radyo.yayin.com.tr:6321/;",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-19T15:37:35Z"
   },
   {
     "id": "awb_96ff1985611f51d8e0a0",
@@ -5559,35 +5555,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_2e099962755211917730",
-    "name": "no name",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "tr"
-    ],
-    "categories": [
-      "classical",
-      "jazz",
-      "news",
-      "rock",
-      "talk"
-    ],
-    "tags": [
-      "classical music",
-      "jazz",
-      "news talk music",
-      "rock",
-      "world music"
-    ],
-    "homepage": "https://apacikradyo.com.tr/",
-    "favicon": "https://apacikradyo.com.tr/logo1024",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:08:13Z"
   },
   {
     "id": "awb_4bac250187c189e98b4b",
@@ -6221,8 +6188,8 @@
     "homepage": "https://www.powerapp.com.tr/powerpop/",
     "favicon": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817",
     "type": null,
-    "sourceCount": 8,
-    "updatedAt": "2026-04-04T20:32:23Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:46:02Z"
   },
   {
     "id": "awb_6ab477193b0d0dba50d9",
@@ -7022,27 +6989,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_7ffc2ec8be9000e6fb5e",
-    "name": "Radyo 2000 İstanbul",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "pop"
-    ],
-    "homepage": "https://www.radyo2000.com.tr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-05T22:50:31Z"
   },
   {
     "id": "awb_d152dee4de869cdbb838",

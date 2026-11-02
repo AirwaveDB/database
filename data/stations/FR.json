@@ -998,10 +998,10 @@
       "electro"
     ],
     "homepage": "https://www.103radio.fr/",
-    "favicon": "https://www.103radio.fr/apple-touch-icon.png",
+    "favicon": "https://www.103radio.fr/img/header_logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-05-10T14:21:26Z"
+    "updatedAt": "2026-11-01T15:43:34Z"
   },
   {
     "id": "awb_df7274e9497b554f517f",
@@ -4503,23 +4503,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_e1bca793ed3eadf5d17b",
-    "name": "behary laul sirder",
-    "country": "FR",
-    "subdivision": "VERNON 27200",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "musica tropical",
-      "tropical"
-    ],
-    "homepage": "https://blsguyane.webradiosite.com/",
-    "favicon": "https://public-rf-assets.minhawebradio.net/img/favicon.ico?_t=2e8f2f6db6",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_0e00e3e1c1dd40764bc2",
     "name": "Beur FM",
     "country": "FR",
@@ -4876,24 +4859,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_71773710e8842427e2ea",
-    "name": "BLS GUYANE",
-    "country": "FR",
-    "subdivision": "VERNON 27200",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "tropical",
-      "tropical music",
-      "zouk"
-    ],
-    "homepage": "https://blsguyane.webradiosite.com/",
-    "favicon": "https://blsguyane.webradiosite.com/",
-    "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_5b3eb3fe598bcc1fe02e",
     "name": "BLT Radio",
     "country": "FR",
@@ -5034,6 +4999,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:57:38Z"
+  },
+  {
+    "id": "awb_140e766cef533e7ec6d0",
+    "name": "Breniges FM",
+    "country": "FR",
+    "subdivision": "Corrèze",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "local news",
+      "local radio",
+      "nouvelle-aquitaine",
+      "radio locale"
+    ],
+    "homepage": "https://breniges.fr/",
+    "favicon": "https://breniges.fr/icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T07:39:33Z"
   },
   {
     "id": "awb_9faa9d012bed15b957b2",
@@ -5250,7 +5238,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao Radio",
+    "name": "Cacao-Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -9547,7 +9535,7 @@
     "id": "awb_7e7569648104bc027057",
     "name": "DIGITAL2RADIO",
     "country": "FR",
-    "subdivision": "Normandie",
+    "subdivision": "Normandy",
     "languages": [],
     "categories": [
       "oldies",
@@ -10151,7 +10139,7 @@
     "favicon": "https://www.egrego.re/RESOURCES/IMAGES/EGREGORELOGO.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-28T01:05:24Z"
+    "updatedAt": "2026-11-02T01:16:44Z"
   },
   {
     "id": "awb_9f2cbe07bf0627568cc4",
@@ -10311,6 +10299,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-09T07:37:01Z"
+  },
+  {
+    "id": "awb_fb0fc107bc495a03723e",
+    "name": "EnjoyStation",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "asian",
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://www.enjoystation.fr/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/129/enjoystation.a387952d.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T11:43:14Z"
   },
   {
     "id": "awb_8526db32a66a4b58c68d",
@@ -13452,29 +13462,6 @@
     "updatedAt": "2026-01-15T05:27:18Z"
   },
   {
-    "id": "awb_3c95998b4d7c55598398",
-    "name": "France Culture",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "aac",
-      "culture",
-      "public radio",
-      "radio france"
-    ],
-    "homepage": "https://www.franceculture.fr/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png",
-    "type": "public",
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T08:08:04Z"
-  },
-  {
     "id": "awb_48fc56b6d4fdb60e7287",
     "name": "France Culture",
     "country": "FR",
@@ -13487,6 +13474,7 @@
       "talk"
     ],
     "tags": [
+      "aac",
       "banana",
       "culture",
       "hls",
@@ -13496,7 +13484,7 @@
       "talk"
     ],
     "homepage": "https://www.radiofrance.fr/franceculture",
-    "favicon": "https://www.radiofrance.fr/dist/favicons/logo-120.png",
+    "favicon": "https://www.radiofrance.fr/external/favicons/franceculture/favicon.png",
     "type": "public",
     "sourceCount": 9,
     "updatedAt": "2026-09-12T19:49:39Z"
@@ -13518,22 +13506,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-05T13:53:48Z"
-  },
-  {
-    "id": "awb_4a60230a406acdaed040",
-    "name": "France Culture - banana",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiofrance.fr/franceculture",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-12T19:32:12Z"
   },
   {
     "id": "awb_fe54bbbecddb76e94c17",
@@ -13621,22 +13593,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:29:20Z"
-  },
-  {
-    "id": "awb_66755b55150cf80a13d5",
-    "name": "France Culture officiel",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "culture"
-    ],
-    "homepage": "https://www.franceculture.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-24T07:55:44Z"
   },
   {
     "id": "awb_1dc8ef586f413c40f241",
@@ -16370,26 +16326,21 @@
   },
   {
     "id": "awb_6cbb58621ea5f7828d12",
-    "name": "Graffiti Urban Radio",
+    "name": "Graffiti Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
       "fr"
     ],
-    "categories": [
-      "community"
-    ],
+    "categories": [],
     "tags": [
-      "alternative",
-      "community radio",
-      "independent",
-      "independent radio"
+      "alternative"
     ],
     "homepage": "https://www.graffitiradio.fr/",
     "favicon": null,
-    "type": "community",
+    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:13:09Z"
+    "updatedAt": "2026-11-01T10:44:52Z"
   },
   {
     "id": "awb_380ad1554b37ac5c1a21",
@@ -19788,7 +19739,7 @@
       "radio locale"
     ],
     "homepage": "https://www.ici.fr/radio/breizh-izel",
-    "favicon": "https://www.ici.fr/favicon56.png",
+    "favicon": "https://www.ici.fr/images/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T10:24:25Z"
@@ -20174,7 +20125,7 @@
     "favicon": "https://i.postimg.cc/BQZXKJnh/LOGO-3-2-bg1.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T02:41:57Z"
+    "updatedAt": "2026-11-01T19:51:20Z"
   },
   {
     "id": "awb_59958b09a5492c724646",
@@ -20207,7 +20158,7 @@
     "favicon": "https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T05:00:36Z"
+    "updatedAt": "2026-11-01T18:39:07Z"
   },
   {
     "id": "awb_7e1888e862706fbd34c1",
@@ -20231,7 +20182,7 @@
     "favicon": "https://i.postimg.cc/3rFkNkY4/LOGO-3-2-bg3.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T17:43:59Z"
+    "updatedAt": "2026-11-01T17:46:03Z"
   },
   {
     "id": "awb_663247fe9bfb98162cd8",
@@ -23562,7 +23513,7 @@
     "favicon": "https://lyl.live/favicon.ico",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T22:09:26Z"
+    "updatedAt": "2026-11-01T22:17:29Z"
   },
   {
     "id": "awb_11e4b384c12f65d075d6",
@@ -27543,28 +27494,6 @@
     "updatedAt": "2026-10-29T20:06:49Z"
   },
   {
-    "id": "awb_cc8fc0da1d573a10ecb3",
-    "name": "Nostalgie Europop",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "nostalgie",
-      "pop",
-      "webradio"
-    ],
-    "homepage": "https://www.nostalgie.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 2,
-    "updatedAt": "2026-09-18T18:54:22Z"
-  },
-  {
     "id": "awb_5c1adf895c752947c3d4",
     "name": "Nostalgie Fans des Années 80",
     "country": "FR",
@@ -28113,25 +28042,6 @@
     "type": "internet",
     "sourceCount": 1,
     "updatedAt": "2026-09-18T18:53:49Z"
-  },
-  {
-    "id": "awb_38451a4841b73ac35cda",
-    "name": "Nostalgie Les Tubes De 1986",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "nostalgie",
-      "webradio"
-    ],
-    "homepage": "https://www.nostalgie.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:51:50Z"
   },
   {
     "id": "awb_9b8c4eef1d9d0e53f274",
@@ -28772,25 +28682,6 @@
     "updatedAt": "2026-09-18T18:53:49Z"
   },
   {
-    "id": "awb_409d3049021cb96747be",
-    "name": "Nostalgie Soleil",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "nostalgie",
-      "webradio"
-    ],
-    "homepage": "https://www.nostalgie.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:55:20Z"
-  },
-  {
     "id": "awb_335101b0b6ac91a6a582",
     "name": "Nostalgie Soul",
     "country": "FR",
@@ -28804,7 +28695,7 @@
       "soul",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-soul",
+    "homepage": "https://www.nostalgie.fr/",
     "favicon": null,
     "type": "internet",
     "sourceCount": 2,
@@ -34551,6 +34442,29 @@
     "updatedAt": "2026-01-15T07:13:03Z"
   },
   {
+    "id": "awb_a1138a42a45f01688af4",
+    "name": "Oxyna Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop hits",
+      "top 40",
+      "urban"
+    ],
+    "homepage": "https://radio.oxnya-group.com/",
+    "favicon": "https://radio.oxnya-group.com/logo.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T11:24:23Z"
+  },
+  {
     "id": "awb_b16961786157a1797975",
     "name": "OZ FM",
     "country": "FR",
@@ -37374,28 +37288,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_87ebc97556710009e6c9",
-    "name": "Radio Brony",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "brony",
-      "fan music",
-      "live show",
-      "mlp",
-      "my little pony: friendship is magic"
-    ],
-    "homepage": "https://radiobrony.fr/",
-    "favicon": "https://radiobrony.fr/img/icons/bwavatar-details.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-17T08:54:35Z"
-  },
-  {
     "id": "awb_e194989b9b26f4e4d1f8",
     "name": "Radio Brony (AAC+)",
     "country": "FR",
@@ -37417,29 +37309,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-22T06:34:06Z"
-  },
-  {
-    "id": "awb_f2fea900f9f0875628dd",
-    "name": "Radio Brony (OGG)",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "brony",
-      "fan music",
-      "live show",
-      "mlp",
-      "my little pony",
-      "my little pony: friendship is magic"
-    ],
-    "homepage": "https://radiobrony.fr/",
-    "favicon": "https://radiobrony.fr/img/icons/bwavatar-details.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-17T16:26:16Z"
   },
   {
     "id": "awb_4416f9cd544ba8cbf04f",
@@ -37476,7 +37345,7 @@
     "favicon": "https://stream.radiobroussaille.fr:8443/favicon-32x32.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-01T03:53:29Z"
+    "updatedAt": "2026-11-02T02:10:47Z"
   },
   {
     "id": "awb_7e734f5079f289eeae18",
@@ -38106,14 +37975,14 @@
   },
   {
     "id": "awb_344f994bcc4a86baedee",
-    "name": "RADIO CLUB 105.7FM",
+    "name": "Radio Club 105.7FM",
     "country": "FR",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://radioclub.fr/wp-admin/",
-    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/cropped-269965503_533759981882903_4768925474557172552_n-270x270.jpg",
+    "homepage": "https://radioclub.fr/",
+    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/269965503_533759981882903_4768925474557172552_n-1.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-18T11:23:34Z"
@@ -39468,27 +39337,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_a7d8fa297e7dbc45a39d",
-    "name": "Radio Food",
-    "country": "FR",
-    "subdivision": "Besançon, Doubs",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "ambient",
-      "relaxing"
-    ],
-    "homepage": "https://5cf9322c44411.site123.me/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:11:09Z"
-  },
-  {
     "id": "awb_ed7e9e7f088b5b60a237",
     "name": "Radio France Internationale",
     "country": "FR",
@@ -40042,7 +39890,7 @@
       "gospel music",
       "pop rock"
     ],
-    "homepage": "https://radioibnjparis.com/",
+    "homepage": "https://www.radioibnjparis.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 3,
@@ -42028,7 +41876,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T18:41:52Z"
+    "updatedAt": "2026-11-01T18:44:32Z"
   },
   {
     "id": "awb_170145a89df6bee49f9c",
@@ -42048,7 +41896,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-28T00:05:15Z"
+    "updatedAt": "2026-11-02T00:06:52Z"
   },
   {
     "id": "awb_f9e6ec4fab79c1be88df",
@@ -43763,7 +43611,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-10-27T22:07:22Z"
+    "updatedAt": "2026-11-01T22:12:44Z"
   },
   {
     "id": "awb_3184303c9e1059ff5d5d",
@@ -44161,6 +44009,34 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-05T13:50:11Z"
+  },
+  {
+    "id": "awb_19319d53dd856a9beda4",
+    "name": "RadiumFM Paris",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "jazz",
+      "news"
+    ],
+    "tags": [
+      "ai generated",
+      "jazz",
+      "news",
+      "retro",
+      "rhythm and blues",
+      "soul",
+      "swing"
+    ],
+    "homepage": "https://radiumfm.com/paris",
+    "favicon": "https://radiumfm.com/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T11:26:36Z"
   },
   {
     "id": "awb_d62022767281eaa9c931",
@@ -44923,7 +44799,7 @@
     "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8F0eknwNai-r4N__pt_Kvv8MAHDihB3I-obR3AKZtzEma_xuTdmry_4&s=10",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T08:20:22Z"
+    "updatedAt": "2026-11-01T09:57:59Z"
   },
   {
     "id": "awb_dce0350535aab210abc9",
@@ -45424,6 +45300,20 @@
     "updatedAt": "2026-01-15T08:38:46Z"
   },
   {
+    "id": "awb_e2a6eda8e48f31c9b51e",
+    "name": "RFM PARIS",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.rfm.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T17:15:30Z"
+  },
+  {
     "id": "awb_58d687850f4096bf634d",
     "name": "RFM party",
     "country": "FR",
@@ -45436,6 +45326,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_f4f41d1fc986e740d8b2",
+    "name": "RFM Party 80-90",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.rfm.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T17:17:33Z"
   },
   {
     "id": "awb_6ac4c1c85685d01339d6",
@@ -46095,7 +45999,7 @@
     "favicon": "https://fichiers.rjrradio.fr/logo/Fond%20blanc/RJR%202016%20carr%C3%A9%20sans%20marge.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-10-27T16:14:32Z"
+    "updatedAt": "2026-11-01T16:24:50Z"
   },
   {
     "id": "awb_b28184bdfe102a729a8c",
@@ -47137,7 +47041,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-01T00:20:54Z"
+    "updatedAt": "2026-11-01T22:20:08Z"
   },
   {
     "id": "awb_27f177cc378d35086ddb",
@@ -48883,6 +48787,26 @@
     "updatedAt": "2026-01-15T08:31:18Z"
   },
   {
+    "id": "awb_798a4f2607fd563745e2",
+    "name": "Top Hits",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "top 40",
+      "top hits"
+    ],
+    "homepage": "https://onlyhit.us/fr/radio/tophits",
+    "favicon": "https://onlyhit.us/cdn/https://cdn.onlyhitsradio.net/logo/tophits.png?width=480",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T11:55:15Z"
+  },
+  {
     "id": "awb_a57afce0419654a0fdca",
     "name": "TOP ITALIA 1",
     "country": "FR",
@@ -49725,6 +49649,26 @@
     "updatedAt": "2026-06-25T15:30:33Z"
   },
   {
+    "id": "awb_b6c28b9a9c198c7f2505",
+    "name": "Vertige Radio Rock",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://vertigeradio.com/",
+    "favicon": "https://vertigeradio.com/uploads/temp/logos/logo_1_1783472830_69d036.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T13:49:24Z"
+  },
+  {
     "id": "awb_02884ce24eeca17ce76f",
     "name": "VertigeDance",
     "country": "FR",
@@ -49960,7 +49904,7 @@
     "favicon": "https://vicecity.fr/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-28T00:12:32Z"
+    "updatedAt": "2026-11-02T00:26:18Z"
   },
   {
     "id": "awb_e5ecac656bef647da481",
@@ -51392,7 +51336,7 @@
     "favicon": "https://i.imgur.com/cVC439t.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T00:40:27Z"
+    "updatedAt": "2026-11-02T01:13:01Z"
   },
   {
     "id": "awb_72b0c0b1ce1aa867247a",

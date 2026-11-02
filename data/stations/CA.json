@@ -5598,28 +5598,6 @@
     "updatedAt": "2026-01-15T04:25:41Z"
   },
   {
-    "id": "awb_91154d6cd67510714614",
-    "name": "CFLS92",
-    "country": "CA",
-    "subdivision": "QC",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://cfls92.com/",
-    "favicon": "https://cfls92.com/wp-content/uploads/2020/04/cropped-cfls_logo-32x32.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-02T13:51:42Z"
-  },
-  {
     "id": "awb_ff537dabde4a66749c45",
     "name": "CFLT \"Jack 92.9\" Dartmouth, NS",
     "country": "CA",
@@ -6033,7 +6011,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -6051,7 +6029,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://www.cfnj.net/",
+    "homepage": "http://cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -6684,13 +6662,12 @@
       "community"
     ],
     "tags": [
-      "amherst",
       "community radio"
     ],
     "homepage": "http://cftafm.com/site/",
     "favicon": null,
     "type": "community",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T03:09:18Z"
   },
   {
@@ -7633,26 +7610,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:05:50Z"
-  },
-  {
-    "id": "awb_c09966ffebeee1efa6e6",
-    "name": "CHGA 97.3 Maniwaki, QC",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio"
-    ],
-    "homepage": "http://www.chga.fm/",
-    "favicon": "https://www.chga.fm/app/themes/webit/assets/img/logo__app.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:49:33Z"
   },
   {
     "id": "awb_ffa4beeed47f40cb0371",
@@ -8766,6 +8723,20 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
+    "id": "awb_ca004d7f3ab20e892268",
+    "name": "CHOI 98,1 Radio X",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
     "id": "awb_9400b580214de8fda6bd",
     "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
     "country": "CA",
@@ -8786,20 +8757,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:49:38Z"
-  },
-  {
-    "id": "awb_ca004d7f3ab20e892268",
-    "name": "CHOI 98.1 Radio X",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiox.com/",
-    "favicon": "https://radiox.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_0db5abdaad511193eccc",
@@ -10061,22 +10018,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:45:08Z"
-  },
-  {
-    "id": "awb_e51e9a0a1077e64cd79b",
-    "name": "CIBL Montreal",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "misc"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_22250435f1458d9bc6fc",
@@ -20855,7 +20796,7 @@
     "favicon": "https://fullspectrumradio.com/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-27T16:43:49Z"
+    "updatedAt": "2026-11-01T16:46:42Z"
   },
   {
     "id": "awb_14704d2b6cddb6ffab8a",
@@ -26457,20 +26398,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_f47d8d91785a8d02cacd",
-    "name": "Revolution Radio",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.revolutionradio.com/",
-    "favicon": "https://mmo.aiircdn.com/593/618af1cea6049.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
     "id": "awb_2645de432c10603f24b3",
     "name": "Riley And Lucian FM",
     "country": "CA",
@@ -27217,20 +27144,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_3f54776277f9f47154ac",
-    "name": "Soul 57",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://57yearsofsoulmusicradio.com/",
-    "favicon": "https://static-media.streema.com/media/cache/b3/82/b3824cc597f63e09fcb2dc819fe8adde.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_5d82290ee40e157fc311",
     "name": "Soul Good Radio",
     "country": "CA",
@@ -27448,7 +27361,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto",
+    "subdivision": "Toronto, ON",
     "languages": [],
     "categories": [
       "jazz"
@@ -27457,7 +27370,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
+    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,

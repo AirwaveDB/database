@@ -372,20 +372,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_90522100ae9539c9fa99",
-    "name": "1116 SEN Melbourne",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.sen.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_0d0a23aee9c0a14a5722",
     "name": "1170 SEN Sydney",
     "country": "AU",
@@ -756,10 +742,10 @@
       "local"
     ],
     "homepage": "https://radio2cbd.com.au/",
-    "favicon": "https://i.ibb.co/RbFj9fQ/64f6ea8adf19bcbef424fc7a.webp",
+    "favicon": "https://radio2cbd.com.au/wp-content/uploads/2018/12/cropped-headphones-559179c3v1_site_icon-180x180.png",
     "type": "community",
-    "sourceCount": 7,
-    "updatedAt": "2026-01-15T06:59:17Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:18:06Z"
   },
   {
     "id": "awb_cb361ca64ef4cf6fca3b",
@@ -781,7 +767,7 @@
     "homepage": "https://radio2cbd.com.au/",
     "favicon": "https://i.ibb.co/RbFj9fQ/64f6ea8adf19bcbef424fc7a.webp",
     "type": "community",
-    "sourceCount": 7,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:25:32Z"
   },
   {
@@ -2542,22 +2528,6 @@
     "updatedAt": "2026-08-15T14:56:28Z"
   },
   {
-    "id": "awb_2212f378c215c41bfe68",
-    "name": "3KND Kool 'N' Deadly - 1503 AM",
-    "country": "AU",
-    "subdivision": "Melbourne VIC",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.3knd.org.au/",
-    "favicon": "https://static.wixstatic.com/media/dd7fa8_a4500b7de9ea4d55a9b2bea6bb24f0f2~mv2.jpg/v1/fill/w_1332,h_768,al_c/dd7fa8_a4500b7de9ea4d55a9b2bea6bb24f0f2~mv2.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-03T11:57:30Z"
-  },
-  {
     "id": "awb_7710f6e52daa657685ed",
     "name": "3MBS - Melbourne, 103.5 MHz FM",
     "country": "AU",
@@ -4135,7 +4105,7 @@
     "favicon": "https://terminal-dystopia.com/images/radio.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T21:46:24Z"
+    "updatedAt": "2026-11-01T22:00:21Z"
   },
   {
     "id": "awb_8b6bb977e85c1c6bf113",
@@ -8979,7 +8949,7 @@
     "favicon": "https://aspradio.au/static/uploads/browser_icon/original.1709873524.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-01T00:38:01Z"
+    "updatedAt": "2026-11-01T22:16:09Z"
   },
   {
     "id": "awb_a1ad733d531b36b1afea",
@@ -17873,6 +17843,27 @@
     "updatedAt": "2026-05-31T00:40:53Z"
   },
   {
+    "id": "awb_39ab556f13e0e6c68ddf",
+    "name": "Diffusion FM",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "diy",
+      "experimental",
+      "sound art",
+      "soundscape"
+    ],
+    "homepage": "https://diffusionfm.wordpress.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-31T13:30:47Z"
+  },
+  {
     "id": "awb_050509cf4d8e2a8dd3d6",
     "name": "DiscoRhythm",
     "country": "AU",
@@ -21344,6 +21335,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:25:56Z"
+  },
+  {
+    "id": "awb_410360caea6d569e3b12",
+    "name": "KLFM Bendigo 96.5",
+    "country": "AU",
+    "subdivision": "Victoria",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.klfm.com.au/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T03:28:56Z"
   },
   {
     "id": "awb_108f1213d7e762c34a54",
@@ -28983,52 +28988,10 @@
     "updatedAt": "2026-09-04T22:32:20Z"
   },
   {
-    "id": "awb_9618c40fc06b8cd6f6e7",
-    "name": "RTR 92.1",
-    "country": "AU",
-    "subdivision": "Western Australia",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rtrfm.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-22T16:54:31Z"
-  },
-  {
     "id": "awb_d0fc3542ec3a61dfa932",
     "name": "RTR FM 92.1",
     "country": "AU",
     "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rtrfm.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_3c898d465e9534737523",
-    "name": "RTR Radio 92.1",
-    "country": "AU",
-    "subdivision": "Western Australia",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rtrfm.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-22T16:12:07Z"
-  },
-  {
-    "id": "awb_3ea03bb6461d89c00fa1",
-    "name": "RTRFM",
-    "country": "AU",
-    "subdivision": "Western Australia",
     "languages": [
       "en"
     ],
@@ -29041,22 +29004,24 @@
     "homepage": "https://rtrfm.com.au/",
     "favicon": "https://rtrfm.com.au/wp-content/smush-webp/2024/03/cropped-RTRFM_Favicon-192x192.png.webp",
     "type": "community",
-    "sourceCount": 4,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T16:39:33Z"
   },
   {
-    "id": "awb_0ccbae6d36c9a249bda8",
-    "name": "RTRFM 92.1",
+    "id": "awb_3ea03bb6461d89c00fa1",
+    "name": "RTRFM",
     "country": "AU",
     "subdivision": "Western Australia",
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://rtrfm.com.au/",
-    "favicon": "https://rtrfm.com.au/",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-05-23T01:28:44Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_7c6dc79b07b9247be070",
