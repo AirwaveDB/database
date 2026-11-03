@@ -4630,6 +4630,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_488fbd88404e85b26261",
+    "name": "FM Verdade 98,7",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "eclética"
+    ],
+    "homepage": "https://xcastradios.com.br/radio/radio-fm-verdade-98-7-11038",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T13:42:42Z"
+  },
+  {
     "id": "awb_0975604468831d2692ee",
     "name": "FM93 Fortaleza",
     "country": "BR",
@@ -6300,6 +6318,20 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_e378729c3e29031f8d6b",
+    "name": "Jovem Pan Aracaju 88,7 FM",
+    "country": "BR",
+    "subdivision": "Sergipe",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://glomes.com.br/jovempanaju/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T00:17:15Z"
+  },
+  {
     "id": "awb_2a1f62c7494fea5a47ed",
     "name": "Jovem Pan Barra Bonita FM",
     "country": "BR",
@@ -6849,7 +6881,7 @@
     "id": "awb_288c14e20ef0d642d5e5",
     "name": "Kero Rock",
     "country": "BR",
-    "subdivision": "Rio Grande do Sul",
+    "subdivision": "RS",
     "languages": [],
     "categories": [
       "rock"
@@ -7328,7 +7360,7 @@
       "tech house"
     ],
     "homepage": "https://mboxxradio.com/",
-    "favicon": "https://radio.mboxxradio.com/static/uploads/magic-boxx-radio/album_art.1793272391.webp",
+    "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-29T13:04:22Z"
@@ -7922,7 +7954,7 @@
     "id": "awb_ae4fefbf450bfef15049",
     "name": "Metal Zone Radio",
     "country": "BR",
-    "subdivision": "São Paulo",
+    "subdivision": "Sao Paulo (Brazil)",
     "languages": [],
     "categories": [
       "metal"
@@ -7939,7 +7971,7 @@
       "symphonic metal",
       "trash metal"
     ],
-    "homepage": "http://www.metalzone.radio.br/",
+    "homepage": "https://metalzone.radio.br/",
     "favicon": "https://metalzone.radio.br/assets/img/favicon-512.png",
     "type": null,
     "sourceCount": 2,
@@ -13102,7 +13134,7 @@
     "id": "awb_2b7b7954faeaf86005a4",
     "name": "Rádio Cambirela - Virtual,mas real.",
     "country": "BR",
-    "subdivision": "Santa Catarina, SC",
+    "subdivision": "Santa Catarina,SC",
     "languages": [],
     "categories": [
       "country",
@@ -15117,7 +15149,7 @@
     "id": "awb_c5d9bb133403295c59b3",
     "name": "RADIO EJN",
     "country": "BR",
-    "subdivision": "bahia",
+    "subdivision": "Bahía",
     "languages": [],
     "categories": [],
     "tags": [
@@ -17667,6 +17699,20 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_734e700bf3cb270f3374",
+    "name": "Rádio Líder FM 93.5",
+    "country": "BR",
+    "subdivision": "Pernambuco ,Brasil",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.liderdovalefm.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T01:30:57Z"
+  },
+  {
     "id": "awb_b356a59370992720bb4a",
     "name": "RADIO LIDERANCA",
     "country": "BR",
@@ -19942,13 +19988,18 @@
     "country": "BR",
     "subdivision": "PE",
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "jazz",
+      "latin"
+    ],
+    "tags": [
+      "latin jazz"
+    ],
     "homepage": "https://www.radiopositivafm90.siteweb.net.br/",
     "favicon": "https://www.radiopositivafm90.siteweb.net.br/",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-16T21:27:44Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-02T22:53:24Z"
   },
   {
     "id": "awb_4f2bbe7b70248687ca56",
@@ -22855,6 +22906,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-20T14:05:06Z"
+  },
+  {
+    "id": "awb_9658ace089f0e8f9d6c9",
+    "name": "Rádio Vilabela 94.3 FM",
+    "country": "BR",
+    "subdivision": "Pernambuco ,Brasil",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://vilabelafm.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T01:23:20Z"
   },
   {
     "id": "awb_bfeb1bb52c835a248948",

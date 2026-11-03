@@ -12843,6 +12843,20 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_0c672f4403f44619b04d",
+    "name": "9090s Hessen",
+    "country": "DE",
+    "subdivision": "Hessen",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.9090s.de/",
+    "favicon": "https://images.90s90s.de/files/2025-08/90s90s_90s90s-dab_16x9_2x.png?crop=3840%2C2160%2Ccenter%2Cmiddle&rect=center%2Cmiddle%2C3840%2C2160&fit=crop&crop=faces&w=700&h=394&dpr=1&width=700&height=394&fm=webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T06:03:24Z"
+  },
+  {
     "id": "awb_6837b1309a60c2a4076b",
     "name": "9090s Hits",
     "country": "DE",
@@ -17146,7 +17160,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://www.antenne.de/webradio/90er-party",
+    "homepage": "https://www.antenne.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -18536,6 +18550,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-11T10:15:37Z"
+  },
+  {
+    "id": "awb_3b35da0a2458a1474334",
+    "name": "Antenne Schlager Weihnachten",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.antenne-schlager.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T17:21:13Z"
   },
   {
     "id": "awb_82589c76e02623e08cf8",
@@ -21785,7 +21813,7 @@
     "id": "awb_bfb1a50150f43cf6ef05",
     "name": "BesteFM Lounge",
     "country": "DE",
-    "subdivision": "Cologne",
+    "subdivision": "Cologne, Köln",
     "languages": [
       "de",
       "en",
@@ -21810,7 +21838,7 @@
       "turkish radio"
     ],
     "homepage": "https://bestefm.com/",
-    "favicon": "https://bestefm.com/assets/favicon.ico%22%20type=%22image/x-icon",
+    "favicon": "https://imgur.com/a/ZTOAvCf",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-14T16:48:47Z"
@@ -25880,7 +25908,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.ffn.de/",
+    "homepage": "http://www.ffn.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 4,
@@ -26698,7 +26726,7 @@
     "id": "awb_4d93db1f5602c64a3ae1",
     "name": "Club85",
     "country": "DE",
-    "subdivision": "Baden-Württemberg",
+    "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
     "languages": [
       "de"
     ],
@@ -55322,7 +55350,7 @@
       "techno"
     ],
     "homepage": "https://www.leipzig-beatzz.de/",
-    "favicon": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/75/28/9c75281d-92b1-a6e0-8373-cc9dc35a86d0/source/60x60bb.jpg",
+    "favicon": "https://assets.website-files.com/5f5ff904eff116e46575e21b/5f6007dbf31b43899f2f51c9_Beatzz%20Logo%20Wei%C3%9F-p-800.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -56860,7 +56888,7 @@
     "favicon": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-28T13:47:32Z"
+    "updatedAt": "2026-11-02T14:23:44Z"
   },
   {
     "id": "awb_aec2687c3ccce7b89ec1",
@@ -68621,13 +68649,13 @@
     "id": "awb_53e791fb0662ddaf1467",
     "name": "Radio 21 Hildesheim",
     "country": "DE",
-    "subdivision": "Niedersachsen",
+    "subdivision": "Lower Saxony",
     "languages": [
       "de"
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radio21.de/radioplayer/hildesheim/",
+    "homepage": "https://www.radio21.de/",
     "favicon": "https://www.radio21.de/favicon.ico",
     "type": null,
     "sourceCount": 2,
@@ -73734,6 +73762,34 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-12T08:42:49Z"
+  },
+  {
+    "id": "awb_0a4a35426f5d93be280e",
+    "name": "Radio ChessBase",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "categories": [
+      "folk",
+      "jazz",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "disco",
+      "folk",
+      "jazz",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://radio.chessbase.com/",
+    "favicon": "https://radio.chessbase.com/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T12:41:43Z"
   },
   {
     "id": "awb_f063f3f5a830ec11edc5",
@@ -80116,6 +80172,32 @@
     "updatedAt": "2026-01-15T03:40:06Z"
   },
   {
+    "id": "awb_dbc52e77d6614c67982d",
+    "name": "Radio PowerVoice",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "hip-hop",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "80er",
+      "hip-hop",
+      "pop",
+      "rock",
+      "schlager"
+    ],
+    "homepage": "https://radio-powervoice.com/",
+    "favicon": "https://radio-powervoice.com/favicon.ico",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-01T17:19:22Z"
+  },
+  {
     "id": "awb_0398eda127abf9ef05ca",
     "name": "Radio Preston Air",
     "country": "DE",
@@ -85623,7 +85705,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
+    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"
@@ -85779,32 +85861,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:45:26Z"
-  },
-  {
-    "id": "awb_dbc52e77d6614c67982d",
-    "name": "Radio-PowerVoice",
-    "country": "DE",
-    "subdivision": "Lower Saxony",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "hip-hop",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "80er",
-      "hip-hop",
-      "pop",
-      "rock",
-      "schlager"
-    ],
-    "homepage": "https://radio-powervoice.com/",
-    "favicon": "https://radio-powervoice.com/favicon.ico",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-01T17:19:22Z"
   },
   {
     "id": "awb_c2b7239162948e6ae7e6",

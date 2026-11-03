@@ -6266,6 +6266,34 @@
     "updatedAt": "2026-01-15T07:10:26Z"
   },
   {
+    "id": "awb_7bc7b396f09c9a9721d5",
+    "name": "hitspowerfm",
+    "country": "NL",
+    "subdivision": "Drenthe",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.hitspowerfm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T14:39:51Z"
+  },
+  {
+    "id": "awb_a6bb749f013d9c3f790f",
+    "name": "hitspowerfm",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.hitspowerfm,nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T10:13:55Z"
+  },
+  {
     "id": "awb_ac60d95673b7cd0449bf",
     "name": "Hitstream FM",
     "country": "NL",
@@ -8582,7 +8610,7 @@
     "id": "awb_54c38625fb0d85da7d96",
     "name": "Langstraat FM",
     "country": "NL",
-    "subdivision": "Noord-Brabant, Waalwijk",
+    "subdivision": "Noord-Brabant",
     "languages": [
       "nl"
     ],
@@ -8599,8 +8627,8 @@
       "regional",
       "top 40"
     ],
-    "homepage": "https://www.langstraatmedia.nl/langstraat-fm/",
-    "favicon": "https://www.langstraatmedia.nl/logos/LangstraatFM.png",
+    "homepage": "https://www.langstraatmedia.nl/",
+    "favicon": "https://www.langstraatmedia.nl/favicon.ico",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-18T15:42:14Z"
@@ -9159,7 +9187,7 @@
     "id": "awb_8a0d399c51b7ae5a645a",
     "name": "MeerRadio",
     "country": "NL",
-    "subdivision": "Noord-Holland, Haarlemmermeer",
+    "subdivision": "Noord-Holland",
     "languages": [
       "nl"
     ],
@@ -9173,7 +9201,7 @@
       "local news",
       "pop music"
     ],
-    "homepage": "https://meerradio.nl/",
+    "homepage": "https://meerradio.nl/radio/luister-naar-meerradio/",
     "favicon": "https://meerradio.nl/wp-content/uploads/2023/07/Watermerk-meerradio.png",
     "type": "community",
     "sourceCount": 2,
@@ -11247,7 +11275,7 @@
     "id": "awb_a7dd28c5f273b7244e3a",
     "name": "Omroep Lekstroom",
     "country": "NL",
-    "subdivision": "Utrecht, De Houten, Bergveste 2",
+    "subdivision": "Bergveste 2, DE HOUTEN",
     "languages": [
       "nl"
     ],
@@ -17689,6 +17717,27 @@
     "updatedAt": "2026-05-10T18:55:06Z"
   },
   {
+    "id": "awb_52f644ac9bb19804b1cb",
+    "name": "ReJo Radio",
+    "country": "NL",
+    "subdivision": "Groningen",
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [
+      "90's",
+      "hollandse muziek",
+      "nederlandstalig",
+      "piratenhits"
+    ],
+    "homepage": "https://rejoradio.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T20:50:51Z"
+  },
+  {
     "id": "awb_d10b50b4524f6fc64628",
     "name": "Relax FM Online",
     "country": "NL",
@@ -21467,9 +21516,9 @@
   },
   {
     "id": "awb_b16cb8fb0301d988230e",
-    "name": "Wonderjaren streaming radio",
+    "name": "Wonderjaren - Streaming radio",
     "country": "NL",
-    "subdivision": "Noord Brabant",
+    "subdivision": "Noord-Brabant, Oss",
     "languages": [
       "nl"
     ],
@@ -21492,7 +21541,7 @@
       "news",
       "pop music"
     ],
-    "homepage": "https://www.wonderjaren.nl/",
+    "homepage": "https://wonderjaren.nl/",
     "favicon": null,
     "type": "internet",
     "sourceCount": 3,

@@ -185,6 +185,28 @@
     "updatedAt": "2026-05-15T15:16:24Z"
   },
   {
+    "id": "awb_9beb420165fda76ca567",
+    "name": "🍒 La Radio sous la Cerise 🍒",
+    "country": "FR",
+    "subdivision": "Normandie",
+    "languages": [
+      "br",
+      "fr"
+    ],
+    "categories": [
+      "kids"
+    ],
+    "tags": [
+      "kids",
+      "musiques des enfants"
+    ],
+    "homepage": "https://laradio.souslacerise.fr/",
+    "favicon": "https://laradio.souslacerise.fr/wp-content/uploads/sites/10/2016/11/cropped-Picto-radio-sous-la-cerise-icone-270x270.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-03-30T15:32:12Z"
+  },
+  {
     "id": "awb_5e7481e16203ed9a5f71",
     "name": "📺 RFI Monde",
     "country": "FR",
@@ -2113,7 +2135,7 @@
       "pop"
     ],
     "homepage": "https://airconnectradio.com/",
-    "favicon": "https://airconnectradio.com/img/logo.png",
+    "favicon": "https://airconnectradio.com/wp-content/uploads/2025/01/ac-grand.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-04-30T12:56:57Z"
@@ -5238,7 +5260,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao-Radio",
+    "name": "Cacao Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -22397,28 +22419,6 @@
     "updatedAt": "2026-01-15T07:42:26Z"
   },
   {
-    "id": "awb_9beb420165fda76ca567",
-    "name": "La radio sous la cerise",
-    "country": "FR",
-    "subdivision": "Normandie",
-    "languages": [
-      "br",
-      "fr"
-    ],
-    "categories": [
-      "kids"
-    ],
-    "tags": [
-      "kids",
-      "musiques des enfants"
-    ],
-    "homepage": "https://laradio.souslacerise.fr/radio/",
-    "favicon": "https://laradio.souslacerise.fr/wp-content/uploads/sites/10/2016/11/cropped-Picto-radio-sous-la-cerise-icone-270x270.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-30T15:32:12Z"
-  },
-  {
     "id": "awb_49fa50d006b247db56b7",
     "name": "La Vilaine Radio",
     "country": "FR",
@@ -25951,7 +25951,7 @@
       "study"
     ],
     "homepage": "https://mugenradio.com/",
-    "favicon": "https://mugenradio.com/cover-mugen-3000.png",
+    "favicon": "https://mugenradio.com/cover-mugen-300.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-06-25T15:09:39Z"
@@ -27700,7 +27700,7 @@
       "pop dance",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-generation-90",
+    "homepage": "https://www.nostalgie.fr/",
     "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/nosta90.jpeg",
     "type": "internet",
     "sourceCount": 3,
@@ -28695,7 +28695,7 @@
       "soul",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/",
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-soul",
     "favicon": null,
     "type": "internet",
     "sourceCount": 2,
@@ -35379,7 +35379,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.plumfm.net/",
-    "favicon": "https://static.wixstatic.com/media/695ef4_9d20d326e8d243788c285f11121c9994~mv2.png/v1/crop/x_0,y_2,w_2101,h_737/fill/w_326,h_114,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20ok%20PLUMFM.png",
+    "favicon": "https://static.wixstatic.com/media/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
@@ -48060,7 +48060,7 @@
       "metal"
     ],
     "homepage": "https://lesonunique.com/mysun/parcourir/sun-metal",
-    "favicon": "https://assets.radioplayer.org/250/2501928/600/600/m6gk7w9y.png",
+    "favicon": "https://assets.radioplayer.org/250/2501923/600/600/mrp1g2m0.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-02T03:21:24Z"

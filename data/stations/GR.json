@@ -7874,6 +7874,26 @@
     "updatedAt": "2026-01-14T23:18:26Z"
   },
   {
+    "id": "awb_7f039231332c5d8c099f",
+    "name": "Era sport",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/eraspor/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T09:52:48Z"
+  },
+  {
     "id": "awb_ee593587a93827427d81",
     "name": "ERA Trito Programma",
     "country": "GR",
@@ -8012,20 +8032,21 @@
     "id": "awb_92a2fd158135e942e16b",
     "name": "ERT 958FM",
     "country": "GR",
-    "subdivision": null,
+    "subdivision": "Athens",
     "languages": [
       "el"
     ],
     "categories": [],
     "tags": [
       "22.9444° e",
-      "40.6401° n"
+      "40.6401° n",
+      "culture"
     ],
     "homepage": "https://www.ertecho.gr/radio/958fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:06:33Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-02T12:32:09Z"
   },
   {
     "id": "awb_c590392f3be2c7556249",
@@ -8430,13 +8451,14 @@
       "classical"
     ],
     "tags": [
+      "classical",
       "classical music"
     ],
     "homepage": "https://www.ertecho.gr/radio/tritomaestro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:44:43Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-02T12:47:42Z"
   },
   {
     "id": "awb_94fac1eebd47fbe68525",
@@ -8518,6 +8540,274 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:25:41Z"
+  },
+  {
+    "id": "awb_89a4730f6f222476a6b6",
+    "name": "ERT-102fm",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/102fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T12:41:42Z"
+  },
+  {
+    "id": "awb_bfbbdf879dbce8ffdebd",
+    "name": "ERT-deftero",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "greek"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/deftero/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T11:38:58Z"
+  },
+  {
+    "id": "awb_e474b739ef8678f76ba5",
+    "name": "ERT-deftero-laika",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "laika"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/deftero-laika/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T12:35:58Z"
+  },
+  {
+    "id": "awb_13d9b30c6a9c6f445ee9",
+    "name": "ERT-eraspor",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/eraspor/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T12:24:25Z"
+  },
+  {
+    "id": "awb_9c0970f60196df4d7bd7",
+    "name": "ERT-ertnewsradio",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/ertnewsradio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T11:33:11Z"
+  },
+  {
+    "id": "awb_7db88887ed600d630741",
+    "name": "ERT-i-foni-tis-elladas",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "international"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/i-foni-tis-elladas/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T12:24:25Z"
+  },
+  {
+    "id": "awb_7063baa9886b96b332e6",
+    "name": "ERT-kosmos",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "international"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/kosmos/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T12:12:53Z"
+  },
+  {
+    "id": "awb_6f6abb26cfc8ad160f9f",
+    "name": "ERT-kosmos-jazz",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/kosmos-jazz/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T12:45:44Z"
+  },
+  {
+    "id": "awb_46de2b4bfa91469cc9e2",
+    "name": "ERT-nowhitsradio",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/nowhitsradio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T13:03:56Z"
+  },
+  {
+    "id": "awb_65f5b6ba0ae4d6b4027c",
+    "name": "ERT-radio80s",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "80's"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/radio80s/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T12:47:42Z"
+  },
+  {
+    "id": "awb_f8c6342fcd0f6ee4c509",
+    "name": "ERT-radio90s",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "90s"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/radio90s/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T12:51:36Z"
+  },
+  {
+    "id": "awb_e248d38d9ff11a34734b",
+    "name": "ERT-trito",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/trito/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T11:59:26Z"
+  },
+  {
+    "id": "awb_e121afd60fc124073fcc",
+    "name": "ERT-vintageradio",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "retro"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/vintageradio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T13:03:56Z"
+  },
+  {
+    "id": "awb_dbf39f52a134151a0541",
+    "name": "ERT-zeppelin",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/zeppelin/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T12:18:41Z"
   },
   {
     "id": "awb_328e4f06854981e3d143",
@@ -13823,6 +14113,24 @@
     "updatedAt": "2026-01-15T06:01:29Z"
   },
   {
+    "id": "awb_9d5f9f64abaabb0da2d8",
+    "name": "Magic FM Agrinio",
+    "country": "GR",
+    "subdivision": "Agrinio",
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "http://www.magicfmagrinio.net/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/2879cd6a-afdd-497e-9f18-a865010b4755.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T16:58:57Z"
+  },
+  {
     "id": "awb_cf01bc2aecf3428c0d87",
     "name": "Makedonia 1386",
     "country": "GR",
@@ -14158,6 +14466,24 @@
     "updatedAt": "2026-10-06T19:19:19Z"
   },
   {
+    "id": "awb_87c15d3c353432da76f0",
+    "name": "Melodia Kerkyra",
+    "country": "GR",
+    "subdivision": "Kerkyra",
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://www.melodiakerkyra.com/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/8c15ea0e-3a2e-4a3c-a196-b23b3c3640ea.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T17:18:36Z"
+  },
+  {
     "id": "awb_023af2b8d5412fb76eb0",
     "name": "Melodies Web Radio",
     "country": "GR",
@@ -14357,6 +14683,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_6fd6987d4328fc52458c",
+    "name": "Memory GR",
+    "country": "GR",
+    "subdivision": "Preveza",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult hits"
+    ],
+    "homepage": "https://www.radio-memory.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/5bf767a6-cb02-447f-9023-8d24ab2a3b05.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T17:35:05Z"
+  },
+  {
     "id": "awb_9f6c0331b6b9bf636b12",
     "name": "MENTA 88",
     "country": "GR",
@@ -14448,6 +14792,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_138634ab82c6c23b2697",
+    "name": "Metal Radio GR",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://metalradio.gr/",
+    "favicon": "https://i0.wp.com/metalradio.gr/wp-content/uploads/2019/11/cropped-metalradiogr_logo.png?fit=300%2C300&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T17:44:16Z"
   },
   {
     "id": "awb_878fd2f847a263ca1cd6",
@@ -15416,6 +15774,24 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_5b463e47b2b325d06031",
+    "name": "Music Galaxy GR",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://musicgalaxy.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/5dfc6808-ac7d-4aff-bcee-3a217b41554a.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T18:32:13Z"
+  },
+  {
     "id": "awb_09e7db9e42fee97cadf8",
     "name": "Music Life 95.1",
     "country": "GR",
@@ -15554,6 +15930,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:53:55Z"
+  },
+  {
+    "id": "awb_78ff23b9385a22459e57",
+    "name": "Musix Channel",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "http://musixchannel.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/12e31f34-f346-45a7-ba77-87ccd2bc29f3.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T18:50:53Z"
   },
   {
     "id": "awb_8f7e665b897c59de6b75",
@@ -15798,6 +16192,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-12T06:29:42Z"
+  },
+  {
+    "id": "awb_d615584f53ff93132547",
+    "name": "Mystiko Radio",
+    "country": "GR",
+    "subdivision": "Nafpaktos",
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://mystiko-radio.eu/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/2ce65db7-b753-4c85-8698-0f419cc401ab.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T19:04:18Z"
   },
   {
     "id": "awb_f538d634c0b830754a1e",
@@ -34801,6 +35213,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:36:26Z"
+  },
+  {
+    "id": "awb_e1be4578fc1cc08abd92",
+    "name": "Μικρασιάτης",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "greek traditional"
+    ],
+    "homepage": "https://mikrasiatis.gr/",
+    "favicon": "https://mikrasiatis.gr/wp-content/uploads/2023/06/logo-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T17:55:50Z"
   },
   {
     "id": "awb_96b83b1ed1344197a5ad",

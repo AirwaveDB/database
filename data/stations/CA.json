@@ -25428,6 +25428,32 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_d3a0470408cf622de5ca",
+    "name": "Radio Downtown",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "oldies"
+    ],
+    "tags": [
+      "60s",
+      "70s",
+      "80s",
+      "country",
+      "easy listening",
+      "oldies"
+    ],
+    "homepage": "https://radiodowntown.ca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-03T00:39:26Z"
+  },
+  {
     "id": "awb_130237ae25500e989966",
     "name": "Radio Emily.ca - Emily Carr University of Art & Design - Vancouver, BC",
     "country": "CA",
@@ -27006,6 +27032,30 @@
     "updatedAt": "2026-09-23T06:48:34Z"
   },
   {
+    "id": "awb_4d2fdb7f26e5b7c60733",
+    "name": "SFM",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "90s",
+      "non-stop",
+      "oldies",
+      "pop"
+    ],
+    "homepage": "https://streemlion.com/",
+    "favicon": "https://edfm.nl/SFM00.png",
+    "type": null,
+    "sourceCount": 3,
+    "updatedAt": "2026-11-02T16:40:28Z"
+  },
+  {
     "id": "awb_7220d70b70b8ad58ebd8",
     "name": "SHER E PUNJAB AM 600",
     "country": "CA",
@@ -27361,7 +27411,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto, ON",
+    "subdivision": "Toronto",
     "languages": [],
     "categories": [
       "jazz"
@@ -27370,7 +27420,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,

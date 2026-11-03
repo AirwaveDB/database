@@ -2900,7 +2900,7 @@
       "soul",
       "talk"
     ],
-    "homepage": "https://www.laserinternational.co.uk/archive-radio",
+    "homepage": "https://www.laserinternational.co.uk/",
     "favicon": "https://primary.jwwb.nl/public/t/a/i/temp-dozjcpvcaeqpdalqxwlr/1000090564-ig-profile-photo-320-320-high.png?enable-io=true&width=532",
     "type": null,
     "sourceCount": 2,
@@ -3517,6 +3517,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-17T22:47:26Z"
+  },
+  {
+    "id": "awb_1374a972cb8e642eda07",
+    "name": "BBC 6 Music",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_6music",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-02T18:21:54Z"
   },
   {
     "id": "awb_1599852d9b7e37deec03",
@@ -27222,7 +27236,7 @@
       "pop"
     ],
     "homepage": "https://www.radiohillingdon.com/",
-    "favicon": "https://www.radiohillingdon.com/images/Listen%20Live%20Button%202023.png",
+    "favicon": "https://www.radiohillingdon.com/images/RH%20Logo%202023%20website_footer.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-05T23:55:52Z"
@@ -30389,22 +30403,8 @@
     "updatedAt": "2026-01-15T08:38:09Z"
   },
   {
-    "id": "awb_4d900e46928ed7781c23",
-    "name": "Rokit Radio 1940s Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www2.rokitradio.com/",
-    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_f76b3b62acdafadb1e33",
-    "name": "ROKit Radio Science Fiction",
+    "name": "ROKiT Radio : Science Fiction",
     "country": "GB",
     "subdivision": "London, England",
     "languages": [
@@ -30421,10 +30421,24 @@
       "scifi"
     ],
     "homepage": "https://rokitradio.com/",
-    "favicon": "https://rokitradio.com/images/channels/scifi.jpg",
+    "favicon": "https://rokitradio.com/images/rokit-radio-mic.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:11:46Z"
+  },
+  {
+    "id": "awb_4d900e46928ed7781c23",
+    "name": "Rokit Radio 1940s Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www2.rokitradio.com/",
+    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_4f80b87c36c6127a0778",
@@ -30577,6 +30591,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:57:53Z"
+  },
+  {
+    "id": "awb_cc7b73ac3569616daa36",
+    "name": "Ruislip Live",
+    "country": "GB",
+    "subdivision": "London",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://ruisliplive.co.uk/",
+    "favicon": "https://ruisliplive.co.uk/assets/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T01:23:19Z"
   },
   {
     "id": "awb_e148b207294c68ba1a4e",
@@ -32398,7 +32426,7 @@
     "id": "awb_0d84734a9ee1e4dddcf0",
     "name": "Soul Rhythms Radio UK",
     "country": "GB",
-    "subdivision": "London, England",
+    "subdivision": "Kent",
     "languages": [
       "en"
     ],
@@ -32441,7 +32469,7 @@
       "soul",
       "soul music"
     ],
-    "homepage": "https://soulrhythmsradio.com/home/",
+    "homepage": "https://soulrhythmsradio.com/",
     "favicon": "https://soulrhythmsradio.com/wp-content/uploads/2023/12/SRR-LOGOTHIS_ONE.jpg",
     "type": null,
     "sourceCount": 6,
@@ -35393,6 +35421,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_29ada21bc793b547caed",
+    "name": "Truth FM UK",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "a cappella",
+      "christian preaching",
+      "christian worship"
+    ],
+    "homepage": "https://truthfm.live/truthfm-uk/",
+    "favicon": "https://truthfm.live/wp-content/uploads/2026/09/truthfm-uk-radio-square.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T01:36:12Z"
   },
   {
     "id": "awb_d750c79f06284e9095eb",
