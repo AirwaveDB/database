@@ -14306,6 +14306,22 @@
     "updatedAt": "2026-01-15T07:33:27Z"
   },
   {
+    "id": "awb_651c3c2c5f29074c5bbd",
+    "name": "AAC Stream 64kbits",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://stream.solid-software.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T15:07:01Z"
+  },
+  {
     "id": "awb_a751b7b518cc9e955028",
     "name": "Absolut 80ER",
     "country": "DE",
@@ -19404,7 +19420,7 @@
   },
   {
     "id": "awb_1d190ad77ab885676d97",
-    "name": "arberwaldradio",
+    "name": "Arberwaldradio",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -19414,7 +19430,7 @@
     "tags": [
       "folk"
     ],
-    "homepage": "https://www.arberwoidradio.com/",
+    "homepage": "https://arberwoidradio.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -26726,7 +26742,7 @@
     "id": "awb_4d93db1f5602c64a3ae1",
     "name": "Club85",
     "country": "DE",
-    "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
+    "subdivision": "Baden-Württemberg",
     "languages": [
       "de"
     ],
@@ -38521,7 +38537,7 @@
       "rock",
       "soul"
     ],
-    "homepage": "https://flaemingradio.de/",
+    "homepage": "https://www.flaemingradio.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -68649,13 +68665,13 @@
     "id": "awb_53e791fb0662ddaf1467",
     "name": "Radio 21 Hildesheim",
     "country": "DE",
-    "subdivision": "Lower Saxony",
+    "subdivision": "Niedersachsen",
     "languages": [
       "de"
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radio21.de/",
+    "homepage": "https://www.radio21.de/radioplayer/hildesheim/",
     "favicon": "https://www.radio21.de/favicon.ico",
     "type": null,
     "sourceCount": 2,
@@ -73518,7 +73534,7 @@
     "id": "awb_7de0ca0a0de8e897860e",
     "name": "Radio Budowlaniec",
     "country": "DE",
-    "subdivision": "Deutschland / NRW /",
+    "subdivision": "Deutschland und NRW",
     "languages": [
       "de",
       "pl"
@@ -73543,7 +73559,7 @@
       "radio internetowe"
     ],
     "homepage": "https://radio-budowlaniec.de/",
-    "favicon": "https://radio-budowlaniec.de/sites/default/files/2026-04/user-radio.png",
+    "favicon": "https://radio-budowlaniec.de/sites/default/files/512.1%20logo%20rund.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-28T19:33:32Z"
@@ -78615,6 +78631,27 @@
     "updatedAt": "2026-06-22T13:36:43Z"
   },
   {
+    "id": "awb_5d72db4e7bcbab8bc322",
+    "name": "Radio LOTTE Weimar",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "alternative",
+      "news"
+    ],
+    "homepage": "https://www.radiolotte.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T08:50:33Z"
+  },
+  {
     "id": "awb_efd6b1670a68db00dc60",
     "name": "Radio Love On Air 2010",
     "country": "DE",
@@ -83521,6 +83558,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_46a4816565ec71f4e62b",
+    "name": "Radio Segenswelle Deutsch",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.sw-radio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T14:18:03Z"
   },
   {
     "id": "awb_3869d5f85aeb01cda87b",
@@ -103321,6 +103372,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-24T14:05:10Z"
+  },
+  {
+    "id": "awb_664edcdbd6164f5f2a8b",
+    "name": "The Variety Mix",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio.redditblackout.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T07:36:12Z"
   },
   {
     "id": "awb_478f5db3e921cf8338b9",

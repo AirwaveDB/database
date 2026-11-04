@@ -1812,6 +1812,22 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_5a0e853ea734d1d47c9e",
+    "name": "Booty Bay Pirate Radio",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio.octowow.st/public/booty_bay_pirate_radio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T19:34:32Z"
+  },
+  {
     "id": "awb_cdd051f2b944f48272cf",
     "name": "boy woortman",
     "country": "NL",
@@ -8610,7 +8626,7 @@
     "id": "awb_54c38625fb0d85da7d96",
     "name": "Langstraat FM",
     "country": "NL",
-    "subdivision": "Noord-Brabant",
+    "subdivision": "Noord-Brabant, Waalwijk",
     "languages": [
       "nl"
     ],
@@ -8627,8 +8643,8 @@
       "regional",
       "top 40"
     ],
-    "homepage": "https://www.langstraatmedia.nl/",
-    "favicon": "https://www.langstraatmedia.nl/favicon.ico",
+    "homepage": "https://www.langstraatmedia.nl/langstraat-fm/",
+    "favicon": "https://www.langstraatmedia.nl/logos/LangstraatFM.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-18T15:42:14Z"
@@ -12920,12 +12936,12 @@
     "id": "awb_14ceba8d1d61b15cdc22",
     "name": "Power FM Breda",
     "country": "NL",
-    "subdivision": "Noord-Brabant",
+    "subdivision": "Noord Brabant",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://powerfmbreda.x10.mx/",
-    "favicon": "https://powerfmbreda.x10.mx/wp-content/uploads/fbrfg/favicon.svg",
+    "favicon": "https://powerfmbreda.x10.mx/favicon.png",
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-03-11T09:52:26Z"
@@ -21516,9 +21532,9 @@
   },
   {
     "id": "awb_b16cb8fb0301d988230e",
-    "name": "Wonderjaren - Streaming radio",
+    "name": "Wonderjaren streaming radio",
     "country": "NL",
-    "subdivision": "Noord-Brabant, Oss",
+    "subdivision": "Noord Brabant",
     "languages": [
       "nl"
     ],
@@ -21541,7 +21557,7 @@
       "news",
       "pop music"
     ],
-    "homepage": "https://wonderjaren.nl/",
+    "homepage": "https://www.wonderjaren.nl/",
     "favicon": null,
     "type": "internet",
     "sourceCount": 3,

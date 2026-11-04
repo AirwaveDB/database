@@ -297,6 +297,58 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_eb26851b16c977a3fad8",
+    "name": "Český rozhlas Karlovy Vary",
+    "country": "CZ",
+    "subdivision": "Karlovarský kraj",
+    "languages": [
+      "cs"
+    ],
+    "categories": [
+      "news",
+      "public",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "public radio",
+      "regional",
+      "talk"
+    ],
+    "homepage": "https://vary.rozhlas.cz/",
+    "favicon": "https://portal.rozhlas.cz/sites/default/files/logoikona/podcast-kv.jpg",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T13:19:32Z"
+  },
+  {
+    "id": "awb_5839ba9ba8067fd24405",
+    "name": "Český rozhlas Střední Čechy",
+    "country": "CZ",
+    "subdivision": "Středočeský kraj",
+    "languages": [
+      "cs"
+    ],
+    "categories": [
+      "news",
+      "public",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "public radio",
+      "regional",
+      "talk"
+    ],
+    "homepage": "https://strednicechy.rozhlas.cz/",
+    "favicon": "https://portal.rozhlas.cz/sites/default/files/logoikona/podcast-strednicechy.jpg",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T13:19:32Z"
+  },
+  {
     "id": "awb_896bd2f36d8906fe49e6",
     "name": "Chat Rádio",
     "country": "CZ",
@@ -954,7 +1006,7 @@
   },
   {
     "id": "awb_c92e661791babe438ff3",
-    "name": "ČRO Radiožurnál sport Adhoc stream 2",
+    "name": "ČRO Radiožurnál sport AdHoc stream 2",
     "country": "CZ",
     "subdivision": null,
     "languages": [
@@ -2970,13 +3022,14 @@
     ],
     "categories": [],
     "tags": [
-      "alternative"
+      "alternative",
+      "indie"
     ],
     "homepage": "http://www.radio1.cz/",
-    "favicon": null,
+    "favicon": "https://www.radio1.cz/wp-content/uploads/2021/02/radio1-logo.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:27:56Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-03T10:10:31Z"
   },
   {
     "id": "awb_c75cd2e6c95ce73ec0c1",

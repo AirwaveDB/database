@@ -11101,6 +11101,32 @@
     "updatedAt": "2026-01-15T00:49:40Z"
   },
   {
+    "id": "awb_479cba62392383dc9138",
+    "name": "Radio Canale Italia FM 90.4",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "news",
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "2000s",
+      "80s",
+      "90s",
+      "news",
+      "pop"
+    ],
+    "homepage": "https://canaleitalia.it/radio/radio-canale-italia/",
+    "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/2b/26/492b2608-52c8-053e-2603-e163f2ca4432/AppRadioCanaleItalia-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/1024x1024bb.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T13:20:36Z"
+  },
+  {
     "id": "awb_22de47d8e4f8310a67da",
     "name": "Radio Canelli Monferrato",
     "country": "IT",
@@ -26253,7 +26279,7 @@
   },
   {
     "id": "awb_11ab40cc55b8779b4047",
-    "name": "RCUNO",
+    "name": "rcuno",
     "country": "IT",
     "subdivision": null,
     "languages": [
@@ -26271,7 +26297,7 @@
       "rock"
     ],
     "homepage": "http://rcuno.altervista.org/",
-    "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/cropped-RCUNO1.jpg",
+    "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/RCUNO1.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-15T15:59:50Z"

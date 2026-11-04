@@ -1180,6 +1180,27 @@
     "updatedAt": "2026-08-15T13:00:41Z"
   },
   {
+    "id": "awb_9d53b63662b938957959",
+    "name": "730 CKNW",
+    "country": "CA",
+    "subdivision": "BC",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news talk"
+    ],
+    "homepage": "https://globalnews.ca/pages/contact-cknw/?utm_source=chatgpt.com",
+    "favicon": "https://globalnews.ca/wp-content/uploads/2025/02/730-CKNW-WEB_TILE.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T02:52:56Z"
+  },
+  {
     "id": "awb_5232329f8d81fd1f020d",
     "name": "80's New Wave Radio",
     "country": "CA",
@@ -1445,8 +1466,8 @@
     "tags": [
       "kpop"
     ],
-    "homepage": "https://colemac1.wixsite.com/kool96internetradio",
-    "favicon": "https://static.wixstatic.com/media/2f97ed_965e4fe505524ec5aa4a7407b7cabcf0~mv2.png/v1/fill/w_302,h_220,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPOILER_96_kool_fm_cswk-ir_logo.png",
+    "homepage": "http://colemac1.wixsite.com/kool96internetradio",
+    "favicon": "https://static.wixstatic.com/media/2f97ed_435f0f87b6c447c8839a2e4ffbf59d1d~mv2.png/v1/fill/w_202,h_119,al_c,lg_1,q_85,enc_avif,quality_auto/image_2026-09-11_173757385.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-26T23:37:51Z"
@@ -6011,7 +6032,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -6029,7 +6050,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://cfnj.net/",
+    "homepage": "http://www.cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,

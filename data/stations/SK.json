@@ -173,6 +173,74 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_417e34c3f0a33acbc322",
+    "name": "Europa 2 - Fitness",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [
+      "sk"
+    ],
+    "categories": [],
+    "tags": [
+      "fitness"
+    ],
+    "homepage": "https://rayo.sk/fitness",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:05:42Z"
+  },
+  {
+    "id": "awb_1f00dabfa25a7b4dbc97",
+    "name": "Europa 2 - Radio Show",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rayo.sk/radioshow-mix",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:04:41Z"
+  },
+  {
+    "id": "awb_861154af32e4eadaf3df",
+    "name": "Europa 2 - Top 40",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rayo.sk/top40",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:05:41Z"
+  },
+  {
+    "id": "awb_0764844d410de16f6d79",
+    "name": "Europa 2 - Zvuk ulice",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [
+      "sk"
+    ],
+    "categories": [
+      "electronic",
+      "hip-hop"
+    ],
+    "tags": [
+      "house",
+      "rap"
+    ],
+    "homepage": "https://rayo.sk/zvuk-ulice",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:08:10Z"
+  },
+  {
     "id": "awb_b4be625d0e56dc8c5635",
     "name": "Fit family Radio",
     "country": "SK",
@@ -551,6 +619,92 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_05ab519dbcfc71ceb428",
+    "name": "Melody - Best Of 80s",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "cz-sk",
+      "retro hits"
+    ],
+    "homepage": "https://rayo.sk/best-of-80s",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:11:44Z"
+  },
+  {
+    "id": "awb_11f3d2aea4d31f8c3202",
+    "name": "Melody - Československá diskotéka",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "cz-sk"
+    ],
+    "homepage": "https://rayo.sk/ceskoslovenska-diskoteka",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:13:14Z"
+  },
+  {
+    "id": "awb_892255991ed5a1c7a785",
+    "name": "Melody - Filmové hity",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "movie music",
+      "movie soundtracks"
+    ],
+    "homepage": "https://rayo.sk/filmove-hity",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:09:24Z"
+  },
+  {
+    "id": "awb_aacab486b78f85d1b839",
+    "name": "Melody - Najkrajšie slaďáky",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "love songs"
+    ],
+    "homepage": "https://rayo.sk/balady-vsetkych-cias",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:10:47Z"
+  },
+  {
+    "id": "awb_8140b8598e5529db1360",
+    "name": "Melody - Oldies Party",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "oldies"
+    ],
+    "homepage": "https://rayo.sk/oldies-party",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:12:31Z"
   },
   {
     "id": "awb_b4852042a3217c0a39bb",
@@ -947,6 +1101,72 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-14T14:17:51Z"
+  },
+  {
+    "id": "awb_9143b6861b6e3e88fb71",
+    "name": "Rádio Expres - Best Of 90s",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "90's"
+    ],
+    "homepage": "https://rayo.sk/best-of-90",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:14:27Z"
+  },
+  {
+    "id": "awb_b399e0579e2040a741b7",
+    "name": "Rádio Expres - Detské hity",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "kids"
+    ],
+    "tags": [
+      "children",
+      "kids"
+    ],
+    "homepage": "https://rayo.sk/detske-radio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:20:03Z"
+  },
+  {
+    "id": "awb_d5d2b6f752459bd098e4",
+    "name": "Rádio Expres - Lovesongs",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "love songs",
+      "lovesongs"
+    ],
+    "homepage": "https://rayo.sk/lovesongs",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:19:24Z"
+  },
+  {
+    "id": "awb_b907e0f8678141fa8392",
+    "name": "Rádio Expres - Millennials",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rayo.sk/millenials",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:18:33Z"
   },
   {
     "id": "awb_f5b7a10af6184287c651",
@@ -1539,6 +1759,79 @@
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-09-23T12:26:49Z"
+  },
+  {
+    "id": "awb_e14f86118411304ce7d9",
+    "name": "Rádio ROCK - Classic Rock",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "classic rock"
+    ],
+    "homepage": "https://rayo.sk/classic-rock",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:19:52Z"
+  },
+  {
+    "id": "awb_ccddeea5d3d6d5c070a7",
+    "name": "Rádio ROCK - Grunge 90s",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "80s 90s grunge",
+      "grunge"
+    ],
+    "homepage": "https://rayo.sk/grunge-90s",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:21:30Z"
+  },
+  {
+    "id": "awb_74c4032956ffab62f045",
+    "name": "Rádio ROCK - Hard Rock",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "hard rock"
+    ],
+    "homepage": "https://rayo.sk/hard-rock",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:21:39Z"
+  },
+  {
+    "id": "awb_54a8dae13056c3737a74",
+    "name": "Rádio ROCK - Rockové balady",
+    "country": "SK",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock ballads"
+    ],
+    "homepage": "https://rayo.sk/rockove-balady",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T16:22:41Z"
   },
   {
     "id": "awb_b5ec389355123c8dd943",

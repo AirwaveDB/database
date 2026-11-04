@@ -2201,6 +2201,26 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_934b1f270e428d2875af",
+    "name": "Afghan Beats Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "afghan",
+      "afghan music",
+      "pop"
+    ],
+    "homepage": "https://www.afghanbeatsradio.com/",
+    "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/30/9d/47/309d47cd-d561-83c4-27d7-8b718097036f/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1024x1024bb.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T13:19:21Z"
+  },
+  {
     "id": "awb_fc198ea8341b760894ac",
     "name": "AI On Air",
     "country": "GB",
@@ -2900,7 +2920,7 @@
       "soul",
       "talk"
     ],
-    "homepage": "https://www.laserinternational.co.uk/",
+    "homepage": "https://www.laserinternational.co.uk/archive-radio",
     "favicon": "https://primary.jwwb.nl/public/t/a/i/temp-dozjcpvcaeqpdalqxwlr/1000090564-ig-profile-photo-320-320-high.png?enable-io=true&width=532",
     "type": null,
     "sourceCount": 2,
@@ -11912,6 +11932,25 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_0b01ce02bee7f912ad71",
+    "name": "Easy Radio Network",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "beautiful music",
+      "easy listening"
+    ],
+    "homepage": "https://www.getmeradio.com/stations/easyradionetwork-5807/",
+    "favicon": "https://www.getmeradio.com/stations/easyradionetwork-5807/logos/1024x500.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T04:46:42Z"
+  },
+  {
     "id": "awb_d04831e83b293d18d63a",
     "name": "EasyListening.com",
     "country": "GB",
@@ -12202,6 +12241,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_c9829d245ddccbab022d",
+    "name": "Energy FM Old School Classics",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.energyfm.co.uk/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T11:49:38Z"
   },
   {
     "id": "awb_800f4ea4f0b3232276c7",
@@ -15221,6 +15274,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-04T21:11:30Z"
+  },
+  {
+    "id": "awb_17fa4a64cff39eade8fd",
+    "name": "HaulFM",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://haul.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T21:16:53Z"
   },
   {
     "id": "awb_fdb370f3b1f43a802e50",
@@ -19803,6 +19870,39 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-27T14:58:06Z"
+  },
+  {
+    "id": "awb_c11b8bf6d85dbf225374",
+    "name": "Leandra's Grooves Radio",
+    "country": "GB",
+    "subdivision": "London, England",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "hip-hop",
+      "pop",
+      "reggae",
+      "rock"
+    ],
+    "tags": [
+      "classic hits",
+      "disco",
+      "funk",
+      "hip-hop",
+      "house",
+      "lovers rock",
+      "rare groove",
+      "reggae",
+      "soul",
+      "ukg"
+    ],
+    "homepage": "https://www.leandrasgrooves.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T15:19:33Z"
   },
   {
     "id": "awb_9a02d663d175143a1e86",
@@ -25212,6 +25312,29 @@
     "updatedAt": "2026-08-02T21:01:28Z"
   },
   {
+    "id": "awb_a15266a44b957bec498e",
+    "name": "Pie Radio",
+    "country": "GB",
+    "subdivision": "Greater Manchester",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "youth",
+      "youth programming"
+    ],
+    "homepage": "https://www.pieradio.co.uk/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYfADCUEqVk8Cmy5lzGUA0kTwc14Q08WdretN__SeZA9yab1jPl_R-Lk&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T00:43:41Z"
+  },
+  {
     "id": "awb_6939a438d223236cb14f",
     "name": "Piestream",
     "country": "GB",
@@ -26304,6 +26427,38 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-16T19:17:19Z"
+  },
+  {
+    "id": "awb_e65e4e12cc1b18fe519a",
+    "name": "Radio Albion",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "discussion",
+      "discussions",
+      "european",
+      "free speech",
+      "free-speech",
+      "history",
+      "lectures",
+      "nationalism",
+      "nationalist",
+      "orthodox",
+      "podcasts",
+      "talk",
+      "truth"
+    ],
+    "homepage": "https://www.radioalbion.com/",
+    "favicon": "https://stream.radioalbion.com/static/uploads/radio_albion/album_art.1766332309.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T08:17:56Z"
   },
   {
     "id": "awb_1232abaeb641c1459f99",
@@ -27550,6 +27705,20 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_68ceee6057861476dd2c",
+    "name": "Radio Mason",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiomason.com/",
+    "favicon": "https://radiomason.com/icon-192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T20:49:08Z"
+  },
+  {
     "id": "awb_0a0f7612304d1b19fcca",
     "name": "Radio Mount Vernon",
     "country": "GB",
@@ -27803,6 +27972,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-11T21:18:53Z"
+  },
+  {
+    "id": "awb_562496627aea6edf6dbd",
+    "name": "Radio Plus",
+    "country": "GB",
+    "subdivision": "West Midlands",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "religious"
+    ],
+    "homepage": "https://www.radioplus.org.uk/",
+    "favicon": "https://www.radioplus.org.uk/wp-content/uploads/2025/08/radio-plus-logo-transp-512x459-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T01:08:39Z"
   },
   {
     "id": "awb_ae48e5989d0f3201523a",
@@ -30403,8 +30593,22 @@
     "updatedAt": "2026-01-15T08:38:09Z"
   },
   {
+    "id": "awb_4d900e46928ed7781c23",
+    "name": "Rokit Radio 1940s Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www2.rokitradio.com/",
+    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
     "id": "awb_f76b3b62acdafadb1e33",
-    "name": "ROKiT Radio : Science Fiction",
+    "name": "ROKit Radio Science Fiction",
     "country": "GB",
     "subdivision": "London, England",
     "languages": [
@@ -30421,24 +30625,10 @@
       "scifi"
     ],
     "homepage": "https://rokitradio.com/",
-    "favicon": "https://rokitradio.com/images/rokit-radio-mic.png",
+    "favicon": "https://rokitradio.com/images/channels/scifi.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:11:46Z"
-  },
-  {
-    "id": "awb_4d900e46928ed7781c23",
-    "name": "Rokit Radio 1940s Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www2.rokitradio.com/",
-    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_4f80b87c36c6127a0778",
@@ -32426,7 +32616,7 @@
     "id": "awb_0d84734a9ee1e4dddcf0",
     "name": "Soul Rhythms Radio UK",
     "country": "GB",
-    "subdivision": "Kent",
+    "subdivision": "London, England",
     "languages": [
       "en"
     ],
@@ -32469,7 +32659,7 @@
       "soul",
       "soul music"
     ],
-    "homepage": "https://soulrhythmsradio.com/",
+    "homepage": "https://soulrhythmsradio.com/home/",
     "favicon": "https://soulrhythmsradio.com/wp-content/uploads/2023/12/SRR-LOGOTHIS_ONE.jpg",
     "type": null,
     "sourceCount": 6,
@@ -35017,6 +35207,25 @@
     "updatedAt": "2026-02-06T08:22:48Z"
   },
   {
+    "id": "awb_1e3bfa62d964ad192722",
+    "name": "Top Rizz Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "unsigned",
+      "various"
+    ],
+    "homepage": "https://www.toprizzradio.com/",
+    "favicon": "https://www.toprizzradio.com/uploads/1/3/6/0/136090406/whatsapp-image-2026-10-16-at-17-02-50_orig.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T00:46:29Z"
+  },
+  {
     "id": "awb_93ecf7039a7f0c17cdb8",
     "name": "Top Tunes Radio (MP3)",
     "country": "GB",
@@ -37176,7 +37385,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

@@ -5969,6 +5969,31 @@
     "updatedAt": "2026-01-15T03:16:53Z"
   },
   {
+    "id": "awb_61d9eec74bfd50595f68",
+    "name": "Exclusively Chris Rea",
+    "country": "AE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "blues",
+      "chris rea",
+      "pop",
+      "soft rock"
+    ],
+    "homepage": "https://you.radio/station/exclusiveradio-chris-rea",
+    "favicon": "https://manager.uber.radio/static/uploads/station/5dd0e973-3a26-486b-997b-f6ea7d402afc.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T13:20:04Z"
+  },
+  {
     "id": "awb_2c807adc567e078294f7",
     "name": "Exclusively Christina Aguilera",
     "country": "AE",
@@ -6692,6 +6717,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_12253b703bdf990047f4",
+    "name": "Exclusively Etta James",
+    "country": "AE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues"
+    ],
+    "tags": [
+      "blues",
+      "etta james",
+      "rnb",
+      "soul"
+    ],
+    "homepage": "https://you.radio/station/exclusiveradio-etta-james",
+    "favicon": "https://manager.uber.radio/static/uploads/station/9c02bd0f-f4df-4451-b32c-b356c17c2bc6.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T13:20:04Z"
   },
   {
     "id": "awb_e04bc1239b1c2aecaf41",
@@ -13998,5 +14046,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:16:53Z"
+  },
+  {
+    "id": "awb_423f42d1388635ed7a0a",
+    "name": "You.Radio Easy Instrumentals",
+    "country": "AE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "beautiful music",
+      "easy listening"
+    ],
+    "homepage": "https://you.radio/station/easy-easy-instrumentals",
+    "favicon": "https://you.radio/cdn-cgi/image/width=300,quality=75,format=auto/https://manager.uber.radio/static/uploads/station/0d57bc94-de26-4925-b762-0d6f87420817.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T04:58:55Z"
   }
 ]

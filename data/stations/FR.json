@@ -185,28 +185,6 @@
     "updatedAt": "2026-05-15T15:16:24Z"
   },
   {
-    "id": "awb_9beb420165fda76ca567",
-    "name": "🍒 La Radio sous la Cerise 🍒",
-    "country": "FR",
-    "subdivision": "Normandie",
-    "languages": [
-      "br",
-      "fr"
-    ],
-    "categories": [
-      "kids"
-    ],
-    "tags": [
-      "kids",
-      "musiques des enfants"
-    ],
-    "homepage": "https://laradio.souslacerise.fr/",
-    "favicon": "https://laradio.souslacerise.fr/wp-content/uploads/sites/10/2016/11/cropped-Picto-radio-sous-la-cerise-icone-270x270.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-30T15:32:12Z"
-  },
-  {
     "id": "awb_5e7481e16203ed9a5f71",
     "name": "📺 RFI Monde",
     "country": "FR",
@@ -2135,7 +2113,7 @@
       "pop"
     ],
     "homepage": "https://airconnectradio.com/",
-    "favicon": "https://airconnectradio.com/wp-content/uploads/2025/01/ac-grand.png",
+    "favicon": "https://airconnectradio.com/img/logo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-04-30T12:56:57Z"
@@ -5260,7 +5238,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao Radio",
+    "name": "Cacao-Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -16933,8 +16911,8 @@
     "homepage": "https://radio-hitfm.fr/",
     "favicon": "https://radio-hitfm.fr/uploads/temp/logos/logo_1718_1782131640_1f85f4.webp",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-10-07T06:17:04Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-11-04T07:07:35Z"
   },
   {
     "id": "awb_9d3d5e132f6f09218523",
@@ -17299,8 +17277,8 @@
       "hotmix",
       "pop"
     ],
-    "homepage": "https://hotmixradio.com/",
-    "favicon": "https://cdn.hotmixradio.com/hotmix-2000s-fr-mp3.jpg",
+    "homepage": "https://www.hotmixradio.com/",
+    "favicon": "https://www.hotmixradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -18516,8 +18494,8 @@
       "love-songs",
       "pop"
     ],
-    "homepage": "https://hotmixradio.com/",
-    "favicon": "https://cdn.hotmixradio.com/hotmix-love-fr-mp3.jpg",
+    "homepage": "https://www.hotmixradio.com/",
+    "favicon": "https://www.hotmixradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -21465,7 +21443,7 @@
     "categories": [],
     "tags": [],
     "homepage": "http://www.k6fm.fr/",
-    "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/k6fm/images/favicon.x-icon",
+    "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/k6fm/images/favicon.ico",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-01-15T05:17:36Z"
@@ -22417,6 +22395,28 @@
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-01-15T07:42:26Z"
+  },
+  {
+    "id": "awb_9beb420165fda76ca567",
+    "name": "La radio sous la cerise",
+    "country": "FR",
+    "subdivision": "Normandie",
+    "languages": [
+      "br",
+      "fr"
+    ],
+    "categories": [
+      "kids"
+    ],
+    "tags": [
+      "kids",
+      "musiques des enfants"
+    ],
+    "homepage": "https://laradio.souslacerise.fr/radio/",
+    "favicon": "https://laradio.souslacerise.fr/wp-content/uploads/sites/10/2016/11/cropped-Picto-radio-sous-la-cerise-icone-270x270.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-03-30T15:32:12Z"
   },
   {
     "id": "awb_49fa50d006b247db56b7",
@@ -25573,6 +25573,31 @@
     "updatedAt": "2026-01-15T05:05:12Z"
   },
   {
+    "id": "awb_0efd9ea513718382ad12",
+    "name": "MIXIA RADIO",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr",
+      "tr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "french pop",
+      "hits",
+      "internet radio",
+      "pop",
+      "turkish pop"
+    ],
+    "homepage": "https://radiomixia.fr/",
+    "favicon": "https://radiomixia.fr/app/mixia-retro-512.png",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T21:33:27Z"
+  },
+  {
     "id": "awb_71b5eba281dfedd1fdce",
     "name": "MIXTRAL.COM",
     "country": "FR",
@@ -26656,6 +26681,33 @@
     "updatedAt": "2026-01-15T00:34:09Z"
   },
   {
+    "id": "awb_5e6c8abee2dce81b3ac2",
+    "name": "Nebulah Radio",
+    "country": "FR",
+    "subdivision": "Brest",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "categories": [
+      "electronic",
+      "jazz",
+      "reggae"
+    ],
+    "tags": [
+      "dub",
+      "eclectic",
+      "house",
+      "jazz",
+      "world"
+    ],
+    "homepage": "https://www.nebulah-radio.com/",
+    "favicon": "https://res.cloudinary.com/bshano/image/upload/v1756493860/webradio/stations/nebulah-radio.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T17:27:52Z"
+  },
+  {
     "id": "awb_8408fc47859f59175382",
     "name": "Neptune FM",
     "country": "FR",
@@ -27700,7 +27752,7 @@
       "pop dance",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/",
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-generation-90",
     "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/nosta90.jpeg",
     "type": "internet",
     "sourceCount": 3,
@@ -28695,7 +28747,7 @@
       "soul",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-soul",
+    "homepage": "https://www.nostalgie.fr/",
     "favicon": null,
     "type": "internet",
     "sourceCount": 2,
@@ -35379,7 +35431,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.plumfm.net/",
-    "favicon": "https://static.wixstatic.com/media/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png",
+    "favicon": "https://static.wixstatic.com/media/695ef4_9d20d326e8d243788c285f11121c9994~mv2.png/v1/crop/x_0,y_2,w_2101,h_737/fill/w_326,h_114,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20ok%20PLUMFM.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
@@ -37975,14 +38027,14 @@
   },
   {
     "id": "awb_344f994bcc4a86baedee",
-    "name": "Radio Club 105.7FM",
+    "name": "RADIO CLUB 105.7FM",
     "country": "FR",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://radioclub.fr/",
-    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/269965503_533759981882903_4768925474557172552_n-1.jpg",
+    "homepage": "https://radioclub.fr/wp-admin/",
+    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/cropped-269965503_533759981882903_4768925474557172552_n-270x270.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-18T11:23:34Z"
@@ -47909,7 +47961,7 @@
       "ost",
       "popular culture"
     ],
-    "homepage": "https://lesonunique.com/mysun/parcourir/sun-cine-serieshttps://lesonunique.com/",
+    "homepage": "https://lesonunique.com/mysun/parcourir/sun-cine-series",
     "favicon": "https://assets.radioplayer.org/250/2501929/600/600/m6gk7wpl.png",
     "type": null,
     "sourceCount": 2,
@@ -48060,7 +48112,7 @@
       "metal"
     ],
     "homepage": "https://lesonunique.com/mysun/parcourir/sun-metal",
-    "favicon": "https://assets.radioplayer.org/250/2501923/600/600/mrp1g2m0.png",
+    "favicon": "https://assets.radioplayer.org/250/2501928/600/600/m6gk7w9y.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-02T03:21:24Z"
@@ -49885,6 +49937,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:03:36Z"
+  },
+  {
+    "id": "awb_915cc7f527c955d7e12e",
+    "name": "Vibzic Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "music",
+      "top hits"
+    ],
+    "homepage": "https://vibzic-radio.wixsite.com/vibzic-radio",
+    "favicon": "https://www.webradio.media/upload/69763eedb3eda-vibzic-radio.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T17:21:21Z"
   },
   {
     "id": "awb_e3e150f364fc0d1e4907",

@@ -3637,7 +3637,7 @@
     "id": "awb_bb18e22d61efdf04b4fe",
     "name": "BRİDGE TV",
     "country": "RU",
-    "subdivision": "Moscow (Russia)",
+    "subdivision": "Moscow",
     "languages": [
       "en",
       "ru"
@@ -3648,7 +3648,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
+    "homepage": "https://bridgetv.ru/about/channels/",
     "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
     "type": null,
     "sourceCount": 3,
@@ -17271,6 +17271,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_c0b529311188c2784fb9",
+    "name": "Radio AI FM",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://aifm.su/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T14:15:26Z"
   },
   {
     "id": "awb_81ad6eaa2678be422b51",
@@ -51604,7 +51618,7 @@
     "id": "awb_d0e72ae4262a7e8be492",
     "name": "Хит FM",
     "country": "RU",
-    "subdivision": "Moscow",
+    "subdivision": "Moscow/Saint Petersburg",
     "languages": [
       "ru"
     ],

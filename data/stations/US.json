@@ -7312,9 +7312,9 @@
   },
   {
     "id": "awb_55d09ea1a556d2936616",
-    "name": "2020 The Beacon -- Shining A light on you",
+    "name": "2020 The Beacon -- Shining A Light On You",
     "country": "US",
-    "subdivision": "col",
+    "subdivision": "Colorado",
     "languages": [
       "en"
     ],
@@ -8801,6 +8801,36 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_42bf1fa000b53985462a",
+    "name": "82.5 FM - Nova Hart (1989 Arena Rock, Synthwave & Night Drive Radio)",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "rock"
+    ],
+    "tags": [
+      "80s",
+      "80s rock",
+      "aor",
+      "arena rock",
+      "cassette",
+      "melodic rock",
+      "night drive",
+      "power ballads",
+      "retro",
+      "synthwave"
+    ],
+    "homepage": "https://stardust-archive.net/start",
+    "favicon": "https://raw.githubusercontent.com/jdurey/retro-arg-engine/main/src/site_static/assets/press/nova_hart_radio_icon_512.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T08:24:35Z"
+  },
+  {
     "id": "awb_eb3568a80933dfc56fc5",
     "name": "830 WEEU",
     "country": "US",
@@ -9791,6 +9821,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:32:39Z"
+  },
+  {
+    "id": "awb_c58840f08340c4c55c1f",
+    "name": "90.7 WMFE-FM",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news",
+      "npr"
+    ],
+    "homepage": "https://www.cfpublic.org/",
+    "favicon": "https://www.cfpublic.org/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T13:49:03Z"
   },
   {
     "id": "awb_b293ca4b78031232c13a",
@@ -14787,6 +14836,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-18T13:57:02Z"
+  },
+  {
+    "id": "awb_db97add600c633cb5f08",
+    "name": "ABC News - Breaking News",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://abcaudio.com/live/",
+    "favicon": "https://abcaudio.com/live/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T17:26:29Z"
   },
   {
     "id": "awb_471426aaea3f3b778616",
@@ -20341,6 +20404,25 @@
     "updatedAt": "2026-01-18T18:52:57Z"
   },
   {
+    "id": "awb_3656771cc05fb986666b",
+    "name": "Beautiful Music Radio",
+    "country": "US",
+    "subdivision": "New York",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "beautiful music",
+      "easy listening"
+    ],
+    "homepage": "https://www.beautifulmusicradio.com/",
+    "favicon": "https://static.wixstatic.com/media/ee98a4_98cf37b48713429c92b82c641fa2ffd0~mv2.jpg/v1/fill/w_168,h_94,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/BEAUTIFULMUSICRADIO7_userlogo276x155_E.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T04:04:50Z"
+  },
+  {
     "id": "awb_cce0b758a6fa584858a1",
     "name": "Begoodradio.com 80s metal",
     "country": "US",
@@ -23851,6 +23933,25 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_23dafbc79bcd795ff660",
+    "name": "CalmArizona.com",
+    "country": "US",
+    "subdivision": "Arizona",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "easy listening",
+      "soft adult contemporary"
+    ],
+    "homepage": "https://calmarizona.com/",
+    "favicon": "https://calmarizona.com/images/logo-calmaz.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T04:50:58Z"
+  },
+  {
     "id": "awb_75b8fec0777a44a77630",
     "name": "Can't Be Serious Records",
     "country": "US",
@@ -23893,6 +23994,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_2b874682d401afe2e71d",
+    "name": "Candlelight and Wine",
+    "country": "US",
+    "subdivision": "California",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "beautiful music",
+      "easy listening"
+    ],
+    "homepage": "https://zeno.fm/radio/hollywoodcandlelightandwine/",
+    "favicon": "https://zeno.fm/_ipx/s_256x256/https://editor.zenomedia.com/resources/zs_station/771242/CardWebsite/daebce5d-1296-421d-bd85-1e8729f03486.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T04:40:34Z"
   },
   {
     "id": "awb_4f649f6ac1fda0505717",
@@ -30883,6 +31003,20 @@
     "updatedAt": "2026-07-26T01:21:16Z"
   },
   {
+    "id": "awb_b502a7b5eed57de7866f",
+    "name": "Dead Air Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://deadair.co/",
+    "favicon": "https://deadair.co/wp-content/uploads/2026/10/theme-builder-dw9RKFWQ37NOTUvi-1024x602.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T17:47:31Z"
+  },
+  {
     "id": "awb_e998e4f83f58b6a17fcc",
     "name": "Dead Air Radio - 24/7 Halloween Music",
     "country": "US",
@@ -33138,6 +33272,25 @@
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
+    "id": "awb_9d223a76a5faab72f139",
+    "name": "Easy Listening Stereo",
+    "country": "US",
+    "subdivision": "New York",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "beautiful music",
+      "easy listening"
+    ],
+    "homepage": "https://live365.com/station/EASY-LISTENING-STEREO-a57978",
+    "favicon": "https://static.wixstatic.com/media/ee98a4_d637074b60e24b34a6a0937ee735e964~mv2.jpg/v1/fill/w_276,h_155,al_c,q_80,enc_avif,quality_auto/STEREO276by155tm-1968037945.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T04:08:40Z"
+  },
+  {
     "id": "awb_ef14243d6400f9178c02",
     "name": "Easy Radio WEZV 105.9 Myrtle Beach",
     "country": "US",
@@ -34860,6 +35013,24 @@
     "updatedAt": "2026-03-22T09:18:39Z"
   },
   {
+    "id": "awb_972608f7d2b5a6af6401",
+    "name": "F’Ola FM R&B/GOSPEL &JAZZ Radio",
+    "country": "US",
+    "subdivision": "Richmond",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "r&b"
+    ],
+    "homepage": "https://www.nobexradio.com/radio/ns-folarbjazzstation/f-ola-fm-r-b-gospel-jazz-radio",
+    "favicon": "https://api.nobexradio.com/public/stations/folarbjazzstation/logo",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T18:15:01Z"
+  },
+  {
     "id": "awb_1964d6f80b4e0d96719c",
     "name": "Fade to Black with Jimmy Church",
     "country": "US",
@@ -36046,6 +36217,30 @@
     "updatedAt": "2026-10-12T20:22:05Z"
   },
   {
+    "id": "awb_f8d9dbd1796345c4ade1",
+    "name": "Forest Raynes Radio",
+    "country": "US",
+    "subdivision": "Tuckerton, New Jersey",
+    "languages": [],
+    "categories": [
+      "country",
+      "rock"
+    ],
+    "tags": [
+      "americana",
+      "classic country",
+      "country",
+      "country rock",
+      "i",
+      "independent country"
+    ],
+    "homepage": "https://forestraynes.com/radio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T14:33:39Z"
+  },
+  {
     "id": "awb_3acb22c170fa48b5b9df",
     "name": "Fort Laramie (radio) | Stupid Potato",
     "country": "US",
@@ -36424,7 +36619,7 @@
       "the nation’s premiere sports lineup"
     ],
     "homepage": "http://www.foxsportsradio.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NxjbCTIAKVhtl5ndaYjM2JHlo0g2Ksr8zYoHwos-vQ&s",
+    "favicon": "https://i.iheart.com/v3/re/assets.brands/5e972321d790eb6e190b8f7d",
     "type": null,
     "sourceCount": 7,
     "updatedAt": "2026-05-10T03:51:53Z"
@@ -46776,6 +46971,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:16:44Z"
+  },
+  {
+    "id": "awb_e953c308d8e3f4ef241d",
+    "name": "K92",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://k92radio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T06:25:40Z"
   },
   {
     "id": "awb_744277bd599fd33423a5",
@@ -71041,9 +71250,9 @@
   },
   {
     "id": "awb_0ad1d5b8bf91731da71b",
-    "name": "Midnite Radio - The Original!",
+    "name": "Midnite Radio - The Original?",
     "country": "US",
-    "subdivision": "CT",
+    "subdivision": "New York City, New York",
     "languages": [
       "en"
     ],
@@ -71072,7 +71281,7 @@
       "rock"
     ],
     "homepage": "http://swampass.us/",
-    "favicon": "https://i.postimg.cc/k4RT669x/Midnite-Radio-Resized288-X192.png",
+    "favicon": "https://i.postimg.cc/sDGmXHD2/Midnite-Radio.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T04:34:41Z"
@@ -81917,6 +82126,24 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_ff095b2f350fd6204186",
+    "name": "Radio Cherry Hill",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "beautiful music",
+      "easy listening",
+      "instrumentals"
+    ],
+    "homepage": "https://radiocherryhill.com/",
+    "favicon": "https://image.live365.com/download/3f96ad54-b85f-45b2-80a5-5746531101fd.jpg/400/image.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T04:31:06Z"
+  },
+  {
     "id": "awb_2b3dce75fd65a7aa79f0",
     "name": "Radio Chrystusa Króla Chicago",
     "country": "US",
@@ -85954,6 +86181,26 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:09:18Z"
+  },
+  {
+    "id": "awb_e9d7ed222b0e967d4ac8",
+    "name": "Radio Recuerdos Inolvidables",
+    "country": "US",
+    "subdivision": "Fort Worth TX",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "música regional mexicana",
+      "regional mexican",
+      "regional mexicana"
+    ],
+    "homepage": "https://radiorecuerdosinolvidables.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T14:24:33Z"
   },
   {
     "id": "awb_24e65651aece115c006e",
@@ -90580,6 +90827,34 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_475807455db430024a44",
+    "name": "S-Cape Island Radio",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "reggae",
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "comedy",
+      "country",
+      "reggae",
+      "ska",
+      "trop rock",
+      "yacht rock"
+    ],
+    "homepage": "https://scapeislandradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T18:07:35Z"
   },
   {
     "id": "awb_8832a3bfe315221da63c",
@@ -97268,6 +97543,32 @@
     "updatedAt": "2026-09-28T15:16:57Z"
   },
   {
+    "id": "awb_fd5e2feeabfc8613a5ae",
+    "name": "SPARK M!NDS 24/7 RADIO",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "hiphop",
+      "independent artists",
+      "new york city",
+      "rap",
+      "spark minds",
+      "sparkminds"
+    ],
+    "homepage": "https://sparkminds.xyz/onair/",
+    "favicon": "https://stream.sparkminds.xyz/tv/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T13:37:52Z"
+  },
+  {
     "id": "awb_3a02ee69f2b2cc26bb13",
     "name": "SpeakupFM",
     "country": "US",
@@ -100179,6 +100480,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-04T23:54:01Z"
+  },
+  {
+    "id": "awb_ae87dd14c05d79e0e9b5",
+    "name": "test",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "test"
+    ],
+    "homepage": "https://www.google.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T06:45:24Z"
   },
   {
     "id": "awb_ab9c10b07ae6d31bada1",
@@ -103919,7 +104236,7 @@
   },
   {
     "id": "awb_dce1f737b260dec682b6",
-    "name": "The Source - Smooth Jazz Radio KJAC.DB",
+    "name": "The Source:Smooth Jazz Radio - KJAC.DB",
     "country": "US",
     "subdivision": "WA",
     "languages": [
@@ -103936,7 +104253,7 @@
       "vocal contemporary"
     ],
     "homepage": "https://www.thesourcesmoothjazzradio.com/",
-    "favicon": "https://www.thesourcesmoothjazzradio.com/images/favicon-32x32.png",
+    "favicon": "https://assets.clrd.net/uploads/logos/autodj/019dadf0-f0bf-7212-a652-f5c4e0c20233/0a60605f-b500-401f-a62f-8d05b670dda4.webp",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-27T21:12:09Z"
@@ -113406,6 +113723,29 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_4c5d4ed1443e4945b9d6",
+    "name": "WEFA-LP 92.5 \"Easy Favorites\" Ocala, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "classic hits",
+      "oldies"
+    ],
+    "homepage": "https://www.wefaradio.com/",
+    "favicon": "https://www.wefaradio.com/wp-content/uploads/2021/07/easy-favorites-rebrand-1260x240-banner.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T23:51:19Z"
+  },
+  {
     "id": "awb_db33f85f053d435e828c",
     "name": "WEFT 90.1 East Central Illinois Community Radio",
     "country": "US",
@@ -117804,6 +118144,29 @@
     "updatedAt": "2026-01-15T04:18:44Z"
   },
   {
+    "id": "awb_c25c646a454696cc3165",
+    "name": "WIJF-LP 91.7 \"Galey Israel\" Fort Lauderdale, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "en",
+      "he",
+      "yi"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "israeli music",
+      "israeli pop"
+    ],
+    "homepage": "https://galeyisrael.com/",
+    "favicon": "https://galeyisrael.com/wp-content/uploads/2025/03/radio.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T23:42:26Z"
+  },
+  {
     "id": "awb_09102d4c46d8dbd8732c",
     "name": "WIKY 104.1 Evansville, IN",
     "country": "US",
@@ -119459,6 +119822,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:45:39Z"
+  },
+  {
+    "id": "awb_f4c48336f4a88c108500",
+    "name": "WJST Jet Set Radio",
+    "country": "US",
+    "subdivision": "Kentucky",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "airport",
+      "beautiful music",
+      "easy listening",
+      "exotica",
+      "lounge music"
+    ],
+    "homepage": "https://wjstjetset.wixsite.com/mysite-1",
+    "favicon": "https://static.wixstatic.com/media/054d95_54727ef629a44fc6b6b7704e72e67ba7~mv2.png/v1/fill/w_504,h_504,al_c,lg_1,q_85,enc_avif,quality_auto/WJST%20Logo%20Transparent%20Revised.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T05:03:26Z"
   },
   {
     "id": "awb_b6568014c63842ca9672",
@@ -123386,6 +123773,68 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_c2759bc14652f13965b1",
+    "name": "WMXR-LP \"Vibe 92.7\" Miami, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "classic hip hop"
+    ],
+    "homepage": "https://vibe927miami.com/",
+    "favicon": "https://vibe927miami.com/wp-content/uploads/2019/07/vibe927miami-logo-square.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T23:59:40Z"
+  },
+  {
+    "id": "awb_0b6187f4d1806f2529e5",
+    "name": "WMXR-LP 92.7 HD2 - \"Groove 92\" - Miami, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues"
+    ],
+    "tags": [
+      "rhythm and blues",
+      "soul"
+    ],
+    "homepage": "https://vibe927miami.com/",
+    "favicon": "https://vibe927miami.com/wp-content/uploads/2024/02/Groove-927-HD2-Square-with-Border.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T00:02:16Z"
+  },
+  {
+    "id": "awb_f6beef8b550f27140c6d",
+    "name": "WMXR-LP 92.7 HD3 - \"The Crib\" - Miami, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "old school hip hop",
+      "old school rap"
+    ],
+    "homepage": "https://vibe927miami.com/",
+    "favicon": "https://vibe927miami.com/wp-content/uploads/2024/02/The-Crib-927-HD3-Square.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T00:05:00Z"
+  },
+  {
     "id": "awb_d5b85e8fc80f3c1407b5",
     "name": "WNAP",
     "country": "US",
@@ -124619,6 +125068,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-17T12:57:50Z"
+  },
+  {
+    "id": "awb_351598b4320f3e225261",
+    "name": "Wolfie Wild Quiet Storm",
+    "country": "US",
+    "subdivision": "Miami",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop",
+      "pop"
+    ],
+    "tags": [
+      "hip-hop",
+      "pop",
+      "r&b",
+      "soul"
+    ],
+    "homepage": "https://www.nobexradio.com/radio/ns-wolfiewildquietstorm/wolfie-wild-quiet-storm",
+    "favicon": "https://api.nobexradio.com/public/stations/wolfiewildquietstorm/logo",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T14:01:58Z"
   },
   {
     "id": "awb_8b3af1f30df324fe0a1e",
@@ -126139,6 +126612,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-21T07:15:52Z"
+  },
+  {
+    "id": "awb_8499a44cf5a4bec259ca",
+    "name": "WPRO 630 - Providence, Rhode Island",
+    "country": "US",
+    "subdivision": "Rhode Island",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news talk"
+    ],
+    "homepage": "https://www.iheart.com/live/newstalk-630-wpro-5494/",
+    "favicon": "https://i.iheart.com/v3/catalog/live/5494?ops=ratio%281%2C1%29%2Cscale%28166%2C0%29&cacheable=true",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T03:24:36Z"
   },
   {
     "id": "awb_b5bd0812669d207eaacd",
@@ -127881,6 +128375,28 @@
     "updatedAt": "2026-10-31T00:23:23Z"
   },
   {
+    "id": "awb_bb9116a35c36b77ad823",
+    "name": "WRIB-LP 96.7 \"RI Free Radio\" Narragansett, Rhode Island",
+    "country": "US",
+    "subdivision": "Rhode Island",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "alternative / indie",
+      "community",
+      "podcasts"
+    ],
+    "homepage": "https://www.rifreeradio.org/",
+    "favicon": "https://www.rifreeradio.org/uploads/5/4/2/5/5425073/1451489454.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T03:16:13Z"
+  },
+  {
     "id": "awb_99c671310ba655ce23dc",
     "name": "WRIX Electric City Bluegrass",
     "country": "US",
@@ -129244,6 +129760,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:56:33Z"
+  },
+  {
+    "id": "awb_1042a98879d483e8e3e0",
+    "name": "WRXW-LP 92.7 \"Your Smooth Jazz Destination\" Winter Park, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "smooth jazz"
+    ],
+    "homepage": "https://sjdradio.com/92-7-wrxw-lp-winter-park/",
+    "favicon": "https://i0.wp.com/sjdradio.com/wp-content/uploads/2026/05/cropped-cropped-header-image1.png?w=1435&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T00:14:34Z"
   },
   {
     "id": "awb_42d84bab5884531c8436",
@@ -133360,6 +133896,28 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_67836695227442798890",
+    "name": "WVET-LP 97.9 \"Eureka Radio\" Eureka, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "classic hits",
+      "oldies"
+    ],
+    "homepage": "https://nucleaeglenn66.wixsite.com/eurekaradio",
+    "favicon": "https://static.wixstatic.com/media/7b336c_36af47c3ac0e47a08ce0990fd7c8308b~mv2.jpg/v1/fill/w_449,h_443,al_c,lg_1,q_80,enc_avif,quality_auto/Logo%20500x500%20px%20(1)_edited.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T23:45:51Z"
+  },
+  {
     "id": "awb_45e417e1582e6169cdcc",
     "name": "WVEX 105.3 \"Midland Community Radio\" Midland, Michigan",
     "country": "US",
@@ -136266,6 +136824,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_25b935f549b5dd902627",
+    "name": "WYPW \"Power 90.1\" Brandon/Tampa, Florida",
+    "country": "US",
+    "subdivision": "Florida",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "contemporary hits radio"
+    ],
+    "homepage": "https://www.power901.com/",
+    "favicon": "https://nebula.wsimg.com/c18a79b7bc0fceb9253e27be838a13e7?AccessKeyId=E340880EA09647EDA63F&disposition=0&alloworigin=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T23:38:21Z"
   },
   {
     "id": "awb_57d1107ce1cc947698fe",
