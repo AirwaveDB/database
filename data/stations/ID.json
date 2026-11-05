@@ -2131,28 +2131,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_427c78aca34b0bc9aaf6",
-    "name": "Gema Merdeka FM 97.7",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "jazz",
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "jazz",
-      "news",
-      "pop"
-    ],
-    "homepage": "https://radiostream.novawap.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-04T00:22:51Z"
-  },
-  {
     "id": "awb_3241c7f2f2a0f5119799",
     "name": "Gema Surya FM Ponorogo",
     "country": "ID",
@@ -2241,6 +2219,7 @@
       "id"
     ],
     "categories": [
+      "jazz",
       "news",
       "pop",
       "rock",
@@ -2248,6 +2227,7 @@
     ],
     "tags": [
       "alternative",
+      "jazz",
       "local music",
       "music",
       "news",
@@ -2259,8 +2239,8 @@
     "homepage": "https://gen987fm.com/",
     "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4VecqCqeZwK-c0osq91dVt4J3xf2ksm1U4g&usqp=CAU",
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-01-15T06:39:51Z"
+    "sourceCount": 6,
+    "updatedAt": "2026-11-05T06:56:58Z"
   },
   {
     "id": "awb_899318957e50f6cec463",
@@ -3164,6 +3144,7 @@
       "id"
     ],
     "categories": [
+      "jazz",
       "news",
       "pop",
       "talk"
@@ -3173,6 +3154,7 @@
       "contemporary hits radio",
       "hits",
       "hot adult contemporary",
+      "jazz",
       "music",
       "news",
       "pop",
@@ -3181,8 +3163,8 @@
     "homepage": "https://jak101fm.com/",
     "favicon": "https://jak101fm.com/wp-content/uploads/2020/08/cropped-logo-jak-bar-1-180x180.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-06-22T10:00:41Z"
+    "sourceCount": 5,
+    "updatedAt": "2026-11-05T07:00:39Z"
   },
   {
     "id": "awb_96e729b1c300eb727b02",
@@ -5768,8 +5750,8 @@
     "tags": [
       "pop"
     ],
-    "homepage": "https://swadesifm.com/",
-    "favicon": "https://swadesifm.com/_next/image?url=%2Fapi%2Fmedia%2Ffile%2Fswadesibantul.png&w=828&q=75",
+    "homepage": "https://www.swadesifm.com/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJF8y-O1ocSyEUCPv1J5NK_8-DFS1U9pHWp7PMQUGfdUDjL5-5iF-E51w&s=10",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-25T13:09:52Z"
@@ -8821,6 +8803,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_a0b88b6818f4b8b107b2",
+    "name": "Suara Salatiga",
+    "country": "ID",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://suarasalatiga.com/",
+    "favicon": "https://suarasalatiga.com/wp-content/uploads/2025/03/logo-ss-radio.gif",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T13:45:36Z"
   },
   {
     "id": "awb_c8736ad757e3684050e1",

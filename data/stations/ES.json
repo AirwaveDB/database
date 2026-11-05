@@ -792,20 +792,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_c2a3096386f8daabc249",
-    "name": "A",
-    "country": "ES",
-    "subdivision": "navarra",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://aticafm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-04T08:10:49Z"
-  },
-  {
     "id": "awb_3d06b9cddf11839dd909",
     "name": "À Punt",
     "country": "ES",
@@ -1689,20 +1675,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_f1139b6a73855c677dd6",
-    "name": "Aticafm",
-    "country": "ES",
-    "subdivision": "navarra",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://aticafm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-04T09:09:26Z"
   },
   {
     "id": "awb_7261ba6baecd9a3801f6",
@@ -5830,6 +5802,30 @@
     "updatedAt": "2026-04-06T10:15:55Z"
   },
   {
+    "id": "awb_b1e938db37f0a0e7e324",
+    "name": "Delicious Beach",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "bossanova",
+      "chillout",
+      "chillout+lounge",
+      "lounge"
+    ],
+    "homepage": "https://linktr.ee/deliciousbeach",
+    "favicon": "https://www.radio.it/175/deliciousbeach.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T09:26:04Z"
+  },
+  {
     "id": "awb_a27fa3494fda9c65bffc",
     "name": "delicious.beach - formentera lounge radio",
     "country": "ES",
@@ -6040,6 +6036,36 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:13:03Z"
+  },
+  {
+    "id": "awb_0dddafc9bd2f8b58bb2c",
+    "name": "DJ GarX Radio",
+    "country": "ES",
+    "subdivision": "Granada",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "electronic",
+      "pop"
+    ],
+    "tags": [
+      "24/7",
+      "dance",
+      "dj",
+      "electronic",
+      "granada",
+      "house",
+      "live",
+      "pop",
+      "remember",
+      "urbano"
+    ],
+    "homepage": "https://djgarxradio.com/",
+    "favicon": "https://djgarxradio.com/static/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T16:37:28Z"
   },
   {
     "id": "awb_1ec84a6f4ebb8910e64d",
@@ -8773,7 +8799,7 @@
     "id": "awb_3affbb98dab24e7b2119",
     "name": "GRX BIT RADIO on line",
     "country": "ES",
-    "subdivision": "granada",
+    "subdivision": "Alhama - Granada- Andalucía",
     "languages": [],
     "categories": [
       "pop"
@@ -15986,6 +16012,28 @@
     "updatedAt": "2026-01-14T23:31:23Z"
   },
   {
+    "id": "awb_1d6ff2e80b2378be7c9e",
+    "name": "Radio Adventista Alicante",
+    "country": "ES",
+    "subdivision": "Alicante",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "cristiana",
+      "radio cristiana"
+    ],
+    "homepage": "https://radioadventista.es/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T12:32:37Z"
+  },
+  {
     "id": "awb_bdef3123a797eef62677",
     "name": "Radio Agalaria",
     "country": "ES",
@@ -17570,6 +17618,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_d773001791ff2a46c745",
+    "name": "Radio Festa",
+    "country": "ES",
+    "subdivision": "Galicia",
+    "languages": [],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "latino",
+      "salsa"
+    ],
+    "homepage": "https://festaradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T22:50:31Z"
   },
   {
     "id": "awb_fd81c2a61777ce1c2d17",

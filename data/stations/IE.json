@@ -126,28 +126,6 @@
     "updatedAt": "2026-10-12T14:56:54Z"
   },
   {
-    "id": "awb_8a628ae1d7d4923fe51c",
-    "name": "Ambient Lounge on MixLive.net",
-    "country": "IE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "ambient",
-      "downtempo",
-      "easy listening"
-    ],
-    "homepage": "https://www.mixlive.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-20T06:37:16Z"
-  },
-  {
     "id": "awb_3528e092204f75cb46b9",
     "name": "Banter FM",
     "country": "IE",
@@ -353,27 +331,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_9e21c5a042b262b92d7c",
-    "name": "Chillout Essentials on MixLive.net",
-    "country": "IE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "chillout music",
-      "laid-back tunes"
-    ],
-    "homepage": "https://www.mixlive.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-20T18:01:51Z"
   },
   {
     "id": "awb_a0a386d7be2633f9e47d",
@@ -1703,24 +1660,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_35aadf06d57f7e84bd5f",
-    "name": "Minimal & Deep-tech on MixLive.net",
-    "country": "IE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "deep and minimalist sounds"
-    ],
-    "homepage": "https://www.mixlive.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-20T06:31:51Z"
   },
   {
     "id": "awb_d1fc77c07f4d1b1399ce",
@@ -3118,7 +3057,7 @@
     "id": "awb_3461835dfd861bca0ca5",
     "name": "SPIN South West",
     "country": "IE",
-    "subdivision": "Limerick",
+    "subdivision": "Dublin",
     "languages": [
       "en"
     ],
@@ -3130,8 +3069,8 @@
       "top 40",
       "top-40"
     ],
-    "homepage": "https://www.spinsouthwest.com/",
-    "favicon": "https://www.spinsouthwest.com/images/logo.svg",
+    "homepage": "http://www.spinsouthwest.com/",
+    "favicon": "https://www.spinsouthwest.com/i/android-icon-192x192.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"

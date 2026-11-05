@@ -4919,7 +4919,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox radio",
+    "name": "Boombox Radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -5238,7 +5238,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao-Radio",
+    "name": "Cacao Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -5915,7 +5915,7 @@
     "favicon": "https://chaos-radio.fr/assets/icons/icon-128x128.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T17:52:54Z"
+    "updatedAt": "2026-11-04T19:24:23Z"
   },
   {
     "id": "awb_db3196f3d03abed7cd41",
@@ -8507,6 +8507,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:25:41Z"
+  },
+  {
+    "id": "awb_08318b3d50e6c7995e91",
+    "name": "Corail Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "info",
+      "pop",
+      "top hits"
+    ],
+    "homepage": "https://www.corailradio.com/",
+    "favicon": "https://image.radioking.io/radios/409087/logo/acf58ca3-b03c-4711-b897-80fec2cf4095.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T14:19:16Z"
   },
   {
     "id": "awb_2916719db9e82d2251c5",
@@ -15413,6 +15434,29 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_7a02dcada44bc92096ca",
+    "name": "FunAdos",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "top hits",
+      "urban"
+    ],
+    "homepage": "https://www.funados.fr/",
+    "favicon": "https://www.funados.fr/uploads/funados_pochette_bleu_b3e5bd8726.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T12:25:48Z"
+  },
+  {
     "id": "awb_3f1c80c3c81662c75b2e",
     "name": "Funk Machine Radio 69.9",
     "country": "FR",
@@ -15481,6 +15525,48 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T01:13:18Z"
+  },
+  {
+    "id": "awb_c96acabcbf0b7bfcd808",
+    "name": "Futuradio Bands-Camp",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits"
+    ],
+    "homepage": "https://futurmedias.fr/",
+    "favicon": "https://futurmedias.fr/assets/antennes/bands.png?v=1792927455",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T14:29:36Z"
+  },
+  {
+    "id": "awb_8a1e769ec750eac8ab9d",
+    "name": "Futuradio Hits",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "top 40",
+      "top hits"
+    ],
+    "homepage": "https://futurmedias.fr/cetait-quoi",
+    "favicon": "https://futurmedias.fr/assets/antennes/hits.png?v=1792927455",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T14:17:08Z"
   },
   {
     "id": "awb_2a3a6b57725f979142e4",
@@ -17277,8 +17363,8 @@
       "hotmix",
       "pop"
     ],
-    "homepage": "https://www.hotmixradio.com/",
-    "favicon": "https://www.hotmixradio.com/favicon.ico",
+    "homepage": "https://hotmixradio.com/",
+    "favicon": "https://cdn.hotmixradio.com/hotmix-2000s-fr-mp3.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -18494,8 +18580,8 @@
       "love-songs",
       "pop"
     ],
-    "homepage": "https://www.hotmixradio.com/",
-    "favicon": "https://www.hotmixradio.com/favicon.ico",
+    "homepage": "https://hotmixradio.com/",
+    "favicon": "https://cdn.hotmixradio.com/hotmix-love-fr-mp3.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -19726,6 +19812,22 @@
     "updatedAt": "2026-01-15T06:29:43Z"
   },
   {
+    "id": "awb_9820b97a3f45afe191ea",
+    "name": "ici Azur",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.ici.fr/radio/azur",
+    "favicon": "https://www.google.com/s2/favicons?domain=ici.fr&sz=128",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T19:33:37Z"
+  },
+  {
     "id": "awb_dfd6e62197485ac34433",
     "name": "ICI Breizh Izel",
     "country": "FR",
@@ -19739,7 +19841,7 @@
       "radio locale"
     ],
     "homepage": "https://www.ici.fr/radio/breizh-izel",
-    "favicon": "https://www.ici.fr/images/apple-touch-icon.png",
+    "favicon": "https://www.ici.fr/favicon56.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T10:24:25Z"
@@ -21443,7 +21545,7 @@
     "categories": [],
     "tags": [],
     "homepage": "http://www.k6fm.fr/",
-    "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/k6fm/images/favicon.ico",
+    "favicon": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/k6fm/images/favicon.x-icon",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-01-15T05:17:36Z"
@@ -25976,7 +26078,7 @@
       "study"
     ],
     "homepage": "https://mugenradio.com/",
-    "favicon": "https://mugenradio.com/cover-mugen-300.png",
+    "favicon": "https://mugenradio.com/cover-mugen-3000.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-06-25T15:09:39Z"
@@ -28747,7 +28849,7 @@
       "soul",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/",
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-soul",
     "favicon": null,
     "type": "internet",
     "sourceCount": 2,
@@ -38027,14 +38129,14 @@
   },
   {
     "id": "awb_344f994bcc4a86baedee",
-    "name": "RADIO CLUB 105.7FM",
+    "name": "Radio Club 105.7FM",
     "country": "FR",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://radioclub.fr/wp-admin/",
-    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/cropped-269965503_533759981882903_4768925474557172552_n-270x270.jpg",
+    "homepage": "https://radioclub.fr/",
+    "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/269965503_533759981882903_4768925474557172552_n-1.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-18T11:23:34Z"
@@ -39263,6 +39365,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-15T16:11:06Z"
+  },
+  {
+    "id": "awb_8fdbcb57de683a0f1942",
+    "name": "Radio Fidélité",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "actualité",
+      "eglise",
+      "spiritualité"
+    ],
+    "homepage": "https://radio-fidelite.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T20:01:15Z"
   },
   {
     "id": "awb_855d62cb2e581b01de35",
@@ -42109,22 +42231,6 @@
     "updatedAt": "2026-01-15T02:45:26Z"
   },
   {
-    "id": "awb_183193d8aefe18130c6c",
-    "name": "Radio Radio Toulouse",
-    "country": "FR",
-    "subdivision": "Occitanie",
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radioradiotoulouse.net/",
-    "favicon": "https://static.wixstatic.com/media/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-21T19:44:18Z"
-  },
-  {
     "id": "awb_54764c36c49b298e952d",
     "name": "Radio RBS",
     "country": "FR",
@@ -42952,7 +43058,9 @@
     "name": "RADIO SYNO",
     "country": "FR",
     "subdivision": "Nord",
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "categories": [
       "ambient"
     ],
@@ -42961,14 +43069,17 @@
       "bossa",
       "chill",
       "chillhop",
+      "concentration",
       "lofi",
-      "study"
+      "relax",
+      "study",
+      "webradio"
     ],
     "homepage": "https://radiosyno.fr/",
     "favicon": "https://radiosyno.fr/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-24T10:20:10Z"
+    "type": "internet",
+    "sourceCount": 2,
+    "updatedAt": "2026-11-05T07:26:14Z"
   },
   {
     "id": "awb_b6e6534ca27f596bd033",
@@ -43521,44 +43632,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_be1451c86d5da07c8951",
-    "name": "Radio Wa3 (راديو وع)",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "ar",
-      "en",
-      "fr"
-    ],
-    "categories": [
-      "ambient",
-      "electronic",
-      "jazz"
-    ],
-    "tags": [
-      "ambient",
-      "arabic",
-      "dabke",
-      "drum and bass",
-      "eclectic",
-      "electronic",
-      "funk",
-      "house",
-      "jazz",
-      "lofi",
-      "mahraganat",
-      "tarab",
-      "techno",
-      "underground",
-      "world music"
-    ],
-    "homepage": "https://wa3.live/",
-    "favicon": "https://wa3.live/wa3-logo-assets/wa3-icon-512.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-13T23:12:31Z"
-  },
-  {
     "id": "awb_df2039d64d8d300a1562",
     "name": "Radio Welsass",
     "country": "FR",
@@ -43793,6 +43866,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-08T00:36:54Z"
+  },
+  {
+    "id": "awb_183193d8aefe18130c6c",
+    "name": "Radio-Radio Toulouse",
+    "country": "FR",
+    "subdivision": "Midi-Pyrénées",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radioradiotoulouse.net/",
+    "favicon": "https://static.wixstatic.com/media/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png",
+    "type": null,
+    "sourceCount": 3,
+    "updatedAt": "2026-08-21T19:44:18Z"
   },
   {
     "id": "awb_9b100c0fe8323743eb03",
@@ -47414,6 +47503,20 @@
     "updatedAt": "2026-10-12T02:23:21Z"
   },
   {
+    "id": "awb_054f57bd043c05c9b6e3",
+    "name": "Smile Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://smile-radio.fr/",
+    "favicon": "https://smile-radio.fr/img/about01.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T14:31:51Z"
+  },
+  {
     "id": "awb_d36449d15756804e1b2c",
     "name": "Sofaradios - MIA Jazzanova",
     "country": "FR",
@@ -47961,7 +48064,7 @@
       "ost",
       "popular culture"
     ],
-    "homepage": "https://lesonunique.com/mysun/parcourir/sun-cine-series",
+    "homepage": "https://lesonunique.com/mysun/parcourir/sun-cine-serieshttps://lesonunique.com/",
     "favicon": "https://assets.radioplayer.org/250/2501929/600/600/m6gk7wpl.png",
     "type": null,
     "sourceCount": 2,

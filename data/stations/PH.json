@@ -1041,6 +1041,28 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_492a4565039bad2c911f",
+    "name": "92.3 FMR Manila",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "jazz",
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "jazz",
+      "news",
+      "pop"
+    ],
+    "homepage": "https://pcmc.com.ph/923fmrmanila/",
+    "favicon": "https://i3.wp.com/pcmc.com.ph/wp-content/uploads/2026/08/923FMR_2026_NewLogo-White-768x768.png?w=200",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T02:28:47Z"
+  },
+  {
     "id": "awb_dc95b76bef5d2976e57d",
     "name": "92.3 FMR Manila",
     "country": "PH",
@@ -1407,14 +1429,14 @@
   },
   {
     "id": "awb_0a435f30dce89dbe203f",
-    "name": "98.5 RADIO JOHN BINALBAGAN",
+    "name": "98.5 Radio John Binalbagan",
     "country": "PH",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://985radiojohn.weebly.com/",
-    "favicon": "https://985radiojohn.weebly.com/uploads/1/2/0/7/120752597/published/rjlogo2024.png?1728216327",
+    "favicon": "https://985radiojohn.weebly.com/uploads/1/2/0/7/120752597/editor/radio-john-logo-1.png?1617251393",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -3942,6 +3964,25 @@
     "updatedAt": "2026-02-10T02:04:31Z"
   },
   {
+    "id": "awb_353ce56991ca3a0c7e9b",
+    "name": "DWNX 91.1 RMN Naga",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "music",
+      "news"
+    ],
+    "homepage": "https://rmn.ph/DWNX911Naga/",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/2019-iFM-Naga.png?w=696&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T02:32:25Z"
+  },
+  {
     "id": "awb_2762801a5a6606004a84",
     "name": "DWPM Radyo Sais Trenta",
     "country": "PH",
@@ -4045,6 +4086,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_46163874fb1464abed47",
+    "name": "DXMY 90.9 RMN Cotabato",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "music",
+      "news"
+    ],
+    "homepage": "https://rmn.ph/dxmy729cotabato/",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/cotabato.png?w=400&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T02:33:46Z"
   },
   {
     "id": "awb_cfab8eb23433760035e1",
@@ -4218,13 +4278,20 @@
     "country": "PH",
     "subdivision": null,
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "public service",
+      "talk"
+    ],
     "homepage": "https://www.abs-cbn.com/",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DZMM_Radyo_Patrol_630_logo_%282025%29.jpg/250px-DZMM_Radyo_Patrol_630_logo_%282025%29.jpg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-04T16:28:30Z"
   },
   {
     "id": "awb_2d50b06e2f703e87cb33",
@@ -9676,6 +9743,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_4a870684d1c24b6995c4",
+    "name": "RMN Cotabato",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://thermnnetworks.ph/stations/cotabato/",
+    "favicon": "https://apk.radyoph.com/upload/1793760522_rmncotabato.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T07:33:50Z"
   },
   {
     "id": "awb_6977c852e2d5df42aa95",

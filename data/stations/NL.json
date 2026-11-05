@@ -4597,6 +4597,20 @@
     "updatedAt": "2026-01-15T08:38:46Z"
   },
   {
+    "id": "awb_411eb4fe7c503a0ddd05",
+    "name": "FMR | Foute Muziek Radio & The Superstation",
+    "country": "NL",
+    "subdivision": "Utrecht, Utrecht",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://foutemuziekradio.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T13:54:09Z"
+  },
+  {
     "id": "awb_664c529e8671090b0227",
     "name": "Focus 103",
     "country": "NL",
@@ -9203,7 +9217,7 @@
     "id": "awb_8a0d399c51b7ae5a645a",
     "name": "MeerRadio",
     "country": "NL",
-    "subdivision": "Noord-Holland",
+    "subdivision": "Noord-Holland, Haarlemmermeer",
     "languages": [
       "nl"
     ],
@@ -9217,7 +9231,7 @@
       "local news",
       "pop music"
     ],
-    "homepage": "https://meerradio.nl/radio/luister-naar-meerradio/",
+    "homepage": "https://meerradio.nl/",
     "favicon": "https://meerradio.nl/wp-content/uploads/2023/07/Watermerk-meerradio.png",
     "type": "community",
     "sourceCount": 2,
@@ -11291,7 +11305,7 @@
     "id": "awb_a7dd28c5f273b7244e3a",
     "name": "Omroep Lekstroom",
     "country": "NL",
-    "subdivision": "Bergveste 2, DE HOUTEN",
+    "subdivision": "Utrecht, De Houten, Bergveste 2",
     "languages": [
       "nl"
     ],
@@ -12936,12 +12950,12 @@
     "id": "awb_14ceba8d1d61b15cdc22",
     "name": "Power FM Breda",
     "country": "NL",
-    "subdivision": "Noord Brabant",
+    "subdivision": "Noord-Brabant",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://powerfmbreda.x10.mx/",
-    "favicon": "https://powerfmbreda.x10.mx/favicon.png",
+    "favicon": "https://powerfmbreda.x10.mx/wp-content/uploads/fbrfg/favicon.svg",
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-03-11T09:52:26Z"
@@ -12979,7 +12993,7 @@
       "psb"
     ],
     "homepage": "https://powerstationbuddha.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazg4CH2MVkVP7V5S9VHUAnu953XI_wgI_D5DltnJBMQYQgkJWjnOFGX-T6vLo-Zjneyo&usqp=CAU",
+    "favicon": "https://powerstationbuddha.com/wp-content/uploads/2025/05/logo-powerstation-buddha-600-1.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -17419,6 +17433,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:27:20Z"
+  },
+  {
+    "id": "awb_9d15aee3814747c25e59",
+    "name": "Rammel Radio",
+    "country": "NL",
+    "subdivision": "Gelderland",
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "ai",
+      "ai generated",
+      "ai music",
+      "ai radio",
+      "pop"
+    ],
+    "homepage": "https://rammelradio.nl/",
+    "favicon": "https://rammelradio.nl/favicon.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T10:36:39Z"
   },
   {
     "id": "awb_ac6256ecc6197116b0b3",

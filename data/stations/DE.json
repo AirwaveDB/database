@@ -13052,6 +13052,26 @@
     "updatedAt": "2026-05-11T12:56:00Z"
   },
   {
+    "id": "awb_ff2914c4861de7d092b1",
+    "name": "90s90s - HIPHOP-ESSENTIALS",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "languages": [],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "hiphop",
+      "rap"
+    ],
+    "homepage": "https://www.90s90s.de/",
+    "favicon": "https://images.90s90s.de/files/2026-10/90s90s_hiphop-essentials_1920x1080.jpg?crop=1080%2C1080%2C422%2C0&rect=422%2C0%2C1080%2C1080",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T17:15:53Z"
+  },
+  {
     "id": "awb_2119d6584358adf6afed",
     "name": "90s90s - Lovesongs",
     "country": "DE",
@@ -13088,6 +13108,47 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-23T13:53:51Z"
+  },
+  {
+    "id": "awb_5de20053009764e6abec",
+    "name": "90s90s - TECHNO - ESSENTIALS",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "languages": [],
+    "categories": [
+      "electronic",
+      "oldies"
+    ],
+    "tags": [
+      "90s",
+      "techno"
+    ],
+    "homepage": "https://www.90s90s.de/",
+    "favicon": "https://images.90s90s.de/files/2025-10/90s90s-channel-player-technoessentialstomwax.jpg?crop=1080%2C1080%2C420%2C0&rect=420%2C0%2C1080%2C1080",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T17:23:16Z"
+  },
+  {
+    "id": "awb_1f57ad7a6343146bd28f",
+    "name": "90s90s – SOMMERHITS",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "eurodance",
+      "summer hits"
+    ],
+    "homepage": "https://regiocast.streamabc.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T11:58:23Z"
   },
   {
     "id": "awb_626d3ec06c6e4e9db698",
@@ -13443,6 +13504,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_11d4d6e18b82f37defd0",
+    "name": "90s90s IBIZA",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "languages": [],
+    "categories": [
+      "electronic",
+      "oldies"
+    ],
+    "tags": [
+      "90s",
+      "dance",
+      "techno",
+      "trance"
+    ],
+    "homepage": "https://www.90s90s.de/home",
+    "favicon": "https://images.90s90s.de/files/2026-06/90s90s_ibiza_1920x1080.jpg?crop=1440%2C1080%2C239%2C0&rect=239%2C0%2C1440%2C1080",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T17:28:31Z"
   },
   {
     "id": "awb_12bca59c1cbb72f82992",
@@ -14431,7 +14514,7 @@
   },
   {
     "id": "awb_fa4a53a5bedfa55532ed",
-    "name": "Absolut Coffemusic",
+    "name": "Absolut coffemusic",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -14441,7 +14524,7 @@
     "tags": [
       "pop"
     ],
-    "homepage": "https://absolutradio.de/",
+    "homepage": "https://absolutradio.de/empfang",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -17176,7 +17259,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://www.antenne.de/",
+    "homepage": "https://www.antenne.de/webradio/90er-party",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -19420,7 +19503,7 @@
   },
   {
     "id": "awb_1d190ad77ab885676d97",
-    "name": "Arberwaldradio",
+    "name": "arberwaldradio",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -19430,7 +19513,7 @@
     "tags": [
       "folk"
     ],
-    "homepage": "https://arberwoidradio.com/",
+    "homepage": "https://www.arberwoidradio.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -20975,10 +21058,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.beatsradio.de/",
-    "favicon": null,
+    "favicon": "https://krs3.fra1.cdn.digitaloceanspaces.com/images/stations/beats-radio-920-678764de4cc5f055178733.jpg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-04T15:06:09Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-05T00:36:44Z"
   },
   {
     "id": "awb_dabcc6d5549487279636",
@@ -23687,7 +23770,7 @@
     "id": "awb_57a7c6623f3b848ad6d8",
     "name": "BN-Radio",
     "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
+    "subdivision": "Sachsen",
     "languages": [
       "de"
     ],
@@ -23698,7 +23781,7 @@
       "electronic"
     ],
     "homepage": "http://www.bn-radio.de/",
-    "favicon": "https://stream.bn-radio.de/images/Logo-BN_Radio.png",
+    "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-11-01T14:34:41Z"
@@ -25924,7 +26007,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.ffn.de/",
+    "homepage": "https://www.ffn.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 4,
@@ -49427,6 +49510,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_1535c13124ba05f57397",
+    "name": "Jump-Sun-Radio",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://jump-sun-radio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T16:37:57Z"
   },
   {
     "id": "awb_fba2759ccf8c03733996",
@@ -73534,7 +73633,7 @@
     "id": "awb_7de0ca0a0de8e897860e",
     "name": "Radio Budowlaniec",
     "country": "DE",
-    "subdivision": "Deutschland und NRW",
+    "subdivision": "Deutschland / NRW /",
     "languages": [
       "de",
       "pl"
@@ -73559,7 +73658,7 @@
       "radio internetowe"
     ],
     "homepage": "https://radio-budowlaniec.de/",
-    "favicon": "https://radio-budowlaniec.de/sites/default/files/512.1%20logo%20rund.png",
+    "favicon": "https://radio-budowlaniec.de/sites/default/files/banner/512.1%20logo%20rund.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-28T19:33:32Z"
@@ -78631,27 +78730,6 @@
     "updatedAt": "2026-06-22T13:36:43Z"
   },
   {
-    "id": "awb_5d72db4e7bcbab8bc322",
-    "name": "Radio LOTTE Weimar",
-    "country": "DE",
-    "subdivision": "Thuringia",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "alternative",
-      "news"
-    ],
-    "homepage": "https://www.radiolotte.de/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-04T08:50:33Z"
-  },
-  {
     "id": "awb_efd6b1670a68db00dc60",
     "name": "Radio Love On Air 2010",
     "country": "DE",
@@ -80207,32 +80285,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T03:40:06Z"
-  },
-  {
-    "id": "awb_dbc52e77d6614c67982d",
-    "name": "Radio PowerVoice",
-    "country": "DE",
-    "subdivision": "Lower Saxony",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "hip-hop",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "80er",
-      "hip-hop",
-      "pop",
-      "rock",
-      "schlager"
-    ],
-    "homepage": "https://radio-powervoice.com/",
-    "favicon": "https://radio-powervoice.com/favicon.ico",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-01T17:19:22Z"
   },
   {
     "id": "awb_0398eda127abf9ef05ca",
@@ -85912,6 +85964,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:45:26Z"
+  },
+  {
+    "id": "awb_dbc52e77d6614c67982d",
+    "name": "Radio-PowerVoice",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "hip-hop",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "80er",
+      "hip-hop",
+      "pop",
+      "rock",
+      "schlager"
+    ],
+    "homepage": "https://radio-powervoice.com/",
+    "favicon": "https://radio-powervoice.com/favicon.ico",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-01T17:19:22Z"
   },
   {
     "id": "awb_c2b7239162948e6ae7e6",
@@ -103372,20 +103450,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-24T14:05:10Z"
-  },
-  {
-    "id": "awb_664edcdbd6164f5f2a8b",
-    "name": "The Variety Mix",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.redditblackout.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-04T07:36:12Z"
   },
   {
     "id": "awb_478f5db3e921cf8338b9",

@@ -140,15 +140,24 @@
     "id": "awb_532a8d214829553c11bb",
     "name": "Bethel Radio",
     "country": "PE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "subdivision": "Lima",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "cristiana",
+      "radio cristiana",
+      "religious"
+    ],
     "homepage": "https://www.bethel.fm/",
     "favicon": "https://bethel-fm.s3.us-east-1.amazonaws.com/web-assets/player/ICON%20BETHEL%20RADIO.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-30T14:39:16Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-04T13:31:20Z"
   },
   {
     "id": "awb_9cc525a2074d0ac0c6ca",
@@ -269,6 +278,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_35325b536d733c264594",
+    "name": "Corazon Andino",
+    "country": "PE",
+    "subdivision": "Arequipa",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://serrano.barrypereira12448.chatgpt.site/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T19:36:03Z"
   },
   {
     "id": "awb_2317270f4deaaecb00f1",
@@ -4885,9 +4908,9 @@
   },
   {
     "id": "awb_4b79688d257d9ed6a2ab",
-    "name": "Radio TV. Sureña (Puno, Juliaca)",
+    "name": "Radio TV. Sureña - Puno, Juliaca",
     "country": "PE",
-    "subdivision": "Puno / Juliaca",
+    "subdivision": "Juliaca - Puno",
     "languages": [],
     "categories": [],
     "tags": [],

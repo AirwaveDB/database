@@ -4461,6 +4461,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_9094f191f6c8f547d2c4",
+    "name": "FM ASPEN",
+    "country": "AR",
+    "subdivision": "Buenos Aires",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.fmaspen.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T02:29:19Z"
+  },
+  {
     "id": "awb_d3cf6025532657f77c15",
     "name": "FM Atlantic 105.9",
     "country": "AR",
@@ -8493,6 +8507,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_9e4a82b4baa68c8a489d",
+    "name": "La Catedral FM 99.1",
+    "country": "AR",
+    "subdivision": "Córdoba(Argentina)",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "cristiana",
+      "musica cristiana",
+      "radio cristiana"
+    ],
+    "homepage": "https://lacatedral.tv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T13:16:41Z"
   },
   {
     "id": "awb_022b1d8bdf2242f0ef5e",

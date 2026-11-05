@@ -4493,6 +4493,39 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_f646c09ce63088fcbd6c",
+    "name": "Flash Hits",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "electronic",
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "2000s",
+      "80s",
+      "90s",
+      "90s eurodance",
+      "classic hits pop rock",
+      "dance",
+      "eurodance",
+      "house",
+      "pop",
+      "pop dance",
+      "trance"
+    ],
+    "homepage": "https://flashhits.com.br/",
+    "favicon": "https://lashhits.com.br/favicon.ico",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-05T02:05:34Z"
+  },
+  {
     "id": "awb_9492d9c6553918abd92d",
     "name": "FM Cultura 107,7",
     "country": "BR",
@@ -6296,7 +6329,7 @@
     "id": "awb_a21216fd9e9d6f2e9273",
     "name": "Jovem pan 95,9 FM",
     "country": "BR",
-    "subdivision": "Pernambuco",
+    "subdivision": "Recife",
     "languages": [],
     "categories": [
       "pop",
@@ -7378,7 +7411,7 @@
       "tech house"
     ],
     "homepage": "https://mboxxradio.com/",
-    "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
+    "favicon": "https://radio.mboxxradio.com/static/icons/production/original.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-29T13:04:22Z"
@@ -9474,6 +9507,26 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_572abb6c4974e390dc4e",
+    "name": "Nova FM Gospel",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "gospel"
+    ],
+    "homepage": "https://radio.nvatelecom.com.br/app/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T14:15:50Z"
+  },
+  {
     "id": "awb_0db2a0ebcc3546cb6198",
     "name": "Nova FM Tapejara",
     "country": "BR",
@@ -10587,6 +10640,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-27T10:41:40Z"
+  },
+  {
+    "id": "awb_7d0bf2e2e09af27cbba5",
+    "name": "Radio 1 Classe",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiopc.com.br/#0",
+    "favicon": "https://www.radiopc.com.br/assets/imgs/nocover.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T13:26:43Z"
   },
   {
     "id": "awb_8e23ee24b7cb7fe87615",
@@ -17813,6 +17880,20 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_12f6f075e67f54604de8",
+    "name": "Rádio Livramento",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiolivramento.com.br/",
+    "favicon": "https://radiolivramento.com.br/wp-content/uploads/2021/06/logoradio.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T13:31:56Z"
+  },
+  {
     "id": "awb_44e08c28f5ec5d0d36eb",
     "name": "Radio Livre 95",
     "country": "BR",
@@ -19955,7 +20036,7 @@
     "id": "awb_a76eeb567f319bbe44bd",
     "name": "Rádio Play Mix FM",
     "country": "BR",
-    "subdivision": "Acre",
+    "subdivision": "AC",
     "languages": [
       "en",
       "pt"
@@ -19964,8 +20045,8 @@
     "tags": [
       "eclética"
     ],
-    "homepage": "https://playmixfm.com.br/",
-    "favicon": "https://i.postimg.cc/d3x5xqy2/PLAY-MIX-FM-fundo-transparente.png",
+    "homepage": "https://www.playmixfm.com.br/",
+    "favicon": "https://i.postimg.cc/TwZKqbtt/Logo-play-mix-oficial.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T18:53:16Z"

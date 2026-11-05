@@ -545,6 +545,27 @@
     "updatedAt": "2026-07-09T18:06:25Z"
   },
   {
+    "id": "awb_b4a37ba888362f7635a5",
+    "name": "Medi1 Tarab",
+    "country": "MA",
+    "subdivision": null,
+    "languages": [
+      "ar"
+    ],
+    "categories": [],
+    "tags": [
+      "arabic",
+      "moroccan",
+      "oriental",
+      "tarab"
+    ],
+    "homepage": "https://www.medi1.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T21:47:46Z"
+  },
+  {
     "id": "awb_c58d7058709976d5c08c",
     "name": "MEDINA FM",
     "country": "MA",
@@ -1068,6 +1089,28 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_4895f8604f03c003eeb6",
+    "name": "Radio plus",
+    "country": "MA",
+    "subdivision": "Casablanca",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "tags": [
+      "generalist",
+      "morocco",
+      "sport"
+    ],
+    "homepage": "http://www.radioplus.ma/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T15:51:05Z"
   },
   {
     "id": "awb_8912364bf285add5e008",

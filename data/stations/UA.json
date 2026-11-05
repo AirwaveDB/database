@@ -587,6 +587,26 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_ab82cf6afd6249fe807c",
+    "name": "Happy Radio",
+    "country": "UA",
+    "subdivision": "місто Київ",
+    "languages": [
+      "uk"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.happyradio.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T23:06:15Z"
+  },
+  {
     "id": "awb_fb02f5377f576d6dfcac",
     "name": "HIT FM",
     "country": "UA",
@@ -4159,7 +4179,7 @@
       "pop"
     ],
     "homepage": "https://www.nasheradio.ua/",
-    "favicon": "https://play.tavr.media/static/image/nashe/Nashe_player_logo.png?v=4",
+    "favicon": "https://play.tavr.media/static/image/nashe/NasheRadio_NewLogo_228x228.png",
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-01-14T23:39:47Z"

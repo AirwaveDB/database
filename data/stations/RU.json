@@ -3637,7 +3637,7 @@
     "id": "awb_bb18e22d61efdf04b4fe",
     "name": "BRİDGE TV",
     "country": "RU",
-    "subdivision": "Moscow",
+    "subdivision": "Moscow (Russia)",
     "languages": [
       "en",
       "ru"
@@ -3648,7 +3648,7 @@
     "tags": [
       "pop music"
     ],
-    "homepage": "https://bridgetv.ru/about/channels/",
+    "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
     "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
     "type": null,
     "sourceCount": 3,
@@ -26547,6 +26547,29 @@
     "updatedAt": "2026-01-15T07:00:09Z"
   },
   {
+    "id": "awb_c523e664968a704ff8fb",
+    "name": "Radio Record (via Marseille)",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "electronic",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "electronic",
+      "pop"
+    ],
+    "homepage": "https://www.radiorecord.ru/",
+    "favicon": "https://www.radiorecord.ru/icons/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T09:55:45Z"
+  },
+  {
     "id": "awb_b045bb9e4c81a7343ed4",
     "name": "Radio Record 00's",
     "country": "RU",
@@ -39238,6 +39261,26 @@
     "updatedAt": "2026-08-21T15:59:29Z"
   },
   {
+    "id": "awb_732c6e8b990b6a876ecb",
+    "name": "Настюша FM",
+    "country": "RU",
+    "subdivision": "Пермский край",
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "поп",
+      "ретро",
+      "шансон"
+    ],
+    "homepage": "https://vk.com/nastyafm",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-04T20:38:49Z"
+  },
+  {
     "id": "awb_8ab27d7ef8604e8afdc7",
     "name": "нафталин fm",
     "country": "RU",
@@ -41732,7 +41775,7 @@
   },
   {
     "id": "awb_e409ed31da9366df648d",
-    "name": "Радио ViBE Новый Звук",
+    "name": "Радио Vibe Новый Звук",
     "country": "RU",
     "subdivision": "russia",
     "languages": [
@@ -41747,7 +41790,7 @@
       "pop"
     ],
     "homepage": "https://radiovibe.ru/",
-    "favicon": "https://radiovibe.ru/img/vibe_500.png",
+    "favicon": "https://radiovibe.ru/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T13:24:17Z"
@@ -51618,7 +51661,7 @@
     "id": "awb_d0e72ae4262a7e8be492",
     "name": "Хит FM",
     "country": "RU",
-    "subdivision": "Moscow/Saint Petersburg",
+    "subdivision": "Moscow",
     "languages": [
       "ru"
     ],

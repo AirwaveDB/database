@@ -13432,7 +13432,7 @@
     "tags": [
       "groove"
     ],
-    "homepage": "https://www.friskradio.com/?station=4un",
+    "homepage": "https://www.friskradio.com/?station=4",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -14081,6 +14081,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:45:19Z"
+  },
+  {
+    "id": "awb_c8bef8730ddde20bc836",
+    "name": "GCRadio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "classic r&b old"
+    ],
+    "homepage": "https://gcradiohub.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T00:53:24Z"
   },
   {
     "id": "awb_c2fe271a5b976502242e",
@@ -33503,6 +33519,31 @@
     "updatedAt": "2026-08-28T20:38:40Z"
   },
   {
+    "id": "awb_ff705496824c552b9055",
+    "name": "Sunset Sol Radio",
+    "country": "GB",
+    "subdivision": "London",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "belearic",
+      "deep",
+      "house",
+      "melodic",
+      "organic",
+      "soulful"
+    ],
+    "homepage": "https://listen.sunsetsolradio.com/",
+    "favicon": "https://listen.sunsetsolradio.com/icons/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T08:11:21Z"
+  },
+  {
     "id": "awb_c5639b5168a851be0c1c",
     "name": "Sunshine 855",
     "country": "GB",
@@ -37385,7 +37426,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"
