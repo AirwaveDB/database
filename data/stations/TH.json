@@ -600,6 +600,29 @@
     "updatedAt": "2026-09-30T07:03:33Z"
   },
   {
+    "id": "awb_072782ecf80e1520f920",
+    "name": "Friends Bangkok",
+    "country": "TH",
+    "subdivision": null,
+    "languages": [
+      "th"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "easy listening",
+      "pop",
+      "smooth"
+    ],
+    "homepage": "https://www.friendsbangkok.com/",
+    "favicon": "https://www.friendsbangkok.com/directory_template_frontend/img/fav.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T04:42:40Z"
+  },
+  {
     "id": "awb_14f255f83ecd97163ace",
     "name": "GMM25: digital TV channel 25",
     "country": "TH",
@@ -628,6 +651,26 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_276d100c8d210dd50725",
+    "name": "Great 93 FM",
+    "country": "TH",
+    "subdivision": null,
+    "languages": [
+      "th"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://great93.jimdofree.com/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/682/great-online-thailand.5a600f1b.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T04:52:58Z"
   },
   {
     "id": "awb_77f8a6f18693ae6a9b29",
@@ -931,6 +974,44 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_d500023651419325f40f",
+    "name": "MUN Forward 103",
+    "country": "TH",
+    "subdivision": null,
+    "languages": [
+      "th"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://live.munforward.com/",
+    "favicon": "https://live.munforward.com/assets/img/head-logo-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T04:13:46Z"
+  },
+  {
+    "id": "awb_4c6cd85bb2b3ed63c9f0",
+    "name": "MUN Forward Xtra 88",
+    "country": "TH",
+    "subdivision": null,
+    "languages": [
+      "th"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "pop music",
+      "thailand"
+    ],
+    "homepage": "https://live.munforward.com/",
+    "favicon": "https://live.munforward.com/assets/img/head-logo-2-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T05:04:16Z"
   },
   {
     "id": "awb_1cab7b623b79f3681939",
@@ -1432,10 +1513,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.voiceofnavy.com/",
-    "favicon": null,
+    "favicon": "https://885sweetfm.com/favicon.ico",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-26T03:03:08Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-06T05:00:16Z"
   },
   {
     "id": "awb_e38908aa7dc192ec7071",

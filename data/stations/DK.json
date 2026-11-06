@@ -1682,6 +1682,32 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_58467c399062f2b354ae",
+    "name": "Magic Lumora Radio",
+    "country": "DK",
+    "subdivision": null,
+    "languages": [
+      "da",
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
+    "tags": [
+      "ai music",
+      "ambient",
+      "denmark",
+      "electronic",
+      "internet radio"
+    ],
+    "homepage": "https://magiclumora.com/",
+    "favicon": "https://magiclumora.com/assets/favicon.png",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T05:32:36Z"
+  },
+  {
     "id": "awb_16c31cf8ee4f37e1c82d",
     "name": "Midtfjord Radio",
     "country": "DK",
@@ -2393,13 +2419,12 @@
       "pop"
     ],
     "tags": [
-      "pop music",
       "pop-music"
     ],
     "homepage": "https://radioflr.dk/",
-    "favicon": "http://radioflr.dk/wp-content/uploads/2025/12/RadioFLR_Logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {

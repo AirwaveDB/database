@@ -1,7 +1,7 @@
 [
   {
     "code": "af",
-    "stationCount": 29
+    "stationCount": 30
   },
   {
     "code": "ak",
@@ -117,11 +117,11 @@
   },
   {
     "code": "da",
-    "stationCount": 96
+    "stationCount": 97
   },
   {
     "code": "de",
-    "stationCount": 3883
+    "stationCount": 3888
   },
   {
     "code": "dsb",
@@ -133,7 +133,7 @@
   },
   {
     "code": "en",
-    "stationCount": 12147
+    "stationCount": 12165
   },
   {
     "code": "eo",
@@ -141,7 +141,7 @@
   },
   {
     "code": "es",
-    "stationCount": 5656
+    "stationCount": 5655
   },
   {
     "code": "et",
@@ -181,7 +181,7 @@
   },
   {
     "code": "fr",
-    "stationCount": 2501
+    "stationCount": 2505
   },
   {
     "code": "ga",
@@ -225,7 +225,7 @@
   },
   {
     "code": "hi",
-    "stationCount": 409
+    "stationCount": 408
   },
   {
     "code": "hr",
@@ -241,7 +241,7 @@
   },
   {
     "code": "hu",
-    "stationCount": 244
+    "stationCount": 243
   },
   {
     "code": "hy",
@@ -265,7 +265,7 @@
   },
   {
     "code": "it",
-    "stationCount": 1268
+    "stationCount": 1267
   },
   {
     "code": "ja",
@@ -381,11 +381,15 @@
   },
   {
     "code": "mt",
-    "stationCount": 3
+    "stationCount": 4
   },
   {
     "code": "my",
     "stationCount": 5
+  },
+  {
+    "code": "nd",
+    "stationCount": 1
   },
   {
     "code": "nds",
@@ -397,7 +401,7 @@
   },
   {
     "code": "nl",
-    "stationCount": 772
+    "stationCount": 770
   },
   {
     "code": "no",
@@ -441,7 +445,7 @@
   },
   {
     "code": "pl",
-    "stationCount": 676
+    "stationCount": 678
   },
   {
     "code": "pop",
@@ -453,7 +457,7 @@
   },
   {
     "code": "pt",
-    "stationCount": 782
+    "stationCount": 781
   },
   {
     "code": "qu",
@@ -473,7 +477,7 @@
   },
   {
     "code": "ru",
-    "stationCount": 1597
+    "stationCount": 1600
   },
   {
     "code": "rue",
@@ -513,7 +517,7 @@
   },
   {
     "code": "sn",
-    "stationCount": 3
+    "stationCount": 4
   },
   {
     "code": "so",
@@ -533,7 +537,7 @@
   },
   {
     "code": "sw",
-    "stationCount": 37
+    "stationCount": 36
   },
   {
     "code": "swg",
@@ -549,7 +553,7 @@
   },
   {
     "code": "th",
-    "stationCount": 72
+    "stationCount": 76
   },
   {
     "code": "ti",
@@ -569,7 +573,7 @@
   },
   {
     "code": "tr",
-    "stationCount": 281
+    "stationCount": 284
   },
   {
     "code": "tt",
@@ -633,6 +637,6 @@
   },
   {
     "code": "zh",
-    "stationCount": 2059
+    "stationCount": 2058
   }
 ]

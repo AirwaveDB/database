@@ -1958,7 +1958,7 @@
     "favicon": "https://radio.pevaio.top/static/uploads/album_art.1784866749.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T01:13:37Z"
+    "updatedAt": "2026-11-06T01:22:57Z"
   },
   {
     "id": "awb_fccba9e4f43fcf4b34c2",
@@ -4031,6 +4031,32 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_dbdcda56b2ddad052b18",
+    "name": "Eldorado FM - São Paulo",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "diversity",
+      "eclectic programming",
+      "experimental",
+      "local news",
+      "mpb",
+      "pop",
+      "r&b"
+    ],
+    "homepage": "https://www.estadao.com.br/eldorado/",
+    "favicon": "https://assets.estadao.com.br/eldorado/logos/favicon_3.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T18:30:12Z"
+  },
+  {
     "id": "awb_084d5efcdeb3ae5e66f9",
     "name": "ELEKTRA RADIO",
     "country": "BR",
@@ -4520,7 +4546,7 @@
       "trance"
     ],
     "homepage": "https://flashhits.com.br/",
-    "favicon": "https://lashhits.com.br/favicon.ico",
+    "favicon": "https://flashhits.com.br/app/icons/icon-512.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-05T02:05:34Z"
@@ -6329,7 +6355,7 @@
     "id": "awb_a21216fd9e9d6f2e9273",
     "name": "Jovem pan 95,9 FM",
     "country": "BR",
-    "subdivision": "Recife",
+    "subdivision": "Pernambuco",
     "languages": [],
     "categories": [
       "pop",
@@ -7028,6 +7054,20 @@
     "updatedAt": "2026-01-25T13:26:21Z"
   },
   {
+    "id": "awb_2252a5f52f03da494086",
+    "name": "LASER 93.3",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.laser933.com.br/",
+    "favicon": "https://www.laser933.com.br/arquivos/2020/05/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T12:23:18Z"
+  },
+  {
     "id": "awb_61b50f0ddd0fb15211d4",
     "name": "Liberal FM 92.7",
     "country": "BR",
@@ -7411,7 +7451,7 @@
       "tech house"
     ],
     "homepage": "https://mboxxradio.com/",
-    "favicon": "https://radio.mboxxradio.com/static/icons/production/original.png",
+    "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-29T13:04:22Z"
@@ -7905,7 +7945,7 @@
     "id": "awb_80547b8fed2434784aae",
     "name": "Melodia IA",
     "country": "BR",
-    "subdivision": "Belo Horizonte",
+    "subdivision": "Minas Gerais Brasil",
     "languages": [
       "en"
     ],
@@ -11602,7 +11642,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC",
+    "name": "Rádio AMC+",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -11617,7 +11657,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amclogo.png",
+    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -22980,13 +23020,13 @@
   },
   {
     "id": "awb_13526dba636939f0e478",
-    "name": "Rádio Videira FM 102.9",
+    "name": "Rádio Videira - FM 102.9",
     "country": "BR",
     "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.radiov102.com.br/",
+    "homepage": "https://www.radiov102.com.br/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -25926,7 +25966,7 @@
       "modao"
     ],
     "homepage": "https://violaviva.com.br/instrumental/",
-    "favicon": "https://a.favicon.im/violaviva.com.br",
+    "favicon": "https://violaviva.com.br/wp-content/uploads/2026/01/cropped-5-192x192.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T20:28:37Z"

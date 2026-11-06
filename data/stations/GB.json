@@ -1952,7 +1952,7 @@
     "favicon": "https://aajamusic.com/_nuxt/icons/icon_64x64.fafdcd.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T03:39:36Z"
+    "updatedAt": "2026-11-06T04:25:14Z"
   },
   {
     "id": "awb_767e7c9e6067a15b3e35",
@@ -8615,24 +8615,6 @@
     "updatedAt": "2026-04-06T13:52:05Z"
   },
   {
-    "id": "awb_e93a3cf01ad588decb87",
-    "name": "CGM UKScene Sister Station",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "demoscene"
-    ],
-    "homepage": "http://cgmuksceneradio-pi.noip.me/",
-    "favicon": "http://81.152.252.248:8080/Raspi_Colour_R.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:30:34Z"
-  },
-  {
     "id": "awb_9f3ec2eab7b3dd9465ce",
     "name": "Channel 4",
     "country": "GB",
@@ -9762,20 +9744,6 @@
     "updatedAt": "2026-08-19T12:46:55Z"
   },
   {
-    "id": "awb_d02d02b541782cc4fe9c",
-    "name": "Cosoro Pidgin",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://cosororadio.co.uk/",
-    "favicon": "https://cosororadio.co.uk/storage/2025/08/Cosoro-Pidgin-1000-min-370x370.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-19T12:45:22Z"
-  },
-  {
     "id": "awb_ef787cd1b58e213d9305",
     "name": "Cosoro Radio",
     "country": "GB",
@@ -9791,8 +9759,8 @@
     "homepage": "https://cosororadio.co.uk/",
     "favicon": "https://m.media-amazon.com/images/I/71qvsqWYTwL.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-29T11:40:46Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-04-06T17:48:30Z"
   },
   {
     "id": "awb_ff601389b21e42629a02",
@@ -10122,27 +10090,30 @@
     "id": "awb_7a734a49ce73c28f51ae",
     "name": "CruiseOne Radio",
     "country": "GB",
-    "subdivision": null,
+    "subdivision": "Bristol UK",
     "languages": [
       "en"
     ],
     "categories": [
       "electronic",
+      "oldies",
       "pop",
       "rock"
     ],
     "tags": [
+      "80s",
       "electronic",
       "indie",
       "indie rock",
       "pop",
-      "rock"
+      "rock",
+      "top40"
     ],
     "homepage": "https://cruiseoneradio.net/",
     "favicon": "https://i1.sndcdn.com/avatars-000037533466-mgfbsp-t500x500.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-05T23:33:01Z"
   },
   {
     "id": "awb_fa90934bf233cda8d0ea",
@@ -10625,7 +10596,7 @@
     "favicon": "http://www.dandelionradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T00:54:37Z"
+    "updatedAt": "2026-11-06T01:04:59Z"
   },
   {
     "id": "awb_a7094e4e43bfdc768d67",
@@ -12155,6 +12126,20 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_db71b767319828107e4b",
+    "name": "EMIGRANTES UK",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://emigrante-em-uk.webnode.pt/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T23:08:28Z"
+  },
+  {
     "id": "awb_fbaf6c410144a35280e5",
     "name": "Endeavour FM",
     "country": "GB",
@@ -13432,7 +13417,7 @@
     "tags": [
       "groove"
     ],
-    "homepage": "https://www.friskradio.com/?station=4",
+    "homepage": "https://www.friskradio.com/?station=4un",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -15140,22 +15125,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:11:16Z"
-  },
-  {
-    "id": "awb_a1b1a2d03c9810284ae1",
-    "name": "Happy Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.happyradiouk.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-25T19:06:45Z"
   },
   {
     "id": "awb_3006b39a1db53c6bb58d",
@@ -17504,6 +17473,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-18T02:20:44Z"
+  },
+  {
+    "id": "awb_72b3df4df82d365ace4a",
+    "name": "https://lgrradio.com/",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://lgrradio.com/",
+    "favicon": "https://assets.clrd.net/uploads/logos/autodj/019eb653-34c1-780e-9052-cc3a78aaef67/87f96c8e-08fc-40c7-a39e-84befd697625-master-3000x1714.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T21:58:50Z"
   },
   {
     "id": "awb_b7269bacc1ee19509e7c",
@@ -20249,50 +20234,6 @@
     "updatedAt": "2026-01-15T07:42:27Z"
   },
   {
-    "id": "awb_de024dea9c5ab4138f9e",
-    "name": "Like Radio - CHILL (AAC+)",
-    "country": "GB",
-    "subdivision": "England",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient",
-      "pop"
-    ],
-    "tags": [
-      "chill",
-      "pop"
-    ],
-    "homepage": "https://like.radio/likechill/",
-    "favicon": "https://i.ibb.co/sJrSjYY/chill.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:48:14Z"
-  },
-  {
-    "id": "awb_2a41cf12e8aea4c51c69",
-    "name": "Like Radio - CHILL (MP3)",
-    "country": "GB",
-    "subdivision": "England",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient",
-      "pop"
-    ],
-    "tags": [
-      "chill",
-      "pop"
-    ],
-    "homepage": "https://like.radio/likechill/",
-    "favicon": "https://i.ibb.co/sJrSjYY/chill.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:26:33Z"
-  },
-  {
     "id": "awb_a9149b49b89d0386019a",
     "name": "Like Radio - CHRISTMAS (AAC+)",
     "country": "GB",
@@ -20461,27 +20402,6 @@
     "updatedAt": "2026-01-15T02:27:53Z"
   },
   {
-    "id": "awb_98309c02f0b138809051",
-    "name": "Like Radio - HOLIDAY (MP3)",
-    "country": "GB",
-    "subdivision": "England",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "holiday",
-      "pop"
-    ],
-    "homepage": "https://like.radio/likeholiday/",
-    "favicon": "https://i.ibb.co/CPr0Mcx/App-Icon-Android-Like-Holiday-512-x-512.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:37:46Z"
-  },
-  {
     "id": "awb_675c57c174832ead3c49",
     "name": "Like Radio - HOLIDAY CLASSICS (MP3)",
     "country": "GB",
@@ -20502,27 +20422,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:07:14Z"
-  },
-  {
-    "id": "awb_484f5e26b3836b564ab4",
-    "name": "Like Radio - LOVE (MP3)",
-    "country": "GB",
-    "subdivision": "England",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "love songs",
-      "pop"
-    ],
-    "homepage": "https://like.radio/likelove/",
-    "favicon": "https://i.ibb.co/M2Hjg17/like-love-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:28:39Z"
   },
   {
     "id": "awb_2aea819a3d5749899c99",
@@ -22079,7 +21978,7 @@
       "top 40"
     ],
     "homepage": "http://www.mazoozie.com/",
-    "favicon": "https://www.mazoozie.com/img/logo-mazoozie-mashup.c4c3588a.png",
+    "favicon": "https://www.mazoozie.com/images/loader.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-06-28T13:32:35Z"
@@ -23599,6 +23498,28 @@
     "updatedAt": "2026-06-10T06:38:11Z"
   },
   {
+    "id": "awb_7b41ecf3255f673bd874",
+    "name": "NME2",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "indie",
+      "rock"
+    ],
+    "homepage": "https://www.nme.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T15:25:35Z"
+  },
+  {
     "id": "awb_08d7bab7b49e27ebe45d",
     "name": "Noeko Radio",
     "country": "GB",
@@ -24989,6 +24910,67 @@
     "updatedAt": "2026-01-30T06:37:17Z"
   },
   {
+    "id": "awb_90c0278b0f2047de8a6b",
+    "name": "PARTY VIBE RADIO : ALTERNATIVE ROCK",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "homepage": "https://www.partyvibe.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T15:35:29Z"
+  },
+  {
+    "id": "awb_9f30eca0347ceeb98299",
+    "name": "PARTY VIBE RADIO : JAZZ",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz"
+    ],
+    "homepage": "https://www.partyvibe.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T15:25:35Z"
+  },
+  {
+    "id": "awb_fff24a299bf698c1766a",
+    "name": "PARTY VIBE RADIO : POP",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.partyvibe.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T15:29:39Z"
+  },
+  {
     "id": "awb_5e1b445cd165b5dcccf4",
     "name": "Party Vibe Radio : Psychedelic Trace",
     "country": "GB",
@@ -25010,6 +24992,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-21T22:05:15Z"
+  },
+  {
+    "id": "awb_c5f01b794e1057bf6949",
+    "name": "PARTY VIBE RADIO : RAP",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "homepage": "https://www.partyvibe.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T15:25:35Z"
   },
   {
     "id": "awb_21fe7ebb57b55bdbdf56",
@@ -25910,7 +25913,7 @@
       "praise",
       "worship"
     ],
-    "homepage": "https://www.premier.plus/stations/premier-peace",
+    "homepage": "https://www.premier.plus/stations/premier-praise",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -26643,7 +26646,7 @@
     "favicon": "https://buenavida.co.uk/wp-content/uploads/2022/08/Small-logo-for-Soundcloud.jpg",
     "type": "community",
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T01:43:55Z"
+    "updatedAt": "2026-11-06T01:44:49Z"
   },
   {
     "id": "awb_d9b84e2fe545cb4ac5d3",
@@ -27191,7 +27194,7 @@
     "favicon": "https://i0.wp.com/radioenrg.com/wp-content/uploads/2020/06/radio-enrg-triangle-black-10.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-31T23:09:45Z"
+    "updatedAt": "2026-11-05T23:12:00Z"
   },
   {
     "id": "awb_1b38758d4250c2f37858",
@@ -32926,7 +32929,7 @@
     "favicon": "https://spaceunicorn.radio/assets/img/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T05:15:21Z"
+    "updatedAt": "2026-11-06T05:26:47Z"
   },
   {
     "id": "awb_47dc726d0868a62c9060",
@@ -33821,6 +33824,24 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_4f06d155976d096537f9",
+    "name": "SYNK Radio",
+    "country": "GB",
+    "subdivision": "England",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://synkradio.uk/",
+    "favicon": "https://synkradio.uk/images/avatar.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T02:59:54Z"
   },
   {
     "id": "awb_1619885246757fd60352",
@@ -35093,7 +35114,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T03:41:46Z"
+    "updatedAt": "2026-11-06T03:46:58Z"
   },
   {
     "id": "awb_9a85824534bace90044d",
@@ -35139,7 +35160,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T07:56:53Z"
+    "updatedAt": "2026-11-06T08:01:32Z"
   },
   {
     "id": "awb_0cd68043fc15aa1212bb",
@@ -37158,20 +37179,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_272e20190f9e55cb0e2a",
-    "name": "Windrush Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.windrushradio.co.uk/",
-    "favicon": "https://myradiostream.com/station/uploads/logo/afc3e44673297558dbf7c9658b79b46180cef490.gif",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-22T07:10:11Z"
-  },
-  {
     "id": "awb_eabae8d3b7d40b574b2e",
     "name": "WK-END",
     "country": "GB",
@@ -37426,7 +37433,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

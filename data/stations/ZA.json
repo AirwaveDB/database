@@ -2308,14 +2308,21 @@
     "name": "Radio Daspoort",
     "country": "ZA",
     "subdivision": "Pretoria",
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "af"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "afrikaans",
+      "pop"
+    ],
     "homepage": "https://c32.radioboss.fm:8899/stream",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-15T03:02:08Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-05T12:11:08Z"
   },
   {
     "id": "awb_fa30a100ff2484a6868b",

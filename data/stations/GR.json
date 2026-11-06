@@ -7506,7 +7506,7 @@
     "id": "awb_26a51cf565919736f4ad",
     "name": "eMusic Site",
     "country": "GR",
-    "subdivision": "Attiki",
+    "subdivision": "Attica, Athens",
     "languages": [
       "el",
       "en"
@@ -11953,7 +11953,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-11-02T01:36:47Z"
+    "updatedAt": "2026-11-06T07:24:27Z"
   },
   {
     "id": "awb_5daf4d1f3882debc368d",
@@ -12594,6 +12594,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_64ac23f99f15529fd24f",
+    "name": "Kiss fm karditsa 100.4",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T20:09:40Z"
   },
   {
     "id": "awb_5997bf2fa4b708352818",
@@ -14989,7 +15005,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-01T19:51:58Z"
+    "updatedAt": "2026-11-05T22:52:08Z"
   },
   {
     "id": "awb_f6721fc2fc91afd0e9b8",
@@ -18507,25 +18523,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:29:57Z"
-  },
-  {
-    "id": "awb_22b4a274fb86204102a1",
-    "name": "Power 90.2",
-    "country": "GR",
-    "subdivision": "Katerini",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "greek pop",
-      "mainstream"
-    ],
-    "homepage": "https://www.power.gr/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/e515cee5-7008-4921-9fe2-3b5a1f335eaa.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_4d8d95391cafca2d2fbf",
@@ -27679,7 +27676,7 @@
     "favicon": "https://studio19.gr/images/Studio19_logo2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T13:37:50Z"
+    "updatedAt": "2026-11-06T00:05:49Z"
   },
   {
     "id": "awb_5576fa95e6cc10a65f36",
@@ -35190,24 +35187,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_e6b1c0408ded89b781f0",
-    "name": "Μελωδία Θεσσαλονίκης 98",
-    "country": "GR",
-    "subdivision": "Thessaloniki",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "greek music"
-    ],
-    "homepage": "https://live24.gr/radio/melodia98",
-    "favicon": "https://live24.gr/resrc/styles/custom-popups/melodia98/melodia98-Thess-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:29:20Z"
-  },
-  {
     "id": "awb_ed1d0d288d04cbae346d",
     "name": "Μελωδία Κασέτες",
     "country": "GR",
@@ -37264,7 +37243,7 @@
     "id": "awb_cae5d806d79650d3c313",
     "name": "Ράδιο Ελληνικά Ακούσματα",
     "country": "GR",
-    "subdivision": "Αττικής (Νησιά)",
+    "subdivision": "Athens",
     "languages": [],
     "categories": [],
     "tags": [],

@@ -194,7 +194,7 @@
     "favicon": "https://meta.1zwolle.nl/logos/64x64.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T14:09:25Z"
+    "updatedAt": "2026-11-06T04:25:50Z"
   },
   {
     "id": "awb_3861f863ae11d5bbecf3",
@@ -5720,36 +5720,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_15b788d8cad441d70c64",
-    "name": "Happy Music Radio",
-    "country": "NL",
-    "subdivision": "South Holland",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "country",
-      "oldies",
-      "pop",
-      "reggae"
-    ],
-    "tags": [
-      "country",
-      "disco",
-      "funk",
-      "night radio",
-      "oldies",
-      "pop",
-      "reggae",
-      "soul"
-    ],
-    "homepage": "https://happy-music-radio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-11T22:33:24Z"
   },
   {
     "id": "awb_d74278ea41c74b76b429",
@@ -12993,7 +12963,7 @@
       "psb"
     ],
     "homepage": "https://powerstationbuddha.com/",
-    "favicon": "https://powerstationbuddha.com/wp-content/uploads/2025/05/logo-powerstation-buddha-600-1.png",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazg4CH2MVkVP7V5S9VHUAnu953XI_wgI_D5DltnJBMQYQgkJWjnOFGX-T6vLo-Zjneyo&usqp=CAU",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -16323,6 +16293,24 @@
     "updatedAt": "2026-01-29T15:54:47Z"
   },
   {
+    "id": "awb_21a430c2ebd651ba042a",
+    "name": "Radio Schouwen-Duiveland",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.radiosd.nl/",
+    "favicon": "https://www.radiosd.nl/wp-content/uploads/2019/07/sdlogoklein.gif",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T11:10:46Z"
+  },
+  {
     "id": "awb_b1043ee08311ece50966",
     "name": "Radio Seabreeze",
     "country": "NL",
@@ -18194,26 +18182,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-29T13:36:04Z"
-  },
-  {
-    "id": "awb_b35f0b0689f3055622b3",
-    "name": "Rozo Radio",
-    "country": "NL",
-    "subdivision": "Noord-Brabant, Oosterhout",
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [
-      "hospital radio",
-      "local radio",
-      "music"
-    ],
-    "homepage": "https://www.rozoradio.nl/",
-    "favicon": "https://vhn-huisomroep.nl/____impro/1/onewebmedia/i286823014299902169.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:31:56Z"
   },
   {
     "id": "awb_b04244ab2cbf94c8d629",
@@ -20093,7 +20061,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T03:35:31Z"
+    "updatedAt": "2026-11-06T04:00:21Z"
   },
   {
     "id": "awb_dd748d6ac2bea7f2fb37",
@@ -20371,25 +20339,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_f0b9f444426e0d1f9d43",
-    "name": "The MOD Station",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "16bit",
-      "chiptunes"
-    ],
-    "homepage": "https://c64radio.com/AmigaRadio/index.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-07T15:37:18Z"
   },
   {
     "id": "awb_77411abb2909524f1431",

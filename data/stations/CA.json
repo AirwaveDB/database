@@ -1951,6 +1951,20 @@
     "updatedAt": "2026-03-18T17:33:38Z"
   },
   {
+    "id": "awb_3a8a7e5ac3d89ab6071d",
+    "name": "AM 1150 Talk Radio in Kelowna",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.am1150.ca/",
+    "favicon": "https://pbs.twimg.com/profile_images/664803420461768704/pPRdksKR_400x400.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T01:47:54Z"
+  },
+  {
     "id": "awb_22058593f1543ac7f5e8",
     "name": "Amazing Discoveries TV",
     "country": "CA",
@@ -2079,29 +2093,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T06:44:17Z"
-  },
-  {
-    "id": "awb_b1a35b491c777897be55",
-    "name": "ATOMIC FM",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic",
-      "hip-hop",
-      "oldies",
-      "rock"
-    ],
-    "tags": [
-      "90s hip-hop house 2000's alternative brazillian rock electro"
-    ],
-    "homepage": "https://atomic-fm.netlify.app/",
-    "favicon": "https://atomic-fm.netlify.app/og.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-15T03:19:43Z"
   },
   {
     "id": "awb_4b060931fbff7b29a3b9",
@@ -6032,7 +6023,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -6050,7 +6041,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://www.cfnj.net/",
+    "homepage": "http://cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -28128,6 +28119,20 @@
     "updatedAt": "2026-01-15T08:38:09Z"
   },
   {
+    "id": "awb_ec8c48bb9c2853ae8142",
+    "name": "The HUB - Nanton Radio",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://nantonradio.ca/",
+    "favicon": "https://nantonradio.ca/hub-img/hub-icon-192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T03:27:56Z"
+  },
+  {
     "id": "awb_65f956baf50fb2201d58",
     "name": "The Lounge 99.9",
     "country": "CA",
@@ -28257,31 +28262,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:05:08Z"
-  },
-  {
-    "id": "awb_740a1bbea329ca5c78e8",
-    "name": "The Mixtape",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "hip-hop",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "hip-hop",
-      "rap",
-      "rock",
-      "top 40"
-    ],
-    "homepage": "https://www.themixtaperadio.ca/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-07T20:01:49Z"
   },
   {
     "id": "awb_30574084fdc5b41abbf5",
@@ -28619,6 +28599,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-25T22:51:40Z"
+  },
+  {
+    "id": "awb_b554d958452af6027c5c",
+    "name": "Triple C Radio",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "canadian",
+      "community radio",
+      "independent",
+      "indie",
+      "new music",
+      "non-profit",
+      "toronto"
+    ],
+    "homepage": "https://triplec.fm/",
+    "favicon": "https://triplec.fm/icons/artwork-512.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T14:02:17Z"
   },
   {
     "id": "awb_207348f05e7739db775c",

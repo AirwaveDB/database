@@ -185,6 +185,28 @@
     "updatedAt": "2026-05-15T15:16:24Z"
   },
   {
+    "id": "awb_9beb420165fda76ca567",
+    "name": "🍒 La Radio sous la Cerise 🍒",
+    "country": "FR",
+    "subdivision": "Normandie",
+    "languages": [
+      "br",
+      "fr"
+    ],
+    "categories": [
+      "kids"
+    ],
+    "tags": [
+      "kids",
+      "musiques des enfants"
+    ],
+    "homepage": "https://laradio.souslacerise.fr/",
+    "favicon": "https://laradio.souslacerise.fr/wp-content/uploads/sites/10/2016/11/cropped-Picto-radio-sous-la-cerise-icone-270x270.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-03-30T15:32:12Z"
+  },
+  {
     "id": "awb_5e7481e16203ed9a5f71",
     "name": "📺 RFI Monde",
     "country": "FR",
@@ -4859,6 +4881,20 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_71773710e8842427e2ea",
+    "name": "BLS GUYANE",
+    "country": "FR",
+    "subdivision": "VERNON",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://blsguyane.webradiosite.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T17:00:24Z"
+  },
+  {
     "id": "awb_5b3eb3fe598bcc1fe02e",
     "name": "BLT Radio",
     "country": "FR",
@@ -4919,7 +4955,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox Radio",
+    "name": "Boombox radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -5238,7 +5274,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao Radio",
+    "name": "Cacao-Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -9556,7 +9592,7 @@
     "id": "awb_7e7569648104bc027057",
     "name": "DIGITAL2RADIO",
     "country": "FR",
-    "subdivision": "Normandy",
+    "subdivision": "Normandie",
     "languages": [],
     "categories": [
       "oldies",
@@ -10653,7 +10689,7 @@
     "homepage": "https://www.europaradiojazz.org/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -20227,7 +20263,7 @@
     "favicon": "https://i.postimg.cc/BQZXKJnh/LOGO-3-2-bg1.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T19:51:20Z"
+    "updatedAt": "2026-11-06T03:05:48Z"
   },
   {
     "id": "awb_59958b09a5492c724646",
@@ -20260,7 +20296,7 @@
     "favicon": "https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T18:39:07Z"
+    "updatedAt": "2026-11-06T05:06:55Z"
   },
   {
     "id": "awb_7e1888e862706fbd34c1",
@@ -22392,6 +22428,26 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_798cbbb909bcaaa0a0a5",
+    "name": "La Playlist de Stef",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "music",
+      "playlist"
+    ],
+    "homepage": "https://laplaylistdestef.fr/",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/402/la-playlist-de-stef.0be3adf8.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T16:45:05Z"
+  },
+  {
     "id": "awb_1a1f1a54f225011fc294",
     "name": "La Pop’ulaire FLAC",
     "country": "FR",
@@ -22495,30 +22551,8 @@
     "homepage": "http://www.laradiosanspub.fr/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T07:42:26Z"
-  },
-  {
-    "id": "awb_9beb420165fda76ca567",
-    "name": "La radio sous la cerise",
-    "country": "FR",
-    "subdivision": "Normandie",
-    "languages": [
-      "br",
-      "fr"
-    ],
-    "categories": [
-      "kids"
-    ],
-    "tags": [
-      "kids",
-      "musiques des enfants"
-    ],
-    "homepage": "https://laradio.souslacerise.fr/radio/",
-    "favicon": "https://laradio.souslacerise.fr/wp-content/uploads/sites/10/2016/11/cropped-Picto-radio-sous-la-cerise-icone-270x270.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-30T15:32:12Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-01-15T02:22:41Z"
   },
   {
     "id": "awb_49fa50d006b247db56b7",
@@ -25216,6 +25250,26 @@
     "updatedAt": "2026-01-15T06:56:27Z"
   },
   {
+    "id": "awb_db2f37321530c711f753",
+    "name": "Melodia Fréquence Passion",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits"
+    ],
+    "homepage": "https://melodia-frequence-passion.fr/",
+    "favicon": "https://melodia-frequence-passion.fr/uploads/6a311bbd1fff6/streams/1781657400_c7562b721937041b46be.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T16:28:30Z"
+  },
+  {
     "id": "awb_5c6e2be9ea56bd146a14",
     "name": "Melody Rock & Pop Forever",
     "country": "FR",
@@ -25767,24 +25821,18 @@
     "name": "Mon tout petit France Inter",
     "country": "FR",
     "subdivision": null,
-    "languages": [
-      "fr"
-    ],
+    "languages": [],
     "categories": [
       "kids"
     ],
     "tags": [
-      "3 ans",
-      "children",
-      "enfants",
-      "kids",
-      "musiques des enfants"
+      "children"
     ],
-    "homepage": "https://www.radiofrance.fr/podcasts/enfants",
-    "favicon": "https://www.radiofrance.fr/pikapi/images/cbfde3c3-8213-45a6-ac89-b6a3b521025c/200x200",
+    "homepage": "https://www.radiofrance.fr/montoutpetitfranceinter",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-03-09T07:27:00Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-02-24T13:29:51Z"
   },
   {
     "id": "awb_1995b31a75a63316bfc5",
@@ -25918,13 +25966,15 @@
       "rock"
     ],
     "tags": [
-      "progressive rock"
+      "progressive",
+      "progressive rock",
+      "rock"
     ],
     "homepage": "https://www.morow.com/",
     "favicon": "https://www.morow.com/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:36:02Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-05T16:17:25Z"
   },
   {
     "id": "awb_cf16ee7bf5b87bcff845",
@@ -31456,7 +31506,7 @@
     "homepage": "https://www.nrj.fr/",
     "favicon": null,
     "type": "internet",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-18T18:51:20Z"
   },
   {
@@ -31626,7 +31676,7 @@
     "homepage": "https://www.nrj.fr/",
     "favicon": null,
     "type": "internet",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-18T18:54:22Z"
   },
   {
@@ -32278,8 +32328,8 @@
     "homepage": "https://www.nrj.fr/",
     "favicon": null,
     "type": "internet",
-    "sourceCount": 2,
-    "updatedAt": "2026-09-18T18:57:28Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-18T18:50:49Z"
   },
   {
     "id": "awb_759ccbd0bc367a9483f5",
@@ -37450,18 +37500,11 @@
       "fr"
     ],
     "categories": [],
-    "tags": [
-      "brony",
-      "fan music",
-      "live show",
-      "mlp",
-      "my little pony",
-      "my little pony: friendship is magic"
-    ],
+    "tags": [],
     "homepage": "https://radiobrony.fr/",
     "favicon": "https://radiobrony.fr/img/icons/bwavatar-details.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-22T06:34:06Z"
   },
   {
@@ -37499,7 +37542,7 @@
     "favicon": "https://stream.radiobroussaille.fr:8443/favicon-32x32.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-02T02:10:47Z"
+    "updatedAt": "2026-11-06T03:57:42Z"
   },
   {
     "id": "awb_7e734f5079f289eeae18",
@@ -37598,6 +37641,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T23:44:15Z"
+  },
+  {
+    "id": "awb_3c5bffd48a0f3a16104e",
+    "name": "Radio Calade",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radio-calade.fr/",
+    "favicon": "https://www.radio-calade.fr/radiocalade/wp-content/uploads/2024/11/Logo-Calade-Jaune-carre.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T08:47:35Z"
   },
   {
     "id": "awb_70184de259ebccd7f584",
@@ -37714,10 +37773,10 @@
       "world music"
     ],
     "homepage": "https://www.campus-clermont.net/",
-    "favicon": null,
+    "favicon": "https://campus-clermont.net/wp-content/uploads/2026/03/logo-2-e1774728819567.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:29:57Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-06T08:56:51Z"
   },
   {
     "id": "awb_ad4675f28e54b6d0064a",
@@ -37803,16 +37862,21 @@
     "languages": [
       "fr"
     ],
-    "categories": [],
+    "categories": [
+      "college"
+    ],
     "tags": [
+      "alternative",
+      "college radio",
       "modern",
-      "radio by young people for young people"
+      "radio by young people for young people",
+      "student radio"
     ],
     "homepage": "https://www.radiocampusparis.org/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:00:02Z"
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_Radio_Campus_Paris_2024.svg/500px-Logo_Radio_Campus_Paris_2024.svg.png",
+    "type": "college",
+    "sourceCount": 3,
+    "updatedAt": "2026-11-05T19:04:56Z"
   },
   {
     "id": "awb_3d202348399f463e6348",
@@ -38219,20 +38283,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-11T09:11:45Z"
-  },
-  {
-    "id": "awb_b2372060efb8d9fff222",
-    "name": "Radio Contact Vosges",
-    "country": "FR",
-    "subdivision": "France Grand Est",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rcvradio.fr/",
-    "favicon": "https://www.facebook.com/profile.php?id=61584378462518",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-13T23:12:10Z"
   },
   {
     "id": "awb_f1ced121b71f4604ea9a",
@@ -40049,7 +40099,7 @@
     "id": "awb_4236313780f9154e875b",
     "name": "Rádio IBNJ Paris",
     "country": "FR",
-    "subdivision": "Ile de France",
+    "subdivision": "Île-de-France",
     "languages": [
       "fr",
       "pt"
@@ -40064,7 +40114,7 @@
       "gospel music",
       "pop rock"
     ],
-    "homepage": "https://www.radioibnjparis.com/",
+    "homepage": "https://radioibnjparis.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 3,
@@ -40414,7 +40464,7 @@
     "favicon": "https://www.lapurdi.net/squelettes/img/logo_web_small.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T08:33:08Z"
+    "updatedAt": "2026-11-06T08:39:30Z"
   },
   {
     "id": "awb_dc9e303757687b995c02",
@@ -42030,7 +42080,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T05:45:32Z"
+    "updatedAt": "2026-11-06T06:08:41Z"
   },
   {
     "id": "awb_693a7cccadd9c543e879",
@@ -42465,26 +42515,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_6f08d799b34dfce3a113",
-    "name": "Radio Sans Pub",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "no ads",
-      "noad",
-      "sanspub"
-    ],
-    "homepage": "https://www.radiosanspub.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:11:01Z"
   },
   {
     "id": "awb_c733a82e81a8720c8756",
@@ -43910,6 +43940,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_6754e662d75272ac4001",
+    "name": "Radio4G",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "commercial-free",
+      "dj",
+      "electronic",
+      "electronic music",
+      "techno"
+    ],
+    "homepage": "https://www.pechpoch.com/r4g/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T09:04:29Z"
   },
   {
     "id": "awb_f598e6ce619684c55e99",
@@ -47182,7 +47236,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-01T22:20:08Z"
+    "updatedAt": "2026-11-06T00:28:23Z"
   },
   {
     "id": "awb_27f177cc378d35086ddb",
@@ -51513,7 +51567,7 @@
     "favicon": "https://i.imgur.com/cVC439t.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-02T01:13:01Z"
+    "updatedAt": "2026-11-06T00:44:02Z"
   },
   {
     "id": "awb_72b0c0b1ce1aa867247a",

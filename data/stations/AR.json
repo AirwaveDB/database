@@ -11487,6 +11487,27 @@
     "updatedAt": "2026-01-14T23:19:04Z"
   },
   {
+    "id": "awb_5df506e412433a0ac7d8",
+    "name": "Nova Disco Radio",
+    "country": "AR",
+    "subdivision": "San Miguel, Pcia.de Buenos Aires",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "oldies & retro hits 70s 80s 90s 00s"
+    ],
+    "homepage": "https://openmusic.com.ar/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T12:28:50Z"
+  },
+  {
     "id": "awb_7863cd56ee94a3c1bbf8",
     "name": "NOW 97.9",
     "country": "AR",
@@ -12568,7 +12589,7 @@
     "favicon": "https://www.eduneu.eu/logo_radio2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T19:20:49Z"
+    "updatedAt": "2026-11-06T06:59:24Z"
   },
   {
     "id": "awb_c27fcca225832e7a7ea8",
@@ -12654,16 +12675,23 @@
       "es"
     ],
     "categories": [
+      "oldies",
+      "pop",
+      "rock",
       "talk"
     ],
     "tags": [
+      "70s",
+      "80s",
+      "pop",
+      "rock",
       "talk"
     ],
     "homepage": "https://radio.eduneu.eu/public/colegioamen",
     "favicon": "https://www.eduneu.eu/logo_radio_amen.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T15:11:24Z"
+    "updatedAt": "2026-11-06T00:10:47Z"
   },
   {
     "id": "awb_c8b7539e733e11454619",
@@ -12695,7 +12723,7 @@
     "favicon": "https://www.eduneu.eu/logo_radio_eduneuradio.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T08:05:47Z"
+    "updatedAt": "2026-11-06T08:06:22Z"
   },
   {
     "id": "awb_6b3cf29974f303444212",
@@ -13954,7 +13982,7 @@
   },
   {
     "id": "awb_d049a8b8118ea943f532",
-    "name": "Radio Cristiana fm 88.3",
+    "name": "Radio Cristiana FM 88.3",
     "country": "AR",
     "subdivision": "Buenos Aires",
     "languages": [
@@ -13971,7 +13999,7 @@
       "radio hablada",
       "religious"
     ],
-    "homepage": "https://radiocristiana883.com.ar/",
+    "homepage": "https://www.radiocristiana883.com.ar/",
     "favicon": "https://www.radiocristiana883.com.ar/splash.jpg",
     "type": null,
     "sourceCount": 2,
@@ -18680,7 +18708,7 @@
     "favicon": "https://www.eduneu.eu/logo_radio1.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T08:19:24Z"
+    "updatedAt": "2026-11-06T08:34:41Z"
   },
   {
     "id": "awb_cbd979efb55a56983822",

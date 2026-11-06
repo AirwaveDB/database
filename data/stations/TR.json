@@ -276,6 +276,25 @@
     "updatedAt": "2026-11-02T00:05:08Z"
   },
   {
+    "id": "awb_901c93b02252a0bcfd21",
+    "name": "91.8 İstanbul'un Sesi",
+    "country": "TR",
+    "subdivision": "İstanbul",
+    "languages": [
+      "tr"
+    ],
+    "categories": [],
+    "tags": [
+      "arabesk",
+      "turkish music"
+    ],
+    "homepage": "https://www.istanbulunsesi.com.tr/",
+    "favicon": "https://www.istanbulunsesi.com.tr/images/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T15:25:35Z"
+  },
+  {
     "id": "awb_00785e40d88015adaaf5",
     "name": "95.1 TEMPO RADYO HATAY",
     "country": "TR",
@@ -336,6 +355,26 @@
     "updatedAt": "2026-08-21T17:52:54Z"
   },
   {
+    "id": "awb_69d34633a28766018389",
+    "name": "A News Radio",
+    "country": "TR",
+    "subdivision": "İstanbul",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.turkuvazradyolar.com/anewsradyo",
+    "favicon": "https://www.turkuvazradyolar.com/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T15:27:36Z"
+  },
+  {
     "id": "awb_375c1a32752b42399594",
     "name": "a PARA",
     "country": "TR",
@@ -387,6 +426,46 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:22:03Z"
+  },
+  {
+    "id": "awb_8b8e038309c37edbdaf4",
+    "name": "AÇS Radyo",
+    "country": "TR",
+    "subdivision": "Ankara",
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "art",
+      "pop",
+      "various"
+    ],
+    "homepage": "http://www.acsradyo.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T15:25:35Z"
+  },
+  {
+    "id": "awb_6fb0480432e0c20ada93",
+    "name": "Ada FM 98.5",
+    "country": "TR",
+    "subdivision": "Giresun",
+    "languages": [
+      "tr"
+    ],
+    "categories": [],
+    "tags": [
+      "arabesk"
+    ],
+    "homepage": "https://www.adafm.com.tr/",
+    "favicon": "https://www.adafm.com.tr/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T15:21:32Z"
   },
   {
     "id": "awb_99aabf022e62f3fd1b57",
@@ -663,7 +742,7 @@
     "favicon": "https://www.apacikradyo.com.tr/themes/custom/acikradyo/assets/img/favicon.png",
     "type": "community",
     "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:44:42Z"
+    "updatedAt": "2026-11-06T06:32:40Z"
   },
   {
     "id": "awb_feb6ee5d99dca5587604",
@@ -1931,7 +2010,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T08:29:06Z"
+    "updatedAt": "2026-11-06T08:32:28Z"
   },
   {
     "id": "awb_8dc344dd987ed3d504a1",
@@ -1954,7 +2033,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T07:04:29Z"
+    "updatedAt": "2026-11-06T07:14:36Z"
   },
   {
     "id": "awb_1da58c9adefda6d59499",
@@ -2000,7 +2079,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T20:26:57Z"
+    "updatedAt": "2026-11-05T23:33:01Z"
   },
   {
     "id": "awb_18ef70fa187d5f788e31",
@@ -2050,7 +2129,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-mmradyo-favicon.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-31T23:58:13Z"
+    "updatedAt": "2026-11-06T00:05:49Z"
   },
   {
     "id": "awb_ffeadaecbf30ca44c405",
@@ -2104,7 +2183,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T17:26:01Z"
+    "updatedAt": "2026-11-06T01:44:10Z"
   },
   {
     "id": "awb_173bf527a4d7f5eb635c",
@@ -2129,7 +2208,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-smog-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T09:13:11Z"
+    "updatedAt": "2026-11-06T09:22:23Z"
   },
   {
     "id": "awb_cc0a413a69dc071e0aed",
@@ -8327,20 +8406,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-25T06:28:25Z"
-  },
-  {
-    "id": "awb_3b34622ba70dcb207c38",
-    "name": "RADYO GERÇEK",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://radyogercek.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-19T13:42:31Z"
   },
   {
     "id": "awb_49f42883d703ddebb54b",

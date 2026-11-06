@@ -98,6 +98,29 @@
     "updatedAt": "2026-10-16T08:19:16Z"
   },
   {
+    "id": "awb_c25432db0a9806d5dd21",
+    "name": "Camp Joy Revival Radio",
+    "country": "CM",
+    "subdivision": "Ouest",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "cameroon",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://campjoycameroon.org/campjoy-radio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T00:44:43Z"
+  },
+  {
     "id": "awb_fafc87c7696e48fd1392",
     "name": "CHRISTRADIO Yaoundé",
     "country": "CM",
@@ -145,26 +168,26 @@
     "updatedAt": "2026-10-16T08:29:44Z"
   },
   {
-    "id": "awb_3ecbe444a3aa86946950",
-    "name": "CRTV Littoral",
+    "id": "awb_4465b4e033fc16678eab",
+    "name": "CRTV 237 Webradio",
     "country": "CM",
-    "subdivision": "Douala",
+    "subdivision": "Centre",
     "languages": [
-      "en"
+      "en",
+      "fr"
     ],
-    "categories": [
-      "news",
-      "talk"
-    ],
+    "categories": [],
     "tags": [
-      "news",
-      "talk"
+      "cameroon",
+      "crtv",
+      "generaliste",
+      "public"
     ],
-    "homepage": "https://crtv.cm/",
+    "homepage": "https://www.crtv.cm/radio/crtv237webradio",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-16T08:23:07Z"
+    "updatedAt": "2026-11-06T00:44:02Z"
   },
   {
     "id": "awb_28f352afeffb13a87122",
@@ -673,6 +696,26 @@
     "updatedAt": "2026-10-16T08:25:18Z"
   },
   {
+    "id": "awb_baec3e7b99d006bf1a4c",
+    "name": "Radio Balafon",
+    "country": "CM",
+    "subdivision": "Littoral",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "african",
+      "douala",
+      "music"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T00:17:15Z"
+  },
+  {
     "id": "awb_4c65059205ed5d956f32",
     "name": "Radio Bonabéri FM",
     "country": "CM",
@@ -808,29 +851,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-16T08:26:32Z"
-  },
-  {
-    "id": "awb_d7a0a8c0aa8630166eb5",
-    "name": "Radio Rissalatou Salam",
-    "country": "CM",
-    "subdivision": "Garoua-Boulaï",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "religious",
-      "talk"
-    ],
-    "tags": [
-      "islamic",
-      "religious",
-      "talk"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-16T08:30:51Z"
   },
   {
     "id": "awb_6393cb8f5a068ac1bfc1",
@@ -981,6 +1001,30 @@
     "updatedAt": "2026-10-16T08:23:39Z"
   },
   {
+    "id": "awb_c4019ebbf0665a57ead0",
+    "name": "Royal FM Cameroun",
+    "country": "CM",
+    "subdivision": "Centre",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "cameroon",
+      "generaliste",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://royalfm-cameroun.com/fr",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T00:44:02Z"
+  },
+  {
     "id": "awb_0c6773e4ab66c4db7d89",
     "name": "Rush FM 104.5",
     "country": "CM",
@@ -1071,28 +1115,6 @@
     "updatedAt": "2026-10-16T08:24:46Z"
   },
   {
-    "id": "awb_5b25f19ed9d903b0d491",
-    "name": "Suellaba FM 105",
-    "country": "CM",
-    "subdivision": "Douala",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": "https://crtv.cm/radio/suellaba-fm",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-16T08:30:17Z"
-  },
-  {
     "id": "awb_441de158dfb9d6551214",
     "name": "Teste lolo",
     "country": "CM",
@@ -1132,5 +1154,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-16T08:29:03Z"
+  },
+  {
+    "id": "awb_767637d274d9cb296eb0",
+    "name": "Volum'3",
+    "country": "CM",
+    "subdivision": "Littoral",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "african",
+      "cameroon",
+      "culture",
+      "hits"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T00:44:02Z"
   }
 ]

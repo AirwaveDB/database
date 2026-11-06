@@ -5045,6 +5045,26 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_369a2e37beacdf896e4d",
+    "name": "COPE Alicante",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.cope.es/emisoras/comunidad-valenciana/alicante-provincia/alicante",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T19:35:45Z"
+  },
+  {
     "id": "awb_3ede332e08b9f2f1e3ea",
     "name": "Cope Carballiño",
     "country": "ES",
@@ -5102,26 +5122,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-30T08:10:23Z"
-  },
-  {
-    "id": "awb_e8330dcb5fae47638ceb",
-    "name": "COPE Gijón",
-    "country": "ES",
-    "subdivision": "Asturias",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "talk radio"
-    ],
-    "homepage": "https://www.cope.es/directos/gijon",
-    "favicon": "https://cope-cdnsta.agilecontent.com/img/brand/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:33:41Z"
   },
   {
     "id": "awb_86f4cadd50f0831c15ef",
@@ -8799,7 +8799,7 @@
     "id": "awb_3affbb98dab24e7b2119",
     "name": "GRX BIT RADIO on line",
     "country": "ES",
-    "subdivision": "Alhama - Granada- Andalucía",
+    "subdivision": "granada",
     "languages": [],
     "categories": [
       "pop"
@@ -12821,22 +12821,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_b046fb39b55243dbfa81",
-    "name": "MegaStar FM",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.megastar.fm/",
-    "favicon": "https://www.megastar.fm/favicon/megastar/track-default-megastar.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-08T05:20:00Z"
   },
   {
     "id": "awb_a91f6d8c161fcd1df056",
@@ -17194,22 +17178,6 @@
     "updatedAt": "2026-01-14T23:17:02Z"
   },
   {
-    "id": "awb_8de1affe2dfdd57909e4",
-    "name": "Radio Ebro",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://diarioaragones.com/",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/1/5271.v12.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:14:59Z"
-  },
-  {
     "id": "awb_17d69a439ec734a21a5d",
     "name": "Radio EduNeu 1: ElecrricCircus",
     "country": "ES",
@@ -18079,7 +18047,7 @@
     "id": "awb_930b8fdb83fc77979c52",
     "name": "Radio Ibizing",
     "country": "ES",
-    "subdivision": "Ibiza",
+    "subdivision": "Cantabria",
     "languages": [
       "en",
       "es"
@@ -24348,7 +24316,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 6,
-    "updatedAt": "2026-11-02T01:08:18Z"
+    "updatedAt": "2026-11-06T01:32:33Z"
   },
   {
     "id": "awb_60668b862f76c8a40ef9",
@@ -24383,30 +24351,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_5f889021bf0a6b0ab6ba",
-    "name": "Vacalloria Radio",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin",
-      "pop"
-    ],
-    "tags": [
-      "cumbia",
-      "pop",
-      "ranchera",
-      "salsa"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-06T11:09:30Z"
   },
   {
     "id": "awb_7d2606e1fe3fdc393b8a",
