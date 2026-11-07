@@ -687,7 +687,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T13:35:56Z"
+    "updatedAt": "2026-11-06T13:38:38Z"
   },
   {
     "id": "awb_d013b3c05f20f2b85511",
@@ -709,7 +709,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-02T00:06:52Z"
+    "updatedAt": "2026-11-07T00:11:48Z"
   },
   {
     "id": "awb_fe441815feb3d96d49cf",
@@ -6597,7 +6597,7 @@
       "top 40"
     ],
     "homepage": "https://warszawa.eska.pl/",
-    "favicon": "https://cdn.music.smcloud.net/t/logo/2f7b5979-4b66-4586-aefb-ca31e4b8580d_eska_1500x1500_500x500.jpg",
+    "favicon": "http://eska.pl/favicon.ico",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-29T07:38:13Z"
@@ -10594,7 +10594,7 @@
     "favicon": "https://stream.radiosar.pl/logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-02T00:13:15Z"
+    "updatedAt": "2026-11-07T00:18:54Z"
   },
   {
     "id": "awb_8905c570441dc64baced",
@@ -12388,7 +12388,7 @@
     "id": "awb_4b49e5c817ec766fe4aa",
     "name": "radiOFF",
     "country": "PL",
-    "subdivision": "Lebus",
+    "subdivision": "Oderland",
     "languages": [
       "de",
       "pl"
@@ -14130,7 +14130,7 @@
     "id": "awb_ccafb97eb92dab888427",
     "name": "RMF MAXX",
     "country": "PL",
-    "subdivision": "Małopolskie",
+    "subdivision": "Malopolskie",
     "languages": [
       "pl"
     ],
@@ -14701,13 +14701,14 @@
       "pop"
     ],
     "tags": [
-      "polish pop music"
+      "polish pop music",
+      "pop"
     ],
     "homepage": "http://www.rmfon.pl/play,9",
     "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:57:08Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-07T08:01:25Z"
   },
   {
     "id": "awb_f0dbe4cd11aea390c839",
@@ -15551,7 +15552,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T15:55:38Z"
+    "updatedAt": "2026-11-06T16:18:52Z"
   },
   {
     "id": "awb_6a8307b78259863d8db5",
@@ -15573,7 +15574,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T13:56:19Z"
+    "updatedAt": "2026-11-06T13:59:47Z"
   },
   {
     "id": "awb_a97c92681ac9281b8fbe",
@@ -15594,7 +15595,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T12:08:46Z"
+    "updatedAt": "2026-11-06T12:11:55Z"
   },
   {
     "id": "awb_d4e9b951cc81c034ecc8",

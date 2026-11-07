@@ -488,7 +488,7 @@
     "favicon": "https://i.imgur.com/Kjo8NzL.jpeg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T17:55:44Z"
+    "updatedAt": "2026-11-06T18:02:57Z"
   },
   {
     "id": "awb_e8ed880361698ae50147",
@@ -808,7 +808,7 @@
     "favicon": "https://i.imgur.com/wdzguAM.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T09:22:33Z"
+    "updatedAt": "2026-11-06T09:35:18Z"
   },
   {
     "id": "awb_80c559ba85dc7ee99a53",
@@ -1055,6 +1055,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-25T09:11:58Z"
+  },
+  {
+    "id": "awb_dfbe6abc08d9676b80f9",
+    "name": "BOB",
+    "country": "ID",
+    "subdivision": "Bali",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "alternative rock",
+      "grunge"
+    ],
+    "homepage": "https://www.radioseribatu.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T03:02:02Z"
   },
   {
     "id": "awb_588bbf781b338115d2a0",
@@ -1554,7 +1576,7 @@
     "favicon": "https://i.imgur.com/jXvNwDm.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T17:47:02Z"
+    "updatedAt": "2026-11-06T17:58:04Z"
   },
   {
     "id": "awb_4d3a97b1c3ed4136a169",
@@ -1796,7 +1818,7 @@
     "favicon": "https://i.imgur.com/HnGOXjC.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T23:26:58Z"
+    "updatedAt": "2026-11-07T00:10:04Z"
   },
   {
     "id": "awb_4b09d8692cc546237808",
@@ -2084,7 +2106,7 @@
     "favicon": "https://www.galuhweb.com/assets/static/img/logo-2.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T22:03:45Z"
+    "updatedAt": "2026-11-06T22:07:03Z"
   },
   {
     "id": "awb_e37213354f3a84a87eed",
@@ -2856,7 +2878,7 @@
     "favicon": "https://i.imgur.com/ToiFPP2.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T12:51:50Z"
+    "updatedAt": "2026-11-06T12:57:28Z"
   },
   {
     "id": "awb_9ba2239d5dfe4d564306",
@@ -3627,6 +3649,31 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_473faab7c8fc697aa364",
+    "name": "Komodo",
+    "country": "ID",
+    "subdivision": "Bali",
+    "languages": [
+      "en",
+      "id",
+      "th",
+      "zh"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "asian alternative",
+      "rock"
+    ],
+    "homepage": "https://www.radioseribatu.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T02:59:10Z"
+  },
+  {
     "id": "awb_43a6f31f6ef11b827d7c",
     "name": "Koplo FM",
     "country": "ID",
@@ -3704,7 +3751,7 @@
     "favicon": "https://i.imgur.com/MIalWN9.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-06T03:34:53Z"
+    "updatedAt": "2026-11-06T22:07:03Z"
   },
   {
     "id": "awb_4e1b7ed062ccdfe6b27b",
@@ -3798,7 +3845,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s299056/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T15:55:38Z"
+    "updatedAt": "2026-11-06T16:02:36Z"
   },
   {
     "id": "awb_cccecf22e26b64401abf",
@@ -4091,6 +4138,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_6b750752f59115aa35df",
+    "name": "Mesin",
+    "country": "ID",
+    "subdivision": "Bali",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radioseribatu.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T04:12:29Z"
   },
   {
     "id": "awb_2baf9eec7c9c7cc1b06a",
@@ -4563,6 +4624,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:34:44Z"
+  },
+  {
+    "id": "awb_07ca0564ff6a28a75c1a",
+    "name": "Most 105.8",
+    "country": "ID",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news",
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "80s",
+      "90s",
+      "news",
+      "pop"
+    ],
+    "homepage": "https://www.most1058fm.com/",
+    "favicon": "https://i3.wp.com/images-v2.noiceid.cc/catalog/300x300/content-1725008389287.webp?w=200",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T08:12:43Z"
   },
   {
     "id": "awb_56f1d95edde8f2c17b82",
@@ -5702,21 +5786,14 @@
     "country": "ID",
     "subdivision": "Bali",
     "languages": [],
-    "categories": [
-      "news",
-      "talk"
-    ],
+    "categories": [],
     "tags": [
-      "easy listening",
-      "easy-listening",
-      "local news",
-      "local radio",
-      "news talk"
+      "easy-listening"
     ],
     "homepage": "https://radioarbali.com/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/rb7qsaes7dmq.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5827,7 +5904,7 @@
     "favicon": "https://i.imgur.com/jWiTHyJ.jpeg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-05T22:45:46Z"
+    "updatedAt": "2026-11-06T11:46:06Z"
   },
   {
     "id": "awb_c60d76150d5f2aec1e94",
@@ -5927,7 +6004,7 @@
     "favicon": "https://www.radiobells.com/stations/coolmusicnow.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T22:44:18Z"
+    "updatedAt": "2026-11-06T22:53:15Z"
   },
   {
     "id": "awb_7f66cb01ce02d3ba949b",
@@ -6113,20 +6190,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-30T12:25:52Z"
-  },
-  {
-    "id": "awb_2828fc899824f89f1df3",
-    "name": "Radio Gema Randik",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://gemarandik.mubakab.go.id/",
-    "favicon": "https://gemarandik.mubakab.go.id/real/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-19T14:00:32Z"
   },
   {
     "id": "awb_3b10e63ebde0140dc81e",
@@ -6741,7 +6804,7 @@
   },
   {
     "id": "awb_68d4d4c74869261136d1",
-    "name": "Radio Salvator",
+    "name": "RADIO SALVATOR",
     "country": "ID",
     "subdivision": null,
     "languages": [
@@ -6749,16 +6812,19 @@
       "id"
     ],
     "categories": [
+      "oldies",
       "pop"
     ],
     "tags": [
-      "pop"
+      "oldies",
+      "pop",
+      "religion"
     ],
-    "homepage": "https://radiosalvator.com/",
+    "homepage": "https://www.radiosalvator.com/",
     "favicon": "https://radiosalvator.com/wp-content/uploads/2024/06/logo-salvator.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T23:10:04Z"
+    "updatedAt": "2026-11-06T23:12:17Z"
   },
   {
     "id": "awb_c2d735ac339546992d75",
@@ -6863,20 +6929,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-04-18T04:38:57Z"
-  },
-  {
-    "id": "awb_65d304c0a97a636ecce3",
-    "name": "Radio Suara Banjar",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rsb.banjarkab.go.id/",
-    "favicon": "https://rsb.banjarkab.go.id/wp-content/uploads/2022/08/cropped-logorsb.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-25T13:23:13Z"
   },
   {
     "id": "awb_a918ca0fc277f9f4724f",
@@ -7004,22 +7056,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_f370218773bf9bb6d879",
-    "name": "RadioStream FM",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "koplo"
-    ],
-    "homepage": "https://radiostream.novawap.com/",
-    "favicon": "https://files.wap4.co/download/BQACAgUAAyEGAATmhXPfAAMNaiwaxyOwQQH7G0j64kc_LvQPaUIAAkYkAAJlfmBVF2OkoNxRBjg8BA/logo.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-12T14:49:02Z"
   },
   {
     "id": "awb_06c537d6cf05e648b6a7",
@@ -9076,7 +9112,7 @@
     "favicon": "https://i.imgur.com/rRhPIKf.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T10:50:06Z"
+    "updatedAt": "2026-11-06T11:01:41Z"
   },
   {
     "id": "awb_b8df36d5c04e14b698e9",
@@ -9201,9 +9237,9 @@
       "rock"
     ],
     "homepage": "https://therockinlife.com/streaming-bali/",
-    "favicon": "https://assets-static.therockinlife.com/wp-content/uploads/2024/12/TRL-MUSIC-STREAM-PLAYER-BALI.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -9679,7 +9715,7 @@
     "favicon": "https://cdn.onlineradiobox.com/img/l/6/94966.v8.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T20:17:49Z"
+    "updatedAt": "2026-11-06T20:34:38Z"
   },
   {
     "id": "awb_b713f398163583e354b8",

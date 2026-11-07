@@ -262,7 +262,7 @@
     "favicon": "https://lyssna.bananradion.se/static/uploads/bananradion/background.1740701637.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-10-27T12:59:18Z"
+    "updatedAt": "2026-11-06T14:47:48Z"
   },
   {
     "id": "awb_3b028254acf815cc890c",
@@ -458,9 +458,9 @@
       "soul"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -758,9 +758,9 @@
       "electronic"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -870,9 +870,9 @@
       "rock"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1341,30 +1341,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_373ef22a39eaf2994a59",
-    "name": "KWTF 88.8 STOOPID",
-    "country": "SE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community",
-      "hip-hop"
-    ],
-    "tags": [
-      "community",
-      "hip-hop",
-      "independent",
-      "rap"
-    ],
-    "homepage": "https://madmix.se/radio/kwtf-88-8-stoopid",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T08:32:56Z"
-  },
-  {
     "id": "awb_5052de9e341bcaa8e45a",
     "name": "Latin",
     "country": "SE",
@@ -1550,18 +1526,15 @@
       "en"
     ],
     "categories": [
-      "metal",
-      "rock"
+      "metal"
     ],
     "tags": [
-      "hard rock",
-      "heavy metal",
       "metal"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1951,13 +1924,12 @@
     "tags": [
       "hits",
       "pop",
-      "top 40",
       "top-40"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2672,15 +2644,12 @@
       "ambient"
     ],
     "tags": [
-      "ambient",
-      "meditation",
-      "new age",
-      "relaxation"
+      "ambient"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4213,13 +4182,12 @@
     ],
     "tags": [
       "hip-hop",
-      "rap",
-      "urban"
+      "rap"
     ],
     "homepage": "https://madmix.se/",
-    "favicon": "https://madmix.se/images/logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {

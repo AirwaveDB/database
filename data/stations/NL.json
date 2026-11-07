@@ -194,7 +194,7 @@
     "favicon": "https://meta.1zwolle.nl/logos/64x64.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T04:25:50Z"
+    "updatedAt": "2026-11-06T14:42:32Z"
   },
   {
     "id": "awb_3861f863ae11d5bbecf3",
@@ -888,7 +888,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T11:53:13Z"
+    "updatedAt": "2026-11-06T11:55:04Z"
   },
   {
     "id": "awb_adbe00e0ff15eab162bf",
@@ -910,7 +910,7 @@
     "favicon": "https://forums.ah.fm/data/assets/logo/favicon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T13:32:31Z"
+    "updatedAt": "2026-11-06T13:37:48Z"
   },
   {
     "id": "awb_e499ee5a4e0ed96f5c3d",
@@ -1362,7 +1362,7 @@
       "top-40"
     ],
     "homepage": "http://www.anzoradio.com/",
-    "favicon": "https://anzoradio.com/wp-content/uploads/2023/09/2023anzoradiologo_600px.png",
+    "favicon": "https://i0.wp.com/anzoradio.com/wp-content/uploads/2024/08/2023anzoradiologo_300px.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -1564,7 +1564,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T09:55:56Z"
+    "updatedAt": "2026-11-06T10:10:07Z"
   },
   {
     "id": "awb_77432b1c1f3cfc4d495b",
@@ -2235,26 +2235,15 @@
       "nl"
     ],
     "categories": [
-      "community",
       "pop"
     ],
     "tags": [
-      "comedy",
-      "commercial",
-      "community",
-      "dance top40",
-      "live show",
-      "radio shows",
-      "talkshow",
-      "top 40 hits",
-      "top hits",
-      "top-hits",
-      "top40"
+      "top-hits"
     ],
     "homepage": "https://chathotelradio.com/",
     "favicon": null,
-    "type": "community",
-    "sourceCount": 2,
+    "type": null,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5165,7 +5154,7 @@
     "favicon": "https://glowfm.nl/favicon.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T16:47:20Z"
+    "updatedAt": "2026-11-06T16:51:27Z"
   },
   {
     "id": "awb_a0bd610c0db6d36ad5e5",
@@ -5822,7 +5811,7 @@
     "favicon": "https://www.hardcoreradio.nl/wp-content/themes/hardcore-radio/static/images/favicon/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-02T02:00:06Z"
+    "updatedAt": "2026-11-07T02:14:01Z"
   },
   {
     "id": "awb_1664ff4f40aa97cf0665",
@@ -5968,7 +5957,7 @@
     "favicon": "https://www.henksplace.nl/hsa/skin/HSABanner1376x768.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-02T02:41:41Z"
+    "updatedAt": "2026-11-07T03:03:26Z"
   },
   {
     "id": "awb_8108e848d1d62a35d955",
@@ -5993,7 +5982,7 @@
     "favicon": "https://www.henksplace.nl/hsa/skin/HSABanner1376x768.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T17:27:29Z"
+    "updatedAt": "2026-11-06T17:49:40Z"
   },
   {
     "id": "awb_32503b5697e1d3a99775",
@@ -6994,7 +6983,7 @@
     "favicon": "https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T14:14:33Z"
+    "updatedAt": "2026-11-06T14:21:17Z"
   },
   {
     "id": "awb_ed5ab2ed3096970a5be7",
@@ -10970,7 +10959,7 @@
     "id": "awb_e43264a68c76391d14f6",
     "name": "Octaaf Radio",
     "country": "NL",
-    "subdivision": "Zuid Holland",
+    "subdivision": "Noord holland Amsterdam",
     "languages": [
       "nl"
     ],
@@ -11275,7 +11264,7 @@
     "id": "awb_a7dd28c5f273b7244e3a",
     "name": "Omroep Lekstroom",
     "country": "NL",
-    "subdivision": "Utrecht, De Houten, Bergveste 2",
+    "subdivision": "Bergveste 2, DE HOUTEN",
     "languages": [
       "nl"
     ],
@@ -14743,20 +14732,6 @@
     "updatedAt": "2026-03-12T13:51:09Z"
   },
   {
-    "id": "awb_ebc3508900a8fad48f20",
-    "name": "Radio Chilling Station",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.chillingstation.nl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_302b9ee5365bcf39a4bc",
     "name": "Radio Continu",
     "country": "NL",
@@ -15808,20 +15783,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:47:54Z"
-  },
-  {
-    "id": "awb_a1b33eff4211119ce8bd",
-    "name": "Radio Obelix",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radioobelix.nl/",
-    "favicon": "http://radioobelix.nl/.cm4all/uproc.php/0/Obelix%20Logo_1.png?_=16437ab42c0",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-18T03:21:38Z"
   },
   {
     "id": "awb_48c709874106d55e63b3",
@@ -19925,7 +19886,7 @@
     "favicon": "https://studio040.nl/favicons/studio_040_favicon.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T14:37:35Z"
+    "updatedAt": "2026-11-06T14:46:27Z"
   },
   {
     "id": "awb_949a102148c6cea32e42",

@@ -1,19 +1,5 @@
 [
   {
-    "id": "awb_8a54a82a820dac51f808",
-    "name": "(BSOD) KBS Classic FM",
-    "country": "KR",
-    "subdivision": "Seoul",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.bsod.kr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-10T12:15:59Z"
-  },
-  {
     "id": "awb_02fe385e80510632922a",
     "name": "(BSOD) MBC mini All-That-Music",
     "country": "KR",
@@ -252,20 +238,6 @@
     "updatedAt": "2026-10-22T12:27:33Z"
   },
   {
-    "id": "awb_11e79208a13fb7ee30f2",
-    "name": "CBS Joy FM",
-    "country": "KR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.cbs.co.kr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-29T22:03:11Z"
-  },
-  {
     "id": "awb_cbb79bbda19da28f43ba",
     "name": "CBS JOY4U",
     "country": "KR",
@@ -302,20 +274,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_c0d43202e64d58c58e4f",
-    "name": "CBS Std FM",
-    "country": "KR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.cbs.co.kr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-29T21:58:44Z"
   },
   {
     "id": "awb_e5ce3f70407def30accb",
@@ -817,38 +775,8 @@
     "homepage": "http://www.kbs.co.kr/",
     "favicon": "https://res.static.kbs.co.kr/favicon.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_577e17b67cc9a367afc3",
-    "name": "KBS 2FM",
-    "country": "KR",
-    "subdivision": null,
-    "languages": [
-      "ko"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://kbs.co.kr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-05T04:52:27Z"
-  },
-  {
-    "id": "awb_9f5f968838ad40e991c9",
-    "name": "KBS 3radio",
-    "country": "KR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.kbs.co.kr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-29T21:54:36Z"
   },
   {
     "id": "awb_5a5630757c4f6889de48",
@@ -934,22 +862,6 @@
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-01-15T01:24:48Z"
-  },
-  {
-    "id": "awb_75030316b0bd12bb7743",
-    "name": "KBS HappyFM",
-    "country": "KR",
-    "subdivision": "Seoul",
-    "languages": [
-      "ko"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.kbs.co.kr/",
-    "favicon": "https://i.imgur.com/NyGnXcp.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-28T12:05:37Z"
   },
   {
     "id": "awb_2c7f417f6435b6c904a4",

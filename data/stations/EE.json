@@ -708,28 +708,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_1d0a0cf751b975fc0e26",
-    "name": "Kiss FM Eurovision",
-    "country": "EE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "eurovision",
-      "pop"
-    ],
-    "homepage": "https://kissfm.sky.ee/",
-    "favicon": "https://sky.ee/storage/articles/2026/02/eurovision-detail-1.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-07T16:19:29Z"
-  },
-  {
     "id": "awb_61ec6cd9a4504b66f354",
     "name": "KlaRa Jazz",
     "country": "EE",
@@ -1018,7 +996,7 @@
   },
   {
     "id": "awb_f5f98cbe1bfefa043e85",
-    "name": "PCR.fm (Parnu Club Radio)",
+    "name": "PCR.FM (Parnu Club Radio)",
     "country": "EE",
     "subdivision": "Parnu",
     "languages": [
@@ -1907,13 +1885,12 @@
       "pop"
     ],
     "tags": [
-      "pop music",
       "pop-music"
     ],
     "homepage": "https://edge05.cdn.bitflip.ee:8888/retro1.mp3?",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1945,13 +1922,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [
-      "retro"
-    ],
+    "tags": [],
     "homepage": "https://sky.ee/retrofm",
     "favicon": "https://sky.ee/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1970,13 +1945,12 @@
       "80s",
       "disco",
       "oldies",
-      "pop",
-      "retro"
+      "pop"
     ],
     "homepage": "https://sky.ee/retrofm",
-    "favicon": "https://cdn.onlineradiobox.com/img/favicon-194x194.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2013,9 +1987,9 @@
       "metal"
     ],
     "homepage": "https://rockfm.sky.ee/",
-    "favicon": "https://sky.ee/storage/radio-stations/2025/12/Rock-FM-Metal-card.webp",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2072,24 +2046,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_145a89144b541be7e9d4",
-    "name": "Sky Plus D'N'B",
-    "country": "EE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "dnb",
-      "drum 'n' bass",
-      "drum and bass"
-    ],
-    "homepage": "https://sky.ee/skyplus",
-    "favicon": "https://site.prelive.sky.ee/sites/default/files/2021-08/skyplus.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_a842d6848e8b820ad949",
@@ -2273,13 +2229,12 @@
       "pop"
     ],
     "tags": [
-      "pop music",
       "pop-music"
     ],
     "homepage": "https://superradio.sky.ee/",
-    "favicon": "https://sky.ee/storage/radio-stations/2025/12/Super-Radio-logo.svg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2645,19 +2600,5 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:51:27Z"
-  },
-  {
-    "id": "awb_835f94ad249a39a7e569",
-    "name": "Суперрадио",
-    "country": "EE",
-    "subdivision": "Estonia",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://superradio.sky.ee/",
-    "favicon": "https://sky.ee/storage/radio-stations/2025/12/Super-Radio-logo.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-04T11:33:17Z"
   }
 ]

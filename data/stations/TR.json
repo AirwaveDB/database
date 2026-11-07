@@ -2057,7 +2057,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T16:54:24Z"
+    "updatedAt": "2026-11-06T16:57:03Z"
   },
   {
     "id": "awb_b35105ad16c219d0740f",
@@ -2079,7 +2079,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-05T23:33:01Z"
+    "updatedAt": "2026-11-06T20:29:52Z"
   },
   {
     "id": "awb_18ef70fa187d5f788e31",
@@ -2108,7 +2108,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-legacy-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T12:49:44Z"
+    "updatedAt": "2026-11-06T12:50:46Z"
   },
   {
     "id": "awb_7edc0fde3b3291cc2ace",
@@ -2157,7 +2157,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T18:52:35Z"
+    "updatedAt": "2026-11-06T19:02:44Z"
   },
   {
     "id": "awb_0726c5d4e8aa71680e95",
@@ -2183,7 +2183,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-06T01:44:10Z"
+    "updatedAt": "2026-11-06T17:33:22Z"
   },
   {
     "id": "awb_173bf527a4d7f5eb635c",
@@ -2208,7 +2208,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-smog-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T09:22:23Z"
+    "updatedAt": "2026-11-06T09:49:49Z"
   },
   {
     "id": "awb_cc0a413a69dc071e0aed",
@@ -4087,18 +4087,13 @@
     "languages": [
       "tr"
     ],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical",
-      "klasik"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "http://eskiweb.radyo.itu.edu.tr/v1/klasik/index.html",
     "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-media.streema.com%2Fmedia%2Fcache%2F67%2F92%2F67927d9794c4535218ca4dfc85e58c1c.jpg&f=1&nofb=1&ipt=199dd090ea0b2d9b521c7b84cc0e2838c2b42aacd8a2ff4a04f2ea06a32ae0b6",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-31T08:41:43Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-31T08:40:30Z"
   },
   {
     "id": "awb_55d7fa851a607a661b2d",
@@ -10458,20 +10453,6 @@
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_01e5c26693d7384c47d1",
-    "name": "SOFT RADYO",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radyo.softradyo.com/1140/stream",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-19T15:42:52Z"
   },
   {
     "id": "awb_f0db3adb9fe555377aaf",

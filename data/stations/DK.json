@@ -2010,17 +2010,21 @@
   },
   {
     "id": "awb_4a4d87bac10bc66c1cdd",
-    "name": "Partyradio.pro",
+    "name": "PartyRadio.pro",
     "country": "DK",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "da"
+    ],
     "categories": [],
-    "tags": [],
-    "homepage": "https://www.partyradio.pro/",
-    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/039/partyradiopro.5b79037f.png",
+    "tags": [
+      "va"
+    ],
+    "homepage": "https://partyradio.pro/",
+    "favicon": "https://stream.partyradio.pro/static/uploads/partyradio/album_art.1785776464.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-07T00:31:36Z"
   },
   {
     "id": "awb_f0ed845a5e79ad236d0a",

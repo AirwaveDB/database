@@ -5392,25 +5392,6 @@
     "updatedAt": "2026-01-15T01:38:48Z"
   },
   {
-    "id": "awb_a5760c230f17cac7c915",
-    "name": "Yurao Culture TV",
-    "country": "CN",
-    "subdivision": "Chekiang",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "chekiang",
-      "hls video"
-    ],
-    "homepage": "http://www.yysee.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:25:56Z"
-  },
-  {
     "id": "awb_c39f9d555f947e12294e",
     "name": "Yurao News TV",
     "country": "CN",
@@ -16965,26 +16946,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-24T02:54:27Z"
-  },
-  {
-    "id": "awb_09123bd4c17c59ac3a14",
-    "name": "广元综合广播",
-    "country": "CN",
-    "subdivision": null,
-    "languages": [
-      "zh"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": "http://www.dzsm.com/",
-    "favicon": "http://pic.qingting.fm/2017/0319/20170319100642.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:42:51Z"
   },
   {
     "id": "awb_b39cec54618640e86e17",
@@ -30776,24 +30737,6 @@
     "updatedAt": "2026-01-15T05:50:37Z"
   },
   {
-    "id": "awb_010fa9fcc9990aecdf27",
-    "name": "蓬安综合广播",
-    "country": "CN",
-    "subdivision": "Szechuan",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "full service"
-    ],
-    "homepage": "https://www.patv123.com/",
-    "favicon": "http://pic.qtfm.cn/2026/0129/20260129042445.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-01T23:31:46Z"
-  },
-  {
     "id": "awb_0cedebfcbe6f4f4ad77e",
     "name": "蓬莱广播电视台",
     "country": "CN",
@@ -31160,26 +31103,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-08T03:02:16Z"
-  },
-  {
-    "id": "awb_7619a83164dc06a3b4b2",
-    "name": "襄州综合广播 都市965汽车音乐广播",
-    "country": "CN",
-    "subdivision": null,
-    "languages": [
-      "zh"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "http://www.zgxy.gov.cn/",
-    "favicon": "https://pic.qtfm.cn/sso/198/1627896201476_n7riSB6sY.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:43:16Z"
   },
   {
     "id": "awb_38f66852f259033a1db7",
@@ -33461,28 +33384,6 @@
     "updatedAt": "2026-01-14T23:53:53Z"
   },
   {
-    "id": "awb_ff5a97e39afc4603a8ce",
-    "name": "郁南音乐台",
-    "country": "CN",
-    "subdivision": "Kwangtung",
-    "languages": [
-      "zh"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "internet radio",
-      "music",
-      "oldies"
-    ],
-    "homepage": "https://m.weibo.cn/u/2881623280?jumpfrom=weibocom",
-    "favicon": "http://pic.qtfm.cn/2019/0518/20190518042423.jpeg",
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-02-02T08:05:29Z"
-  },
-  {
     "id": "awb_2ae8ccb289de31b1037f",
     "name": "郑州交通广播",
     "country": "CN",
@@ -33872,7 +33773,7 @@
       "information",
       "news"
     ],
-    "homepage": "https://www.nxw.org.cn/",
+    "homepage": "http://www.nxw.org.cn/",
     "favicon": "http://pic.qingting.fm/2017/0413/20170413110818.jpeg",
     "type": null,
     "sourceCount": 2,
@@ -35012,7 +34913,7 @@
     "id": "awb_69de285b367dd2550810",
     "name": "长沙城市之声",
     "country": "CN",
-    "subdivision": "Music",
+    "subdivision": "Hunan",
     "languages": [
       "zh"
     ],

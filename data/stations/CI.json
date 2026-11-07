@@ -144,6 +144,29 @@
     "updatedAt": "2026-10-17T10:24:06Z"
   },
   {
+    "id": "awb_58db5ffbf7b0636e23ae",
+    "name": "Attécoubé FM",
+    "country": "CI",
+    "subdivision": "Abidjan",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "education",
+      "news",
+      "talk"
+    ],
+    "homepage": "http://mairieattecoube.ci/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-17T15:48:14Z"
+  },
+  {
     "id": "awb_9925039d11b3deafa556",
     "name": "Cote d'ivoire FM",
     "country": "CI",
@@ -1067,28 +1090,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_f7fce27ab3ec4806c63a",
-    "name": "Radio Santé CI",
-    "country": "CI",
-    "subdivision": "Abidjan",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-17T10:49:22Z"
   },
   {
     "id": "awb_eb99b8b31cfefadff512",

@@ -652,7 +652,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Attica, Athens",
+    "subdivision": "Kozani",
     "languages": [
       "el",
       "en"
@@ -7506,7 +7506,7 @@
     "id": "awb_26a51cf565919736f4ad",
     "name": "eMusic Site",
     "country": "GR",
-    "subdivision": "Attica, Athens",
+    "subdivision": "Attiki",
     "languages": [
       "el",
       "en"
@@ -11953,7 +11953,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-11-06T07:24:27Z"
+    "updatedAt": "2026-11-07T01:40:50Z"
   },
   {
     "id": "awb_5daf4d1f3882debc368d",
@@ -13016,22 +13016,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_dff5fc18790e00b0bd58",
-    "name": "Kyparissia 93.6",
-    "country": "GR",
-    "subdivision": "Kyparissia",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio936.gr/",
-    "favicon": "http://resources.live24.gr/resources/images/stations/26851d3a-afc8-4ca1-9040-09f6b546a31d.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:38:30Z"
   },
   {
     "id": "awb_b5c079f8013dbcd74441",
@@ -15005,7 +14989,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-05T22:52:08Z"
+    "updatedAt": "2026-11-06T20:02:58Z"
   },
   {
     "id": "awb_f6721fc2fc91afd0e9b8",
@@ -23809,7 +23793,7 @@
     "favicon": "https://meraklis.ddnsfree.com/logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T23:57:29Z"
+    "updatedAt": "2026-11-07T00:02:41Z"
   },
   {
     "id": "awb_346b3683b2aedf080370",
@@ -24136,7 +24120,23 @@
     "favicon": "https://rebetis.duckdns.org/rebetis.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-22T12:17:21Z"
+    "updatedAt": "2026-11-06T13:33:00Z"
+  },
+  {
+    "id": "awb_81b70ae5bcc12ea6cc33",
+    "name": "Radio Sarothron",
+    "country": "GR",
+    "subdivision": "Thessaloniki",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://sarothron.gr/",
+    "favicon": "https://sarothron.gr/wp-content/uploads/2022/06/cropped-440X285-LOGO-RADIO-SAROTHRON-01-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T13:50:59Z"
   },
   {
     "id": "awb_d7a84c80fd5892c5a153",
@@ -24915,8 +24915,8 @@
     "homepage": "https://rebetiko.sealabs.net/",
     "favicon": "https://rebetiko.sealabs.net/photos/stellakis.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:05:37Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-06T14:45:46Z"
   },
   {
     "id": "awb_b8cb25a9439792307e44",
@@ -27676,7 +27676,7 @@
     "favicon": "https://studio19.gr/images/Studio19_logo2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T00:05:49Z"
+    "updatedAt": "2026-11-06T13:40:49Z"
   },
   {
     "id": "awb_5576fa95e6cc10a65f36",
@@ -30569,22 +30569,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:32:05Z"
-  },
-  {
-    "id": "awb_0d67962a8bbf097f3842",
-    "name": "Αμύνταιο 91.2",
-    "country": "GR",
-    "subdivision": "Florina",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.facebook.com/rradioamyntaio/",
-    "favicon": "http://resources.live24.gr/resources/images/stations/ee99cb3d-5f79-43d0-b6cb-5d7be65fbd1f.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:31:41Z"
   },
   {
     "id": "awb_1c2b41506ae78000ca2c",
@@ -35966,44 +35950,6 @@
     "updatedAt": "2026-01-15T06:45:25Z"
   },
   {
-    "id": "awb_837cf00dd2ba55712caa",
-    "name": "Ορθοδοξία Σωτηρόπουλος",
-    "country": "GR",
-    "subdivision": "Heraclion",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "ομιλίες",
-      "ορθοδοξία",
-      "χριστιανισμός"
-    ],
-    "homepage": "https://rasp35.ddnsfree.com/",
-    "favicon": "https://rasp35.ddnsfree.com/icons/strpls.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-21T22:36:23Z"
-  },
-  {
-    "id": "awb_cdfabf3b98a03ec2de32",
-    "name": "Ορθοδοξία Ύμνοι",
-    "country": "GR",
-    "subdivision": "Heraklion Crete",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "ύμνοι"
-    ],
-    "homepage": "https://rasp35.ddnsfree.com/",
-    "favicon": "https://rasp35.ddnsfree.com/icons/ortdx.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-21T16:19:03Z"
-  },
-  {
     "id": "awb_9d7f27051a167a98112d",
     "name": "ΟΡΤ 92.3",
     "country": "GR",
@@ -36639,22 +36585,6 @@
     "updatedAt": "2026-01-15T05:19:36Z"
   },
   {
-    "id": "awb_1bb93faeb7e427e9d60e",
-    "name": "Πίνδαρος",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://zeno.fm/radio/radio-pindaros/",
-    "favicon": "https://zeno.fm/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:32:03Z"
-  },
-  {
     "id": "awb_6bbf2876441935ffbbc6",
     "name": "Πίνδος 107.7",
     "country": "GR",
@@ -37243,7 +37173,7 @@
     "id": "awb_cae5d806d79650d3c313",
     "name": "Ράδιο Ελληνικά Ακούσματα",
     "country": "GR",
-    "subdivision": "Athens",
+    "subdivision": "Αττικής (Νησιά)",
     "languages": [],
     "categories": [],
     "tags": [],

@@ -3521,6 +3521,28 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_7b96362d7d41e4a1acd0",
+    "name": "Derlei FM",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "brasil",
+      "highrise",
+      "pop"
+    ],
+    "homepage": "https://derlei-radio.vanderlei-higinno2.chatgpt.site/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T23:24:23Z"
+  },
+  {
     "id": "awb_295671226b2743135375",
     "name": "DERLEI RADIO",
     "country": "BR",
@@ -4433,7 +4455,7 @@
     "favicon": "https://redefanfm.com.br/wp-content/uploads/2023/07/favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T19:27:07Z"
+    "updatedAt": "2026-11-06T19:46:34Z"
   },
   {
     "id": "awb_cd2981357d40dbe6e9a3",
@@ -4546,7 +4568,7 @@
       "trance"
     ],
     "homepage": "https://flashhits.com.br/",
-    "favicon": "https://flashhits.com.br/app/icons/icon-512.png",
+    "favicon": "https://lashhits.com.br/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-05T02:05:34Z"
@@ -4988,20 +5010,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_8c309423eeeae8fe9b0a",
-    "name": "gazeta FM 1",
-    "country": "BR",
-    "subdivision": "SP",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://gazetafm.com.br/",
-    "favicon": "https://gazetafm.com.br/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-28T21:36:19Z"
   },
   {
     "id": "awb_8cc0b9c1655859c8e153",
@@ -6125,20 +6133,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_69ec5e5b9686a97b02b3",
-    "name": "Jornal da Manhã (Ijuí)",
-    "country": "BR",
-    "subdivision": "Rio Grande do Sul",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://clicjm.com/",
-    "favicon": "https://clicjm.com/wp-content/uploads/2022/06/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_c33a8900b41e72286950",
@@ -7945,7 +7939,7 @@
     "id": "awb_80547b8fed2434784aae",
     "name": "Melodia IA",
     "country": "BR",
-    "subdivision": "Minas Gerais Brasil",
+    "subdivision": "Belo Horizonte",
     "languages": [
       "en"
     ],
@@ -11642,7 +11636,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC+",
+    "name": "Rádio AMC",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -11657,7 +11651,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
+    "favicon": "https://radioamc.com.br/shared/amclogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -11915,6 +11909,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_dd89a6b84cf797a2d66b",
+    "name": "Rádio Antena 1 - São Paulo (94.7 FM)",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "pop",
+      "r&b",
+      "soft adult contemporary"
+    ],
+    "homepage": "https://www.antena1.com.br/",
+    "favicon": "https://www.antena1.com.br/favicon-32x32.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T16:56:17Z"
   },
   {
     "id": "awb_a5871a31ee8efd7ebc90",
@@ -12693,6 +12710,20 @@
     "updatedAt": "2026-01-15T07:38:17Z"
   },
   {
+    "id": "awb_5d7544c5821f8ea9ef6b",
+    "name": "Rádio Biss",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiobiss.com.br/",
+    "favicon": "https://img.radios.com.br/radio/lg/radio53486_1595957583.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T11:25:37Z"
+  },
+  {
     "id": "awb_7f712480e58eb5fc2827",
     "name": "Radio Bitcoin",
     "country": "BR",
@@ -12954,36 +12985,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:14:42Z"
-  },
-  {
-    "id": "awb_0c775ca7a77f109aa0f9",
-    "name": "Radio Brasil IA Mundial",
-    "country": "BR",
-    "subdivision": "Minas Gerais",
-    "languages": [
-      "pt"
-    ],
-    "categories": [
-      "pop",
-      "religious",
-      "rock"
-    ],
-    "tags": [
-      "brasil",
-      "brazilian",
-      "forro",
-      "gospel",
-      "mpb",
-      "original music",
-      "pagode",
-      "pop rock",
-      "sertanejo"
-    ],
-    "homepage": "https://radiobrasiliamundial.com/",
-    "favicon": "https://radiobrasiliamundial.com/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-13T17:36:22Z"
   },
   {
     "id": "awb_616e75b99b2222707494",
@@ -13261,22 +13262,13 @@
     "country": "BR",
     "subdivision": "Santa Catarina,SC",
     "languages": [],
-    "categories": [
-      "country",
-      "rock"
-    ],
-    "tags": [
-      "brazillian music",
-      "contenmporary",
-      "country",
-      "retro music",
-      "rock"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radiocambirela.com.br/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-22T02:08:43Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-03-22T02:07:08Z"
   },
   {
     "id": "awb_afbb2d6edd3763aa0cf4",
@@ -14326,7 +14318,7 @@
     "favicon": "https://radioaconchego.org/files/2015/03/cropped-cropped-5617042203_961643d1a0_o-180x180.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-02T00:55:56Z"
+    "updatedAt": "2026-11-07T02:02:18Z"
   },
   {
     "id": "awb_5f174301d3d27e6688ba",
@@ -14678,6 +14670,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-24T11:30:51Z"
+  },
+  {
+    "id": "awb_ffc2264ffec0b1f0e02b",
+    "name": "Radio da Bibi",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "brasil",
+      "highrise"
+    ],
+    "homepage": "https://derlei-radio.vanderlei-higinno2.chatgpt.site/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T23:59:48Z"
   },
   {
     "id": "awb_d1dd3fbf83bfecd1d57b",
@@ -20942,6 +20953,30 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_5710bd894f5a33545132",
+    "name": "Rádio Santa Cecília FM - Santos (107.7 FM)",
+    "country": "BR",
+    "subdivision": "Santos, Sao Paulo (Brazil)",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "classic hits",
+      "disco",
+      "pop",
+      "soft adult contemporary"
+    ],
+    "homepage": "https://santaportal.com.br/1077-fm-ao-vivo/",
+    "favicon": "https://santaportal.com.br/wp-content/uploads/2026/06/cropped-favicon-projeto-512x512-1-32x32.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T17:38:14Z"
+  },
+  {
     "id": "awb_e1969b89c92bb66ff6de",
     "name": "Rádio Santa Cruz 550 AM",
     "country": "BR",
@@ -22899,6 +22934,26 @@
     "updatedAt": "2026-08-24T12:05:52Z"
   },
   {
+    "id": "awb_a83de09f625427b5c1d9",
+    "name": "Rádio Verde Oliva - Brasília (98.7 FM)",
+    "country": "BR",
+    "subdivision": "Brasília",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "brazilian music",
+      "mpb",
+      "música popular brasileira"
+    ],
+    "homepage": "https://www.eb.mil.br/web/central-de-conteudos/radio-verde-oliva",
+    "favicon": "https://www.eb.mil.br/documents/20121/36350/favicon_logo/166a47a3-8e7a-869a-2b36-13682380ac8d",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T17:53:52Z"
+  },
+  {
     "id": "awb_fd77264d33c46d0a56b9",
     "name": "Rádio Verde Oliva - Resende",
     "country": "BR",
@@ -23020,13 +23075,13 @@
   },
   {
     "id": "awb_13526dba636939f0e478",
-    "name": "Rádio Videira - FM 102.9",
+    "name": "Rádio Videira FM 102.9",
     "country": "BR",
     "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiov102.com.br/",
+    "homepage": "http://www.radiov102.com.br/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -25481,20 +25536,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_43872dd6716ba65a2d9d",
-    "name": "UESB FM",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www2.uesb.br/radio/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-10T01:33:11Z"
   },
   {
     "id": "awb_b2311241d0ee922ac3e4",

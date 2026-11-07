@@ -2682,20 +2682,6 @@
     "updatedAt": "2026-09-04T15:46:10Z"
   },
   {
-    "id": "awb_57452cd54d920d579d46",
-    "name": "Europa Radio Jazz",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.europaradiojazz.org/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-17T09:06:18Z"
-  },
-  {
     "id": "awb_5d2271dd1070b0b7c2e0",
     "name": "F2 Radio Lab",
     "country": "IT",
@@ -2734,7 +2720,7 @@
     "favicon": "https://www.fangoradio.com/img/fango-logo.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-06T01:30:02Z"
+    "updatedAt": "2026-11-06T20:00:35Z"
   },
   {
     "id": "awb_c85f7e648b007cd93955",
@@ -3061,7 +3047,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://freeradioconselve.it/",
-    "favicon": "https://ios.fluidstream.it/conselve_v3/fontanabianco.png",
+    "favicon": "https://players.fluidstream.it/Conselve/images/512.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:30:27Z"
@@ -5079,6 +5065,35 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_e6ccd2db3252ba7049df",
+    "name": "La Radio dei Nebrodi",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "news",
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "hits",
+      "news",
+      "oldies",
+      "pop",
+      "regional",
+      "rock",
+      "sicily"
+    ],
+    "homepage": "https://laut.fm/radioneb",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiAVw0NIfgbxFSzATGFHN2df0Nnq_8cHaJCSTecX4PA&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T02:56:54Z"
+  },
+  {
     "id": "awb_82e15b896f5158b6298f",
     "name": "La seconda è Radio Radio Italia",
     "country": "IT",
@@ -6151,7 +6166,7 @@
     "favicon": "https://radio.motostorie.blog/static/uploads/motostorie/album_art.1776953816.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T19:11:58Z"
+    "updatedAt": "2026-11-06T19:14:21Z"
   },
   {
     "id": "awb_cd00a94b3489648acdd8",
@@ -8758,20 +8773,6 @@
     "updatedAt": "2026-01-15T01:30:19Z"
   },
   {
-    "id": "awb_cd9e806b5d0eb70c5d5c",
-    "name": "Radio 6023",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://6023.it/station/6023-ascoltaci/",
-    "favicon": "https://6023.it/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-04-at-16.44.19.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_3ea54e1f1071efc40b03",
     "name": "Radio 675 Hits",
     "country": "IT",
@@ -9331,7 +9332,7 @@
       "pop"
     ],
     "homepage": "http://www.radioalfalombardia.it/",
-    "favicon": "https://www.radioalfalombardia.it/wp-content/uploads/2024/05/1698582165981_small.jpg",
+    "favicon": "https://images.app.goo.gl/qSVCrU2pFd1kunSR6",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-01-15T03:01:40Z"
@@ -17500,25 +17501,6 @@
     "updatedAt": "2026-01-15T04:43:25Z"
   },
   {
-    "id": "awb_4168ad032bcf4fde8697",
-    "name": "Radio Manbassa",
-    "country": "IT",
-    "subdivision": "Puglia",
-    "languages": [
-      "it"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "lecce"
-    ],
-    "homepage": "http://www.manbassa.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:50:58Z"
-  },
-  {
     "id": "awb_edfe69398d316a160392",
     "name": "Radio Manfredonia Centro",
     "country": "IT",
@@ -19882,10 +19864,10 @@
       "top 40"
     ],
     "homepage": "http://www.parsifal.it/",
-    "favicon": null,
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72qk3Uu9xR5s2ut1i2IhWdhIbGqsMtqMk6mchhOFFwA&s=10",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:29:06Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-06T19:30:46Z"
   },
   {
     "id": "awb_f099b90ddf427677ec4f",
@@ -22867,7 +22849,7 @@
     "favicon": "https://www.radiostudio104.com/wp-content/uploads/2025/06/104-logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-01T23:57:29Z"
+    "updatedAt": "2026-11-07T00:02:41Z"
   },
   {
     "id": "awb_ca4a09c821cbf4f08849",
@@ -22947,6 +22929,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_5a1c6ef5b072d05885ba",
+    "name": "Radio Studio Due",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [],
+    "tags": [
+      "culture",
+      "entertainment",
+      "music",
+      "sicilia"
+    ],
+    "homepage": "https://www.radiostudiodue.it/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjyfo5BTKLWALWBlGUkLjPLIokJTufMe14hphtIoNfVA&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T03:43:30Z"
   },
   {
     "id": "awb_f92a06b521da34ee92fb",
@@ -26149,25 +26152,6 @@
     "updatedAt": "2026-10-31T14:24:00Z"
   },
   {
-    "id": "awb_99331b309113e6cb88b4",
-    "name": "RBC Radio Barbanella City",
-    "country": "IT",
-    "subdivision": "Toscana",
-    "languages": [
-      "it"
-    ],
-    "categories": [],
-    "tags": [
-      "grosseto",
-      "misc"
-    ],
-    "homepage": "http://www.rbcgrosseto.net/",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s124677q.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:34:36Z"
-  },
-  {
     "id": "awb_f5fad83eb50c0ee97ec1",
     "name": "RCL26 Musica Italiana",
     "country": "IT",
@@ -28970,7 +28954,7 @@
     "favicon": "https://radiospore.oziosi.org/user/themes/quark/images/logo/logoprova2.png",
     "type": null,
     "sourceCount": 5,
-    "updatedAt": "2026-11-06T06:01:18Z"
+    "updatedAt": "2026-11-07T01:08:18Z"
   },
   {
     "id": "awb_234d9c2b691f781ed058",

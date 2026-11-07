@@ -910,6 +910,23 @@
     "updatedAt": "2026-01-15T06:40:24Z"
   },
   {
+    "id": "awb_ae2e5010c4f7077a0562",
+    "name": "AIR FM Rainbow Delhi",
+    "country": "IN",
+    "subdivision": "New Delhi",
+    "languages": [
+      "en",
+      "hi"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://akashvani.gov.in/radio/live.php",
+    "favicon": "https://dt89je83l7epy.cloudfront.net/images/fm-rainbow.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T05:26:48Z"
+  },
+  {
     "id": "awb_90cd7be0da9e8ea5dada",
     "name": "AIR FM Rainbow Mumbai",
     "country": "IN",
@@ -3491,7 +3508,7 @@
     "homepage": "https://bollyvibes.radioca.st/stream",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6982,22 +6999,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_87e2b28cfe0041aff9bb",
-    "name": "Janadhwani Kannada",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [
-      "kn"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/01/jana-dhwani-kannda.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:09:32Z"
   },
   {
     "id": "awb_018bb596e694d68be603",
@@ -13540,7 +13541,7 @@
       "religion",
       "spirituals"
     ],
-    "homepage": "https://shaivam.org/radio-shaivalahari/#gsc.tab=0",
+    "homepage": "https://shaivam.org/",
     "favicon": "https://shaivam.org/images/shaivam-logo-2015.png",
     "type": null,
     "sourceCount": 3,
@@ -13607,7 +13608,7 @@
     "homepage": "https://shripadradio.myfreesites.net/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -13861,24 +13862,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_f1d8b451089dc3f9ac0b",
-    "name": "Sripad Radio",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [
-      "hi"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://shripadradio.radioca.st/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:11:28Z"
   },
   {
     "id": "awb_c97422b5266a51773620",
@@ -14718,7 +14701,7 @@
     "id": "awb_535bc28f8985a73d24e5",
     "name": "Thandora FM",
     "country": "IN",
-    "subdivision": "Tamilnadu",
+    "subdivision": "Tamil Nadu",
     "languages": [
       "ta"
     ],
@@ -16055,13 +16038,11 @@
       "ta"
     ],
     "categories": [],
-    "tags": [
-      "tamil cinema music"
-    ],
+    "tags": [],
     "homepage": "https://southradios.com/",
-    "favicon": "https://southradios.com/assets/images/logo/logo90.webp",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {

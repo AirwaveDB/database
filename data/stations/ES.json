@@ -1525,54 +1525,6 @@
     "updatedAt": "2026-10-30T15:37:32Z"
   },
   {
-    "id": "awb_336e446d92a58169ec28",
-    "name": "Armonia Duero",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "hits",
-      "pop",
-      "top40"
-    ],
-    "homepage": "https://armoniaduero.es/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:13:03Z"
-  },
-  {
-    "id": "awb_2676c8cec8f79ce31b36",
-    "name": "Armonía Duero 107.7 FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "2000s",
-      "90s",
-      "dance",
-      "hits",
-      "variety"
-    ],
-    "homepage": "https://myradiostream.com/station/flashplayer.php?s=s5&p=42840",
-    "favicon": "https://myradiostream.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:51:16Z"
-  },
-  {
     "id": "awb_3862cda67bc0827f77a9",
     "name": "Arraio Irratia",
     "country": "ES",
@@ -5169,6 +5121,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_d075136c041c77724abb",
+    "name": "Cope Madrid FM",
+    "country": "ES",
+    "subdivision": "mad",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://cope.es/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/871/cope-madrid.51d780e3.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-08-05T12:56:51Z"
   },
   {
     "id": "awb_88e80590943dec934621",
@@ -8799,7 +8767,7 @@
     "id": "awb_3affbb98dab24e7b2119",
     "name": "GRX BIT RADIO on line",
     "country": "ES",
-    "subdivision": "granada",
+    "subdivision": "Alhama - Granada- Andalucía",
     "languages": [],
     "categories": [
       "pop"
@@ -9253,7 +9221,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T22:45:06Z"
+    "updatedAt": "2026-11-06T23:00:34Z"
   },
   {
     "id": "awb_1a0d5615e13b0cbd99ad",
@@ -10175,6 +10143,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_7a796b5730595984fef0",
+    "name": "ItacaFM",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://itacafm.com/",
+    "favicon": "https://itacafm.com/images/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T15:03:52Z"
   },
   {
     "id": "awb_058c86a7b7f01dcece91",
@@ -12844,24 +12826,6 @@
     "updatedAt": "2026-01-15T00:09:17Z"
   },
   {
-    "id": "awb_efb0abec7b5a818359b7",
-    "name": "MegastarFM (stereo_aac)",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "contemporary hit radio"
-    ],
-    "homepage": "https://www.megastar.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:44:37Z"
-  },
-  {
     "id": "awb_64c82dbb4ef0c8f852cb",
     "name": "Melodia Para Dos",
     "country": "ES",
@@ -13964,8 +13928,8 @@
       "sports",
       "talks"
     ],
-    "homepage": "https://ondacero.es/",
-    "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
+    "homepage": "https://www.ondacero.es/emisoras/andalucia/huelva/directo/",
+    "favicon": "https://i.scdn.co/image/ab6775700000ee851a865a3769a3e6868928a43f",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-04-01T11:00:35Z"
@@ -15499,7 +15463,7 @@
     "favicon": "https://punkirratia.net/punkirratia.jpg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-01T23:17:31Z"
+    "updatedAt": "2026-11-06T23:22:23Z"
   },
   {
     "id": "awb_2d748205b8cd10558fa7",
@@ -18047,7 +18011,7 @@
     "id": "awb_930b8fdb83fc77979c52",
     "name": "Radio Ibizing",
     "country": "ES",
-    "subdivision": "Cantabria",
+    "subdivision": "Ibiza",
     "languages": [
       "en",
       "es"
@@ -18206,6 +18170,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-17T14:29:54Z"
+  },
+  {
+    "id": "awb_b9961ba15fd94d92a1ac",
+    "name": "Ràdio Klara 104.4FM València",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radioklara.org/radioklara/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T08:43:36Z"
   },
   {
     "id": "awb_12bd58d728e98d69e697",
@@ -20257,6 +20235,27 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_93a4504c0071022faebf",
+    "name": "Radio SanSongs(Sansons).",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "hip-hop",
+      "latin"
+    ],
+    "tags": [
+      "alternative rap",
+      "experimental hip-hop",
+      "latin trap"
+    ],
+    "homepage": "https://aweradio.app/@radiosansongssa",
+    "favicon": "https://hls.aweradio.app/stations/radiosansongssa/avatar-256.png?v=1794006306769",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T00:15:27Z"
+  },
+  {
     "id": "awb_64328d073c3097439335",
     "name": "Ràdio Sant Fruitós",
     "country": "ES",
@@ -20329,20 +20328,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:33:22Z"
-  },
-  {
-    "id": "awb_20350fe6d22663d2a933",
-    "name": "Radio Sefarad",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiosefarad.com/",
-    "favicon": "https://www.radiosefarad.com/wp-content/uploads/2023/10/nuevo-espadas.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_86f83cbaa8072a42c523",
@@ -24316,7 +24301,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 6,
-    "updatedAt": "2026-11-06T01:32:33Z"
+    "updatedAt": "2026-11-07T01:15:23Z"
   },
   {
     "id": "awb_60668b862f76c8a40ef9",

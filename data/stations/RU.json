@@ -19140,24 +19140,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_e83dadc19f154533cf3d",
-    "name": "Radio Caprice - Dream Trance",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [
-      "dream dance"
-    ],
-    "homepage": "http://radcap.ru/dreamtrance.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:45:48Z"
-  },
-  {
     "id": "awb_ee1e6fc75b3a01b70f0d",
     "name": "Radio Caprice - Drone Ambient",
     "country": "RU",
@@ -26194,6 +26176,30 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_a988ee0d3d1e2ebe5fe5",
+    "name": "Radio Piramida",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "classic hits",
+      "classic rock",
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://radiopiramida.ru/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T02:20:39Z"
+  },
+  {
     "id": "awb_3c01bb03a63288b367bc",
     "name": "Radio Pled",
     "country": "RU",
@@ -27433,6 +27439,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_bba25948c99b14b0cea5",
+    "name": "Radio SPB1",
+    "country": "RU",
+    "subdivision": "Saint-Petersburg",
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "club",
+      "dance",
+      "trance"
+    ],
+    "homepage": "https://radio-spb1.ru/",
+    "favicon": "https://radio-spb1.ru/favicon-16x16.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T14:49:16Z"
   },
   {
     "id": "awb_1efb4b60aafd46490247",
@@ -30562,7 +30591,7 @@
     "favicon": "https://play.google.com/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T18:30:26Z"
+    "updatedAt": "2026-11-06T18:52:43Z"
   },
   {
     "id": "awb_605aa6f231103b2256d0",
@@ -34703,6 +34732,22 @@
     "updatedAt": "2026-01-15T07:00:09Z"
   },
   {
+    "id": "awb_1cbec42210401f90ece0",
+    "name": "Гражданская оборона",
+    "country": "RU",
+    "subdivision": "Omsk (Russia)",
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://pcradio.app/radio/grazhdanskaia-oborona-live-pcr-27p4vck/",
+    "favicon": "https://media.pcradio.app/media/logos/180/1006583/logo_VuSWyd2yX1.jpg?v=20260529-media-restore",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T21:22:34Z"
+  },
+  {
     "id": "awb_a112856ba254446f8535",
     "name": "Григорий Лепс",
     "country": "RU",
@@ -36434,29 +36479,6 @@
     "updatedAt": "2026-01-15T01:42:49Z"
   },
   {
-    "id": "awb_d2932a57ae83ecea6f13",
-    "name": "Европа Плюс Иваново 106.0 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "evropa plus",
-      "ivanovo",
-      "music",
-      "pop"
-    ],
-    "homepage": "https://top-radio.ru/ivanovo/evropa-plyus",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250429_124651786.jpg?alt=media&token=a73e8b23-ccb6-4182-933d-b4679d095022",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:34:05Z"
-  },
-  {
     "id": "awb_317f218f4b918a7f46dd",
     "name": "Европа Плюс Калуга 102.6 FM",
     "country": "RU",
@@ -38152,6 +38174,23 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_e4373ed8edeb46f572a1",
+    "name": "КРАСНОЯРСК FM",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "denc",
+      "muzic"
+    ],
+    "homepage": "https://krasnoyarskfm.ru/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T11:57:10Z"
   },
   {
     "id": "awb_f6fc7b4e21d727c76108",
@@ -41859,7 +41898,7 @@
   },
   {
     "id": "awb_e409ed31da9366df648d",
-    "name": "Радио ViBE Новый Звук",
+    "name": "Радио Vibe Новый Звук",
     "country": "RU",
     "subdivision": "russia",
     "languages": [
@@ -41874,7 +41913,7 @@
       "pop"
     ],
     "homepage": "https://radiovibe.ru/",
-    "favicon": "https://radiovibe.ru/img/vibe_500.png",
+    "favicon": "https://radiovibe.ru/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T13:24:17Z"
@@ -42718,27 +42757,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_7cd0c05ca383b4752956",
-    "name": "Радио Дача Ростов-на-Дону 103.3 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "music",
-      "pop"
-    ],
-    "homepage": "https://top-radio.ru/rostov-na-donu/dacha",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:00:57Z"
   },
   {
     "id": "awb_2a7c4cbbd796ebcdec43",
@@ -48247,27 +48265,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_0830f2bbeec145cd100d",
-    "name": "Радио Юнак",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "https://xn--80anjg9azcr.xn--p1ai/",
-    "favicon": "https://xn--80anjg9azcr.xn--p1ai/static/uploads/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_%D1%8E%D0%BD%D0%B0%D0%BA/album_art.1778912989.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-15T16:15:57Z"
-  },
-  {
     "id": "awb_72162b7a05e68f10948e",
     "name": "Радио Юнитон Новосибирск 100.7 FM",
     "country": "RU",
@@ -50291,6 +50288,38 @@
     "updatedAt": "2026-01-15T07:26:25Z"
   },
   {
+    "id": "awb_9ec99f808105c6173e2f",
+    "name": "Сектор Газа",
+    "country": "RU",
+    "subdivision": "Voronezh",
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://pcradio.app/radio/sektor-gaza-18-live-pcr-27owzij/",
+    "favicon": "https://en.wikipedia.org/wiki/Special:FilePath/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B_%C2%AB%D0%A1%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D0%93%D0%B0%D0%B7%D0%B0%C2%BB.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T21:23:21Z"
+  },
+  {
+    "id": "awb_85610dc037323e8c7edd",
+    "name": "Сектор Газа (PCRadio)",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://pcradio.app/radio/sektor-gaza-18-live-pcr-27owzij/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T21:19:56Z"
+  },
+  {
     "id": "awb_86bc0bdcc46a7b99ffcc",
     "name": "Сектор Газовой Атаки",
     "country": "RU",
@@ -51193,6 +51222,24 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_ee9ab0afeda9923a969c",
+    "name": "ТАНЦЫ",
+    "country": "RU",
+    "subdivision": "Магнитогорск",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "диско",
+      "танцевальная",
+      "электронная"
+    ],
+    "homepage": "https://radiotantsy.ru/",
+    "favicon": "https://myradio24.com/users/36043/nocover.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
     "id": "awb_09a024d03086f0f5c67d",
     "name": "Таня Буланова",
     "country": "RU",
@@ -51748,7 +51795,7 @@
     "id": "awb_d0e72ae4262a7e8be492",
     "name": "Хит FM",
     "country": "RU",
-    "subdivision": "Moscow",
+    "subdivision": "Moscow/Saint Petersburg",
     "languages": [
       "ru"
     ],
