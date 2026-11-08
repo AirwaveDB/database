@@ -3469,6 +3469,31 @@
     "updatedAt": "2026-11-05T17:35:47Z"
   },
   {
+    "id": "awb_21f1088cee805d209e44",
+    "name": "Nocturne Vault Radio",
+    "country": "CL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "alternative rock",
+      "britpop",
+      "electro industrial darkwave ebm futurepop synthpop goth",
+      "gothic",
+      "gothic metal",
+      "gothic rock",
+      "j-rock"
+    ],
+    "homepage": "https://radio-gamma-ten.vercel.app/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-07T14:07:57Z"
+  },
+  {
     "id": "awb_858796f1538c6425a536",
     "name": "Nostálgica 2026",
     "country": "CL",
@@ -3634,6 +3659,36 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-08T17:36:29Z"
+  },
+  {
+    "id": "awb_83777e31d24606c81d23",
+    "name": "Poesía y Cumbia Radio",
+    "country": "CL",
+    "subdivision": "Santiago, Región Metropolitana",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin",
+      "news",
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "2000s",
+      "90s",
+      "cumbia",
+      "noticias",
+      "poesía",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://poesiaycumbia.cl/",
+    "favicon": "https://poesiaycumbia.cl/icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T20:47:33Z"
   },
   {
     "id": "awb_e9a2d485b9e0f2615139",
@@ -6567,6 +6622,20 @@
     "updatedAt": "2026-07-08T19:11:14Z"
   },
   {
+    "id": "awb_7c34ca5b8d3bfdbafc32",
+    "name": "Radio Integración 107.9",
+    "country": "CL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.integracionradio.cl/",
+    "favicon": "https://back.ww-cdn.com/superstatic/version/4118996/iphone/10/photo/meta_images_logo@2x.png?v=1742350465",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T00:33:58Z"
+  },
+  {
     "id": "awb_db6cf7d3deb7695089ac",
     "name": "Radio Interamericana",
     "country": "CL",
@@ -8249,7 +8318,7 @@
       "soft adult contemporary"
     ],
     "homepage": "https://radiosol.cl/",
-    "favicon": "https://radiosol.cl/wp-content/uploads/2022/04/Logo-Radio-Sol-color-Horizontal-485.png",
+    "favicon": "http://us9.maindigitalstream.com:7389/stream/;",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-05T13:55:11Z"

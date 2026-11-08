@@ -57,6 +57,29 @@
     "updatedAt": "2026-09-20T16:43:59Z"
   },
   {
+    "id": "awb_096357d09a60b65ef691",
+    "name": "Aspira Radio",
+    "country": "CZ",
+    "subdivision": null,
+    "languages": [
+      "cs"
+    ],
+    "categories": [
+      "electronic",
+      "pop"
+    ],
+    "tags": [
+      "chilled trap",
+      "electro techno",
+      "pop dance"
+    ],
+    "homepage": "https://www.aspiraradio.cz/public/1",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T23:29:42Z"
+  },
+  {
     "id": "awb_666b011d413057fcf2bd",
     "name": "Astra Radio",
     "country": "CZ",
@@ -2372,6 +2395,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:29:43Z"
+  },
+  {
+    "id": "awb_e8930728c274af9ffaf4",
+    "name": "Josef Bochníček",
+    "country": "CZ",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.aspiraradio.cz/public/1",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T22:49:25Z"
   },
   {
     "id": "awb_2c565b3b944f31bad18a",
@@ -4905,14 +4942,19 @@
     "name": "Slymacks Radio",
     "country": "CZ",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "cs",
+      "en"
+    ],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "drum & bass"
+    ],
     "homepage": "https://slymacks.com/",
-    "favicon": null,
+    "favicon": "https://slymacks.com/wp-content/uploads/2023/04/cropped-slymacks.text_black-green_up2-final-scaled-1-270x270.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T22:54:38Z"
+    "updatedAt": "2026-11-07T22:48:35Z"
   },
   {
     "id": "awb_b1d22cf6b9521102c273",

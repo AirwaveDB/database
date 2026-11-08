@@ -652,7 +652,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Kozani",
+    "subdivision": "Athens Greece",
     "languages": [
       "el",
       "en"
@@ -2080,7 +2080,7 @@
     "id": "awb_97841c7b9f3b00a5469b",
     "name": "A1812Radio",
     "country": "GR",
-    "subdivision": "Athens Greece",
+    "subdivision": "Attica, Athens",
     "languages": [],
     "categories": [],
     "tags": [],
@@ -7262,6 +7262,26 @@
     "updatedAt": "2026-01-15T05:03:36Z"
   },
   {
+    "id": "awb_209ec243c493659812d1",
+    "name": "Ekfrasi97",
+    "country": "GR",
+    "subdivision": "kosss",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://ekfrasi97.gr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T13:01:39Z"
+  },
+  {
     "id": "awb_a84f6067308aa4ce4aa3",
     "name": "Ekrixi",
     "country": "GR",
@@ -7506,7 +7526,7 @@
     "id": "awb_26a51cf565919736f4ad",
     "name": "eMusic Site",
     "country": "GR",
-    "subdivision": "Attiki",
+    "subdivision": "Attica, Athens",
     "languages": [
       "el",
       "en"
@@ -8596,6 +8616,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-02T12:35:58Z"
+  },
+  {
+    "id": "awb_337d2b894ad13e8f9778",
+    "name": "ERT-deftero-paradosiaka",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "greek traditional"
+    ],
+    "homepage": "https://www.ertecho.gr/radio/deftero-paradosiaka/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T13:28:07Z"
   },
   {
     "id": "awb_13d9b30c6a9c6f445ee9",
@@ -18851,6 +18889,37 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T07:38:17Z"
+  },
+  {
+    "id": "awb_68db0484fe91166b27cd",
+    "name": "Pueblo Vista Radio",
+    "country": "GR",
+    "subdivision": "Central Macedonia",
+    "languages": [],
+    "categories": [
+      "ambient",
+      "hip-hop"
+    ],
+    "tags": [
+      "ambient",
+      "beats",
+      "chill",
+      "chillhop",
+      "chillout",
+      "independent",
+      "instrumental",
+      "lofi",
+      "lofi beats",
+      "lofi hip hop",
+      "lofi study beats",
+      "music for study",
+      "study"
+    ],
+    "homepage": "https://pueblo-vista.com/radio/",
+    "favicon": "https://pueblo-vista.com/wp-content/plugins/pueblo-vista-radio/assets/app-icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T23:44:56Z"
   },
   {
     "id": "awb_76736ada1bb9881e23c3",

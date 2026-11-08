@@ -234,6 +234,30 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_9e68ac8eb63768905f18",
+    "name": "Classic FM Østjylland",
+    "country": "DK",
+    "subdivision": "Østjylland",
+    "languages": [
+      "da"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "80s",
+      "90s",
+      "classic hits",
+      "pop"
+    ],
+    "homepage": "https://classicfm.dk/",
+    "favicon": "https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T08:57:57Z"
+  },
+  {
     "id": "awb_38bd4662fc82fe5307fc",
     "name": "Classic Rock Danmark",
     "country": "DK",
@@ -1539,6 +1563,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_443eb20025c6a9e2a773",
+    "name": "Julekanalen (Classic FM Jul)",
+    "country": "DK",
+    "subdivision": "Danmark",
+    "languages": [
+      "da"
+    ],
+    "categories": [
+      "christmas"
+    ],
+    "tags": [
+      "christmas",
+      "classic fm",
+      "jul",
+      "julemusik"
+    ],
+    "homepage": "https://julekanalen.dk/",
+    "favicon": "https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T08:57:57Z"
   },
   {
     "id": "awb_288a68665e88f46b1295",

@@ -92,7 +92,7 @@
       "electronic",
       "house"
     ],
-    "homepage": "https://deepnovaradio.com/ro/blog/radiochannel/deepnova-top-deep-house/",
+    "homepage": "https://deepnovaradio.com/blog/radiochannel/deepnova-320/",
     "favicon": "https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320-170x170.png.webp",
     "type": null,
     "sourceCount": 3,
@@ -856,6 +856,31 @@
     "updatedAt": "2026-09-11T18:29:44Z"
   },
   {
+    "id": "awb_ea9609fca58cf68dc2da",
+    "name": "Radio Moldova Comrat",
+    "country": "MD",
+    "subdivision": null,
+    "languages": [
+      "ro",
+      "ru"
+    ],
+    "categories": [
+      "folk",
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "folk",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radiomoldova.md/comrat",
+    "favicon": "https://radiomoldova.md/images/RM_comrat_logo.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T12:06:01Z"
+  },
+  {
     "id": "awb_2b495132643b9c92c51c",
     "name": "Radio Moldova Muzical",
     "country": "MD",
@@ -1181,6 +1206,25 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_bd814b1df5346c923b3f",
+    "name": "Radio ROKS - Acoustic Rock",
+    "country": "MD",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "acoustic rock",
+      "rock"
+    ],
+    "homepage": "https://radioroks.md/",
+    "favicon": "https://radioroks.md/front-assets/favicons/favicon-96x96.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T13:18:13Z"
   },
   {
     "id": "awb_de7fb82977dc53c3ffb2",

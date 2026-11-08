@@ -5051,8 +5051,8 @@
     "homepage": "https://onlineradiobox.com/pl/radio100/",
     "favicon": "https://cdn.onlineradiobox.com/img/l/5/122745.v6.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 4,
+    "updatedAt": "2026-11-07T18:52:04Z"
   },
   {
     "id": "awb_ded04b37d62ad5fbce45",
@@ -5815,6 +5815,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:23:20Z"
+  },
+  {
+    "id": "awb_b6458ead298519370cb8",
+    "name": "Radio ClubBeat",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "club",
+      "dance",
+      "electronic",
+      "house",
+      "techno",
+      "trance"
+    ],
+    "homepage": "https://clubbeat.eu/",
+    "favicon": "https://clubbeat.eu/themes/custom/club_beat/assets/images/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T19:26:52Z"
   },
   {
     "id": "awb_ed5f46e435cd9262dbc1",
@@ -6597,7 +6622,7 @@
       "top 40"
     ],
     "homepage": "https://warszawa.eska.pl/",
-    "favicon": "http://eska.pl/favicon.ico",
+    "favicon": "https://cdn.music.smcloud.net/t/logo/2f7b5979-4b66-4586-aefb-ca31e4b8580d_eska_1500x1500_500x500.jpg",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-10-29T07:38:13Z"
@@ -14130,7 +14155,7 @@
     "id": "awb_ccafb97eb92dab888427",
     "name": "RMF MAXX",
     "country": "PL",
-    "subdivision": "Malopolskie",
+    "subdivision": "Małopolskie",
     "languages": [
       "pl"
     ],

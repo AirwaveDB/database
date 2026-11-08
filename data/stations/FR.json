@@ -185,6 +185,28 @@
     "updatedAt": "2026-05-15T15:16:24Z"
   },
   {
+    "id": "awb_9beb420165fda76ca567",
+    "name": "🍒 La Radio sous la Cerise 🍒",
+    "country": "FR",
+    "subdivision": "Normandie",
+    "languages": [
+      "br",
+      "fr"
+    ],
+    "categories": [
+      "kids"
+    ],
+    "tags": [
+      "kids",
+      "musiques des enfants"
+    ],
+    "homepage": "https://laradio.souslacerise.fr/",
+    "favicon": "https://laradio.souslacerise.fr/wp-content/uploads/sites/10/2016/11/cropped-Picto-radio-sous-la-cerise-icone-270x270.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-03-30T15:32:12Z"
+  },
+  {
     "id": "awb_5e7481e16203ed9a5f71",
     "name": "📺 RFI Monde",
     "country": "FR",
@@ -5231,7 +5253,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao Radio",
+    "name": "Cacao-Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -16952,6 +16974,20 @@
     "updatedAt": "2026-01-15T00:01:33Z"
   },
   {
+    "id": "awb_1bec11ea7b80350e2948",
+    "name": "HIT&KITSCH",
+    "country": "FR",
+    "subdivision": "Nouvelle-Aquitaine",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://hitetkitsch.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T12:55:40Z"
+  },
+  {
     "id": "awb_ed308593923ee0767472",
     "name": "Hit53",
     "country": "FR",
@@ -19834,7 +19870,7 @@
       "radio locale"
     ],
     "homepage": "https://www.ici.fr/radio/breizh-izel",
-    "favicon": "https://www.ici.fr/favicon56.png",
+    "favicon": "https://www.ici.fr/images/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T10:24:25Z"
@@ -20902,7 +20938,7 @@
     "id": "awb_1958654bc9874753e7fd",
     "name": "Jazz Radio Latin Jazz",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "Lyon",
     "languages": [
       "fr"
     ],
@@ -20919,8 +20955,8 @@
     "homepage": "http://www.jazzradio.fr/radio/webradio/16/latin-jazz",
     "favicon": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:25:17Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-07T10:52:53Z"
   },
   {
     "id": "awb_a892f2a4804512ce56f2",
@@ -21619,6 +21655,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:51:21Z"
+  },
+  {
+    "id": "awb_7470107e13ffbec5ec15",
+    "name": "KickDrum",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "hard techno",
+      "hardstyle",
+      "jumpstyle"
+    ],
+    "homepage": "https://kickdrum.internal-server.work/",
+    "favicon": "https://kickdrum.internal-server.work/site/favicon.svg?v=1794071058",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T18:52:04Z"
   },
   {
     "id": "awb_9001837497504c9782a9",
@@ -22510,28 +22566,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:22:41Z"
-  },
-  {
-    "id": "awb_9beb420165fda76ca567",
-    "name": "La radio sous la cerise",
-    "country": "FR",
-    "subdivision": "Normandie",
-    "languages": [
-      "br",
-      "fr"
-    ],
-    "categories": [
-      "kids"
-    ],
-    "tags": [
-      "kids",
-      "musiques des enfants"
-    ],
-    "homepage": "https://laradio.souslacerise.fr/radio/",
-    "favicon": "https://laradio.souslacerise.fr/wp-content/uploads/sites/10/2016/11/cropped-Picto-radio-sous-la-cerise-icone-270x270.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-30T15:32:12Z"
   },
   {
     "id": "awb_49fa50d006b247db56b7",
@@ -39967,7 +40001,7 @@
     "id": "awb_4236313780f9154e875b",
     "name": "Rádio IBNJ Paris",
     "country": "FR",
-    "subdivision": "Ile de France",
+    "subdivision": "Île-de-France",
     "languages": [
       "fr",
       "pt"
@@ -41177,6 +41211,20 @@
     "updatedAt": "2026-01-14T23:17:41Z"
   },
   {
+    "id": "awb_c12615ec87b22c7a5445",
+    "name": "RADIO NOËL",
+    "country": "FR",
+    "subdivision": "Grand EstGrand Est",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radio-noel.fr/",
+    "favicon": "https://v-images.cdnsw.com/site-favicons/1691619.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T00:44:34Z"
+  },
+  {
     "id": "awb_c328ccf68cd0d9086b84",
     "name": "Radio Noel",
     "country": "FR",
@@ -42147,22 +42195,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:45:26Z"
-  },
-  {
-    "id": "awb_183193d8aefe18130c6c",
-    "name": "Radio Radio Toulouse",
-    "country": "FR",
-    "subdivision": "Occitanie",
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radioradiotoulouse.net/",
-    "favicon": "https://static.wixstatic.com/media/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-21T19:44:18Z"
   },
   {
     "id": "awb_54764c36c49b298e952d",
@@ -43782,6 +43814,22 @@
     "updatedAt": "2026-07-08T00:36:54Z"
   },
   {
+    "id": "awb_183193d8aefe18130c6c",
+    "name": "Radio-Radio Toulouse",
+    "country": "FR",
+    "subdivision": "Midi-Pyrénées",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radioradiotoulouse.net/",
+    "favicon": "https://static.wixstatic.com/media/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png",
+    "type": null,
+    "sourceCount": 3,
+    "updatedAt": "2026-08-21T19:44:18Z"
+  },
+  {
     "id": "awb_9b100c0fe8323743eb03",
     "name": "radio-shoppe.com",
     "country": "FR",
@@ -44574,6 +44622,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:03:36Z"
+  },
+  {
+    "id": "awb_5130a463dbafcf40153f",
+    "name": "RCU Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiorcu.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T13:05:04Z"
   },
   {
     "id": "awb_c9fa0a7f802b58b4015d",
@@ -47273,13 +47337,14 @@
       "hip-hop"
     ],
     "tags": [
-      "rap"
+      "rap",
+      "rap hiphop rnb"
     ],
     "homepage": "https://skyrock.fm/",
     "favicon": "https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-10-12T05:37:03Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-11-08T08:42:51Z"
   },
   {
     "id": "awb_75c4194097912f25f52e",
@@ -47330,13 +47395,14 @@
       "oldies"
     ],
     "tags": [
-      "hip-hop and rap oldies"
+      "hip-hop and rap oldies",
+      "rap hiphop rnb"
     ],
     "homepage": "https://skyrock.fm/",
     "favicon": "https://skyrock.fm/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-08T08:50:52Z"
   },
   {
     "id": "awb_1f504578de31ee9ea315",
@@ -48116,8 +48182,8 @@
     "tags": [
       "kids"
     ],
-    "homepage": "https://lesonunique.com/mysun/parcourir/sun-junior",
-    "favicon": "https://assets.radioplayer.org/250/2501923/600/600/mrp1g2m0.png",
+    "homepage": "https://lesonunique.com/",
+    "favicon": "https://lesonunique.com/images/pwa/icon-512x512.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-02T02:58:42Z"
@@ -51147,6 +51213,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:00:36Z"
+  },
+  {
+    "id": "awb_559536ef257b246cfa4b",
+    "name": "WRG la radio du Grand'Ouest",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "grand ouest",
+      "hits",
+      "variety",
+      "webradio"
+    ],
+    "homepage": "https://wrgouest.fr/",
+    "favicon": "https://wrgouest.fr/uploads/6a241fc3830ab/site/1780847324_3316dd99660455afeddf.png",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T14:53:13Z"
   },
   {
     "id": "awb_7523e585c0f11e531348",

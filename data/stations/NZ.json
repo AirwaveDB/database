@@ -3085,6 +3085,25 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_3c601aa3f820934725ea",
+    "name": "RNZ National",
+    "country": "NZ",
+    "subdivision": "Auckland",
+    "languages": [],
+    "categories": [
+      "community",
+      "talk"
+    ],
+    "tags": [
+      "talk & community"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T11:13:45Z"
+  },
+  {
     "id": "awb_b1a0210384a16830d3bc",
     "name": "RNZ National",
     "country": "NZ",
@@ -3297,7 +3316,7 @@
       "radio ph"
     ],
     "homepage": "https://sayhifm.com/",
-    "favicon": "https://sayhifm.com/images/favicon.ico",
+    "favicon": "https://sayhifm.com/favicon.ico",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"

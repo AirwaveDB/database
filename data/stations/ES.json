@@ -13928,8 +13928,8 @@
       "sports",
       "talks"
     ],
-    "homepage": "https://www.ondacero.es/emisoras/andalucia/huelva/directo/",
-    "favicon": "https://i.scdn.co/image/ab6775700000ee851a865a3769a3e6868928a43f",
+    "homepage": "https://ondacero.es/",
+    "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-04-01T11:00:35Z"
@@ -18172,20 +18172,6 @@
     "updatedAt": "2026-09-17T14:29:54Z"
   },
   {
-    "id": "awb_b9961ba15fd94d92a1ac",
-    "name": "Ràdio Klara 104.4FM València",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radioklara.org/radioklara/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-07T08:43:36Z"
-  },
-  {
     "id": "awb_12bd58d728e98d69e697",
     "name": "Radio Kras",
     "country": "ES",
@@ -19398,6 +19384,33 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T07:03:15Z"
+  },
+  {
+    "id": "awb_744408a1f601027bb7e8",
+    "name": "Radio O Drom",
+    "country": "ES",
+    "subdivision": "Sevilla",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "alabanza",
+      "christian",
+      "gospel",
+      "kangeri",
+      "kanguery",
+      "romani",
+      "romany",
+      "worship"
+    ],
+    "homepage": "https://dikela.org/radio?channel=internacional",
+    "favicon": "https://dikela.org/content/uploads/photos/2026/09/dikela_logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-07T22:13:23Z"
   },
   {
     "id": "awb_af7b77e503cbd9899252",
