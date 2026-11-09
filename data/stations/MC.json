@@ -53,27 +53,6 @@
     "updatedAt": "2026-01-15T03:26:15Z"
   },
   {
-    "id": "awb_f3956cbd8db78a793b6a",
-    "name": "Radio Monte Carlo",
-    "country": "MC",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "music",
-      "news"
-    ],
-    "homepage": "http://www.radiomontecarlo.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:56:19Z"
-  },
-  {
     "id": "awb_2df1db1c981df0708b26",
     "name": "Radio Monte Carlo Italia",
     "country": "MC",
@@ -133,7 +112,7 @@
     "homepage": "https://yellow.radio/radiochannel/yellow-party/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -168,14 +147,12 @@
     ],
     "tags": [
       "dance",
-      "deep",
-      "electro",
       "pop"
     ],
     "homepage": "https://yellow.radio/",
-    "favicon": "https://yellow.radio/logo-yellow.radio.jaune.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   }
 ]

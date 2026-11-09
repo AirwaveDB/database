@@ -16,29 +16,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_85664162ab88967bdbf5",
-    "name": "MBC Best FM",
-    "country": "MU",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "pop",
-      "top40"
-    ],
-    "homepage": "https://mbcradio.tv/",
-    "favicon": "https://mbcradio.tv/sites/default/files/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:05:57Z"
-  },
-  {
     "id": "awb_ef75d7d963bf23a82ed4",
     "name": "MBC Kool FM",
     "country": "MU",
@@ -104,28 +81,6 @@
     "updatedAt": "2026-01-15T02:17:08Z"
   },
   {
-    "id": "awb_622410828f3435e86ed0",
-    "name": "MBC Taal FM",
-    "country": "MU",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "hi"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "indian music",
-      "oldies"
-    ],
-    "homepage": "https://mbcradio.tv/",
-    "favicon": "https://mbcradio.tv/streaming/img/cover_taalfm.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:22:03Z"
-  },
-  {
     "id": "awb_a0a9d18d30035b3153a9",
     "name": "OUi Radio",
     "country": "MU",
@@ -156,29 +111,14 @@
     "name": "OUi Radio Rodrigues",
     "country": "MU",
     "subdivision": "Mauritius",
-    "languages": [
-      "en",
-      "fr"
-    ],
-    "categories": [
-      "religious",
-      "talk"
-    ],
-    "tags": [
-      "christian",
-      "christian music",
-      "christian talk",
-      "christian-gospel",
-      "gospel",
-      "island",
-      "mauritius",
-      "rodrigues"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://rod.ouiradio.com/",
     "favicon": "https://rod.ouiradio.com/images/OUi-Radio-Rodrigues-Logo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-31T12:29:01Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-03-31T12:27:04Z"
   },
   {
     "id": "awb_c5e2304034a23e9a57a6",
@@ -279,15 +219,11 @@
     "subdivision": "LE TAMPON",
     "languages": [],
     "categories": [],
-    "tags": [
-      "70",
-      "80",
-      "90"
-    ],
+    "tags": [],
     "homepage": "https://sensuelleradio.com/",
-    "favicon": "https://sensuelleradio.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

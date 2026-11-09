@@ -100,9 +100,7 @@
     "name": "Mutant Radio",
     "country": "GE",
     "subdivision": "Tbilisi",
-    "languages": [
-      "en"
-    ],
+    "languages": [],
     "categories": [
       "community"
     ],
@@ -112,18 +110,15 @@
       "dj mixes",
       "eclectic",
       "festivals",
-      "independent",
       "interviews",
       "live performances",
-      "music",
       "stories",
-      "talks",
-      "variety"
+      "talks"
     ],
     "homepage": "https://www.mutantradio.net/",
-    "favicon": "https://www.mutantradio.net/icon?e5faaecf67dfe01a",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRUX0p_TXYrbqA_Twv9PFt_R3lRIAMDLjShtcD_8DbS0YB93vyNKYRjPI&s=10",
     "type": "community",
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-05-01T02:19:20Z"
   },
   {
@@ -161,7 +156,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -201,49 +196,18 @@
     "updatedAt": "2026-07-30T06:53:18Z"
   },
   {
-    "id": "awb_9f627556a70439bd573d",
-    "name": "Tbilisi FM 93,5",
-    "country": "GE",
-    "subdivision": null,
-    "languages": [
-      "ka"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": "http://tbilisifm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:50:49Z"
-  },
-  {
     "id": "awb_ea351e62cee9d6ff19f0",
     "name": "Vikentis Radio",
     "country": "GE",
     "subdivision": "Tbilisi",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "independent radio",
-      "indie",
-      "webradio"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.vikentisradio.com/",
     "favicon": "https://vikentisradio.com/wp-content/uploads/2026/09/Gemini_Generated_Image_uunyd7uunyd7uuny.png",
-    "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-11-01T15:55:38Z"
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-01T15:51:20Z"
   },
   {
     "id": "awb_ed28474516fab5b23527",
@@ -256,7 +220,7 @@
     "homepage": "https://georgia.thejoyfm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -304,28 +268,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:24:52Z"
-  },
-  {
-    "id": "awb_5263350a67e5c3d8ee52",
-    "name": "არდაიდარდო",
-    "country": "GE",
-    "subdivision": "Tbilisi",
-    "languages": [
-      "ka"
-    ],
-    "categories": [
-      "folk",
-      "pop"
-    ],
-    "tags": [
-      "folk",
-      "pop"
-    ],
-    "homepage": "https://ardaidardo.ge/",
-    "favicon": "https://cdn.fortuna.ge/app/uploads/2024/02/fortuna-logo-2024-02-08_07-57-34_538522.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:23:20Z"
   },
   {
     "id": "awb_486d148d6876ff3dd295",

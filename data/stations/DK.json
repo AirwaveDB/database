@@ -96,9 +96,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.radioalfa.dk/",
-    "favicon": "https://alfa.side-walk.dk/logos/kbuDQjAaWNzpjRIfEl9MXPUWj7CHYH9BJcZAIEo9.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -311,9 +311,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.dr.dk/lyd/p2",
-    "favicon": "https://www.dr.dk/favicon.ico",
+    "favicon": "https://www.dr.dk/lyd/_next/static/media/p2.041e766f.svg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -495,8 +495,12 @@
     "languages": [
       "da"
     ],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "talk"
+    ],
     "homepage": "https://www.dr.dk/lyd/p1",
     "favicon": "https://www.dr.dk/lyd/_next/static/media/p1.29c35f9c.svg",
     "type": null,
@@ -587,7 +591,7 @@
     "id": "awb_ea896a6ef2cae29248b2",
     "name": "DR P4 Bornholm",
     "country": "DK",
-    "subdivision": "København",
+    "subdivision": null,
     "languages": [
       "da"
     ],
@@ -598,7 +602,7 @@
     "homepage": "http://www.dr.dk/p4bornholm",
     "favicon": "http://www.dr.dk/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T05:25:41Z"
   },
   {
@@ -763,7 +767,7 @@
     "homepage": "http://www.dr.dk/p4vest",
     "favicon": "http://www.dr.dk/favicon.ico",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 4,
     "updatedAt": "2026-08-24"
   },
   {
@@ -799,7 +803,7 @@
     "homepage": "http://www.dr.dk/p4nord",
     "favicon": "http://www.dr.dk/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T07:33:27Z"
   },
   {
@@ -936,19 +940,14 @@
     "languages": [
       "da"
     ],
-    "categories": [
-      "talk"
-    ],
+    "categories": [],
     "tags": [
-      "danish",
-      "music",
-      "regional radio",
-      "talk"
+      "regional radio"
     ],
     "homepage": "https://www.dr.dk/lyd/p4",
     "favicon": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T05:45:24Z"
   },
   {
@@ -1561,7 +1560,7 @@
     "homepage": "http://www.jazzkanalen.dk/jazz/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -1755,20 +1754,6 @@
     "updatedAt": "2026-11-06T05:32:36Z"
   },
   {
-    "id": "awb_16c31cf8ee4f37e1c82d",
-    "name": "Midtfjord Radio",
-    "country": "DK",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.midtfjordradio.dk/",
-    "favicon": "http://www.midtfjordradio.dk/images/MidtfjordRadio-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_edfd0de7dcd361e8cd0c",
     "name": "Midtfjord Radio / Radio Nibenitten",
     "country": "DK",
@@ -1953,16 +1938,13 @@
       "pop"
     ],
     "tags": [
-      "danish",
-      "dansk",
-      "danske",
       "hits",
       "pop"
     ],
     "homepage": "https://radioplay.dk/nova-100-dansk/",
     "favicon": "https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/202.jpg?ver=1490698010",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1974,9 +1956,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://www.novafm.dk/",
-    "favicon": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/174.jpg?ver=1490690222",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1994,22 +1976,6 @@
     "updatedAt": "2026-10-25T19:25:11Z"
   },
   {
-    "id": "awb_32c93fbc718574b1c585",
-    "name": "Party Fm",
-    "country": "DK",
-    "subdivision": null,
-    "languages": [
-      "da"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.partyfm.dk/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:15:15Z"
-  },
-  {
     "id": "awb_143334c1ac3913ae9ce2",
     "name": "Partyfm",
     "country": "DK",
@@ -2020,7 +1986,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
@@ -2185,9 +2151,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radioplay.dk/radio-100/",
-    "favicon": "https://assets.planetradio.co.uk/img/ConfigWebHeaderLogoSVGImageUrl/178.svg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2235,9 +2201,9 @@
       "pop"
     ],
     "homepage": "http://radioabc.dk/",
-    "favicon": "https://radio.side-walk.dk/logos/KXRtPsQK5qjFmR5jvUpGRjSlQVsz7m2icSZsSfUs.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2265,9 +2231,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.radioalfa.dk/",
-    "favicon": "http://www.radioalfa.dk/wp-content/uploads/goliath/Radio-Alfa_Logo%20%282%29.png",
+    "favicon": "https://www.radioalfa.dk/wp-content/uploads/goliath/Radio-Alfa_Logo%20%282%29.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2544,7 +2510,7 @@
     "homepage": "https://radioglobus.dk/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2649,22 +2615,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_28f2b5309afe2474ef4e",
-    "name": "Radio Klitholm",
-    "country": "DK",
-    "subdivision": null,
-    "languages": [
-      "da"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://radioklitholm.dk/",
-    "favicon": "http://radioklitholm.dk/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:36:23Z"
-  },
-  {
     "id": "awb_06f70905d8621cdf8858",
     "name": "Radio Klitholm - Det Ny Kanal 1",
     "country": "DK",
@@ -2737,24 +2687,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_4c84d2f52f6278b35698",
-    "name": "Radio MB",
-    "country": "DK",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "jazz"
-    ],
-    "homepage": "http://radiomb.dk/eu",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_41212c06d6a7668c11c6",
     "name": "Radio Midtsjælland",
     "country": "DK",
@@ -2773,18 +2705,16 @@
     "name": "Radio Nord",
     "country": "DK",
     "subdivision": null,
-    "languages": [
-      "da"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [
       "mixed music"
     ],
-    "homepage": "http://www.radionord.dk/",
-    "favicon": "http://www.radionord.dk/favicon.ico",
+    "homepage": "https://radionord.dk/",
+    "favicon": "https://www.google.com/search?q=radio+nord+vendsyssel+logo&sca_esv=daf07b3e4903b956&rlz=1C1GCEA_enDK821DK821&udm=2&biw=1920&bih=957&sxsrf=AHTn8zoY_JcHKXHPGn44U5eR_iAx7SeRug%3A1745569894314&ei=ZkgLaND3Es3GwPAP5J-OoAI&oq=radio+nord+&gs_lp=EgNpbWciC3JhZGlvIG5vcmQgKgIIATIHECMYJxjJAjIHECMYJxjJAjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOVkULouWKdWcAJ4AJABAJgBPqABqAKqAQE1uAEDyAEA-AEBmAIGoAKAAsICBhAAGAgYHsICBBAAGB6YAwCIBgGSBwE2oAfzEbIHATS4B_sB&sclient=img#vhid=teST4f9UGIDA0M&vssid=mosaic",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T01:17:31Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:13Z"
   },
   {
     "id": "awb_7e2f77e0c540d87f108f",
@@ -2894,20 +2824,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_270bd6ade794c8737bb6",
-    "name": "Radio Rollo",
-    "country": "DK",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiorollo.dk/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_458207103dbe103d4b7e",
@@ -3041,18 +2957,13 @@
     "country": "DK",
     "subdivision": "Kolding",
     "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "90's",
-      "pop music"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radioviva.dk/",
     "favicon": "https://radioviva.dk/wp-content/themes/radioviva_dk/images/logo.svg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:12Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_346440c9c5d8096bd0bc",
@@ -3132,9 +3043,9 @@
       "lokalradio"
     ],
     "homepage": "https://www.radioflr.dk/",
-    "favicon": "https://www.radioflr.dk/wp-content/uploads/2026/03/RadioFLR_Logo512x512.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-12T08:33:12Z"
   },
   {
@@ -3152,20 +3063,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_52f270feabc76baf9419",
-    "name": "Reggae",
-    "country": "DK",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://stream.laut.fm/deutscher-reggae",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-30T13:13:12Z"
   },
   {
     "id": "awb_3706abc88b0ec532463d",
@@ -3187,17 +3084,12 @@
     "country": "DK",
     "subdivision": "Nivå",
     "languages": [],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "oldies",
-      "retro"
-    ],
-    "homepage": "http://www.retro-radio.dk/",
+    "categories": [],
+    "tags": [],
+    "homepage": "https://retro-radio.dk/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3211,7 +3103,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -3487,9 +3379,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radioplay.dk/the-voice/",
-    "favicon": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/173.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {

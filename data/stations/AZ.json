@@ -48,22 +48,12 @@
     "languages": [
       "en"
     ],
-    "categories": [
-      "electronic",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "deep house",
-      "indie",
-      "pop music",
-      "rock",
-      "trance"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://antiradio.net/",
-    "favicon": "https://antiradio.net/wp-content/uploads/2024/04/cropped-favicon-180x180.png",
+    "favicon": "https://antiradio.net/favicon.ico",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
   },
   {
@@ -185,24 +175,6 @@
     "updatedAt": "2026-01-15T03:52:28Z"
   },
   {
-    "id": "awb_5be573df0a1cdd1d6e8b",
-    "name": "Ayaz tv",
-    "country": "AZ",
-    "subdivision": "Baku",
-    "languages": [
-      "az"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://www.ayaztv.com/tv",
-    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.LCYzOISfqivijhTGmmJYWQHaEF%3Fpid%3DApi&f=1&ipt=3d8b10dabddd6d58f61c88efe43e3fe1d38c84a005e1be6b833971c7af7a2e7a&ipo=images",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T06:51:37Z"
-  },
-  {
     "id": "awb_668231e80ff94fcd8b41",
     "name": "Baku Jazz Radio",
     "country": "AZ",
@@ -213,7 +185,7 @@
     "homepage": "https://bakujazzradio.com/",
     "favicon": "https://cdn-profiles.tunein.com/s354857/images/logod.jpg?t=639109095420000000",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-23T12:28:12Z"
   },
   {
@@ -243,30 +215,17 @@
       "ru"
     ],
     "categories": [
-      "hip-hop",
-      "oldies",
-      "pop",
-      "rock"
+      "pop"
     ],
     "tags": [
-      "alternative rock",
-      "baku",
-      "business",
-      "easy listening",
       "easy-listening",
-      "hip-hop and rap oldies",
-      "motivational",
-      "pop music",
       "pop-music",
-      "radio",
-      "rap hiphop rnb",
-      "top hits",
       "top-hits"
     ],
     "homepage": "https://boss.com.az/radio",
-    "favicon": "https://boss.com.az/wp-content/uploads/2018/04/BOSS-MAGAZINE-LOGO.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -310,7 +269,7 @@
     "homepage": "https://dalgafm.az/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -395,7 +354,7 @@
     "homepage": "https://icecast.livetv.az/mediafm",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -420,12 +379,10 @@
   },
   {
     "id": "awb_d7f70117ce40881b5aac",
-    "name": "Media FM Jazz",
+    "name": "Media fm jazz",
     "country": "AZ",
     "subdivision": "Baku",
-    "languages": [
-      "az"
-    ],
+    "languages": [],
     "categories": [
       "jazz"
     ],
@@ -433,14 +390,14 @@
       "jazz fusion"
     ],
     "homepage": "https://mediafm.az/",
-    "favicon": "https://mediafm.az/wp-content/uploads/2026/02/Media_JazzLogo309x309.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-09-22T22:11:10Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-01T10:37:32Z"
   },
   {
     "id": "awb_43efd19e7a83ccb5a68a",
-    "name": "Media fm mugam",
+    "name": "Media FM Mugam",
     "country": "AZ",
     "subdivision": "Baku",
     "languages": [
@@ -450,14 +407,12 @@
       "folk"
     ],
     "tags": [
-      "folk music",
-      "folk/ethno/national music",
-      "narodna - etno"
+      "folk/ethno/national music"
     ],
     "homepage": "https://mediafm.az/",
     "favicon": "https://mediafm.az/wp-content/uploads/2026/02/Media_MugamLogo309x309.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-21T05:43:33Z"
   },
   {
@@ -605,9 +560,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://vintageradio.az/",
-    "favicon": "https://streamurl.link/logos/uFZrTYg4pHL.webp?t=8gWg0kVY3FJrekgVUv5NUw&e=1790020800",
+    "favicon": "https://streamurl.link/logos/uFZrTYg4pHL.webp?t=79QtremmSSt_F6a2IqItVA&e=1790024400",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-21T19:07:07Z"
   },
   {

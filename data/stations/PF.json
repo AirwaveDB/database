@@ -67,15 +67,13 @@
       "pop"
     ],
     "tags": [
-      "80's",
       "80s",
-      "french radio",
       "pop"
     ],
     "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-100-francais-80",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -86,20 +84,12 @@
     "languages": [
       "fr"
     ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "information",
-      "local music",
-      "local news",
-      "pop"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://la1ere.francetvinfo.fr/polynesie/",
-    "favicon": "https://la1ere.francetvinfo.fr/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -177,20 +167,6 @@
     "updatedAt": "2026-08-04T20:50:47Z"
   },
   {
-    "id": "awb_fc8e8c99cb47183918bd",
-    "name": "Radio1 Tahiti",
-    "country": "PF",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radio1.pf/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_7df80402e695d83ab937",
     "name": "Tiare FM",
     "country": "PF",
@@ -202,15 +178,12 @@
       "pop"
     ],
     "tags": [
-      "local information",
-      "local music",
-      "pop music",
       "pop-music"
     ],
     "homepage": "https://www.tiarefm.pf/",
     "favicon": "https://www.tiarefm.pf/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   }
 ]

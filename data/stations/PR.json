@@ -141,20 +141,12 @@
     "country": "PR",
     "subdivision": "América Latina, México, y los Estados Unidos",
     "languages": [],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "spanish talk",
-      "us news",
-      "world news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "http://cnnespanol.cnn.com/",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s20409d.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -262,9 +254,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://fuzedclubradio.com/",
-    "favicon": "https://fuzedclubradio.com/wp-content/uploads/2019/11/cropped-icon-3-192x192.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -323,7 +315,7 @@
       "top 40"
     ],
     "homepage": "https://www.kq105.com/",
-    "favicon": "https://bloximages.chicago2.vip.townnews.com/kq105.com/content/tncms/custom/image/23c304fa-a5bb-11ee-aed9-ab40ab64f7be.png?resize=990%2C284",
+    "favicon": "https://bloximages.chicago2.vip.townnews.com/kq105.com/content/tncms/custom/image/eec03826-a5c5-11ee-9b55-cfe8019cb216.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-08T16:39:16Z"
@@ -383,30 +375,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_2e6dee31372e158e5287",
-    "name": "La X 100.7 FM",
-    "country": "PR",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "reggaeton",
-      "rock"
-    ],
-    "homepage": "https://www.lax.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:15:14Z"
   },
   {
     "id": "awb_1bb1dbbaef00c58e6006",
@@ -505,19 +473,15 @@
       "es"
     ],
     "categories": [
-      "religious",
-      "talk"
+      "religious"
     ],
     "tags": [
-      "christian music",
-      "christian talk",
-      "christian-music",
-      "cristiano"
+      "christian-music"
     ],
     "homepage": "https://puragracia.com/",
-    "favicon": "https://raw.githubusercontent.com/arios71/puragracia.com/refs/heads/main/assets/icons/logo-512.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -654,9 +618,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.radiotropicalpr.net/",
-    "favicon": "https://static.wixstatic.com/media/474154_e286efc4ce8848d49778dfeb297fbaa7~mv2.png/v1/fill/w_490,h_259,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/image000000.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

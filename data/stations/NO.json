@@ -869,7 +869,7 @@
     "homepage": "https://lyd.nrk.no/",
     "favicon": "https://radio.nrk.no/",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-11T21:43:00Z"
   },
   {
@@ -986,16 +986,12 @@
     "languages": [
       "no"
     ],
-    "categories": [
-      "sports"
-    ],
-    "tags": [
-      "sport"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radio.nrk.no/",
-    "favicon": "https://info.nrk.no/wp-content/uploads/2025/02/Merker-radio-NRKsport-1536x1007.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1225,22 +1221,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_975def4211b8308cfc28",
-    "name": "P4 – Lyden av Norge",
-    "country": "NO",
-    "subdivision": null,
-    "languages": [
-      "no"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.p4.no/",
-    "favicon": "https://www.p4.no/favicon.ic",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-23T09:28:12Z"
   },
   {
     "id": "awb_bf20d8efe428b6970963",
@@ -1617,9 +1597,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radioh.no/",
-    "favicon": "https://radioh.no/wp-content/uploads/2026/04/radio-haugaland-logo-v2.png",
+    "favicon": "https://radioh.no/wp-content/uploads/2026/07/logo-ny-185w.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-02T13:16:17Z"
   },
   {
@@ -1647,9 +1627,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.facebook.com/radiokos",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/DVmW873HKP.png",
+    "favicon": "https://www.facebook.com/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1745,9 +1725,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radioplay.no/radio-norge/",
-    "favicon": "https://radioplay.no/tesla/static/favicons/radioplay-no/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1934,7 +1914,7 @@
     "homepage": "https://radiotromso.no/",
     "favicon": "https://www.rthits.no/bilder/radiotromsohits-logo516x332.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2035,20 +2015,18 @@
       "no"
     ],
     "categories": [
-      "news",
-      "talk"
+      "news"
     ],
     "tags": [
       "local",
       "local music",
       "local news",
-      "local radio",
-      "local talk"
+      "local radio"
     ],
     "homepage": "https://radio102.no/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2060,15 +2038,11 @@
       "es"
     ],
     "categories": [],
-    "tags": [
-      "latinamerican music",
-      "norway",
-      "spanish"
-    ],
+    "tags": [],
     "homepage": "https://radiolatinamerika.no/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2104,29 +2078,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_8069d25bef11510bea77",
-    "name": "Rock Radio Norway",
-    "country": "NO",
-    "subdivision": null,
-    "languages": [
-      "no"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "hard rock",
-      "meta",
-      "metak",
-      "rock"
-    ],
-    "homepage": "https://radioplay.no/radio-rock",
-    "favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1765293609/brand_manager/stations/wuscfr7mqtvg4c6efbcf.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-02-10T15:02:31Z"
   },
   {
     "id": "awb_b111c3e8d24e4a6a578b",
@@ -2246,7 +2197,7 @@
     "homepage": "https://www.tunetriberadio.com/",
     "favicon": "https://www.tunetriberadio.com/favicon.ico",
     "type": "internet",
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   }
 ]

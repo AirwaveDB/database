@@ -185,29 +185,6 @@
     "updatedAt": "2026-10-28T04:15:23Z"
   },
   {
-    "id": "awb_af12947b80699b458292",
-    "name": "BFM 89.9 Malaysia",
-    "country": "MY",
-    "subdivision": "Selangor",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "business news",
-      "business programs",
-      "news talk"
-    ],
-    "homepage": "https://www.bfm.my/",
-    "favicon": "https://www.bfm.my/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-28T04:40:53Z"
-  },
-  {
     "id": "awb_1945e14dd61bad83cdd8",
     "name": "BIGCOWFM大牛网络电台 | 马来西亚中文网络电台",
     "country": "MY",
@@ -512,8 +489,8 @@
     "homepage": "https://hitz.com.my/",
     "favicon": "https://en.wikipedia.org/wiki/Hitz_%28radio_station%29#/media/File:Hitz_(2018).svg",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-09-17T06:21:34Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_7a50cfde56e33d48bfe4",
@@ -595,20 +572,6 @@
     "updatedAt": "2026-01-15T05:09:14Z"
   },
   {
-    "id": "awb_900577def7c9d25e61be",
-    "name": "JEI FM",
-    "country": "MY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://jeifm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_906263cd54fe53cb216e",
     "name": "Jei FM Klang Tamil Radio",
     "country": "MY",
@@ -617,20 +580,11 @@
       "ta"
     ],
     "categories": [],
-    "tags": [
-      "klang",
-      "kollywood",
-      "malaysia",
-      "panpalai",
-      "south indian",
-      "tamil",
-      "tamil music",
-      "tamil radio"
-    ],
+    "tags": [],
     "homepage": "http://www.jeifm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -872,7 +826,7 @@
     "homepage": "https://zeno.fm/radio/music-vault/",
     "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/dHDXas3CTU52dDLwT-Qd44DcwYQlGUEafEtZNhWc0xs/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMmZkNzg4YWEtNDlhYi00Zjc3LTllZmYtMDU1OTMyNGQyZDhlL2ltYWdlLz91PTE3NDUyMzUxMDUwMDA.webp",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T04:16:45Z"
   },
   {
@@ -987,20 +941,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-05T11:50:19Z"
-  },
-  {
-    "id": "awb_260b712a75c4846a65a3",
-    "name": "Radio",
-    "country": "MY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_f67eb487a9dbf261cce1",
@@ -1339,34 +1279,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_d7ad8aa3b41283d2d64d",
-    "name": "THR Raaga",
-    "country": "MY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://raaga.syok.my/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-07T03:14:29Z"
-  },
-  {
-    "id": "awb_0e109715fe34d578923e",
-    "name": "THR Raagaa",
-    "country": "MY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://raaga.syok.my/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-07T03:14:22Z"
-  },
-  {
     "id": "awb_d5520d8f4f9df56fe328",
     "name": "TMM2 FM",
     "country": "MY",
@@ -1379,20 +1291,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_380c0fcde2dfe6c616da",
-    "name": "Traxx FM",
-    "country": "MY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://traxxfm.rtm.gov.my/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_7b32fb797e94e25f5e9f",
@@ -1421,9 +1319,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://traxxfm.rtm.gov.my/",
-    "favicon": "https://cdn.instant.audio/images/logos/radioonline-my/traxx-kuala-lumpur.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

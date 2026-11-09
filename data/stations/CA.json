@@ -150,47 +150,24 @@
       "ambient",
       "jazz",
       "oldies",
-      "pop",
-      "public"
+      "pop"
     ],
     "tags": [
-      "192kbps",
       "chillout",
-      "chillout+lounge",
-      "classic hits",
       "classic-hits",
-      "club",
-      "cool jazz",
-      "cool music seduction",
-      "fm",
-      "high quality audio",
       "jazz",
-      "jazz fusion",
-      "jazz lounge",
-      "local radio",
       "lounge",
-      "lounge music",
-      "lounge radio",
       "music",
       "musica",
       "oldies",
-      "public radio",
-      "radio",
       "relax",
-      "relax music",
-      "relaxation",
       "relaxing",
-      "smooth",
-      "smooth jazz",
-      "smooth lounge",
-      "smooth-jazz",
-      "vocal jazz",
-      "vocal lounge"
+      "smooth-jazz"
     ],
     "homepage": "https://100-greatest-network.torontocast.stream/",
-    "favicon": "https://static.wixstatic.com/media/f361b3_2722a2a63db342f0901576a0168f2571~mv2.jpg",
-    "type": "public",
-    "sourceCount": 3,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -528,55 +505,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_d53e836f2daa70ab7c6e",
-    "name": "#100 BEST IBIZA DEEP HOUSE",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient",
-      "community",
-      "electronic",
-      "news",
-      "pop",
-      "public"
-    ],
-    "tags": [
-      "chill",
-      "chill house",
-      "chillout",
-      "chillout+lounge",
-      "club dance",
-      "club house",
-      "community radio",
-      "dance",
-      "dance music",
-      "deep",
-      "deep house",
-      "deephouse",
-      "electronic",
-      "electronic dance music",
-      "fm",
-      "high quality audio",
-      "hits",
-      "house",
-      "house/soulful/deep house",
-      "music",
-      "news",
-      "public radio",
-      "radio",
-      "soulful house",
-      "vocal deep"
-    ],
-    "homepage": "https://zeno.fm/radio/100-best-ibiza-deep-house-/",
-    "favicon": "https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg",
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:17:37Z"
-  },
-  {
     "id": "awb_d7009a2e746beed1501f",
     "name": "00-Radio Canada Montreal",
     "country": "CA",
@@ -641,30 +569,57 @@
     ],
     "tags": [
       "ambient",
-      "ambient and relaxation music",
-      "bossa nova",
-      "canada",
-      "chillout+lounge",
-      "covers",
-      "deep ambient",
-      "deep house",
-      "dub",
       "house",
       "jazz",
       "lounge",
-      "lounge music",
-      "lounge radio",
       "reggae",
       "relax",
-      "smooth jazz",
-      "smooth-jazz",
-      "toronto"
+      "smooth-jazz"
     ],
     "homepage": "https://radiosuitenetwork.torontocast.stream/100-covers-lounge/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-09T02:58:32Z"
+  },
+  {
+    "id": "awb_d53e836f2daa70ab7c6e",
+    "name": "100 BEST IBIZA DEEP HOUSE",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community",
+      "electronic",
+      "pop",
+      "public"
+    ],
+    "tags": [
+      "club dance",
+      "community radio",
+      "dance music",
+      "deep house",
+      "deephouse",
+      "electronic",
+      "electronic dance music",
+      "fm",
+      "high quality audio",
+      "hits",
+      "house",
+      "house/soulful/deep house",
+      "music",
+      "public radio",
+      "radio",
+      "soulful house",
+      "vocal deep"
+    ],
+    "homepage": "https://zeno.fm/radio/100-best-ibiza-deep-house-/",
+    "favicon": "https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:17:37Z"
   },
   {
     "id": "awb_90b3c94a66846da36bdc",
@@ -673,21 +628,15 @@
     "subdivision": "Ontario",
     "languages": [],
     "categories": [
-      "oldies",
-      "rock"
+      "oldies"
     ],
     "tags": [
-      "1980's",
-      "80s",
-      "80s radio",
-      "80s rock",
-      "the best decade 80s radio around.",
-      "the best of 80's"
+      "80s"
     ],
     "homepage": "https://100-greatest-network.torontocast.stream/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -828,20 +777,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_f86c89ec83759b7ceb9f",
-    "name": "102.3 Juice FM Grand Forks BC",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mygrandforksnow.com/",
-    "favicon": "https://www.mygrandforksnow.com/wp-content/uploads/2021/08/mynow-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_da598e65ec8f2e5a3503",
     "name": "102.3 NOW Radio",
     "country": "CA",
@@ -923,17 +858,12 @@
     "languages": [
       "en"
     ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "easy listening"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://1039maxfm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T08:50:50Z"
   },
   {
@@ -1110,38 +1040,6 @@
     "updatedAt": "2026-01-15T01:18:04Z"
   },
   {
-    "id": "awb_e4bbb8950e743fec08fc",
-    "name": "680 News Toronto",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.680news.com/",
-    "favicon": "https://www.680news.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:44:15Z"
-  },
-  {
-    "id": "awb_944b721e682d8c935df8",
-    "name": "680 NewsRadio Toronto",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.680news.com/",
-    "favicon": "https://www.680news.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-01T23:47:29Z"
-  },
-  {
     "id": "awb_14f1f44565444cb424e8",
     "name": "70 80 90 ITALIA D'AUTORE",
     "country": "CA",
@@ -1250,16 +1148,13 @@
       "oldies"
     ],
     "tags": [
-      "80's",
       "80s",
-      "alternative",
-      "new wave",
-      "synthpop"
+      "alternative"
     ],
     "homepage": "https://newwaveradio.org/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1597,24 +1492,6 @@
     "updatedAt": "2026-05-22T18:50:18Z"
   },
   {
-    "id": "awb_4eb57600ac38eb74ba1a",
-    "name": "98.5FM",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "talk & speech"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_70ad0728680beed7c6cc",
     "name": "989 XFM - CJFX",
     "country": "CA",
@@ -1843,23 +1720,17 @@
       "jazz"
     ],
     "tags": [
-      "aereoporto",
-      "airport",
       "ambient",
-      "chill",
       "chillout",
-      "easy listening",
       "easy-listening",
       "house",
       "lounge",
-      "smooth",
-      "smooth jazz",
       "smooth-jazz"
     ],
     "homepage": "https://radiosuitenetwork.torontocast.stream/airport-lounge-radio/",
-    "favicon": "https://favicon-generator.org/favicon-generator/htdocs/favicons/2023-12-16/9274e8a4803971186ff5c45359ab77a4.ico.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2067,17 +1938,13 @@
       "folk"
     ],
     "tags": [
-      "ancient music",
       "classical",
-      "folk",
-      "medieval",
-      "mittelalter",
-      "renaissance"
+      "folk"
     ],
     "homepage": "https://www.ancientfm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2149,22 +2016,6 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
-    "id": "awb_9944a7bf3b165fe532c1",
-    "name": "AVR 97.7",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://avrnetwork.com/",
-    "favicon": "https://avrnetwork.com/wp-content/uploads/sites/13/2021/03/avr-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:32:39Z"
-  },
-  {
     "id": "awb_65102f0a3b5a53e70129",
     "name": "Ayaz tv",
     "country": "CA",
@@ -2197,7 +2048,7 @@
     "homepage": "https://www.azstartv.com/home/About",
     "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.gKfahNAkDBbWH-x6okspwQHaEo%3Fpid%3DApi&f=1&ipt=b54ad8af054b0f3cdb5c2434108ced19e3153353bc39e8c49781eb26178dcd04&ipo=images",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-12T15:44:22Z"
   },
   {
@@ -2248,31 +2099,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-26T08:07:47Z"
-  },
-  {
-    "id": "awb_24b5fd9c0677ca3fe6ba",
-    "name": "Bas-Saint-Laurent, Côte-Nord, Gaspésie-Îles-de-la-Madeleine (Rimouski, QC)",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "blues",
-      "classical",
-      "jazz"
-    ],
-    "tags": [
-      "blues",
-      "classical",
-      "jazz",
-      "world music"
-    ],
-    "homepage": "https://ici.radio-canada.ca/ohdio/musique",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:02:57Z"
   },
   {
     "id": "awb_da7b510ba4aa8913a885",
@@ -2328,28 +2154,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-16T14:44:27Z"
-  },
-  {
-    "id": "awb_0eb3279a4c787dce7070",
-    "name": "Beats Radio",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "dance",
-      "edm",
-      "electronic"
-    ],
-    "homepage": "https://beatsradio.ca/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:47:38Z"
   },
   {
     "id": "awb_e5f70958a82c8eafdb6d",
@@ -2487,7 +2291,7 @@
     "homepage": "https://carina.streamerr.co/stream/8206",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2989,20 +2793,6 @@
     "updatedAt": "2026-01-15T02:29:06Z"
   },
   {
-    "id": "awb_028852168658a5b89b7b",
-    "name": "Calm Radio - Solo Piano & Guitar",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://calmradio.com/?channel=3",
-    "favicon": "https://arts.calmradio.com/fapi/000/000/000/000/000/003/1099c530f698a67a58e94af760ea5230a115f941fc6a2c0541fc019f9b8f.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-24T12:52:18Z"
-  },
-  {
     "id": "awb_dafd3630ba5f827a7d09",
     "name": "Calm Radio - Symphony",
     "country": "CA",
@@ -3121,20 +2911,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:14:10Z"
-  },
-  {
-    "id": "awb_97c8de24c37ab8b711cb",
-    "name": "Calm Radio - Zen",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://calmradio.com/",
-    "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_703e1b1dfd5699f3c3f3",
@@ -3298,22 +3074,6 @@
     "updatedAt": "2026-09-07T23:46:15Z"
   },
   {
-    "id": "awb_fd6ab1401dc229a8df9c",
-    "name": "Cariboo Country",
-    "country": "CA",
-    "subdivision": "British Columbia",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.mycariboonow.com/country-fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:24:53Z"
-  },
-  {
     "id": "awb_b82da17795914579d622",
     "name": "cbc Calgary",
     "country": "CA",
@@ -3450,14 +3210,13 @@
     "tags": [
       "blues",
       "classical",
-      "eclectic",
       "folk",
       "jazz"
     ],
     "homepage": "https://www.cbc.ca/music",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3659,7 +3418,7 @@
     "homepage": "https://www.cbc.ca/news/canada/nova-scotia",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-07-31T02:44:04Z"
   },
   {
@@ -3684,20 +3443,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:27:11Z"
-  },
-  {
-    "id": "awb_593700ffa132cd8421b4",
-    "name": "CBC Radio 1 Saskatoon",
-    "country": "CA",
-    "subdivision": "Saskatchewan",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.cbc.ca/listen/live-radio",
-    "favicon": "https://www.cbc.ca/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_96c37b9d98310a78e3b9",
@@ -4890,26 +4635,6 @@
     "updatedAt": "2026-01-15T02:22:41Z"
   },
   {
-    "id": "awb_512b2b10d6d7d477604d",
-    "name": "CFBV \"The Moose\" 870 Smithers, 106.5 Houston, 760 Burns Lake, BC",
-    "country": "CA",
-    "subdivision": "British Columbia",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "variety hits"
-    ],
-    "homepage": "https://www.mybulkleylakesnow.com/",
-    "favicon": "https://www.mybulkleylakesnow.com/wp-content/uploads/2021/09/mynow-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:27:13Z"
-  },
-  {
     "id": "awb_5c2575f3046ff42eecdf",
     "name": "CFBW \"BWR 91.3\" Hanover, ON",
     "country": "CA",
@@ -5400,29 +5125,6 @@
     "updatedAt": "2026-01-15T03:53:08Z"
   },
   {
-    "id": "awb_ecde7bbd6339de692557",
-    "name": "CFGQ 107.3 \"QR Calgary 107 & 770\" Calgary, AB",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "corus media",
-      "global news",
-      "news talk"
-    ],
-    "homepage": "https://qrcalgary.com/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/CHQR_770_2023.svg/250px-CHQR_770_2023.svg.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:53:33Z"
-  },
-  {
     "id": "awb_e4646893d4c794b61605",
     "name": "CFGW 94.1 \"Fox FM\" Yorkton, SK",
     "country": "CA",
@@ -5544,25 +5246,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:37:34Z"
-  },
-  {
-    "id": "awb_33cc3c2a3095da984ecb",
-    "name": "CFIX \"Rouge 96.9\" Saguenay, QC",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "bell media"
-    ],
-    "homepage": "https://www.iheartradio.ca/rouge-fm/rouge-fm-saguenay/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
     "id": "awb_28dea1897821a2eca51e",
@@ -5834,29 +5517,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:45:19Z"
-  },
-  {
-    "id": "awb_ac982480db384b5f8759",
-    "name": "CFMI 101.1 \"Rock 101\" New Westminster, BC",
-    "country": "CA",
-    "subdivision": "British Columbia",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "commercial",
-      "new westminster",
-      "vancouver"
-    ],
-    "homepage": "http://www.rock101.com/",
-    "favicon": "https://rock101.com/wp-content/uploads/sites/22/2018/01/cropped-fm-logos_512x512_rock101.png?w=180",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:59:30Z"
   },
   {
     "id": "awb_a81f1197de808c601f63",
@@ -6509,9 +6169,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://cfrc.ca/",
-    "favicon": "https://cfrc.ca/images/cfrc_logo_hiq_mobile.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
@@ -6874,28 +6534,6 @@
     "updatedAt": "2026-01-15T01:12:02Z"
   },
   {
-    "id": "awb_e55207ee7c3715856de7",
-    "name": "CFWN \"Northumberland 89.7\" Cobourg, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "cobourg",
-      "community radio",
-      "variety"
-    ],
-    "homepage": "http://www.northumberland897.ca/",
-    "favicon": "http://www.northumberland897.ca/favicon.ico",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:41:36Z"
-  },
-  {
     "id": "awb_352c3c7b7c967d6b9200",
     "name": "CFXE 94.3 \"Real Country West\" Edson, AB",
     "country": "CA",
@@ -6940,26 +6578,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:05:50Z"
-  },
-  {
-    "id": "awb_eba8a3ba40e5a227b6af",
-    "name": "CFXJ 93.5 \"Today Radio\" Toronto, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "adult hits",
-      "new branding of previous entry",
-      "new format"
-    ],
-    "homepage": "https://935todayradio.com/",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2987/files/2023/05/today-hero-logo-23-2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_b57eef07244721cace16",
@@ -7193,26 +6811,14 @@
     "name": "Chameleon Radio",
     "country": "CA",
     "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "hip-hop",
-      "latin",
-      "pop"
-    ],
-    "tags": [
-      "hiphop",
-      "latin",
-      "pop",
-      "r&b",
-      "rap"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://chameleonradiio.net/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-12T02:13:53Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-12T02:10:31Z"
   },
   {
     "id": "awb_b9adb3163a218b52962f",
@@ -7303,22 +6909,14 @@
     "name": "CHBN-FM \"KISS 91.7\" Edmonton, AB",
     "country": "CA",
     "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "contemporary hits",
-      "rogers media",
-      "top 40"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.kiss917.com/",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kiss_91.7_logo.svg/220px-Kiss_91.7_logo.svg.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:23:20Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_ed9e57e347f113825026",
@@ -7439,27 +7037,6 @@
     "updatedAt": "2026-01-15T06:19:56Z"
   },
   {
-    "id": "awb_f5bd0201a6c951a9bcef",
-    "name": "CHED 630 \"Global News Radio\" Edmonton, AB",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news talk"
-    ],
-    "homepage": "https://globalnews.ca/radio/630ched/",
-    "favicon": "https://globalnews.ca/wp-content/themes/shaw-globalnews/assets/dist/images/logo-black.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:36:09Z"
-  },
-  {
     "id": "awb_b55ed067104ae00aff3c",
     "name": "CHED 630 (Edmonton, AB)",
     "country": "CA",
@@ -7545,27 +7122,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_ca459c99a2ef49c043c1",
-    "name": "CHEZ-FM 106.1 \"Chez 106\" Ottawa, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "mainstream rock",
-      "rogers media"
-    ],
-    "homepage": "https://www.chez106.com/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/1061CHEZ_newlogo.jpg/150px-1061CHEZ_newlogo.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:25:32Z"
-  },
-  {
     "id": "awb_d4e32a19fd45ef7327bc",
     "name": "CHFG 101.1 \"Cree Radio\" Chisasibi,QC",
     "country": "CA",
@@ -7602,25 +7158,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:23:21Z"
-  },
-  {
-    "id": "awb_215beea3d7f8dff1eb5e",
-    "name": "CHFM 95.9 Calgary, AB",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "calgary"
-    ],
-    "homepage": "https://www.959chfm.com/",
-    "favicon": "https://www.star959.ca/wp-content/uploads/sites/12/2023/02/cropped-static-logo-star-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:02:42Z"
   },
   {
     "id": "awb_c5d51c9a6162fcc0d602",
@@ -7767,26 +7304,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:14:34Z"
-  },
-  {
-    "id": "awb_1349ea30875e0f4ca4ec",
-    "name": "CHHI-FM \"Rewind 95.9\" Miramichi, NB",
-    "country": "CA",
-    "subdivision": "New Brunswick",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "re-branding new format",
-      "stingray network"
-    ],
-    "homepage": "https://rewind959.ca/",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2302/files/2021/02/rewind-959-herologo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_985dee5c377bcaab2b7c",
@@ -8013,47 +7530,6 @@
     "updatedAt": "2026-01-15T00:07:07Z"
   },
   {
-    "id": "awb_16929dbd324fefdb78e0",
-    "name": "CHKS-FM \"Cool 106.3\" Sarnia, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "new format new branding"
-    ],
-    "homepage": "https://sarnia.coolradio.ca/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/CHKS_Cool_106.3_logo.jpg/150px-CHKS_Cool_106.3_logo.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:06:06Z"
-  },
-  {
-    "id": "awb_c9ba9b3855f64eb65bd0",
-    "name": "CHKT 1430 \"Fairchild Radio\" Toronto, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "cmn",
-      "yue"
-    ],
-    "categories": [],
-    "tags": [
-      "multicultural",
-      "multilingual"
-    ],
-    "homepage": "http://www.am1430.com/splash.php",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Fairchild_Radio_2012.png/100px-Fairchild_Radio_2012.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:03:21Z"
-  },
-  {
     "id": "awb_862e9a8a9a78418dadd7",
     "name": "CHKT AM1430 FairChild",
     "country": "CA",
@@ -8155,46 +7631,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:55:32Z"
-  },
-  {
-    "id": "awb_8c52ad91016a0cd80ff2",
-    "name": "CHLG-FM 104.3 \"The Breeze\" - Vancouver, BC",
-    "country": "CA",
-    "subdivision": "British Columbia",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "new format rebranding",
-      "soft adult contemporary",
-      "stingray network"
-    ],
-    "homepage": "https://www.1043thebreeze.ca/",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/868/files/2018/12/herolog1043_658x300.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_be5af4dee49a9501c254",
-    "name": "CHLQ 93.1 \"Q93\" Charlottetown, PE",
-    "country": "CA",
-    "subdivision": "Prince Edward Island",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "charlottetown",
-      "classic rock",
-      "commercial"
-    ],
-    "homepage": "http://q93.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:39:41Z"
   },
   {
     "id": "awb_04e090999f299cfbbeae",
@@ -8395,26 +7831,6 @@
     "updatedAt": "2026-01-15T07:58:24Z"
   },
   {
-    "id": "awb_423cd5932f52abd0cc0c",
-    "name": "CHMP 985 FM",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "talk"
-    ],
-    "homepage": "https://www.985fm.ca/",
-    "favicon": "https://www.985fm.ca/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:43:25Z"
-  },
-  {
     "id": "awb_f29deefe8383a73d94ec",
     "name": "CHMR - Memorial University of Newfoundland",
     "country": "CA",
@@ -8483,24 +7899,6 @@
     "updatedAt": "2026-01-15T00:53:11Z"
   },
   {
-    "id": "awb_858596107c3e4770fdac",
-    "name": "CHMX \"Play 92.1\" Regina, SK",
-    "country": "CA",
-    "subdivision": "Saskatchewan",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "rhythmic adult contemporary"
-    ],
-    "homepage": "https://www.play92.ca/",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2664/files/2022/11/play921col-logo-for-videos-1024x575.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:43:16Z"
-  },
-  {
     "id": "awb_dfbf65c3b09321b6e20e",
     "name": "CHNC-FM 107.1 New Carlisle, 99.1 Carleton, 99.3 Gaspe, 98.1 Chandler, 107.3 Perce, 106.7 Riviere-au-Renaud, QC",
     "country": "CA",
@@ -8536,29 +7934,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:16:50Z"
-  },
-  {
-    "id": "awb_783efbb9d095175250b4",
-    "name": "CHNI-FM \"Q88.9\" - Saint John, NB",
-    "country": "CA",
-    "subdivision": "New Brunswick",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "active rock",
-      "classic rock",
-      "new format rebranding",
-      "stingray network"
-    ],
-    "homepage": "https://q889.ca/",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/360/files/2019/08/Q_889_herologo727x300_2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:06:33Z"
   },
   {
     "id": "awb_f592fe5e383987be4fee",
@@ -8717,49 +8092,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_04560247dd98184b152c",
-    "name": "Choc FM",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "hits",
-      "pop"
-    ],
-    "homepage": "https://choc887.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:22:41Z"
-  },
-  {
-    "id": "awb_52c09cb7e6b885630d7c",
-    "name": "CHOC-FM 88.7 Saint-Raymond de Portneuf, QC",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits"
-    ],
-    "homepage": "https://choc887.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:56:01Z"
-  },
-  {
     "id": "awb_b8125c7bab50913f015d",
     "name": "CHOD \"FM 92.1 Cornwall, ON",
     "country": "CA",
@@ -8798,6 +8130,20 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
+    "id": "awb_ca004d7f3ab20e892268",
+    "name": "CHOI 98,1 Radio X",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiox.com/",
+    "favicon": "https://radiox.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
     "id": "awb_9400b580214de8fda6bd",
     "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
     "country": "CA",
@@ -8816,22 +8162,8 @@
     "homepage": "https://radiox.com/",
     "favicon": "https://radiox.com/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T03:49:38Z"
-  },
-  {
-    "id": "awb_ca004d7f3ab20e892268",
-    "name": "CHOI 98.1 Radio X",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiox.com/",
-    "favicon": "https://radiox.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_0db5abdaad511193eccc",
@@ -8921,33 +8253,6 @@
     "updatedAt": "2026-01-15T01:06:06Z"
   },
   {
-    "id": "awb_fcec57033f7eb2f6d374",
-    "name": "CHOK 1070 & 103.9 Sarnia, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "adult contemporary",
-      "commercial",
-      "information",
-      "news",
-      "port huron",
-      "sarnia",
-      "sport"
-    ],
-    "homepage": "http://chok.com/",
-    "favicon": "http://chok.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:53:54Z"
-  },
-  {
     "id": "awb_95e9dce92af76571247e",
     "name": "CHOM 97.7 Montréal",
     "country": "CA",
@@ -8960,25 +8265,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-25T21:44:01Z"
-  },
-  {
-    "id": "awb_db67633b3b2fcd640b4c",
-    "name": "CHON-FM 98.1 Whitehorse, YT",
-    "country": "CA",
-    "subdivision": "Yukon Territory",
-    "languages": [],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "indigenous"
-    ],
-    "homepage": "http://www.chonfm.com/",
-    "favicon": "https://mm.aiircdn.com/361/5d11458462746.gif",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_73185385cb214fc048e7",
@@ -9245,22 +8531,6 @@
     "updatedAt": "2026-01-15T01:34:09Z"
   },
   {
-    "id": "awb_c97fbb6f4bd665db10ad",
-    "name": "CHRI 99.1 Ottawa",
-    "country": "CA",
-    "subdivision": "Ottawa, ON",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.chri.ca/home/",
-    "favicon": "https://www.chri.ca/home/plugins/system/jat3/jat3/base-themes/default/images/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:49:40Z"
-  },
-  {
     "id": "awb_acbbdc2e56cab07a1a83",
     "name": "CHRI-FM Ottawa",
     "country": "CA",
@@ -9330,24 +8600,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:13:03Z"
-  },
-  {
-    "id": "awb_8c94ea9203458fdda788",
-    "name": "CHRK-FM \"Hot 101.9\" - Sydney, NS",
-    "country": "CA",
-    "subdivision": "Nova Scotia",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "hot adult contemporary",
-      "rebranding",
-      "stingray network"
-    ],
-    "homepage": "https://hot1019.ca/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_9cfc8fdde01d916bac65",
@@ -9712,20 +8964,14 @@
     "name": "CHUP \"Soft Rock 97.7\" Calgary, AB",
     "country": "CA",
     "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "soft rock"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "http://www.softrock977.com/",
     "favicon": "https://media.socastsrm.com/uploads/station/2567/hero_logo-615e1f2ecdc9a.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:47:34Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_0731cc4d98ce522f4404",
@@ -9770,26 +9016,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:10:47Z"
-  },
-  {
-    "id": "awb_a9459d73d301f3a31cc5",
-    "name": "CHVO \"New Country 103.9\" Carbonear, NL",
-    "country": "CA",
-    "subdivision": "Newfoundland and Labrador",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country"
-    ],
-    "homepage": "https://newcountrynl.ca/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Chvo.jpg/250px-Chvo.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:15:03Z"
   },
   {
     "id": "awb_25c5d682f33546507836",
@@ -10138,29 +9364,6 @@
     "updatedAt": "2026-01-15T01:46:18Z"
   },
   {
-    "id": "awb_cf5191ed50f77f46fa2c",
-    "name": "CIBU \"Classic Rock 94.5\" Wingham, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "bluewater",
-      "classic rock",
-      "commercial",
-      "wingham"
-    ],
-    "homepage": "http://classicrock945.ca/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:28:20Z"
-  },
-  {
     "id": "awb_3083a627deba288576f8",
     "name": "CIBU-FM \"Cool 94.5\" Wingham, ON (AAC Stream)",
     "country": "CA",
@@ -10436,26 +9639,6 @@
     "updatedAt": "2026-01-15T05:56:44Z"
   },
   {
-    "id": "awb_71e553e177ee5dd9a592",
-    "name": "CIHI-FM \"Rewind 93.1\" - Fredericton, NB",
-    "country": "CA",
-    "subdivision": "New Brunswick",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "re-branding new format",
-      "stingray network"
-    ],
-    "homepage": "https://rewind931.ca/",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/881/files/2021/02/rewind-931-herologo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_4abf90ab25cf01171a03",
     "name": "CIHO \"Charlevoix 96.3\" Saint-Hilarion, QC",
     "country": "CA",
@@ -10541,26 +9724,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:07:07Z"
-  },
-  {
-    "id": "awb_f8eabccb4a95e4c88ad0",
-    "name": "CIJK-FM \"Rewind 89.3\" - New Minas, NS",
-    "country": "CA",
-    "subdivision": "Nova Scotia",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "new format rebranding",
-      "stingray network"
-    ],
-    "homepage": "https://rewind893.ca/",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2306/files/2021/02/rewind-893-herologo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_f5a3400c54d90c6f09de",
@@ -10904,7 +10067,7 @@
     "homepage": "https://ice8.securenetsystems.net/CINA",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:57:45Z"
   },
   {
@@ -10968,40 +10131,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_016c76335bdfec7a189c",
-    "name": "Cinemix HD",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.cinemix.radio/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_81d2c050c7fa6ad1421c",
-    "name": "CING 95.3 \"Fresh Radio\" Hamilton, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "commercial",
-      "hamilton",
-      "hot adult contemporary"
-    ],
-    "homepage": "http://www.953freshradio.ca/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:30:27Z"
   },
   {
     "id": "awb_78ee1adfaabfd772e3fb",
@@ -11173,30 +10302,6 @@
     "updatedAt": "2026-10-19T00:28:39Z"
   },
   {
-    "id": "awb_8e692a810d5095dd5c5b",
-    "name": "CIOG-FM harvesters.fm",
-    "country": "CA",
-    "subdivision": "Prince Edward Island",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "religious",
-      "talk"
-    ],
-    "tags": [
-      "christian",
-      "music",
-      "talk",
-      "uplifting"
-    ],
-    "homepage": "https://harvesters.fm/",
-    "favicon": "https://i.imgur.com/Nt3hlNv.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:56:01Z"
-  },
-  {
     "id": "awb_45d2bacfcf74488b5bac",
     "name": "CIOK 100.5 \"K-100\" Saint John, NB",
     "country": "CA",
@@ -11296,27 +10401,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:26:37Z"
-  },
-  {
-    "id": "awb_b42dd76190687598878e",
-    "name": "CIRA-FM 91.3 \"Radio Ville Marie\", Montreal, QC",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "catholic",
-      "religious"
-    ],
-    "homepage": "https://www.radiovm.com/",
-    "favicon": "https://www.radiovm.com/sites/default/themes/at_panels_everywhere/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:07:59Z"
   },
   {
     "id": "awb_67c197212f4a49a69e65",
@@ -11533,19 +10617,12 @@
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "commercial",
-      "montréal",
-      "pop",
-      "québec"
-    ],
-    "homepage": "https://cism893.ca/http://stream03.ustream.ca:8000/cism128.mp3",
-    "favicon": "https://www.allzicradio.com/media/radios/cism.jpg",
+    "categories": [],
+    "tags": [],
+    "homepage": "https://cism893.ca/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
@@ -11695,27 +10772,6 @@
     "updatedAt": "2026-01-15T07:08:10Z"
   },
   {
-    "id": "awb_4b1486684f3089fbc74c",
-    "name": "CITI 92.1 Winnipeg, MB",
-    "country": "CA",
-    "subdivision": "Manitoba",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "mainstream rock",
-      "rogers media"
-    ],
-    "homepage": "https://www.921citi.ca/",
-    "favicon": "https://www.921citi.ca/wp-content/uploads/sites/22/2023/03/cropped-static-logo-921-citi-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:20:40Z"
-  },
-  {
     "id": "awb_c16d188b16b90358a88b",
     "name": "CITM-FM Mix 98.5 FM Ottawa",
     "country": "CA",
@@ -11746,25 +10802,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_4af4332f881dc875825b",
-    "name": "CITR - University of British Columbia",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "college"
-    ],
-    "tags": [
-      "campus radio",
-      "eclectic"
-    ],
-    "homepage": "https://www.citr.ca/",
-    "favicon": "https://www.citr.ca/wp-content/themes/citr/assets/img/icons/favicon-48@2x.png",
-    "type": "college",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_719b534e16a7f9ab216f",
@@ -11950,27 +10987,6 @@
     "updatedAt": "2026-01-14T22:54:08Z"
   },
   {
-    "id": "awb_09a9e43250d44490df95",
-    "name": "CIUT University of Toronto",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community",
-      "politics",
-      "toronto",
-      "university"
-    ],
-    "homepage": "https://ciut.fm/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240419_233820002.jpg?alt=media&token=a0ff8ae2-4222-499b-8567-43e7640a8f1c",
-    "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_b8ea798e718d4d2b36e0",
     "name": "CIUX-FM \"Hits 105.5\" Uxbridge, ON",
     "country": "CA",
@@ -12125,28 +11141,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_ac3dbe15bc9b8cd70d79",
-    "name": "CIWW CityNews Ottawa",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news",
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "sport",
-      "talk"
-    ],
-    "homepage": "https://ottawa.citynews.ca/",
-    "favicon": "https://www.vmcdn.ca/files/ui/rogers/citynews/at.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_aff23894fbedfd161e11",
     "name": "CIXF \"Boom 101,1\" Brooks, AB",
     "country": "CA",
@@ -12273,20 +11267,6 @@
     "updatedAt": "2026-01-15T00:34:47Z"
   },
   {
-    "id": "awb_29b1eeef659796fe1132",
-    "name": "CIZZ-FM Z 98.9",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.zed989.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_30dca0a17b4b14dc44be",
     "name": "CJAB-FM \"Energie Saguenay-Lac-Saint-Jean 94.5\" Saguenay, QC",
     "country": "CA",
@@ -12372,21 +11352,14 @@
     "name": "CJAQ \"Jack 96.9\" Calgary, AB",
     "country": "CA",
     "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "adult hits",
-      "calgary"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.jack969.ca/",
     "favicon": "https://www.jack969.ca/wp-content/uploads/sites/11/2023/02/cropped-static-logo-jack-180x180.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T02:49:44Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_7e878f8e139fa0fbd113",
@@ -12446,22 +11419,15 @@
     "id": "awb_2c6dedc8ab5187b1c9d9",
     "name": "CJAX \"Jack 96.9\" Vancouver, BC",
     "country": "CA",
-    "subdivision": "British Columbia",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "adult hits",
-      "vancouver"
-    ],
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.jack969.com/",
     "favicon": "https://www.jack969.com/wp-content/uploads/sites/13/2023/03/cropped-static-logo-jack-969-180x180.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T06:23:20Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_28c3319b6a7086261a3f",
@@ -12492,19 +11458,15 @@
       "en"
     ],
     "categories": [
-      "community",
       "pop"
     ],
     "tags": [
-      "classic hits",
-      "classic-hits",
-      "community radio",
-      "englehart"
+      "classic-hits"
     ],
     "homepage": "https://1031thetrain.com/",
     "favicon": null,
-    "type": "community",
-    "sourceCount": 2,
+    "type": null,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -12684,29 +11646,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:24:53Z"
-  },
-  {
-    "id": "awb_6b95494e742a28592b76",
-    "name": "CJCL Sportsnet 590 The Fan",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "sports",
-      "talk",
-      "toronto"
-    ],
-    "homepage": "https://www.sportsnet.ca/590/",
-    "favicon": "https://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/sn_logo_120x120_bg_white.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:03:48Z"
   },
   {
     "id": "awb_4f07a201e12e524cb2a6",
@@ -12894,24 +11833,6 @@
     "updatedAt": "2026-01-14T23:18:26Z"
   },
   {
-    "id": "awb_71e9f95ca607f04c576c",
-    "name": "CJEG-FM \"Hot 101.3\" - Bonnyville, AB",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "hot adult contemporary",
-      "rebranding",
-      "stingray network"
-    ],
-    "homepage": "https://hot1013fm.com/",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2254/files/2019/10/HOT1013-herologo333x300.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_5cd65fdc5fa23d829a76",
     "name": "CJEL-FM \"Eagle 93.5\" Winkler, MB",
     "country": "CA",
@@ -13011,20 +11932,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-10-30T03:24:20Z"
-  },
-  {
-    "id": "awb_e85583a0a526761bcec9",
-    "name": "CJFO \"Unique FM\"",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://uniquefm.ca/",
-    "favicon": "https://uniquefm.ca/images/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_976fe96fe5efd4eae65c",
@@ -13666,27 +12573,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_b0df17bc8be1b2fbd715",
-    "name": "CJMO 103.1 \"C103\" Moncton, NB",
-    "country": "CA",
-    "subdivision": "New Brunswick",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "mainstream rock",
-      "moncton"
-    ],
-    "homepage": "http://www.c103.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:33:22Z"
-  },
-  {
     "id": "awb_bb7053e9c12eba6ea53e",
     "name": "CJMO-FM 103.1 \"Q103\" - Moncton, NB",
     "country": "CA",
@@ -13854,28 +12740,6 @@
     "updatedAt": "2026-01-15T01:34:09Z"
   },
   {
-    "id": "awb_b8cc7ce17d40087ad82c",
-    "name": "CJNW 107.1 \"Hot 107\" Edmonton, AB",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "commercial",
-      "edmonton",
-      "rhythmic top 40"
-    ],
-    "homepage": "http://www.hot107.ca/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:21:23Z"
-  },
-  {
     "id": "awb_165d12a27860244817a2",
     "name": "CJNY-FM 106.3 \"The Journey\" Vancouver, BC",
     "country": "CA",
@@ -13949,13 +12813,12 @@
       "pop"
     ],
     "tags": [
-      "classic hits",
       "classic-hits"
     ],
     "homepage": "https://www.mylethbridgenow.com/category/on-air/94-1-cjoc-fm/",
-    "favicon": "https://www.mylethbridgenow.com/wp-content/uploads/2019/05/mynow-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -13970,17 +12833,14 @@
       "oldies"
     ],
     "tags": [
-      "80's",
       "80s",
-      "90's",
       "90s",
-      "adult contemporary",
       "adult-contemporary"
     ],
     "homepage": "https://955hitsfm.ca/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CJOJ_95.5Hitsfm_logo.png/250px-CJOJ_95.5Hitsfm_logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -14197,29 +13057,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_8f8b45c786bfe3d9666b",
-    "name": "CJRK-FM 102.7 \"East FM\" Toronto, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "fa",
-      "hi",
-      "ko",
-      "ta",
-      "tl"
-    ],
-    "categories": [],
-    "tags": [
-      "multicultural",
-      "multilingual"
-    ],
-    "homepage": "http://www.eastfm.ca/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/CJRK_EastFM102.7_logo.png/220px-CJRK_EastFM102.7_logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:11:16Z"
   },
   {
     "id": "awb_370a8d900217bfa1f17e",
@@ -14911,15 +13748,13 @@
       "pop"
     ],
     "tags": [
-      "classic hits",
       "classic-hits",
-      "lacombe",
       "oldies"
     ],
     "homepage": "https://lacombeonline.com/sunny",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -15045,48 +13880,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:11:47Z"
-  },
-  {
-    "id": "awb_a5dd78c875f89481d76c",
-    "name": "CJXK-FM \"Boom 95.3\" - Cold Lake, AB",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "new format rebranding",
-      "stingray network"
-    ],
-    "homepage": "https://boom953.ca/",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2291/files/2019/03/boomherologo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:10:11Z"
-  },
-  {
-    "id": "awb_70c189dddd9ee8e31fd3",
-    "name": "CJXL \"New Country 96.9\" Moncton, NB",
-    "country": "CA",
-    "subdivision": "New Brunswick",
-    "languages": [],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country",
-      "rebranding",
-      "stingray network"
-    ],
-    "homepage": "https://www.newcountry969.ca/",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1460/files/2017/11/nc969hero_logo_v003.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_16ab997a53cea05b278a",
@@ -15215,26 +14008,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:00:48Z"
-  },
-  {
-    "id": "awb_3669a079e70511aeaded",
-    "name": "CJYQ \"New Country 930\" St. John's, NL",
-    "country": "CA",
-    "subdivision": "Newfoundland and Labrador",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country"
-    ],
-    "homepage": "https://newcountrynl.ca/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Cjyq.jpg/200px-Cjyq.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:56:58Z"
   },
   {
     "id": "awb_62f1f5795ef959ea4042",
@@ -15531,28 +14304,6 @@
     "updatedAt": "2026-01-15T08:51:19Z"
   },
   {
-    "id": "awb_c1f444398e5976e3549d",
-    "name": "CKBN \"VIA 90.5 FM\" Bécancour, QC",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "becancour",
-      "community radio",
-      "radio communitaire"
-    ],
-    "homepage": "https://www.via905.fm/",
-    "favicon": "https://www.via905.fm/favicon.ico",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:08:30Z"
-  },
-  {
     "id": "awb_fc894b633f667f37d622",
     "name": "CKBN \"Via 90.5\" Saint-Gregoire, QC",
     "country": "CA",
@@ -15691,22 +14442,14 @@
     "name": "CKCE-FM 101.5 \"Today Radio\" Calgary, AB",
     "country": "CA",
     "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "80s",
-      "90s",
-      "hot adult contemporary"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.1015todayradio.com/",
-    "favicon": "https://www.1015todayradio.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:27:38Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_3a99f719c59646f3f9ca",
@@ -15811,42 +14554,15 @@
     "languages": [
       "en"
     ],
-    "categories": [
-      "college",
-      "community"
-    ],
+    "categories": [],
     "tags": [
-      "alternative",
-      "college radio",
-      "community radio",
-      "university radio"
+      "alternative"
     ],
     "homepage": "https://www.ckcufm.com/",
     "favicon": null,
-    "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_f04f51a05c9bda9ae7cc",
-    "name": "CKCU The Mighty 93.1",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en",
-      "fr"
-    ],
-    "categories": [
-      "college"
-    ],
-    "tags": [
-      "college radio"
-    ],
-    "homepage": "https://www.ckcufm.com/",
-    "favicon": "https://d3l5v170u7u05y.cloudfront.net/pgm_images/unclassifiable.jpg",
-    "type": "college",
+    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:17:44Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_7bc043919df67874f9e1",
@@ -16178,24 +14894,6 @@
     "updatedAt": "2026-01-15T05:25:40Z"
   },
   {
-    "id": "awb_9af3ca0bc9ef4d746586",
-    "name": "CKEC-FM 94.1 \"The Breeze\" - New Glasgow, NS",
-    "country": "CA",
-    "subdivision": "Nova Scotia",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "new format rebranding",
-      "pictou county",
-      "soft adult contemporary"
-    ],
-    "homepage": "https://941thebreeze.com/",
-    "favicon": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2242/files/2021/01/breeze941hero622x300.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_7373e07adbac34af210e",
     "name": "CKEN \"AVR 97.7\" Kentville, NS",
     "country": "CA",
@@ -16253,16 +14951,13 @@
       "rock"
     ],
     "tags": [
-      "classic hits",
-      "classic rock",
       "classic-hits",
-      "classic-rock",
-      "new glasgow"
+      "classic-rock"
     ],
     "homepage": "https://z979.ca/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -16448,27 +15143,6 @@
     "updatedAt": "2026-01-15T00:57:53Z"
   },
   {
-    "id": "awb_2d12a629ee7e65ba5f5a",
-    "name": "CKGL \"City News 570\" Kitchener, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news talk"
-    ],
-    "homepage": "https://kitchener.citynews.ca/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/150px-CityNews_570_logo.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:41:29Z"
-  },
-  {
     "id": "awb_1c6c9268617c240dffae",
     "name": "CKGN 89.7 Kapuskasing & 94.7 Smooth Rock Falls, ON",
     "country": "CA",
@@ -16506,27 +15180,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_a3c90a3e632b2a158cf2",
-    "name": "CKGY \"Real Country 95.5\" Red Deer, AB",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country",
-      "red deer"
-    ],
-    "homepage": "http://www.realcountryreddeer.ca/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:32:14Z"
   },
   {
     "id": "awb_52c2e6af8ce060bfe76a",
@@ -16622,28 +15275,6 @@
     "updatedAt": "2026-01-15T02:14:38Z"
   },
   {
-    "id": "awb_8d11f3c0b6bef1b44cc9",
-    "name": "CKIS \"KISS 92.5\" Toronto, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "contemporary hits",
-      "rogers media",
-      "top 40"
-    ],
-    "homepage": "https://www.kiss925.com/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/KiSS_92.5_Logo.png/150px-KiSS_92.5_Logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:31:41Z"
-  },
-  {
     "id": "awb_45fbe391540f20496bd6",
     "name": "CKIX 99.1 \"Hits FM\" St. John's, NL",
     "country": "CA",
@@ -16664,28 +15295,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:03:36Z"
-  },
-  {
-    "id": "awb_805f15d547c29910c325",
-    "name": "CKIX-FM \"Hot 99.1\" St. John's, NL",
-    "country": "CA",
-    "subdivision": "Newfoundland and Labrador",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "contemporary hit radio",
-      "new format rebranding",
-      "top 40"
-    ],
-    "homepage": "https://hot991.ca/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:20:09Z"
   },
   {
     "id": "awb_e625cc1725822d0af814",
@@ -16745,30 +15354,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:07:59Z"
-  },
-  {
-    "id": "awb_b8c17aee78e74000dfe3",
-    "name": "CKJR \"Sports 1440\" Wetaskiwin, AB (AAC Stream)",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "new format rebranding",
-      "sports news",
-      "sports talk"
-    ],
-    "homepage": "https://www.sports1440.ca/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sports1440-splash-logo.png/200px-Sports1440-splash-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:09:44Z"
   },
   {
     "id": "awb_98e7d9e8eb1750115de0",
@@ -17053,27 +15638,6 @@
     "updatedAt": "2026-01-15T07:52:50Z"
   },
   {
-    "id": "awb_7b0974d92c6340403eb6",
-    "name": "CKLB-FM 101.9 Yellowknife, NT",
-    "country": "CA",
-    "subdivision": "Northwest Territories",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "indigenous"
-    ],
-    "homepage": "https://cklbradio.com/",
-    "favicon": "https://b2511676.smushcdn.com/2511676/wp-content/uploads/2019/11/top_logo_2.gif?lossy=1&strip=1&webp=1",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:54:20Z"
-  },
-  {
     "id": "awb_5e5c8061ff61d489107e",
     "name": "CKLD \"Plaisir 105.5\" Thetford Mines, QC",
     "country": "CA",
@@ -17152,26 +15716,6 @@
     "updatedAt": "2026-01-15T03:53:54Z"
   },
   {
-    "id": "awb_ff50c2834a7b3bc0bd29",
-    "name": "CKLN \"New Country 97.1\" Clarenville, NL",
-    "country": "CA",
-    "subdivision": "Newfoundland and Labrador",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country"
-    ],
-    "homepage": "https://newcountrynl.ca/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:25:40Z"
-  },
-  {
     "id": "awb_b2aa2ed2fbf435a9da62",
     "name": "CKLN 97.1 \"KIXX Country\" Clarenville, NL",
     "country": "CA",
@@ -17192,27 +15736,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:17:31Z"
-  },
-  {
-    "id": "awb_32a27cb2fdbdc8da3969",
-    "name": "CKLO \"Classic Rock 98.1 FM\" London, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "rebranding"
-    ],
-    "homepage": "https://www.classicrock981.com/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/a/ad/CKLO_London_Wiki_2019.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:26:25Z"
   },
   {
     "id": "awb_b4701c6d008c8e44e5c8",
@@ -17293,24 +15816,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:01:43Z"
-  },
-  {
-    "id": "awb_5e283ac863315f4b5980",
-    "name": "CKLU 96.7 FM",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [],
-    "categories": [
-      "college"
-    ],
-    "tags": [
-      "university radio"
-    ],
-    "homepage": "https://cklu.ca/",
-    "favicon": "https://ckluradio.files.wordpress.com/2020/02/cropped-cklu-1.png?w=16",
-    "type": "college",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_91cb484c7bd0b4c13f69",
@@ -18877,25 +17382,6 @@
     "updatedAt": "2026-01-15T06:36:23Z"
   },
   {
-    "id": "awb_48a97c1ad36473b0a35f",
-    "name": "CKUL-FM \"The Breeze 96.5\" Halifax, NS",
-    "country": "CA",
-    "subdivision": "Nova Scotia",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "new format rebranding",
-      "soft adult contemporary"
-    ],
-    "homepage": "https://965thebreeze.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:03:28Z"
-  },
-  {
     "id": "awb_52a902f86df14955f0a3",
     "name": "CKUT 90.3 FM",
     "country": "CA",
@@ -18972,28 +17458,6 @@
     "updatedAt": "2026-01-15T06:32:26Z"
   },
   {
-    "id": "awb_40b9cf2895ef53d5e40c",
-    "name": "CKUW 95.9 FM",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community",
-      "student radio",
-      "winnipeg"
-    ],
-    "homepage": "https://ckuw.ca/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240425_010015805.jpg?alt=media&token=544741ec-5d1f-449d-ad77-a8e84d0f91ee",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:46:02Z"
-  },
-  {
     "id": "awb_4845b98397a9af1ced40",
     "name": "CKUW 95.9 University of Winnipeg, MB",
     "country": "CA",
@@ -19038,20 +17502,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:14:59Z"
-  },
-  {
-    "id": "awb_480990d794baf073de99",
-    "name": "CKUW Winnipeg",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://ckuw.ca/",
-    "favicon": "https://ckuw.ca/images/news/50-24.png?v=1707929485997",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_2bd922287025a7e6d08e",
@@ -19169,26 +17619,6 @@
     "updatedAt": "2026-01-15T00:07:55Z"
   },
   {
-    "id": "awb_d45fbafb6c930e513649",
-    "name": "CKVV 97.5 \"Moose FM\" Kemptville, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "adult hits"
-    ],
-    "homepage": "https://www.mykemptvillenow.com/",
-    "favicon": "https://www.mykemptvillenow.com/wp-content/uploads/2022/05/Moose-975-KEMPTVILLE-HiRes.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:04:09Z"
-  },
-  {
     "id": "awb_611a492a30a4a823ecc6",
     "name": "CKVX-FM 104.9 \"Country 104\" Kindersley, SK",
     "country": "CA",
@@ -19295,30 +17725,6 @@
     "updatedAt": "2026-01-15T04:39:08Z"
   },
   {
-    "id": "awb_0199ac43455654ecacb7",
-    "name": "CKWR 98.5 \"Real Community Radio\" Kitchener, ON",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en",
-      "hr",
-      "pl",
-      "zh"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "multingual"
-    ],
-    "homepage": "https://ckwr.com/",
-    "favicon": "https://media.socastsrm.com/uploads/station/1859/site_header_logo-5df3ffce8edd3.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:09:01Z"
-  },
-  {
     "id": "awb_21778e9d8f397a4c8b11",
     "name": "CKWS 104.3 \"Fresh Radio\" Kingston, ON",
     "country": "CA",
@@ -19416,29 +17822,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:02:30Z"
-  },
-  {
-    "id": "awb_e6ff161d25757832ef0b",
-    "name": "CKWY 93.7 \"Wayne FM\" Wainwright, AB",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "commercial",
-      "hot adult contemporary",
-      "wainwright"
-    ],
-    "homepage": "http://www.waynefm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:06:34Z"
   },
   {
     "id": "awb_4e3adc64633f379a96aa",
@@ -19641,27 +18024,6 @@
     "updatedAt": "2026-01-15T04:15:07Z"
   },
   {
-    "id": "awb_9f0a531204727b887b6b",
-    "name": "CKYE-FM 93.1 \"Red FM\" Vancouver, BC",
-    "country": "CA",
-    "subdivision": "British Columbia",
-    "languages": [
-      "hi",
-      "ur"
-    ],
-    "categories": [],
-    "tags": [
-      "13 languages",
-      "multicultural",
-      "multilingual"
-    ],
-    "homepage": "https://vancouver.redfm.ca/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/4/4a/CKYE_FM.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:56:33Z"
-  },
-  {
     "id": "awb_7aa7d6ba7a511c12cb7e",
     "name": "CKYL 610 \"YL Country\" Peace River, AB",
     "country": "CA",
@@ -19790,20 +18152,14 @@
     "id": "awb_d4b787c5e983fbba3550",
     "name": "Clam Radio - Solo Piano & Guitar",
     "country": "CA",
-    "subdivision": "Ontario",
+    "subdivision": null,
     "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical",
-      "instrumental",
-      "piano"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "http://www.calmradio.com/",
-    "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-03-30T11:37:08Z"
   },
   {
@@ -19920,28 +18276,6 @@
     "updatedAt": "2026-08-03T16:07:18Z"
   },
   {
-    "id": "awb_f57e500d0a26a34cef8d",
-    "name": "Classic Rock 109",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "rock hits"
-    ],
-    "homepage": "http://www.classicrock109.com/",
-    "favicon": "http://p.onlineradiobox.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:20:44Z"
-  },
-  {
     "id": "awb_90abb65d3f614d66e79a",
     "name": "ClassicHitsOnline.com",
     "country": "CA",
@@ -19977,10 +18311,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.coast1011.com/",
-    "favicon": "https://www.coast1011.com/images/logo.svg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-24T23:17:59Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-24T22:59:22Z"
   },
   {
     "id": "awb_bbeb313c3876969866f7",
@@ -20305,7 +18639,7 @@
     "homepage": "https://deadmoonradio.com/",
     "favicon": "https://stream.deadmoonradio.com/static/uploads/album_art.1765903062.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-27T13:49:39Z"
   },
   {
@@ -20373,42 +18707,8 @@
     "homepage": "https://www.dmagicworld.com/",
     "favicon": "https://www.dmagicworld.com/img/pwa/icon-512.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-03T15:21:57Z"
-  },
-  {
-    "id": "awb_65daac32516f5963519a",
-    "name": "Downtempo Radio (Downtempo.Radio)",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "chillout"
-    ],
-    "homepage": "https://downtempo.radio/",
-    "favicon": "https://streaming.coolmusicradio.com/static/uploads/soft_radio/album_art.1779920894.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-04T09:24:55Z"
-  },
-  {
-    "id": "awb_5b8b6c0e17364f493d04",
-    "name": "Dream 102.9 FM",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://dreamfm.org/",
-    "favicon": "http://dreamfm.org/wp-content/uploads/2019/09/logo-3-small.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_b6f2962f27ac5e07e834",
@@ -20730,7 +19030,7 @@
   },
   {
     "id": "awb_cd75ecd4c2b2e4fa4504",
-    "name": "Fallout '26 Radio",
+    "name": "Fallout '26 radio",
     "country": "CA",
     "subdivision": "Ontario",
     "languages": [],
@@ -20739,16 +19039,14 @@
       "jazz"
     ],
     "tags": [
-      "big band",
       "blues",
-      "jazz",
-      "orchestra"
+      "jazz"
     ],
-    "homepage": "https://radio.greenwoodlabs.ca/public/fallout26",
+    "homepage": "https://radio.greenwoodlabs.ca/listen/fallout26",
     "favicon": "https://radio.greenwoodlabs.ca/static/uploads/fallout26/background.1779547063.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-28T17:18:08Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-05-23T15:20:59Z"
   },
   {
     "id": "awb_24ab94fab6399b82daeb",
@@ -21022,30 +19320,14 @@
     "name": "Global 1 FM Radio",
     "country": "CA",
     "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://www.global1fmradio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-27T10:38:55Z"
-  },
-  {
-    "id": "awb_b2313ecfebb8b80fde91",
-    "name": "Glory To Jesus",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.glorytojesus.ca/",
-    "favicon": null,
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "updatedAt": "2026-10-27T04:28:48Z"
   },
   {
     "id": "awb_a9c351137ec1a2b36e96",
@@ -21074,20 +19356,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_8ce1e83628dd94f1a00f",
-    "name": "Greatest Hits Of All Time",
-    "country": "CA",
-    "subdivision": "Saskatchewan",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://ghoat.ca/",
-    "favicon": "https://thekiputerstore.ca/FINAL-TheGhoat-logo-blue-side-yrs-TB-icon-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-24T18:25:49Z"
   },
   {
     "id": "awb_51eaf0605149109aef75",
@@ -21329,37 +19597,13 @@
     "country": "CA",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "blues",
-      "country"
-    ],
-    "tags": [
-      "americana",
-      "bluegrass",
-      "blues",
-      "country"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://highwaycountryradio.com/",
     "favicon": "https://highwaycountryradio.com/logo/favicon.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-13T10:06:34Z"
-  },
-  {
-    "id": "awb_fccb33d6c8f3746831d5",
-    "name": "HITS 100",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "international"
-    ],
-    "homepage": "https://hits100.ca/",
-    "favicon": "https://hits100.ca/favicon.ico",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "updatedAt": "2026-10-13T10:02:22Z"
   },
   {
     "id": "awb_ad0f0b520e225fbf5720",
@@ -21383,22 +19627,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-04T09:01:13Z"
-  },
-  {
-    "id": "awb_b4603d158c41efc1067d",
-    "name": "HITS100",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "international"
-    ],
-    "homepage": "https://hits100.ca/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_785f2a4be228fda4e752",
@@ -21496,7 +19724,7 @@
     "homepage": "https://hyperion.fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-18T00:32:49Z"
   },
   {
@@ -21512,22 +19740,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_8516b1b9e7d9db23ddc0",
-    "name": "ICI Musique - Montréal",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://ici.radio-canada.ca/ohdio/musique/",
-    "favicon": "https://ici.radio-canada.ca/v5/ohdio/dist/appohdio/assets/pwa/apple-touch-icon-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:32:05Z"
   },
   {
     "id": "awb_e29c289c360aabfe0186",
@@ -21558,44 +19770,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:10:26Z"
-  },
-  {
-    "id": "awb_ed3fb87c8a9ddc9aca4c",
-    "name": "ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "blues",
-      "classical",
-      "folk",
-      "jazz",
-      "pop",
-      "public",
-      "rock"
-    ],
-    "tags": [
-      "blues",
-      "classical",
-      "contemporary",
-      "eclectic programming",
-      "folk",
-      "french music",
-      "jazz",
-      "music",
-      "musique",
-      "pop",
-      "public radio",
-      "rock",
-      "world"
-    ],
-    "homepage": "https://ici.radio-canada.ca/ohdio/musique",
-    "favicon": "https://ici.radio-canada.ca/favicon.ico",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:34:41Z"
   },
   {
     "id": "awb_a7f5b86545eabe7a77b9",
@@ -21704,37 +19878,6 @@
     "updatedAt": "2026-01-15T03:18:28Z"
   },
   {
-    "id": "awb_93d6cc7afccd2d1c1b32",
-    "name": "ICI Radio-Canada Première Edmonton - 90.1 FM (CHFA-FM)",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "classical",
-      "jazz",
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "classical",
-      "french culture",
-      "french music",
-      "jazz",
-      "news",
-      "news talk music",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "https://ici.radio-canada.ca/ohdio/premiere",
-    "favicon": "https://ici.radio-canada.ca/favicon.ico",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:55:28Z"
-  },
-  {
     "id": "awb_fa63425c7f59a6456f01",
     "name": "ICI Radio-Canada Première Montréal",
     "country": "CA",
@@ -21793,8 +19936,8 @@
     "homepage": "https://www.iheart.com/live/iheart-the-holidays-8451/",
     "favicon": "https://i.ibb.co/89gt1Q4/66fd9811a64b223110d9bf4f.webp",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T05:31:15Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:30:34Z"
   },
   {
     "id": "awb_aa8ca8d45d321aec3e0f",
@@ -21813,7 +19956,7 @@
     "homepage": "https://www.iheart.com/live/iheart-the-holidays-8451/",
     "favicon": "https://i.ibb.co/89gt1Q4/66fd9811a64b223110d9bf4f.webp",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:56:58Z"
   },
   {
@@ -21874,20 +20017,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-19T02:11:25Z"
-  },
-  {
-    "id": "awb_62866e2d73722f1c2802",
-    "name": "Indie 88.1 CIND-FM",
-    "country": "CA",
-    "subdivision": "Toronto, ON",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://indie88.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_8230b741980d46b6b829",
@@ -21955,15 +20084,14 @@
       "rock"
     ],
     "tags": [
-      "classic rock",
       "classic-rock",
       "metal",
       "rock"
     ],
     "homepage": "http://www.irock247.com/",
-    "favicon": "http://www.irock247.com/favicon.ico",
+    "favicon": "https://www.irock247.com/favicon.ico",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -22058,14 +20186,12 @@
       "anime"
     ],
     "tags": [
-      "japanese",
-      "japanese idols",
       "jpop"
     ],
     "homepage": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -22335,7 +20461,7 @@
     "homepage": "https://jazz.fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -22368,9 +20494,9 @@
       "rock"
     ],
     "homepage": "https://jb-radio.net/",
-    "favicon": "https://jb-radio.net/sites/all/themes/radio4b/images/header.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -22385,38 +20511,13 @@
     ],
     "tags": [
       "blues",
-      "eclectic",
-      "rock"
-    ],
-    "homepage": "https://jb-radio.net/",
-    "favicon": "https://www.hiresaudio.online/wp-content/uploads/2020/04/JB-Radio-2.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_3dda4a8b772088ff2e03",
-    "name": "JBRadio2",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "indie",
-      "pop",
       "rock"
     ],
     "homepage": "https://jb-radio.net/",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:10:25Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_e807410ceadc345c2e8b",
@@ -22700,22 +20801,15 @@
     ],
     "categories": [
       "oldies",
-      "pop",
-      "rock"
+      "pop"
     ],
     "tags": [
-      "60s",
-      "70s",
-      "80s",
-      "classic hits",
-      "classic hits 60s 70a 80s",
-      "classic rock",
-      "motown"
+      "classic hits 60s 70a 80s"
     ],
     "homepage": "http://www.konastream.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T23:34:05Z"
   },
   {
@@ -23004,20 +21098,6 @@
     "updatedAt": "2026-11-04T12:14:15Z"
   },
   {
-    "id": "awb_f939d4c67668a69b700b",
-    "name": "KROSSWAVE RADIO",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.mcbngroup.com/krosswaveradio",
-    "favicon": "https://static.wixstatic.com/media/723bb6_b7ec4510d0054e70b00c32b67440b567~mv2_d_2286_1524_s_2.png/v1/fill/w_320,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/kwave.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-15T12:33:49Z"
-  },
-  {
     "id": "awb_d04cc279d2fd96e44fba",
     "name": "KSKQ Community Radio",
     "country": "CA",
@@ -23114,7 +21194,7 @@
     "homepage": "https://www.labonita.sitiolink.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -23163,25 +21243,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_1e88c900e5caee8af60b",
-    "name": "Labgate - Alt Rock Grunge",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "alternative rock",
-      "grunge"
-    ],
-    "homepage": "https://labgateradio.com/accueil/alt-rock-grunge/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_0c367d59500f487f5c52",
     "name": "Labgate - Classic Rock",
     "country": "CA",
@@ -23191,13 +21252,12 @@
       "rock"
     ],
     "tags": [
-      "classic rock",
       "classic-rock"
     ],
     "homepage": "https://labgateradio.com/accueil/classic-rock/",
     "favicon": "https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -23206,16 +21266,12 @@
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "progressive rock"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://labgateradio.com/accueil/progressive-rock/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -23231,29 +21287,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_0b310157da1e4fe6bbcf",
-    "name": "Labgate Hitwave Rewind",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "old hits",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://labgateradio.com/",
-    "favicon": "https://labgateradio.com/wp-content/uploads/2020/07/cropped-FullColor_IconOnly_1280x1024_72dpi-192x192.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:23:20Z"
   },
   {
     "id": "awb_4518492021518a42ef1c",
@@ -23275,16 +21308,12 @@
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "progressive rock"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://labgateradio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -23292,22 +21321,19 @@
     "name": "Labgate Pop Rock",
     "country": "CA",
     "subdivision": "Quebec",
-    "languages": [
-      "en"
-    ],
+    "languages": [],
     "categories": [
       "pop",
       "rock"
     ],
     "tags": [
-      "classic rock",
       "pop rock",
       "pop-rock"
     ],
     "homepage": "https://labgateradio.com/",
     "favicon": "https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -23325,22 +21351,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_d0daf52c1254244a145d",
-    "name": "Labgate Radio Clasic Rock",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://labgateradio.com/accueil/classic-rock/",
-    "favicon": "http://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342-246x300.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-21T14:28:46Z"
-  },
-  {
     "id": "awb_3610307d0b5634c2eef7",
     "name": "Labgate Radio P.Y.G.",
     "country": "CA",
@@ -23353,20 +21363,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_6f1eb4ec96a942c4d28a",
-    "name": "Labgate Radio Pop Rock",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://labgateradio.com/accueil/pop-rock/",
-    "favicon": "http://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_af73d29bcf1d712aec36",
@@ -23489,20 +21485,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:07:32Z"
-  },
-  {
-    "id": "awb_bc2117fbbc2499c103b7",
-    "name": "Life 100.3",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://lifeonline.fm/",
-    "favicon": "https://lifeonline.fm/wp-content/uploads/2018/09/lifelogo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_36c8ba12dac26017d4e1",
@@ -23753,7 +21735,7 @@
     "id": "awb_b9b3bb6d7ca7a35a0a31",
     "name": "metalrock.fm",
     "country": "CA",
-    "subdivision": "Toronto",
+    "subdivision": null,
     "languages": [
       "en"
     ],
@@ -23769,9 +21751,9 @@
       "rock"
     ],
     "homepage": "http://www.metalrock.fm/",
-    "favicon": "http://www.metalrockradio.com/pic/website_basic_backgroundMRR_MRFM600x199%20base.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T04:00:03Z"
   },
   {
@@ -23799,7 +21781,7 @@
     "homepage": "https://mixrockmetal.net/",
     "favicon": "https://www.mixrockmetal.net/web/favicon.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-02-09T16:11:02Z"
   },
   {
@@ -23855,22 +21837,6 @@
     "updatedAt": "2026-10-02T17:24:10Z"
   },
   {
-    "id": "awb_ef5372649c1c92d7a0f1",
-    "name": "Moose FM 93.5 Haliburton - CFZN",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "international"
-    ],
-    "homepage": "https://www.myhaliburtonnow.com/moose-fm/",
-    "favicon": "https://www.myhaliburtonnow.com/wp-content/uploads/2022/01/mynow-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_c382046136fa55f902a2",
     "name": "Mooz FM Radio",
     "country": "CA",
@@ -23915,22 +21881,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-11T10:41:59Z"
-  },
-  {
-    "id": "awb_d197d4406e5bc29accf2",
-    "name": "my FM 88.1",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "soft adult contemporary"
-    ],
-    "homepage": "https://lanarkleedstoday.ca/home-3-0/",
-    "favicon": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2107/files/2024/01/lanark-header-300x78.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_6643d2b54ff7f666413d",
@@ -24002,61 +21952,15 @@
     "id": "awb_39a06875cb8ce37b83de",
     "name": "N10.AS",
     "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient",
-      "blues",
-      "classical",
-      "country",
-      "electronic",
-      "hip-hop",
-      "jazz",
-      "metal",
-      "pop",
-      "punk",
-      "reggae",
-      "rock",
-      "talk"
-    ],
-    "tags": [
-      "ambient",
-      "blues",
-      "classical",
-      "country",
-      "dance",
-      "disco",
-      "dub",
-      "electronic",
-      "experimental",
-      "groove",
-      "heavy metal",
-      "hiphop",
-      "house",
-      "indie",
-      "jazz",
-      "lifestyle",
-      "other",
-      "pop",
-      "post-punk",
-      "psychedelic",
-      "rap",
-      "reggae",
-      "rnb",
-      "rock",
-      "soul",
-      "special broadcast",
-      "talk",
-      "techno",
-      "world"
-    ],
+    "subdivision": "Montreal",
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://n10.as/",
-    "favicon": "https://n10.as/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-02-04T15:04:56Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-02-02T15:43:20Z"
   },
   {
     "id": "awb_22637e34edaa890215b9",
@@ -24085,41 +21989,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_440b8bad48399d34bc53",
-    "name": "NCI fm",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.ncifm.com/",
-    "favicon": "https://www.ncifm.com/wp-content/uploads/2018/08/ncilogoshort-1.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_bdb2b200b65226f5c169",
-    "name": "NCI-FM Network (Manitoba-wide)",
-    "country": "CA",
-    "subdivision": "Manitoba",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country",
-      "indigenous"
-    ],
-    "homepage": "https://www.ncifm.com/",
-    "favicon": "https://www.ncifm.com/wp-content/uploads/2023/05/cropped-untitled-design-4-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:51:21Z"
   },
   {
     "id": "awb_ac6479201559ce4c0484",
@@ -24229,38 +22098,6 @@
     "updatedAt": "2026-05-17T01:57:07Z"
   },
   {
-    "id": "awb_0fb18a26ca1ddb2c099a",
-    "name": "Nighthaven Enclave Radio - DJ Starface",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient",
-      "community",
-      "electronic",
-      "pop"
-    ],
-    "tags": [
-      "alternative",
-      "ambient",
-      "community radio",
-      "dj starface",
-      "dream pop",
-      "eclectic",
-      "electronic",
-      "gothic",
-      "indie",
-      "nighthaven"
-    ],
-    "homepage": "https://neaura.net/nighthaven",
-    "favicon": "https://neaura.net/assets/images/nighthaven-your-haven-card-cropped.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-05-16T19:38:35Z"
-  },
-  {
     "id": "awb_b7e9781f8c2634175567",
     "name": "Nitty-Gritty Music Radio",
     "country": "CA",
@@ -24366,30 +22203,6 @@
     "updatedAt": "2026-07-23T14:47:50Z"
   },
   {
-    "id": "awb_0101ff47a3dbe51058f3",
-    "name": "Ottawa CHEZ 106.1 (CHEZFM)",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "metal",
-      "rock"
-    ],
-    "tags": [
-      "hard rock",
-      "metal",
-      "ottawa",
-      "rock"
-    ],
-    "homepage": "https://www.chez106.com/",
-    "favicon": "https://www.chez106.com/wp-content/uploads/sites/23/2023/03/cropped-static-logo-chez-1-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:34:40Z"
-  },
-  {
     "id": "awb_2f98aea006294222a83e",
     "name": "Ottawa Hot 89.9 (CIHTFM)",
     "country": "CA",
@@ -24445,26 +22258,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_a9dcaeade2236399a7df",
-    "name": "OZ FM Newfoundland",
-    "country": "CA",
-    "subdivision": "Newfoundland",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "contemporary hits",
-      "jigs and reels",
-      "newfoundland"
-    ],
-    "homepage": "https://ozfm.com/",
-    "favicon": "https://ozfm.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_ff3398ba86e685096429",
@@ -25045,24 +22838,6 @@
     "updatedAt": "2026-01-15T08:32:39Z"
   },
   {
-    "id": "awb_c6cd71edeb09516f9b6f",
-    "name": "Radio BluesFlac",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "jazz"
-    ],
-    "homepage": "https://bluesflac.com/",
-    "favicon": "https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_5d6249994da10c48bc3d",
     "name": "Radio Canada Ici Musique - Bas-Saint-Laurent, Côte-Nord, Gaspésie-Îles-de-la-Madeleine (Rimouski, QC)",
     "country": "CA",
@@ -25095,21 +22870,12 @@
     "languages": [
       "fr"
     ],
-    "categories": [
-      "blues",
-      "classical",
-      "jazz"
-    ],
-    "tags": [
-      "blues",
-      "classical",
-      "jazz",
-      "world music"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://ici.radio-canada.ca/ohdio/musique",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:54:19Z"
   },
   {
@@ -25388,26 +23154,6 @@
     "updatedAt": "2026-01-15T07:13:03Z"
   },
   {
-    "id": "awb_e079f5ff770779cebd58",
-    "name": "Radio Canada Ici Musique Classique - Montreal, QC",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": "https://ici.radio-canada.ca/ohdio/musique-classique",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:39:51Z"
-  },
-  {
     "id": "awb_8e27b4d079836b04a115",
     "name": "Radio Canada Ici Première - Montréal, QC",
     "country": "CA",
@@ -25622,24 +23368,6 @@
     "updatedAt": "2026-01-14T23:40:26Z"
   },
   {
-    "id": "awb_c7b2ea7af2bcda7599df",
-    "name": "Radio Canada Ici Première (Nouveau-Brunswick) Moncton, NB",
-    "country": "CA",
-    "subdivision": "New Brunswick",
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "radio publique"
-    ],
-    "homepage": "https://ici.radio-canada.ca/ohdio/premiere",
-    "favicon": "https://ici.radio-canada.ca/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:41:29Z"
-  },
-  {
     "id": "awb_26f4c820eb98dc50191c",
     "name": "Radio Canada Ici Première (Nouvelle-Écosse, Terre-Neuve-et-Labrador) Halifax, NS",
     "country": "CA",
@@ -25841,26 +23569,14 @@
     "name": "Radio Downtown",
     "country": "CA",
     "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country",
-      "oldies"
-    ],
-    "tags": [
-      "60s",
-      "70s",
-      "80s",
-      "country",
-      "easy listening",
-      "oldies"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radiodowntown.ca/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-03T00:39:26Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T00:33:22Z"
   },
   {
     "id": "awb_130237ae25500e989966",
@@ -25899,20 +23615,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_b72159250883d3c15fb0",
-    "name": "Radio Enigma RDE",
-    "country": "CA",
-    "subdivision": "Toronto, ON",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://enigmastationonair.com/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/PP8tFFwxKe.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_c724f1fcc5dcb07fcee9",
     "name": "Radio Eurodance Classic - Pure and Addictive",
     "country": "CA",
@@ -25948,22 +23650,19 @@
   },
   {
     "id": "awb_299244679b78e413cb28",
-    "name": "radio faro.net",
+    "name": "Radio faro.net",
     "country": "CA",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "pop"
-    ],
+    "categories": [],
     "tags": [
       "hot adult contemporary",
-      "soft adult contemporary",
-      "top40"
+      "soft adult contemporary"
     ],
     "homepage": "https://cast1.torontocast.com:5230/stream",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -26348,7 +24047,7 @@
     "homepage": "http://unicite.ca/",
     "favicon": "http://unicite.ca/upload/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -26742,39 +24441,17 @@
       "reggae"
     ],
     "tags": [
-      "chill",
       "chillout",
-      "dancehall",
       "reggae",
       "reggea",
       "relax",
-      "relaxation",
-      "relaxing",
-      "tropical"
+      "relaxing"
     ],
     "homepage": "https://radiosuitenetwork.torontocast.stream/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_2c51a496173326ac4f4b",
-    "name": "REGGAE CHILLI CAFE",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "reggae"
-    ],
-    "tags": [
-      "reggae"
-    ],
-    "homepage": "https://radiosuitenetwork.torontocast.stream/reggae-chill-cafe/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250603_140532287.jpg?alt=media&token=be52f5c7-f950-44ed-b73b-aca4644c230f",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_39e38fe77c711964c4f5",
@@ -26879,21 +24556,16 @@
       "pop"
     ],
     "tags": [
-      "adult contemporary",
       "adult-contemporary",
       "baladas",
       "pop",
-      "pop latino",
       "reggaeton",
-      "spanish contemporary hits",
-      "spanish hits",
-      "top 40",
       "top-40"
     ],
     "homepage": "http://www.ritmox99.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -27171,20 +24843,6 @@
     "updatedAt": "2026-01-14T23:58:19Z"
   },
   {
-    "id": "awb_d470703934b7b1face64",
-    "name": "RPGN Game Music Radio",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.rpgamers.net/radio/",
-    "favicon": "http://www.rpgamers.net/apple-touch-icon-precomposed.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_dc82395a7842bac4a755",
     "name": "RPGN Radio",
     "country": "CA",
@@ -27215,26 +24873,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:40:44Z"
-  },
-  {
-    "id": "awb_788906f10868098a2daf",
-    "name": "Rythme 100,1 Mauricie",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "adult pop"
-    ],
-    "homepage": "https://mauricie.rythmefm.com/",
-    "favicon": "https://mauricie.rythmefm.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:22:41Z"
   },
   {
     "id": "awb_c90b701925e769df2d9b",
@@ -27301,20 +24939,6 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
-    "id": "awb_b468bc4c01fd48706435",
-    "name": "scifi.radio",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://scifi.radio/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:08Z"
-  },
-  {
     "id": "awb_a5583649b7f32e71c95a",
     "name": "SCIFI.radio - Exclusively Instrumentals",
     "country": "CA",
@@ -27355,20 +24979,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_a5bd975ac6f8c87470b5",
-    "name": "Seaside FM",
-    "country": "CA",
-    "subdivision": "Nova Scotia",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://seasidefm.com/",
-    "favicon": "https://seasidefm.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_5def1c6418a7499033bd",
@@ -27436,7 +25046,7 @@
     "id": "awb_90403903e169af18dd24",
     "name": "SerrebiRadio",
     "country": "CA",
-    "subdivision": "British Columbia",
+    "subdivision": null,
     "languages": [
       "en"
     ],
@@ -27457,8 +25067,8 @@
     "homepage": "https://serrebiradio.com/",
     "favicon": "https://radio.serrebiradio.com/static/uploads/logo.png",
     "type": null,
-    "sourceCount": 6,
-    "updatedAt": "2026-09-23T06:48:34Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-09-20T23:48:15Z"
   },
   {
     "id": "awb_4d2fdb7f26e5b7c60733",
@@ -27840,20 +25450,19 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto",
+    "subdivision": "Toronto, ON",
     "languages": [],
     "categories": [
       "jazz"
     ],
     "tags": [
-      "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
+    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-09-21T11:44:48Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-21T11:36:15Z"
   },
   {
     "id": "awb_6ef852d870db2d9449ff",
@@ -28089,22 +25698,6 @@
     "updatedAt": "2026-10-31T20:01:18Z"
   },
   {
-    "id": "awb_44cb6f4a0eda52aa223b",
-    "name": "Terry Callaghan's Real Oldies Channel",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "decades"
-    ],
-    "homepage": "https://terrycallaghan.ca/real-oldies-channel",
-    "favicon": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1080,h=1054,fit=crop/ALpBzkjeQlHXyJPV/untitled-AwvDOpbMv0iDwy1M.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_e7d318d1dd969786cae7",
     "name": "Terry Callahan's Real Oldies Channel",
     "country": "CA",
@@ -28135,7 +25728,7 @@
     "homepage": "https://thebase.sc/",
     "favicon": "https://thebase.sc/api/assets/defaultimage.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T03:08:34Z"
   },
   {
@@ -28184,9 +25777,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://theborderline.ca/",
-    "favicon": "https://theborderline.ca/wp-content/uploads/2020/08/theBORDERLINE-Radio-Soopetit.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
@@ -28357,14 +25950,13 @@
     ],
     "tags": [
       "80s",
-      "canada",
-      "canada 80s"
+      "canada"
     ],
     "homepage": "https://www.lynxradionetwork.com/",
-    "favicon": "http://i.imgur.com/PYVSmiX.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-01-15T01:19:21Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:01:34Z"
   },
   {
     "id": "awb_632aa6511ea9c15c8d01",
@@ -28413,7 +26005,7 @@
     "homepage": "https://theoasismel.com/",
     "favicon": "https://theoasismel.com/favicon.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
@@ -28622,20 +26214,6 @@
     "updatedAt": "2026-04-26T00:45:45Z"
   },
   {
-    "id": "awb_1d8c2c61d0de07880601",
-    "name": "Time Capsule Show",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.harmonytrain.com/timecapsule.htm",
-    "favicon": "http://www.harmonytrain.com/radio.gif",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_7e70d0bc1931d09743c5",
     "name": "Tits.FM",
     "country": "CA",
@@ -28823,28 +26401,6 @@
     "updatedAt": "2026-09-03T14:38:09Z"
   },
   {
-    "id": "awb_82dab925e170101f1403",
-    "name": "TSN 1200",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "sports"
-    ],
-    "tags": [
-      "live sports",
-      "sports",
-      "tsn"
-    ],
-    "homepage": "https://www.tsn.ca/radio/ottawa-1200",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/60748c32dd472088ec4bc4fc?ops=fit(960%2C960)%2Cresize(0%2C390)",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:03:28Z"
-  },
-  {
     "id": "awb_3e135f5656bdff45063d",
     "name": "Tuff City Radio",
     "country": "CA",
@@ -28944,7 +26500,7 @@
     "homepage": "https://www.uturnradio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-02-22T12:58:00Z"
   },
   {
@@ -29056,20 +26612,6 @@
     "updatedAt": "2026-01-15T03:39:23Z"
   },
   {
-    "id": "awb_34ec8ef06dffa7aee394",
-    "name": "Vancouver Co-operative Radio",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://coopradio.org/",
-    "favicon": "https://coopradio.org/wp-content/uploads/2021/09/cfro4.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_2033bcb333ea2925d0d0",
     "name": "Vibe 105",
     "country": "CA",
@@ -29169,26 +26711,6 @@
     "updatedAt": "2026-06-04T11:38:52Z"
   },
   {
-    "id": "awb_512c36834a2a25f99374",
-    "name": "VOAR 96.7 \"Lighthouse FM\" St. John's, NL",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "http://www.voar.org/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:27:51Z"
-  },
-  {
     "id": "awb_ed5330d0886c9f549d7e",
     "name": "VOCM",
     "country": "CA",
@@ -29241,7 +26763,7 @@
     "homepage": "http://vocm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T23:57:38Z"
   },
   {
@@ -29293,20 +26815,99 @@
     "updatedAt": "2026-10-26T12:13:37Z"
   },
   {
-    "id": "awb_1b0c783c02c7ca32c93f",
-    "name": "VOWR 800 - Newfoundland and Labrador's Pioneer Radio Station",
+    "id": "awb_2f647713d62677695ee1",
+    "name": "Vybz Syndicate Radio - God Bless",
     "country": "CA",
     "subdivision": "Ontario",
     "languages": [
       "en"
     ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://vowr.ca/",
-    "favicon": null,
+    "categories": [
+      "reggae",
+      "religious"
+    ],
+    "tags": [
+      "black gospel",
+      "caribbean",
+      "caribbean music",
+      "christian music",
+      "christian praise&worship",
+      "gospel",
+      "gospel music",
+      "reggae",
+      "reggae gospel"
+    ],
+    "homepage": "https://vybzsyndicate.ca/",
+    "favicon": "https://vybzsyndicate.ca/wp-content/uploads/2026/09/Vybz-Syndicate-Radio-logo1_clean.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-02-25T18:42:05Z"
+    "updatedAt": "2026-11-09T03:18:58Z"
+  },
+  {
+    "id": "awb_036919d467a260257552",
+    "name": "Vybz Syndicate Radio - Reggae Vybz",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://vybzsyndicate.ca/",
+    "favicon": "https://vybzsyndicate.ca/wp-content/uploads/2026/09/Vybz-Syndicate-Radio-logo1_clean.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T02:40:22Z"
+  },
+  {
+    "id": "awb_708057dc3113ac2e9428",
+    "name": "Vybz Syndicate Radio - Rewind",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "reggae"
+    ],
+    "tags": [
+      "caribbean",
+      "caribbean music",
+      "classics",
+      "dancehall",
+      "oldies",
+      "reggae",
+      "throwbacks"
+    ],
+    "homepage": "https://vybzsyndicate.ca/",
+    "favicon": "https://vybzsyndicate.ca/wp-content/uploads/2026/09/Vybz-Syndicate-Radio-logo1_clean.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T03:11:03Z"
+  },
+  {
+    "id": "awb_4578a77ff5b111c9760d",
+    "name": "Vybz Syndicate Radio - Up & Up",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "reggae"
+    ],
+    "tags": [
+      "caribbean",
+      "caribbean music",
+      "dancehall",
+      "jamaica",
+      "reggae",
+      "riddim"
+    ],
+    "homepage": "https://vybzsyndicate.ca/",
+    "favicon": "https://vybzsyndicate.ca/wp-content/uploads/2026/09/Vybz-Syndicate-Radio-logo1_clean.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T03:06:05Z"
   },
   {
     "id": "awb_2692cc198940034e0133",
@@ -29395,34 +26996,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_6e4cdc5860917d0acec0",
-    "name": "WEFUNK Radio",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://wefunkradio.com/",
-    "favicon": "https://cache.wefunkradio.com/images-small/pxl-clr.gif",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_63d11bc5107974cc6a7d",
-    "name": "Wild95",
-    "country": "CA",
-    "subdivision": "Alberta",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.wild953.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_210c147e94efa690a29e",
@@ -29651,33 +27224,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_bcba6d5908045684f73b",
-    "name": "加拿大中文电台FM.96.1",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "zh"
-    ],
-    "categories": [
-      "news",
-      "pop",
-      "talk"
-    ],
-    "tags": [
-      "96.1",
-      "96.1 fm",
-      "music",
-      "news",
-      "pop",
-      "talk"
-    ],
-    "homepage": "http://www.am1470.com/home_c.php?1634199366",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:29:13Z"
-  },
-  {
     "id": "awb_83e185b42f0d64c2e557",
     "name": "加拿大中文电台FM88.9",
     "country": "CA",
@@ -29695,24 +27241,5 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-04T13:52:58Z"
-  },
-  {
-    "id": "awb_fd216d24b26501038ac8",
-    "name": "加拿大中文电台FM94.7",
-    "country": "CA",
-    "subdivision": "Calgary",
-    "languages": [
-      "yue",
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "full service"
-    ],
-    "homepage": "https://www.fm947.com/",
-    "favicon": "https://zuiai.tv/zb_users/upload/2025/3/2025032078290297.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:57:45Z"
   }
 ]

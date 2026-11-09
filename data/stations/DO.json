@@ -231,28 +231,6 @@
     "updatedAt": "2026-09-29T20:11:44Z"
   },
   {
-    "id": "awb_c578f1856e1bbfb48785",
-    "name": "Bachata Hits",
-    "country": "DO",
-    "subdivision": "Santo Domingo",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin"
-    ],
-    "tags": [
-      "bachata",
-      "merengue",
-      "musica"
-    ],
-    "homepage": "https://tesorofm.com/",
-    "favicon": "https://radio.clasificadosya.com/wp-content/uploads/2026/04/1771962827217-300x300.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-12T19:56:46Z"
-  },
-  {
     "id": "awb_41d2c73b1ae58dfab7ee",
     "name": "Bachata Radio",
     "country": "DO",
@@ -538,9 +516,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://dbcradio.net/",
-    "favicon": "https://dbcradio.net/wp-content/uploads/2024/01/dbs_web_logo_dark.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -556,20 +534,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_9e4d0c5a39fbebb01057",
-    "name": "Disco 88.9",
-    "country": "DO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.disco89fm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_e53b53c1c3aea4b0a678",
@@ -850,13 +814,12 @@
     ],
     "tags": [
       "chill house",
-      "chillout+lounge",
-      "lounge"
+      "chillout+lounge"
     ],
     "homepage": "https://exclusiveradio.webradiosite.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-10-23T01:23:41Z"
   },
   {
@@ -870,31 +833,8 @@
     "homepage": "https://extasis895.com/",
     "favicon": "https://www.instagram.com/extasis89.5?utm_source=qr&igsh=MTB4aG45Ym52a3U5aQ==",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_c6943b575b088e44f6c5",
-    "name": "extasis fm",
-    "country": "DO",
-    "subdivision": "santiago",
-    "languages": [],
-    "categories": [
-      "hip-hop",
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "90s y más",
-      "classic hits",
-      "hip-hop and rap oldies",
-      "the best of 80's"
-    ],
-    "homepage": "https://extasis895.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-22T23:36:07Z"
   },
   {
     "id": "awb_c507f04c091e2af97576",
@@ -1544,20 +1484,6 @@
     "updatedAt": "2026-01-15T01:59:15Z"
   },
   {
-    "id": "awb_5564874af013c3d79296",
-    "name": "Radio Bendición",
-    "country": "DO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.labiblia.in/",
-    "favicon": "http://www.i-radio.co/emisoras2/tumb/radiobendicion.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-30T05:21:50Z"
-  },
-  {
     "id": "awb_f99688c8b7733fcaa0b8",
     "name": "Radio Bendicion",
     "country": "DO",
@@ -1569,13 +1495,12 @@
       "religious"
     ],
     "tags": [
-      "christian",
       "gospel"
     ],
     "homepage": "https://radio.labiblia.in/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1908,13 +1833,11 @@
     "subdivision": "Santo Domingo",
     "languages": [],
     "categories": [],
-    "tags": [
-      "romanticas"
-    ],
+    "tags": [],
     "homepage": "https://romantica103fm.blogspot.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1960,7 +1883,7 @@
     "homepage": "https://salsa927fm.wixsite.com/salsa927fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
@@ -1985,18 +1908,15 @@
     "id": "awb_6a852f0d6297edfcdd9e",
     "name": "Suave 107.3 FM",
     "country": "DO",
-    "subdivision": "Santiago (Dominican Republic)",
+    "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [
-      "baladas en español",
-      "música romántica"
-    ],
+    "tags": [],
     "homepage": "https://suave107.com/",
     "favicon": "http://suave107.com/wp-content/uploads/2015/04/logo-suave.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:08Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_2a4be739bbd0d6ee87dc",
@@ -2071,7 +1991,7 @@
     "homepage": "https://latina104.net/top-bachata-radio/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2098,13 +2018,11 @@
     "subdivision": "Santo Domingo",
     "languages": [],
     "categories": [],
-    "tags": [
-      "cristiano"
-    ],
+    "tags": [],
     "homepage": "https://latina104.net/top-cristiano-radio/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2264,20 +2182,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_b3c89dfb74560470f1a5",
-    "name": "WXM ON RADIO",
-    "country": "DO",
-    "subdivision": "Villa Isabela Pueto Plata",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.wxmradio.com/",
-    "favicon": "https://www.wxmradio.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_049529d0d90fea4bdc06",

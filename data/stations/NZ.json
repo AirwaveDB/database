@@ -64,18 +64,14 @@
     "languages": [
       "en"
     ],
-    "categories": [
-      "religious"
-    ],
+    "categories": [],
     "tags": [
-      "bible teaching",
-      "christian",
       "music"
     ],
     "homepage": "https://3abn.org/3abn-radio.html",
-    "favicon": "https://3abn.org/icons/3abn-apple-icon-120x120.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -145,20 +141,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_dafc668aadbe40bd1d73",
-    "name": "95 BFM",
-    "country": "NZ",
-    "subdivision": "Auckland",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://streams.95bfm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-01T00:27:52Z"
-  },
-  {
     "id": "awb_d0d794df50a4d7cd4ec4",
     "name": "95bFM - 256Kbps MP3",
     "country": "NZ",
@@ -226,20 +208,6 @@
     "type": "college",
     "sourceCount": 2,
     "updatedAt": "2026-11-07T00:11:48Z"
-  },
-  {
-    "id": "awb_0c6336e83b69799e5a8a",
-    "name": "95bFM Radio",
-    "country": "NZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://streams.95bfm.com/",
-    "favicon": "https://cdn.sanity.io/images/orhkaa59/production/c7fc603e01364182d1bea3abd01ea5ffa2247150-1180x1180.png?w=384&q=75",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-07T20:57:48Z"
   },
   {
     "id": "awb_dc72e63fd29f984ca24d",
@@ -330,9 +298,9 @@
       "talk"
     ],
     "homepage": "https://www.arrowfm.co.nz/",
-    "favicon": "http://www.arrowfm.co.nz/presentation/arrow-fm-logo.png",
+    "favicon": null,
     "type": "community",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T08:26:33Z"
   },
   {
@@ -442,13 +410,12 @@
     "tags": [
       "alternative",
       "funk",
-      "rock",
-      "unique"
+      "rock"
     ],
     "homepage": "https://www.beagleradio.co.nz/",
-    "favicon": "https://www.beagleradio.co.nz/wp-content/themes/beagle/gfx/logo-header.gif",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -464,24 +431,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-01T14:56:47Z"
-  },
-  {
-    "id": "awb_63eb9914b5ffc09a8ff9",
-    "name": "Bollybop",
-    "country": "NZ",
-    "subdivision": null,
-    "languages": [
-      "hi"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://s3.radio.co/s2f19d44d0/listen",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:12:26Z"
   },
   {
     "id": "awb_5e739840e1f9d814bf82",
@@ -544,7 +493,7 @@
     "homepage": "https://brianfm.com/whanganui/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -780,45 +729,6 @@
     "updatedAt": "2026-01-15T06:06:20Z"
   },
   {
-    "id": "awb_22b70cab25e4471f7688",
-    "name": "Cool Blue Taupo",
-    "country": "NZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "jazz"
-    ],
-    "homepage": "https://www.coolbluetaupo.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_fe3c418c5b1fa62b61a6",
-    "name": "Country Radio Invercargill 105.2FM",
-    "country": "NZ",
-    "subdivision": "Southland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country",
-      "kiwi country"
-    ],
-    "homepage": "http://www.countryradio.co.nz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:00:36Z"
-  },
-  {
     "id": "awb_8fab5dd49c73646130a1",
     "name": "Country Radio Invercargilll",
     "country": "NZ",
@@ -923,7 +833,7 @@
     "homepage": "https://www.eastfm.nz/",
     "favicon": "https://listen.eastfm.nz/logo.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-21T13:56:00Z"
   },
   {
@@ -1246,7 +1156,7 @@
     "homepage": "https://www.gold.co.nz/",
     "favicon": "https://i.postimg.cc/0j3pmL7Z/Untitled.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:30:27Z"
   },
   {
@@ -1305,20 +1215,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_c9355fdbcd692af1ec36",
-    "name": "https://www.newstalkzb.co.nz/",
-    "country": "NZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.newstalkzb.co.nz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_7f7e6419bbe763902892",
@@ -1708,24 +1604,6 @@
       "rock"
     ],
     "homepage": "http://www.metalradio.co.nz/",
-    "favicon": "https://storage.ko-fi.com/cdn/useruploads/e34955c7-a202-4989-8dca-8eec69dabed6_8fe662b6-b480-43d9-8684-aefcd2d529c9.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-19T13:55:23Z"
-  },
-  {
-    "id": "awb_c8c5c6adb9815d2c0715",
-    "name": "metalradio.co.nz",
-    "country": "NZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": null,
     "favicon": null,
     "type": null,
     "sourceCount": 1,
@@ -1742,7 +1620,7 @@
     "homepage": "https://mixfm.nz/",
     "favicon": "https://mixfm.nz/footer-partner-live-radio-co-nz.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-28T12:40:19Z"
   },
   {
@@ -1858,9 +1736,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://mouthfull.live/",
-    "favicon": "https://i1.sndcdn.com/avatars-VaAJ9hfpsq0ADS8p-3I0Ubg-t200x200.jpg",
+    "favicon": "https://mouthfull.live/wp-content/themes/mouthfull/assets/img/newradio.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2370,20 +2248,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_bf0599c8794177e24f09",
-    "name": "Radio A - Nelson NZ",
-    "country": "NZ",
-    "subdivision": "Nelson",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radioa.co.nz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_cfc310cab65703360bf4",
     "name": "Radio Bolly Bop",
     "country": "NZ",
@@ -2572,20 +2436,6 @@
     "updatedAt": "2026-01-15T05:41:36Z"
   },
   {
-    "id": "awb_f2fc892fe874f1d1d670",
-    "name": "Radio New Zealand National",
-    "country": "NZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rnz.co.nz/national",
-    "favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_eb6686c00c2710ee4c4b",
     "name": "Radio one 91 fm",
     "country": "NZ",
@@ -2612,26 +2462,16 @@
       "en"
     ],
     "categories": [
-      "community",
-      "news",
-      "pop",
-      "punk"
+      "pop"
     ],
     "tags": [
-      "community radio",
       "disco",
-      "local news",
-      "maori culture",
-      "news",
-      "pop",
-      "punk",
-      "synth",
-      "various"
+      "pop"
     ],
     "homepage": "https://www.r1.co.nz/",
-    "favicon": "https://www.r1.co.nz/images/logo.png",
-    "type": "community",
-    "sourceCount": 2,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2842,14 +2682,12 @@
     "categories": [],
     "tags": [
       "alternative",
-      "indie",
-      "local radio",
-      "student radio"
+      "indie"
     ],
     "homepage": "https://www.radioactive.fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3071,20 +2909,6 @@
     "updatedAt": "2026-11-06T18:12:47Z"
   },
   {
-    "id": "awb_32c80fc5df18943846fe",
-    "name": "RNZ National",
-    "country": "NZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rnz.co.nz/",
-    "favicon": "http://www.radionz.co.nz/x/favicons/apple-icon-120x120-2a68f62bcd63220044c71f3e7eb3ee0e0ea2d1079d3b50b3f90eab3c48a7a46b.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_3c601aa3f820934725ea",
     "name": "RNZ National",
     "country": "NZ",
@@ -3102,26 +2926,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-11-07T11:13:45Z"
-  },
-  {
-    "id": "awb_b1a0210384a16830d3bc",
-    "name": "RNZ National",
-    "country": "NZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "national",
-      "news",
-      "politics"
-    ],
-    "homepage": "http://radionz-ice.streamguys.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T22:43:59Z"
   },
   {
     "id": "awb_01a58ac94613dd3f95dd",
@@ -3306,19 +3110,16 @@
     "categories": [],
     "tags": [
       "filipino radio",
-      "filipino radio in new zealand",
-      "filipino station",
       "new zealand",
       "new zealand radio",
       "ph radio in nz",
       "philippines",
-      "radio new zealand",
       "radio ph"
     ],
     "homepage": "https://sayhifm.com/",
     "favicon": "https://sayhifm.com/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3953,28 +3754,6 @@
     "updatedAt": "2026-01-15T00:31:56Z"
   },
   {
-    "id": "awb_436fcc163a3bbad09c16",
-    "name": "Wandering Sheep Radio - Jazz Cafe",
-    "country": "NZ",
-    "subdivision": "Auckland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "jazz",
-      "religious"
-    ],
-    "tags": [
-      "christian",
-      "smooth jazz"
-    ],
-    "homepage": "http://wsradio.net/",
-    "favicon": "http://wsradio.net/wp-content/uploads/2014/07/gordonsheep1.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:56:47Z"
-  },
-  {
     "id": "awb_4de6ab5ce1901f9001cb",
     "name": "WCR 87.6 FM",
     "country": "NZ",
@@ -4015,22 +3794,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:41:54Z"
-  },
-  {
-    "id": "awb_710170e739f32e35e28b",
-    "name": "West Coast Radio",
-    "country": "NZ",
-    "subdivision": "Northland",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.wcrfm.co.nz/index.html",
-    "favicon": "https://www.wcrfm.co.nz/index_files/image3251.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:48:14Z"
   },
   {
     "id": "awb_be50a157c594535be80f",
@@ -4101,10 +3864,10 @@
       "pop",
       "rock"
     ],
-    "homepage": "http://xs80s.com/",
-    "favicon": "http://xs80s.com/favicon.ico",
+    "homepage": "https://xs80s.com/",
+    "favicon": "https://xs80s.com/img/XS80s-PP.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:59:16Z"
   },
   {

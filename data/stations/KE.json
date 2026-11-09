@@ -88,20 +88,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_38de57778f7593564f59",
-    "name": "AT254 Online Radio",
-    "country": "KE",
-    "subdivision": "Nairobi",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://s127.radiolize.com/public/appsumo__cj6khn_riclf3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_f942f6e7d53c3f4495d2",
     "name": "At254 Radio",
     "country": "KE",
@@ -173,22 +159,6 @@
     "updatedAt": "2026-10-27T13:30:44Z"
   },
   {
-    "id": "awb_2de42a4d5a1c012a1919",
-    "name": "CRI Kiswahili",
-    "country": "KE",
-    "subdivision": "Nairobi",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "international"
-    ],
-    "homepage": "http://swahili.cri.cn/",
-    "favicon": "https://so1.360tres.com/t01d42733f392b2585c.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-07T03:15:42Z"
-  },
-  {
     "id": "awb_f103c0df09a5ad8d188a",
     "name": "CRI Nairobi FM91.9",
     "country": "KE",
@@ -223,6 +193,39 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:26:33Z"
+  },
+  {
+    "id": "awb_a8892b3ca472e5703d6f",
+    "name": "Elixir.fm - The Uncompromised Signal",
+    "country": "KE",
+    "subdivision": "Nairobi",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
+    "tags": [
+      "320kbps",
+      "african",
+      "afrobeat",
+      "alternative",
+      "aural-medicine",
+      "chill",
+      "curated",
+      "electronic",
+      "indie",
+      "kenya",
+      "nairobi",
+      "underground",
+      "world"
+    ],
+    "homepage": "https://elixir.fm/",
+    "favicon": "https://elixir.fm/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T12:16:35Z"
   },
   {
     "id": "awb_cd35f995f9862281b26c",
@@ -306,24 +309,6 @@
     "updatedAt": "2026-07-07T22:46:48Z"
   },
   {
-    "id": "awb_0bc385a944384aeb2c06",
-    "name": "FM RASSTYLE KENYA",
-    "country": "KE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": "http://stream.zeno.fm/gf58b0pt5x8uv",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_9d8a3f72702126a0b048",
     "name": "George Jones",
     "country": "KE",
@@ -370,7 +355,7 @@
     "homepage": "http://stream-27.zeno.fm/kvudezx1h2zuv?zs=hCl2Q4ZVSPykhlahMviRpQ",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
@@ -379,16 +364,12 @@
     "country": "KE",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://stream.zeno.fm/kvudezx1h2zuv",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-06-21T03:40:11Z"
   },
   {
@@ -498,8 +479,8 @@
     "homepage": "http://stream.zeno.fm/6zszyw9tarzuv",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_9b046996b20f994d65dc",
@@ -532,12 +513,12 @@
     "homepage": "https://cast3.asurahosting.com/proxy/jembemed/stream",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_7e24e6e93dfe253e10e9",
-    "name": "JESUS IS LORD Radio",
+    "name": "Jesus is LORD Radio",
     "country": "KE",
     "subdivision": "Nakuru",
     "languages": [
@@ -546,23 +527,18 @@
       "es",
       "fr",
       "nl",
-      "pt",
-      "zh"
+      "pt"
     ],
-    "categories": [
-      "religious"
-    ],
+    "categories": [],
     "tags": [
-      "christian",
-      "gospel",
       "holiness",
       "repentance",
       "worship"
     ],
-    "homepage": "https://jesusislordradio.info/",
-    "favicon": "https://static.wixstatic.com/media/a5f063_09cc6b7970aa4e6d902c6014250d4db8%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/a5f063_09cc6b7970aa4e6d902c6014250d4db8%7emv2.png",
+    "homepage": "https://www.jesusislordradio.info/",
+    "favicon": "https://static.wixstatic.com/media/a5f063_8caa1453b6ec4d0cb0016b8d0036b75d~mv2.png/v1/fill/w_200,h_186,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/a5f063_8caa1453b6ec4d0cb0016b8d0036b75d~mv2.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-05T19:14:10Z"
   },
   {
@@ -686,8 +662,8 @@
     "homepage": "https://stream.zeno.fm/3zgc6zpfvorvv",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T05:53:10Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:24:15Z"
   },
   {
     "id": "awb_bf84125dc30dd79aa2d7",
@@ -730,24 +706,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_2d25cd332e85ac4b5df3",
-    "name": "NATION KENYA",
-    "country": "KE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": "http://stream.radiojar.com/3by7s8eg65quv",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_9b50e8730aaf32596e3a",
@@ -1010,24 +968,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_b88296a9c9b27a4b2bb4",
-    "name": "RAS STYLE KENYA",
-    "country": "KE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": "http://stream.zeno.fm/gf58b0pt5x8uv",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_26f6e7483f34a342d08b",
     "name": "RASSS KENYA",
     "country": "KE",
@@ -1042,7 +982,7 @@
     "homepage": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=_88r_Fp8TmC34vmgpzzmzQ",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -1060,43 +1000,7 @@
     "homepage": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=vvcdeoPjSamesknSTOXHvQ",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_35d7a97c3ae4dd1ae82b",
-    "name": "RASTYLEstream.zeno.fm",
-    "country": "KE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_00c10421cdb65cb12614",
-    "name": "RE",
-    "country": "KE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -1114,7 +1018,7 @@
     "homepage": "http://relay5.181.fm:8096/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {

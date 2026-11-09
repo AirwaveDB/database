@@ -87,14 +87,14 @@
     "id": "awb_bcb24f1947986e905553",
     "name": "Gee FM",
     "country": "LK",
-    "subdivision": "Private",
+    "subdivision": "Colombo",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://geefmsrilanka.blogspot.com/",
-    "favicon": "https://blogger.googleusercontent.com/img/a/AVvXsEjkuQgHcKfcC9HtAeMApylq37BY9dtsOnMfLx5RL6J_O0tFbvpiTRRML8aSWNJj0R2kZf_G3hjUvmBALtqIzzwiHJf9nYVME-WWfiC4raSd2We6mWKHGrxq-fI0z-Gn6xOYKWyDy-5kQerWl65E_7Net0kgcm68NFktBtCTzU25yNwfR88GohaQTcMyLTs",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-06-21T04:10:17Z"
   },
   {
@@ -108,9 +108,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.goldfm.lk/",
-    "favicon": "https://www.goldfm.lk/images/lllistenlivelogo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -192,7 +192,7 @@
     "id": "awb_d799fec49cf40686f2a2",
     "name": "Hiru FM",
     "country": "LK",
-    "subdivision": "Colombo",
+    "subdivision": null,
     "languages": [
       "si"
     ],
@@ -209,7 +209,7 @@
     "homepage": "https://www.hirufm.lk/",
     "favicon": "https://image.winudf.com/v2/image1/Y29tLmhpcnVmbS5yZWRyb3NlbWVkaWFfaWNvbl8xNjA0ODM4Njk0XzAyMg/icon.webp?w=280&fakeurl=1&type=.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
   },
   {
@@ -558,7 +558,7 @@
     "homepage": "https://radioplus.lk/",
     "favicon": "https://radioplus.lk/wp-content/uploads/2024/04/Radio-plus-Logo-2-2.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -745,24 +745,6 @@
     "updatedAt": "2026-01-15T02:49:44Z"
   },
   {
-    "id": "awb_4e1c2444836ae9aaefe9",
-    "name": "Siyath Fm",
-    "country": "LK",
-    "subdivision": null,
-    "languages": [
-      "si"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://siyathafm.lk/",
-    "favicon": "https://siyathafm.lk/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T05:40:20Z"
-  },
-  {
     "id": "awb_6460d2775f9db69d2251",
     "name": "Siyatha FM",
     "country": "LK",
@@ -795,7 +777,7 @@
     "homepage": "https://siyathafm.lk/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -893,20 +875,6 @@
     "updatedAt": "2026-01-15T02:58:06Z"
   },
   {
-    "id": "awb_17e2c7be1276f81d4d32",
-    "name": "SLBC Asia Service",
-    "country": "LK",
-    "subdivision": "Colombo",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://220.247.227.6:8000/Asiastream",
-    "favicon": "https://www.slbc.lk/images/top-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-24T00:59:00Z"
-  },
-  {
     "id": "awb_9e517039e4bc7337bcec",
     "name": "SLBC Tamil National Service",
     "country": "LK",
@@ -998,9 +966,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.sunfm.lk/",
-    "favicon": "https://www.sunfm.lk/assets/images/liveradio/logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1021,55 +989,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-21T07:39:31Z"
-  },
-  {
-    "id": "awb_a05345204eeebf63c49f",
-    "name": "The One Radio Hi-Res",
-    "country": "LK",
-    "subdivision": null,
-    "languages": [
-      "si"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "entertainment",
-      "music",
-      "news"
-    ],
-    "homepage": "https://theoneradio.radio12345.com/",
-    "favicon": "https://i.imgur.com/YZJ6wlT.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-12T06:57:01Z"
-  },
-  {
-    "id": "awb_f389f2e79cbce84bf9e8",
-    "name": "Tube Tamil FM Radio டியூப் தமிழ் எஃப்.எம் பண்பலை ரேடியோ",
-    "country": "LK",
-    "subdivision": "Northern Province",
-    "languages": [
-      "ta"
-    ],
-    "categories": [],
-    "tags": [
-      "indian music",
-      "jaffna",
-      "radio",
-      "south indian",
-      "sri lanka",
-      "tamil",
-      "tamil fm",
-      "tamil music",
-      "tamil songs",
-      "tube tamil"
-    ],
-    "homepage": "https://tubetamil.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:51:52Z"
   },
   {
     "id": "awb_2de5017f653b6096b719",
@@ -1102,15 +1021,11 @@
       "ta"
     ],
     "categories": [],
-    "tags": [
-      "tamil melody songs",
-      "tamil music",
-      "tamil songs"
-    ],
+    "tags": [],
     "homepage": "https://www.vasanthamfm.lk/",
-    "favicon": "https://www.vasanthamfm.lk/wp-content/uploads/2023/05/Vasantham-FM.svg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1132,25 +1047,14 @@
     "name": "Y FM",
     "country": "LK",
     "subdivision": null,
-    "languages": [
-      "en",
-      "si"
-    ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "entertainment",
-      "music",
-      "news",
-      "pop music"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://myy.lk/",
-    "favicon": "https://yfm.lk/liveradio/images/logo.png",
+    "favicon": "https://myy.lk/wp-content/uploads/2023/12/my-y-2023-12-5.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:54:20Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_c2843cbc6d4caadc2087",
@@ -1229,24 +1133,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_6f0829a6eb516845728c",
-    "name": "YFM",
-    "country": "LK",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "srilanka radio",
-      "y fm",
-      "yfm"
-    ],
-    "homepage": "https://myy.lk/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_e389535e91a914a4d3af",
     "name": "YFM-SRiLanka",
     "country": "LK",
@@ -1257,7 +1143,7 @@
     "homepage": "https://myy.lk/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

@@ -185,28 +185,6 @@
     "updatedAt": "2026-01-15T04:16:44Z"
   },
   {
-    "id": "awb_1e08cbd0d81fb7f23dbc",
-    "name": "Big Radio 1 Banja Luka",
-    "country": "BA",
-    "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://www.bigradiobl.com/",
-    "favicon": "http://www.bigradiobl.com/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:50:50Z"
-  },
-  {
     "id": "awb_afc7355f645f97a8b82f",
     "name": "BIG radio 1 Banja Luka",
     "country": "BA",
@@ -262,25 +240,6 @@
     "updatedAt": "2026-01-15T05:24:52Z"
   },
   {
-    "id": "awb_33c7acce6497b61002b2",
-    "name": "Big2",
-    "country": "BA",
-    "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [],
-    "tags": [
-      "banja luka",
-      "republica srbska"
-    ],
-    "homepage": "http://bigportal.ba/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:27:13Z"
-  },
-  {
     "id": "awb_0d3ba8dbfb2966550761",
     "name": "Day Dee Eurodance Radio",
     "country": "BA",
@@ -312,9 +271,7 @@
       "electronic"
     ],
     "tags": [
-      "big room",
       "big room house",
-      "club house",
       "electro house",
       "house",
       "progressive house"
@@ -322,7 +279,7 @@
     "homepage": "https://www.esoterica.live/",
     "favicon": "https://ibb.co/Y7hTdMtc",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -595,20 +552,6 @@
     "updatedAt": "2026-01-15T07:54:53Z"
   },
   {
-    "id": "awb_03b40a4e2e58912ce2d2",
-    "name": "Krajiški Radio Dubica",
-    "country": "BA",
-    "subdivision": "Republika Srpska",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.krajiski-radio-dubica.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_769330fcad28e37ce5c1",
     "name": "KUPRESKIRADIO",
     "country": "BA",
@@ -765,47 +708,16 @@
   },
   {
     "id": "awb_961bc394e92343c4315e",
-    "name": "Patrisamato Radio",
+    "name": "patrisamato radio",
     "country": "BA",
     "subdivision": "Sarajevo",
-    "languages": [
-      "en",
-      "ru"
-    ],
-    "categories": [
-      "ambient",
-      "electronic",
-      "hip-hop",
-      "metal",
-      "oldies",
-      "punk",
-      "reggae",
-      "rock"
-    ],
-    "tags": [
-      "80s synth",
-      "ambient",
-      "breakbeat",
-      "breaks",
-      "chillout",
-      "deep house",
-      "electronic",
-      "ethnic",
-      "hip-hop",
-      "house",
-      "instrumental",
-      "metal",
-      "progressive house",
-      "punk",
-      "reggae",
-      "rock",
-      "techno",
-      "trip-hop"
-    ],
-    "homepage": "https://patrisamato.com/",
-    "favicon": "https://patrisamato.com/cover.png",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://patrisamato.com/public/live",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -823,20 +735,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:22:21Z"
-  },
-  {
-    "id": "awb_99a9e3a046988b762b32",
-    "name": "Pop FM - Slusaj glasno!!!",
-    "country": "BA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.popfm.ba/",
-    "favicon": "http://www.popfm.ba/apple-icon-120x120.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_1392d997705c8534774b",
@@ -1115,12 +1013,12 @@
     "id": "awb_01b5fadd6175e7c80148",
     "name": "Radio Bosna",
     "country": "BA",
-    "subdivision": "FBiH",
+    "subdivision": "Sarajevo",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://radiobosna.com/",
-    "favicon": "https://radiobosna.com/assets/favicon.png",
+    "favicon": "https://radiobosna.com/img/favicon.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-17T09:58:07Z"
@@ -1604,7 +1502,7 @@
     "homepage": "https://radiom.ba/en/homepage/",
     "favicon": "https://radiom.ba/wp-content/uploads/2021/10/cafe-v3-768x768.jpg",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1772,16 +1670,12 @@
     "languages": [
       "bs"
     ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "narodna - folk"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radio.radiomix.ba/",
-    "favicon": "https://radio.radiomix.ba/images/mix/logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2221,22 +2115,6 @@
     "updatedAt": "2026-01-15T01:12:02Z"
   },
   {
-    "id": "awb_d502e0a04051ffdb0376",
-    "name": "Radio Usora",
-    "country": "BA",
-    "subdivision": null,
-    "languages": [
-      "bs"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiousora.info/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:51:28Z"
-  },
-  {
     "id": "awb_2e39704f7f1fc51bdab4",
     "name": "Radio Valentino",
     "country": "BA",
@@ -2371,22 +2249,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:12:47Z"
-  },
-  {
-    "id": "awb_0ddd67ce05d865e5aac5",
-    "name": "Radio ZENIT Zenica",
-    "country": "BA",
-    "subdivision": null,
-    "languages": [
-      "bs"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.zenit.ba/",
-    "favicon": "https://www.zenit.ba/logo/zenit-header.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:57:38Z"
   },
   {
     "id": "awb_7124f7b8ed876c053cc8",
@@ -2560,7 +2422,7 @@
     "homepage": "https://srce-krajine.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

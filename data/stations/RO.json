@@ -54,14 +54,12 @@
     "languages": [],
     "categories": [],
     "tags": [
-      "manele",
-      "manele noi",
-      "manele vechi"
+      "manele"
     ],
     "homepage": "https://atentat.ro/",
-    "favicon": "https://atentat.ro/wp-content/uploads/2021/03/radio240.png",
+    "favicon": "https://atentat.ro/wp-content/uploads/2021/03/radio240-150x150.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
@@ -333,7 +331,7 @@
     "homepage": "https://ambientoradio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -621,14 +619,11 @@
       "en"
     ],
     "categories": [],
-    "tags": [
-      "drum and bass",
-      "jungle"
-    ],
+    "tags": [],
     "homepage": "https://brokenbeats.net/",
-    "favicon": "https://brokenbeats.net/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -658,26 +653,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-29T18:33:51Z"
-  },
-  {
-    "id": "awb_d1979e570ddfc7a3f0fd",
-    "name": "Balada Radio -Bistrița 89,3 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local radio",
-      "news",
-      "populară"
-    ],
-    "homepage": "https://www.baladafm.ro/",
-    "favicon": "https://www.baladafm.ro/images/bld.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-28T17:51:38Z"
   },
   {
     "id": "awb_2eed6c42a873ed94afe1",
@@ -780,22 +755,16 @@
       "ro"
     ],
     "categories": [
-      "news",
       "pop"
     ],
     "tags": [
       "dance",
-      "dance pop",
-      "local",
-      "news",
-      "pop",
-      "romanian",
-      "talks"
+      "pop"
     ],
     "homepage": "https://bistritafmradio.ro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1118,22 +1087,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_23622a898468e200c203",
-    "name": "City Rádió",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.city-radio.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:15:53Z"
-  },
-  {
     "id": "awb_dd190adac4645ef64320",
     "name": "City Radio Romania",
     "country": "RO",
@@ -1264,24 +1217,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-30T17:12:55Z"
-  },
-  {
-    "id": "awb_f0974ead51977c5c1b56",
-    "name": "Clasic Radio_Bach -București",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical music"
-    ],
-    "homepage": "https://www.clasicradio.ro/",
-    "favicon": "https://www.clasicradio.ro/logo/bach.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-30T17:15:07Z"
   },
   {
     "id": "awb_27d8fe8f5f98eb06b5ca",
@@ -1966,7 +1901,7 @@
     "homepage": "https://www.crossone.ro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2010,43 +1945,17 @@
     "id": "awb_5a7fc790c35a0116bd4f",
     "name": "Dance FM",
     "country": "RO",
-    "subdivision": "Bucharest",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "club",
-      "dance",
-      "deep house",
-      "dj mix",
-      "house"
-    ],
-    "homepage": "https://www.dancefm.ro/",
-    "favicon": "https://www.dancefm.ro/static/theme-repo/apple-touch-icon.png?cache=rel-20221003-07-3",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_7ebca411d82d534692da",
-    "name": "Dance FM 89.5 Bucharest",
-    "country": "RO",
     "subdivision": null,
     "languages": [
       "ro"
     ],
     "categories": [],
-    "tags": [
-      "dance"
-    ],
-    "homepage": "http://www.profm.ro/radio/dancefm",
-    "favicon": "http://www.profm.ro/static/theme-repo/apple-touch-icon.png?cache=rel-20220913-06-3",
+    "tags": [],
+    "homepage": "https://www.dancefm.ro/",
+    "favicon": "https://www.dancefm.ro/static/theme-repo/apple-touch-icon.png?cache=rel-20221003-07-3",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:46:22Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_c525fcf52c374217dea9",
@@ -2230,17 +2139,14 @@
     "languages": [
       "ro"
     ],
-    "categories": [
-      "news"
-    ],
+    "categories": [],
     "tags": [
-      "music",
-      "news"
+      "music"
     ],
     "homepage": "https://www.digifm.ro/",
-    "favicon": "https://www.digifm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=release-2022091104-v15",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2266,9 +2172,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.digi24.ro/live/digi24-fm",
-    "favicon": "https://www.digi24.ro/static/theme-repo/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2326,20 +2232,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_905c26f988474d2d5093",
-    "name": "Doxologia",
-    "country": "RO",
-    "subdivision": "Iasi",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://doxologia.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_886dbe4b29b9228a3e0c",
@@ -2415,36 +2307,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_d2b99bd618419b5c2c24",
-    "name": "DuxRadio -Brașov",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "blues",
-      "electronic",
-      "folk",
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "blues",
-      "dance",
-      "edm",
-      "folk",
-      "indie",
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://duxradio.ro/",
-    "favicon": "https://duxradio.ro/wp-content/uploads/2026/03/Untitled-1920-x-1080-px.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-05T06:50:47Z"
   },
   {
     "id": "awb_f8470b26368edea7241e",
@@ -2658,27 +2520,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_5f9ebb23d938796a52fb",
-    "name": "ERCIS FM",
-    "country": "RO",
-    "subdivision": "Iasi",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "catholic",
-      "christian"
-    ],
-    "homepage": "https://www.ercisfm.ro/",
-    "favicon": "https://ercisfm.ro/favicon.ico",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T05:41:36Z"
-  },
-  {
     "id": "awb_2ec491439f68c0b9821e",
     "name": "ERCIS FM -Iasi 94,4 FM",
     "country": "RO",
@@ -2798,15 +2639,13 @@
       "news"
     ],
     "tags": [
-      "misc",
       "music",
-      "news",
-      "talkshow"
+      "news"
     ],
     "homepage": "http://www.europafm.ro/",
-    "favicon": "http://www.europafm.ro/favicon.ico",
+    "favicon": "https://www.europafm.ro/favicon.ico",
     "type": null,
-    "sourceCount": 9,
+    "sourceCount": 3,
     "updatedAt": "2026-05-28T19:20:16Z"
   },
   {
@@ -2820,9 +2659,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://www.europafm.ro/",
-    "favicon": "http://www.europafm.ro/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3293,23 +3132,6 @@
     "updatedAt": "2026-05-15T17:59:29Z"
   },
   {
-    "id": "awb_be51cd70164307ec99a0",
-    "name": "Folclor Muntenia -Buzău",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "petrecere",
-      "populară"
-    ],
-    "homepage": "https://www.radiofolclormuntenia.ro/",
-    "favicon": "https://www.radiofolclormuntenia.ro/wp-content/uploads/2022/01/1642265898045-480x360.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-15T18:03:33Z"
-  },
-  {
     "id": "awb_524eb9912692a83a78f4",
     "name": "Folk Bun",
     "country": "RO",
@@ -3337,10 +3159,10 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://fyplus.ro/radio",
-    "favicon": "https://fyplus.ro/fy-radio-logo.png",
+    "homepage": "https://fyplus.ro/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-26T09:56:48Z"
   },
   {
@@ -3386,26 +3208,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:56:10Z"
-  },
-  {
-    "id": "awb_d1f7c437a9ff072f9dbc",
-    "name": "Free FM Bucaresti",
-    "country": "RO",
-    "subdivision": "Ilfov",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "#90s"
-    ],
-    "homepage": "http://freefmradio.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:15:22Z"
   },
   {
     "id": "awb_fdb57a7a2dc48a96abd8",
@@ -3542,28 +3344,6 @@
     "updatedAt": "2026-04-23T18:13:32Z"
   },
   {
-    "id": "awb_82d33068a4ab7fc343d2",
-    "name": "GHERLA",
-    "country": "RO",
-    "subdivision": "Transylvania",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "90s",
-      "eurodance",
-      "mrcrosby"
-    ],
-    "homepage": "https://gherlafm.ro/",
-    "favicon": "https://gherlafm.ro/wp-content/uploads/2020/04/cropped-logomic2-192x192.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-30T13:15:51Z"
-  },
-  {
     "id": "awb_8cc5024ec2932824b12e",
     "name": "Gherla FM",
     "country": "RO",
@@ -3583,25 +3363,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:25:16Z"
-  },
-  {
-    "id": "awb_327b512e2e51caed9adb",
-    "name": "Gherla FM -Gherla 102,2 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "90s",
-      "eurodance"
-    ],
-    "homepage": "https://gherlafm.ro/",
-    "favicon": "https://gherlafm.ro/wp-content/uploads/2021/08/cropped-cropped-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-21T19:35:36Z"
   },
   {
     "id": "awb_bb2e8745d00819e2f1c8",
@@ -3772,7 +3533,7 @@
     "homepage": "https://radiogoldfm.ro/#",
     "favicon": "https://radiogoldfm.ro/wp-content/uploads/2021/04/logo2.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
@@ -3977,27 +3738,6 @@
     "updatedAt": "2026-10-21T07:09:22Z"
   },
   {
-    "id": "awb_3a51fbc5dd981ca6dd8f",
-    "name": "HIT FM -Brașov 94,2 FM Zărnești 94,2 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "hits",
-      "top hits",
-      "top40"
-    ],
-    "homepage": "https://hitfm.ro/",
-    "favicon": "https://img.radios.com.br/radio/lg/radio235295_1704928996.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-05T07:09:39Z"
-  },
-  {
     "id": "awb_40b051618b964406686c",
     "name": "HIT FM Alba -Alba Iulia 88,6 FM",
     "country": "RO",
@@ -4097,23 +3837,17 @@
   },
   {
     "id": "awb_cbc51a64ed980bc16cbd",
-    "name": "itsy bitsy",
+    "name": "Itsy Bitsy",
     "country": "RO",
     "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "kids"
-    ],
-    "tags": [
-      "kids"
-    ],
-    "homepage": "http://itsybitsy.ro/",
-    "favicon": "http://itsybitsy.ro/favicon.ico",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.itsybitsy.ro/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T00:05:50Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_cd884d43deb770dcc874",
@@ -4240,32 +3974,6 @@
     "updatedAt": "2026-06-01T17:24:00Z"
   },
   {
-    "id": "awb_72012081713fe7474289",
-    "name": "Kiss Fm",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "electronic",
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "dance pop",
-      "house",
-      "pop",
-      "pop music",
-      "top 40"
-    ],
-    "homepage": "https://www.kissfm.ro/",
-    "favicon": "https://www.kissfm.ro/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-04-02T22:26:47Z"
-  },
-  {
     "id": "awb_83d3df06bcb34804310d",
     "name": "Kiss fm • rock athems",
     "country": "RO",
@@ -4282,7 +3990,7 @@
     "homepage": "https://www.kissfm.ro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4412,10 +4120,10 @@
       "pop",
       "rock"
     ],
-    "homepage": "http://kolozsvariradio.ro/",
-    "favicon": "http://kolozsvariradio.ro/favicon.ico",
+    "homepage": "http://www.kolozsvariradio.ro/",
+    "favicon": "http://www.kolozsvariradio.ro/favicon.ico",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T02:32:41Z"
   },
   {
@@ -4431,8 +4139,8 @@
     "homepage": "http://www.kolozsvariradio.ro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:08:04Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:44:14Z"
   },
   {
     "id": "awb_8ac225367a3bfcf00237",
@@ -4511,8 +4219,8 @@
     "homepage": "https://lecymbal.ro/",
     "favicon": "https://imgur.com/wkMAVvh",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-28T06:22:17Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-28T06:20:13Z"
   },
   {
     "id": "awb_65402a10c5eed88ac543",
@@ -4555,8 +4263,6 @@
       "90's",
       "90s",
       "dj",
-      "dj remix",
-      "live",
       "mix",
       "oldies",
       "the best of 80's"
@@ -4564,7 +4270,7 @@
     "homepage": "https://radio.free-shoutcast.com/site/89000",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-02-06T09:56:48Z"
   },
   {
@@ -4678,32 +4384,24 @@
   },
   {
     "id": "awb_9ee35f75b212acdb753f",
-    "name": "Magic Fm",
+    "name": "Magic FM",
     "country": "RO",
     "subdivision": null,
     "languages": [
       "ro"
     ],
     "categories": [
-      "oldies",
       "public"
     ],
     "tags": [
-      "70s",
-      "80s",
-      "90s",
       "decades",
-      "easy listening",
-      "oldies",
-      "public radio",
-      "soft",
-      "soft music"
+      "public radio"
     ],
     "homepage": "https://www.magicfm.ro/",
     "favicon": "https://www.magicfm.ro/apple-touch-icon.png",
     "type": "public",
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:50:50Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T02:29:06Z"
   },
   {
     "id": "awb_5f52349f16bcc957c83c",
@@ -4918,20 +4616,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_8e1cf9990c7a502a4af0",
-    "name": "Magic FM Romania",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.magicfm.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_9f051b03d2fae8a1fb32",
@@ -5344,13 +5028,12 @@
     ],
     "tags": [
       "electronic",
-      "minimal techno",
       "techno"
     ],
     "homepage": "https://rominimal.club/",
-    "favicon": "https://rominimal.club/images/logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5368,14 +5051,12 @@
     "tags": [
       "dance",
       "pop",
-      "pop dance",
-      "pop music",
       "pop-music"
     ],
     "homepage": "https://moinestifm.ro/",
-    "favicon": "https://moinestifm.ro/images/logo_color.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5398,29 +5079,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-23T18:28:05Z"
-  },
-  {
-    "id": "awb_8250f372c9190788bedd",
-    "name": "Moinești FM - 100,8 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic",
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "house",
-      "local radio",
-      "pop",
-      "top 40"
-    ],
-    "homepage": "https://moinestifm.ro/",
-    "favicon": "https://myradioonline.ro/public/uploads/radio_img/moinesti-fm/fb_cover.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-26T18:09:54Z"
   },
   {
     "id": "awb_e0396bc5bf3a8c5d64ae",
@@ -5469,33 +5127,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-22T15:09:59Z"
-  },
-  {
-    "id": "awb_336cebc06dadec03cbe8",
-    "name": "Muscel FM 94.1",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "talk"
-    ],
-    "tags": [
-      "dance",
-      "dance pop",
-      "hits",
-      "oldies",
-      "pop",
-      "talk"
-    ],
-    "homepage": "http://musceltv.ro/site/index.php/asculta-muscel-fm-online/",
-    "favicon": "https://musceltv.ro/wp-content/uploads/2023/09/favicon-150x150.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:26:25Z"
   },
   {
     "id": "awb_eb2b667bd9df6a7f9f0e",
@@ -5556,7 +5187,7 @@
     "homepage": "https://zeno.fm/radio/muzicadevest/",
     "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/b02HLYPtGCnK48rAJu90uHA0QO0ZJuUjO3d9wPulMKQ/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGczOC1PeXdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1E0Ti1tbkFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTczNDU5ODI0MjAwMA.webp",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-04-24T09:23:12Z"
   },
   {
@@ -5729,25 +5360,17 @@
       "ro"
     ],
     "categories": [
-      "news",
       "oldies",
       "pop"
     ],
     "tags": [
-      "00s",
       "90s",
-      "entertainment",
-      "fresh hits",
-      "morning show",
-      "news",
-      "pop music",
-      "pop-music",
-      "romanian music"
+      "pop-music"
     ],
     "homepage": "https://nostalgiaradio.ro/",
-    "favicon": "https://static.tildacdn.com/tild6630-3333-4462-b232-646236303332/nostalgia-favicon-da.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5848,7 +5471,7 @@
     "homepage": "https://zeno.fm/radio/ok-music/",
     "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/6GSYiIkDLKBxkgK65idxMXnXfcB7TNO2yP8oDmiw92o/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lnYmkwdkFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l3YXVhcUFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY1MzQ5NDIyNzAwMA.webp",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-05-05T06:38:35Z"
   },
   {
@@ -6126,45 +5749,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_5a9597cfd7ebd448d349",
-    "name": "Play 90 Constanta",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.playradio.ro/fm/",
-    "favicon": "https://www.playradio.ro/fm/assets/img/favicon-96x96.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_b0e22632cc8fa5cb757d",
-    "name": "Play 90's",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "ro"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "90s",
-      "dance",
-      "euro hits",
-      "eurodance"
-    ],
-    "homepage": "https://www.playradio.org/",
-    "favicon": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/b7/89/4a/b7894a1a-07c8-d9ae-fc50-5fcc33c59173/source/280x280.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:35:25Z"
-  },
-  {
     "id": "awb_fe7960eb33403ea6c74e",
     "name": "Play 90s - “Ritmul Anilor Tăi”",
     "country": "RO",
@@ -6320,18 +5904,15 @@
       "hu"
     ],
     "categories": [
-      "news",
       "pop"
     ],
     "tags": [
-      "local news",
-      "top hits",
       "top-hits"
     ],
     "homepage": "https://pluszfm.ro/helyseg/3/margitta",
-    "favicon": "https://www.phonostar.de/images/auto_created/plusz_fm184x184.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6343,18 +5924,15 @@
       "hu"
     ],
     "categories": [
-      "news",
       "pop"
     ],
     "tags": [
-      "local news",
-      "top hits",
       "top-hits"
     ],
     "homepage": "https://pluszfm.ro/helyseg/2/nagyvarad",
-    "favicon": "https://pluszfm.ro/images/plusz/touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6435,49 +6013,6 @@
     "updatedAt": "2026-04-29T06:12:04Z"
   },
   {
-    "id": "awb_f8578a19582176681619",
-    "name": "Pro FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "top 40"
-    ],
-    "homepage": "http://www.profm.ro/",
-    "favicon": "http://www.profm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=rel-20240507-11-22",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:03:43Z"
-  },
-  {
-    "id": "awb_ba4cba6ef6416667b972",
-    "name": "Pro FM -Brașov 89,9 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "local radio",
-      "news",
-      "pop",
-      "top 40"
-    ],
-    "homepage": "https://www.profm.ro/",
-    "favicon": "https://www.profm.ro/static/theme-repo/bin/images/logo-profm.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-05T07:02:53Z"
-  },
-  {
     "id": "awb_a7b7a67886dce6613638",
     "name": "Pro FM -stația Cluj Napoca 99,8 FM",
     "country": "RO",
@@ -6497,30 +6032,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_194972e54fed10fc4c88",
-    "name": "ProB Radio",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "clubbing",
-      "dance",
-      "downtempo",
-      "house",
-      "tech house"
-    ],
-    "homepage": "https://www.radioprob.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:30:35Z"
   },
   {
     "id": "awb_3065b03c59a1080a87aa",
@@ -6594,38 +6105,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-05-03T12:46:45Z"
-  },
-  {
-    "id": "awb_58e31e1bc0768f0cea70",
-    "name": "Radio 1 Manele România -Brașov",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "manele"
-    ],
-    "homepage": "https://radiounumanele.ro/",
-    "favicon": "https://radiounumanele.ro/wp-content/uploads/2025/05/cropped-Radio-1-1.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-05T07:24:08Z"
-  },
-  {
-    "id": "awb_e2e17490195186873466",
-    "name": "radio 1 pitesti",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "petrecere"
-    ],
-    "homepage": "https://ssl.radios.show/8050/stream",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_7e6b063b5d1f1cfe7128",
@@ -7232,9 +6711,9 @@
       "pop"
     ],
     "homepage": "https://radioboom.ro/",
-    "favicon": "https://stream.radioboom.ro/static/uploads/boom_energy/album_art.1711440856.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7399,26 +6878,6 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
-    "id": "awb_a2b074495b3def817372",
-    "name": "Radio Brașov -87,8 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local radio",
-      "music",
-      "news"
-    ],
-    "homepage": "https://www.radiobrasov.ro/",
-    "favicon": "https://myradioonline.ro/public/uploads/radio_img/radio-brasov/fb_cover.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-05T07:00:16Z"
-  },
-  {
     "id": "awb_35a4ca09c8f6d99d87a3",
     "name": "Radio Bucovina",
     "country": "RO",
@@ -7478,18 +6937,14 @@
     "name": "Radio Cafe Romania",
     "country": "RO",
     "subdivision": null,
-    "languages": [
-      "ro"
-    ],
+    "languages": [],
     "categories": [],
-    "tags": [
-      "muzica de poveste"
-    ],
-    "homepage": "http://radiocafe.ro/",
-    "favicon": "https://radiocafe.ro/wp-content/uploads/2018/12/logo-fara-90fm-resize-e1546368131330.png",
+    "tags": [],
+    "homepage": "https://radiocafe.ro/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T07:58:24Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_ff9f6f1f9139fb1cbb1d",
@@ -7561,8 +7016,8 @@
     "homepage": "https://radiocamarad.com/",
     "favicon": "https://radiocamarad.com/img/logo-500.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-22T07:27:25Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T07:19:29Z"
   },
   {
     "id": "awb_036e6626f61257c95365",
@@ -7609,7 +7064,7 @@
     "id": "awb_542ceebab4395d3253b4",
     "name": "Radio Click Romania",
     "country": "RO",
-    "subdivision": null,
+    "subdivision": "Bucuresti",
     "languages": [
       "ro"
     ],
@@ -7630,15 +7085,17 @@
       "music",
       "oldies",
       "pop",
+      "rock",
       "romanian",
       "romanian music",
+      "romantic",
       "soft rock"
     ],
     "homepage": "https://www.radioclick.ro/",
     "favicon": "https://www.radioclick.ro/wp-content/uploads/2019/04/logo.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:10:11Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-08T12:57:26Z"
   },
   {
     "id": "awb_f311fb70736921488f25",
@@ -7832,28 +7289,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-08T12:54:56Z"
-  },
-  {
-    "id": "awb_9f6558ee9bb67132945f",
-    "name": "Radio Costesti Arges Online",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "latin",
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "latino",
-      "local radio",
-      "pop"
-    ],
-    "homepage": "https://costesti-ag.ro/",
-    "favicon": "https://costesti-ag.ro/wp-content/uploads/2025/12/logoradio-300x262.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-20T15:23:46Z"
   },
   {
     "id": "awb_b20a012603846f32601b",
@@ -8104,19 +7539,16 @@
       "pop"
     ],
     "tags": [
-      "damblagii",
-      "manele",
       "mix",
       "music",
       "pop",
-      "romania",
       "romanian"
     ],
     "homepage": "https://radiodamblagii.com/",
     "favicon": "https://radiodamblagii.com/logo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-07-24T14:22:17Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-07-24T13:07:52Z"
   },
   {
     "id": "awb_6b49ff10cb84387fd980",
@@ -8306,20 +7738,6 @@
     "updatedAt": "2026-05-21T10:23:14Z"
   },
   {
-    "id": "awb_9298ce5a5f9f94967f30",
-    "name": "Radio Domeldo Movie",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiodomeldo.ro/on-air-2",
-    "favicon": "https://radiodomeldo.ro/wp-content/uploads/2017/03/radiodomeldo_textinner_nourl_forheader.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_93095c63f12e733a531f",
     "name": "Radio Domeldo Movie -Cluj Napoca",
     "country": "RO",
@@ -8378,10 +7796,10 @@
       "orthodoxy",
       "ortodox"
     ],
-    "homepage": "https://doxologia.ro/",
+    "homepage": "https://doxologia.ro/radio-doxologia",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/6NqCWKe4VD.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-11-03T17:46:32Z"
   },
   {
@@ -8427,23 +7845,13 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "dance",
-      "local",
-      "oldies",
-      "pop",
-      "rock"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radioeasy.ro/",
-    "favicon": "https://radioeasy.ro/wp-content/uploads/2024/08/RadioEasy-logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-04-23T18:10:35Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_cabc03bfd4ba596cafbe",
@@ -8886,23 +8294,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_f0b13f2deb4f2ea279e0",
-    "name": "Radio Folclor Buzău FM -Buzău",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "petrecere",
-      "populară"
-    ],
-    "homepage": "https://www.radiofolclorbuzaufm.ro/",
-    "favicon": "https://www.radiofolclorbuzaufm.ro/wp-content/uploads/2022/02/cropped-cropped-received_635911127697612-e1658247217248-1.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-15T18:25:32Z"
-  },
-  {
     "id": "awb_be6182a1138b11b6f1a5",
     "name": "Radio Folclor Muntenia",
     "country": "RO",
@@ -8955,38 +8346,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:32:39Z"
-  },
-  {
-    "id": "awb_7de451bf2eded99fff59",
-    "name": "Radio Gaga",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radiogaga.ro/",
-    "favicon": "http://www.radiogaga.ro/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_de0eb9f08023baa5ce25",
-    "name": "Rádió Gaga",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "http://www.radiogaga.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_385cf01d1013f1b24891",
@@ -9201,46 +8560,29 @@
     "country": "RO",
     "subdivision": "Giurgiu",
     "languages": [
-      "de",
-      "en",
       "es",
-      "it",
       "ro"
     ],
     "categories": [
       "pop"
     ],
     "tags": [
-      "berlin",
       "dance",
-      "deutschland",
       "diaspora",
       "espana",
-      "frankfurt",
-      "germania",
-      "germany",
       "giurgiu",
       "hits",
-      "italia",
-      "italy",
-      "koln",
-      "milano",
-      "munchen",
-      "nurnberg",
       "party",
       "pop",
-      "roma",
       "romania",
       "romanian",
-      "stiri",
-      "stuttgart",
-      "torino"
+      "stiri"
     ],
     "homepage": "https://radiogiurgiu.net/",
     "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-08-30T07:36:45Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-30T07:32:54Z"
   },
   {
     "id": "awb_ec33b770c5ce4d66945a",
@@ -9523,19 +8865,12 @@
     "languages": [
       "ro"
     ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "indie",
-      "la unica radio con cojones",
-      "rock"
-    ],
-    "homepage": "http://guerrillaradio.ro/",
-    "favicon": "http://guerrillaradio.ro/images/logo.png",
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.guerrillaradio.ro/",
+    "favicon": "https://guerrillaradio.b-cdn.net/wp-content/themes/guerrilla/library/images/favicon/apple-icon-120x120.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T00:07:07Z"
   },
   {
@@ -9639,26 +8974,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-17T13:54:34Z"
-  },
-  {
-    "id": "awb_c1b107581379cae063d9",
-    "name": "Radio Impuls Romania",
-    "country": "RO",
-    "subdivision": "Bucuresti",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "top40"
-    ],
-    "homepage": "https://www.radioimpuls.ro/",
-    "favicon": "https://w7.pngwing.com/pngs/843/39/png-transparent-cluj-napoca-radio-impuls-paprika-radio-fm-broadcasting-radio-electronics-text-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:34:57Z"
   },
   {
     "id": "awb_9ca7cf1707d5d722c988",
@@ -9803,7 +9118,7 @@
     "homepage": "https://radiokokoms.ro/",
     "favicon": "https://radiokokoms.ro/images/radiokoko-logo.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10092,45 +9407,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_60767818ee2cd5f2757e",
-    "name": "Radio Manele FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk music"
-    ],
-    "homepage": "https://fmradiomanele.ro/",
-    "favicon": "https://fmradiomanele.ro/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:17:40Z"
-  },
-  {
-    "id": "awb_8ad331b549e3cf099593",
-    "name": "RADIO MANELE PETRECERE",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [],
-    "tags": [
-      "manele",
-      "petrecere"
-    ],
-    "homepage": "https://fmradiomanele.ro/",
-    "favicon": "https://fmradiomanele.ro/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:57:07Z"
   },
   {
     "id": "awb_6bb3edfacec8489eccb1",
@@ -10534,7 +9810,7 @@
     "homepage": "https://www.radionoise.ro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-03T20:28:45Z"
   },
   {
@@ -11388,63 +10664,6 @@
     "updatedAt": "2026-01-15T00:18:06Z"
   },
   {
-    "id": "awb_43d54c5dda5125b77027",
-    "name": "Radio Reîntregirea",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "religious"
-    ],
-    "homepage": "https://reintregirea.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:03:36Z"
-  },
-  {
-    "id": "awb_a765a93a0e61346d6cf9",
-    "name": "Radio Renasterea",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [],
-    "tags": [
-      "info",
-      "religion"
-    ],
-    "homepage": "https://radiorenasterea.ro/radio-renasterea-live/",
-    "favicon": "https://radiorenasterea.ro/wp-content/uploads/2020/07/RR-rotund-Recovered-480x482.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-19T11:14:28Z"
-  },
-  {
-    "id": "awb_fe3daa66d1cc8395761f",
-    "name": "Radio Renașterea -Bistrița 102 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "crestin",
-      "ortodox",
-      "religios"
-    ],
-    "homepage": "https://radiorenasterea.ro/",
-    "favicon": "https://radiorenasterea.ro/wp-content/uploads/2020/12/RR-rotund160-150x150.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-17T15:01:49Z"
-  },
-  {
     "id": "awb_f516bde115dd2352f2bc",
     "name": "Radio Renașterea -Cluj Napoca 91,0 FM",
     "country": "RO",
@@ -11531,30 +10750,6 @@
     "updatedAt": "2026-01-15T05:46:02Z"
   },
   {
-    "id": "awb_7fa6aae93891ef536d69",
-    "name": "Radio România 3 Net",
-    "country": "RO",
-    "subdivision": "Bucuresti",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "dance pop",
-      "pop",
-      "pop music",
-      "romanian pop"
-    ],
-    "homepage": "https://www.radio3net.ro/",
-    "favicon": "https://www.radio3net.ro/img/logos/logo_3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:02:57Z"
-  },
-  {
     "id": "awb_3c4fcb2bc69deca41c9f",
     "name": "Radio România 3Net",
     "country": "RO",
@@ -11628,19 +10823,14 @@
     "languages": [
       "ro"
     ],
-    "categories": [
-      "news",
-      "pop"
-    ],
+    "categories": [],
     "tags": [
-      "music",
-      "news",
-      "romanian pop"
+      "music"
     ],
     "homepage": "https://www.romania-actualitati.ro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -11935,21 +11125,15 @@
       "it",
       "ro"
     ],
-    "categories": [
-      "oldies"
-    ],
+    "categories": [],
     "tags": [
-      "80's",
-      "dance",
       "musica romantica",
-      "oldies",
-      "retro",
-      "retro music"
+      "retro"
     ],
     "homepage": "http://www.radio-romantic.ro/",
-    "favicon": "https://radio-romantic.ro/www.radio-romantic.ro.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T08:31:18Z"
   },
   {
@@ -11966,7 +11150,7 @@
     "homepage": "https://www.radio-romantic.ro/",
     "favicon": "https://oss-us.fileget.net/tingfm/img/l/4/83434.v20.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-20T08:15:04Z"
   },
   {
@@ -12016,26 +11200,6 @@
     "updatedAt": "2026-10-09T21:15:40Z"
   },
   {
-    "id": "awb_1421f3d8c70006f8469a",
-    "name": "Radio Sighet FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "talk"
-    ],
-    "homepage": "https://sighetfm.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:28:20Z"
-  },
-  {
     "id": "awb_f4cf47fc3c6358836be9",
     "name": "Radio Sky FM",
     "country": "RO",
@@ -12077,8 +11241,8 @@
     "homepage": "https://radiosomes.ro/",
     "favicon": "https://radiosomes.ro/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:26:23Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:38:47Z"
   },
   {
     "id": "awb_846f4396959426713b80",
@@ -12237,34 +11401,6 @@
     "updatedAt": "2026-11-03T20:20:42Z"
   },
   {
-    "id": "awb_5fd8ec51bcb3b24c4588",
-    "name": "Radio Supersonic -Buzău",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "blues",
-      "country",
-      "folk",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "blues",
-      "classic rock",
-      "country",
-      "folk",
-      "pop",
-      "rhythm",
-      "soul"
-    ],
-    "homepage": "https://supersonicradio.ro/",
-    "favicon": "https://myradioonline.ro/public/uploads/radio_img/supersonic-radio/play_250_250.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-15T18:10:32Z"
-  },
-  {
     "id": "awb_a8a8a2e999dc63ae6794",
     "name": "Radio T",
     "country": "RO",
@@ -12353,31 +11489,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_761329828ce9e0cdf2a1",
-    "name": "Radio Tequila Hip-Hop",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "hip-hop"
-    ],
-    "tags": [
-      "explicit",
-      "hip hop",
-      "hip-hop",
-      "rap",
-      "romanian hip hop",
-      "trap"
-    ],
-    "homepage": "https://www.radiotequila.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:31:27Z"
-  },
-  {
     "id": "awb_f5549b28dc8677c74f68",
     "name": "Radio Tequila Manele",
     "country": "RO",
@@ -12396,20 +11507,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:22:21Z"
-  },
-  {
-    "id": "awb_dfbd41e60bd0e07109bb",
-    "name": "Radio Tequila Manele Romania",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiotequila.ro/",
-    "favicon": "https://www.radiotequila.ro/wp-content/uploads/2023/11/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_4232f028c2f7b1145135",
@@ -12460,31 +11557,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:13:59Z"
-  },
-  {
-    "id": "awb_083660e0ef42e6ba0f6f",
-    "name": "Radio Terra",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "dance pop",
-      "oldies",
-      "pop",
-      "pop music",
-      "romanian pop"
-    ],
-    "homepage": "https://www.radio-terra.ro/",
-    "favicon": "https://www.radio-terra.ro/img/logos/terra-navbar.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:23:20Z"
   },
   {
     "id": "awb_b8b79a1b97853f05baf2",
@@ -12590,18 +11662,15 @@
       "rock"
     ],
     "tags": [
-      "adult contemporary",
       "adult-contemporary",
       "electronic",
-      "pop rock",
       "pop-rock",
-      "top hits",
       "top-hits"
     ],
     "homepage": "https://radiotransilvania.ro/helyseg/3/cluj-napoca",
-    "favicon": "https://myradioonline.ro/public/uploads/radio_img/radio-transilvania/play_250_250.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -12623,26 +11692,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-21T19:47:15Z"
-  },
-  {
-    "id": "awb_fda2f42ef1bc7091a56d",
-    "name": "Radio Transilvania -Cluj Napoca 94,5 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local radio",
-      "music",
-      "news"
-    ],
-    "homepage": "https://radiotransilvania.ro/localitatea/3/cluj-napoca",
-    "favicon": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-17T15:04:32Z"
   },
   {
     "id": "awb_86429cd169a2a5dbbedc",
@@ -12698,31 +11747,6 @@
     "updatedAt": "2026-10-12T02:02:35Z"
   },
   {
-    "id": "awb_6a1070bdd80dc0abac0c",
-    "name": "Radio Transilvania (📌 Beiuș 📡 88,0 FM)",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "adult contemporary",
-      "entertainment",
-      "news",
-      "pop",
-      "rock",
-      "top40"
-    ],
-    "homepage": "https://radiotransilvania.ro/localitatea/14/beius",
-    "favicon": "https://radiotransilvania.ro/images/transi/logo-green.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T20:42:35Z"
-  },
-  {
     "id": "awb_23bfc8db2d2fa428117c",
     "name": "Radio Trib",
     "country": "RO",
@@ -12775,10 +11799,10 @@
       "orthodoxy",
       "religion"
     ],
-    "homepage": "http://www.radiotrinitas.ro/",
+    "homepage": "https://www.radiotrinitas.ro/",
     "favicon": "https://radiotrinitas.ro/wp-content/uploads/2026/04/radio-trinitas-logo.svg",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-10-27T15:38:44Z"
   },
   {
@@ -13142,26 +12166,6 @@
     "updatedAt": "2026-05-22T08:04:53Z"
   },
   {
-    "id": "awb_be3ca0c314afc76cf367",
-    "name": "Radio Voces Campi -Oltenița 94,0 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local radio",
-      "music",
-      "news"
-    ],
-    "homepage": "https://radiovocescampi.ro/",
-    "favicon": "https://radiovocescampi.ro/wp-content/uploads/2021/12/LOGO-DESK.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-22T08:11:08Z"
-  },
-  {
     "id": "awb_4e9e9e783bd160a48255",
     "name": "Radio Xtream",
     "country": "RO",
@@ -13215,23 +12219,17 @@
   },
   {
     "id": "awb_da15cae6b3d1cc4fc850",
-    "name": "Radio Zu",
+    "name": "Radio ZU!",
     "country": "RO",
-    "subdivision": "ROMANIA",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "top 40"
-    ],
-    "homepage": "https://radiozu.ro/",
-    "favicon": "https://radiozu.ro/favicon-96x96.png",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiozu.ro/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T07:29:21Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_a457e45d93399b8548b5",
@@ -13252,24 +12250,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-22T12:07:06Z"
-  },
-  {
-    "id": "awb_99b3dc091d860a2268a0",
-    "name": "RadioClick",
-    "country": "RO",
-    "subdivision": "ROMANIA",
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://www.radioclick.ro/",
-    "favicon": "https://www.radioclick.ro/wp-content/uploads/2019/04/logo.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_3575fc96f4beda4f4c87",
@@ -13471,24 +12451,6 @@
     "updatedAt": "2026-09-20T10:14:16Z"
   },
   {
-    "id": "awb_08ee75a0dceedcd69a55",
-    "name": "RadioTrandafirulRoșul",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "manele",
-      "petrecere",
-      "populară"
-    ],
-    "homepage": "https://xat.com/radiotrandafirulrosu",
-    "favicon": "https://online-radio.eu/logo/144/144419.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-15T18:29:56Z"
-  },
-  {
     "id": "awb_b98d9b80501597e5c696",
     "name": "Realitatea FM",
     "country": "RO",
@@ -13531,26 +12493,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:51:17Z"
-  },
-  {
-    "id": "awb_0d878952d951b53d006b",
-    "name": "Reintregirea",
-    "country": "RO",
-    "subdivision": "Alba",
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "religious"
-    ],
-    "homepage": "https://reintregirea.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:13:35Z"
   },
   {
     "id": "awb_080d1f65f9ee01c7ea8a",
@@ -13615,10 +12557,8 @@
     "id": "awb_9bf36a9cd9eadbd0ec2e",
     "name": "Replica Radio",
     "country": "RO",
-    "subdivision": "Cluj",
-    "languages": [
-      "en"
-    ],
+    "subdivision": null,
+    "languages": [],
     "categories": [
       "folk",
       "pop",
@@ -13627,17 +12567,14 @@
     "tags": [
       "disco",
       "folk",
-      "funk",
-      "pop",
       "pop rock",
-      "rock",
       "soul"
     ],
     "homepage": "https://replicaradio.com/",
     "favicon": "https://replicaradio.com/images/assets/Replica-Radio-Live.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:24:22Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_f187929cd8fa1008b699",
@@ -13758,15 +12695,13 @@
       "rock"
     ],
     "tags": [
-      "ballads",
-      "classic rock",
       "classic-rock",
       "rock"
     ],
     "homepage": "https://www.rockfm.ro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -13801,30 +12736,14 @@
       "rock"
     ],
     "tags": [
-      "classic rock",
       "classic-rock",
-      "hard rock",
       "rock"
     ],
-    "homepage": "https://www.rockfm.ro/",
-    "favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1606737505/brand_manager/stations/qyxv7nnrvwnnokjxrxgi.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_93140d6b5ce854fbe2c0",
-    "name": "Rock FM Romania",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
     "homepage": "https://www.rockfm.ro/",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_dd8fc85c4d307a1d05e1",
@@ -13836,14 +12755,13 @@
       "rock"
     ],
     "tags": [
-      "classic rock",
       "classic-rock",
       "rock"
     ],
     "homepage": "https://rocknowradio.ro/",
-    "favicon": "https://www.rocknowradio.ro/favicon.ico",
+    "favicon": "https://www.rocknowradio.ro/apps/m/v5/img/body.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -13858,13 +12776,12 @@
       "rock"
     ],
     "tags": [
-      "rock",
-      "romanian"
+      "rock"
     ],
     "homepage": "https://www.rockfm.ro/",
-    "favicon": "https://www.rockfm.ro/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -13982,49 +12899,19 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_d26a98935314c5fee627",
-    "name": "ROMÂNIA Actualități",
-    "country": "RO",
-    "subdivision": "Bucuresti",
-    "languages": [],
-    "categories": [
-      "folk",
-      "news",
-      "pop",
-      "talk"
-    ],
-    "tags": [
-      "folk",
-      "national",
-      "news",
-      "pop",
-      "talk"
-    ],
-    "homepage": "http://www.romania-actualitati.ro/",
-    "favicon": "https://www.romania-actualitati.ro/templates/default/images/custom/logo-main.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_58de8e5c0f9c4acbedf5",
     "name": "ROMÂNIA Antena Satelor",
     "country": "RO",
     "subdivision": "Bucuresti",
     "languages": [],
-    "categories": [
-      "news"
-    ],
+    "categories": [],
     "tags": [
-      "music",
-      "muzică populară",
-      "national",
-      "news"
+      "music"
     ],
     "homepage": "https://www.antenasatelor.ro/",
-    "favicon": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -14283,39 +13170,6 @@
     "updatedAt": "2026-04-24T09:15:16Z"
   },
   {
-    "id": "awb_1bb4a3a95362ab658998",
-    "name": "Schitul Sfântul Neagoe Vodă Basarab",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "grc",
-      "ro"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "bisericesc",
-      "byzantine",
-      "christian orthodox",
-      "church",
-      "crestin",
-      "crestin-ortodox",
-      "liturgical",
-      "monastery",
-      "orthodox",
-      "orthodox christian",
-      "orthodox church",
-      "orthodoxy",
-      "ortodox"
-    ],
-    "homepage": "https://sfantulneagoe.ro/",
-    "favicon": "https://sfantulneagoe.ro/assets/img/header-mobil.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-27T13:59:20Z"
-  },
-  {
     "id": "awb_f285847493f9523e7c68",
     "name": "Schitul Sfântul Neagoe Vodă Basarab, Vlădești, Argeș",
     "country": "RO",
@@ -14347,39 +13201,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-27T13:07:15Z"
-  },
-  {
-    "id": "awb_f0a852ed03f1e05ef247",
-    "name": "Schitul Vladesti Arges",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "grc",
-      "ro"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "bisericesc",
-      "byzantine",
-      "christian orthodox",
-      "church",
-      "crestin",
-      "crestin-ortodox",
-      "liturgical",
-      "monastery",
-      "orthodox",
-      "orthodox christian",
-      "orthodox church",
-      "orthodoxy",
-      "ortodox"
-    ],
-    "homepage": "https://sfantulneagoe.ro/",
-    "favicon": "https://sfantulneagoe.ro/",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-27T13:01:36Z"
   },
   {
     "id": "awb_41ef0bb9ef743fbc3746",
@@ -14464,29 +13285,6 @@
     "updatedAt": "2026-01-15T00:29:53Z"
   },
   {
-    "id": "awb_afe6efc8724ab961234e",
-    "name": "Siculus Rádió -Kézdivásárhely/Târgu Secuiesc 95.0 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "etnic",
-      "local news",
-      "local radio",
-      "music"
-    ],
-    "homepage": "http://www.siculusradio.ro/",
-    "favicon": "https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-1/298662729_473133758153290_6786769401927438448_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=SFdkVSP7CSwQ7kNvwF30bMK&_nc_oc=AdkD3poPh4WKX9mPqboDOgmup0wKnWaW7tIPahWav-oAfimFSAd3bIyqZmDtpjoGPCnu51sJLzSHDpWFIIKm5dcC&_nc_zt=24&_nc_ht=scontent.fotp3-4.fna&_nc_gid=Z8ZbtabTQya_l3A2K5wfxg&oh=00_AfvT_t5I8fjfwbS1KGPNISA8OEuCt4ZVLJyFfJHFNlhw3A&oe=69A63C4B",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-26T14:37:35Z"
-  },
-  {
     "id": "awb_3bb90f5d284a5ebdbcb2",
     "name": "Sighet FM -Sighetu Marmației 89.3 FM",
     "country": "RO",
@@ -14505,30 +13303,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_89a605bcbd3cfd8811f3",
-    "name": "Sighet FM 89.3",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "adult contemporary",
-      "local",
-      "news",
-      "pop"
-    ],
-    "homepage": "https://sighetfm.ro/",
-    "favicon": "https://scontent.fomr1-1.fna.fbcdn.net/v/t39.30808-6/299334146_488042999987436_6761144453671171694_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=h9lp6WJIYowQ7kNvwGlVZGi&_nc_oc=AdnPh9-nWc5pYAm5l7lXHfbn4adZgOnJEDV7hu7BfMkx87srAhhTPeNQAnm1wD-2tso&_nc_zt=23&_nc_ht=scontent.fomr1-1.fna&_nc_gid=rvzBwCYFbBrHy14GZROqHA&oh=00_AfsY8Hg0HuMxxtQVwCUBKCx873JF287BrAVpyBIR2CqcgA&oe=69A0E9DD",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-22T15:55:29Z"
   },
   {
     "id": "awb_011a648829a1d9aea6b4",
@@ -14658,26 +13432,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_b6639253cc30e2ed91e5",
-    "name": "Smart FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "oldies"
-    ],
-    "homepage": "https://www.smartradio.ro/",
-    "favicon": "https://www.smartradio.ro/wp-content/themes/smart-radio/apple-icon-120x120.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:19:54Z"
-  },
-  {
     "id": "awb_2ba48ea6f78c917af8ff",
     "name": "Smart N'Roll",
     "country": "RO",
@@ -14690,24 +13444,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_a8893a806493bf000ef7",
-    "name": "Smart Radio",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [],
-    "tags": [
-      "modern"
-    ],
-    "homepage": "https://www.smartradio.ro/",
-    "favicon": "https://www.smartradio.ro/wp-content/themes/smart-radio/apple-icon-120x120.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:32:00Z"
   },
   {
     "id": "awb_9f6938fef644b3ae18af",
@@ -14850,24 +13586,6 @@
     "updatedAt": "2026-02-24T06:05:40Z"
   },
   {
-    "id": "awb_efbb78d03519fda014d9",
-    "name": "Smart Radio -Smart n'Roll",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://www.smartradio.ro/radio/nroll/",
-    "favicon": "https://media.smartradio.ro/2019/10/roll.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-24T06:06:59Z"
-  },
-  {
     "id": "awb_f8511d890ae615a7da1f",
     "name": "Smart Radio -Smart on Soundtrack",
     "country": "RO",
@@ -15005,125 +13723,17 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "oldies",
       "rock"
     ],
     "tags": [
-      "70s soft rock",
-      "80s rock",
-      "classic rock",
       "classic-rock",
       "rock"
     ],
     "homepage": "https://www.softrockradio.net/",
-    "favicon": "https://www.softrockradio.net//__static/7e0109940c663c93eeb2e016930c4613/srr-sm.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_d8405061e943e476c50e",
-    "name": "Someș Radio -Bistrițai 96.6 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news",
-      "local radio",
-      "muzică populară"
-    ],
-    "homepage": "https://radiosomes.ro/",
-    "favicon": "https://radiosomes.ro/wp-content/uploads/2023/07/radio-SOMES-370x370.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-23T17:39:23Z"
-  },
-  {
-    "id": "awb_5a7742d9df316eab1d23",
-    "name": "Son Radio -Luduș 94.2 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "local radio",
-      "pop",
-      "top"
-    ],
-    "homepage": "http://www.radioson.ro/",
-    "favicon": "https://www.radioson.ro/images/banner3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-23T17:32:28Z"
-  },
-  {
-    "id": "awb_de11fd5604f323a9ef86",
-    "name": "Son Radio -Reghin 87.8 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "local radio",
-      "pop",
-      "top"
-    ],
-    "homepage": "http://www.radioson.ro/",
-    "favicon": "https://www.radioson.ro/images/banner3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-23T17:29:44Z"
-  },
-  {
-    "id": "awb_1d50587d2715ec20af0e",
-    "name": "Son Radio -Sighișoara 89.5 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "local radio",
-      "pop",
-      "top"
-    ],
-    "homepage": "http://www.radioson.ro/",
-    "favicon": "https://www.radioson.ro/images/banner3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-23T17:27:12Z"
-  },
-  {
-    "id": "awb_57bc5ce6cddc35452a56",
-    "name": "Son Radio -Sovata 89.2 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "local radio",
-      "pop",
-      "top"
-    ],
-    "homepage": "http://www.radioson.ro/",
-    "favicon": "https://www.radioson.ro/images/banner3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-23T17:24:16Z"
   },
   {
     "id": "awb_ac9ed3df208d9979e760",
@@ -15145,27 +13755,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-23T17:18:27Z"
-  },
-  {
-    "id": "awb_87a3c578f5f86166efba",
-    "name": "Son Radio -Toplița 104.3 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "local radio",
-      "pop",
-      "top"
-    ],
-    "homepage": "http://www.radioson.ro/",
-    "favicon": "https://www.radioson.ro/images/banner3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-23T17:20:51Z"
   },
   {
     "id": "awb_51de1e3570312c5fbd4d",
@@ -15253,26 +13842,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-27T16:45:17Z"
-  },
-  {
-    "id": "awb_d8ee21940acc8ce538c5",
-    "name": "Space FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits"
-    ],
-    "homepage": "https://spacefm.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:03:21Z"
   },
   {
     "id": "awb_fd10c8fa52456a661f64",
@@ -15408,28 +13977,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-23T16:16:26Z"
-  },
-  {
-    "id": "awb_d2a2e245236efcc8039a",
-    "name": "Squad Radio",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "news",
-      "pop rock"
-    ],
-    "homepage": "https://squadradio.online/",
-    "favicon": "https://squadradio.online/wp-content/uploads/2024/05/Color-logo-no-background-3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-23T16:10:32Z"
   },
   {
     "id": "awb_dd24434c092dd0cdc974",
@@ -15587,33 +14134,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_10d09724bf4ffdf0e433",
-    "name": "Star Rádió -Székelyudvarhely/Odorheiu Secuiesc 100.8 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "news",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "etnic",
-      "local news",
-      "local radio",
-      "music",
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://magyarfeny.ro/star-radio-1",
-    "favicon": "https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-1/242662222_4593027440749020_130680342671377922_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=RpYw09MnatUQ7kNvwFcFvBN&_nc_oc=Adm6bnMdJe1zfdRZNl8cgWdFVEpDQAdtyS02XDMfCnasPEW98kuZQBzL2-EVfd-NuQjRhtEiZc3r-l6Z3PFl0fO4&_nc_zt=24&_nc_ht=scontent.fotp3-3.fna&_nc_gid=881-Erwj05uAdVJ0L789OQ&oh=00_Aftwjpc42s2xViAlEK9tt3sy9P2gNY30VjFCHbDP3L0nSg&oe=69A08300",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-22T06:43:43Z"
   },
   {
     "id": "awb_d086fd0509c6262175a8",
@@ -15898,12 +14418,12 @@
     "homepage": "https://superfm.ro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_849650fe7771be683f17",
-    "name": "Super FM -Brașov 93,8 FM",
+    "name": "Super FM -Brașov 93.8 FM",
     "country": "RO",
     "subdivision": null,
     "languages": [],
@@ -15916,8 +14436,8 @@
     "homepage": "https://superfm.ro/",
     "favicon": "https://superfm.ro/static/images/logo_red.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-14T18:16:59Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-02-21T07:14:06Z"
   },
   {
     "id": "awb_e9b5b46033367bd055c8",
@@ -15998,23 +14518,6 @@
     "updatedAt": "2026-05-13T19:49:07Z"
   },
   {
-    "id": "awb_f776d304cd01054802a0",
-    "name": "Super Popular",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "petrecere",
-      "populară"
-    ],
-    "homepage": "https://zeno.fm/radio/radio-super-popular-FM/",
-    "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/zmko67Mlpve1LvFFGMl3Hct3sMlyTvgA1jBUATbN3Z8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EwN19XaXdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1E4X2VGX1FzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY2MDUxNTAwMA.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-21T07:20:14Z"
-  },
-  {
     "id": "awb_d1913bfd584eddb4782f",
     "name": "Super Radio",
     "country": "RO",
@@ -16072,7 +14575,6 @@
       "pop-music",
       "pop-rock",
       "rhythm",
-      "rhythm & blues",
       "rhythm and blues",
       "rock",
       "soul"
@@ -16080,7 +14582,7 @@
     "homepage": "https://supersonicradio.ro/",
     "favicon": "https://supersonicradio.ro/favicon.ico",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -16113,15 +14615,14 @@
     ],
     "tags": [
       "dance",
-      "deep house",
       "deephouse",
       "electronic",
       "house"
     ],
     "homepage": "https://www.supraviberadio.ro/",
-    "favicon": "https://myradioonline.ro/public/uploads/radio_img/supravibe-radio/play_250_250.jpg",
+    "favicon": "https://www.supraviberadio.rohttps//myradioonline.ro/public/uploads/radio_img/supravibe-radio/play_250_250.webp",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -16145,20 +14646,6 @@
     "updatedAt": "2026-02-21T06:36:54Z"
   },
   {
-    "id": "awb_33af3eaed2d168656de1",
-    "name": "Sweet FM Romania",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://sweetfm.ro/",
-    "favicon": "https://sweetfm.ro/wp-content/uploads/2022/09/cropped-sweetfm-e1664439016342.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_4a0a0e3649a1918a38d5",
     "name": "Sweet Vibes Radio",
     "country": "RO",
@@ -16175,29 +14662,6 @@
     "updatedAt": "2026-02-21T06:32:04Z"
   },
   {
-    "id": "awb_e7ba834be711b0023fb7",
-    "name": "Székely Rádió Gyergyói",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "etnic",
-      "local news",
-      "local radio",
-      "music"
-    ],
-    "homepage": "http://szekelyradio.top/",
-    "favicon": "http://szekelyradio.top/foto/szekely.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-21T06:23:30Z"
-  },
-  {
     "id": "awb_73f1ef31eb7c2bed4816",
     "name": "Szépvíz FM",
     "country": "RO",
@@ -16206,18 +14670,15 @@
       "hu"
     ],
     "categories": [
-      "news",
       "pop"
     ],
     "tags": [
-      "local news",
-      "top hits",
       "top-hits"
     ],
     "homepage": "https://szepvizfm.ro/",
-    "favicon": "https://onlinestream.live/logos/3266.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -16806,26 +15267,6 @@
     "updatedAt": "2026-02-15T18:24:26Z"
   },
   {
-    "id": "awb_a8e1f9e7ec88f15e235b",
-    "name": "Transilvania -statia Aleșd 95.8 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news",
-      "local radio",
-      "music"
-    ],
-    "homepage": "https://radiotransilvania.ro/localitatea/9/alesd",
-    "favicon": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-15T18:21:58Z"
-  },
-  {
     "id": "awb_58d56dcbc4034085328e",
     "name": "Transilvania -statia Baia Mare 106.1 FM",
     "country": "RO",
@@ -16864,66 +15305,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-15T18:15:02Z"
-  },
-  {
-    "id": "awb_381c081e3b6b437ad349",
-    "name": "Transilvania -statia Beiuș 88.0 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news",
-      "local radio",
-      "music"
-    ],
-    "homepage": "https://radiotransilvania.ro/",
-    "favicon": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-15T18:12:46Z"
-  },
-  {
-    "id": "awb_4a5134d178ad2550ce4e",
-    "name": "Transilvania -statia Carei 95.2 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news",
-      "local radio",
-      "music"
-    ],
-    "homepage": "https://radiotransilvania.ro/localitatea/10/carei",
-    "favicon": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-15T18:07:02Z"
-  },
-  {
-    "id": "awb_611ac86a78e04d3ead85",
-    "name": "Transilvania -statia Cluj Napoca 94.5 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news",
-      "local radio",
-      "music"
-    ],
-    "homepage": "https://radiotransilvania.ro/localitatea/3/cluj-napoca",
-    "favicon": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-15T18:04:57Z"
   },
   {
     "id": "awb_802ca59595790f950e21",
@@ -16971,18 +15352,14 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "news"
-    ],
+    "categories": [],
     "tags": [
-      "local news",
-      "local radio",
       "music"
     ],
     "homepage": "https://radiotransilvania.ro/",
-    "favicon": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -17006,26 +15383,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_2865daa78ca407e96581",
-    "name": "Transilvania -statia Turda 89.9 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local",
-      "local news",
-      "music"
-    ],
-    "homepage": "https://radiotransilvania.ro/helyseg/11/turda",
-    "favicon": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-15T17:51:25Z"
-  },
-  {
     "id": "awb_3e65eabbb8f550066d03",
     "name": "Transilvania -statia Zalău 94.6 FM",
     "country": "RO",
@@ -17046,26 +15403,6 @@
     "updatedAt": "2026-02-15T17:49:00Z"
   },
   {
-    "id": "awb_7dfc8448028a729e577e",
-    "name": "Transilvania statia Bistrița 94.1 FM",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news",
-      "local radio",
-      "music"
-    ],
-    "homepage": "https://radiotransilvania.ro/localitatea/12/beclean",
-    "favicon": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-15T18:10:30Z"
-  },
-  {
     "id": "awb_45f772e652da0b79e11e",
     "name": "Transylvania -Hits",
     "country": "RO",
@@ -17079,16 +15416,14 @@
       "dance",
       "hits",
       "pop",
-      "r'n'b",
       "rnb",
       "rock",
-      "top 40",
       "top-40"
     ],
     "homepage": "https://transylvaniahits.eu/",
     "favicon": "https://transylvaniahits.eu/wp-content/uploads/2018/05/hitsyL.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -17150,28 +15485,6 @@
     "updatedAt": "2026-02-15T17:33:27Z"
   },
   {
-    "id": "awb_a145d4fd87a78c53e7a6",
-    "name": "Trib Radio",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "classic rock",
-      "pop rock",
-      "rock"
-    ],
-    "homepage": "https://www.radiotrib.ro/",
-    "favicon": "https://www.radiotrib.ro/Files/Images/Layer_3%20(2).svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-15T17:27:22Z"
-  },
-  {
     "id": "awb_8f096c38214c59971d57",
     "name": "Trinitas Radio (București 88.5 FM)",
     "country": "RO",
@@ -17191,7 +15504,7 @@
   },
   {
     "id": "awb_8c58d1b71fc265acb0b8",
-    "name": "UBB Radio -Universitatea Babeș Bolyai Cluj Napoca",
+    "name": "UBB Radio (Universitatea Babeș Bolyai) -Cluj Napoca",
     "country": "RO",
     "subdivision": null,
     "languages": [],
@@ -17210,7 +15523,7 @@
     "homepage": "https://radio.ubbcluj.ro/",
     "favicon": "https://radio.ubbcluj.ro/wp-content/uploads/2025/11/iconita-site-scaled.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-05-21T10:04:40Z"
   },
   {
@@ -17585,26 +15898,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_ff88ed06ab8ad62f07f0",
-    "name": "Virgin Radio România",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "contemporary hits",
-      "pop",
-      "top40"
-    ],
-    "homepage": "https://virginradio.ro/",
-    "favicon": "https://virginradio.ro/wp-content/themes/virgin_v3/img/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-08T09:06:59Z"
-  },
-  {
     "id": "awb_34401456642f0db92ff5",
     "name": "Virgin Radio România -București 100,2 FM",
     "country": "RO",
@@ -17860,23 +16153,6 @@
     "updatedAt": "2026-02-07T11:37:29Z"
   },
   {
-    "id": "awb_eb7cafc4b7a26fa19160",
-    "name": "Vocea Creștinilor",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "crestin",
-      "religios"
-    ],
-    "homepage": "https://radio.voceacrestinilor.com/",
-    "favicon": "https://radio.voceacrestinilor.com/wp-content/uploads/2023/01/Asset-19rvc.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-07T11:32:15Z"
-  },
-  {
     "id": "awb_7747e64797415e4bbc94",
     "name": "Vocea Speranței",
     "country": "RO",
@@ -17894,47 +16170,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-07T11:24:24Z"
-  },
-  {
-    "id": "awb_b2f4a31845259d6eb448",
-    "name": "Vocea Speranței -lb. maghiara",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [],
-    "tags": [
-      "crestin",
-      "etnic",
-      "religios"
-    ],
-    "homepage": "https://rvs.ro/",
-    "favicon": "https://cdn-profiles.tunein.com/s287269/images/logog.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-07T11:27:44Z"
-  },
-  {
-    "id": "awb_aefbd141e210d0bbbd4a",
-    "name": "Voces Campi -Călărași",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "manele",
-      "pop",
-      "romanian pop"
-    ],
-    "homepage": "https://radiovocescampi.ro/",
-    "favicon": "https://radiovocescampi.ro/wp-content/uploads/2021/12/LOGO-DESK.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-07T11:13:16Z"
   },
   {
     "id": "awb_bbdc7b5f7b62e4e9bdac",
@@ -17983,23 +16218,13 @@
     "country": "RO",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "hip-hop",
-      "jazz"
-    ],
-    "tags": [
-      "disco",
-      "dj mix",
-      "funk",
-      "hiphop",
-      "jazz",
-      "soul"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.vrtw.life/",
     "favicon": "https://www.vrtw.life/wp-content/themes/storefront-child/assets/images/footer_logo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-02-07T11:00:43Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-02-07T10:57:20Z"
   },
   {
     "id": "awb_f8371b9e1d1e2ceaaa92",
@@ -18119,27 +16344,6 @@
     "updatedAt": "2026-05-21T10:46:13Z"
   },
   {
-    "id": "awb_d3c859418cd37fefaeea",
-    "name": "X Radio",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "club dance electronic house trance",
-      "dance"
-    ],
-    "homepage": "https://zeno.fm/radio/x-radio1s1ec4zkbm0uv/",
-    "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/5bAt03ATQCdVDRE-uOylsPblLO_bNzyYbh5BrOAaIoo/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFEydFhzdUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFxZldsdXdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTI4OTYxMjAwMA.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-24T09:33:00Z"
-  },
-  {
     "id": "awb_8a8a4dcfe2e50ee4ab8f",
     "name": "X Radio -Oradea",
     "country": "RO",
@@ -18206,24 +16410,6 @@
     "updatedAt": "2026-02-07T10:26:46Z"
   },
   {
-    "id": "awb_b8e72d4ede33043849ff",
-    "name": "Xtream Romania",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "club",
-      "dance",
-      "manele"
-    ],
-    "homepage": "https://radioxtream.com/",
-    "favicon": "https://radioxtream.com/wp-content/uploads/2024/11/dadada.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-07T10:17:05Z"
-  },
-  {
     "id": "awb_d725beb2e796a026a843",
     "name": "YOU FM România",
     "country": "RO",
@@ -18246,24 +16432,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-07T10:10:41Z"
-  },
-  {
-    "id": "awb_120d37af330193657b43",
-    "name": "ZC Radio (Ziua de Cluj)",
-    "country": "RO",
-    "subdivision": "Cluj",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "local",
-      "muzica",
-      "stiri"
-    ],
-    "homepage": "https://zcj.ro/radio.html",
-    "favicon": "https://zcj.ro/images/ziuadecluj.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-02-07T10:03:08Z"
   },
   {
     "id": "awb_c15a822d8c39c667dd89",

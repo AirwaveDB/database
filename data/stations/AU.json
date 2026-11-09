@@ -1,43 +1,5 @@
 [
   {
-    "id": "awb_7580fb7c36cddd9a8a3f",
-    "name": "=KECO=70s ROCK",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "oldies",
-      "rock"
-    ],
-    "tags": [
-      "70s rock"
-    ],
-    "homepage": "http://jfm1.hostingradio.ru:14536/rock70.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_ff73921d29c34d5a25d5",
-    "name": "=KECO=ROCK BALLADS",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "oldies",
-      "rock"
-    ],
-    "tags": [
-      "70s rock ballads"
-    ],
-    "homepage": "http://online.radioroks.ua/RadioROKS_Ballads_HD",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_83c1fdd55b79a3e55c1e",
     "name": "1",
     "country": "AU",
@@ -259,9 +221,9 @@
       "talk"
     ],
     "homepage": "https://territoryfm.com/",
-    "favicon": "https://territoryfm.com/wp-content/uploads/2024/10/cropped-tfm-nickname-navi-blue-180x180.png",
+    "favicon": "https://territoryfm.com/wp-content/uploads/2018/09/TFM-DGH-rectangle-2018.jpg",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -665,22 +627,6 @@
     "updatedAt": "2026-01-15T01:46:18Z"
   },
   {
-    "id": "awb_567cc2e58e9b7cd07eff",
-    "name": "2CA - 1053 AM",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "decades"
-    ],
-    "homepage": "https://2ca.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_db44be9ed1b12ca1b716",
     "name": "2CA - Canberra - 1053 AM (AAC)",
     "country": "AU",
@@ -771,27 +717,6 @@
     "updatedAt": "2026-01-15T07:25:32Z"
   },
   {
-    "id": "awb_869ff8ff1d7117a1cbcc",
-    "name": "2CC - 1206 AM",
-    "country": "AU",
-    "subdivision": "Canberra ACT",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news talk"
-    ],
-    "homepage": "https://www.2cc.net.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:46:57Z"
-  },
-  {
     "id": "awb_66f0bce155d16c7180b4",
     "name": "2CC - Canberra - 1206 AM (AAC)",
     "country": "AU",
@@ -876,7 +801,7 @@
     "homepage": "https://www.2chr.org/",
     "favicon": "https://i.iheart.com/v3/re/assets.streams/6506a91eb05bc240e3aae2d0",
     "type": "community",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:24:21Z"
   },
   {
@@ -1039,18 +964,12 @@
     "country": "AU",
     "subdivision": "New South Wales",
     "languages": [],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community",
-      "eclectic",
-      "sydney"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "http://fbiradio.com/",
-    "favicon": "http://fbiradio.com/favicon/apple-touch-icon.png",
-    "type": "community",
-    "sourceCount": 2,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1072,8 +991,8 @@
     "homepage": "https://www.2gb.com/",
     "favicon": "https://www.2gb.com/wp-content/uploads/sites/2/2023/01/2GB-1.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:35:25Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:49:40Z"
   },
   {
     "id": "awb_fc9bde80e1137d2f8dea",
@@ -1101,22 +1020,6 @@
     "updatedAt": "2026-01-15T04:42:03Z"
   },
   {
-    "id": "awb_5e1f47f6e5d289183529",
-    "name": "2GB Sydney",
-    "country": "AU",
-    "subdivision": "NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.2gb.com/",
-    "favicon": "https://www.2gb.com/wp-content/themes/2gb/assets/img/favicon/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:07:34Z"
-  },
-  {
     "id": "awb_1fd427cc0e6dc680bf5f",
     "name": "2GHR Greater Hume Radio",
     "country": "AU",
@@ -1127,7 +1030,7 @@
     "homepage": "https://2ghr.org.au/",
     "favicon": "http://2ghr.org.au/wp-content/uploads/2022/12/2ghr-transparent-website.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-03-18T13:43:23Z"
   },
   {
@@ -1452,20 +1355,6 @@
     "updatedAt": "2026-06-28T08:02:03Z"
   },
   {
-    "id": "awb_a32642e8e19feba4ce29",
-    "name": "2ME Radio Arabic",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radio-australia.org/2me-radio-arabic",
-    "favicon": "https://www.radio-australia.org/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_add655c23db398c23940",
     "name": "2MFM",
     "country": "AU",
@@ -1560,27 +1449,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:42:51Z"
-  },
-  {
-    "id": "awb_8f152b3018d204f45909",
-    "name": "2MNO Monaro FM - Cooma - 90.5 FM",
-    "country": "AU",
-    "subdivision": "Cooma NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "music"
-    ],
-    "homepage": "http://www.2mno.org.au/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:43:25Z"
   },
   {
     "id": "awb_561d865db872c0807291",
@@ -1767,8 +1635,8 @@
     "homepage": "https://www.2rrr.org.au/",
     "favicon": "https://www.2rrr.org.au//wp-content/uploads/2021/08/2RRR-Icon-Logo-1158-x-623.png",
     "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:59:16Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:48:31Z"
   },
   {
     "id": "awb_56ae6d13b1c5c1b9e6dc",
@@ -1785,9 +1653,9 @@
       "community radio"
     ],
     "homepage": "https://www.2rrr.org.au/",
-    "favicon": "https://www.2rrr.org.au//wp-content/uploads/2021/08/2RRR-Icon-Logo-1158-x-623.png",
+    "favicon": null,
     "type": "community",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:00:57Z"
   },
   {
@@ -1905,20 +1773,12 @@
     "languages": [
       "en"
     ],
-    "categories": [
-      "news",
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "news talk",
-      "sport",
-      "talkback"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://2sm.com.au/",
-    "favicon": "https://2sm.com.au/public-static/favicons/2sm.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1959,20 +1819,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:37:16Z"
-  },
-  {
-    "id": "awb_c7c1c6b84e195ec32781",
-    "name": "2SSR-FM",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.2ssr.com.au/",
-    "favicon": "https://www.2ssr.com.au//wp-content/uploads/2024/04/2ssrlogo-noicon-79c94c601d15.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_24676180abef05f85901",
@@ -2027,60 +1873,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:39:08Z"
-  },
-  {
-    "id": "awb_3dd8e681af85d65e3d21",
-    "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary"
-    ],
-    "homepage": null,
-    "favicon": "https://i.ibb.co/9nM3Vnx/61ea4e2cad655b10105ec3a1.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-20T14:12:48Z"
-  },
-  {
-    "id": "awb_5399b6c6b550e20c0012",
-    "name": "2ST - Southern Highlands - 102.9 FM (MP3)",
-    "country": "AU",
-    "subdivision": "Bowral NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary"
-    ],
-    "homepage": "https://www.2st.com.au/",
-    "favicon": "https://i.ibb.co/9nM3Vnx/61ea4e2cad655b10105ec3a1.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:44:13Z"
-  },
-  {
-    "id": "awb_252609d4411da23de418",
-    "name": "2ST - Southern Highlands - 91.7 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Bowral NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary"
-    ],
-    "homepage": "https://www.2st.com.au/",
-    "favicon": "https://i.ibb.co/9nM3Vnx/61ea4e2cad655b10105ec3a1.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:26:25Z"
   },
   {
     "id": "awb_899a3c954d7af92457b3",
@@ -2258,26 +2050,6 @@
     "updatedAt": "2026-01-15T05:18:50Z"
   },
   {
-    "id": "awb_951dc1d124b0caf0e0d0",
-    "name": "2XXfm 98.3 - Canberra's Oldest Community Radio Station",
-    "country": "AU",
-    "subdivision": "ACT",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio"
-    ],
-    "homepage": "https://www.2xxfm.org.au/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:34:47Z"
-  },
-  {
     "id": "awb_f2040185871311f8d630",
     "name": "2YYY - Young - 92.3 FM (MP3)",
     "country": "AU",
@@ -2336,9 +2108,9 @@
       "talk radio"
     ],
     "homepage": "https://www.3aw.com.au/",
-    "favicon": "https://www.3aw.com.au/wp-content/themes/3aw/assets/img/favicon/apple-touch-icon.png",
+    "favicon": "https://www.3aw.com.au/wp-content/uploads/sites/12/2023/01/3AW-2.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T08:24:53Z"
   },
   {
@@ -2843,25 +2615,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_f0495e0c5eac8d7e276c",
-    "name": "4CA - Cairns - 846 AM (AAC+)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "commercial"
-    ],
-    "homepage": "https://www.4ca.com.au/",
-    "favicon": "https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/cropped-nql_cns_4ca-512x512-favicon.png?w=180",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:09:17Z"
-  },
-  {
     "id": "awb_b7dfb593b184f21c3dd5",
     "name": "4CA - Cairns - 846 AM (MP3)",
     "country": "AU",
@@ -2914,25 +2667,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_07f71ea7bec6c274eacf",
-    "name": "4CC - Gladstone - 927 AM (AAC+)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "commercial"
-    ],
-    "homepage": "https://www.4cc.com.au/",
-    "favicon": "https://i.ibb.co/80zXXG0/61ea525bdcdc455f530c041f.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:31:29Z"
   },
   {
     "id": "awb_692c5d00376f9021a611",
@@ -3122,27 +2856,6 @@
     "updatedAt": "2026-01-15T06:46:22Z"
   },
   {
-    "id": "awb_f104177457776f4be8db",
-    "name": "4MK 1026 AM Mackay",
-    "country": "AU",
-    "subdivision": "Mackay",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "mackay",
-      "oldies"
-    ],
-    "homepage": "https://www.4mk.com.au/",
-    "favicon": "https://www.4mk.com.au/wp-content/uploads/sites/16/2022/10/cropped-nql_mac-_4mk_512x512-favicon-1.png?w=180",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:39:23Z"
-  },
-  {
     "id": "awb_4b2a105ead6956f11c2f",
     "name": "4OUR 101.5 fm",
     "country": "AU",
@@ -3225,30 +2938,6 @@
     "updatedAt": "2026-01-14T23:52:39Z"
   },
   {
-    "id": "awb_fe3c116b6cbba2b03f96",
-    "name": "4RO 990 AM Rockhampton",
-    "country": "AU",
-    "subdivision": "Rockhampton",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "music",
-      "news",
-      "rockhampton",
-      "talk"
-    ],
-    "homepage": "http://www.4ro.com.au/",
-    "favicon": "https://www.4ro.com.au/wp-content/uploads/sites/26/2022/10/cropped-sql_roc_4ro-favicon_4yellow.png?w=180",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:31:41Z"
-  },
-  {
     "id": "awb_a403a73b59bf21ed6583",
     "name": "4RPH Reading Radio",
     "country": "AU",
@@ -3268,69 +2957,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_795a7eaff39122e75a50",
-    "name": "4RR - Charleville - 105.7 FM (HD) (MP3)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "indigenous"
-    ],
-    "homepage": "https://4rr.com.au/",
-    "favicon": "https://i.ibb.co/d0fLrksP/326724294-962903024680148-1140204358502626843-n.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:07:55Z"
-  },
-  {
-    "id": "awb_598d4f4543c337592f0a",
-    "name": "4RR - Charleville - 105.7 FM (Mobile) (MP3)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "indigenous"
-    ],
-    "homepage": "https://4rr.com.au/",
-    "favicon": "https://i.ibb.co/d0fLrksP/326724294-962903024680148-1140204358502626843-n.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:42:04Z"
-  },
-  {
-    "id": "awb_2aa11134a20a632e8884",
-    "name": "4RR - Charleville - 105.7 FM (SD) (MP3)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "indigenous"
-    ],
-    "homepage": "https://4rr.com.au/",
-    "favicon": "https://i.ibb.co/d0fLrksP/326724294-962903024680148-1140204358502626843-n.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:47:11Z"
   },
   {
     "id": "awb_615dcd69d9678d2c71ef",
@@ -3420,28 +3046,6 @@
     "updatedAt": "2026-01-15T06:32:26Z"
   },
   {
-    "id": "awb_733ad67ac174536daabe",
-    "name": "4RR FM - Charleville - 105.7 FM (Transmission) (MP3)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "indigenous",
-      "local"
-    ],
-    "homepage": "https://4rr.com.au/",
-    "favicon": "https://i.ibb.co/d0fLrksP/326724294-962903024680148-1140204358502626843-n.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:36:09Z"
-  },
-  {
     "id": "awb_1f5743fa4b570b36b78d",
     "name": "4TTT-FM 103.9MHz Community Radio Townsville",
     "country": "AU",
@@ -3504,14 +3108,11 @@
     "subdivision": "Queensland Brisbane",
     "languages": [],
     "categories": [],
-    "tags": [
-      "brisbane",
-      "independent"
-    ],
+    "tags": [],
     "homepage": "https://4zzz.org.au/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3536,20 +3137,6 @@
     "updatedAt": "2026-01-14T23:28:26Z"
   },
   {
-    "id": "awb_620c85c34acc32e69fc9",
-    "name": "4ZZZ Community Radio",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://4zzz.org.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_97681f5c84d9de1c7750",
     "name": "4ZZZ Digital",
     "country": "AU",
@@ -3566,24 +3153,6 @@
     "type": "community",
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_87bfd1c0fcc76a1c0507",
-    "name": "4ZZZ FM",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community politics music radical brisbane"
-    ],
-    "homepage": "https://4zzz.org.au/",
-    "favicon": "https://4zzz.org.au/favicon.ico",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_ec58754cf6b1071ebe0f",
@@ -3673,16 +3242,14 @@
       "jazz"
     ],
     "tags": [
-      "adelaide",
       "blues",
       "classical",
-      "jazz",
-      "world music"
+      "jazz"
     ],
     "homepage": "https://5mbs.com/",
-    "favicon": "https://5mbs.com/wp-content/uploads/cropped-5mbs-siteicon-180x180.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3904,9 +3471,9 @@
       "hits 70's"
     ],
     "homepage": "http://www.70sclassics.com.au/",
-    "favicon": "https://i.ibb.co/0J4rWYj/image.webp",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T04:44:38Z"
   },
   {
@@ -4069,28 +3636,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:31:56Z"
-  },
-  {
-    "id": "awb_57d43f2dab59c7d51a96",
-    "name": "7HOFM - Hobart - 101.7 FM (MP3)",
-    "country": "AU",
-    "subdivision": "Hobart TAS",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "adult contemporary",
-      "local programming",
-      "news"
-    ],
-    "homepage": "https://www.7hofm.com.au/",
-    "favicon": "https://i.ibb.co/VT5FPnD/61ea5b74dcdc455f530c0451.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:26:33Z"
   },
   {
     "id": "awb_840a636753e1018be5aa",
@@ -4380,7 +3925,7 @@
     "homepage": "https://happyfm.org.au/",
     "favicon": "https://happyfm.org.au/webimages/happyfm_loop1.gif",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4410,33 +3955,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:10:11Z"
-  },
-  {
-    "id": "awb_116c4d9b7b1ab683f0ae",
-    "name": "90.1 NBC FM - Narwee - 90.1 FM (MP3)",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "ar",
-      "cmn",
-      "el",
-      "en",
-      "es",
-      "mk",
-      "ne",
-      "yue"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio"
-    ],
-    "homepage": "https://www.901nbcfm.com.au/",
-    "favicon": "https://i.ibb.co/L683p7B/147954-d2e590e6ccda4d25a7213e2565ed7274-mv2.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:53:54Z"
   },
   {
     "id": "awb_2547ac11ddfd5dfbcbf0",
@@ -4582,13 +4100,12 @@
       "pop"
     ],
     "tags": [
-      "decades",
       "pop"
     ],
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4767,22 +4284,6 @@
     "updatedAt": "2026-01-15T07:23:17Z"
   },
   {
-    "id": "awb_81e29c4c97d0de23f69f",
-    "name": "96.7 2HGR Hume Radio",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.2ghr.org.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-15T04:07:22Z"
-  },
-  {
     "id": "awb_8057b982c0c617c63173",
     "name": "96five Brisbane",
     "country": "AU",
@@ -4859,7 +4360,7 @@
     "homepage": "https://www.96fm.com.au/",
     "favicon": "https://i.iheart.com/v3/re/new_assets/604ac622c7c4d49969798402",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-09T13:12:19Z"
   },
   {
@@ -5099,20 +4600,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_6d977ee25e95160f4ec4",
-    "name": "A.i.R - Hip Hop, Rap, Trap & Grime",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.autismo.biz/",
-    "favicon": "https://imgur.com/r1pRGrz",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-06T15:49:03Z"
-  },
-  {
     "id": "awb_ab0ef8dd2ca134833058",
     "name": "A.i.R Station",
     "country": "AU",
@@ -5145,7 +4632,7 @@
     "homepage": "https://radio.autismo.biz/",
     "favicon": "https://imgur.com/r1pRGrz",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-08T17:33:12Z"
   },
   {
@@ -6141,7 +5628,7 @@
     "id": "awb_bf3154b7a98c5365b051",
     "name": "ABC News Radio",
     "country": "AU",
-    "subdivision": "NSW",
+    "subdivision": null,
     "languages": [
       "en"
     ],
@@ -6151,10 +5638,10 @@
     "tags": [
       "news"
     ],
-    "homepage": "http://www.abc.net.au/newsradio/",
-    "favicon": "http://www.abc.net.au/favicon.ico",
+    "homepage": "https://www.abc.net.au/news/newsradio/",
+    "favicon": "https://www.abc.net.au/favicon.ico",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-01-31T03:44:47Z"
   },
   {
@@ -6197,30 +5684,6 @@
     "type": "public",
     "sourceCount": 2,
     "updatedAt": "2026-09-04T22:42:30Z"
-  },
-  {
-    "id": "awb_5c8ca26e7955760d5b04",
-    "name": "ABC NewsRadio MP3",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "public"
-    ],
-    "tags": [
-      "abc",
-      "news",
-      "newsradio",
-      "public radio"
-    ],
-    "homepage": "http://www.abc.net.au/newsradio/",
-    "favicon": "http://www.abc.net.au/favicon.ico",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:09:17Z"
   },
   {
     "id": "awb_1b09c582d330127dd6b3",
@@ -6302,28 +5765,6 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-10-12T04:49:33Z"
-  },
-  {
-    "id": "awb_2b033bf0751494302394",
-    "name": "ABC Radio Australia",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": "https://www.abc.net.au/pacific/live",
-    "favicon": "https://live-production.wcms.abc-cdn.net.au/34bb5853530db865de5b5ed93c44bc54",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:34:36Z"
   },
   {
     "id": "awb_983208754a31e205b9bb",
@@ -6425,28 +5866,6 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-10-05T04:39:03Z"
-  },
-  {
-    "id": "awb_44411bef172bfb7772a9",
-    "name": "ABC Radio Brisbane",
-    "country": "AU",
-    "subdivision": "Brisbane QLD",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": "https://www.abc.net.au/listen/live/brisbane",
-    "favicon": "https://live-production.wcms.abc-cdn.net.au/fc5ae87ade62a487a10a0f8bd47a1e47",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:47:10Z"
   },
   {
     "id": "awb_3cc6068bd2c9c3a13dea",
@@ -6915,8 +6334,8 @@
     "homepage": "https://www.abc.net.au/hobart",
     "favicon": "https://www.abc.net.au/core-assets/local/favicon-32x32.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:10Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_f251bf46708e37790d40",
@@ -7337,27 +6756,6 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:50:50Z"
-  },
-  {
-    "id": "awb_b60922f5138d66872e8d",
-    "name": "ABC Radio National Live 20220701",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "current affairs",
-      "news"
-    ],
-    "homepage": "https://www.abc.net.au/radionational/live/",
-    "favicon": "https://www.abc.net.au/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:28:14Z"
   },
   {
     "id": "awb_40766f0b95804acb5127",
@@ -7980,28 +7378,6 @@
     "updatedAt": "2026-10-05T01:45:38Z"
   },
   {
-    "id": "awb_dda482b7976aeb1e72a0",
-    "name": "ABC Radio Sydney",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": "https://www.abc.net.au/listen/live/sydney",
-    "favicon": "https://live-production.wcms.abc-cdn.net.au/7ee8a275df331791ce3b86c17aef1d50",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:08:58Z"
-  },
-  {
     "id": "awb_ad629396f9a3ef842cb2",
     "name": "ABC Radio Tropical North",
     "country": "AU",
@@ -8533,8 +7909,8 @@
     "homepage": "http://www.acbc.com.au/",
     "favicon": "https://i.ibb.co/vVwxmSK/image.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:34:00Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:33:37Z"
   },
   {
     "id": "awb_9179b8572f78453f0072",
@@ -8551,7 +7927,7 @@
     "homepage": "http://www.acbc.com.au/",
     "favicon": "https://i.ibb.co/X4q1Djk/image.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T00:18:06Z"
   },
   {
@@ -8601,8 +7977,8 @@
     "homepage": "http://albayan.com.au/",
     "favicon": "http://albayan.com.au/wp-content/uploads/2022/04/ablogo-cropped-sized-border-thin.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_6b8f4e6e7f169e9caaa1",
@@ -8639,10 +8015,10 @@
       "community radio"
     ],
     "homepage": "https://www.alive905.com.au/",
-    "favicon": "https://i.ibb.co/4PgsKd1/CCR-Headerlogo2022-1.jpg",
+    "favicon": null,
     "type": "community",
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T06:53:43Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:45:24Z"
   },
   {
     "id": "awb_ceafe1ce2d9b1042f858",
@@ -8661,8 +8037,8 @@
     "homepage": "https://www.alive905.com.au/",
     "favicon": "https://i.ibb.co/h8Rb6Xm/63088f8af5383f407d593927.webp",
     "type": "community",
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T06:14:42Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:13:28Z"
   },
   {
     "id": "awb_ceb07364d7c5dd20988a",
@@ -8712,8 +8088,8 @@
     "homepage": "http://www.alltimehits.com.au/",
     "favicon": "https://i.ibb.co/bg467fW/image.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:45:08Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T02:27:53Z"
   },
   {
     "id": "awb_d7d2e94e34c7d0ea25a1",
@@ -8776,24 +8152,6 @@
     "updatedAt": "2026-01-14T23:29:44Z"
   },
   {
-    "id": "awb_fee21b2964021516ff49",
-    "name": "All Time Hits Radio Party - Melbourne (MP3)",
-    "country": "AU",
-    "subdivision": "Melbourne VIC",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "http://www.alltimehits.com.au/",
-    "favicon": "https://i.ibb.co/bg467fW/image.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:41:36Z"
-  },
-  {
     "id": "awb_7509270ef59ea424b422",
     "name": "All Time Hits Radio Worship - Melbourne (MP3)",
     "country": "AU",
@@ -8808,8 +8166,8 @@
     "homepage": "http://www.alltimeradio.com.au/",
     "favicon": "https://i.ibb.co/hBQspYf/image.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T05:21:40Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:00:36Z"
   },
   {
     "id": "awb_a99aba1e6b4523d2b3a0",
@@ -8882,20 +8240,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_6b8d11602039a149aac6",
-    "name": "Anthony Borghesi",
-    "country": "AU",
-    "subdivision": "Tasmania",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.abc.net.au/hobart",
-    "favicon": "https://www.abc.net.au/core-assets/pacific/favicon-32x32.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_9bdce481e0ad40a04845",
     "name": "Apple - Bacchus Marsh - 98.5 FM (MP3)",
     "country": "AU",
@@ -8915,26 +8259,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:32:55Z"
-  },
-  {
-    "id": "awb_b9b7f5007e85f0a9da61",
-    "name": "Apple 98.5 FM Bacchus Marsh",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community"
-    ],
-    "homepage": "https://apple985fm.com.au/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:21:23Z"
   },
   {
     "id": "awb_aeced7f0601d384ee0b8",
@@ -9021,7 +8345,7 @@
     "id": "awb_3728562eb6c6c9eff490",
     "name": "ASP Radio",
     "country": "AU",
-    "subdivision": "Victoria",
+    "subdivision": null,
     "languages": [
       "en"
     ],
@@ -9034,8 +8358,8 @@
     "homepage": "https://aspradio.au/public/asp_radio",
     "favicon": "https://aspradio.au/static/uploads/browser_icon/original.1709873524.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-11-06T22:30:48Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-06T20:22:03Z"
   },
   {
     "id": "awb_a1ad733d531b36b1afea",
@@ -9070,7 +8394,7 @@
     "homepage": "http://www.astronfm.com.au/",
     "favicon": "https://i.ibb.co/3dRHFG5/image.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:26:25Z"
   },
   {
@@ -10992,26 +10316,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:42:27Z"
-  },
-  {
-    "id": "awb_3dc67a624d7e1a4f90d8",
-    "name": "Australian Digital Radio Network - Country (MP3)",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country"
-    ],
-    "homepage": "http://www.australiandigitalradio.com/",
-    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:17:31Z"
   },
   {
     "id": "awb_eba1708a2cbcb3678146",
@@ -13797,24 +13101,6 @@
     "updatedAt": "2026-01-15T01:32:14Z"
   },
   {
-    "id": "awb_1abe2a69edd0d0def257",
-    "name": "Australian Digital Radio Network - Old Time Radio Channel 1 - Crime, Detective (MP3)",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "old time radio"
-    ],
-    "homepage": "http://www.australiandigitalradio.com/",
-    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:52:11Z"
-  },
-  {
     "id": "awb_a0c3b0c49ca8a398fce3",
     "name": "Australian Digital Radio Network - Old Time Radio Channel 2 - Drama, Thriller (MP3)",
     "country": "AU",
@@ -13831,24 +13117,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:34:47Z"
-  },
-  {
-    "id": "awb_461e070e743e325e9bc1",
-    "name": "Australian Digital Radio Network - Old Time Radio Channel 3 - Non Fiction, Comedy, Western, History (MP3)",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "old time radio"
-    ],
-    "homepage": "http://www.australiandigitalradio.com/",
-    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:08:30Z"
   },
   {
     "id": "awb_4e40d9c1e91d2eb30a8a",
@@ -13885,27 +13153,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:34:02Z"
-  },
-  {
-    "id": "awb_736e80faec21a1fa59fb",
-    "name": "Australian Digital Radio Network - Only Mozart (MP3)",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical",
-      "mozart"
-    ],
-    "homepage": "http://www.australiandigitalradio.com/",
-    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:22:41Z"
   },
   {
     "id": "awb_e40ba85ddda8dda8c1d1",
@@ -13947,25 +13194,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:07:59Z"
-  },
-  {
-    "id": "awb_11cd1bab82af984bd40a",
-    "name": "Australian Digital Radio Network - Party Mix 1 (MP3)",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "mix",
-      "party"
-    ],
-    "homepage": "http://www.australiandigitalradio.com/",
-    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:02:06Z"
   },
   {
     "id": "awb_18242cc1b8a690233208",
@@ -14043,26 +13271,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:38:30Z"
-  },
-  {
-    "id": "awb_1c890ee93a19007032a6",
-    "name": "Australian Digital Radio Network - Pop (MP3)",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "http://www.australiandigitalradio.com/",
-    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:12:44Z"
   },
   {
     "id": "awb_5ace63fa2c20bcd653b5",
@@ -14421,26 +13629,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-30T04:30:31Z"
-  },
-  {
-    "id": "awb_a23ee564e943b6e90757",
-    "name": "Australian Digital Radio Network - Pop Master Mix (MP3)",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "http://www.australiandigitalradio.com/",
-    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:15:22Z"
   },
   {
     "id": "awb_1c673b9de396fb82d05f",
@@ -16836,22 +16024,6 @@
     "updatedAt": "2026-01-15T01:18:42Z"
   },
   {
-    "id": "awb_c0b3fc6509a43dee63a5",
-    "name": "Chilli FM",
-    "country": "AU",
-    "subdivision": "Tasmania",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.chillifm.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:24:33Z"
-  },
-  {
     "id": "awb_3d7cf3079a11d6ebd88b",
     "name": "Chilli FM - Launceston - 90.1 FM (AAC)",
     "country": "AU",
@@ -17012,26 +16184,6 @@
     "updatedAt": "2026-01-14T23:17:40Z"
   },
   {
-    "id": "awb_b4030d9197ed019f4502",
-    "name": "Classic Radio NSW - 1900s to 1950s",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "advertising",
-      "music",
-      "radio drama"
-    ],
-    "homepage": "http://www.classicradionsw.com.au/",
-    "favicon": "https://i.ibb.co/sy6S99B/image.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:09:17Z"
-  },
-  {
     "id": "awb_b7f011df084be2bf0682",
     "name": "Classic Radio NSW - 1900s to 1950s (MP3)",
     "country": "AU",
@@ -17050,24 +16202,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:49:40Z"
-  },
-  {
-    "id": "awb_1524d00c61934dbf0dd9",
-    "name": "Classic Radio NSW (MP3)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "classics"
-    ],
-    "homepage": "http://www.classicradionsw.com.au/",
-    "favicon": "https://i.ibb.co/12XPCJV/image-1.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:58:28Z"
   },
   {
     "id": "awb_983ab6ac76e10a95215e",
@@ -17134,24 +16268,10 @@
       "multicultural"
     ],
     "homepage": "https://www.cmsradio.org.au/",
-    "favicon": "https://www.cmsradio.org.au/favicon.ico",
-    "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T08:05:50Z"
-  },
-  {
-    "id": "awb_e87fd7a8a000a14a5137",
-    "name": "CMS RADIO",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.cmsradio.org.au/",
-    "favicon": "https://www.cmsradio.org.au/assets/src/img/images/logo.png",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
+    "updatedAt": "2026-01-15T06:37:46Z"
   },
   {
     "id": "awb_c3745e119bf342e3a149",
@@ -17278,26 +16398,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:50:37Z"
-  },
-  {
-    "id": "awb_0de5aee8f2de52c7cdc2",
-    "name": "Coast FM Adelaide - 88.7 FM",
-    "country": "AU",
-    "subdivision": "South Australia",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://adelaidescoastfm.com.au/",
-    "favicon": "https://adelaidescoastfm.com.au/wp-content/uploads/2025/08/coast-fm-sun-logo.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-13T08:52:51Z"
   },
   {
     "id": "awb_57e9f0c908e757799882",
@@ -17905,8 +17005,8 @@
     "homepage": "https://www.dcfm889.com.au/",
     "favicon": "https://i.ibb.co/RYJCbJ0/b6c027-5de3ee3803694887990d5f6ca7227dd2-mv2.jpg",
     "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:06:32Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:25:41Z"
   },
   {
     "id": "awb_5c45a7d116671ea0520e",
@@ -18002,30 +17102,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_5b1b99d79695b383b331",
-    "name": "DooshFM",
-    "country": "AU",
-    "subdivision": "NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "dance",
-      "electronic",
-      "house",
-      "lo-fi",
-      "nudisco"
-    ],
-    "homepage": "https://doshfm.online/",
-    "favicon": "https://dooshfm.online/wp-content/uploads/2024/02/DooshFM-Round-Frontpage.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:26:15Z"
-  },
-  {
     "id": "awb_e7132244903268c4013a",
     "name": "Double J",
     "country": "AU",
@@ -18106,22 +17182,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:24:51Z"
-  },
-  {
-    "id": "awb_d4fc1b152a4cd1ecb7f8",
-    "name": "drama, thriller Australian Digital Radio Network Old Time Radio Channel 2",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.australiandigitalradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-23T09:42:55Z"
   },
   {
     "id": "awb_649c3ebe1bf56d85fbb7",
@@ -18220,7 +17280,7 @@
     "homepage": "https://eastsidefm.org/",
     "favicon": "https://eastsidefm.org/icons/icon-144x144.png?v=66412fbb5c4e2645ca592a01a275cae3",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -18347,20 +17407,6 @@
     "updatedAt": "2026-11-05T09:02:29Z"
   },
   {
-    "id": "awb_85c59cedbf1c42e0499e",
-    "name": "FBi Radio",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://fbiradio.com/",
-    "favicon": "https://d1kt6vnx6cjjqh.cloudfront.net/wp-content/themes/fbi_sf/images/favicon.ico.gzip",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_08450de8b563a5553eba",
     "name": "FBi Radio - Sydney - 94.5 FM (MP3)",
     "country": "AU",
@@ -18400,24 +17446,8 @@
     "homepage": "https://fifo.dulcet.cloud/",
     "favicon": "https://fifo.dulcet.cloud/icons/stations/fifo-2200.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-21T15:40:34Z"
-  },
-  {
-    "id": "awb_9e477f505a01d6133c79",
-    "name": "films, horror, sci fi, adventure Australian Digital Radio Network Old Time Radio Channel 4",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.australiandigitalradio.com/",
-    "favicon": null,
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-02-23T09:28:16Z"
+    "updatedAt": "2026-08-21T15:40:34Z"
   },
   {
     "id": "awb_eb5fd9c27ed520939a3d",
@@ -18889,28 +17919,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_1f70d91f65607b4f77c8",
-    "name": "Fresh 92.7 (192kbps)",
-    "country": "AU",
-    "subdivision": "South Australia",
-    "languages": [],
-    "categories": [
-      "electronic",
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "electronic",
-      "pop",
-      "trance"
-    ],
-    "homepage": "https://fresh927.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-20T12:56:58Z"
-  },
-  {
     "id": "awb_aaa1c68b3b3ed530e602",
     "name": "Fresh FM 87.6 - Woolgoolga - 87.6 FM (MP3)",
     "country": "AU",
@@ -18980,19 +17988,16 @@
       "jazz"
     ],
     "tags": [
-      "acid jazz",
-      "chill",
       "chillout",
       "funk",
       "jazz",
-      "smooth jazz",
       "smooth-jazz",
       "soul"
     ],
     "homepage": "https://xrn.com.au/",
-    "favicon": "https://xrn.com.au/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -19169,26 +18174,6 @@
     "updatedAt": "2026-01-15T00:58:35Z"
   },
   {
-    "id": "awb_09f0bd600df9d9191b12",
-    "name": "Gin Gin's Own 104.9",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community"
-    ],
-    "homepage": "https://ginginsown1049.com/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:39:32Z"
-  },
-  {
     "id": "awb_7aab814463bf7286f34b",
     "name": "Gippsland FM - Morwell - 104.7 FM (AAC+)",
     "country": "AU",
@@ -19305,8 +18290,8 @@
     "homepage": "https://www.gnfm.com.au/",
     "favicon": "https://www.gnfm.com.au/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:38:30Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:05:28Z"
   },
   {
     "id": "awb_7542f89fb420087407e0",
@@ -19349,42 +18334,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:13:35Z"
-  },
-  {
-    "id": "awb_2c0ed8fe7e1f80456597",
-    "name": "GOLD 101.7 (80s) - Sydney (AAC+)",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "1980s"
-    ],
-    "homepage": "https://gold1017.com.au/",
-    "favicon": "https://i.ibb.co/xqJmrM12/677351571e36dc91f19fc54e.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:59:15Z"
-  },
-  {
-    "id": "awb_0b0f6d7e9baf1884f8fc",
-    "name": "GOLD 101.7 (80s) - Sydney (MP3)",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "1980s"
-    ],
-    "homepage": "https://gold1017.com.au/",
-    "favicon": "https://i.ibb.co/xqJmrM12/677351571e36dc91f19fc54e.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:54:34Z"
   },
   {
     "id": "awb_4a3e0b70e4e714e46ca4",
@@ -19450,24 +18399,6 @@
     "updatedAt": "2026-01-15T02:34:36Z"
   },
   {
-    "id": "awb_f807b4ef12bf0de588f7",
-    "name": "GOLD 104.3 (80s) - Melbourne (AAC+)",
-    "country": "AU",
-    "subdivision": "Melbourne VIC",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "1980s"
-    ],
-    "homepage": "https://www.gold1043.com.au/",
-    "favicon": "https://i.ibb.co/21tJ9DHM/677351571e36dc91f19fc54d.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:26:30Z"
-  },
-  {
     "id": "awb_20b5a28830b51b93d6d3",
     "name": "GOLD 104.3 (80s) - Melbourne (MP3)",
     "country": "AU",
@@ -19484,22 +18415,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:11:01Z"
-  },
-  {
-    "id": "awb_4e9fb35cc14809bc950c",
-    "name": "Gold Central Victoria",
-    "country": "AU",
-    "subdivision": "Victoria",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "bendigo"
-    ],
-    "homepage": "https://www.bing.com/ck/a?!&&p=e6c8d777f3256af76869149745b7ba4d445172ea7525b67dda8652ad86f7048bJmltdHM9MTY1NDE0MDg0NSZpZ3VpZD0xNGJjMjlhYi01ZmNiLTQ0YWItYjNhZi1iYzRjNDUyMDk2M2ImaW5zaWQ9NTE3MQ&ptn=3&fclid=da6e95c1-e224-11ec-8443-97b7a1d1d9b2&u=a1aHR0cHM6Ly93d3cuZ29sZGNlbnRyYWx2aWN0b3JpYS5jb20uYXUv&ntb=1",
-    "favicon": "https://www.bing.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_4982d469c0c71a85db85",
@@ -19578,7 +18493,7 @@
     "homepage": "https://goldendaysradio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -19690,30 +18605,6 @@
     "updatedAt": "2026-01-15T06:34:58Z"
   },
   {
-    "id": "awb_1371d835517c85f2768d",
-    "name": "Great Lakes FM - Forster & Tuncurry - 101.5 FM (AAC+)",
-    "country": "AU",
-    "subdivision": "New South Wales",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community",
-      "pop"
-    ],
-    "tags": [
-      "community radio",
-      "greatest hits",
-      "local",
-      "miscellaneous"
-    ],
-    "homepage": "https://greatlakesfm.org.au/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:27:13Z"
-  },
-  {
     "id": "awb_e202a0a400f271c0363b",
     "name": "Great Lakes FM - Forster & Tuncurry - 101.5 FM (AAC+)",
     "country": "AU",
@@ -19760,30 +18651,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:50:59Z"
-  },
-  {
-    "id": "awb_5c34430ba76ac26aefb2",
-    "name": "Great Lakes FM - Forster & Tuncurry - 101.5 FM (MP3)",
-    "country": "AU",
-    "subdivision": "New South Wales",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community",
-      "pop"
-    ],
-    "tags": [
-      "community radio",
-      "greatest hits",
-      "local",
-      "miscellaneous"
-    ],
-    "homepage": "https://greatlakesfm.org.au/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:33:22Z"
   },
   {
     "id": "awb_e706d4922b2b3f8792f3",
@@ -19888,42 +18755,6 @@
     "updatedAt": "2026-01-15T08:02:56Z"
   },
   {
-    "id": "awb_4e745736a1410f88b7d3",
-    "name": "Guy Glenwood Sydney",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://radio2.sikhnet.com:8047/live",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_3908cae41e8e80fbf303",
-    "name": "Gympie's Positive 91FIVE - Gympie - 91.5 FM (AAC+)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community",
-      "religious"
-    ],
-    "tags": [
-      "christian",
-      "community radio"
-    ],
-    "homepage": "https://www.positive91five.org/",
-    "favicon": "https://i.ibb.co/hY3pkB2/402085632-834697345330078-3598418269343824181-n.jpg",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:26:25Z"
-  },
-  {
     "id": "awb_f84ed2a9ac3b49cd1246",
     "name": "Happy Radio",
     "country": "AU",
@@ -19949,8 +18780,8 @@
     "homepage": "https://happyradio.live/",
     "favicon": "https://hq3.yesstreaming.net/media/happyradio/station_11/logos/logo_1779921747353.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-20T20:31:01Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T20:29:03Z"
   },
   {
     "id": "awb_4c8218b54a13a5d4bc8a",
@@ -20007,8 +18838,8 @@
     "homepage": "http://www.harryoncountryradio.com.au/",
     "favicon": "https://i.ibb.co/ZcZK50N/image.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:49:38Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:19:04Z"
   },
   {
     "id": "awb_6dffbb87b567134b43ae",
@@ -20218,24 +19049,6 @@
     "updatedAt": "2026-01-15T07:22:39Z"
   },
   {
-    "id": "awb_89598b3f7e0ecf7e729a",
-    "name": "Hit104.7 Canberra - 104.7 FM",
-    "country": "AU",
-    "subdivision": "Canberra ACT",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary"
-    ],
-    "homepage": "https://www.hit.com.au/canberra",
-    "favicon": "https://images.ctfassets.net/yxg7lydfj6tc/3cae53de-3605-48b3-9809-c1c0890da7fd/9ddf5e92def463ea03444ec854e15ec9/0046-canberra-1047.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:14:02Z"
-  },
-  {
     "id": "awb_b90ad3f3f34832d85318",
     "name": "Hit104.7 Canberra - 104.7 FM (AAC)",
     "country": "AU",
@@ -20248,10 +19061,10 @@
       "adult contemporary"
     ],
     "homepage": "https://www.hit.com.au/canberra",
-    "favicon": "https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:11:09Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T02:07:14Z"
   },
   {
     "id": "awb_8f1838bfdda34e7497cd",
@@ -20325,24 +19138,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-10-15T07:52:56Z"
-  },
-  {
-    "id": "awb_f9e87449cb6295d3c260",
-    "name": "Hot 100 - Darwin - 100.1 FM",
-    "country": "AU",
-    "subdivision": "Darwin NT",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "hot adult contemporary"
-    ],
-    "homepage": "https://www.hot100fm.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:01:02Z"
   },
   {
     "id": "awb_18bb3409576f52f20901",
@@ -20544,24 +19339,6 @@
     "updatedAt": "2026-01-15T03:00:48Z"
   },
   {
-    "id": "awb_60956124592c745f690d",
-    "name": "iHeartAustralia (MP3)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "australian music"
-    ],
-    "homepage": "https://www.iheart.com/live/iheartaustralia-7050/",
-    "favicon": "https://www.iheart.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:28:23Z"
-  },
-  {
     "id": "awb_d8edd2391178eb6e231b",
     "name": "iHeartCountry Australia (AAC)",
     "country": "AU",
@@ -20600,44 +19377,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:41:05Z"
-  },
-  {
-    "id": "awb_df961a1ff7a8d5815a5d",
-    "name": "iHeartDance Australia (AAC)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "dance",
-      "dance music"
-    ],
-    "homepage": "https://www.iheart.com/live/iheartdance-6941/",
-    "favicon": "https://i.ibb.co/hXM4wC3/652741b2f702ccd6ae1831d1.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:38:30Z"
-  },
-  {
-    "id": "awb_069425192fda6cb371ab",
-    "name": "iHeartDance Australia (MP3)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "dance",
-      "dance music"
-    ],
-    "homepage": "https://www.iheart.com/live/iheartdance-6941/",
-    "favicon": "https://i.ibb.co/hXM4wC3/652741b2f702ccd6ae1831d1.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:54:52Z"
   },
   {
     "id": "awb_e617da4375d741a19fde",
@@ -20828,20 +19567,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:23:20Z"
-  },
-  {
-    "id": "awb_232ae2464492cd647b1e",
-    "name": "JOY 94.9",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://joy.org.au/",
-    "favicon": "https://joy.org.au/albumart/DEFAULT.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_8e177cbdbb9ce60fa8f4",
@@ -21068,42 +19793,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_ecbced28f8e895950134",
-    "name": "KIIS 101.1 (90s) - Melbourne (AAC+)",
-    "country": "AU",
-    "subdivision": "Melbourne VIC",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "1990s"
-    ],
-    "homepage": "https://www.kiis1011.com.au/",
-    "favicon": "https://i.ibb.co/m5XtDSFH/65641771507d911431d61066.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:31:17Z"
-  },
-  {
-    "id": "awb_77ddd5f87f57f078df53",
-    "name": "KIIS 101.1 (90s) - Melbourne (MP3)",
-    "country": "AU",
-    "subdivision": "Melbourne VIC",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "1990s"
-    ],
-    "homepage": "https://www.kiis1011.com.au/",
-    "favicon": "https://i.ibb.co/m5XtDSFH/65641771507d911431d61066.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:32:05Z"
-  },
-  {
     "id": "awb_5a06cbeb145aa1fc412b",
     "name": "KIIS 1011 - Melbourne - 101.1 FM (AAC)",
     "country": "AU",
@@ -21202,9 +19891,9 @@
       "pop"
     ],
     "homepage": "https://www.kiis1065.com.au/",
-    "favicon": "https://i.iheart.com/v3/re/assets/images/fa2db663-cc83-4148-8312-886ce94029ae.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:39:51Z"
   },
   {
@@ -21224,24 +19913,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:25:40Z"
-  },
-  {
-    "id": "awb_b4e8cd94d0b7ee853051",
-    "name": "KIIS 1065 (90s) - Sydney (MP3)",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "1990s"
-    ],
-    "homepage": "https://www.kiis1065.com.au/",
-    "favicon": "https://i.ibb.co/N2yrqnwW/65641771507d911431d61063.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:40:19Z"
   },
   {
     "id": "awb_531dcccc39c7bc5e6a72",
@@ -21278,28 +19949,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:05:55Z"
-  },
-  {
-    "id": "awb_a891ac3f3d40bedad613",
-    "name": "KIIS Australia (AAC+)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "australian music",
-      "hits",
-      "non-stop music"
-    ],
-    "homepage": "https://www.iheart.com/live/kiis-australia-7050/",
-    "favicon": "https://i.ibb.co/5xjZd9GL/689282efb2e2c1186373aa75.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-27T21:53:21Z"
   },
   {
     "id": "awb_7a33cca59b6f2659a85b",
@@ -21502,7 +20151,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.kooriradio.com/",
+    "homepage": "https://kooriradio.com/",
     "favicon": "https://www.kooriradio.com/wp-content/uploads/2024/09/cropped-Koori_Radio_logo-192x192.png",
     "type": null,
     "sourceCount": 2,
@@ -21718,28 +20367,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_f93610307dab5e12883b",
-    "name": "Lake Macquarie FM - Lake Macquarie - 97.3 FM (AAC+)",
-    "country": "AU",
-    "subdivision": "New South Wales",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community",
-      "rock"
-    ],
-    "tags": [
-      "community radio",
-      "rock"
-    ],
-    "homepage": "https://www.lakemacquariefm.com.au/",
-    "favicon": "https://images.squarespace-cdn.com/content/v1/6267927e8f4f0912c0c2eb5c/7fa0bf8a-4dda-457c-ba2e-a6ef4bee7867/favicon.ico",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:58:24Z"
   },
   {
     "id": "awb_ddc7170f125b9d48b55f",
@@ -22157,24 +20784,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-01T07:26:26Z"
-  },
-  {
-    "id": "awb_4047e1582da56f9abce8",
-    "name": "LiSTNR - Backyard BBQ (HLS)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "backyard bbq"
-    ],
-    "homepage": "https://play.listnr.com/station/backyard-bbq",
-    "favicon": "https://i.ibb.co/M5gDqQyZ/Li-STNR-Square-Tile-3000x3000-BACKYARD-BBQ.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-31T08:02:40Z"
   },
   {
     "id": "awb_6000897e9984abb3ff36",
@@ -24530,26 +23139,6 @@
     "updatedAt": "2026-07-25T20:45:41Z"
   },
   {
-    "id": "awb_d5b8005c0e261fee2464",
-    "name": "Main FM Castlemaine",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community"
-    ],
-    "homepage": "https://mainfm.net/",
-    "favicon": "https://mainfm.net/favicon.ico",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:56:18Z"
-  },
-  {
     "id": "awb_be9f7bae64a060234c11",
     "name": "MAINfm",
     "country": "AU",
@@ -24564,26 +23153,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:44:02Z"
-  },
-  {
-    "id": "awb_427be6e3f4408a49f390",
-    "name": "MainFM - Castlemaine - 94.9 FM (MP3)",
-    "country": "AU",
-    "subdivision": "Victoria",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio"
-    ],
-    "homepage": "https://mainfm.net/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:34:09Z"
   },
   {
     "id": "awb_a38ecbd822015ecdd6d4",
@@ -24745,24 +23314,6 @@
     "updatedAt": "2026-11-04T21:47:46Z"
   },
   {
-    "id": "awb_0afca40662ced9a635f1",
-    "name": "Midnight Oil",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_b61b18279af3be7f173e",
     "name": "MITE Radio",
     "country": "AU",
@@ -24844,10 +23395,10 @@
       "full service"
     ],
     "homepage": "https://www.mix1049.com.au/",
-    "favicon": "https://www.mix1049.com.au/wp-content/uploads/sites/12/2022/10/300x150-fullcolour-NQL_DRW_MIX.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 6,
-    "updatedAt": "2026-01-15T08:38:46Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:41:12Z"
   },
   {
     "id": "awb_be15a57b4d0cca772510",
@@ -24863,46 +23414,10 @@
       "full service"
     ],
     "homepage": "https://www.mix1049.com.au/",
-    "favicon": "https://www.mix1049.com.au/wp-content/uploads/sites/12/2022/10/300x150-fullcolour-NQL_DRW_MIX.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 6,
-    "updatedAt": "2026-01-15T07:50:50Z"
-  },
-  {
-    "id": "awb_fb056d70bc548df888ff",
-    "name": "Mix 106.3 - Canberra - 106.3 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Canberra ACT",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary"
-    ],
-    "homepage": "https://www.mix106.com.au/",
-    "favicon": "https://i.iheart.com/v3/re/assets.streams/63f35a15061e35801376f6c3",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:26:23Z"
-  },
-  {
-    "id": "awb_0419a3c8b834be83ce57",
-    "name": "Mix 106.3 - Canberra - 106.3 FM (MP3)",
-    "country": "AU",
-    "subdivision": "Canberra ACT",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary"
-    ],
-    "homepage": "https://www.mix106.com.au/",
-    "favicon": "https://i.iheart.com/v3/re/assets.streams/63f35a15061e35801376f6c3",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:14:02Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T06:05:37Z"
   },
   {
     "id": "awb_1d5ac27cc6078a49248c",
@@ -24923,8 +23438,8 @@
     "updatedAt": "2026-01-15T00:02:44Z"
   },
   {
-    "id": "awb_9b1e5e4186fddc874b0e",
-    "name": "Mix 106.3 Canberra - 106.3 FM",
+    "id": "awb_fb056d70bc548df888ff",
+    "name": "Mix 106.3 Canberra - 106.3 FM (AAC)",
     "country": "AU",
     "subdivision": "Canberra ACT",
     "languages": [
@@ -24935,10 +23450,28 @@
       "adult contemporary"
     ],
     "homepage": "https://www.mix106.com.au/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Mix_106.3_logo_2020.svg/206px-Mix_106.3_logo_2020.svg.png",
+    "favicon": "https://www.mix106.com.au/wp-content/uploads/sites/7/2020/08/FREQUENCY_logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:40:06Z"
+    "updatedAt": "2026-01-15T00:32:40Z"
+  },
+  {
+    "id": "awb_0419a3c8b834be83ce57",
+    "name": "Mix 106.3 Canberra - 106.3 FM (MP3)",
+    "country": "AU",
+    "subdivision": "Canberra ACT",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "adult contemporary"
+    ],
+    "homepage": "https://www.mix106.com.au/",
+    "favicon": "https://www.mix106.com.au/wp-content/uploads/sites/7/2020/08/FREQUENCY_logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:05:28Z"
   },
   {
     "id": "awb_e05716c2cc35c32728e7",
@@ -25109,7 +23642,7 @@
     "homepage": "https://newy.com.au/",
     "favicon": "https://i.ibb.co/4Sk77T1/286876836-437431088383929-8346039254855239216-n.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -25175,22 +23708,14 @@
     "id": "awb_55a6ac8005a936c5ed1a",
     "name": "Nightride FM",
     "country": "AU",
-    "subdivision": "Tasmania",
+    "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [
-      "chillsynth",
-      "darksynth",
-      "datawave",
-      "outrun",
-      "retrowave",
-      "spacesynth",
-      "synthwave"
-    ],
+    "tags": [],
     "homepage": "https://nightride.fm/",
-    "favicon": "https://static.wikia.nocookie.net/synthwave/images/5/59/Nightride_FM_Square_Thumbnail.png/revision/latest/scale-to-width-down/1200?cb=20210209141038",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -25423,7 +23948,7 @@
     "homepage": "https://northsideradio.com.au/",
     "favicon": "https://i.ibb.co/7jbKbFs/large-colour.jpg",
     "type": "community",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:12:24Z"
   },
   {
@@ -25435,9 +23960,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://northsideradio.com.au/#",
-    "favicon": "https://northsideradio.com.au/wp-content/uploads/2022/10/large-colour.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -26071,27 +24596,6 @@
     "updatedAt": "2026-01-30T02:24:50Z"
   },
   {
-    "id": "awb_ec26e8af93af199df72d",
-    "name": "Nova Fresh Country (MP3)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country",
-      "fresh"
-    ],
-    "homepage": "https://novafm.com.au/station/novafreshcountry",
-    "favicon": "https://i.ibb.co/ns3jVRLk/Brand-Tile-Fresh-Country.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-30T02:25:05Z"
-  },
-  {
     "id": "awb_bf976ee7ef22a781d9c4",
     "name": "Nova Jamz (AAC+ 128k)",
     "country": "AU",
@@ -26407,37 +24911,14 @@
     "name": "OnAir IM",
     "country": "AU",
     "subdivision": "New South Wales",
-    "languages": [
-      "ar",
-      "en"
-    ],
-    "categories": [
-      "classical",
-      "pop",
-      "religious"
-    ],
-    "tags": [
-      "arabic",
-      "arabic hits",
-      "arabic music",
-      "arabic radio",
-      "arabic songs",
-      "artificial intelligence",
-      "australia",
-      "islamic",
-      "islamic music",
-      "islamic religion",
-      "islamic، classical",
-      "muslim",
-      "nasheed",
-      "radio muslim",
-      "sydney"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://onair.im/",
-    "favicon": "https://onair.im/Icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-06T11:45:09Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-06-06T11:35:02Z"
   },
   {
     "id": "awb_412bed859629ff254602",
@@ -26478,27 +24959,6 @@
     "type": "community",
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_dba5dcdc8d836ce0208c",
-    "name": "Only Mozart",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical",
-      "mozart"
-    ],
-    "homepage": "http://www.classicalfm.com.au/",
-    "favicon": "http://www.classicalfm.com.au/_wp_generated/wp1e33d049_05.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-19T03:03:55Z"
   },
   {
     "id": "awb_e832f24069c16b06d6fe",
@@ -26581,7 +25041,7 @@
     "id": "awb_237d42c762983219b6be",
     "name": "PBS 106.7FM",
     "country": "AU",
-    "subdivision": "Victoria",
+    "subdivision": "Melbourne VIC",
     "languages": [],
     "categories": [
       "blues",
@@ -26609,10 +25069,10 @@
       "soul"
     ],
     "homepage": "https://www.pbsfm.org.au/",
-    "favicon": "https://i.ibb.co/JFs5dGh/images.png",
+    "favicon": "https://www.pbsfm.org.au/",
     "type": "community",
-    "sourceCount": 3,
-    "updatedAt": "2026-04-08T04:11:59Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-04-08T03:56:08Z"
   },
   {
     "id": "awb_995711351981f2ecf896",
@@ -27263,28 +25723,6 @@
     "updatedAt": "2026-06-20T22:02:53Z"
   },
   {
-    "id": "awb_b05f6341648553c61947",
-    "name": "QBN FM - 96.7 FM",
-    "country": "AU",
-    "subdivision": "New South Wales",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "oldies"
-    ],
-    "homepage": "https://www.qbn967.com.au/",
-    "favicon": "https://static.wixstatic.com/media/edf9f8_57c5a189c73f4af4a1670f480328ab55~mv2.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:04:47Z"
-  },
-  {
     "id": "awb_fe59259d4fefad1aa243",
     "name": "QBN FM - Queanbeyan - 96.7 FM",
     "country": "AU",
@@ -27321,8 +25759,8 @@
     "homepage": "http://www.qfm.com.au/",
     "favicon": "https://i.ibb.co/rdPMMpF/image-1.webp",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:11:47Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:59:24Z"
   },
   {
     "id": "awb_d0b877c72c9566a608f0",
@@ -27339,8 +25777,8 @@
     "homepage": "http://www.qfm.com.au/",
     "favicon": "https://i.ibb.co/rdPMMpF/image-1.webp",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:33:28Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:59:24Z"
   },
   {
     "id": "awb_46a3901c1b30a5c97536",
@@ -27562,7 +26000,7 @@
     "homepage": "https://radioadelaide.org.au/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -27831,20 +26269,6 @@
     "updatedAt": "2026-01-15T03:40:06Z"
   },
   {
-    "id": "awb_e20d0bb465456aa2c5a6",
-    "name": "Radio Mansfield",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiomansfield.org.au/",
-    "favicon": "https://radiomansfield.org.au/wp-content/uploads/2022/02/cropped-Radio-Mansfield-Logo-Round-Blue-512-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_ff7e7752cf45bfb098cf",
     "name": "Radio Mansfield - Mansfield / Tolmie / Woods Point - 99.7 FM / 88.7 FM / 90.1 FM (MP3)",
     "country": "AU",
@@ -27938,22 +26362,6 @@
     "updatedAt": "2026-01-15T08:31:59Z"
   },
   {
-    "id": "awb_9ceb553942aae623537a",
-    "name": "Radio National WA",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.abc.net.au/listen/radionational",
-    "favicon": "https://www.abc.net.au/core-assets/radionational/touchicon-radionational.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:13:18Z"
-  },
-  {
     "id": "awb_9da405d5876775f6b72c",
     "name": "radio PCM 99% Total Schlager(Australia)",
     "country": "AU",
@@ -28012,22 +26420,6 @@
     "updatedAt": "2026-08-02T13:21:21Z"
   },
   {
-    "id": "awb_b1b7d009ef1f14600cbb",
-    "name": "Radio Sydney - Blues and Soul",
-    "country": "AU",
-    "subdivision": "Sydney NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://australiandigitalradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-30T19:09:26Z"
-  },
-  {
     "id": "awb_a5ab1dfb28d4a2872651",
     "name": "Radio Trainwreck Live",
     "country": "AU",
@@ -28045,30 +26437,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-25T03:40:37Z"
-  },
-  {
-    "id": "awb_0b84f1aaaacf5434f65f",
-    "name": "Radio Upper Murray - Walwa / Corryong / Tumbarumba - 88.7 FM / 98.9 FM / 107.7 FM",
-    "country": "AU",
-    "subdivision": "Victoria",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community",
-      "talk"
-    ],
-    "tags": [
-      "community radio",
-      "local",
-      "miscellaneous",
-      "talk"
-    ],
-    "homepage": "https://www.radiouppermurray.com.au/",
-    "favicon": "https://i.ibb.co/dJrVjwr3/RUM-logo.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:38:47Z"
   },
   {
     "id": "awb_1cef16d7a2d5fdfa53ad",
@@ -28222,20 +26590,6 @@
     "updatedAt": "2026-01-15T06:23:58Z"
   },
   {
-    "id": "awb_fbb136325c90df6a2bce",
-    "name": "RADIOTELESENTINEL",
-    "country": "AU",
-    "subdivision": "Philadelphia PA",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiotelesentinel.com/",
-    "favicon": "https://radiotelesentinel.com/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-15T03:57:55Z"
-  },
-  {
     "id": "awb_8d337b918a0de025f7c7",
     "name": "RAMfm - Goulburn - 103.3 FM (AAC+)",
     "country": "AU",
@@ -28327,9 +26681,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://rebelfm.com.au/listen-live/goldcoast/",
-    "favicon": "https://rebelfm.com.au/wp-content/uploads/2021/11/Rebel-99.4-Rocks-the-Gold-Coast-1.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -28343,7 +26697,7 @@
     "homepage": "https://rebelfm.com.au/logan/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -28365,46 +26719,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:18:04Z"
-  },
-  {
-    "id": "awb_d5786242b395ef36b36a",
-    "name": "Rebel FM - Canungra - 93.7 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://rebelfm.com.au/canungra/",
-    "favicon": "https://i.ibb.co/qYjrZDH3/Rebel-93-7-Rocks-Canungra-1.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:48:00Z"
-  },
-  {
-    "id": "awb_fee1d5c4ca1deb61d119",
-    "name": "Rebel FM - Chinchilla - 97.1 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://rebelfm.com.au/chinchilla/",
-    "favicon": "https://i.ibb.co/G41FBV1C/Rebel-97-1-Rocks-Chinchilla-1.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:36:23Z"
   },
   {
     "id": "awb_e8ec382c93e11446fe34",
@@ -28447,46 +26761,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_947f55007f70d403d52d",
-    "name": "Rebel FM - Goondiwindi - 96.3 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://rebelfm.com.au/goondiwindi/",
-    "favicon": "https://i.ibb.co/s9sTFxLs/Rebel-96-3-Rocks-Goondiwindi.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:55:28Z"
-  },
-  {
-    "id": "awb_d159cb7207d26410b92a",
-    "name": "Rebel FM - Kooralbyn - 102.5 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://rebelfm.com.au/kooralbyn/",
-    "favicon": "https://i.ibb.co/mV4M69cB/Rebel-102-5-Rocks-Korralbyn.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:20:44Z"
-  },
-  {
     "id": "awb_4b0ce4e73d18fa6b3762",
     "name": "Rebel FM - Logan - 90.5 FM (AAC)",
     "country": "AU",
@@ -28525,46 +26799,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:06:00Z"
-  },
-  {
-    "id": "awb_16c2dda74be46f2b411a",
-    "name": "Rebel FM - Stanthorpe - 97.1 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://rebelfm.com.au/stanthorpe",
-    "favicon": "https://i.ibb.co/B2YYJYKQ/Rebel-97-1-Rocks-Stanthorpe.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:17:04Z"
-  },
-  {
-    "id": "awb_812947955ba55c9e58af",
-    "name": "Rebel FM - Tenterfield - 93.7 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://rebelfm.com.au/tenterfield",
-    "favicon": "https://i.ibb.co/xSnH8HXp/Rebel-93-7-Rocks-Tenterfield.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:42:14Z"
   },
   {
     "id": "awb_15f80b89cc095ae36a09",
@@ -28750,8 +26984,8 @@
     "homepage": "https://rhemafm.com.au/",
     "favicon": "https://rhemafm.com.au/wp-content/webp-express/webp-images/uploads/2023/05/logo_website-header.png.webp",
     "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:00:57Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:53:33Z"
   },
   {
     "id": "awb_1a8db952938266df3e0e",
@@ -29077,26 +27311,6 @@
     "updatedAt": "2026-01-15T00:07:08Z"
   },
   {
-    "id": "awb_581bc9456e5c79bde529",
-    "name": "Rose City FM Warwick",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community"
-    ],
-    "homepage": "https://www.rosecityfm.org.au/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:42:03Z"
-  },
-  {
     "id": "awb_509cc28b3d014677ef6f",
     "name": "RPP FM",
     "country": "AU",
@@ -29349,7 +27563,7 @@
     "homepage": "https://sawtsydney.com.au/",
     "favicon": "https://sawtsydney.com.au/favicon.ico",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -29524,7 +27738,7 @@
     "homepage": "https://www.shackradio.com.au/",
     "favicon": "https://static.wixstatic.com/media/de300d_749512386e684134ab5461f4df96bc41~mv2.png/v1/fill/w_420,h_420,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/shack%20logo%20new%20demo1.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -30311,25 +28525,6 @@
     "updatedAt": "2026-01-15T04:36:26Z"
   },
   {
-    "id": "awb_a0f8fb956154f83c544e",
-    "name": "Smooth-Relax",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "relax",
-      "smooth"
-    ],
-    "homepage": "https://www.smooth.com.au/relax/",
-    "favicon": "https://www.smooth.com.au/assets/smooth/icons/favicon/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:13:09Z"
-  },
-  {
     "id": "awb_24805b9e75fdad5f4ddc",
     "name": "Snow DAB+ - Canberra (AAC+)",
     "country": "AU",
@@ -30530,20 +28725,6 @@
     "updatedAt": "2026-01-15T04:14:02Z"
   },
   {
-    "id": "awb_b105e15b6cd4724c6beb",
-    "name": "Southern FM Melbourne Australia",
-    "country": "AU",
-    "subdivision": "Melbourne",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.southernfm.com.au/",
-    "favicon": "https://www.southernfm.com.au/listen.pls",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_d553ba656ba585dd7670",
     "name": "Sparx Radio",
     "country": "AU",
@@ -30712,29 +28893,6 @@
     "updatedAt": "2026-01-15T08:02:03Z"
   },
   {
-    "id": "awb_746df6c9dcac088132bd",
-    "name": "Star 104.5",
-    "country": "AU",
-    "subdivision": "NSW",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "central coast",
-      "gosford",
-      "nova",
-      "pop"
-    ],
-    "homepage": "https://www.star1045.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:35:30Z"
-  },
-  {
     "id": "awb_cfe9c8f74028e1c25bed",
     "name": "Star 104.5 - Gosford - 104.5 FM (AAC 128k)",
     "country": "AU",
@@ -30754,27 +28912,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T07:07:34Z"
-  },
-  {
-    "id": "awb_e1b715ae835a2e612ef7",
-    "name": "Star 104.5 - Gosford - 104.5 FM (AAC 320k)",
-    "country": "AU",
-    "subdivision": "New South Wales",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "adult contemporary",
-      "top 40"
-    ],
-    "homepage": "https://www.star1045.com.au/",
-    "favicon": "https://i.ibb.co/0jVLtLc/song-cover-missing.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:34:41Z"
   },
   {
     "id": "awb_e3edf784335b252bba72",
@@ -30979,9 +29116,9 @@
       "rock"
     ],
     "homepage": "https://xrn.com.au/",
-    "favicon": "https://xrn.com.au/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -31316,14 +29453,12 @@
     ],
     "tags": [
       "ambient",
-      "drone",
-      "electronica",
-      "experimental"
+      "electronica"
     ],
     "homepage": "https://www.systrum.net/",
-    "favicon": "https://www.systrum.net/assets/img/favicons/favicon.svg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -31338,15 +29473,13 @@
       "electronic"
     ],
     "tags": [
-      "electro",
       "electronica",
-      "idm",
       "techno"
     ],
     "homepage": "https://www.systrum.net/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -31576,28 +29709,6 @@
     "updatedAt": "2026-01-15T05:39:41Z"
   },
   {
-    "id": "awb_46726e76c07cb403272d",
-    "name": "Ten FM - Tenderfield - 89.7 FM (AAC+)",
-    "country": "AU",
-    "subdivision": "New South Wales",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "easy listening",
-      "variety"
-    ],
-    "homepage": "https://www.tenfm.org.au/",
-    "favicon": "https://i.ibb.co/DVRK3nj/44183-122279374494149-4520424-n.jpg",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:28:23Z"
-  },
-  {
     "id": "awb_c891d08bf805b2c09308",
     "name": "Ten FM - Tenterfield - 89.7 FM (AAC+)",
     "country": "AU",
@@ -31643,20 +29754,6 @@
     "updatedAt": "2026-01-15T07:48:53Z"
   },
   {
-    "id": "awb_0c9e0175d65bc817a888",
-    "name": "Territory FM Darwin",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://territoryfm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_3f3928b0b8b767b14d1b",
     "name": "The 80s iHeartRadio Australia (AAC+)",
     "country": "AU",
@@ -31678,51 +29775,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:42:03Z"
-  },
-  {
-    "id": "awb_92bb4ab423e2d6f1d00e",
-    "name": "The 80s iHeartRadio Australia (MP3)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "1980's",
-      "1980s",
-      "80's",
-      "80s"
-    ],
-    "homepage": "https://www.iheart.com/live/the-80s-iheartradio-6794/",
-    "favicon": "https://i.ibb.co/2jSVc4z/e1724129-4e37-4eac-9d23-be1b2832a818.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:34:47Z"
-  },
-  {
-    "id": "awb_6270ce3c1a38f3ded9b8",
-    "name": "The 90s iHeartRadio Australia (AAC+)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "1990s",
-      "90's",
-      "90s"
-    ],
-    "homepage": "https://www.iheart.com/live/the-90s-iheartradio-6793/",
-    "favicon": "https://i.ibb.co/vJP800J/5e93955ade5b503e88d62549.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:35:55Z"
   },
   {
     "id": "awb_d1108aaaa1ee757a2abc",
@@ -31759,17 +29811,13 @@
       "pop"
     ],
     "tags": [
-      "classic hits",
       "classic-hits",
-      "oldies",
-      "rebel fm",
-      "rebel media",
-      "soft adult contemporary"
+      "oldies"
     ],
     "homepage": "https://thebreeze.com.au/widebay/",
-    "favicon": "https://thebreeze.com.au/wp-content/uploads/2022/06/BreezeWideBay-102.5-300x78-1.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -31792,25 +29840,6 @@
     "updatedAt": "2026-01-14T23:53:53Z"
   },
   {
-    "id": "awb_90ad8b448e2eaf8e72c0",
-    "name": "The Breeze - Chinchilla - 95.5 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "easy listening"
-    ],
-    "homepage": "https://thebreeze.com.au/chinchilla/",
-    "favicon": "https://i.ibb.co/7JNGN6kX/Breeze-Chinchilla-99-5-300x78-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:05:13Z"
-  },
-  {
     "id": "awb_29757576aac499181d94",
     "name": "The Breeze - Gloucester - 97.7 FM (AAC)",
     "country": "AU",
@@ -31826,8 +29855,8 @@
     "homepage": "https://thebreeze.com.au/gloucester/",
     "favicon": "https://i.ibb.co/8n7BdYBN/Breeze-Gloucester-97-7-300x78-1.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:07:13Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:27:42Z"
   },
   {
     "id": "awb_40ffd25367c9a17891fa",
@@ -31839,35 +29868,14 @@
     ],
     "categories": [],
     "tags": [
-      "adult contemporary",
       "adult-contemporary",
-      "easy listening",
       "easy-listening"
     ],
     "homepage": "https://thebreeze.com.au/goldcoast/",
-    "favicon": "https://i.ibb.co/Bv0Jt5V/Breeze-Gold-Coast100-6-300x78-1.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_493f7595e89396a2081b",
-    "name": "The Breeze - Goondiwindi - 98.7 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "easy listening"
-    ],
-    "homepage": "https://thebreeze.com.au/goondiwindi/",
-    "favicon": "https://i.ibb.co/DPychspT/Breeze-Goondiwindi-98-7-300x78-1.png",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:27:11Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_d367a6af684d10798ffb",
@@ -31887,63 +29895,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:59:15Z"
-  },
-  {
-    "id": "awb_b41ef25a3a2bb6704d09",
-    "name": "The Breeze - Logan - 92.1 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "easy listening"
-    ],
-    "homepage": "https://thebreeze.com.au/logan/",
-    "favicon": "https://i.ibb.co/hxb4ZKM4/Breeze-Logan-92-1-300x78-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:26:33Z"
-  },
-  {
-    "id": "awb_959c18969d794c85c15d",
-    "name": "The Breeze - Miles - 101.3 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "easy listening"
-    ],
-    "homepage": "https://thebreeze.com.au/miles/",
-    "favicon": "https://i.ibb.co/Xx3PNpr5/Breeze-Miles-101-3-300x78-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:12:47Z"
-  },
-  {
-    "id": "awb_921b3a8c4cca6d274270",
-    "name": "The Breeze - Stanthorpe - 90.1 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "easy listening"
-    ],
-    "homepage": "https://thebreeze.com.au/stanthorpe/",
-    "favicon": "https://i.ibb.co/TxvTPczG/Breeze-Stanthorpe-90-1-300x78-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:31:29Z"
   },
   {
     "id": "awb_39d55bdc88df4f1ef357",
@@ -32133,17 +30084,14 @@
     "country": "AU",
     "subdivision": "South Australia",
     "languages": [],
-    "categories": [
-      "community"
-    ],
+    "categories": [],
     "tags": [
-      "community radio",
       "progressive"
     ],
     "homepage": "http://www.threedradio.com/",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/bssbakztpnwe.jpg",
-    "type": "community",
-    "sourceCount": 2,
+    "type": null,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -32237,20 +30185,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:04:00Z"
-  },
-  {
-    "id": "awb_7bab2e927242b9c94901",
-    "name": "TOOWOOMBA'S 102.7 FM",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://1027.com.au/",
-    "favicon": "https://img1.wsimg.com/isteam/ip/fc85db12-86a4-483d-b427-cd8942afa5d1/102.7%20Transparent%20Logo%20November%202021-0001.png/:/rs=w:325,h:206,cg:true,m/cr=w:325,h:206/qt=q:95",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-08T13:35:02Z"
   },
   {
     "id": "awb_8883ce0749115c6f4d38",
@@ -32467,6 +30401,44 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:25:41Z"
+  },
+  {
+    "id": "awb_0980bc341adf7a3a2116",
+    "name": "Totally Radio - Christmas",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "christmas"
+    ],
+    "tags": [
+      "christmas"
+    ],
+    "homepage": "https://totallyradio.com.au/",
+    "favicon": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/c8ffa91d4_TotallylogoHORZwhite1066x248.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T07:35:56Z"
+  },
+  {
+    "id": "awb_3e82a5295a0004d788e4",
+    "name": "Totally Radio - Classical",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": "https://totallyradio.com.au/",
+    "favicon": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/c8ffa91d4_TotallylogoHORZwhite1066x248.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T07:34:49Z"
   },
   {
     "id": "awb_d245e950761faf7d5f68",
@@ -32696,6 +30668,20 @@
     "updatedAt": "2026-01-15T02:23:21Z"
   },
   {
+    "id": "awb_3c3ee782088a2aad88f1",
+    "name": "Totally Radio - Throwbacks",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://totallyradio.com.au/",
+    "favicon": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/c8ffa91d4_TotallylogoHORZwhite1066x248.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T07:34:01Z"
+  },
+  {
     "id": "awb_530d11ecf179089023cf",
     "name": "Totally Radio (MP3)",
     "country": "AU",
@@ -32708,9 +30694,9 @@
       "music"
     ],
     "homepage": "http://totallyradio.com.au/",
-    "favicon": "https://i.ibb.co/nLxHrTH/image.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:35:43Z"
   },
   {
@@ -32730,8 +30716,8 @@
     "homepage": "https://tradie.dulcet.cloud/",
     "favicon": "https://tradie.dulcet.cloud/icons/stations/tradie-2200.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-22T00:10:02Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-21T16:58:41Z"
   },
   {
     "id": "awb_28d3dfc20fe7a623f40d",
@@ -32768,10 +30754,10 @@
       "christmas music"
     ],
     "homepage": "https://www.treasure-emporium.com.au/",
-    "favicon": "https://www.treasure-emporium.com.au/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T05:01:43Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:13:18Z"
   },
   {
     "id": "awb_9de59d3f0109321d07b1",
@@ -32921,8 +30907,8 @@
     "homepage": "https://tripleafm.net.au/",
     "favicon": "https://i.ibb.co/wYM70y2/33c6b316-6e31-4760-9e27-94d8bb73de27.png",
     "type": "community",
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T07:20:35Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:29:13Z"
   },
   {
     "id": "awb_3f1fcbdbbc2616120cc7",
@@ -33324,30 +31310,10 @@
     "updatedAt": "2026-01-15T05:53:10Z"
   },
   {
-    "id": "awb_7d30eeb34b21a0be5518",
-    "name": "triple t Townsville",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community"
-    ],
-    "homepage": "https://www.triplet.com.au/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:05:13Z"
-  },
-  {
     "id": "awb_3ab1b17f7a835c77e711",
     "name": "Triple U - Shoalhaven Community Radio - Nowra - 104.5 FM (MP3)",
     "country": "AU",
-    "subdivision": "Nowra NSW",
+    "subdivision": null,
     "languages": [
       "en"
     ],
@@ -33361,8 +31327,8 @@
     "homepage": "https://www.tripleu.org.au/",
     "favicon": "https://i.ibb.co/y8XtKLQ/thumbnail-clear-512px-5b7ce31c3b85.jpg",
     "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:02:56Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:34:09Z"
   },
   {
     "id": "awb_6790399ad06b76a0ad05",
@@ -33437,33 +31403,6 @@
     "updatedAt": "2026-11-05T04:05:19Z"
   },
   {
-    "id": "awb_0d9db1969d1f9a45c99f",
-    "name": "UCFM - Canberra - 87.8 FM (MP3)",
-    "country": "AU",
-    "subdivision": "Canberra ACT",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "college",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "college radio",
-      "indie",
-      "local",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://ucfm.com.au/",
-    "favicon": "https://i0.wp.com/ucfm.com.au/wp-content/uploads/2023/05/favicon.png?fit=50%2c50&#038;ssl=1",
-    "type": "college",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:06:00Z"
-  },
-  {
     "id": "awb_0fd097b423a7f87b957d",
     "name": "UCFM 87.8 - Canberra - 87.8 FM (MP3)",
     "country": "AU",
@@ -33503,20 +31442,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-07T09:14:51Z"
-  },
-  {
-    "id": "awb_330102c34c7819e3ef26",
-    "name": "Ultra 106.5 Hobart",
-    "country": "AU",
-    "subdivision": "Tasmania",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://ultra106five.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-03T21:57:39Z"
   },
   {
     "id": "awb_93d8d06e51d4206c3694",
@@ -33579,26 +31504,6 @@
     "updatedAt": "2026-10-12T20:42:36Z"
   },
   {
-    "id": "awb_ee14a710f5ad8ba514ab",
-    "name": "Valley FM - 89.5 FM",
-    "country": "AU",
-    "subdivision": "Australian Capital Territory",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio"
-    ],
-    "homepage": "https://www.valleyfm.com/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:42:49Z"
-  },
-  {
     "id": "awb_e7004abaf2f1ed9cf68f",
     "name": "Valley FM - Parkes & Forbes - 97.9 FM (MP3)",
     "country": "AU",
@@ -33640,9 +31545,9 @@
       "music"
     ],
     "homepage": "https://www.valleyfm.com/",
-    "favicon": "https://i.ibb.co/6rRYhvY/bannersquare11304.jpg",
+    "favicon": null,
     "type": "community",
-    "sourceCount": 5,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:13:03Z"
   },
   {
@@ -33661,9 +31566,9 @@
       "music"
     ],
     "homepage": "https://www.valleyfm.com/",
-    "favicon": "https://www.valleyfm.com//wp-content/uploads/2022/08/Valley-FM-Logo-Transparent.png",
+    "favicon": null,
     "type": "community",
-    "sourceCount": 4,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T08:38:46Z"
   },
   {
@@ -33689,9 +31594,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://vintagefm.com.au/",
-    "favicon": "https://images.radio.co/station_logos/sd60e90ab1.20190404042840.jpg",
+    "favicon": "https://vintagefm.com.au/wp-content/uploads/2020/07/cropped-Vintage-FM.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -34077,10 +31982,10 @@
       "community radio"
     ],
     "homepage": "https://989warfm.com.au/",
-    "favicon": "https://i.ibb.co/ZGyJ4VL/25508140-1962660320639969-1793582037435059101-n.png",
+    "favicon": null,
     "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:03:15Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:13:27Z"
   },
   {
     "id": "awb_ea3dbe891667d3e4e361",
@@ -34278,9 +32183,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.wowfm.org/",
-    "favicon": "https://static.wixstatic.com/media/ec9f11_cba0198a0cf94b6b93613f23570f424c~mv2.png/v1/fill/w_446,h_172,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo-with-Tower.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -34345,9 +32250,9 @@
       "oldies"
     ],
     "homepage": "https://www.2xl.com.au/",
-    "favicon": "https://www.2xl.com.au/favicon.ico",
+    "favicon": "https://i.ibb.co/MMMSn1k/XLFM-2373911-config-station-logo-image-1655088883.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T03:34:17Z"
   },
   {
@@ -34412,27 +32317,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:53:33Z"
-  },
-  {
-    "id": "awb_d461d1bee4a41fa2df40",
-    "name": "Your Hits Radio (MP3)",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "music"
-    ],
-    "homepage": "http://www.yourhitsradio.com.au/",
-    "favicon": "https://i.ibb.co/NyDV754/image-2.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:59:52Z"
   },
   {
     "id": "awb_72904640bb9a071e9879",

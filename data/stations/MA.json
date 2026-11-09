@@ -78,24 +78,6 @@
     "updatedAt": "2026-06-12T16:23:25Z"
   },
   {
-    "id": "awb_539ba6ca4528f0463ef6",
-    "name": "achkid fm",
-    "country": "MA",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [
-      "music arabe"
-    ],
-    "homepage": "https://www.facebook.com/achkidfm",
-    "favicon": "https://www.facebook.com/photo/?fbid=939388358206075&set=a.451055430372706",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:25:18Z"
-  },
-  {
     "id": "awb_16bc7b09bbffceb6e65e",
     "name": "Adwaafm",
     "country": "MA",
@@ -191,32 +173,8 @@
     "homepage": "https://atlanticradio.ma/",
     "favicon": "https://atlanticradio.ma/storage/img/settings/KzYBtQ2outBRNH5IMDFykGh47gmteaJjgyZY5dkN.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_7ca177ac3648a8cd3afb",
-    "name": "Atlantic Radio Maroc",
-    "country": "MA",
-    "subdivision": null,
-    "languages": [
-      "ar",
-      "fr"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "actualités",
-      "business",
-      "economie",
-      "informations"
-    ],
-    "homepage": "https://radiolive.ma/station/atlantic-radio",
-    "favicon": "https://radiolive.ma/logos/atlantic-radio.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-10T10:18:27Z"
   },
   {
     "id": "awb_0b2876cb17cdb07194f2",
@@ -239,7 +197,7 @@
     "homepage": "https://infoplus60.blogspot.com/",
     "favicon": "https://infoplus60.blogspot.com/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -299,7 +257,7 @@
     "homepage": "https://capradiotv.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -364,14 +322,12 @@
     ],
     "tags": [
       "hits",
-      "moroccans",
-      "rap",
-      "urban music"
+      "rap"
     ],
     "homepage": "https://www.hitradio.ma/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -449,9 +405,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://webradio.marrakechplus.ma/",
-    "favicon": "https://static-media.streema.com/media/cache/70/e9/70e92b9ba9494bd4f8ca598ffefc7716.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -469,30 +425,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-09T09:19:58Z"
-  },
-  {
-    "id": "awb_ad56c59b455011ace9ed",
-    "name": "MEDI 1 RADIO",
-    "country": "MA",
-    "subdivision": null,
-    "languages": [
-      "ar",
-      "fr"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "actualités",
-      "business",
-      "information",
-      "music"
-    ],
-    "homepage": "https://radiolive.ma/station/medi-1-radio/",
-    "favicon": "https://radiolive.ma/icons/MEDI%201%20RADIO.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-10T11:08:36Z"
   },
   {
     "id": "awb_21005796eebe32b42928",
@@ -632,28 +564,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_f70e8ebf34e42a748fb9",
-    "name": "Medina FM Nachat (128 kbps)",
-    "country": "MA",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "chaabi",
-      "moroccan",
-      "pop"
-    ],
-    "homepage": "https://medinafm.ma/",
-    "favicon": "https://api.medinafm.ma/uploads/43a70411-46cc-40c7-b4bb-7fcb41ce70ea-w320.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-12T20:25:03Z"
   },
   {
     "id": "awb_83e9f3be2a3e7914ba29",
@@ -857,29 +767,6 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
-    "id": "awb_acef471d8df3beeba2bc",
-    "name": "radio achkid fm راديوأشكيدإف إم",
-    "country": "MA",
-    "subdivision": "casablanca",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "achkidfm",
-      "antinea radio",
-      "radio amazigh",
-      "radio berbere",
-      "radio maghreb",
-      "radio maroc",
-      "radio marocaine",
-      "radio plus agadir"
-    ],
-    "homepage": "https://www.facebook.com/achkidfm",
-    "favicon": "https://www.facebook.com/photo/?fbid=939388358206075&set=a.451055430372706",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_54ea3e561b1646a6bd99",
     "name": "Radio Adwaa FM 6",
     "country": "MA",
@@ -900,28 +787,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-12T18:05:58Z"
-  },
-  {
-    "id": "awb_b27f97bf7048f3a3d33b",
-    "name": "Radio Adwaa FM6",
-    "country": "MA",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "culture",
-      "music",
-      "news"
-    ],
-    "homepage": "https://radio.co.ma/adwaa-fm/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMreguvYInAS9F80xUJvDuOjjQeeiH46CmBlYl8629A&s",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-16T01:49:08Z"
   },
   {
     "id": "awb_6ef1cec5c59cb27d454d",
@@ -1065,7 +930,7 @@
     "homepage": "https://www.mfmradio.ma/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

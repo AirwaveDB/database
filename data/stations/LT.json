@@ -289,10 +289,10 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://goldfm.lt/",
-    "favicon": "https://goldfm.lt/wp-content/uploads/2020/12/Gold_pilnas-300x136.png",
+    "homepage": "http://goldfm.lt/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -521,8 +521,8 @@
     "homepage": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-radijas",
     "favicon": "https://www.lrt.lt/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-25T11:56:21Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-03-02T10:19:41Z"
   },
   {
     "id": "awb_903e8a0d6c521b0d2948",
@@ -599,36 +599,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-18T22:21:27Z"
-  },
-  {
-    "id": "awb_cd785ffcaa1211d5b6ca",
-    "name": "Mano",
-    "country": "LT",
-    "subdivision": "Kaunas",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://klausyk.manofm.lt:8000/Icecast2",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_c033025c3367aab287fd",
-    "name": "MANO FM",
-    "country": "LT",
-    "subdivision": null,
-    "languages": [
-      "lt"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://manofm.lt/new/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:28:02Z"
   },
   {
     "id": "awb_f15e74cb2b0a712a6b80",
@@ -709,14 +679,13 @@
     ],
     "tags": [
       "catholic",
-      "christian",
-      "religious"
+      "christian"
     ],
     "homepage": "http://www.marijosradijas.lt/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T07:43:38Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:58:35Z"
   },
   {
     "id": "awb_2730bc611b451a597172",
@@ -835,24 +804,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_e3965b5859c0ae589d61",
-    "name": "NeringaFM",
-    "country": "LT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electronic"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_4779e48ea48ca77ce47e",
@@ -1043,20 +994,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-07T14:59:34Z"
-  },
-  {
-    "id": "awb_efd6328623d1f1e311ed",
-    "name": "Pukas Lt",
-    "country": "LT",
-    "subdivision": "Vilnius",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://pukas.lt/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-24T19:44:58Z"
   },
   {
     "id": "awb_34c03b2dbc5bed442653",
@@ -1269,7 +1206,7 @@
     "homepage": "https://radiofiesta.lt/",
     "favicon": "https://radiofiesta.lt/wp-content/uploads/2023/02/RadioFiesta-logo-1.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1523,7 +1460,7 @@
     "homepage": "https://relaxfm.lt/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1552,18 +1489,16 @@
     ],
     "categories": [
       "metal",
-      "punk",
       "rock"
     ],
     "tags": [
       "metal",
-      "punk",
       "rock"
     ],
     "homepage": "https://rockfm.lt/",
-    "favicon": "https://rockfm.lt/wp-content/uploads/2024/11/logo-fav-100x100.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1644,7 +1579,7 @@
     "homepage": "https://taktasfm.lt/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-12T21:13:45Z"
   },
   {
@@ -1680,20 +1615,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_d2bcee9721b41ea58fbe",
-    "name": "TOP FM",
-    "country": "LT",
-    "subdivision": "Vilnius",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://topfm.lt/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-24T19:52:54Z"
-  },
-  {
     "id": "awb_06baf55c84090d494b0b",
     "name": "TOP FM LT",
     "country": "LT",
@@ -1716,24 +1637,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://topfm.lt/",
-    "favicon": "https://topfm.lt/img/tamsus.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_03b3e0f805367e54ad12",
-    "name": "TopFm.lt",
-    "country": "LT",
-    "subdivision": "Vilnius",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://topfm.lt/",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
+    "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_2112c6ac3dad69c028fb",
@@ -1919,7 +1826,7 @@
     "homepage": "http://www.zipfm.lt/",
     "favicon": "https://zipfm.lt/wp-content/uploads/2023/11/cropped-zipfm-icon-180x180.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {

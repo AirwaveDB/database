@@ -60,30 +60,6 @@
     "updatedAt": "2026-10-12T09:31:20Z"
   },
   {
-    "id": "awb_232527de7b8bf8fd38b7",
-    "name": "Ars",
-    "country": "SI",
-    "subdivision": null,
-    "languages": [
-      "sl"
-    ],
-    "categories": [
-      "classical",
-      "public"
-    ],
-    "tags": [
-      "classical",
-      "cultural",
-      "public radio",
-      "rtvslo"
-    ],
-    "homepage": "http://ars.rtvslo.si/",
-    "favicon": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raars/icons/apple-touch-icon.png",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:05:57Z"
-  },
-  {
     "id": "awb_f361f87b65b595f3eeb9",
     "name": "Ars Tretji program",
     "country": "SI",
@@ -141,25 +117,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_9eea1fd9c64b88b42ae3",
-    "name": "BestFM",
-    "country": "SI",
-    "subdivision": null,
-    "languages": [
-      "sl"
-    ],
-    "categories": [],
-    "tags": [
-      "balkan",
-      "slovenia"
-    ],
-    "homepage": "https://bestfm.si/",
-    "favicon": "https://bestfm.si/icons/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:50:58Z"
   },
   {
     "id": "awb_e15645fd18762e6ca9a5",
@@ -511,25 +468,17 @@
     "id": "awb_03fd749ded6c5960b78f",
     "name": "Radio 1",
     "country": "SI",
-    "subdivision": "Osrednjeslovenska",
+    "subdivision": null,
     "languages": [
       "sl"
     ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "entertainment",
-      "music",
-      "news",
-      "pop"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.radio1.si/",
     "favicon": "https://media.radio1.si/ico/32.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T04:21:20Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T02:58:06Z"
   },
   {
     "id": "awb_aa68deee4197a0300b73",
@@ -540,22 +489,16 @@
       "sl"
     ],
     "categories": [
-      "news",
-      "pop",
-      "talk"
+      "pop"
     ],
     "tags": [
-      "commercial",
       "hits",
-      "news",
-      "pop",
-      "slovenia",
-      "talk"
+      "pop"
     ],
     "homepage": "https://radio1.svet24.si/",
-    "favicon": "https://media.radio1.si/ico/192.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1150,9 +1093,9 @@
       "techno"
     ],
     "homepage": "https://enter.radio/",
-    "favicon": "https://enter.radio/images/icons/icon_192x192.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1208,7 +1151,7 @@
     "homepage": "https://www.radiogorenc.si/",
     "favicon": "http://cdn-radiotime-logos.tunein.com/s9953q.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:59:11Z"
   },
   {
@@ -1275,24 +1218,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_7617d6a78a187d5d6ab8",
-    "name": "Radio MARŠ",
-    "country": "SI",
-    "subdivision": null,
-    "languages": [
-      "sl"
-    ],
-    "categories": [],
-    "tags": [
-      "student radio"
-    ],
-    "homepage": "http://radiomars.si/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:45:01Z"
   },
   {
     "id": "awb_a4ae672b61e1bd8dab46",
@@ -1388,21 +1313,18 @@
     "subdivision": "Ljubljana",
     "languages": [],
     "categories": [
-      "hip-hop",
       "jazz"
     ],
     "tags": [
-      "cafe",
       "disco",
       "funk",
-      "hiphop",
       "jazz",
       "soul"
     ],
     "homepage": "https://radionula.com/",
-    "favicon": "https://radionula.com/favicon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1428,24 +1350,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radionula.com/",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s111827g.png",
+    "favicon": "https://radionula.com/favicon.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_cc44efd69103d9098fcd",
-    "name": "Radio Nula Classic",
-    "country": "SI",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radionula.com/",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s111827g.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_799faf918593b58cbfb5",
@@ -1495,7 +1403,7 @@
     "homepage": "https://radionula.com/",
     "favicon": "https://cdn-radiotime-logos.tunein.com/s111827g.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1678,27 +1586,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:42:10Z"
-  },
-  {
-    "id": "awb_eda2258097ffa92236ed",
-    "name": "Radio Si",
-    "country": "SI",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "adult contemporary",
-      "international",
-      "public radio",
-      "rtvslo"
-    ],
-    "homepage": "http://radiosi.eu/",
-    "favicon": "http://img.rtvslo.si/_static/novi/bootstrap/public/themes/rasi/icons/apple-touch-icon.png",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_5bc6526bd3b17a89b1fc",
@@ -2182,20 +2069,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_aa9acde77f066b18dff7",
-    "name": "ROCK RADIO Hard & Heavy",
-    "country": "SI",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rockradio.si/",
-    "favicon": "https://www.datocms-assets.com/49761/1624049293-icon.png?auto=format&h=192&w=192",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-24T14:08:27Z"
-  },
-  {
     "id": "awb_8b9e81504b4ffe7d4495",
     "name": "Rock Radio Hard & Heavy SLO",
     "country": "SI",
@@ -2345,7 +2218,7 @@
     "homepage": "http://val202.rtvslo.si/",
     "favicon": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raval202/icons/apple-touch-icon.png",
     "type": "public",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T02:27:53Z"
   },
   {

@@ -61,22 +61,6 @@
     "updatedAt": "2026-01-15T01:19:59Z"
   },
   {
-    "id": "awb_51ca9ce8f25c9650f751",
-    "name": "101.1Megasite",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://37.247.98.8/stream/30/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:26:23Z"
-  },
-  {
     "id": "awb_02dd1212205d48612fad",
     "name": "101.4 HATAY TEMPO FM",
     "country": "TR",
@@ -103,31 +87,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_ba406e0f3c2c233c5af9",
-    "name": "102.1 Arabeskin Merkezi Fm",
-    "country": "TR",
-    "subdivision": "Istanbul",
-    "languages": [
-      "az",
-      "tk",
-      "tr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "arabesk",
-      "arabesk fantazi",
-      "arabic",
-      "pop"
-    ],
-    "homepage": "https://www.arabeskinmerkezi.com/",
-    "favicon": "https://images.keepone.net/1376-2022-10-17.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:47:23Z"
   },
   {
     "id": "awb_1237cd6082a64b5ec1d2",
@@ -168,43 +127,6 @@
     "updatedAt": "2026-09-08T08:15:36Z"
   },
   {
-    "id": "awb_5a3ce669144b2a104728",
-    "name": "90 lar Pop",
-    "country": "TR",
-    "subdivision": "Istambul",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://moondigitaledge.radyotvonline.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_ea73c8813c1649b16937",
-    "name": "90 LAR POP",
-    "country": "TR",
-    "subdivision": "Istanbul",
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "90s",
-      "90s pop",
-      "pop"
-    ],
-    "homepage": "https://onlineradio.com.tr/station/90-lar",
-    "favicon": "https://onlineradio.com.tr/images/50_radio.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-31T17:24:34Z"
-  },
-  {
     "id": "awb_c9899eb14c0141889244",
     "name": "90'lar Türkçe Pop",
     "country": "TR",
@@ -225,20 +147,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-24T10:59:26Z"
-  },
-  {
-    "id": "awb_ac71b2983a9eb1e5ff45",
-    "name": "90LAR",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-19T15:54:13Z"
   },
   {
     "id": "awb_b397ee45596369e6167e",
@@ -325,34 +233,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_9d26c73930c1f18dbb96",
-    "name": "a HABER",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.ahaber.com.tr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_c520cdef55b29de427ae",
-    "name": "A Haber Radyo",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.ahaber.com.tr/",
-    "favicon": "https://iaftmhttps//iaftm.tmgrup.com.tr/8640f1/0/0/0/0/0/0?u=https:/https://iaftmhttps://iaftm.tmgrup.com.tr/8640f1/0/0/0/0/0/0?u=https://iftm.tmgrup.com.tr/album/2020/03/24/1585055047913.jpg.tmgrup.com.tr/8640f1/0/0/0/0/0/0?u=https://iftm.tmgrup.com.tr/album/2020/03/24/1585055047913.jpg/iftm.tmgrup.com.tr/album/2020/03/24/1585055047913.jpg.tmgrup.com.tr/8640f1/0/0/0/0/0/0?u=https://iftm.tmgrup.com.tr/album/2020/03/24/1585055047913.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-21T17:52:54Z"
   },
   {
     "id": "awb_69d34633a28766018389",
@@ -583,12 +463,10 @@
   },
   {
     "id": "awb_603cfd16c1f82810e90f",
-    "name": "Alem FM",
+    "name": "Alem Fm",
     "country": "TR",
     "subdivision": null,
-    "languages": [
-      "tr"
-    ],
+    "languages": [],
     "categories": [
       "classical"
     ],
@@ -598,7 +476,7 @@
     "homepage": "https://www.alemfm.com/",
     "favicon": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -760,7 +638,7 @@
     "homepage": "http://www.arabeskfm.biz/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-04-04T20:32:45Z"
   },
   {
@@ -887,7 +765,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-04-04T20:32:23Z"
   },
   {
@@ -937,22 +815,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_4b9d0b68147788c06779",
-    "name": "Banko Fm 1",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://yayin.netradyom.com:9910/RADYOBANKO",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:28:27Z"
   },
   {
     "id": "awb_960311808b95f3028c64",
@@ -1018,24 +880,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-19T00:31:37Z"
-  },
-  {
-    "id": "awb_33f363253ede36ba41d7",
-    "name": "Batı Radyo",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_fd54475f24844f6d5fd3",
@@ -1345,27 +1189,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-30T09:03:25Z"
-  },
-  {
-    "id": "awb_4ecf8bff997288a01b93",
-    "name": "Bizim iller Radyosu",
-    "country": "TR",
-    "subdivision": "Denizli",
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "classical",
-      "religious"
-    ],
-    "tags": [
-      "islamic، classical"
-    ],
-    "homepage": "http://yayin.yayindakiler.com:4078/home.html?sid=1",
-    "favicon": "https://www.canliradyolardinle.com/img/205x205/bizim-iller-radyo.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-30T09:13:07Z"
   },
   {
     "id": "awb_45654650eb6c3ec7b5a1",
@@ -1701,22 +1524,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_e683a5187f4900ce123e",
-    "name": "Cnn Türk Radyo",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://cnnturk.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:05:08Z"
-  },
-  {
     "id": "awb_66a3cb1b24a272f4baad",
     "name": "Coastiva Radio",
     "country": "TR",
@@ -1775,7 +1582,7 @@
     "homepage": "https://www.damarturkfm.com/",
     "favicon": "https://www.damarturkfm.com/favicon.ico",
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 2,
     "updatedAt": "2026-04-04T20:32:23Z"
   },
   {
@@ -1862,20 +1669,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_f4d884d8c7ddffc4a16f",
-    "name": "Danceland turkey",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_bfc803782028ea9a0f36",
@@ -2016,7 +1809,7 @@
     "id": "awb_8dc344dd987ed3d504a1",
     "name": "dinamo.fm deep",
     "country": "TR",
-    "subdivision": "Istanbul",
+    "subdivision": "istanbul bagcılar",
     "languages": [
       "en",
       "tr"
@@ -2032,8 +1825,8 @@
     "homepage": "http://www.dinamo.fm/",
     "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-11-06T07:14:36Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T05:07:27Z"
   },
   {
     "id": "awb_1da58c9adefda6d59499",
@@ -2078,7 +1871,7 @@
     "homepage": "http://www.dinamo.fm/",
     "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-11-06T20:29:52Z"
   },
   {
@@ -2128,8 +1921,8 @@
     "homepage": "http://www.dinamo.fm/",
     "favicon": "https://www.dinamo.fm/favicons/dinamo-mmradyo-favicon.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-06T00:05:49Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T21:48:00Z"
   },
   {
     "id": "awb_ffeadaecbf30ca44c405",
@@ -2182,8 +1975,8 @@
     "homepage": "http://www.dinamo.fm/",
     "favicon": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-11-06T17:33:22Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T01:44:10Z"
   },
   {
     "id": "awb_173bf527a4d7f5eb635c",
@@ -2260,7 +2053,7 @@
     "homepage": "https://www.diyanetradyo.com/Canli-Dinle",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
@@ -2664,25 +2457,16 @@
     "id": "awb_12d5fb5cdd98902f4db6",
     "name": "Erkam Radyo",
     "country": "TR",
-    "subdivision": "Istanbul",
+    "subdivision": null,
     "languages": [
       "tr"
     ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "islam",
-      "islamic",
-      "istanbul",
-      "muslim",
-      "religion",
-      "turk"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.erkamradyo.com/",
     "favicon": "https://www.erkamradyo.com/images/mobil.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3049,20 +2833,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_cf502c2affdcc0d19515",
-    "name": "FIND A CUTİE",
-    "country": "TR",
-    "subdivision": "Istanbul",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://stream.zeno.fm/lyl2uv7fcvovv",
-    "favicon": "https://stream.zeno.fm/lyl2uv7fcvovv",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_0ca0fca7eb5f52b1bf41",
     "name": "FIND A CUTİE <3",
     "country": "TR",
@@ -3111,20 +2881,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-25T07:53:10Z"
-  },
-  {
-    "id": "awb_b51b70c79472e34ab4ac",
-    "name": "FLOWRADYO",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-19T15:48:16Z"
   },
   {
     "id": "awb_982fd4e546db111223b7",
@@ -3420,28 +3176,6 @@
     "updatedAt": "2026-05-06T13:39:15Z"
   },
   {
-    "id": "awb_2418bbaaf4575f6ef754",
-    "name": "Gundi FM",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "ku"
-    ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk music",
-      "kurdish folk music",
-      "kurdish songs"
-    ],
-    "homepage": "http://www.gundifm.com/",
-    "favicon": "https://yt3.ggpht.com/ytc/AKedOLSnbp3j7UCOUCra41mcQXEaeuobWPad1G7bwOsZDw=s900-c-k-c0x00ffffff-no-rj",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:56:58Z"
-  },
-  {
     "id": "awb_9cc88cd55ff04818cebb",
     "name": "Gundi Fm",
     "country": "TR",
@@ -3525,9 +3259,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.haberturkradyo.com.tr/",
-    "favicon": "https://www.haberturkradyo.com.tr/wp-content/uploads/2017/07/cropped-RADYO_LOGO_Son-180x180.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3659,7 +3393,7 @@
     "homepage": "https://www.hayatmix.com/slow/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3672,14 +3406,13 @@
       "pop"
     ],
     "tags": [
-      "classic hits",
       "classic-hits",
       "hits"
     ],
     "homepage": "https://www.heartfm.com.tr/",
-    "favicon": "https://www.heartfm.com.tr/img/logo-darkheart.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3743,26 +3476,6 @@
     "updatedAt": "2026-10-11T23:25:23Z"
   },
   {
-    "id": "awb_ee2bbe7a1f1c4671de3d",
-    "name": "Hemdem Pop Radyo",
-    "country": "TR",
-    "subdivision": "Uskudar",
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "türkçe pop"
-    ],
-    "homepage": "https://www.hemdemradyo.com/",
-    "favicon": "https://ibb.co/r2VYMqy7",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-13T21:01:24Z"
-  },
-  {
     "id": "awb_ebbdfb6b88cfdb72a42a",
     "name": "Hemdem Radyo",
     "country": "TR",
@@ -3824,7 +3537,7 @@
     "homepage": "http://www.heyradyo.com/",
     "favicon": "http://www.heyradyo.com/assets/favicon.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3971,9 +3684,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
-    "favicon": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4030,26 +3743,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_2593dc612fee5f2e3879",
-    "name": "istanbul fm",
-    "country": "TR",
-    "subdivision": "is",
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://www.istanbulfm.com.tr/",
-    "favicon": "https://www.istanbulfm.com.tr/assets/logo.png?v=58",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-07T14:31:50Z"
-  },
-  {
     "id": "awb_74fa9698f6e2e75e6d34",
     "name": "İstanbul FM",
     "country": "TR",
@@ -4078,22 +3771,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-07T14:21:59Z"
-  },
-  {
-    "id": "awb_b80b01a5cc97c86dcf6d",
-    "name": "İTÜ Klasik",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://eskiweb.radyo.itu.edu.tr/v1/klasik/index.html",
-    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-media.streema.com%2Fmedia%2Fcache%2F67%2F92%2F67927d9794c4535218ca4dfc85e58c1c.jpg&f=1&nofb=1&ipt=199dd090ea0b2d9b521c7b84cc0e2838c2b42aacd8a2ff4a04f2ea06a32ae0b6",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-31T08:40:30Z"
   },
   {
     "id": "awb_55d7fa851a607a661b2d",
@@ -4128,7 +3805,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
@@ -4182,7 +3859,7 @@
     "homepage": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4241,21 +3918,19 @@
       "tr"
     ],
     "categories": [
-      "pop",
       "rock"
     ],
     "tags": [
       "alternative",
       "classic rock",
-      "pop rock",
       "rock",
       "turkish rock"
     ],
     "homepage": "https://www.karnaval.com/radyolar/joyturk-rock",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-DbiEWpWrOXoAn7dYihxUrwemOvxre5n5g&s",
+    "favicon": "https://api.karnaval.com/v1/stations/joyturk-rock/logos/square",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-02-01T14:39:59Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-31T22:50:25Z"
   },
   {
     "id": "awb_8b6bceb7cce3a1284aa3",
@@ -4270,7 +3945,7 @@
     "homepage": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-03-20T11:55:39Z"
   },
   {
@@ -4381,7 +4056,7 @@
     "homepage": "https://yayin.radyomadyo.com:8004/stream",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4478,20 +4153,6 @@
     "updatedAt": "2026-04-19T15:38:20Z"
   },
   {
-    "id": "awb_246855523bc944a85014",
-    "name": "KİSS LOVE RADYO TURKEY",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://anadolu.liderhost.com.tr:10964/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_c324e41a3dcac1941bb8",
     "name": "KİSS MUSİKİ",
     "country": "TR",
@@ -4572,7 +4233,7 @@
     "homepage": "https://kiyimuzik.com/radyo/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4588,7 +4249,7 @@
     "homepage": "https://kiyimuzik.com/radyo/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4641,20 +4302,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-31T08:47:38Z"
-  },
-  {
-    "id": "awb_b697402d91004879d832",
-    "name": "Kıyı Radyo",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://kiyimuzik.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_cab5ae1eed221e600e07",
@@ -4749,25 +4396,11 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.kralmuzik.com.tr/radyo/kral-fm#",
-    "favicon": "https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png",
-    "type": null,
-    "sourceCount": 7,
-    "updatedAt": "2026-04-01T18:48:37Z"
-  },
-  {
-    "id": "awb_c42c47a374883c1f603b",
-    "name": "KRAL POP",
-    "country": "TR",
-    "subdivision": "Turkey",
-    "languages": [],
-    "categories": [],
-    "tags": [],
     "homepage": "https://www.kralmuzik.com.tr/",
-    "favicon": "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png",
+    "favicon": "https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kralmuzik_logo.png?v=2",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-03-20T11:55:13Z"
   },
   {
     "id": "awb_d7d84a05af35502031b6",
@@ -4794,7 +4427,7 @@
     "homepage": "https://live.radyositesihazir.com/8032/stream",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4841,20 +4474,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_180bdc1742ecde804f6b",
-    "name": "KURAN VE MEAL",
-    "country": "TR",
-    "subdivision": "Mersin",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://baser.org/",
-    "favicon": "http://baser.org/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-23T17:29:57Z"
   },
   {
     "id": "awb_b68dd0926fc77b280cb4",
@@ -5025,20 +4644,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_e0985661d177469f662c",
-    "name": "loops radio",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://loopsradio.com/",
-    "favicon": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_51bd57c302fa114dc16e",
@@ -5223,26 +4828,16 @@
   },
   {
     "id": "awb_47e492b7eabd951aa1f5",
-    "name": "Max Fm 95.8 Maximum Music",
+    "name": "Max Fm 95.8 ‘Maximum Music'",
     "country": "TR",
-    "subdivision": "Ankara",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "country",
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://www.maxfm.com.tr/",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.maxfm.com.tr/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5354,13 +4949,12 @@
     "tags": [
       "hits",
       "oldies",
-      "pop",
-      "turkish music"
+      "pop"
     ],
     "homepage": "https://mega-ask.com.tr/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5378,24 +4972,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-01T09:02:54Z"
-  },
-  {
-    "id": "awb_39ef2ab0e8c0c7eecfd1",
-    "name": "MEGA SİTE",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [
-      "http://yayin.netradyom.com:7900/;stream.mp3"
-    ],
-    "homepage": "http://yayin.netradyom.com:7900/;stream.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:36:11Z"
   },
   {
     "id": "awb_6e03ee315d39eb96bd04",
@@ -5613,7 +5189,7 @@
     "id": "awb_9b304479aab13c23b99c",
     "name": "MK Radyo",
     "country": "TR",
-    "subdivision": "Istanbul",
+    "subdivision": "Bursa",
     "languages": [
       "tr"
     ],
@@ -5624,7 +5200,7 @@
     "homepage": "https://mkradyo.com/",
     "favicon": "https://mkradyo.com/mk.png?v=20260512-0247",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-06-01T17:14:48Z"
   },
   {
@@ -5875,7 +5451,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-05-18T19:36:05Z"
   },
   {
@@ -5907,7 +5483,7 @@
     "homepage": "http://www.palfm.com.tr/",
     "favicon": "http://www.palfm.com.tr/img/logo/pal-fm.ico",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-03-19T16:42:57Z"
   },
   {
@@ -5923,8 +5499,8 @@
     "homepage": "https://www.palnostalji.com.tr/",
     "favicon": null,
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-04-20T06:26:52Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-03-19T14:17:29Z"
   },
   {
     "id": "awb_ea7246940275ee1d416a",
@@ -5948,20 +5524,17 @@
     "id": "awb_75d50e00041910f1f082",
     "name": "Pal Station",
     "country": "TR",
-    "subdivision": "Istanbul",
+    "subdivision": "Music",
     "languages": [
-      "en",
-      "tr"
+      "en"
     ],
     "categories": [],
-    "tags": [
-      "yabancı"
-    ],
+    "tags": [],
     "homepage": "https://paldigital.com.tr/radyolar/pal-station",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-29T21:40:57Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T21:36:57Z"
   },
   {
     "id": "awb_e399180509bec6fb8f45",
@@ -6042,7 +5615,7 @@
     "homepage": "https://www.playdanceradio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6094,28 +5667,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_37becce355c42570027c",
-    "name": "POP 90 Turkiye",
-    "country": "TR",
-    "subdivision": "Istanbul",
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "90s pop",
-      "turkish pop"
-    ],
-    "homepage": "https://karnaval.com/radyolar/pop90",
-    "favicon": "https://media.radiospinner.com/media/logos/180/48628/logo_bnYEmsRas6.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-24T04:42:13Z"
   },
   {
     "id": "awb_3d61af7800fa3a961a70",
@@ -6230,7 +5781,7 @@
     "homepage": "https://www.powerapp.com.tr/",
     "favicon": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_37.png?v=716",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-03-20T11:55:05Z"
   },
   {
@@ -6319,20 +5870,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_0969d321b908a03f757d",
-    "name": "Power RB Hip Hop",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-19T15:12:50Z"
-  },
-  {
     "id": "awb_7d0f83d823e1b5a68efa",
     "name": "POWER TÜRK DANS TÜRKİYE",
     "country": "TR",
@@ -6357,22 +5894,8 @@
     "homepage": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-04-04T20:32:15Z"
-  },
-  {
-    "id": "awb_133bc7c07f604a453674",
-    "name": "POWER TÜRK TAPTAZE",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
-    "favicon": null,
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-03-30T20:02:32Z"
+    "updatedAt": "2026-04-04T20:32:15Z"
   },
   {
     "id": "awb_ee9df0ed80a036fa2826",
@@ -6435,22 +5958,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_fd6a73817cb2c2cb9e68",
-    "name": "POWERTÜRK FM TURKEY 2",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:21:40Z"
-  },
-  {
     "id": "awb_7003a9466a4a694f0e0e",
     "name": "Powerturk R&B Hip Hop",
     "country": "TR",
@@ -6469,21 +5976,14 @@
     "name": "PowerTürk Rap",
     "country": "TR",
     "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "hip-hop"
-    ],
-    "tags": [
-      "hip hop",
-      "rap"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.powerapp.com.tr/radios/powerturkrap/",
     "favicon": "https://cdn.powergroup.com.tr/image/90x90/powerapp/channels/v3/logo_1403.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-23T13:37:43Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-05-23T13:35:46Z"
   },
   {
     "id": "awb_aed898128d29d9083c48",
@@ -6540,36 +6040,13 @@
     ],
     "tags": [
       "hits",
-      "pop",
-      "top40",
-      "turkish music"
+      "pop"
     ],
     "homepage": "https://radyo44.com.tr/",
-    "favicon": "https://radyo44.com.tr/favicons/favicon-32x32.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_9c2d7271a35718b1a5d7",
-    "name": "Radio 44 Malatya",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk",
-      "folk music"
-    ],
-    "homepage": "https://onlineradiofm.com/station/radio-44/",
-    "favicon": "https://onlineradiofm.com/wp-content/uploads/2026/06/radio-44-logo.webp",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-06-23T13:06:21Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_4353ff32fd7bc8de1495",
@@ -6764,7 +6241,7 @@
   },
   {
     "id": "awb_609df7a8c245f7ddfaa2",
-    "name": "radio megasite",
+    "name": "Radio Megasite",
     "country": "TR",
     "subdivision": null,
     "languages": [
@@ -6772,10 +6249,10 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "http://yayin.netradyom.com:7900/;",
+    "homepage": "http://yayin.netradyom.com:7900/;stream.mp3",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:20:33Z"
   },
   {
@@ -6835,22 +6312,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-08T13:49:38Z"
-  },
-  {
-    "id": "awb_e66a68fb80780e24fc43",
-    "name": "Radioo Mega site",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://mega.netradyom.com:7900/listen.pls",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:36:09Z"
   },
   {
     "id": "awb_6007ab4e525a584f3a41",
@@ -7171,9 +6632,7 @@
     "name": "RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE",
     "country": "TR",
     "subdivision": "Konya",
-    "languages": [
-      "tr"
-    ],
+    "languages": [],
     "categories": [
       "hip-hop",
       "pop",
@@ -7181,12 +6640,7 @@
       "rock"
     ],
     "tags": [
-      "anthems",
-      "epic",
       "local radio",
-      "orchestral",
-      "pop music",
-      "pop rock",
       "public radio",
       "radio",
       "turkey",
@@ -7199,8 +6653,22 @@
     "homepage": "https://www.radio.net/s/radio-42-fm-medya-konya-pr-music",
     "favicon": "https://www.radio.net/300/radio-42-fm-medya-konya-pr-music.png",
     "type": "public",
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T04:16:44Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_d0b208cda0b89c8ebb11",
+    "name": "Radyo 44",
+    "country": "TR",
+    "subdivision": "Türkiye",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radyo44.com.tr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T21:44:50Z"
   },
   {
     "id": "awb_f4d4741c3eaaf8ebe998",
@@ -7236,65 +6704,6 @@
     "updatedAt": "2026-03-01T18:26:00Z"
   },
   {
-    "id": "awb_900f8accabef69ab67c4",
-    "name": "Radyo 45’lik, 1970’ler, 1980’ler ve 1990’lar",
-    "country": "TR",
-    "subdivision": "Turkey",
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [
-      "1970’ler",
-      "1980’ler ve 1990’lar",
-      "radyo 45’lik"
-    ],
-    "homepage": "https://radyo45lik.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:17:31Z"
-  },
-  {
-    "id": "awb_fcad095f1ea3c0ea4eb7",
-    "name": "Radyo 45lik - 45'lik Radyo",
-    "country": "TR",
-    "subdivision": "Turkey",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radyo45lik.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_2f138ccc2129e9159816",
-    "name": "Radyo 45lik Canlı Yayın - En İyi Türkçe Nostalji Şarkılar | 70ler 80ler ve 90lar",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "70er",
-      "70s",
-      "80er",
-      "80s",
-      "90er",
-      "90s"
-    ],
-    "homepage": "https://radyo45lik.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:59:53Z"
-  },
-  {
     "id": "awb_2e970649b7f74283e29b",
     "name": "Radyo 45lik yeni",
     "country": "TR",
@@ -7315,7 +6724,7 @@
     "homepage": "https://www.radyo45lik.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7426,51 +6835,6 @@
     "updatedAt": "2026-03-25T06:46:53Z"
   },
   {
-    "id": "awb_b8b369181192071070e2",
-    "name": "Radyo 9",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "9",
-      "99.9",
-      "99.9 fm",
-      "ankara",
-      "aydin",
-      "aydın",
-      "bölgesel",
-      "dokuz",
-      "fm",
-      "haber",
-      "istanbul",
-      "izmir",
-      "müzik",
-      "nazilli",
-      "news",
-      "pop",
-      "pop müzik",
-      "radyo",
-      "radyo 9",
-      "turkey",
-      "türk",
-      "türkiye",
-      "türkçe",
-      "ulusal",
-      "yerel"
-    ],
-    "homepage": "https://www.radyo9.com/",
-    "favicon": "https://www.radyo9.com/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:26:48Z"
-  },
-  {
     "id": "awb_c25956efb6bd7e09a210",
     "name": "RADYO 90",
     "country": "TR",
@@ -7578,7 +6942,7 @@
     "homepage": "https://radyoalaturka.com.tr/index?0",
     "favicon": "https://radyoalaturka.com.tr/site/assets/img/alaturkaLogo.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7866,22 +7230,6 @@
     "updatedAt": "2026-04-20T07:27:36Z"
   },
   {
-    "id": "awb_71a3c5ef218ccab2d8fe",
-    "name": "Radyo D",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radyod.com/",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s14264d.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:13:18Z"
-  },
-  {
     "id": "awb_fd9aadde81b65e4b951a",
     "name": "RADYO D",
     "country": "TR",
@@ -8128,23 +7476,19 @@
     "id": "awb_31c25f6ce932b250acba",
     "name": "Radyo Eksen",
     "country": "TR",
-    "subdivision": "Istanbul",
-    "languages": [
-      "tr"
-    ],
+    "subdivision": null,
+    "languages": [],
     "categories": [
       "rock"
     ],
     "tags": [
-      "alternative",
-      "indie",
       "rock"
     ],
     "homepage": "https://radioeksen.com/",
-    "favicon": "https://play-lh.googleusercontent.com/mZJAkKjMR2K7fgYclmBl5rJP7oBcd_sMOnI-E0KrB56UO0Ew7bYUWgWijJ5xTOB_mKk",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-02-01T13:09:04Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_47af215d130a92b17d3e",
@@ -8647,24 +7991,6 @@
     "updatedAt": "2026-03-19T00:40:55Z"
   },
   {
-    "id": "awb_d5b4dc80e0b2b956c52b",
-    "name": "Radyo Kaptan",
-    "country": "TR",
-    "subdivision": "İstanbul",
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [
-      "fantazi muzik"
-    ],
-    "homepage": "https://radyokaptan.com.tr/",
-    "favicon": "https://hizliresim.com/oornni4m",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-18T02:01:22Z"
-  },
-  {
     "id": "awb_25b0ae62a9baaaf48abf",
     "name": "Radyo Karadeniz",
     "country": "TR",
@@ -8897,7 +8223,7 @@
   },
   {
     "id": "awb_c6a76626da59326622de",
-    "name": "radyo megasite",
+    "name": "Radyo Megasite",
     "country": "TR",
     "subdivision": null,
     "languages": [
@@ -8905,14 +8231,12 @@
     ],
     "categories": [],
     "tags": [
-      "http://mega.netradyom.com:7900/listen.pls",
-      "music",
-      "oyun havası"
+      "music"
     ],
     "homepage": "http://mega.netradyom.com:7900/listen.pls",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T07:28:39Z"
   },
   {
@@ -9309,16 +8633,12 @@
     "languages": [
       "tr"
     ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.radyoseymen.com.tr/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -9516,7 +8836,7 @@
     "homepage": "https://radyotrio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -9648,10 +8968,10 @@
     "tags": [
       "pop"
     ],
-    "homepage": "https://radyoviva.com.tr/",
+    "homepage": "https://www.radyoviva.com.tr/",
     "favicon": "https://demo.radyoviva.com.tr/wp-content/uploads/2020/06/radyo-viva.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -9818,23 +9138,16 @@
     ],
     "categories": [
       "jazz",
-      "news",
       "pop"
     ],
     "tags": [
-      "ai",
-      "ai radio",
-      "istanbul",
       "jazz",
-      "news",
-      "pop",
-      "turkish radio",
-      "t�rk�e"
+      "pop"
     ],
     "homepage": "https://radiaura.net/radyoaura",
-    "favicon": "https://radiaura.net/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10160,25 +9473,6 @@
     "updatedAt": "2026-01-15T05:39:41Z"
   },
   {
-    "id": "awb_3f3dc623ad250607dfc3",
-    "name": "S1LHOUTTE ANKARA HAVALARI",
-    "country": "TR",
-    "subdivision": "Ankara",
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [
-      "turk",
-      "turkish music"
-    ],
-    "homepage": "http://37.247.98.8/stream/30/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:27:50Z"
-  },
-  {
     "id": "awb_d5a275208eca140bde0e",
     "name": "S1lhoutte Arabesk FM",
     "country": "TR",
@@ -10195,6 +9489,26 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_3d7e761e7f2c06f240c0",
+    "name": "SadaQuran",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "islamic devotional",
+      "quranic recitation",
+      "tajweed"
+    ],
+    "homepage": "https://aweradio.app/@sadaquran",
+    "favicon": "https://hls.aweradio.app/stations/sadaquran/avatar-256.png?v=1793452690680",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T10:44:48Z"
   },
   {
     "id": "awb_bf58cfec2fcade117ea8",
@@ -10276,22 +9590,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_e45324fba2f06dcbe989",
-    "name": "Serhat FM 91.5",
-    "country": "TR",
-    "subdivision": "Kırklareli",
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://serhatfm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:53:33Z"
-  },
-  {
     "id": "awb_575e9c193ee15cffe25c",
     "name": "SES FM",
     "country": "TR",
@@ -10323,27 +9621,15 @@
     "id": "awb_3037be11d5689b1b7b00",
     "name": "Sezen Radyo",
     "country": "TR",
-    "subdivision": "Aydin",
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "jazz",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "320mpbs",
-      "jazz",
-      "newage",
-      "pop.mp3",
-      "rock"
-    ],
-    "homepage": "https://www.sezenradyo.com/",
-    "favicon": "https://www.sezenradyo.com/favicon",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.sezenradyo.com/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:23:20Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_b34289bf1b495af1a721",
@@ -10356,7 +9642,7 @@
     "homepage": "https://showradyo.com.tr/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10403,23 +9689,12 @@
     "languages": [
       "tr"
     ],
-    "categories": [
-      "folk",
-      "pop"
-    ],
-    "tags": [
-      "arabesk",
-      "arabesk fantazi",
-      "folk",
-      "pop",
-      "türk halk müziği",
-      "türkü",
-      "türkü radyo"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://sizirfm.com/",
     "favicon": "https://sizirfm.com/assets/favicon.ico",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10451,7 +9726,7 @@
     "homepage": "https://www.slowturk.com.tr/",
     "favicon": "https://www.slowturk.com.tr/_next/image?url=https%3A%2F%2Fassets.blupoint.io%2Fimg%2F85%2F330x175%2F6410d8c4310c17000763c62b&w=256&q=75",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10543,7 +9818,7 @@
     "homepage": "https://superfm.com.tr/",
     "favicon": "https://superfm.com.tr/favicon.ico",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10795,24 +10070,6 @@
     "updatedAt": "2026-04-19T16:23:23Z"
   },
   {
-    "id": "awb_a9d0417c9278580d87f9",
-    "name": "trio",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://radyotrio.radyotvonline.net/radyotrio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:07:55Z"
-  },
-  {
     "id": "awb_1fc6e28bd6cd266715b4",
     "name": "TRT Antalya",
     "country": "TR",
@@ -10907,9 +10164,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radyo.trt.net.tr/",
-    "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/dd24ba9f-7f22-4b79-a226-9704169bd953.png",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26l-9JbeXAZk9az8cBWQ6XUCOvUki-hZQaTVV0BRfvw&s=10",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10983,9 +10240,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radyo.trt.net.tr/kanallar/radyo-1",
-    "favicon": "https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_Radyo_1_logo.svg/",
+    "favicon": "https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_Radyo_1_logo.svg/revision/latest/scale-to-width-down/300?cb=20211026160210",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -11017,16 +10274,12 @@
     "languages": [
       "tr"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radyo.trt.net.tr/kanallar/trt-radyo-haber",
-    "favicon": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/20d0b80f-bb7a-4fcb-9a61-88662ebcb2dc.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -11299,13 +10552,11 @@
     "subdivision": "kocaeli",
     "languages": [],
     "categories": [],
-    "tags": [
-      "türkü radyo"
-    ],
+    "tags": [],
     "homepage": "https://www.turkuradyo.info/",
-    "favicon": "https://www.turkuradyo.info/public/default/images/upload/1190220421012000.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -11596,7 +10847,7 @@
     "homepage": "http://www.virginradioturkiye.com/",
     "favicon": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-04-04T20:32:45Z"
   },
   {
@@ -11626,20 +10877,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-19T16:07:28Z"
-  },
-  {
-    "id": "awb_c1ba2ec29498e66e56bd",
-    "name": "Vokal Tr",
-    "country": "TR",
-    "subdivision": "Istanbul",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://moondigitaledge.radyotvonline.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_d8b8f7a082ef46123681",
@@ -11687,28 +10924,13 @@
       "hip-hop"
     ],
     "tags": [
-      "turkısh rap",
       "türkçe rap"
     ],
     "homepage": "https://www.xradio.com.tr/",
-    "favicon": "https://www.xradio.com.tr/favicon.ico",
+    "favicon": "https://xradio.com.tr/favicon.ico",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_c8960d2cc63f77d0f437",
-    "name": "X RADYO",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://xradio.com.tr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-19T00:25:56Z"
   },
   {
     "id": "awb_6aba2835af2088fc39d3",

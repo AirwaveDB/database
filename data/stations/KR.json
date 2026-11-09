@@ -215,29 +215,6 @@
     "updatedAt": "2026-01-15T01:12:03Z"
   },
   {
-    "id": "awb_346cb38d2b765b629b06",
-    "name": "Busan e FM",
-    "country": "KR",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "education",
-      "information",
-      "music",
-      "news"
-    ],
-    "homepage": null,
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTihZxBHWCYGJUDwM_NZ_UtayatOGsQZ3i-X3hPaFx3vw&s=10",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-22T12:27:33Z"
-  },
-  {
     "id": "awb_cbb79bbda19da28f43ba",
     "name": "CBS JOY4U",
     "country": "KR",
@@ -288,20 +265,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_657ef0ee27c15c52e56b",
-    "name": "CBS 음악FM",
-    "country": "KR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.cbs.co.kr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_6f7c4c087d1a23805a38",
@@ -667,20 +630,6 @@
     "updatedAt": "2026-01-15T06:23:58Z"
   },
   {
-    "id": "awb_cedc0fb22077967aeb7c",
-    "name": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
-    "country": "KR",
-    "subdivision": "korea",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-25T05:09:34Z"
-  },
-  {
     "id": "awb_f1447cd21a370c3d8bbc",
     "name": "JeonjuFM",
     "country": "KR",
@@ -747,8 +696,8 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_63d16a03d500ab5555de",
-    "name": "KBS 1R",
+    "id": "awb_3d846ff7788d519d4e24",
+    "name": "KBS 1RADIO",
     "country": "KR",
     "subdivision": "Seoul",
     "languages": [
@@ -756,26 +705,10 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.kbs.co.kr/",
-    "favicon": "https://res.static.kbs.co.kr/favicon.png",
+    "homepage": "http://kbs.co.kr/",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:52:28Z"
-  },
-  {
-    "id": "awb_3d846ff7788d519d4e24",
-    "name": "KBS 1Radio",
-    "country": "KR",
-    "subdivision": "Seoul",
-    "languages": [
-      "ko"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.kbs.co.kr/",
-    "favicon": "https://res.static.kbs.co.kr/favicon.png",
-    "type": null,
-    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -808,60 +741,27 @@
       "classical"
     ],
     "tags": [
-      "classic",
       "classical"
     ],
     "homepage": "http://www.kbs.co.kr/",
     "favicon": "http://www.kbs.co.kr//resources/images/favorite/favorite.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-10T14:57:02Z"
-  },
-  {
-    "id": "awb_9cf73178a232721d7390",
-    "name": "KBS Classic FM",
-    "country": "KR",
-    "subdivision": "Seoul",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "classic"
-    ],
-    "homepage": "https://radio.kbs.co.kr/",
-    "favicon": "https://images2.imgbox.com/da/9b/4bV5pJxL_o.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-02-02T04:49:20Z"
-  },
-  {
-    "id": "awb_21289aeac81bb437bf8f",
-    "name": "KBS Classic FM zstream",
-    "country": "KR",
-    "subdivision": "Seoul",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.kbs.co.kr/",
-    "favicon": "https://imgur.com/0sWnnQO",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-26T23:39:39Z"
+    "updatedAt": "2026-01-15T01:14:34Z"
   },
   {
     "id": "awb_f281ee621aff4c56f7dc",
     "name": "KBS Cool FM",
     "country": "KR",
     "subdivision": "Seoul",
-    "languages": [
-      "ko"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "http://www.kbs.co.kr/",
     "favicon": "https://res.static.kbs.co.kr/favicon.png",
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-01-15T01:24:48Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_2c7f417f6435b6c904a4",
@@ -924,9 +824,9 @@
       "kpop"
     ],
     "homepage": "https://listen.moe/kpop",
-    "favicon": "https://listen.moe/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1006,22 +906,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_9202ececa645f985f691",
-    "name": "MBC FM4U",
-    "country": "KR",
-    "subdivision": "Seoul",
-    "languages": [
-      "ko"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.imbc.com/",
-    "favicon": "http://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:39:51Z"
   },
   {
     "id": "awb_91c6ff13da42066afce6",
@@ -1156,7 +1040,7 @@
     "id": "awb_b9ed1e0f3da801482b69",
     "name": "SBS Love FM",
     "country": "KR",
-    "subdivision": "Seoul",
+    "subdivision": null,
     "languages": [
       "ko"
     ],
@@ -1169,8 +1053,8 @@
     "homepage": "https://www.sbs.co.kr/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:34:41Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:00:03Z"
   },
   {
     "id": "awb_0909a0c16f3b9f3627da",
@@ -1311,24 +1195,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-06T05:38:20Z"
-  },
-  {
-    "id": "awb_dc018edfd26d506ad345",
-    "name": "WOW CCM",
-    "country": "KR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": null,
-    "favicon": "https://images.app.goo.gl/ace67skP1qBC1abH8",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_e1af3fe8816fc9db778e",
@@ -1493,30 +1359,6 @@
     "updatedAt": "2026-01-15T07:50:50Z"
   },
   {
-    "id": "awb_60d334349ffd9318f9c5",
-    "name": "올드팝카페",
-    "country": "KR",
-    "subdivision": "Seoul",
-    "languages": [
-      "ko"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "oldies",
-      "oldies 50's/60's",
-      "pop music",
-      "popular music"
-    ],
-    "homepage": "https://oldpopcafe.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:20:39Z"
-  },
-  {
     "id": "awb_14de262831970505c6bf",
     "name": "평양FM",
     "country": "KR",
@@ -1524,19 +1366,14 @@
     "languages": [
       "ko"
     ],
-    "categories": [
-      "news"
-    ],
+    "categories": [],
     "tags": [
-      "105.2",
-      "105.2 fm",
-      "music",
-      "news"
+      "music"
     ],
     "homepage": "https://www.behindthecurtain-northkorea.com/audio-pyongyangfm",
-    "favicon": "https://www.behindthecurtain-northkorea.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

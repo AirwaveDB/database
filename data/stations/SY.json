@@ -28,9 +28,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://tunein.com/radio/Al-karma-fm-941-s352111",
-    "favicon": "https://cdn-profiles.tunein.com/s352111/images/logod.png?t=639052093240000000",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -82,22 +82,6 @@
     "updatedAt": "2026-01-14T23:40:27Z"
   },
   {
-    "id": "awb_1aa8e79449dd5c012c59",
-    "name": "Arta FM",
-    "country": "SY",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.artafm.com/",
-    "favicon": "https://www.artafm.com/sites/all/themes/simpl/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:37:06Z"
-  },
-  {
     "id": "awb_b8259f1ae337b75effd4",
     "name": "Arta Radio",
     "country": "SY",
@@ -126,7 +110,7 @@
     "homepage": "https://www.asima-online.net/",
     "favicon": "https://www.asima-online.net/wp-content/uploads/2020/06/cropped-logo-asima-180x180.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T05:01:43Z"
   },
   {
@@ -169,18 +153,12 @@
     "languages": [
       "ku"
     ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk music",
-      "kurdish folk music",
-      "kurdish songs"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://laut.fm/dengeqamishlo",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -198,8 +176,8 @@
     "homepage": "https://www.emaarradio.com/",
     "favicon": "https://www.emaarradio.com/images/logo.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T08:27:56Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T07:19:54Z"
   },
   {
     "id": "awb_b31fc2181f14450a0a5f",
@@ -216,24 +194,8 @@
     "homepage": "https://play.exclusive.radio/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_772f5510116070d01676",
-    "name": "Farah FM",
-    "country": "SY",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://farah.fm/",
-    "favicon": null,
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:52:50Z"
+    "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_a1c92187b13b54ef045d",
@@ -348,22 +310,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_f23f89f72ae915d60839",
-    "name": "Sawt Al Farah",
-    "country": "SY",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-17T13:49:47Z"
-  },
-  {
     "id": "awb_90486cd732802c59d540",
     "name": "sham fm",
     "country": "SY",
@@ -378,22 +324,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T07:54:20Z"
-  },
-  {
-    "id": "awb_5bb186ae5f0716fe4dbd",
-    "name": "Syria TV",
-    "country": "SY",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.syria.tv/",
-    "favicon": "https://www.syria.tv/themes/custom/syriatv/assets/images/logo.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:27:11Z"
   },
   {
     "id": "awb_7465f1775aeaba64e105",

@@ -130,24 +130,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_6305d0e72050caf9b6e7",
-    "name": "Radio Polignano Web",
-    "country": "AD",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://sp3.server89.com:7018/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240118_121338383.jpg?alt=media&token=a4b228ef-15c9-4e25-bc90-aca1bf9bb30c",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:51:19Z"
-  },
-  {
     "id": "awb_d0cb405e24fc1e3abb80",
     "name": "RadioSoleLuna",
     "country": "AD",
@@ -162,7 +144,7 @@
     "homepage": "https://cast3.server89.com/radio/8040/radio.mp3",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -182,25 +164,5 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_3aa20fe54e04955490e1",
-    "name": "toker fm",
-    "country": "AD",
-    "subdivision": null,
-    "languages": [
-      "he"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "religious"
-    ],
-    "homepage": "https://live.toker.fm:6060/;",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:31:17Z"
   }
 ]

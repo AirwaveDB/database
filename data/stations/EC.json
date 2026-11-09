@@ -1,19 +1,5 @@
 [
   {
-    "id": "awb_f36122d4819d9ca5934a",
-    "name": "Abba FM",
-    "country": "EC",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-08T03:10:48Z"
-  },
-  {
     "id": "awb_592da2750f224f3a2795",
     "name": "Alfa Radio98.5FM",
     "country": "EC",
@@ -252,17 +238,11 @@
       "es"
     ],
     "categories": [],
-    "tags": [
-      "baladas en español",
-      "entretenimiento",
-      "information",
-      "musica romantica",
-      "radio hablada"
-    ],
+    "tags": [],
     "homepage": "https://complicefm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -383,6 +363,30 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_b372c128b0914dc6255f",
+    "name": "Ecuatorial fm",
+    "country": "EC",
+    "subdivision": "Quito",
+    "languages": [],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "crossover",
+      "cumbia",
+      "cumbia ecuatoriana",
+      "folclore",
+      "merengue",
+      "salsa",
+      "tropical"
+    ],
+    "homepage": "http://www.radioecuatorialfm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T00:13:09Z"
+  },
+  {
     "id": "awb_c920bbd4bbbc7f4e97e4",
     "name": "EXA FM",
     "country": "EC",
@@ -395,20 +399,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-24T04:21:20Z"
-  },
-  {
-    "id": "awb_fa698ef67941757f0f8b",
-    "name": "EXA FM 92.5 FM",
-    "country": "EC",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://exafm.net/video/",
-    "favicon": "https://cdn-profiles.tunein.com/s95322/images/logog.jpg?t=155750",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-24T04:25:29Z"
   },
   {
     "id": "awb_ccb25f025eb1949607ea",
@@ -526,28 +516,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_a7ff5bb83d562db7eecb",
-    "name": "HCJB",
-    "country": "EC",
-    "subdivision": "Quito",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian",
-      "cristiana",
-      "radio cristiana"
-    ],
-    "homepage": "https://hcjb.org/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-04T12:25:48Z"
   },
   {
     "id": "awb_368e8284ae903bd8a4a1",
@@ -835,6 +803,30 @@
     "updatedAt": "2026-01-15T05:45:24Z"
   },
   {
+    "id": "awb_88a4346d9ad88cec8245",
+    "name": "La voz de Crucita",
+    "country": "EC",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "latin",
+      "news"
+    ],
+    "tags": [
+      "crossover",
+      "cumbia",
+      "cumbia ecuatoriana",
+      "música ecuatoriana",
+      "noticias",
+      "tropical"
+    ],
+    "homepage": "https://zeno.fm/radio/la-voz-de-crucita/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T00:51:40Z"
+  },
+  {
     "id": "awb_85370a6b44a5f1b65128",
     "name": "La Voz de los Caras 95.3 FM",
     "country": "EC",
@@ -1017,7 +1009,7 @@
     "homepage": "https://wwwradiocadenastereo.blogspot.com/",
     "favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T01:49:54Z"
   },
   {
@@ -1037,8 +1029,8 @@
     "homepage": "https://wwwradiocadenastereo.blogspot.com/",
     "favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T01:28:23Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:09:17Z"
   },
   {
     "id": "awb_96d6120f53a2801f6f0c",
@@ -1510,6 +1502,33 @@
     "updatedAt": "2026-01-15T01:19:21Z"
   },
   {
+    "id": "awb_a5c4daf33cef53257642",
+    "name": "radio búfalo",
+    "country": "EC",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "latin",
+      "news"
+    ],
+    "tags": [
+      "crossover",
+      "cumbia",
+      "cumbia ecuatoriana",
+      "latina",
+      "música ecuatoriana",
+      "noticias",
+      "tropical",
+      "vallenato",
+      "variada"
+    ],
+    "homepage": "https://stream1.mcvhost.com/radiobufalo",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T00:30:03Z"
+  },
+  {
     "id": "awb_95aeda46a0a873cf4a7d",
     "name": "Radio Cadena Stereo 107.1",
     "country": "EC",
@@ -1658,13 +1677,12 @@
       "merengue",
       "pop",
       "reggaeton",
-      "rock",
-      "variado"
+      "rock"
     ],
     "homepage": "https://web.canelaradio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1831,6 +1849,27 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_9b2e2f4131905d0b9b5f",
+    "name": "radio Caravana 750 am Guayaquil",
+    "country": "EC",
+    "subdivision": "Guayaquil",
+    "languages": [],
+    "categories": [
+      "sports"
+    ],
+    "tags": [
+      "crossover",
+      "deportes",
+      "fútbol",
+      "variada"
+    ],
+    "homepage": "https://radiocaravana.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T00:45:46Z"
+  },
+  {
     "id": "awb_cfb9d678c0f653feda09",
     "name": "Radio Carisma",
     "country": "EC",
@@ -1873,7 +1912,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1992,7 +2031,7 @@
     "homepage": "https://www.evolucion.ec/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2052,26 +2091,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_4ef63f358bbdbdf14a42",
-    "name": "Radio HCJB German",
-    "country": "EC",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "http://andenstimme.org/empfang",
-    "favicon": "https://andenstimme.org/wp-content/uploads/cropped-favicon-1-180x180.gif",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:56:33Z"
   },
   {
     "id": "awb_dc6a9a59e59cfe9d38f1",

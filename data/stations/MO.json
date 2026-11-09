@@ -81,25 +81,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_bba561e0c823a935c482",
-    "name": "Asia FM 106.9",
-    "country": "MO",
-    "subdivision": "Macao, SAR of China",
-    "languages": [
-      "yue"
-    ],
-    "categories": [],
-    "tags": [
-      "asian music",
-      "variety"
-    ],
-    "homepage": "http://www.asiafm.cn/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:53:10Z"
-  },
-  {
     "id": "awb_d8573bc2b217b20a06c2",
     "name": "Asia FM 106.9",
     "country": "MO",
@@ -117,28 +98,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_86a1cb0dbae696d4f489",
-    "name": "CGTN Radio - Macau 1341 AM",
-    "country": "MO",
-    "subdivision": "Macao, SAR of China",
-    "languages": [
-      "en",
-      "pt",
-      "zh"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "world news"
-    ],
-    "homepage": "https://radio.cgtn.com/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:18:45Z"
   },
   {
     "id": "awb_c960154542fbe8b7b023",
@@ -209,14 +168,11 @@
       "en"
     ],
     "categories": [],
-    "tags": [
-      "variety",
-      "world music"
-    ],
+    "tags": [],
     "homepage": "https://wap.macaulotustv.cc/wap.php",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -229,14 +185,11 @@
       "en"
     ],
     "categories": [],
-    "tags": [
-      "variety",
-      "world music"
-    ],
+    "tags": [],
     "homepage": "https://wap.macaulotustv.cc/wap.php",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -394,38 +347,13 @@
       "pt",
       "yue"
     ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "hot ac",
-      "talk",
-      "variety"
-    ],
-    "homepage": "https://www.recordfm.pt/player_m_lisboa.htm",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxzia_Bkrj8iaa6iQ7uAbi1eem1GcDGKDFYGmE_HYjdlILYB2R9hKtMoF&s=10",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_62fc95161fa2229d44c1",
-    "name": "Romance Radio 95.5 FM",
-    "country": "MO",
-    "subdivision": "Macao, SAR of China",
-    "languages": [
-      "cmn",
-      "zh"
-    ],
     "categories": [],
-    "tags": [
-      "love songs"
-    ],
-    "homepage": "https://norilynonecoin.wixsite.com/criradioplayers-push",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZaX_MeobQXgZYNlYWuf1F_UdPiX_QHNuHQ&usqp=CAU",
+    "tags": [],
+    "homepage": "https://www.recordfm.pt/player_m_lisboa.htm",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:25:40Z"
+    "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_71e380d19766d43959a4",

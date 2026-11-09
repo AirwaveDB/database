@@ -84,18 +84,12 @@
     "country": "MD",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "deep house",
-      "electronic",
-      "house"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://deepnovaradio.com/blog/radiochannel/deepnova-320/",
     "favicon": "https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320-170x170.png.webp",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -118,28 +112,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_1cf82485f4772488e08b",
-    "name": "Drive FM",
-    "country": "MD",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "ro",
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits"
-    ],
-    "homepage": "http://drivefm.md/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:05:57Z"
   },
   {
     "id": "awb_19711967390d3abd9b1f",
@@ -181,36 +153,15 @@
     "id": "awb_16f901f737d1dedb417d",
     "name": "Glowwave-FM",
     "country": "MD",
-    "subdivision": "Chișinău",
+    "subdivision": "Chişinǎu",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://glowlinks.net/radio",
     "favicon": "https://glowlinks.net/the-glow-network.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_636c1674985ad9ddd124",
-    "name": "Haliz Gagauz Radiosu - GRT",
-    "country": "MD",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "folk",
-      "pop"
-    ],
-    "tags": [
-      "ethno...",
-      "folk",
-      "pop"
-    ],
-    "homepage": "http://gagauzradio.ru/feedback",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_797328ca080b8474f5b3",
@@ -688,25 +639,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_a6bd12c18c61f59c35e4",
-    "name": "Megapolis FM Moldova",
-    "country": "MD",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "contemporary hits"
-    ],
-    "homepage": "http://megapolisfm.md/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_c18ac42d3f932433bf4a",

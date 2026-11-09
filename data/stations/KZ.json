@@ -104,51 +104,22 @@
     "updatedAt": "2026-01-15T00:21:39Z"
   },
   {
-    "id": "awb_438752769070f474df98",
-    "name": "Avtoradio",
-    "country": "KZ",
-    "subdivision": null,
-    "languages": [
-      "kk",
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "pop"
-    ],
-    "homepage": "https://avtoradio.kz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:49:40Z"
-  },
-  {
     "id": "awb_7c5245ac1d5da9af6b4a",
     "name": "Darhan Radio",
     "country": "KZ",
     "subdivision": "Almaty",
     "languages": [
-      "en",
-      "kk"
+      "en"
     ],
-    "categories": [
-      "pop"
-    ],
+    "categories": [],
     "tags": [
       "asian music",
-      "ethnic",
-      "kazakh music",
-      "kazakh pop",
-      "pop",
-      "pop music"
+      "kazakh music"
     ],
     "homepage": "https://darhanradio.com/",
-    "favicon": "https://darhanradio.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -172,6 +143,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-27T16:43:49Z"
+  },
+  {
+    "id": "awb_1decc4ac5dd0c1c18626",
+    "name": "Green Dance Kazachstan",
+    "country": "KZ",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio-greendance.su/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T17:24:20Z"
   },
   {
     "id": "awb_5c3a3867ee4b9e08e49f",
@@ -286,26 +271,21 @@
     "id": "awb_63fe9ffc6a096b4beef3",
     "name": "Pioner FM",
     "country": "KZ",
-    "subdivision": "Karaganda",
+    "subdivision": null,
     "languages": [
-      "en",
       "kk",
       "ru"
     ],
     "categories": [
-      "oldies",
       "pop"
     ],
     "tags": [
-      "hits",
-      "oldies",
-      "propaganda",
-      "soviet"
+      "hits"
     ],
     "homepage": "http://zhanafm.kz/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -330,32 +310,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_cc47c4a7e50f43aca953",
-    "name": "RADIO 7 SEMEY",
-    "country": "KZ",
-    "subdivision": "Область Абай",
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [
-      "зарубежная поп-музыка",
-      "казахская музыка",
-      "клубная",
-      "поп",
-      "поп-рок",
-      "ретро",
-      "русский поп.",
-      "танцевальная",
-      "хиты"
-    ],
-    "homepage": "https://radio7.kz/",
-    "favicon": "https://radio7.kz/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-21T08:02:23Z"
-  },
-  {
     "id": "awb_aff47e8c585687c9de93",
     "name": "Radio 90s Eurodance",
     "country": "KZ",
@@ -365,15 +319,12 @@
       "oldies"
     ],
     "tags": [
-      "90s",
-      "eurodance",
-      "online",
-      "only music"
+      "90s"
     ],
     "homepage": "http://90s-eurodance.ru/",
-    "favicon": "https://pp.userapi.com/c837231/v837231617/5990/ChfZPOJgSmA.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -475,9 +426,9 @@
       "tatarstan"
     ],
     "homepage": "https://radiotmk.ru/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240422_112734993.jpg?alt=media&token=d63d1ce1-c73e-460b-9104-094181b608e4",
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240422_113249093.jpg?alt=media&token=f4c478dc-d724-4936-8fd1-50a22dcf3539",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -527,28 +478,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_8c1370c2a562bacd4816",
-    "name": "Tengri FM",
-    "country": "KZ",
-    "subdivision": "Almaty",
-    "languages": [
-      "kk",
-      "ru"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "rock"
-    ],
-    "homepage": "http://tengrifm.kz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:58:24Z"
   },
   {
     "id": "awb_3df9690a334e168e7b9b",
@@ -724,27 +653,6 @@
     "updatedAt": "2026-09-15T15:52:44Z"
   },
   {
-    "id": "awb_f8bc482391b2cd55c9ad",
-    "name": "Народное Радио",
-    "country": "KZ",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "russian music"
-    ],
-    "homepage": "http://narodnoeradio.kz/",
-    "favicon": "https://static.tildacdn.com/tild6336-3866-4639-b664-353833373961/GIF.gif",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:30:35Z"
-  },
-  {
     "id": "awb_9e6c9962242b8df59ecb",
     "name": "Радио 7 Семей",
     "country": "KZ",
@@ -846,7 +754,7 @@
     "homepage": "https://talap.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {

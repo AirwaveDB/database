@@ -61,8 +61,8 @@
     "homepage": "http://www.1.fm/",
     "favicon": "https://i.imgur.com/vFiPaW4.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:08:34Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:58:35Z"
   },
   {
     "id": "awb_5e35df64439e87442a9c",
@@ -110,19 +110,13 @@
     "name": "1.FM - Absolute Country Hits Radio",
     "country": "CH",
     "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "http://www.1.fm/",
     "favicon": "https://cdn.onlineradiobox.com/img/l/0/2730.v5.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-05-10T13:49:04Z"
   },
   {
@@ -148,27 +142,6 @@
     "updatedAt": "2026-01-14T23:51:16Z"
   },
   {
-    "id": "awb_318dbea47f0d922166a9",
-    "name": "1.FM - Absolute TOP 40 Radio",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "top 40"
-    ],
-    "homepage": "http://www.1.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:27:38Z"
-  },
-  {
     "id": "awb_2192cda395c7a549ea68",
     "name": "1.FM - Absolute Trance (Euro) Radio",
     "country": "CH",
@@ -187,47 +160,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:10:11Z"
-  },
-  {
-    "id": "awb_b3b2d4a8823043d686f5",
-    "name": "1.FM - Acappella Radio",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "gospel"
-    ],
-    "homepage": "http://www.1.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:43:13Z"
-  },
-  {
-    "id": "awb_5dc4abe2b615a0f02036",
-    "name": "1.FM - Adore Jazz Radio",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "1.fm jazz",
-      "jazz"
-    ],
-    "homepage": "http://www.1.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:26:33Z"
   },
   {
     "id": "awb_b66d8c0ab3233f31f180",
@@ -554,49 +486,18 @@
     "updatedAt": "2026-01-15T06:17:03Z"
   },
   {
-    "id": "awb_b6dab453b5ceb8af7610",
-    "name": "1.fm - Calming Piano",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "calm",
-      "classical piano",
-      "piano",
-      "relax",
-      "relaxing"
-    ],
-    "homepage": "https://radio.1cloud.fm/station/calmingpiano",
-    "favicon": "https://radio.1cloud.fm/favicon/favicon.svg?v=2",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-08T09:13:08Z"
-  },
-  {
     "id": "awb_34fcab2995e580c2aa86",
     "name": "1.FM - Chillout Lounge Radio",
     "country": "CH",
     "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "chillout",
-      "lounge"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.1.fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T02:17:08Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_9e04a485c955317181ba",
@@ -642,20 +543,14 @@
     "name": "1.FM - Classic Rock Replay Radio",
     "country": "CH",
     "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "http://www.1.fm/",
-    "favicon": "http://i.imgur.com/Jmvwqen.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T07:21:49Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_23b721ed370b6493db3f",
@@ -1173,26 +1068,6 @@
     "updatedAt": "2026-01-14T23:39:47Z"
   },
   {
-    "id": "awb_d57482acd3edd25ebb9c",
-    "name": "1.FM - Otto's Opera House",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "opera"
-    ],
-    "homepage": "https://www.1.fm/stations",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:46:18Z"
-  },
-  {
     "id": "awb_65014c706aec2c4c015e",
     "name": "1.FM - Otto's Opera House Music Radio",
     "country": "CH",
@@ -1277,26 +1152,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-05T08:54:21Z"
-  },
-  {
-    "id": "awb_c92a1ea1cd2d12a39965",
-    "name": "1.FM - ReggaeTrade Radio",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "reggae"
-    ],
-    "tags": [
-      "reggae"
-    ],
-    "homepage": "http://www.1.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:51:52Z"
   },
   {
     "id": "awb_b6bf56da58ac52dc152a",
@@ -1464,30 +1319,6 @@
     "updatedAt": "2026-01-15T00:47:34Z"
   },
   {
-    "id": "awb_3bf7a2d7766c528b4139",
-    "name": "1.FM 90s Alternative Radio",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "oldies",
-      "rock"
-    ],
-    "tags": [
-      "90s",
-      "alternative",
-      "alternative rock",
-      "rock"
-    ],
-    "homepage": "https://www.1.fm/station/partyzone90s",
-    "favicon": "https://i.postimg.cc/qMqdk92Q/Party-Zone-90s.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:20:38Z"
-  },
-  {
     "id": "awb_b072913e5f780b6a2af5",
     "name": "1.FM Absolute 90's Radio",
     "country": "CH",
@@ -1557,26 +1388,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_709f501ccc080317d02e",
-    "name": "1.FM Essential Classical",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits"
-    ],
-    "homepage": "https://www.1.fm/station/polskafm",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:25:18Z"
-  },
-  {
     "id": "awb_65ee9a980f5f5840e221",
     "name": "1.FM Essential Classical Polska FM",
     "country": "CH",
@@ -1593,30 +1404,8 @@
     "homepage": "https://www.1.fm/station/polskafm",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:15:38Z"
-  },
-  {
-    "id": "awb_932f7d16798e756969ba",
-    "name": "1.FM Hot Country Hits Radio",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "country",
-      "pop"
-    ],
-    "tags": [
-      "country",
-      "hot",
-      "hot country",
-      "todays hits"
-    ],
-    "homepage": "https://www.1.fm/station/acountry",
-    "favicon": "https://www.radio.net/images/broadcasts/f6/95/8431/2/c300.png",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
+    "updatedAt": "2026-01-15T07:15:38Z"
   },
   {
     "id": "awb_712d596e56d9395b9da7",
@@ -1667,20 +1456,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_0a3916f0cfc2bfa4a8a4",
-    "name": "1.fm Otto's Classical music (http/mp3)",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.1.fm/station/classical",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_835ec3f082dd5d336043",
@@ -1855,9 +1630,9 @@
       "jazz"
     ],
     "homepage": "https://jazzgumboradio.com/",
-    "favicon": "https://jazzgumboradio.com/favicon.ico",
+    "favicon": "https://jazzgumboradio.com/wp-content/uploads/2019/12/icon.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1884,31 +1659,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:14:22Z"
-  },
-  {
-    "id": "awb_b4f060dac8a6767689c2",
-    "name": "Adonia-KidsRadio",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "gsw"
-    ],
-    "categories": [
-      "kids",
-      "religious"
-    ],
-    "tags": [
-      "children",
-      "christian",
-      "kids",
-      "kinder",
-      "kinderradio"
-    ],
-    "homepage": "https://www.adonia.ch/kids#player",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:18:28Z"
   },
   {
     "id": "awb_7076cc23a15f145d21a8",
@@ -2346,21 +2096,18 @@
       "de",
       "en",
       "fr",
-      "gsw",
-      "it"
+      "gsw"
     ],
     "categories": [
       "classical"
     ],
     "tags": [
-      "classical",
-      "mp3",
-      "radio swiss"
+      "classical"
     ],
     "homepage": "https://www.radioswissclassic.ch/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2629,25 +2376,6 @@
     "updatedAt": "2026-01-15T06:29:43Z"
   },
   {
-    "id": "awb_17095110ce7a592bef9a",
-    "name": "ERF LifeChannel",
-    "country": "CH",
-    "subdivision": "Zürich",
-    "languages": [],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "ccm",
-      "christian"
-    ],
-    "homepage": "https://lifechannel.ch/",
-    "favicon": "https://lifechannel.ch/wp-content/uploads/sites/2/cropped-Life-Channel-Profil-Logo-32x32.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-07T06:32:04Z"
-  },
-  {
     "id": "awb_854902e2c2b3037edd88",
     "name": "FEEL GOOD Jura",
     "country": "CH",
@@ -2695,7 +2423,7 @@
     "homepage": "https://www.flashbackfm.ch/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-07-31T20:56:48Z"
   },
   {
@@ -2795,7 +2523,7 @@
     "homepage": "http://www.gds.fm/",
     "favicon": "http://www.gds.fm/_nuxt/icons/icon_64x64.96821f.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2979,7 +2707,6 @@
     ],
     "tags": [
       "blues",
-      "eclectic",
       "electronic",
       "indie",
       "rock",
@@ -2988,7 +2715,7 @@
     "homepage": "https://www.grrif.ch/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3036,44 +2763,15 @@
     "id": "awb_a4b06a3d6c8a0777dd33",
     "name": "IP music",
     "country": "CH",
-    "subdivision": "Suisse Romande",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "80s",
-      "adult hits",
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://www.ipmusic.ch/",
-    "favicon": "https://www.ipmusic.ch/images/ipmusic-icon-144px.png",
-    "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-06-29T10:28:33Z"
-  },
-  {
-    "id": "awb_0f0da0344e34993ac8fa",
-    "name": "ip music 320",
-    "country": "CH",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": null,
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.ipmusic.ch/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-06-29T10:28:33Z"
   },
   {
     "id": "awb_079b2d5cbfc3cd7a1d49",
@@ -3170,9 +2868,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.jamesfm.ch/",
-    "favicon": "https://www.jamesfm.ch/wp-content/uploads/2017/08/cropped-jamesFM_Logo_negativ-1.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3184,21 +2882,18 @@
       "de",
       "en",
       "fr",
-      "gsw",
-      "it"
+      "gsw"
     ],
     "categories": [
       "jazz"
     ],
     "tags": [
-      "jazz",
-      "mp3",
-      "radio swiss"
+      "jazz"
     ],
     "homepage": "https://www.radioswissjazz.ch/",
-    "favicon": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3280,9 +2975,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.kanalk.ch/",
-    "favicon": "https://www.kanalk.ch/favicon.png",
+    "favicon": "https://backend.kanalk.ch/wp-content/uploads/2023/10/Kanal_K_Icon_WeissAufSchwarz.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3330,20 +3025,6 @@
     "updatedAt": "2026-02-28T17:14:34Z"
   },
   {
-    "id": "awb_389ffef5214e50a65cfd",
-    "name": "Kontrafunk",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_b40b0bf9eaa71df3c12c",
     "name": "Kontrafunk",
     "country": "CH",
@@ -3351,16 +3032,12 @@
     "languages": [
       "de"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.kontrafunk.radio/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3418,68 +3095,13 @@
     "languages": [
       "de"
     ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "conservative",
-      "news",
-      "politics",
-      "talk"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://kontrafunk.radio/de/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_d194e358854ad373022c",
-    "name": "Kontrafunk News",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": "https://kontrafunk.radio/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:26:48Z"
-  },
-  {
-    "id": "awb_08bda3a71d6ead8c6438",
-    "name": "KTFM / Global Sport",
-    "country": "CH",
-    "subdivision": "Geneva",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "oldies",
-      "rock",
-      "sports"
-    ],
-    "tags": [
-      "70s",
-      "80s",
-      "disco",
-      "rock",
-      "sport",
-      "various"
-    ],
-    "homepage": "https://www.globalsport.ch/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:27:20Z"
   },
   {
     "id": "awb_8ff1f439a0ab0dd9d976",
@@ -3645,7 +3267,7 @@
     "homepage": "https://radioreg.net/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-05-31T20:52:44Z"
   },
   {
@@ -4286,7 +3908,7 @@
     "homepage": "https://www.neo1.ch/",
     "favicon": "https://www.neo1.ch/fileadmin/user_upload/newsaudio/2018/11/neo1-logo.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4350,8 +3972,8 @@
     "homepage": "http://www.onefm.ch/",
     "favicon": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T06:39:51Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-01-15T05:40:19Z"
   },
   {
     "id": "awb_f78ce3b6575f431de196",
@@ -4403,9 +4025,9 @@
       "hits"
     ],
     "homepage": "https://onefm.ch/",
-    "favicon": "https://www.onefm.ch/wp-content/uploads/2017/07/logos-1.png",
+    "favicon": "https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_NewHit.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4478,48 +4100,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_b18c9a4c4d0c888c1e22",
-    "name": "open broadcast radio",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic",
-      "folk",
-      "hip-hop",
-      "jazz",
-      "latin",
-      "pop",
-      "reggae",
-      "rock"
-    ],
-    "tags": [
-      "afro",
-      "deep house",
-      "dub",
-      "eclectic",
-      "electronic",
-      "folk",
-      "funk",
-      "hip hop",
-      "house",
-      "jazz",
-      "latin",
-      "neo soul",
-      "pop",
-      "reggae",
-      "rnb",
-      "rock",
-      "soul",
-      "world music"
-    ],
-    "homepage": "https://openbroadcast.ch/",
-    "favicon": "https://openbroadcast.ch/static/assets/manifest/icon-triangle-white.91b2fd954957.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_3d3410e76ef2c1ba0b8d",
     "name": "openbroadcast.ch",
     "country": "CH",
@@ -4564,24 +4144,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_d772a5cf65fe342b0566",
-    "name": "Pineapple Juice",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://laut.fm/pineapplejuice",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_759dcecd2e40b61a18f5",
@@ -4715,22 +4277,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_d35a188996dfa8a7a370",
-    "name": "Public Domain Jazz",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "royalty free"
-    ],
-    "homepage": "http://radio.publicdomainproject.org/de/index.html",
-    "favicon": "http://radio.publicdomainproject.org/images/pdlogo.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_b0a9f2b253b3b3c09d89",
     "name": "Public Domain Swiss Schlager",
     "country": "CH",
@@ -4803,9 +4349,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.queerradio.ch/",
-    "favicon": "https://www.queerradio.ch/wp-content/uploads/2019/10/QUEER-RADIO-HEART-PLAYER-180-180-pixel-150x150.jpg",
+    "favicon": "https://www.queerradio.ch/images/205/19694242/QUEERRADIOLOGOTRANSPARENT-2MD25IWPfuwDiLyKdFey-Q-huYlq1FUj2TYylDg_oXQZA-5zQYNH3tAoku10eXiOGNmg-17_VBAsNP5JvKeUeLSshSg.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-05-04T13:23:01Z"
   },
   {
@@ -4838,27 +4384,11 @@
     "tags": [
       "multikulti"
     ],
-    "homepage": "http://www.rabe.ch/",
-    "favicon": "http://www.rabe.ch/favicon/favicon-96x96.png",
+    "homepage": "https://rabe.ch/",
+    "favicon": "https://rabe.ch/_next/image?url=https%3A%2F%2Fdata.rabe.ch%2Fassets%2Ffc2f3f7e-8317-45d4-a469-add27b165d38%2FRadio%20Bern%20RaBe%20Logo%202024%20-%20gru%CC%88n.svg%3Fwidth%3D500%26height%3D500%26fit%3Dcover&w=1200&q=75",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-29T19:11:39Z"
-  },
-  {
-    "id": "awb_01be0a73bafef521a085",
-    "name": "Radio 1",
-    "country": "CH",
-    "subdivision": "Zürich",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "schweiz"
-    ],
-    "homepage": "http://www.radio1.ch/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_5465b978bc0d2c12cc8b",
@@ -5005,9 +4535,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://www.3fach.ch/",
-    "favicon": "https://3fach.ch/themes/3fach/assets/logo_black@2x.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-21T10:20:01Z"
   },
   {
@@ -5030,7 +4560,7 @@
     "homepage": "https://transmiss.ion.ovh/public/alta",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5050,9 +4580,9 @@
       "pop"
     ],
     "homepage": "https://www.argovia.ch/",
-    "favicon": "https://i.imgur.com/ccMg6qJ.png",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Argovia-logo.svg/800px-Argovia-logo.svg.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5219,20 +4749,6 @@
     "updatedAt": "2026-11-05T17:19:46Z"
   },
   {
-    "id": "awb_f7d65df012289d615461",
-    "name": "Radio Electrons Libres",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://electronslibres.ch/",
-    "favicon": "https://electronslibres.ch/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_3405f22a4c9c7195fd54",
     "name": "Radio Eviva",
     "country": "CH",
@@ -5260,14 +4776,12 @@
     ],
     "tags": [
       "pop",
-      "pop rock",
-      "rock",
-      "rock pop"
+      "rock"
     ],
     "homepage": "https://www.radiofm1.ch/",
-    "favicon": "https://i.imgur.com/zSVUQHv.png",
+    "favicon": "https://ch.az-cdn.ch/static/4.18.0/radiofm1/device-icons/48x48.png",
     "type": null,
-    "sourceCount": 7,
+    "sourceCount": 4,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5333,16 +4847,12 @@
     "country": "CH",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radiofr.ch/",
-    "favicon": "https://radiofr.ch/favicons/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5546,15 +5056,11 @@
       "fr"
     ],
     "categories": [],
-    "tags": [
-      "genève",
-      "lac",
-      "yes fm"
-    ],
+    "tags": [],
     "homepage": "https://www.radiolac.ch/direct/player/",
-    "favicon": "https://www.radiolac.ch/favicon.ico",
+    "favicon": "https://www.radiolac.ch/wp-content/uploads/2017/08/android-icon-48x48.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5593,32 +5099,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:40:39Z"
-  },
-  {
-    "id": "awb_d497cd9374898015ef8d",
-    "name": "Radio LoRa 97.5",
-    "country": "CH",
-    "subdivision": "Zürich",
-    "languages": [
-      "de",
-      "es",
-      "pt",
-      "tr"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "feminist",
-      "freies radio",
-      "queer"
-    ],
-    "homepage": "https://www.lora.ch/",
-    "favicon": "https://www.lora.ch/images/favicon/apple-touch-icon.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:26:30Z"
   },
   {
     "id": "awb_b2fff1ca93278930d424",
@@ -5848,19 +5328,12 @@
     "languages": [
       "fr"
     ],
-    "categories": [
-      "christmas",
-      "religious"
-    ],
-    "tags": [
-      "christian contemporary",
-      "christian praise&worship",
-      "christmas music"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radio-r.ch/",
     "favicon": "https://radio-r.ch/wp-content/uploads/2020/04/cropped-radio-r-180x180.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T02:22:41Z"
   },
   {
@@ -6018,14 +5491,13 @@
     "categories": [],
     "tags": [
       "eclectic",
-      "hospita",
-      "hospital radio"
+      "hospita"
     ],
     "homepage": "https://stream.radio-s.ch/stream",
     "favicon": "https://static.wixstatic.com/media/d168f9_11af99f87f4448daaf0e1bda1d1a1169~mv2.png/v1/fill/w_180,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20Radio%20S.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-11-06T22:32:33Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-06T01:32:33Z"
   },
   {
     "id": "awb_cf50d2d3d4317f01aae0",
@@ -6260,29 +5732,6 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:21:49Z"
-  },
-  {
-    "id": "awb_9048a7e23259979567e5",
-    "name": "Radio SRF 1 Regionaljournal Basel, Baselland",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "news",
-      "public"
-    ],
-    "tags": [
-      "local news",
-      "news",
-      "public radio"
-    ],
-    "homepage": "https://www.srf.ch/radio-srf-1/",
-    "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:44:04Z"
   },
   {
     "id": "awb_16da1d09ec9369d38d3a",
@@ -6607,19 +6056,17 @@
       "gsw"
     ],
     "categories": [
-      "pop",
       "public"
     ],
     "tags": [
       "folklore",
-      "pop",
       "public radio",
       "volksmusik"
     ],
     "homepage": "https://www.srf.ch/radio-srf-musikwelle",
     "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
     "type": "public",
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T03:47:10Z"
   },
   {
@@ -6705,16 +6152,14 @@
     "name": "Radio Südostschweiz",
     "country": "CH",
     "subdivision": null,
-    "languages": [
-      "gsw"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://rso.ch/",
     "favicon": "https://www.suedostschweiz.ch/themes/suedostschweiz/logo.svg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:29:18Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_4c51fd6d046ac1ecc18a",
@@ -6856,8 +6301,8 @@
     "homepage": "http://www.radioswissclassic.ch/it",
     "favicon": null,
     "type": "public",
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T06:50:58Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:50:53Z"
   },
   {
     "id": "awb_d8611541f1c3e1c8fa90",
@@ -6873,40 +6318,17 @@
       "classical"
     ],
     "tags": [
-      "aac+",
       "classic",
       "classical",
-      "musica classica",
       "radio",
       "srg",
-      "srg ssr",
       "swiss"
     ],
     "homepage": "http://www.radioswissclassic.ch/de",
-    "favicon": "https://www.radioswissclassic.ch/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 12,
+    "sourceCount": 7,
     "updatedAt": "2026-09-30T12:45:22Z"
-  },
-  {
-    "id": "awb_4f747b8d127b1ced2c95",
-    "name": "Radio Swiss Classic 2026",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical",
-      "instrumental",
-      "orchestra"
-    ],
-    "homepage": "https://www.radioswissclassic.ch/",
-    "favicon": "https://www.radioswissclassic.ch/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-16T18:38:25Z"
   },
   {
     "id": "awb_b4075bb0d9d3bf572f72",
@@ -6982,19 +6404,17 @@
       "de"
     ],
     "categories": [
-      "classical",
-      "public"
+      "classical"
     ],
     "tags": [
       "classical",
-      "public radio",
       "srg ssr"
     ],
     "homepage": "http://www.radioswissclassic.ch/",
     "favicon": null,
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T02:20:39Z"
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:01:33Z"
   },
   {
     "id": "awb_c280b9acb56d812c4286",
@@ -7052,7 +6472,7 @@
     "homepage": "https://www.radioswissclassic.ch/",
     "favicon": "https://www.radioswissclassic.ch/favicon.ico",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7060,26 +6480,20 @@
     "name": "Radio Swiss Jazz",
     "country": "CH",
     "subdivision": "Bern",
-    "languages": [
-      "de",
-      "en",
-      "fr",
-      "it"
-    ],
+    "languages": [],
     "categories": [
       "jazz",
       "public"
     ],
     "tags": [
-      "aac+",
       "jazz",
       "public radio",
       "srg ssr"
     ],
     "homepage": "http://www.radioswissjazz.ch/",
-    "favicon": "http://www.radioswissjazz.ch/favicon.ico",
+    "favicon": "https://www.radioswissjazz.ch/favicon.ico",
     "type": "public",
-    "sourceCount": 9,
+    "sourceCount": 4,
     "updatedAt": "2026-08-29T19:12:27Z"
   },
   {
@@ -7121,11 +6535,11 @@
       "soft rock",
       "srg ssr"
     ],
-    "homepage": "http://www.radioswisspop.ch/",
-    "favicon": "http://www.radioswisspop.ch/favicon.ico",
+    "homepage": "https://www.radioswisspop.ch/it",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Radio_Swiss_Pop_Logo_2018.svg/2048px-Radio_Swiss_Pop_Logo_2018.svg.png",
     "type": "public",
-    "sourceCount": 9,
-    "updatedAt": "2026-08-29T19:09:52Z"
+    "sourceCount": 7,
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_d636e3871046d018155f",
@@ -7300,7 +6714,7 @@
     "homepage": "https://radiox.ch/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7334,44 +6748,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_9646a52bcff7e706cf3c",
-    "name": "Radio Zuerisee",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "de",
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "hits",
-      "pop",
-      "top100"
-    ],
-    "homepage": "https://radiozuerisee.ch/",
-    "favicon": "https://radiozuerisee.ch/assets/favicons/apple-icon-120x120.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:11:44Z"
-  },
-  {
-    "id": "awb_047906b342a7c366a380",
-    "name": "Radio Zürich Nord",
-    "country": "CH",
-    "subdivision": "Zürich",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://bayern.streampanel.cloud:11145/stream",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_4a445e8e8f1333a209c7",
@@ -7459,22 +6835,6 @@
     "updatedAt": "2026-08-14T15:13:12Z"
   },
   {
-    "id": "awb_101817ad3430fdcd42b3",
-    "name": "Radio1",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "decades"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_d78e4e63167301f9fd9a",
     "name": "Radio1.ch",
     "country": "CH",
@@ -7493,7 +6853,7 @@
     "homepage": "https://radio1.ch/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7505,14 +6865,11 @@
       "gsw"
     ],
     "categories": [],
-    "tags": [
-      "main",
-      "mainstream"
-    ],
+    "tags": [],
     "homepage": "https://www.radio24.ch/",
-    "favicon": "https://ch.az-cdn.ch/static/4.14.2/radio24/device-icons/48x48.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7598,20 +6955,6 @@
     "updatedAt": "2026-01-15T01:12:02Z"
   },
   {
-    "id": "awb_229fa66bb10c05bba743",
-    "name": "RadioPolis",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiopolis.xyz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_60f35e42d51d169fa677",
     "name": "Radiopolis",
     "country": "CH",
@@ -7638,8 +6981,8 @@
     "homepage": "https://radio.second-hands.org/",
     "favicon": "https://radio.second-hands.org/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-03T14:08:03Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-03T14:04:29Z"
   },
   {
     "id": "awb_85247f99de8d255bf834",
@@ -7688,6 +7031,20 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_c82a996c0301aebd1c2a",
+    "name": "RCM La radio 13 étoiles",
+    "country": "CH",
+    "subdivision": "Valais",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rcmradio.ch/",
+    "favicon": "https://rcmradio.ch/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T14:59:41Z"
+  },
+  {
     "id": "awb_74a24ff732a8ffa4f438",
     "name": "Redline Radio",
     "country": "CH",
@@ -7704,20 +7061,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-19T10:56:19Z"
-  },
-  {
-    "id": "awb_1dfde1d2704351e8c44f",
-    "name": "RES FM",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://resfmradio.com/",
-    "favicon": "https://resfmradio.com/wp-content/uploads/2021/09/Logo_RES-FM_Verde_2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-22T13:20:06Z"
   },
   {
     "id": "awb_06468b7bca4f36af441b",
@@ -7860,28 +7203,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:59:24Z"
-  },
-  {
-    "id": "awb_2e50bb451708fff66bb5",
-    "name": "Rock The Blues",
-    "country": "CH",
-    "subdivision": "Zurich",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "blues",
-      "rock"
-    ],
-    "tags": [
-      "blues",
-      "rock"
-    ],
-    "homepage": "http://laut.fm/rock-the-blues",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:54:19Z"
   },
   {
     "id": "awb_d8bc0a12664c1874cc36",
@@ -8226,48 +7547,18 @@
     "updatedAt": "2026-04-20T06:56:41Z"
   },
   {
-    "id": "awb_814b58894910656bd21a",
-    "name": "RTS Couleur 3",
-    "country": "CH",
-    "subdivision": "Romandie",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "music",
-      "pop"
-    ],
-    "homepage": "https://www.rts.ch/couleur3",
-    "favicon": "https://www.rts.ch/favicon.ico",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:58:24Z"
-  },
-  {
     "id": "awb_e0a20216d0bc7639a46e",
     "name": "RTS Couleur 3",
     "country": "CH",
     "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "public",
-      "rock"
-    ],
-    "tags": [
-      "public radio",
-      "rock",
-      "srg ssr"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "http://www.couleur3.ch/",
     "favicon": null,
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:00:01Z"
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_3cbb804c802bee647bb0",
@@ -8303,39 +7594,13 @@
     "languages": [
       "fr"
     ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "public radio",
-      "srg ssr"
-    ],
-    "homepage": "http://www.rts.ch/la-1ere/",
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.rts.ch/rts-premiere/",
     "favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:59:16Z"
-  },
-  {
-    "id": "awb_2888525f3c32e4d80bce",
-    "name": "RTS Option Musique",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "public radio",
-      "srg ssr"
-    ],
-    "homepage": "http://www.rts.ch/option-musique/",
-    "favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
-    "type": "public",
+    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:18:42Z"
+    "updatedAt": "2026-01-15T02:07:14Z"
   },
   {
     "id": "awb_db3edbba4c2ff344c0c9",
@@ -8383,13 +7648,12 @@
     "categories": [],
     "tags": [
       "easy listening",
-      "funk",
-      "funky"
+      "funk"
     ],
     "homepage": "https://rundfunk.fm/",
     "favicon": "https://rundfunk.fm/static/assets/favicon/favicon-32x32.png",
     "type": null,
-    "sourceCount": 7,
+    "sourceCount": 5,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8399,13 +7663,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [
-      "discography"
-    ],
+    "tags": [],
     "homepage": "https://pcradio.ru/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8468,8 +7730,7 @@
     "country": "CH",
     "subdivision": null,
     "languages": [
-      "en",
-      "fr"
+      "en"
     ],
     "categories": [
       "rock"
@@ -8480,7 +7741,7 @@
     "homepage": "https://www.spoonradio.com/",
     "favicon": "https://www.spoonradio.com/newimages/logo.png",
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 3,
     "updatedAt": "2026-01-15T08:07:13Z"
   },
   {
@@ -8500,9 +7761,9 @@
       "rock"
     ],
     "homepage": "https://www.spoonradio.com/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_SHiVIhu9EpfEEl-rxBhQSt3qk7NR6E7IVze0BnDOe8DwJDLNs3AVPxrV4X92gX1Npnm5MymhyphenhyphenU3abvbvqpoxKzvlbstflZlnzHwnA7radKNmrIURHHKN1SOlDP4S7qOGBOhBD73Hdi8S_HiVim5-fs1k8bNJ4kmbIDjqhyWa7Ih2wM8/s220/acoustic.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8522,9 +7783,9 @@
       "rock"
     ],
     "homepage": "https://www.spoonradio.com/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RnmBp61JLpuFbCdDWy9jig_j6SBxZ_2vETott9_kRev4voROUJsIYHQxggUQl2r0-lqwuaslRzLCgqU8RhRZCH7WkR3-sGdcMgJTZjmawjC3tfwyNDBt11qJD6-ojoXjRE27kf1-PwJr7gQUtG-oez2TpiEfxo38_uY4eAx5lDf9YpU0ynV9WOTmGYMY/s300/Alternative%20Rock.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8537,16 +7798,13 @@
       "rock"
     ],
     "tags": [
-      "classic rock",
       "classic-rock",
-      "commercial-free",
-      "no ads",
       "rock"
     ],
     "homepage": "https://www.spoonradio.com/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPTkhtlfBGmdKGR3Wonw4d37Cwp1ftlwjZV_WPS7Z9z8NzJchK0e8TSaaPO0-mZ8FMpdb2a4pTUiiE94Ayw69P5Wmuv04cpgqSwcDCAPuTHfApfmG1ZmIXbiCADz2sTeW_93H_on5TaBVFMFqZpNq44cWBLINmKnmU47z0f1s5qsycmGd5_ZRG33inW6X/s300/Classic%20Rock.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8566,9 +7824,9 @@
       "rock"
     ],
     "homepage": "https://www.spoonradio.com/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixecxmgSlaR39iiMKCS7NHaJciyShaEmG-GvIqMq4mO3wpUufxZ-MKmicAbx6YBBoeyBEnGAH-0WdNXJSQZIB7WaK3joXdN6QOcPZX0bhon-Hx7fBHIun28nq_3Ye1b4szyd6G1Rv0sAzW3zsYyxcXhbEbdHKA1Ou0pub9borJQym1vgmv_efSkWLtUq71/s300/Hard%20Rock.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8581,15 +7839,12 @@
       "rock"
     ],
     "tags": [
-      "commercial-free",
-      "modern rock",
-      "no ads",
       "rock"
     ],
     "homepage": "https://www.spoonradio.com/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpSSo216Uv5Txb7r2DzQ3YMZwsCJnZ3YoCfY-NkcusEijZdAqBqM9j0ENG4D8z3meF5hFM9XAofitEG_UuC2NmZDfKXF2j-NAgLOwYmDMrtu2cPHzr6-Kctnw6kx5k6WEEzwdgbte9vYQtqsW_TZ0TKbvyyHEyRQ9Fb8YKCZDMXlhJpj9i-GY0WIGnhpjw/s300/Modern%20Rock.png",
+    "favicon": "https://drive.google.com/file/d/1MQai1JfYOPzDbJR2uDeZYRBaxTxyqqED/view?usp=drivesdk",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8609,9 +7864,9 @@
       "rock ballads"
     ],
     "homepage": "https://www.spoonradio.com/",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbbjzU-x-9v-CAfwTz9XrvauhyphenhyphencNyh2KpA0x46ci7cr5uir2tTbyeBoDeAJSm2xhtcnC50yQ8n6BUfkuT-LWS9DjFCOiKt8dm2RiYSHLpd3DtQOYXAcvMmjUMNL2AOW1eJylZcvocEj1fuXeUwcOQ9XX2DsvDYEEcKXNpUMz296cJEK32SDDPrvvKILPKw/s300/Rock%20Ballads.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8629,9 +7884,9 @@
       "rock"
     ],
     "homepage": "https://www.spoonradio.com/",
-    "favicon": "https://www.spoonradio.com/newimages/logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8656,29 +7911,6 @@
     "updatedAt": "2026-01-15T03:01:40Z"
   },
   {
-    "id": "awb_907748a61ee124a26077",
-    "name": "SRF 2",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "culture",
-      "kultur",
-      "public radio",
-      "srg ssr"
-    ],
-    "homepage": "http://www.srf.ch/radio-srf-2-kultur",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:17:50Z"
-  },
-  {
     "id": "awb_cf4ef4f452022f504e5b",
     "name": "SRF 3",
     "country": "CH",
@@ -8696,9 +7928,9 @@
       "srg ssr"
     ],
     "homepage": "http://www.srf.ch/radio-srf-3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png",
+    "favicon": "https://www.srf.ch/build/assets/radio-srf-3-square-Ds8liY9N.svg",
     "type": "public",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-29T19:13:34Z"
   },
   {
@@ -8719,10 +7951,10 @@
       "srg ssr"
     ],
     "homepage": "http://www.srf.ch/radio-srf-4-news",
-    "favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+    "favicon": "https://www.srf.ch/build/assets/radio-srf-4-square-CPpwSzVl.svg",
     "type": "public",
-    "sourceCount": 3,
-    "updatedAt": "2026-08-29T19:16:05Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-29T19:14:15Z"
   },
   {
     "id": "awb_08d7890d34d6e46d8b19",
@@ -9005,21 +8237,14 @@
     "name": "SwissGroove",
     "country": "CH",
     "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "funk",
-      "jazz"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.swissgroove.ch/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuIm10ACGZckHaE4fC3Sgay0NjEpwn9mhnpw&s",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-24T16:32:40Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_6018184c48d7b70e90fc",
@@ -9061,10 +8286,10 @@
       "orchestral"
     ],
     "homepage": "https://symphoniya.com/en/wave/",
-    "favicon": "https://symphoniya.com/wp-content/uploads/2026/09/symphoniya-wave-favicon-512.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-14T16:30:22Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-14T15:10:17Z"
   },
   {
     "id": "awb_ef873570891a8cc2369e",
@@ -9661,24 +8886,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_aef26b9043bf026bc270",
-    "name": "Truehouse Chill",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "chillout+lounge"
-    ],
-    "homepage": "http://www.truehouse.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_f48302f7c558b2250f2d",
     "name": "TVM 3 TV",
     "country": "CH",
@@ -9794,7 +9001,7 @@
     "homepage": "https://vintageradio.ch/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -9837,20 +9044,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-22T12:39:53Z"
-  },
-  {
-    "id": "awb_bef89080f806a4a57fc4",
-    "name": "Virgin Radio Switzerland",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.virginradio.ch/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_085aec2aed06b0ed2593",

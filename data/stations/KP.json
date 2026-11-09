@@ -73,16 +73,12 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news music"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://kfaspain.es/emisora-central-de-corea-pyongyang-fm/",
-    "favicon": "https://kfaspain.es/wp-content/uploads/2022/01/KCBS-LOGO.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -104,25 +100,6 @@
     "updatedAt": "2026-01-15T01:12:36Z"
   },
   {
-    "id": "awb_b1381ec3f2ea55bbbd61",
-    "name": "Voice of Korea",
-    "country": "KP",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "music",
-      "news"
-    ],
-    "homepage": "http://www.vok.rep.kp/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_13c44d8be199898e727e",
     "name": "Voice of Korea (Russian)",
     "country": "KP",
@@ -133,9 +110,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://www.vok.rep.kp/index.php/home/main/ru",
-    "favicon": "http://www.vok.rep.kp/resources/img/logo_r.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -169,25 +146,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_2e9c2b80a3eb948bc86c",
-    "name": "조선의 소리 방송 Voice of Korea",
-    "country": "KP",
-    "subdivision": "Pyongyang",
-    "languages": [
-      "ko"
-    ],
-    "categories": [],
-    "tags": [
-      "information",
-      "international"
-    ],
-    "homepage": "https://www.vok.rep.kp/index.php/home/main/ch",
-    "favicon": "https://vk5pas.org/wp-content/uploads/2021/10/voice-of-korea-logo-aa0874a88c-seeklogo.com_.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-03T21:32:54Z"
   },
   {
     "id": "awb_5b8ff512beb6140bf017",

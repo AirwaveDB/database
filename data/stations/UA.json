@@ -28,9 +28,9 @@
       "pop"
     ],
     "homepage": "https://avtoradio.ua/",
-    "favicon": "https://avtoradio.ua/images/logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -98,7 +98,7 @@
     "homepage": "https://www.109fm.net/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -248,25 +248,14 @@
     "name": "Blues & Rock Radio",
     "country": "UA",
     "subdivision": "Chernivtsi",
-    "languages": [
-      "en",
-      "uk"
-    ],
-    "categories": [
-      "blues",
-      "rock"
-    ],
-    "tags": [
-      "blues",
-      "blues rock",
-      "hard rock",
-      "rock"
-    ],
-    "homepage": "https://laut.fm/bluesrock",
-    "favicon": "https://i.ibb.co/7pjwNCm/Blues-Rock.jpg",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://laut.fm/bluesrock",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:54:34Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_3594153d4d8e5d3359ec",
@@ -337,9 +326,7 @@
     "name": "coma.fm",
     "country": "UA",
     "subdivision": "Kyiv",
-    "languages": [
-      "en"
-    ],
+    "languages": [],
     "categories": [
       "blues",
       "jazz",
@@ -351,9 +338,9 @@
       "rock"
     ],
     "homepage": "https://coma.fm/",
-    "favicon": "https://i.imgur.com/TEZtEBT.png",
+    "favicon": "https://coma.fm/favicon.svg",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -555,14 +542,13 @@
       "rock"
     ],
     "tags": [
-      "pop music",
       "pop-music",
       "rock"
     ],
     "homepage": "https://www.galychyna.fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -608,34 +594,19 @@
   },
   {
     "id": "awb_fb02f5377f576d6dfcac",
-    "name": "HIT FM",
+    "name": "Hit FM",
     "country": "UA",
     "subdivision": "Kiev",
     "languages": [
-      "ru",
       "uk"
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.hitfm.ua/",
+    "homepage": "http://www.hitfm.ua/",
     "favicon": "https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:03:36Z"
-  },
-  {
-    "id": "awb_beba80c78c1609904fdd",
-    "name": "Hit FM (Best)",
-    "country": "UA",
-    "subdivision": "Kiev",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.hitfm.ua/",
-    "favicon": null,
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "updatedAt": "2026-01-15T08:03:36Z"
   },
   {
     "id": "awb_9aa1c5b22d8a0b35cc5b",
@@ -660,30 +631,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:08:13Z"
-  },
-  {
-    "id": "awb_317c461a8ced5e227072",
-    "name": "Hit FM (UKraine) - 128kb/s",
-    "country": "UA",
-    "subdivision": "Kiev",
-    "languages": [
-      "ru",
-      "uk"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "dance",
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://www.hitfm.ua/",
-    "favicon": "https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:27:18Z"
   },
   {
     "id": "awb_903671ad67b9e891a03a",
@@ -792,24 +739,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_c69d6fd84955db740c8e",
-    "name": "Jazz FM 104.6",
-    "country": "UA",
-    "subdivision": "Kyiv",
-    "languages": [
-      "uk"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://www.radiojazz.ua/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:55:39Z"
-  },
-  {
     "id": "awb_5a44e35c8f6de2846075",
     "name": "Jazz Radio",
     "country": "UA",
@@ -871,27 +800,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_645194f490594c137299",
-    "name": "Kharkif Surf Rock",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "surf music",
-      "surf rock"
-    ],
-    "homepage": "https://zeno.fm/radio/surf-rock-music/",
-    "favicon": "https://i.imgur.com/OjNP7Wz.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:48:14Z"
-  },
-  {
     "id": "awb_e1ec03f3d58808990dec",
     "name": "Kharkif Surf Rock",
     "country": "UA",
@@ -920,13 +828,12 @@
       "electronic"
     ],
     "tags": [
-      "edm",
-      "hot ac"
+      "edm"
     ],
     "homepage": "https://www.kissfm.ua/",
-    "favicon": "https://play-lh.googleusercontent.com/tfpSUUVjoePVQ9FAD1rnu6xgnapf1RUjg-iPMx8dwKOWQL1aJ69aNto4je6PHednhA=w240-h480-rw",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -978,7 +885,7 @@
     "homepage": "https://play.tavr.media/kissfm/digital/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -999,26 +906,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_9633895412c204961e54",
-    "name": "Kiss FM EDM Ukraine",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "uk"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "edm"
-    ],
-    "homepage": "https://online.kissfm.ua/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:10:16Z"
   },
   {
     "id": "awb_e8511384c001f7662785",
@@ -1138,15 +1025,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [
-      "dnb",
-      "liquid dnb",
-      "liquid funk"
-    ],
+    "tags": [],
     "homepage": "https://liquiradio.com/",
     "favicon": "https://liquiradio.com/assets/images/logo-liqui-radio-60x60.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -1206,26 +1089,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_fbf6cbb2148b468877c9",
-    "name": "Lounge FM Chill Out",
-    "country": "UA",
-    "subdivision": "Kiev",
-    "languages": [],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "chillout",
-      "lounge",
-      "relax"
-    ],
-    "homepage": "https://loungefm.com.ua/",
-    "favicon": "https://loungefm.com.ua/img/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_8609400ff3f9c1af31a1",
     "name": "Lounge FM Terrace",
     "country": "UA",
@@ -1278,13 +1141,12 @@
       "ambient"
     ],
     "tags": [
-      "chillout",
-      "chillout+lounge"
+      "chillout"
     ],
     "homepage": "https://loungefm.com.ua/chill",
-    "favicon": "https://loungefm.com.ua/img/icon-144x144.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1303,13 +1165,12 @@
     "tags": [
       "classical",
       "hits",
-      "top100",
-      "ukrainian"
+      "top100"
     ],
-    "homepage": "http://www.lux.fm/",
-    "favicon": "https://lux.fm/assets/img/browser-icons/apple-touch-icon-120x120.png",
+    "homepage": "https://lux.fm/",
+    "favicon": "https://lux.fm/images/logo-lux.svg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T00:22:18Z"
   },
   {
@@ -1432,18 +1293,14 @@
     ],
     "tags": [
       "dance",
-      "dance pop",
       "electronic",
       "pop",
-      "top 20",
-      "top 40",
-      "top-40",
-      "world music"
+      "top-40"
     ],
     "homepage": "https://mfm.ua/",
-    "favicon": "https://mfm.ua/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1597,13 +1454,12 @@
       "dance",
       "electronic",
       "pop",
-      "top 40",
       "top-40"
     ],
     "homepage": "https://nrj.ua/",
-    "favicon": "https://nrj.ua/images/NRJ.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1798,7 +1654,7 @@
     "homepage": "https://o.tavr.media/radio3italiano",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2012,24 +1868,6 @@
     "updatedAt": "2026-01-15T06:32:25Z"
   },
   {
-    "id": "awb_8dd8fec192ac802a1c31",
-    "name": "Radio NV (Радіо НВ)",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": "https://radio.nv.ua/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_7b4aa2b4b529e9af217f",
     "name": "Radio Ppeople FM – House Music",
     "country": "UA",
@@ -2153,27 +1991,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_21dc0f7ce7240d8048dd",
-    "name": "Radio ROKS Ballads",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "uk"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "rock"
-    ],
-    "homepage": "https://www.radioroks.ua/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:02:03Z"
   },
   {
     "id": "awb_93438c3246cb69f20c7f",
@@ -2353,18 +2170,16 @@
       "uk"
     ],
     "categories": [
-      "punk",
       "rock"
     ],
     "tags": [
       "mixed",
-      "punk",
       "rock"
     ],
     "homepage": "https://radio.social.net.ua/",
     "favicon": "https://radio.social.net.ua/static/favicon.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2808,21 +2623,17 @@
     ],
     "categories": [
       "ambient",
-      "electronic",
       "jazz"
     ],
     "tags": [
       "chillout",
-      "house/soulful/deep house",
       "jazz",
-      "light",
-      "lounge",
-      "lounge music"
+      "lounge"
     ],
     "homepage": "https://fm.co.ua/",
-    "favicon": "https://fm.co.ua/wp-content/uploads/2025/10/STYLEFM-KV.jpg",
+    "favicon": "https://fm.co.ua/wp-content/uploads/2026/03/STYLE-FM-LOGO.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-09-02T08:08:12Z"
   },
   {
@@ -2852,28 +2663,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_0db1bdcb14ff5d47b439",
-    "name": "SW-Radio Ukrainisch",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian",
-      "religión",
-      "ukrainian"
-    ],
-    "homepage": "https://www.sw-radio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:42:51Z"
   },
   {
     "id": "awb_801cda41a2063ef08a14",
@@ -2958,7 +2747,7 @@
     "homepage": "https://t.me/pytenvvedi",
     "favicon": "https://telegram.org/img/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -2970,18 +2759,15 @@
       "uk"
     ],
     "categories": [
-      "news",
       "pop"
     ],
     "tags": [
-      "alarm",
-      "local news",
       "pop"
     ],
     "homepage": "https://timfm.online/",
-    "favicon": "https://timfm.online/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3192,26 +2978,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_a88a6b04886fc20a4c76",
-    "name": "xradioua",
-    "country": "UA",
-    "subdivision": "Kyiv",
-    "languages": [
-      "uk"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electronic music"
-    ],
-    "homepage": "http://xradio.in.ua/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:25:41Z"
-  },
-  {
     "id": "awb_f57beb5b05bc19daaada",
     "name": "Yantarne FM",
     "country": "UA",
@@ -3269,9 +3035,9 @@
       "pop"
     ],
     "homepage": "https://zfm.com.ua/",
-    "favicon": "https://zfm.com.ua/images/default_album.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3297,42 +3063,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_5e8afbdf3fe6171615d6",
-    "name": "Армия FM",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "uk"
-    ],
-    "categories": [],
-    "tags": [
-      "военно-патриотическая"
-    ],
-    "homepage": "https://www.armyfm.com.ua/",
-    "favicon": "https://www.armyfm.com.ua/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:48:14Z"
-  },
-  {
-    "id": "awb_b2adb1484fdc2fef8336",
-    "name": "Армія FM 94.6",
-    "country": "UA",
-    "subdivision": "Kyiv",
-    "languages": [
-      "uk"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://www.armyfm.com.ua/",
-    "favicon": "https://www.armyfm.com.ua/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:44:56Z"
   },
   {
     "id": "awb_0440a35c1259bed75ada",
@@ -3562,7 +3292,7 @@
     "id": "awb_b7e734b0fafc3368b1da",
     "name": "Громадське радіо",
     "country": "UA",
-    "subdivision": "Київська",
+    "subdivision": null,
     "languages": [],
     "categories": [
       "news"
@@ -3577,29 +3307,8 @@
     "homepage": "https://hromadske.radio/",
     "favicon": "https://hromadske.radio/logotype.svg",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
-    "id": "awb_b12153c7d16a6cf7a175",
-    "name": "Громадське радіо / Hromadske radio",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "ru",
-      "uk"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": "https://hromadskeradio.org/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:35:55Z"
   },
   {
     "id": "awb_a5902a916491c6c4b1c9",
@@ -3648,28 +3357,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_412f71dd745888874728",
-    "name": "Єдині новини 24 - BREAKING - LIVE",
-    "country": "UA",
-    "subdivision": "БАНДЕРШТАТ",
-    "languages": [
-      "uk"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news",
-      "russian war-ship go fиck-yo-self",
-      "ukraine"
-    ],
-    "homepage": "https://radioplayer.ua/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:44:13Z"
   },
   {
     "id": "awb_f06f507757e2be7844f9",
@@ -3722,9 +3409,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://z-polus.info/",
-    "favicon": "https://z-polus.info/wp-content/uploads/2020/06/zah_polus_newlogo_white-1.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3876,10 +3563,10 @@
       "music"
     ],
     "homepage": "https://lviv.lux.fm/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/nghwdngbqgeg.png",
+    "favicon": "https://images.app.goo.gl/dbqDWaW2b7jXz3eR7",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:28:39Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:01:40Z"
   },
   {
     "id": "awb_24b971b7ffeb3b0c4ccb",
@@ -4021,7 +3708,7 @@
     "homepage": "http://online.melodiafm.ua/MelodiaFM_Disco_Live",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -4047,26 +3734,6 @@
     "updatedAt": "2026-01-14T23:59:15Z"
   },
   {
-    "id": "awb_15edceae4f3b971a07da",
-    "name": "Мелодія Int",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "uk"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "http://online.melodiafm.ua/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:13:03Z"
-  },
-  {
     "id": "awb_4365fc5f1d575e406539",
     "name": "Мелодія Int",
     "country": "UA",
@@ -4085,31 +3752,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:37:33Z"
-  },
-  {
-    "id": "awb_337e37b646f759f4998e",
-    "name": "Місто над Бугом",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "uk"
-    ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "information",
-      "music",
-      "national",
-      "news",
-      "pop"
-    ],
-    "homepage": "https://www.mistonadbugom.com.ua/",
-    "favicon": "https://www.mistonadbugom.com.ua/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:32:04Z"
   },
   {
     "id": "awb_0aaefe76ef492dee87fb",
@@ -4179,9 +3821,9 @@
       "pop"
     ],
     "homepage": "https://www.nasheradio.ua/",
-    "favicon": "https://play.tavr.media/static/image/nashe/NasheRadio_NewLogo_228x228.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T23:39:47Z"
   },
   {
@@ -4190,16 +3832,12 @@
     "country": "UA",
     "subdivision": "Kyiv",
     "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.nasheradio.ua/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4233,8 +3871,8 @@
     "homepage": "http://radio.moa.org.ua/Friday.m3u",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:52:11Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:01:34Z"
   },
   {
     "id": "awb_810365f3f1dc948d77e9",
@@ -4365,7 +4003,7 @@
     "homepage": "https://radio.nv.ua/ru",
     "favicon": "https://d3e54v103j8qbb.cloudfront.net/static/designer_favicon.5ea478d03e.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:57:44Z"
   },
   {
@@ -4397,43 +4035,15 @@
     "languages": [
       "uk"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "entertainment",
-      "information",
-      "music",
-      "news",
-      "other"
-    ],
-    "homepage": "https://c4.com.ua/",
-    "favicon": "https://c4.com.ua/wp-content/themes/c4/assets/img/favicon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_efe0b703eb95a947c505",
-    "name": "Радіо FM Галичина",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [],
     "categories": [],
     "tags": [
-      "320 kbit/s",
-      "https",
-      "lviv",
-      "mp3",
-      "music",
-      "podcasts",
-      "regional radio"
+      "music"
     ],
-    "homepage": "https://galychyna.fm/",
-    "favicon": "https://galychyna.fm/favicon.ico",
+    "homepage": "https://c4.com.ua/",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_3e8773638891e362c2f5",
@@ -4618,24 +4228,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_6c3d6b3fb1620811f369",
-    "name": "Радіо Байрактар",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "uk"
-    ],
-    "categories": [],
-    "tags": [
-      "ua"
-    ],
-    "homepage": "https://play.tavr.media/radiobayraktar/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:59:11Z"
-  },
-  {
     "id": "awb_8649eda229f9c44d643b",
     "name": "Радіо Байрактар",
     "country": "UA",
@@ -4816,16 +4408,12 @@
     "languages": [
       "uk"
     ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "talk"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radio.kyiv.media/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5052,19 +4640,15 @@
     "languages": [
       "uk"
     ],
-    "categories": [
-      "classical"
-    ],
+    "categories": [],
     "tags": [
-      "classical music",
-      "culture",
       "kultur"
     ],
-    "homepage": "https://ukr.radio/channel.html?channelID=3",
-    "favicon": "https://s2.vcdn.biz/static/f/4621116611/image.jpg",
+    "homepage": "https://ukr.radio/channel.html?channelID=3&",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Radio_Kultura_%282022%29.svg/330px-Radio_Kultura_%282022%29.svg.png",
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-09-01T18:39:43Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-01T18:15:16Z"
   },
   {
     "id": "awb_d2da2a2baa641988bd8e",
@@ -5133,26 +4717,6 @@
     "updatedAt": "2026-01-14T23:22:02Z"
   },
   {
-    "id": "awb_2b5e2537c4190f316943",
-    "name": "Радіо Марія",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "uk"
-    ],
-    "categories": [],
-    "tags": [
-      "160 kbit/s",
-      "aac",
-      "religion"
-    ],
-    "homepage": "http://radiomaria.org.ua/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:42:03Z"
-  },
-  {
     "id": "awb_762e717ba9bb0535c10d",
     "name": "Радіо Мегаполіс (Кам'янське)",
     "country": "UA",
@@ -5180,29 +4744,21 @@
   },
   {
     "id": "awb_538eea8b60e45f2656c7",
-    "name": "Радіо Ми-Україна",
+    "name": "Радіо Ми Україна",
     "country": "UA",
     "subdivision": null,
     "languages": [
       "uk"
     ],
-    "categories": [
-      "news",
-      "pop"
-    ],
+    "categories": [],
     "tags": [
-      "hot ac",
-      "information",
-      "music",
-      "news",
-      "other",
-      "pop"
+      "hot ac"
     ],
     "homepage": "https://weua.fm/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_130149460.jpg?alt=media&token=32e0c1f7-c755-4f7d-91f6-c1e9567bab34",
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250108_083857159.jpg?alt=media&token=9f59b20f-45de-4bc4-8fb4-ed5025e79cba",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:40:19Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:00:03Z"
   },
   {
     "id": "awb_789b637fede29460b94f",
@@ -5258,16 +4814,12 @@
     "languages": [
       "uk"
     ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "talk"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radio.nv.ua/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5281,9 +4833,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radio.nikopolnews.net/",
-    "favicon": "https://radio.nikopolnews.net/icons/favicon-512x512.svg",
+    "favicon": "https://radio.nikopolnews.net/img/640logonikopol.png",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 3,
     "updatedAt": "2026-09-10T08:30:45Z"
   },
   {
@@ -5384,18 +4936,14 @@
     "languages": [
       "uk"
     ],
-    "categories": [
-      "news"
-    ],
+    "categories": [],
     "tags": [
-      "kultur",
-      "music",
-      "news"
+      "kultur"
     ],
     "homepage": "https://ukr.radio/channel.html?channelID=2",
     "favicon": "https://topradio.me/assets/image/radio/180/radio-promin.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-01T18:34:44Z"
   },
   {
@@ -5602,22 +5150,12 @@
     "languages": [
       "uk"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "320 kbit/s",
-      "https",
-      "mp3",
-      "music",
-      "news",
-      "regional radio",
-      "rivne"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radiotrek.rv.ua/",
     "favicon": "https://radiotrek.rv.ua/tpl/images/icons/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T04:44:38Z"
   },
   {
@@ -5722,47 +5260,6 @@
     "updatedAt": "2026-10-12T14:54:44Z"
   },
   {
-    "id": "awb_ab105244ef974a2c5130",
-    "name": "Радіоточка",
-    "country": "UA",
-    "subdivision": "Kyiv",
-    "languages": [
-      "uk"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "retro hits"
-    ],
-    "homepage": "https://www.radio-browser.info/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-06T07:24:59Z"
-  },
-  {
-    "id": "awb_ff87a12ac8b08b475990",
-    "name": "Радіоточка",
-    "country": "UA",
-    "subdivision": "Kyiv",
-    "languages": [
-      "uk"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "retro fm",
-      "retro hits"
-    ],
-    "homepage": "http://radio.ukr.radio:8000/ur5-mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-21T21:38:52Z"
-  },
-  {
     "id": "awb_9bfd93f87f205d2a3354",
     "name": "Радіоточка 192 kb/s",
     "country": "UA",
@@ -5795,20 +5292,6 @@
     "updatedAt": "2026-10-12T12:13:07Z"
   },
   {
-    "id": "awb_c0d1e83349b13ef1df17",
-    "name": "Радіоточка 48 kb/s",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://ukr.radio/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-04T22:51:15Z"
-  },
-  {
     "id": "awb_323613230ad398e8f95d",
     "name": "Радіоточка 48 кБ/с",
     "country": "UA",
@@ -5839,7 +5322,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5855,27 +5338,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-01T19:22:47Z"
-  },
-  {
-    "id": "awb_249b2aa952414db78658",
-    "name": "РокРадіо Metal",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "metal"
-    ],
-    "tags": [
-      "https",
-      "internet radio",
-      "metal",
-      "mp3"
-    ],
-    "homepage": "https://rockradioua.online/",
-    "favicon": "https://rockradioua.online/wp-content/themes/rock-radio/favicon/favicon-32x32.png",
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_60bb825c5a951652e357",
@@ -6139,30 +5601,24 @@
   },
   {
     "id": "awb_56f81509e1c895000a6b",
-    "name": "УХ-Радіо",
+    "name": "Ух радіо",
     "country": "UA",
     "subdivision": null,
     "languages": [
       "uk"
     ],
-    "categories": [
-      "folk",
-      "pop"
-    ],
+    "categories": [],
     "tags": [
       "128 kbit/s",
-      "folk",
       "mp3",
       "music",
-      "national",
-      "pop",
       "regional radio"
     ],
-    "homepage": "http://www.uhradio.ua/",
+    "homepage": "https://uhradio.ua/",
     "favicon": "https://uhradio.ua/wp-content/themes/uh-radio/assets/img/logo/logo.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T00:07:07Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:20:09Z"
   },
   {
     "id": "awb_76fe6de349279b91d798",
@@ -6211,43 +5667,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_2f0fd89338c92063cc44",
-    "name": "Хіт FM Сучасні хіти",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_cdcee9ab219a184b8773",
-    "name": "Хіт ФМ",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "uk"
-    ],
-    "categories": [],
-    "tags": [
-      "00's",
-      "90's"
-    ],
-    "homepage": "http://hitfm.ua/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:49:59Z"
-  },
-  {
     "id": "awb_e39fd1546a3983d6522d",
     "name": "Хіт ФМ Найбільші хіти",
     "country": "UA",
@@ -6265,7 +5684,7 @@
     "homepage": "http://hitfm.ua/",
     "favicon": "https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T04:18:44Z"
   },
   {
@@ -6303,7 +5722,7 @@
     "homepage": "https://vk.com/club172222955",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20230402_021920573.jpg?alt=media&token=13c4ee8f-cde1-4552-8c09-91939db353c4",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {

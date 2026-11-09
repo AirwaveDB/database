@@ -75,26 +75,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_0be5abc2536d02496f36",
-    "name": "Hi FM Oman",
-    "country": "OM",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://www.hifmradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:15:37Z"
-  },
-  {
     "id": "awb_599f1571eab2a9ccc0d9",
     "name": "JazzWave Radio",
     "country": "OM",
@@ -114,29 +94,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-18T12:47:41Z"
-  },
-  {
-    "id": "awb_256de9bcc1d48760e06d",
-    "name": "Merge",
-    "country": "OM",
-    "subdivision": null,
-    "languages": [
-      "ar",
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "pop",
-      "regional"
-    ],
-    "homepage": "http://www.radiomerge.fm/",
-    "favicon": "http://radiomerge.fm/merge/wp-content/themes/radiomerge/assets/images/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:51:52Z"
   },
   {
     "id": "awb_73f64d6bd359e0350db1",
@@ -170,27 +127,16 @@
   },
   {
     "id": "awb_73ead61d0f7c1e2afab4",
-    "name": "Virgin Radio Oman",
+    "name": "Virgin Radio (Oman)",
     "country": "OM",
     "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "hip-hop",
-      "pop"
-    ],
-    "tags": [
-      "hiphop",
-      "hits",
-      "pop",
-      "r'n'b",
-      "top 40"
-    ],
-    "homepage": "http://virginradiooman.com/",
-    "favicon": "http://virginradiooman.com/favicon.ico",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://virginradiooman.com/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-03-02T18:07:54Z"
   }
 ]

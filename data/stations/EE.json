@@ -328,29 +328,6 @@
     "updatedAt": "2026-01-15T03:45:08Z"
   },
   {
-    "id": "awb_66281e48a9129c20b046",
-    "name": "ERR Raadio 2 - 320kbps",
-    "country": "EE",
-    "subdivision": "Tallinn",
-    "languages": [
-      "et"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "err",
-      "misc",
-      "music",
-      "public radio"
-    ],
-    "homepage": "https://r2.err.ee/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:56:44Z"
-  },
-  {
     "id": "awb_c1813a3a835611101368",
     "name": "ERR Raadio 4",
     "country": "EE",
@@ -438,41 +415,6 @@
     "updatedAt": "2026-09-13T18:51:25Z"
   },
   {
-    "id": "awb_7ca3ef163deb049b559c",
-    "name": "Hardcore Predictor FM",
-    "country": "EE",
-    "subdivision": "Läänemaa",
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "hard dance",
-      "hard techno",
-      "hard trance",
-      "hardstyle"
-    ],
-    "homepage": "https://www.hpsbassline.club/",
-    "favicon": "https://azura.hpsbassline.club/static/uploads/hardcore_predictorfm/album_art.1784665639.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T01:29:59Z"
-  },
-  {
-    "id": "awb_7d290d6f720cfd5f6fbe",
-    "name": "Hitmix",
-    "country": "EE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://hitmix.ee/",
-    "favicon": "https://hitmix.ee/player/img/hitmix-dark.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-24T12:08:38Z"
-  },
-  {
     "id": "awb_54ffd74f650f36c44aad",
     "name": "Hitmix Estonia",
     "country": "EE",
@@ -552,25 +494,13 @@
     "country": "EE",
     "subdivision": "Viljandi maakond",
     "languages": [],
-    "categories": [
-      "electronic",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "ai music",
-      "electronic",
-      "estonia",
-      "local music",
-      "pop",
-      "pop rock",
-      "rock"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radio.citrina.ee/public/hot_fields_ai_radio",
-    "favicon": "http://radio.citrina.ee/static/uploads/hot_fields_ai_radio/album_art.1792094382.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-15T20:18:05Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T19:37:14Z"
   },
   {
     "id": "awb_5621b9a223bdf61a8756",
@@ -597,28 +527,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_cc986b75028a3c8fab65",
-    "name": "IDA",
-    "country": "EE",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "et",
-      "fi"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electronic"
-    ],
-    "homepage": "https://idaidaida.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:08:30Z"
-  },
-  {
     "id": "awb_c8b54a3359e68944c6c0",
     "name": "IDA Raadio - Tallinn",
     "country": "EE",
@@ -627,9 +535,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://idaidaida.net/et",
-    "favicon": "https://idaidaida.net/_nuxt/icons/icon_512x512.4be776.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -996,7 +904,7 @@
   },
   {
     "id": "awb_f5f98cbe1bfefa043e85",
-    "name": "PCR.fm (Parnu Club Radio)",
+    "name": "PCR.FM (Parnu Club Radio)",
     "country": "EE",
     "subdivision": "Parnu",
     "languages": [
@@ -1015,7 +923,7 @@
     "homepage": "https://pcr.fm/",
     "favicon": "https://pcr.fm/favicon.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1030,14 +938,13 @@
       "religious"
     ],
     "tags": [
-      "christian",
-      "religious"
+      "christian"
     ],
     "homepage": "http://www.pereraadio.ee/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:03:15Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:24:32Z"
   },
   {
     "id": "awb_ddf88a3c53f45b383630",
@@ -1051,13 +958,12 @@
       "religious"
     ],
     "tags": [
-      "christian",
-      "religious"
+      "christian"
     ],
     "homepage": "http://www.pereraadio.ee/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T01:56:33Z"
   },
   {
@@ -1072,14 +978,13 @@
       "religious"
     ],
     "tags": [
-      "christian",
-      "religious"
+      "christian"
     ],
     "homepage": "http://www.pereraadio.ee/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:31:56Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:25:41Z"
   },
   {
     "id": "awb_c561b72ed94c79a672b3",
@@ -1334,27 +1239,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_604ed443688087d78836",
-    "name": "R2Pop",
-    "country": "EE",
-    "subdivision": null,
-    "languages": [
-      "et"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "pop music"
-    ],
-    "homepage": "https://r2extra.err.ee/r2pop",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:36:09Z"
-  },
-  {
     "id": "awb_20aa089b67f7e51f29f1",
     "name": "R2Rock",
     "country": "EE",
@@ -1537,7 +1421,7 @@
     "homepage": "https://www.relaxfm.ee/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1551,7 +1435,7 @@
     "homepage": "https://www.relaxfm.ee/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1644,6 +1528,33 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_3f08d3ae4eef196f3d0a",
+    "name": "Radio DRUZI",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "uk"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "culture",
+      "estonia",
+      "news",
+      "pop",
+      "talk",
+      "ukrainian"
+    ],
+    "homepage": "https://druzi.media/",
+    "favicon": "https://druzi.media/wp-content/uploads/2026/09/druzi-site-icon-300x300.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T20:35:04Z"
+  },
+  {
     "id": "awb_d1b51d336fdf8f524d6a",
     "name": "Radio Eli",
     "country": "EE",
@@ -1655,14 +1566,13 @@
       "religious"
     ],
     "tags": [
-      "christian",
       "religious"
     ],
     "homepage": "http://www.pereraadio.ee/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:58:24Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:14:22Z"
   },
   {
     "id": "awb_1d07111cc696ba149368",
@@ -1699,9 +1609,9 @@
       "oldies"
     ],
     "homepage": "https://radionostalgia.ee/",
-    "favicon": "https://optim.tildacdn.net/tild3738-6439-4433-a336-616635313861/-/resize/760x/-/format/webp/_-removebg-preview.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1786,7 +1696,7 @@
     "homepage": "https://www.relaxfm.ee/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2018,13 +1928,12 @@
       "religious"
     ],
     "tags": [
-      "christian",
-      "religious"
+      "christian"
     ],
     "homepage": "http://www.pereraadio.ee/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:48:53Z"
   },
   {
@@ -2409,17 +2318,15 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "classical",
-      "country"
+      "classical"
     ],
     "tags": [
-      "classical",
-      "country"
+      "classical"
     ],
     "homepage": "https://vikerraadio.ee/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -2577,28 +2484,5 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-15T22:42:37Z"
-  },
-  {
-    "id": "awb_cea74f8b1fe127205b68",
-    "name": "Семейное Радио Эли. Тарту 1035 КГц",
-    "country": "EE",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "religious",
-      "talk"
-    ],
-    "tags": [
-      "christian",
-      "religion",
-      "talk"
-    ],
-    "homepage": "https://mediaeli.ee/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241023_172506548.jpg?alt=media&token=5290b8e9-1f2d-4254-a94c-1efe31cc380c",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:51:27Z"
   }
 ]

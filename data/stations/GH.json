@@ -89,16 +89,14 @@
     "categories": [],
     "tags": [
       "adom",
-      "adom fm",
       "ok fm",
-      "oyerep fm",
-      "oyerepa fm"
+      "oyerep fm"
     ],
     "homepage": "http://stream.zeno.fm/dmn9atfb7ehvv",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T08:37:27Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:45:24Z"
   },
   {
     "id": "awb_099d90cbc80e4925a45f",
@@ -287,8 +285,8 @@
     "homepage": "https://listen.radiovexa.com/allos-fm",
     "favicon": "https://listen.radiovexa.com/public/v1/stations/allos-fm/logo",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-25T09:00:59Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-25T09:00:26Z"
   },
   {
     "id": "awb_2b3ce2ab3b55e730cdb1",
@@ -299,9 +297,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.amenfm.com/",
-    "favicon": "https://amenfm.com/wp-content/uploads/2024/01/AmenFMred.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -564,7 +562,7 @@
     "homepage": "https://citinewsroom.com/livestream/",
     "favicon": "https://citinewsroom.com/wp-content/uploads/2019/08/cnr_logo_web.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -641,7 +639,7 @@
     "homepage": "https://soundcloud.com/evangelistoduro/",
     "favicon": "https://cdn-profiles.tunein.com/s336934/images/logod.png?t=638711993140000000",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -699,21 +697,12 @@
     "languages": [
       "en"
     ],
-    "categories": [
-      "news",
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "accra",
-      "ghana",
-      "mrcrosby",
-      "news talk sports"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.facebook.com/UniiqFM",
-    "favicon": "https://scontent-los4-1.xx.fbcdn.net/v/t39.30808-6/476211391_1140917558043725_5359624271353467391_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEqGZgQ6-OlqrcluLfF6JbhisOaLLqCgiqKw5osuoKCKsvZ4wVITa7erhL1o64IcUUex8BdeVtSyPV4h1KIK9Ct&_nc_ohc=VfPfNOrJgIAQ7kNvwHoFeiC&_nc_oc=AdpN0f3NC0134TMKoSGlMclopwB1quLcka2MqaqpzxSzIk-fBpsocx9BidMbKbGHIzLTUlfYjUnaky7OT2NkCFoQ&_nc_zt=23&_nc_ht=scontent-los4-1.xx&_nc_gid=PkPsf4Ld7h1MITeA3Vi7Bw&_nc_ss=7b2a8&oh=00_Af9QWdBIutyG-YWrFHsvP0x41AmCffVzxCuRDuGoa2hFmQ&oe=6A25EB56",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -837,6 +826,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_73630ee28b824ff6ef14",
+    "name": "Herald FM",
+    "country": "GH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://heraldfmonline.radio12345.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T23:15:01Z"
   },
   {
     "id": "awb_a76f4bc2fad62ff2d75a",
@@ -1563,14 +1566,13 @@
       "akan",
       "christian",
       "gospel",
-      "mrcrosby",
-      "music"
+      "mrcrosby"
     ],
     "homepage": "https://www.facebook.com/pentradio/",
     "favicon": "https://cdn-profiles.tunein.com/s301937/images/bannero.jpg?t=639101384010000000",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-06-01T15:22:26Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-06-01T15:21:23Z"
   },
   {
     "id": "awb_94315e89ac186687d0fc",
@@ -1945,22 +1947,16 @@
       "en"
     ],
     "categories": [
-      "religious",
-      "talk"
+      "religious"
     ],
     "tags": [
-      "christian",
       "gospel",
-      "jesus",
-      "mrcrosby",
-      "music",
-      "preaching",
-      "talk"
+      "music"
     ],
     "homepage": "https://sunnygh.com/",
-    "favicon": "https://cdn-profiles.tunein.com/s196797/images/logod.jpg?t=638117932610000000",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2022,28 +2018,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-01T14:51:53Z"
-  },
-  {
-    "id": "awb_1cbd9b52ad9db893a441",
-    "name": "West End Radio",
-    "country": "GH",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "entertainment",
-      "gospel",
-      "politics"
-    ],
-    "homepage": "http://www.westendfmonline.com/",
-    "favicon": "https://cdn.onlineradiobox.com/img/logo/7/85267.v7.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-14T13:13:31Z"
   },
   {
     "id": "awb_b210cacb0dddc7719049",
@@ -2170,17 +2144,14 @@
     "languages": [
       "ha"
     ],
-    "categories": [
-      "news"
-    ],
+    "categories": [],
     "tags": [
-      "music",
-      "news"
+      "music"
     ],
     "homepage": null,
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s120870q.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   }
 ]

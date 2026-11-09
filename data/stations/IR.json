@@ -98,24 +98,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_235350574af1995a79c9",
-    "name": "go",
-    "country": "IR",
-    "subdivision": null,
-    "languages": [
-      "fa"
-    ],
-    "categories": [],
-    "tags": [
-      "donya"
-    ],
-    "homepage": "https://zeno.fm/radio/radiodonya/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:00:03Z"
-  },
-  {
     "id": "awb_7e5198caa78a4567280c",
     "name": "go",
     "country": "IR",
@@ -264,18 +246,12 @@
     "languages": [
       "fa"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "iran",
-      "news",
-      "persian"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://iranintl.com/",
-    "favicon": "https://iranintl.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -289,7 +265,7 @@
     "homepage": "https://qurango.net/radio/mohammed_siddiq_alminshawi",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -343,44 +319,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_e34ac04820652f1a511d",
-    "name": "Radio Iran International",
-    "country": "IR",
-    "subdivision": null,
-    "languages": [
-      "fa",
-      "ira"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "akhbar",
-      "farsi",
-      "international",
-      "iran",
-      "iran international",
-      "irani",
-      "iranintl",
-      "khabar",
-      "news",
-      "persian",
-      "اخبار",
-      "ایران",
-      "ایران اینترنشنال",
-      "ایران اینتل",
-      "ایرانی",
-      "اینترنشنال",
-      "خبر",
-      "فارسی"
-    ],
-    "homepage": "https://www.iranintl.com/live",
-    "favicon": "https://ott.iranintl.com/images/ii-player-poster.webp",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-24T06:26:59Z"
   },
   {
     "id": "awb_f284179721839684c88c",
@@ -538,22 +476,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_0ea239062c3a62e4c9b5",
-    "name": "RadioSimorgh",
-    "country": "IR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "international"
-    ],
-    "homepage": "https://is.gd/y3vO00",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_808658320cc23f8fdf6c",
     "name": "RadioSimorgh Authentic Iranian music",
     "country": "IR",
@@ -579,17 +501,14 @@
     "languages": [
       "fa"
     ],
-    "categories": [
-      "talk"
-    ],
+    "categories": [],
     "tags": [
-      "music",
-      "talk & speech"
+      "music"
     ],
     "homepage": "https://www.radioyar.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -631,9 +550,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.radiofarda.com/",
-    "favicon": "https://www.radiofarda.com/content/responsive/rfe/img/webapp/ico-128x128.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   }
 ]

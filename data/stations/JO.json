@@ -98,7 +98,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -242,24 +242,6 @@
     "updatedAt": "2026-10-21T08:04:20Z"
   },
   {
-    "id": "awb_7a8a7de6991729eb7bff",
-    "name": "Jordan Radio (Main)",
-    "country": "JO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_9ff56b178ce8375af7dc",
     "name": "JRRadio",
     "country": "JO",
@@ -317,14 +299,14 @@
     "id": "awb_e4f128c8a279dc05b747",
     "name": "Mazaj FM",
     "country": "JO",
-    "subdivision": "Amman",
+    "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://www.mazaj.fm/",
-    "favicon": "https://mazaj.fm/apple-touch-icon.png",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/6/43386.v10.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -356,7 +338,7 @@
     "homepage": "https://www.mood.fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -392,8 +374,8 @@
     "updatedAt": "2026-10-21T08:04:20Z"
   },
   {
-    "id": "awb_683560890ab93f838491",
-    "name": "noursat jordan",
+    "id": "awb_02ba5b9e542ead7d7086",
+    "name": "noursat jorden",
     "country": "JO",
     "subdivision": null,
     "languages": [],
@@ -407,40 +389,6 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_895be89fdd8c34dd755c",
-    "name": "Noursat Jordan TV",
-    "country": "JO",
-    "subdivision": "Amman",
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://noursatjordan.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:06:37Z"
-  },
-  {
-    "id": "awb_02ba5b9e542ead7d7086",
-    "name": "noursat jorden",
-    "country": "JO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
@@ -593,20 +541,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-21T08:04:20Z"
-  },
-  {
-    "id": "awb_8bf0021105c5c8ae6e6e",
-    "name": "Radio Jordan 96.3",
-    "country": "JO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.jrtv.gov.jo/radio/english-radio/5",
-    "favicon": "https://www.jrtv.gov.jo/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_6b28ddca26c4bedb3e58",

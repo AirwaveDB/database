@@ -265,20 +265,17 @@
       "fi"
     ],
     "categories": [
-      "blues",
       "jazz"
     ],
     "tags": [
-      "blues",
-      "funk",
       "groove",
       "jazz",
       "soul"
     ],
     "homepage": "https://www.supla.fi/groovefm",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Groove_color_RGB.png",
+    "favicon": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/Groove_2560x2560.jpg?itok=e9AhcEY0",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-06-02T09:38:14Z"
   },
   {
@@ -337,19 +334,16 @@
       "fi"
     ],
     "categories": [
-      "community",
       "electronic"
     ],
     "tags": [
       "alternative",
-      "community",
-      "electronic",
-      "underground"
+      "electronic"
     ],
     "homepage": "https://www.idaidaida.net/",
-    "favicon": "https://idaidaida.net/og-image.png",
-    "type": "community",
-    "sourceCount": 2,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -363,9 +357,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.jarviradio.fi/",
-    "favicon": "https://www.jarviradio.fi/favicon.ico",
+    "favicon": "https://www.jarviradio.fi/wp-content/uploads/2016/11/logo.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -376,18 +370,12 @@
     "languages": [
       "fi"
     ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "puhe",
-      "puheradio",
-      "talk"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.jarviradio.fi/jrpuhe",
     "favicon": "https://www.jarviradio.fi/wp-content/uploads/2025/08/JRPUHE_LOGO_taajuus.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -479,29 +467,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:58:02Z"
-  },
-  {
-    "id": "awb_1cc49bb7d20c9706b09e",
-    "name": "Kaaosradio - 24h Chill",
-    "country": "FI",
-    "subdivision": null,
-    "languages": [
-      "fi"
-    ],
-    "categories": [
-      "ambient",
-      "electronic"
-    ],
-    "tags": [
-      "chillout",
-      "downtempo",
-      "electronic"
-    ],
-    "homepage": "http://www.kaaosradio.fi/",
-    "favicon": "http://www.kaaosradio.fi/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:58:06Z"
   },
   {
     "id": "awb_dbede36672232745e005",
@@ -707,13 +672,11 @@
       "en"
     ],
     "categories": [],
-    "tags": [
-      "discography"
-    ],
+    "tags": [],
     "homepage": "https://pcradio.ru/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -807,9 +770,9 @@
       "pop"
     ],
     "homepage": "https://www.popfm.fi/pop/home",
-    "favicon": "https://www.popfm.fi/uploads/stations/a12df260-69dd-4fb1-b482-8632697f79e8-w150.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1322,27 +1285,6 @@
     "updatedAt": "2026-04-08T14:25:16Z"
   },
   {
-    "id": "awb_c5a963d778fa0e963aa1",
-    "name": "Radio Musa",
-    "country": "FI",
-    "subdivision": null,
-    "languages": [
-      "fi"
-    ],
-    "categories": [],
-    "tags": [
-      "nostalgia",
-      "nostalgic",
-      "nostalgico",
-      "nostalgie"
-    ],
-    "homepage": "http://www.radiomusa.fi/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:58:11Z"
-  },
-  {
     "id": "awb_edd3da0bffcf1fe995d0",
     "name": "Radio Nostalgia",
     "country": "FI",
@@ -1387,9 +1329,9 @@
       "pop"
     ],
     "homepage": "https://radioplay.fi/radio-nova",
-    "favicon": "https://assets.planetradio.co.uk/img/ConfigLockScreenImageUrl/254.jpg",
+    "favicon": "https://www.radionova.fi/templates/radionova/images/radio-nova-logo.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1457,26 +1399,15 @@
     "id": "awb_28fa2e76e60fa1bc6c40",
     "name": "Radio Rock",
     "country": "FI",
-    "subdivision": "Uusimaa",
-    "languages": [
-      "en",
-      "fi"
-    ],
-    "categories": [
-      "metal",
-      "rock"
-    ],
-    "tags": [
-      "finland rock fm 90 92.2 100.4 100.9 supla.fi/radiorock asenn",
-      "helsinki",
-      "metal",
-      "rock"
-    ],
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.supla.fi/radiorock",
     "favicon": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/RadioRock_2560x2560.jpg?itok=-t2L8AEt",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-09T16:24:15Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-21T18:16:14Z"
   },
   {
     "id": "awb_fbbe232872a537fce48b",
@@ -1505,9 +1436,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.radiosandels.fi/",
-    "favicon": "https://www.radiosandels.fi/attachments/Image/InShot_20211202_175929630_1.gif?template=generic",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1569,9 +1500,9 @@
       "pop"
     ],
     "homepage": "http://www.radiosun.fi/",
-    "favicon": "https://radiosun.fi/wp-content/uploads/2023/10/SUN_logo_valk_desktop.png",
+    "favicon": "https://radiosun.fi/wp-content/uploads/2023/10/Radio-SUN-LOGO-Asiallisesti-paikallinen-1-1170x599.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1772,8 +1703,6 @@
       "rock"
     ],
     "tags": [
-      "alternative rock",
-      "classic rock",
       "classic-rock",
       "country",
       "rock"
@@ -1781,7 +1710,7 @@
     "homepage": "https://www.rollfm.fi/",
     "favicon": "https://www.rollfm.fi/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1851,20 +1780,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-02T16:09:37Z"
-  },
-  {
-    "id": "awb_8a9de30b6855d73149d3",
-    "name": "Sandels",
-    "country": "FI",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiosandels.radiotaajuus.fi:9050/radio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T10:29:37Z"
   },
   {
     "id": "awb_5ece0750ff8638a55b34",
@@ -2147,22 +2062,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_b9bba166a0fd3d3520c3",
-    "name": "YLE Radio Suomi - Tampere",
-    "country": "FI",
-    "subdivision": "Pirkanmaa",
-    "languages": [
-      "fi"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://yle.fi/aihe/s/yle-radio-suomi/yle-tampere",
-    "favicon": "https://images.cdn.yle.fi/image/upload/f_auto,fl_progressive/q_auto/w_2890,h_2890,c_crop,x_632,y_612/w_700/v1641897373/39-90051461dd5d3129248.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:01:02Z"
-  },
-  {
     "id": "awb_c6f7aeef7d47cf7d3a60",
     "name": "Yle radio Suomi Etelä-pohjanmaa",
     "country": "FI",
@@ -2236,15 +2135,12 @@
       "fi"
     ],
     "categories": [],
-    "tags": [
-      "helsinki",
-      "yle radio suomi"
-    ],
+    "tags": [],
     "homepage": "https://areena.yle.fi/podcastit/ohjelmat/yle-radio-suomi",
     "favicon": "https://images.cdn.yle.fi/image/upload/yle-radio-suomi-helsinki_vt.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:36:02Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T08:06:32Z"
   },
   {
     "id": "awb_c5d9592de480eb02f8e2",
@@ -2395,24 +2291,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_ebf7568a41f41f03c748",
-    "name": "Yle Radio1HIFI 256 Kb/s",
-    "country": "FI",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_b4bdd8027bd400f8205a",

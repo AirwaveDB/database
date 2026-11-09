@@ -119,24 +119,6 @@
     "updatedAt": "2026-09-21T01:46:39Z"
   },
   {
-    "id": "awb_0f839914d0067227239b",
-    "name": "Bethel Radio",
-    "country": "PE",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "cristiana"
-    ],
-    "homepage": "https://alfa.betheltv.tv/radiobethel/1/icecast.audio",
-    "favicon": "https://yt3.ggpht.com/NPuf8I3gbAaduCKVjgEaDB18p-CU5jIQhqNSLAXmpzJ9LyU_mIYQxFcxh9fu7ewUnlSJppSzjA",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T21:05:01Z"
-  },
-  {
     "id": "awb_532a8d214829553c11bb",
     "name": "Bethel Radio",
     "country": "PE",
@@ -198,13 +180,12 @@
       "rock"
     ],
     "tags": [
-      "pop rock",
       "pop-rock"
     ],
     "homepage": "https://carolinafm.pe/",
-    "favicon": "https://carolinafm.pe/wp-content/uploads/2021/08/logo_Carolina-FM.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -516,20 +497,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_c740d989146f7c6101bb",
-    "name": "Faceit FM",
-    "country": "PE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.faceit.com/en/players/Jac0b2",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_7562b97fa4dc10f92a69",
     "name": "Fama Sur (Tarata)",
     "country": "PE",
@@ -826,7 +793,7 @@
     "homepage": "http://laut.fm/jvmlaestacion",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -895,7 +862,7 @@
   },
   {
     "id": "awb_19bf9e5ee9a3504419d2",
-    "name": "Ke Brava",
+    "name": "Ke BRAVA",
     "country": "PE",
     "subdivision": "Lima",
     "languages": [
@@ -909,9 +876,9 @@
       "folklore"
     ],
     "homepage": "https://kebrava.blogspot.com/",
-    "favicon": "https://kebrava.blogspot.com/",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/7/76607.v4.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-19T11:21:26Z"
   },
   {
@@ -980,18 +947,15 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "latin",
-      "pop"
+      "latin"
     ],
     "tags": [
-      "cumbia peruana",
-      "pop latino",
       "salsa"
     ],
     "homepage": "https://lakalle.com.pe/",
-    "favicon": "https://cdn.instant.audio/images/logos/radios-com-pe/kalle.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1117,20 +1081,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_259b30993ca88454b6a2",
-    "name": "La zona Lima",
-    "country": "PE",
-    "subdivision": "Lima Peru",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.lazona.com.pe/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvaVZoFE7mEQlnEcSCscCk4PbJPXbTBG6jEfp8J7rdw&s",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-05T21:54:41Z"
   },
   {
     "id": "awb_6ec4b1ea419acf37c592",
@@ -1340,30 +1290,6 @@
     "updatedAt": "2026-01-15T03:01:40Z"
   },
   {
-    "id": "awb_c413024b76c6ed47ea3d",
-    "name": "Mundo Beatles Radio (MP3)",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "indie",
-      "pop",
-      "the beatles"
-    ],
-    "homepage": "https://www.mundobeatles.com/",
-    "favicon": "https://i.ibb.co/MVK2Q8w/280961211-105770918808116-8706301000710763225-n.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:53:08Z"
-  },
-  {
     "id": "awb_2945174222aafa202596",
     "name": "Música Urbana Nacional",
     "country": "PE",
@@ -1433,17 +1359,15 @@
       "pop"
     ],
     "tags": [
-      "latin pop",
       "latin pop reguetón",
       "latin-pop",
-      "música urbana",
       "reggaeton",
       "salsa"
     ],
     "homepage": "https://www.ondacero.com.pe/radio",
-    "favicon": "https://i1.sndcdn.com/avatars-000035616174-q7tb9i-t240x240.jpg",
+    "favicon": "https://www.ondacero.com.pe/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-28T00:00:53Z"
   },
   {
@@ -1526,7 +1450,7 @@
   },
   {
     "id": "awb_6e891918e803bf39c2e3",
-    "name": "Ovación 620 AM",
+    "name": "Ovación (620 AM)",
     "country": "PE",
     "subdivision": "Lima",
     "languages": [
@@ -1539,13 +1463,12 @@
     "tags": [
       "deportes",
       "soccer news",
-      "sports",
       "sports news"
     ],
     "homepage": "https://ovacion.pe/radio",
-    "favicon": "https://radiosperu.net/sites/default/files/radio/logos/logo-radio-ovacion.png",
+    "favicon": "https://ovacion.pe/sites/default/files/icono60x60.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T23:31:23Z"
   },
   {
@@ -1693,9 +1616,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://perufolkradio.com/",
-    "favicon": "https://perufolkradio.com/wp-content/uploads/2020/06/cropped-pfr512-180x180.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1854,96 +1777,12 @@
     "subdivision": "Lima",
     "languages": [],
     "categories": [],
-    "tags": [
-      "musica variada"
-    ],
+    "tags": [],
     "homepage": "https://www.radio1160.com.pe/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_fbf23c966b5c24d6a761",
-    "name": "Radio 1550",
-    "country": "PE",
-    "subdivision": "Junín",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio1550.com/",
-    "favicon": "https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-02T16:53:03Z"
-  },
-  {
-    "id": "awb_540ec8f586aa0edf86c9",
-    "name": "Radio 1550 FM",
-    "country": "PE",
-    "subdivision": "Junin",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "music new talk"
-    ],
-    "homepage": "https://radio1550.com/",
-    "favicon": "https://radio1550.com/uploads/logos/OoHiata9WQe3kOtMknIyFji88wmeIsmFWDBb4ZHq.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-11T20:52:00Z"
-  },
-  {
-    "id": "awb_b393ec8e65c57585604c",
-    "name": "Radio 1550 Huancayo",
-    "country": "PE",
-    "subdivision": "junin",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "music",
-      "news",
-      "talk"
-    ],
-    "homepage": "https://radio1550.com/",
-    "favicon": "https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-23T01:29:42Z"
-  },
-  {
-    "id": "awb_744039386d628e4a63cc",
-    "name": "Radio 1550 La Radio Joven",
-    "country": "PE",
-    "subdivision": "Junin",
-    "languages": [],
-    "categories": [
-      "latin",
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "cumbia",
-      "juvenil",
-      "noticias",
-      "pop",
-      "regional",
-      "salsa"
-    ],
-    "homepage": "https://radio1550.com/",
-    "favicon": "https://radio1550.com/uploads/logos/OoHiata9WQe3kOtMknIyFji88wmeIsmFWDBb4ZHq.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T06:20:35Z"
   },
   {
     "id": "awb_718a497f2a0a9b7deca8",
@@ -2312,7 +2151,7 @@
     "homepage": "https://radiocamana.com/",
     "favicon": "https://radiocamana.com/favicon.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2371,9 +2210,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiochocolateperu.com/",
-    "favicon": "https://radiochocolateperu.com/img/core-img/logofp.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
@@ -2552,9 +2391,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.facebook.com/radiocurahuasi/?locale=es_LA",
-    "favicon": "https://i.postimg.cc/zBQvRw7M/images.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2664,26 +2503,6 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
-    "id": "awb_ed05c2c80d96fd5e25d0",
-    "name": "Radio Disney Peru",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://pe.radiodisney.com/",
-    "favicon": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Radio_Disney_Latin_America.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-16T00:38:14Z"
-  },
-  {
     "id": "awb_9eb76bab275bec313899",
     "name": "Radio El Patron 95.7 FM - Cajamarca, San Miguel",
     "country": "PE",
@@ -2777,28 +2596,6 @@
     "updatedAt": "2026-10-18T18:25:16Z"
   },
   {
-    "id": "awb_9afe85f2547db5208be0",
-    "name": "Radio Estacion Techno",
-    "country": "PE",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "dance",
-      "electronica",
-      "techno"
-    ],
-    "homepage": "https://radioestaciontechno.com.pe/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:29:21Z"
-  },
-  {
     "id": "awb_2d81cca7c9650a81dfd4",
     "name": "Radio Estrella Trujillo (102.7 Trujillo)",
     "country": "PE",
@@ -2860,9 +2657,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.felicidad.com.pe/",
-    "favicon": "https://sportada.radio-grpp.io/felicidad/img/favicon_.ico?v=21072016786614",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3091,21 +2888,19 @@
     ],
     "categories": [
       "latin",
-      "news",
       "pop"
     ],
     "tags": [
-      "cumbia; pop; reggaeton; latin; news",
       "peruvian cumbia",
       "pop music",
       "pop-music",
       "raggaeton"
     ],
     "homepage": "https://www.radiohuancayo.com.pe/",
-    "favicon": "https://cdn-profiles.tunein.com/s345558/images/logog.png?t=3",
+    "favicon": null,
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-10-12T14:36:45Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_58274a4e2f34b57e7e94",
@@ -3148,7 +2943,7 @@
     "homepage": "http://hdhumanodespierto.com/",
     "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj28EPD8QiLJNpvpWJLBEvN6NsCX0rP0L3-UNCDAiovKqSylhGgTzFEwkzCWqaMjOMw0ubShgs0HrgoO0Hz3CjXuu6JrXMIRrNgMzcRIEgNh9u1MA9OztgqfSQkr3i42_P8VZkaXdBfdgYoYSAOi4wqISecfmBMm24yi_m_3o0ZU2-L36xZsI0rhuI7g-fh/s320/1000047805.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-01T10:18:19Z"
   },
   {
@@ -3351,7 +3146,7 @@
     "id": "awb_29e64eaa6aa95cda0bc2",
     "name": "Radio La Inolvidable",
     "country": "PE",
-    "subdivision": "Lima Peru",
+    "subdivision": "Lima",
     "languages": [
       "es"
     ],
@@ -3368,10 +3163,10 @@
       "oldies",
       "peru"
     ],
-    "homepage": "https://www.oigo.com/lainolvidable/radioenvivo/",
-    "favicon": "https://www.oigo.com/lainolvidable/radioenvivo/",
+    "homepage": "https://www.oigo.com/lainolvidable/",
+    "favicon": "https://www.oigo.com/wp-content/uploads/2024/07/la-inolvidable-logo.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-02T12:13:17Z"
   },
   {
@@ -3405,16 +3200,12 @@
     ],
     "tags": [
       "cumbia",
-      "folklore",
-      "merengue",
-      "peruvian cumbia",
-      "sanjuanitos",
-      "tropical music"
+      "merengue"
     ],
     "homepage": "https://audioplayer.pe/lamega",
-    "favicon": "https://eaudioplayer.radio-grpp.io/static/dist/img/favicons/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3432,7 +3223,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3490,9 +3281,7 @@
     "name": "Radio La tremenda",
     "country": "PE",
     "subdivision": "Lima",
-    "languages": [
-      "es"
-    ],
+    "languages": [],
     "categories": [
       "jazz",
       "latin"
@@ -3503,9 +3292,9 @@
       "smooth jazz"
     ],
     "homepage": "https://latremenda.pe/",
-    "favicon": "https://renewed-amaranth-wsrjzdvewp.edgeone.app/logo_latremenda.jpg",
+    "favicon": "https://imgur.com/a/vahyGFo",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3568,19 +3357,12 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "contemporary hits",
-      "juvenil",
-      "raggaeton",
-      "urban music"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.lazona.com.pe/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3732,25 +3514,21 @@
     "name": "RADIO MAXIMA DEL PERU",
     "country": "PE",
     "subdivision": "Arequipa",
-    "languages": [
-      "es"
-    ],
+    "languages": [],
     "categories": [
-      "pop",
-      "rock"
+      "pop"
     ],
     "tags": [
       "italodance",
       "pop music",
-      "pop rock",
       "pop-music",
       "radio comunitaria"
     ],
     "homepage": "https://radio-maxima-fm.webnode.es/",
-    "favicon": "https://www.reymod.com/radios/peru/radio-maxima-fm%E2%81%A0",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-10-17T21:10:08Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_56e309ff81f846cd62e5",
@@ -3851,28 +3629,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-30T02:29:56Z"
-  },
-  {
-    "id": "awb_9c6febb5c1168da1b8de",
-    "name": "Radio Megamix Lima",
-    "country": "PE",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin"
-    ],
-    "tags": [
-      "cumbia peruana",
-      "reggaeton",
-      "salsa"
-    ],
-    "homepage": "https://audioplayer.pe/megamix",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/235/la-mega-967-fm.a5807baf.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:16:26Z"
   },
   {
     "id": "awb_13c93aed9ad0174cb0b6",
@@ -4012,8 +3768,8 @@
     "homepage": "https://www.radionacional.gob.pe/",
     "favicon": "https://www.radionacional.gob.pe/sites/all/themes/stability/stability_sub/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T11:19:12Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-23T14:33:31Z"
   },
   {
     "id": "awb_c56fa9d075886b73b17b",
@@ -4191,8 +3947,8 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_791e158295f4565b73bb",
-    "name": "Radio peru andino",
+    "id": "awb_bc51fe9beeadefaa47f3",
+    "name": "Radio Perú Andino",
     "country": "PE",
     "subdivision": "Lima",
     "languages": [
@@ -4205,26 +3961,7 @@
     "homepage": "https://onlineradiobox.com/pe/peruandino/?cs=pe.peruandino",
     "favicon": "https://cdn.onlineradiobox.com/img/l/5/144975.v5.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-19T04:27:41Z"
-  },
-  {
-    "id": "awb_bc51fe9beeadefaa47f3",
-    "name": "Radio Perú Andino",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "latinoamericanos",
-      "musica andina"
-    ],
-    "homepage": "https://onlineradiobox.com/pe/peruandino/?cs=pe.peruandino",
-    "favicon": "https://i.postimg.cc/zfLJVqqw/logo.png",
-    "type": null,
-    "sourceCount": 4,
+    "sourceCount": 1,
     "updatedAt": "2026-10-19T04:32:14Z"
   },
   {
@@ -4233,16 +3970,12 @@
     "country": "PE",
     "subdivision": "Cajamarca",
     "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "alternative rock"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.facebook.com/profile.php?id=100049736869387&sk=reels_tab",
-    "favicon": "https://i.imgur.com/LYPXqYR.jpeg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4312,22 +4045,8 @@
     "updatedAt": "2026-10-07T00:31:21Z"
   },
   {
-    "id": "awb_8bdeaaad38c5ecbf3732",
-    "name": "Radio Quechua, Lo mejor de nuestro idioma",
-    "country": "PE",
-    "subdivision": "Ayacucho",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://sites.google.com/view/radioquechua/inicio?authuser=0&pli=1",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-24T06:48:41Z"
-  },
-  {
     "id": "awb_b32e9e11cd6c9bea3ffc",
-    "name": "Radio Recuerdos",
+    "name": "RADIO RECUERDOS",
     "country": "PE",
     "subdivision": "Lima",
     "languages": [
@@ -4337,10 +4056,10 @@
     "tags": [
       "musicas del recuerdo"
     ],
-    "homepage": "https://onlineradiobox.com/pe/?cs=pe.recuerdos&p=3&tzLoc=America%2FLim",
-    "favicon": "https://i.postimg.cc/rs9cTYcn/images-(1).png",
+    "homepage": "https://onlineradiobox.com/pe/?cs=pe.recuerdos&p=3&tzLoc=America/Lim",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/1/118381.v2.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-20T05:07:01Z"
   },
   {
@@ -4397,9 +4116,9 @@
       "baladas"
     ],
     "homepage": "https://www.radiosdelperu.com.pe/radio-ritmo-romantica",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/567/radio-ritmo-romantica.e8e292c5.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4548,20 +4267,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_fa7df00a25ded8420b8b",
-    "name": "Radio Santa Lucía 93.7 FM",
-    "country": "PE",
-    "subdivision": "Cajamarca / Jaen",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.sondondo.com/radio-santa-lucia-cajamarca.html",
-    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMEdcXWtLO4DGBdW_LIMHqVaL_yhgGRJszekO7BS5zPPfCt0Q_LfhZusdQzh5w3aQ9gNmXJN0_9ZK4_UZVbTD3T5UHiXkdK3Qk3paZXHm6FGmALGB8aL62sYQczqXcVlo1xKiw_gPy1RomglMegNR3gxGy2OAjChTx1X-tsOFLj12nw0Cs3dZ-oa1VTg/s320/radio-santa-lucia.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-05T21:44:02Z"
-  },
-  {
     "id": "awb_ba73ae2c6a8ef4c7603c",
     "name": "Radio Santa Rosa",
     "country": "PE",
@@ -4644,46 +4349,6 @@
     "tags": [],
     "homepage": "https://radiosinpatrones.com/",
     "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_fe451ec7623a32062d7a",
-    "name": "RADIO SINPATRONES (AREQUIPA)",
-    "country": "PE",
-    "subdivision": "Arequipa",
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "alternative",
-      "musica popular",
-      "noticias"
-    ],
-    "homepage": "https://radiosinpatrones.com/",
-    "favicon": "https://radiosinpatrones.com/wp-content/uploads/2024/11/cropped-logo-192x192.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_f97de98da4506c5e1fab",
-    "name": "Radio SinPatrones (Valle de Tambo)",
-    "country": "PE",
-    "subdivision": "Arequipa (Valle de Tambo)",
-    "languages": [],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "alternative",
-      "folclor",
-      "meditation"
-    ],
-    "homepage": "https://radiosinpatrones.com/",
-    "favicon": "https://radiosinpatrones.com/wp-content/uploads/2024/11/cropped-logo-192x192.png",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
@@ -4917,7 +4582,7 @@
     "homepage": "https://emisoras.com.pe/65935-radio-tv-surena.html",
     "favicon": "https://cdn.radoxo.com/images/peru/radio-tv-surena.webp?v=1785967202",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-05T22:15:08Z"
   },
   {
@@ -5024,18 +4689,12 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "community",
-      "news"
-    ],
-    "tags": [
-      "community radio",
-      "local news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.radioyaravi.org.pe/",
     "favicon": null,
-    "type": "community",
-    "sourceCount": 2,
+    "type": null,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5087,8 +4746,8 @@
     "homepage": "https://radiomar.pe/",
     "favicon": "https://18b804eaa6bc9759e2278f8d5367f42f.r2.cloudflarestorage.com/drimestorage/uploads/b28c1616-974d-49da-b666-1ff4a236cfe8/b28c1616-974d-49da-b666-1ff4a236cfe8?response-content-type=application%2Foctet-stream&response-content-disposition=attachment%3B%20filename%3Dapple-touch-icon.png&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6a6ba1504e777c9aad0cd55f765be59c%2F20260623%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260623T153040Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=0962ff36b9aef1c688e09c4b21545db7c98e9e4a02ce118b746e4be51899170e",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-09-29T13:11:27Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-09-29T06:39:17Z"
   },
   {
     "id": "awb_72bc7cdeb1b777d63745",
@@ -5181,17 +4840,12 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "online christian radio",
-      "religious"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://rri.pe/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5238,48 +4892,14 @@
     "name": "Rock and Pop Classics",
     "country": "PE",
     "subdivision": "Lima",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "2000s",
-      "2010s",
-      "2020s",
-      "80s",
-      "90s",
-      "adult contemporary",
-      "pop",
-      "rock"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://rockandpopclassics.wixsite.com/rockandpopclassics",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T01:24:48Z"
-  },
-  {
-    "id": "awb_a86b57e412ca26785074",
-    "name": "Rock&Pop",
-    "country": "PE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_a28989d22d1b041bafe3",
@@ -5353,30 +4973,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-23T00:05:19Z"
-  },
-  {
-    "id": "awb_15e88e860c9282ec59c8",
-    "name": "RPP+",
-    "country": "PE",
-    "subdivision": "Lima Peru",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "deportes",
-      "news",
-      "noticias",
-      "sports"
-    ],
-    "homepage": "https://rpp.pe/audio",
-    "favicon": "https://rpp.pe/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-15T19:09:28Z"
   },
   {
     "id": "awb_fc4b506a2887daf1bc45",
@@ -5460,15 +5056,14 @@
       "en",
       "es",
       "fr",
-      "it",
-      "ru"
+      "it"
     ],
     "categories": [],
     "tags": [],
     "homepage": "https://www.frecuenciaprimera.org/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5547,25 +5142,19 @@
       "es"
     ],
     "categories": [
-      "anime",
-      "electronic",
       "hip-hop",
       "pop"
     ],
     "tags": [
-      "electronic music",
-      "hip hop",
       "hip-hop",
-      "k-pop",
       "música electrónica",
-      "pop music",
       "pop-music",
       "r&b"
     ],
     "homepage": "https://www.studio92.com/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logostudio92.png/225px-Logostudio92.png",
+    "favicon": "https://static.mytuner.mobi/media/radios-150px/gScBgqwDEp.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5621,24 +5210,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_1ba186db99e4eadc6035",
-    "name": "Techno Radio",
-    "country": "PE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_e1887167f62d14844ce5",
     "name": "Top Latino",
     "country": "PE",
@@ -5677,7 +5248,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5742,17 +5313,13 @@
       "pop"
     ],
     "tags": [
-      "español",
-      "latin pop",
       "latin-pop",
-      "musica romantica",
-      "pop",
-      "spanish"
+      "pop"
     ],
     "homepage": "https://vivafm.com.pe/",
-    "favicon": "https://play-lh.googleusercontent.com/Jqd4TU6MWM7c1NDHjqjJzlW7nr3zeXUtSnNRE4Fkfzz2Bbq1QuXcwvJefxuBqKfc61zU",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5813,28 +5380,13 @@
       "classic-rock",
       "pop",
       "pop en español e inglés",
-      "rock",
-      "rock en español"
+      "rock"
     ],
     "homepage": "https://zrockandpop.com.pe/",
     "favicon": "https://statics.zrockandpop.com.pe/rk/img/global/logo.radioz.svg",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_82087a568faae267f2ba",
-    "name": "Z rock and pop",
-    "country": "PE",
-    "subdivision": "Lima",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://zrockandpop.com.pe/",
-    "favicon": "https://i.imgur.com/meLdko5.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-15T06:35:12Z"
   },
   {
     "id": "awb_1d1ab77a460b322b2a57",

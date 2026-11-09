@@ -1,80 +1,5 @@
 [
   {
-    "id": "awb_09f73c2a914cd288c34d",
-    "name": "' t Is Vloms - Affligem, be (New Stream)",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [
-      "nederlandstalig"
-    ],
-    "homepage": "https://tisvloms.eu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T03:00:49Z"
-  },
-  {
-    "id": "awb_eacba3277c200754d018",
-    "name": "' t Is Vloms Affligem (New stream)",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [
-      "vlaamse luisterliedjes"
-    ],
-    "homepage": "https://tisvloms.eu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T10:13:32Z"
-  },
-  {
-    "id": "awb_9c3e0a5d2ef97738ad60",
-    "name": "'t Is Vloms - Affligem,. be (n.s.)",
-    "country": "BE",
-    "subdivision": "Vlaanderen",
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [
-      "vlaamse muziek"
-    ],
-    "homepage": "https://tisvloms.eu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-17T10:48:20Z"
-  },
-  {
-    "id": "awb_d04e8d35a00c620cbfb5",
-    "name": "'tis Vloms - Affligem, be (ns)",
-    "country": "BE",
-    "subdivision": "Vlaanderen",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "local radio",
-      "pop"
-    ],
-    "homepage": "https://cast1.torontocast.com:4605/stream",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-15T13:15:02Z"
-  },
-  {
     "id": "awb_9b3eff41f529033ac6b5",
     "name": "\"name\": \"'undefined' -> 'AFN 360 Benelux'\",",
     "country": "BE",
@@ -129,32 +54,6 @@
     "updatedAt": "2026-01-15T06:29:04Z"
   },
   {
-    "id": "awb_322639626637d230ab82",
-    "name": "100,5 Das Hitradio",
-    "country": "BE",
-    "subdivision": "Eupen/Eifel",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "news",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "hits",
-      "lederland",
-      "news",
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://www.dashitradio.de/",
-    "favicon": "http://www.dashitradio.de/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:51:20Z"
-  },
-  {
     "id": "awb_f5ca8fb734f16592e658",
     "name": "100% Retro",
     "country": "BE",
@@ -163,9 +62,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.starradio.online/",
-    "favicon": "https://www.starradio.online/favicon-194x194.png?v=0.3.0",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -223,33 +122,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.radioaccent.be/",
-    "favicon": "https://www.radioaccent.be/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_057188b1c072cb7771ce",
-    "name": "AFN 360 Benelux",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock",
-      "top40"
-    ],
-    "homepage": "https://www.afneurope.net/Stations/Benelux/msclkid/7338843bcfad11ecae7c71e22599f1cc/",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:34:09Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_e90aeac072deb5def3ec",
@@ -426,9 +302,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://belgian-dance-radio.com/",
-    "favicon": "https://belgian-dance-radio.com/wp-content/uploads/2022/06/240812985_917631145500501_905793297627216541_n.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -482,24 +358,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_436e0d909c44e376e369",
-    "name": "Boo",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "http://www.radioboo.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:43:25Z"
-  },
-  {
     "id": "awb_b3895f849fa8c76ff227",
     "name": "Boo 105.1 FM - Bilzen, be",
     "country": "BE",
@@ -510,7 +368,7 @@
     "homepage": "http://www.radioboo.be/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-02-11T14:14:19Z"
   },
   {
@@ -568,9 +426,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://1.brf.be/",
-    "favicon": "https://1.brf.be/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -604,20 +462,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:52:50Z"
-  },
-  {
-    "id": "awb_4de1af1633c701512639",
-    "name": "BRF2 Radio",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://brf.be/",
-    "favicon": "https://brf.be/wp-content/themes/pixelpress/dist/assets/images/1/icons/apple-icon-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_c1538b94418af2ec4d08",
@@ -692,7 +536,7 @@
     "homepage": "http://198.100.145.187:18304/;",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -937,12 +781,9 @@
     ],
     "categories": [
       "blues",
-      "jazz",
-      "rock"
+      "jazz"
     ],
     "tags": [
-      "blues",
-      "blues rock",
       "classic blues",
       "classic jazz",
       "old jazz"
@@ -950,7 +791,7 @@
     "homepage": "http://www.rtbfradioplayer.be/",
     "favicon": "http://www.rtbfradioplayer.be/favicon.ico",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1025,9 +866,9 @@
       "90s"
     ],
     "homepage": "http://contactmax.be/",
-    "favicon": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://contactmax.be&size=256",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1138,20 +979,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-05T13:20:42Z"
-  },
-  {
-    "id": "awb_18fa5acf1a427fd16232",
-    "name": "Depeche Mode Radio",
-    "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://c2.radioboss.fm:8494/stream",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-21T15:46:19Z"
   },
   {
     "id": "awb_c6944fce188d190965dc",
@@ -1318,24 +1145,6 @@
     "updatedAt": "2026-01-15T07:49:33Z"
   },
   {
-    "id": "awb_aa9a14072387fb24670a",
-    "name": "Family Radio",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [
-      "family"
-    ],
-    "homepage": "http://www.familyradio.be/",
-    "favicon": "https://i0.wp.com/www.family-radio.be/wp-content/uploads/2019/10/cropped-familyradio.jpg?fit=180%2c180",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-13T00:42:24Z"
-  },
-  {
     "id": "awb_ee98317f053569c988c8",
     "name": "Family Radio (België/Belgique/Belgien)",
     "country": "BE",
@@ -1350,26 +1159,8 @@
     "homepage": "http://www.familyradio.be/",
     "favicon": "https://i0.wp.com/www.family-radio.be/wp-content/uploads/2019/10/cropped-familyradio.jpg?fit=180%2c180",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-13T00:41:43Z"
-  },
-  {
-    "id": "awb_c05ffb4bd006396c3af0",
-    "name": "FamilyRadio - Bij ons ben je thuis",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [
-      "family"
-    ],
-    "homepage": "http://www.familyradio.be/",
-    "favicon": "https://i0.wp.com/www.family-radio.be/wp-content/uploads/2019/10/cropped-familyradio.jpg?fit=180%2c180",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-06-13T00:43:05Z"
+    "updatedAt": "2026-06-13T00:41:43Z"
   },
   {
     "id": "awb_7d4b34b2113f2145c602",
@@ -1572,7 +1363,7 @@
     "homepage": "https://www.goeiedagradio.be/",
     "favicon": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.goeiedagradio.be%2F",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1897,9 +1688,9 @@
       "oldies"
     ],
     "homepage": "https://joe.be/",
-    "favicon": "https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1958,7 +1749,7 @@
     "homepage": "https://joe.be/",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/x7fzbddfxjqy.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2000,7 +1791,7 @@
     "homepage": "https://joe.be/",
     "favicon": "https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-06-13T01:02:53Z"
   },
   {
@@ -2021,7 +1812,7 @@
   },
   {
     "id": "awb_2975664e262473fb4b1b",
-    "name": "Joe Gold",
+    "name": "JOE Gold",
     "country": "BE",
     "subdivision": "Vlaanderen",
     "languages": [],
@@ -2031,10 +1822,10 @@
     "tags": [
       "oldies"
     ],
-    "homepage": "https://www.joe.be/",
+    "homepage": "https://joe.be/",
     "favicon": "https://cdn-radio.dpgmedia.net/7/32/78/a4/113/JOE_GOLD-7-WEBSITE-220x220.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-10-07T08:04:02Z"
   },
   {
@@ -2085,22 +1876,15 @@
     "country": "BE",
     "subdivision": "West-Vlaanderen",
     "languages": [
-      "en",
       "nl"
     ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "adult contemporary",
-      "alternative",
-      "pop"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://sites.google.com/view/jovaniradio/homepage",
     "favicon": "https://drive.google.com/file/d/1AuB5BMO95ooL-elXBAfxitAnhanppDhl/view?usp=sharing",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-27T18:20:35Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-27T15:51:32Z"
   },
   {
     "id": "awb_ab530bcc58ecf6779320",
@@ -2154,7 +1938,7 @@
     "homepage": "https://www.ketnet.be/wrap/luister-naar-ketnet-hits",
     "favicon": "https://cdn.uc.assets.prezly.com/9989f680-5bbb-42f4-b51a-aceef9a9d93f/-/preview/1500x1500/-/resize/1200/Karrewiet-logo-pos-rgb.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-06-13T01:04:49Z"
   },
   {
@@ -2193,20 +1977,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-06T21:49:25Z"
-  },
-  {
-    "id": "awb_7c8746132dce40cfe955",
-    "name": "Kix",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiokix.be/",
-    "favicon": "https://cdn.radiokix.be/favicon-32x32.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_947922d6b726b9bf5582",
@@ -2557,26 +2327,6 @@
     "updatedAt": "2026-01-15T01:11:29Z"
   },
   {
-    "id": "awb_81a9952f6ad4d422df53",
-    "name": "MelindaFM",
-    "country": "BE",
-    "subdivision": "West Flanders",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic",
-      "hits",
-      "pop"
-    ],
-    "homepage": "https://melindafm.be/",
-    "favicon": "https://melindafm.be/wp-content/uploads/2022/03/cropped-android-chrome-512x512-2-192x192.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_d38e5446b2e6078d1d58",
     "name": "Mélodie FM",
     "country": "BE",
@@ -2615,29 +2365,12 @@
       "fr"
     ],
     "categories": [],
-    "tags": [
-      "belgiqie",
-      "mint"
-    ],
+    "tags": [],
     "homepage": "https://mint.be/player/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_e8bf6fac761f5407d772",
-    "name": "Mint",
-    "country": "BE",
-    "subdivision": "wallonie",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://player.mint.be/",
-    "favicon": "https://assets.radioplayer.org/056/0567/600/600/kz4elh2i.png",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_fbcdae542aea68d20e95",
@@ -2783,24 +2516,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.rtbf.be/radio/liveradio/musiq3-baroque",
-    "favicon": "https://www.rtbf.be/favicon.ico",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_695714c57a8323333533",
-    "name": "Musiq3 Jazz",
-    "country": "BE",
-    "subdivision": "Wallonia",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rtbf.be/radio/liveradio/webradio-musiq3-jazz",
-    "favicon": "https://www.rtbf.be/favicon.ico",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_f2905678701be104a930",
@@ -2838,28 +2557,6 @@
     "updatedAt": "2026-01-15T06:17:50Z"
   },
   {
-    "id": "awb_8642cb09d24f866fd271",
-    "name": "MyNoise Ocean Waves",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "ambient",
-      "ambient and relaxation music",
-      "nature"
-    ],
-    "homepage": "https://mynoise.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:13:03Z"
-  },
-  {
     "id": "awb_56978860c5dc45b18628",
     "name": "MyNoise Pure Nature",
     "country": "BE",
@@ -2880,28 +2577,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_e3876298f7f10d638f08",
-    "name": "MyNoise Rainy Day",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "ambient",
-      "ambient and relaxation music",
-      "nature"
-    ],
-    "homepage": "https://mynoise.net/",
-    "favicon": "https://mynoise.net/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:49:53Z"
   },
   {
     "id": "awb_8cff0a8b8cc7482a24c1",
@@ -2946,28 +2621,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:22:41Z"
-  },
-  {
-    "id": "awb_e404b384cc4d328d9208",
-    "name": "MyNoise Zen Garden",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "ambient",
-      "ambient and relaxation music",
-      "nature"
-    ],
-    "homepage": "https://mynoise.net/",
-    "favicon": "https://mynoise.net/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:47:33Z"
   },
   {
     "id": "awb_61c4c426085660de5b32",
@@ -3202,20 +2855,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_8682a8efb43bb1c19975",
-    "name": "Nostalgie_Love",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.nostalgie.be/radioplayer/love",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-14T09:54:26Z"
-  },
-  {
     "id": "awb_5e6d387023aea413f39e",
     "name": "NRJ België",
     "country": "BE",
@@ -3356,7 +2995,7 @@
     "homepage": "https://www.tomorrowland.com/",
     "favicon": "https://www.tomorrowland.com/favicon.ico",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-06-13T00:15:00Z"
   },
   {
@@ -3462,22 +3101,14 @@
       "pop"
     ],
     "tags": [
-      "female vocalists",
-      "female voices",
-      "femalevocals",
-      "pink",
-      "pinkradio",
       "pop",
-      "pop music",
       "top 40",
-      "top40",
-      "woman",
       "women"
     ],
     "homepage": "http://www.pinkradio.be/",
     "favicon": "http://www.pinkradio.be/favicon.ico",
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3513,9 +3144,9 @@
       "music"
     ],
     "homepage": "https://www.rtbf.be/pure/",
-    "favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -3577,9 +3208,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://qmusic.be/kanalen/q-foute-radio",
-    "favicon": "https://qmusic.be/favicon.ico",
+    "favicon": "https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3597,26 +3228,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-13T00:13:55Z"
-  },
-  {
-    "id": "awb_eebc5fa7890b070db600",
-    "name": "Q-music België",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "top hits"
-    ],
-    "homepage": "https://qmusic.be/",
-    "favicon": "https://images.ctfassets.net/765y2hpj99ul/2uCTS3b1HUbwUKoFO7t2Jp/5d180f2fd667e917156df6194db05511/Qmusic-logo.png?w=640&q=70&fm=webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-24T19:07:33Z"
   },
   {
     "id": "awb_349285ac43c1a8d7111e",
@@ -3649,7 +3260,7 @@
     "homepage": "https://qmusic.be/",
     "favicon": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-06-13T00:13:11Z"
   },
   {
@@ -3663,9 +3274,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://qmusic.be/",
-    "favicon": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3773,22 +3384,6 @@
     "updatedAt": "2026-08-24T13:55:05Z"
   },
   {
-    "id": "awb_e15c853db90b91fb3afb",
-    "name": "Radio +",
-    "country": "BE",
-    "subdivision": "Wallonia",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "old time radio"
-    ],
-    "homepage": "https://radio-plus.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-08T08:55:32Z"
-  },
-  {
     "id": "awb_53a67db446080d2862fb",
     "name": "Radio 1",
     "country": "BE",
@@ -3847,27 +3442,6 @@
     "updatedAt": "2026-09-19T15:44:10Z"
   },
   {
-    "id": "awb_58ce33a65f4e9ae9d08b",
-    "name": "Radio 2 Antwerpen",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "vrt"
-    ],
-    "homepage": "http://www.radio2.be/",
-    "favicon": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:30:45Z"
-  },
-  {
     "id": "awb_78ed9649456c04e77d25",
     "name": "Radio 2 Bene Bene",
     "country": "BE",
@@ -3887,64 +3461,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:47:12Z"
-  },
-  {
-    "id": "awb_b342ff10981d7a15f2b4",
-    "name": "Radio 2 Limburg",
-    "country": "BE",
-    "subdivision": "Limburg",
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio2.be/",
-    "favicon": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:26:33Z"
-  },
-  {
-    "id": "awb_eee817afa108f14c9c43",
-    "name": "Radio 2 Oost-Vlaanderen",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "vrt"
-    ],
-    "homepage": "http://www.radio2.be/",
-    "favicon": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:06:32Z"
-  },
-  {
-    "id": "awb_67197a65196c36eaf841",
-    "name": "Radio 2 Vlaams-Brabant",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "vrt"
-    ],
-    "homepage": "http://www.radio2.be/",
-    "favicon": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:56:27Z"
   },
   {
     "id": "awb_f9830fc0c0bce993fcc4",
@@ -3967,7 +3483,7 @@
     "homepage": "https://radio4910.be/",
     "favicon": "https://usercontent.one/wp/radio4910.be/wp-content/uploads/2024/01/Radio-4910-logo-new-big.png?media=1705857804",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4029,13 +3545,11 @@
     "subdivision": "Brussels",
     "languages": [],
     "categories": [],
-    "tags": [
-      "alternative"
-    ],
+    "tags": [],
     "homepage": "https://radioairlibre.net/",
     "favicon": "https://radioairlibre.net/static/css/logo-airlibre.png",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4059,33 +3573,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:28:26Z"
-  },
-  {
-    "id": "awb_fd61f422e1e9a6407167",
-    "name": "Radio Alma",
-    "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [
-      "el",
-      "es",
-      "fr",
-      "it",
-      "pt"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "international",
-      "social",
-      "social activist programming"
-    ],
-    "homepage": "http://www.radioalma.be/",
-    "favicon": "http://www.radioalma.be/static/images/ico/favicon.png",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:25:41Z"
   },
   {
     "id": "awb_f29f9847098e4a2df848",
@@ -4133,26 +3620,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_01fd0093969a956dd13c",
-    "name": "Radio Appolo, Wiekevorst, be",
-    "country": "BE",
-    "subdivision": "Antwerpen",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "oldies"
-    ],
-    "homepage": "http://www.radioapollo.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:42:27Z"
   },
   {
     "id": "awb_32ea161cf5431b70161d",
@@ -4266,26 +3733,6 @@
     "updatedAt": "2026-01-15T07:54:20Z"
   },
   {
-    "id": "awb_0fc8f0cc9ed92d8779b5",
-    "name": "Radio Campus Bruxelles 92.1",
-    "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "jazz"
-    ],
-    "homepage": "https://www.radiocampus.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:15:14Z"
-  },
-  {
     "id": "awb_42709fbc4eadf6600362",
     "name": "Radio Campus BXL 92.1 [AAC+]",
     "country": "BE",
@@ -4301,7 +3748,6 @@
     "tags": [
       "alternative",
       "bruxelles",
-      "classic rock; alternative rock indie",
       "eclectic",
       "electro",
       "experimental",
@@ -4315,9 +3761,9 @@
       "rock"
     ],
     "homepage": "https://www.radiocampus.be/",
-    "favicon": "https://www.radiocampus.be/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4463,7 +3909,7 @@
     "homepage": "http://www.radiocontact.be/",
     "favicon": "https://www.radiocontact.be/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T01:50:53Z"
   },
   {
@@ -4558,24 +4004,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_df0e6caa8b7240a8e5cb",
-    "name": "Radio Expres (Antwerpen)",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_36a5ef2c7cede54611df",
@@ -5312,22 +4740,6 @@
     "updatedAt": "2026-01-14T23:22:35Z"
   },
   {
-    "id": "awb_07141d9a5f6cc48a5888",
-    "name": "Radio Pallieter Lier, Be",
-    "country": "BE",
-    "subdivision": "Antwerpen",
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://radiopallieter.eu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:00:09Z"
-  },
-  {
     "id": "awb_c3301b6ab08e9bbfd2e2",
     "name": "Radio Paloma Poppel,be",
     "country": "BE",
@@ -5356,8 +4768,8 @@
     "homepage": "https://www.radiopanik.org/",
     "favicon": "https://www.radiopanik.org/static/img/logo-panik-500-invert.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-11-06T06:21:15Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-06T00:51:15Z"
   },
   {
     "id": "awb_ada972074e78a490a026",
@@ -5422,28 +4834,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_817a3dc746d8c22d153c",
-    "name": "Radio Plus - Gent, be",
-    "country": "BE",
-    "subdivision": "Oost-Vlaanderen",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "disco",
-      "func",
-      "oldies"
-    ],
-    "homepage": "http://www.radioplusgent.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:57:54Z"
   },
   {
     "id": "awb_7acef16305244469ad33",
@@ -5594,24 +4984,14 @@
     "name": "Radio Ruby - Gent, be",
     "country": "BE",
     "subdivision": "Oost-Vlaanderen",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "public"
-    ],
-    "tags": [
-      "oldies",
-      "pop",
-      "public radio"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "http://www.radioruby.be/",
     "favicon": null,
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-09-27T09:04:08Z"
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-08-21T20:46:03Z"
   },
   {
     "id": "awb_ba8276c08be4eebffdb5",
@@ -5650,20 +5030,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-09-27T09:09:41Z"
-  },
-  {
-    "id": "awb_c960451a3238ed95cb18",
-    "name": "Radio Seven 105.84FM, Costa Brava",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radioseven.eu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-23T22:39:24Z"
   },
   {
     "id": "awb_dc0a935bf6af049ea342",
@@ -5741,10 +5107,10 @@
       "rock"
     ],
     "homepage": "http://radiostars.be/",
-    "favicon": "http://radiostars.be/templates/radio_stars_1/images/Logo-radiostars.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-05-01T10:46:16Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T07:12:24Z"
   },
   {
     "id": "awb_8d1d40ad0ac0434cda32",
@@ -5771,8 +5137,8 @@
     "homepage": "https://www.radiosud.be/",
     "favicon": "https://www.radiosud.be/favicon/android-icon-192x192.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-02-28T13:26:52Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-02-28T13:23:07Z"
   },
   {
     "id": "awb_0b5cd19dd3dacf126dbd",
@@ -5982,19 +5348,13 @@
     "country": "BE",
     "subdivision": "Brussels-Capital Region",
     "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "deep house",
-      "edm",
-      "progressive house"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://yujenbriag.be/",
     "favicon": "https://www.google.com/interests/saved?hl=bg-BE",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-04-24T18:02:38Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-04-24T17:55:40Z"
   },
   {
     "id": "awb_9867c6fb70eb2215c7ec",
@@ -6210,25 +5570,6 @@
     "updatedAt": "2026-01-15T07:15:38Z"
   },
   {
-    "id": "awb_fcecbe4b7e55ec7fd2bd",
-    "name": "Retro C-dance",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electro",
-      "house"
-    ],
-    "homepage": "https://retro.c-dance.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-28T06:38:07Z"
-  },
-  {
     "id": "awb_83c4d279e0b353b2d3f3",
     "name": "RGR classic",
     "country": "BE",
@@ -6301,50 +5642,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-17T20:52:18Z"
-  },
-  {
-    "id": "awb_2316563c7b0313d1fd25",
-    "name": "Rowyna Music (n.strm)",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "https://rowynamusic.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-15T21:04:02Z"
-  },
-  {
-    "id": "awb_4efbd7a6b22fc211c2b1",
-    "name": "Rowyna Music (New stream)",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "pop music",
-      "pop rock",
-      "rock"
-    ],
-    "homepage": "https://rowynamusic.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-10-12T19:02:16Z"
   },
   {
     "id": "awb_abd63ab6fccac1f6c01d",
@@ -6423,9 +5720,9 @@
       "rtbf"
     ],
     "homepage": "https://www.rtbf.be/classic21/",
-    "favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+    "favicon": "https://www.rtbf.be/favicon.ico",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 4,
     "updatedAt": "2026-08-23"
   },
   {
@@ -6461,13 +5758,12 @@
       "oldies"
     ],
     "tags": [
-      "70s",
-      "rtbf"
+      "70s"
     ],
     "homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-70",
-    "favicon": "http://www.rtbf.be/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6484,13 +5780,12 @@
     ],
     "tags": [
       "80s",
-      "rock",
-      "rtbf"
+      "rock"
     ],
     "homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-80",
-    "favicon": "http://www.rtbf.be/favicon.ico",
+    "favicon": "https://www.radio.fr/300/classic2180s.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6507,13 +5802,12 @@
     ],
     "tags": [
       "90s",
-      "rock",
-      "rtbf"
+      "rock"
     ],
     "homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-90",
-    "favicon": "http://www.rtbf.be/favicon.ico",
+    "favicon": "https://www.allzicradio.com/media/radios/classic21-90-allzicradio.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6524,28 +5818,15 @@
     "languages": [
       "fr"
     ],
-    "categories": [
-      "blues",
-      "metal",
-      "pop",
-      "rock"
-    ],
+    "categories": [],
     "tags": [
-      "blues",
-      "blues rock",
-      "concert",
-      "hard rock",
-      "live",
-      "live concert",
-      "metal",
-      "pop rock",
-      "rock"
+      "live"
     ],
     "homepage": "https://www.rtbf.be/radio/liveradio/webradio-classic21-live",
-    "favicon": "https://www.rtbf.be/favicon.ico",
+    "favicon": "https://assets.maradio.be/stationimages/1107_programme_image.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:00:48Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:49:40Z"
   },
   {
     "id": "awb_a0e4c8a6bc2807460c58",
@@ -6561,13 +5842,12 @@
     ],
     "tags": [
       "metal",
-      "rock",
-      "rtbf"
+      "rock"
     ],
     "homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-metal",
-    "favicon": "http://www.rtbf.be/favicon.ico",
+    "favicon": "https://www.radio.fr/300/classic2190s.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6645,9 +5925,9 @@
       "underground"
     ],
     "homepage": "https://www.rtbf.be/radio/liveradio/webradio-classic21-underground",
-    "favicon": "https://www.rtbf.be/favicon.ico",
+    "favicon": "https://www.radio.fr/300/classic21underground.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6684,7 +5964,7 @@
     "id": "awb_9f1ac9906e5497bbb858",
     "name": "RTBF La Première",
     "country": "BE",
-    "subdivision": "Wallonia",
+    "subdivision": null,
     "languages": [
       "fr"
     ],
@@ -6692,7 +5972,6 @@
       "news"
     ],
     "tags": [
-      "généraliste",
       "news",
       "rtbf",
       "variety"
@@ -6700,7 +5979,7 @@
     "homepage": "https://www.rtbf.be/lapremiere/",
     "favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
   },
   {
@@ -6729,13 +6008,12 @@
       "classical"
     ],
     "tags": [
-      "classical",
-      "rtbf"
+      "classical"
     ],
     "homepage": "https://www.rtbf.be/musiq3/",
-    "favicon": "https://www.static.rtbf.be/radio/musiq3/ico/favicon-musiq3-32x32.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6796,9 +6074,9 @@
       "oldies"
     ],
     "homepage": "https://www.rtbf.be/vivaplus",
-    "favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+    "favicon": "https://www.radio.fr/300/rtbfvivaplus.jpeg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6870,7 +6148,7 @@
     "homepage": "https://www.rtbf.be/vivacite/",
     "favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6908,26 +6186,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_d42f79e7953e4802ff20",
-    "name": "RTBF-Musiq3 Jazz",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "jazz"
-    ],
-    "homepage": "https://www.rtbf.be/radio/liveradio/musiq3-jazz",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-01T18:31:28Z"
   },
   {
     "id": "awb_efa9bd774539d013d740",
@@ -7096,39 +6354,6 @@
     "updatedAt": "2026-08-25T21:24:40Z"
   },
   {
-    "id": "awb_15fa44bb702dedb1e07b",
-    "name": "stu bru UNTZ",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "tech house",
-      "techno"
-    ],
-    "homepage": "https://stubru.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-05T14:55:02Z"
-  },
-  {
-    "id": "awb_de97d24e95ee5799544d",
-    "name": "StuBru",
-    "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.vrt.be/vrtmax/kanalen/studio-brussel/?utm_medium=redirect&utm_source=stubru-be&utm_campaign=web-migratie",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/3/39/Studio_Brussel_logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_46cfa8b6583823625f41",
     "name": "Studio Brussel",
     "country": "BE",
@@ -7151,26 +6376,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-11-06T07:10:59Z"
-  },
-  {
-    "id": "awb_a859bf09dec44fe08f88",
-    "name": "Studio Brussel - De Tijdloze",
-    "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "public radio"
-    ],
-    "homepage": "https://www.vrt.be/vrtmax/livestream/audio/tijdloze/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:20:21Z"
   },
   {
     "id": "awb_6be14114cc53255c27e4",
@@ -7197,31 +6402,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-06T14:34:54Z"
-  },
-  {
-    "id": "awb_a2f67dcdaa68fae6d5dd",
-    "name": "Studio Brussel - Vuurland",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "easy listening",
-      "indie",
-      "melancholic",
-      "pop",
-      "relaxing",
-      "rock",
-      "vrt"
-    ],
-    "homepage": "https://www.vrt.be/vrtmax/livestream/audio/vuurland/",
-    "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-27T08:39:31Z"
   },
   {
     "id": "awb_666ca7fec1e291a157c0",
@@ -7335,24 +6515,6 @@
     "updatedAt": "2026-08-28T18:26:38Z"
   },
   {
-    "id": "awb_81ece71019658a06b36e",
-    "name": "test arabic",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "http://serverkw.quran-uni.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T14:13:07Z"
-  },
-  {
     "id": "awb_8358c2a42865a9856564",
     "name": "The Funky Channel",
     "country": "BE",
@@ -7386,28 +6548,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_34413a134b54650728d2",
-    "name": "Tipik",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "alternative pop",
-      "chansons françaises",
-      "pop"
-    ],
-    "homepage": "https://www.rtbf.be/radio/liveradio/tipik",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Tipik.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:36:23Z"
-  },
-  {
     "id": "awb_11a7dc6269c886870986",
     "name": "Tipik à l'ancienne (RTBF)",
     "country": "BE",
@@ -7428,27 +6568,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_67789b2656c50dff8de0",
-    "name": "Tis Vloms Affligem, be (NEW stream!)",
-    "country": "BE",
-    "subdivision": "Oost-Vlaanderen",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk",
-      "nederlansdtalige muziek"
-    ],
-    "homepage": "https://tisvloms.eu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-30T15:58:02Z"
-  },
-  {
     "id": "awb_6e24d6bf62232dd86eb3",
     "name": "Tommorowland One World Radio - Daybreak Sessions",
     "country": "BE",
@@ -7459,9 +6578,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.tomorrowland.com/home/radio",
-    "favicon": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7500,9 +6619,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.tomorrowland.com/home/radio",
-    "favicon": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7595,9 +6714,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.topradio.be/",
-    "favicon": "https://www.topradio.be/favicons/favicon-96x96.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7631,20 +6750,6 @@
     "updatedAt": "2026-05-12T16:08:44Z"
   },
   {
-    "id": "awb_fe158d59cb9b3815576a",
-    "name": "TOPradio Belgium",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.topradio.be/",
-    "favicon": "https://www.topradio.be/favicons/favicon-96x96.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_7bfb67361a07a6fc75d0",
     "name": "TopRadio FM",
     "country": "BE",
@@ -7673,8 +6778,8 @@
     "homepage": "https://www.topradio.be/",
     "favicon": "https://www.topradio.be/favicons/favicon-96x96.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-11T09:30:52Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-06-11T09:30:32Z"
   },
   {
     "id": "awb_0c533011c3d80bfffbdc",
@@ -7682,18 +6787,12 @@
     "country": "BE",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "hard techno",
-      "hardcore",
-      "hardstyle"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.topradio.be/player/topbam",
-    "favicon": "https://www.topradio.be/favicons/favicon-196x196.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7945,6 +7044,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_8a7c8a7ea751180058a8",
+    "name": "Versuz Radio",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.versuzradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T17:36:38Z"
+  },
+  {
     "id": "awb_04bb3d4496b93bf5e05f",
     "name": "Vibration.FM Be",
     "country": "BE",
@@ -8023,91 +7136,22 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_d481effff0b9f2f2453d",
-    "name": "VRT - Klara",
+    "id": "awb_e07e7923ed986ed3da2c",
+    "name": "VRT - NWS",
     "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [
-      "nl"
-    ],
+    "subdivision": null,
+    "languages": [],
     "categories": [
-      "classical",
-      "jazz"
+      "news"
     ],
     "tags": [
-      "classical",
-      "cultural",
-      "jazz",
-      "vrt"
+      "nieuws"
     ],
-    "homepage": "http://www.klara.be/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg",
+    "homepage": "https://www.vrt.be/nl",
+    "favicon": "https://www.vrt.be/favicon.ico",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-06-11T10:14:42Z"
-  },
-  {
-    "id": "awb_80eb93b3e89ede3edf38",
-    "name": "VRT - Klara Continuo",
-    "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical",
-      "vrt"
-    ],
-    "homepage": "https://www.klara.be/",
-    "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/klara-continuo/v2/color.svg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-11T09:30:26Z"
-  },
-  {
-    "id": "awb_96755df1e0e0d8649a81",
-    "name": "VRT - MNM",
-    "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "vrt"
-    ],
-    "homepage": "https://www.mnm.be/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/02/MNM_logo_2024.svg",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-06-13T00:48:25Z"
-  },
-  {
-    "id": "awb_544e94c0813a85c1308b",
-    "name": "VRT - MNM Hits",
-    "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "vrt"
-    ],
-    "homepage": "https://www.mnm.be/mnmbighits",
-    "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/mnm-hits/v3/color.svg",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-06-11T10:14:30Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-06-11T09:23:51Z"
   },
   {
     "id": "awb_342b83e2f9b83b1bb540",
@@ -8147,93 +7191,25 @@
     "updatedAt": "2026-06-11T09:23:55Z"
   },
   {
-    "id": "awb_d6747797bf43c4e1f0d8",
-    "name": "VRT - StuBru - De Tijdloze",
+    "id": "awb_5c9b1c0260925f4656a8",
+    "name": "VRT - Radio 2 (Vlaams-Brabant)",
     "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [],
-    "categories": [
-      "metal",
-      "rock"
-    ],
-    "tags": [
-      "alternative indie rock",
-      "metal",
-      "vrt"
-    ],
-    "homepage": "https://www.stubru.be/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-11T10:47:30Z"
-  },
-  {
-    "id": "awb_53362bae15c87426c423",
-    "name": "VRT - Studio Brussel",
-    "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "pop",
-      "rock",
-      "vrt"
-    ],
-    "homepage": "https://www.stubru.be/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-11T09:22:57Z"
-  },
-  {
-    "id": "awb_07ef5012fb45b2f8fab6",
-    "name": "VRT - Studio Brussel - UNTZ",
-    "country": "BE",
-    "subdivision": "Brussels",
+    "subdivision": "Flanders",
     "languages": [
       "nl"
     ],
     "categories": [
-      "electronic"
+      "pop"
     ],
     "tags": [
-      "dance",
-      "electronic",
+      "pop",
       "vrt"
     ],
-    "homepage": "https://www.stubru.be/",
-    "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-untz/v3/color.svg",
+    "homepage": "https://radio2.be/",
+    "favicon": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-11T09:24:18Z"
-  },
-  {
-    "id": "awb_e1d4f4c2b53cf904b72d",
-    "name": "VRT - Studio Brussel - Vuurland",
-    "country": "BE",
-    "subdivision": "Brussels",
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "easy listening",
-      "melancholic",
-      "pop",
-      "relaxing",
-      "rock",
-      "vrt"
-    ],
-    "homepage": "https://www.stubru.be/",
-    "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-11T09:22:00Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-06-11T09:24:40Z"
   },
   {
     "id": "awb_1aeb2a69d25e2db21647",
@@ -8256,22 +7232,6 @@
     "updatedAt": "2026-10-25T17:49:15Z"
   },
   {
-    "id": "awb_4a97cbf03a3d4daed236",
-    "name": "vrt klara high quality",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.vrt.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:38:17Z"
-  },
-  {
     "id": "awb_9c06c43fe1ce7e64fdd2",
     "name": "VRT MNM",
     "country": "BE",
@@ -8291,59 +7251,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-25T17:47:51Z"
-  },
-  {
-    "id": "awb_faf29f38eea9589515a4",
-    "name": "VRT Nieuws",
-    "country": "BE",
-    "subdivision": "West-Vlaanderen",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "nieuwe nederlandse"
-    ],
-    "homepage": "https://www.vrt.be/vrtnws/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-25T07:36:56Z"
-  },
-  {
-    "id": "awb_e07e7923ed986ed3da2c",
-    "name": "VRT NWS",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "nieuws"
-    ],
-    "homepage": "https://www.vrt.be/nl",
-    "favicon": "https://www.vrt.be/favicon.ico",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-11T09:23:51Z"
-  },
-  {
-    "id": "awb_9a5bca09e8aba7f32c4b",
-    "name": "VRT NWS High Quality",
-    "country": "BE",
-    "subdivision": "West-Vlaanderen",
-    "languages": [],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news talk"
-    ],
-    "homepage": "https://www.vrt.be/vrtnws/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-25T07:45:07Z"
   },
   {
     "id": "awb_1cbb7fffeb27bd8abc4f",
@@ -8388,28 +7295,8 @@
     "homepage": "https://radio1.be/",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg",
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 3,
     "updatedAt": "2026-11-06T08:42:24Z"
-  },
-  {
-    "id": "awb_1918fafb48d156b220ad",
-    "name": "VRT Radio 1 - De LageLandenLijst",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk"
-    ],
-    "homepage": "https://radio1.be/programma/de-lage-landenlijst",
-    "favicon": "https://radio1.be/resources/favicon-radio1/apple-touch-icon-76x76.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:20:39Z"
   },
   {
     "id": "awb_e0970633f1547b11b81c",
@@ -8503,20 +7390,6 @@
     "updatedAt": "2026-08-10T12:39:01Z"
   },
   {
-    "id": "awb_762acd2a74922c445792",
-    "name": "VRT Radio 2 Antwerpen - AAC",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio2.be/regios/antwerpen",
-    "favicon": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_e6f4fc3b6e04bfa9b2f9",
     "name": "Vrt Radio 2 Antwerpen -AAC",
     "country": "BE",
@@ -8529,22 +7402,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_000c718c5f7cfeb7ea9d",
-    "name": "VRT Radio 2 Bene Bene",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.vrt.be/",
-    "favicon": "https://www.vrt.be/nl/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:12:34Z"
   },
   {
     "id": "awb_c77ffee36bd3cd7986e8",
@@ -8563,27 +7420,6 @@
     "updatedAt": "2026-05-17T10:51:20Z"
   },
   {
-    "id": "awb_4e4a29868a399914ffdc",
-    "name": "VRT Radio 2 Relax",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "relax"
-    ],
-    "homepage": "https://www.vrt.be/vrtmax/livestream/audio/radio2-relax/",
-    "favicon": "https://images.vrt.be/orig/2025/10/03/Relax_RadioCover.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-10T12:42:22Z"
-  },
-  {
     "id": "awb_bfc77c56511a14f004c9",
     "name": "VRT Radio 2 Unwind",
     "country": "BE",
@@ -8598,27 +7434,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:08:34Z"
-  },
-  {
-    "id": "awb_5c9b1c0260925f4656a8",
-    "name": "VRT Radio 2 Vlaams-Brabant",
-    "country": "BE",
-    "subdivision": "Flanders",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "vrt"
-    ],
-    "homepage": "https://radio2.be/",
-    "favicon": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-06-11T09:24:40Z"
   },
   {
     "id": "awb_fc0cd9196c5aa15efc6d",
@@ -8773,7 +7588,7 @@
     "id": "awb_e2635908b154dd85b4ec",
     "name": "Willy",
     "country": "BE",
-    "subdivision": "Vlaanderen",
+    "subdivision": null,
     "languages": [
       "nl"
     ],
@@ -8784,9 +7599,9 @@
       "rock"
     ],
     "homepage": "https://www.willy.radio/",
-    "favicon": "https://www.willy.radio/assets/favicon/willy-1c69cc3992bd551e908f2ec0f8c77337b6fe0daa61a3ab891d4934210dee95f4.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8828,7 +7643,7 @@
     "homepage": "https://www.willy.radio/",
     "favicon": "https://www.willy.radio/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8922,13 +7737,11 @@
       "fr"
     ],
     "categories": [],
-    "tags": [
-      "electro"
-    ],
+    "tags": [],
     "homepage": "https://www.xbeat.org/",
-    "favicon": "https://xbeat.org/wp-content/uploads/2019/04/cropped-29019567_10214064850427760_1674394533_n-1-1-1-32x32.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8976,7 +7789,7 @@
     "homepage": "https://yujenbriag.be/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -9025,8 +7838,8 @@
     "homepage": "https://www.zoe.radio/",
     "favicon": "https://zoe.radio/zoeradio/images/logo-vierkant-512.png",
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-11-06T14:38:15Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-06T13:42:26Z"
   },
   {
     "id": "awb_f3125b1ad09615ee5d45",

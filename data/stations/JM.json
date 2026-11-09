@@ -147,18 +147,13 @@
     "languages": [
       "en"
     ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dancehall",
-      "pop music"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.fame95fm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:00:57Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:37:33Z"
   },
   {
     "id": "awb_61bf52447c1dff346e2b",
@@ -189,29 +184,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_c953785c2905cb7babf6",
-    "name": "GGFM 90.1 Discovery Bay",
-    "country": "JM",
-    "subdivision": "Discovery Bay",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "blues",
-      "religious"
-    ],
-    "tags": [
-      "blues",
-      "discovery bay",
-      "gospel"
-    ],
-    "homepage": "http://www.ggfmja.org/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:06:06Z"
   },
   {
     "id": "awb_597b1c8e9aa34ace4b96",
@@ -314,21 +286,16 @@
     "id": "awb_060afa7f2f54eb199e31",
     "name": "Kool 97 FM",
     "country": "JM",
-    "subdivision": "Surrey county, Kingston, Braemar Avenue 1",
+    "subdivision": null,
     "languages": [
       "en"
     ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "alternative",
-      "pop"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.kool97fm.com/",
-    "favicon": "https://www.kool97fm.com/images/joomlabuff/logo/logo1.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T08:40:44Z"
   },
   {
@@ -374,41 +341,6 @@
     "updatedAt": "2026-05-13T00:56:51Z"
   },
   {
-    "id": "awb_fc9a6e4ef2199c10a523",
-    "name": "Mello FM Jamaica",
-    "country": "JM",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mellofmjamaica.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_973c58dfcecc689c4477",
-    "name": "Mello Radio 88 FM",
-    "country": "JM",
-    "subdivision": "Montego Bay",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "reggae"
-    ],
-    "tags": [
-      "dancehall",
-      "reggae"
-    ],
-    "homepage": "http://www.mellofmjamaica.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:37:33Z"
-  },
-  {
     "id": "awb_5afa5498771cd460e175",
     "name": "Mellow FM",
     "country": "JM",
@@ -436,10 +368,10 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://nationwideradiojm.com/live_player.html",
+    "homepage": "https://nationwideradiojm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T05:00:15Z"
   },
   {
@@ -556,28 +488,6 @@
     "updatedAt": "2026-01-15T07:12:24Z"
   },
   {
-    "id": "awb_074baae342ba626175b7",
-    "name": "Radio Jamaica 94FM",
-    "country": "JM",
-    "subdivision": "Kingston",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": "http://rjr94fm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:37:46Z"
-  },
-  {
     "id": "awb_c2ba886dd5751b294024",
     "name": "Rebel Radio",
     "country": "JM",
@@ -590,40 +500,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_ef957c72bc6056fb76d2",
-    "name": "reggae vibe radio",
-    "country": "JM",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "reggae"
-    ],
-    "tags": [
-      "reggae"
-    ],
-    "homepage": "http://www.reggaeviberadio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-19T22:48:00Z"
-  },
-  {
-    "id": "awb_a0433b9ff99f2edee6b4",
-    "name": "reggea vibe radio",
-    "country": "JM",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://stream.radiojar.com/qtv562rrs1duv",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-19T18:46:53Z"
   },
   {
     "id": "awb_098befbc5e0a5c295f51",
@@ -672,23 +548,14 @@
     "id": "awb_2d0c9af480c0c0540339",
     "name": "SunCity 104.9 FM",
     "country": "JM",
-    "subdivision": "Middlesex county, Portmore, Shop 30 Portmore Pines",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "hip-hop",
-      "reggae"
-    ],
-    "tags": [
-      "dancehall",
-      "hiphop",
-      "reggae"
-    ],
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.suncityradio.fm/",
-    "favicon": "https://radiosjamaica.com/sites/default/files/styles/116_x_116/public/radio/logos/logo-suncity-radio.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {

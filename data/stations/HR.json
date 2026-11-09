@@ -94,7 +94,7 @@
     "homepage": "https://www.057info.hr/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -112,29 +112,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_28133eab08fb43bbf50a",
-    "name": "Antena Zagreb - Live",
-    "country": "HR",
-    "subdivision": null,
-    "languages": [
-      "hr"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "croatian",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://www.antenazagreb.hr/",
-    "favicon": "https://cdn-profiles.tunein.com/s83931/images/bannerx.jpg?t=636748543016900000",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:14:52Z"
   },
   {
     "id": "awb_299b8d1e25e56ef415dd",
@@ -294,9 +271,9 @@
   },
   {
     "id": "awb_b866ac75dfe240f7b6a4",
-    "name": "Bijelo-plavi radio",
+    "name": "Bijelo Plavi radio",
     "country": "HR",
-    "subdivision": "Osijek",
+    "subdivision": "Istarska 2, Osijek",
     "languages": [
       "hr"
     ],
@@ -307,22 +284,8 @@
     "homepage": "http://www.bijeloplaviradio.hr/",
     "favicon": "http://www.bijeloplaviradio.hr/data/source/logo/logo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:00:57Z"
-  },
-  {
-    "id": "awb_c33a49ec19cdd0071fb7",
-    "name": "Braniteljski radio \"Nepokoreni grad\"",
-    "country": "HR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://embed.radio.co/player/6fa1744.html",
-    "favicon": "https://embed.radio.co/favicon.ico",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "updatedAt": "2026-01-15T06:00:57Z"
   },
   {
     "id": "awb_913fbd58846049f92b45",
@@ -351,20 +314,15 @@
       "en",
       "hr"
     ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
+    "categories": [],
     "tags": [
       "croatian",
-      "international",
-      "pop",
-      "rock"
+      "international"
     ],
     "homepage": "https://br.hr/",
     "favicon": "https://play-lh.googleusercontent.com/k2ngsQQBViSRECHD9P4jvH48hwjpGut6t7YWzfoVZSGBrqFHeJGwkTaW9_VYHVc2EQ",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-01-15T07:25:31Z"
   },
   {
@@ -1399,21 +1357,12 @@
       "bs",
       "hr"
     ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "chatolic",
-      "christian",
-      "croatia",
-      "hkr",
-      "katolički",
-      "kršćanski"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://hkr.hkm.hr/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/hr/c/cd/Hkr.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1508,7 +1457,7 @@
   },
   {
     "id": "awb_0d892ae3cc85403d2bc0",
-    "name": "Hrvatski Radio Čakovec d.o.o. Stream",
+    "name": "Hrvatski radio Čakovec d.o.o. Stream",
     "country": "HR",
     "subdivision": null,
     "languages": [],
@@ -1517,7 +1466,7 @@
     "homepage": "http://www.radio-cakovec.hr/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
@@ -1661,7 +1610,7 @@
     "homepage": "https://karlovacki.hr/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:01:02Z"
   },
   {
@@ -1791,42 +1740,6 @@
     "updatedAt": "2026-01-15T04:11:54Z"
   },
   {
-    "id": "awb_58e22cb9a7bc45d41efe",
-    "name": "Narodni - Totalno opušteno",
-    "country": "HR",
-    "subdivision": null,
-    "languages": [
-      "hr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://narodni.hr/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Narodni_Logo_2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:08:34Z"
-  },
-  {
-    "id": "awb_34cb089c307448f58614",
-    "name": "Narodni - Uživo",
-    "country": "HR",
-    "subdivision": null,
-    "languages": [
-      "hr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits"
-    ],
-    "homepage": "https://narodni.hr/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Narodni_Logo_2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:40:06Z"
-  },
-  {
     "id": "awb_72eebae5a3f08c1929ae",
     "name": "Narodni Radio Goga",
     "country": "HR",
@@ -1856,30 +1769,20 @@
   },
   {
     "id": "awb_3cb47f1be06f18430142",
-    "name": "Novi Radio Zadar",
+    "name": "Novi radio Zadar",
     "country": "HR",
-    "subdivision": "Dalmatia",
+    "subdivision": "Zrinsko-frankopanska 13, Zadar",
     "languages": [
       "hr"
     ],
-    "categories": [
-      "news",
-      "oldies",
-      "pop",
-      "rock"
-    ],
+    "categories": [],
     "tags": [
-      "hits",
-      "news",
-      "oldies",
-      "pop",
-      "rock",
       "various music"
     ],
-    "homepage": "http://www.noviradio.hr/",
-    "favicon": "https://www.noviradio.hr/wp-content/uploads/2020/03/portal-mala.png",
+    "homepage": "https://www.noviradio.hr/",
+    "favicon": "https://www.noviradio.hr/wp-content/uploads/2020/05/novi-radio-logo2.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:17:44Z"
   },
   {
@@ -1890,52 +1793,13 @@
     "languages": [
       "hr"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news",
-      "various music"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "http://www.ori.hr/",
-    "favicon": "https://www.ori.hr/images/logo.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:24:51Z"
-  },
-  {
-    "id": "awb_532ae7049ef280aa2126",
-    "name": "Online Radio Kneginec",
-    "country": "HR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk"
-    ],
-    "homepage": "http://stream.zeno.fm/yetzdv442k8uv",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_9c66089f9137575c36f0",
-    "name": "Otvoreni Chill",
-    "country": "HR",
-    "subdivision": "Grad Zagreb",
-    "languages": [
-      "hr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.otvoreni.hr/",
-    "favicon": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:33:25Z"
+    "updatedAt": "2026-01-15T04:24:51Z"
   },
   {
     "id": "awb_8f4ab5f72dc607b2aa22",
@@ -1954,26 +1818,10 @@
     "updatedAt": "2026-01-15T03:01:40Z"
   },
   {
-    "id": "awb_f4e5c9535219f7bd2fd7",
-    "name": "Otvoreni Hot",
-    "country": "HR",
-    "subdivision": "Grad Zagreb",
-    "languages": [
-      "hr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.otvoreni.hr/",
-    "favicon": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:55:29Z"
-  },
-  {
     "id": "awb_7c0359940a2c077331f2",
     "name": "Otvoreni LIVE",
     "country": "HR",
-    "subdivision": "Grad Zagreb",
+    "subdivision": null,
     "languages": [
       "hr"
     ],
@@ -1989,10 +1837,10 @@
       "pop rock"
     ],
     "homepage": "https://www.otvoreni.hr/",
-    "favicon": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8=w480-h960",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:25:40Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:55:39Z"
   },
   {
     "id": "awb_b1a161e44a7859bc1aec",
@@ -2019,23 +1867,18 @@
       "hr"
     ],
     "categories": [
-      "news",
       "pop",
       "rock"
     ],
     "tags": [
-      "croatian",
-      "easy listening",
       "easy-listening",
-      "news",
       "pop",
-      "rock",
-      "zagreb"
+      "rock"
     ],
     "homepage": "https://www.otvoreni.hr/",
     "favicon": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8=w240-h480-rw",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2226,24 +2069,6 @@
     "updatedAt": "2026-01-15T01:34:09Z"
   },
   {
-    "id": "awb_940fe1a7a8e41f18d474",
-    "name": "Prigorski radio 96.6MHz",
-    "country": "HR",
-    "subdivision": "Antuna Gustava Matoša 3, Križevci",
-    "languages": [
-      "hr"
-    ],
-    "categories": [],
-    "tags": [
-      "various"
-    ],
-    "homepage": "https://prigorskiradio.hr/",
-    "favicon": "https://prigorskiradio.hr/wp-content/uploads/2023/01/prigorskiradio_web_logo.png.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:32:41Z"
-  },
-  {
     "id": "awb_83dcc52d84202cbc2e17",
     "name": "Prolaznik Evergreen Lepoglava",
     "country": "HR",
@@ -2300,10 +2125,10 @@
       "rock"
     ],
     "homepage": "https://www.radiodalmacija.hr/",
-    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/5uLKDLksVe.png",
+    "favicon": "https://www.radiodalmacija.hr/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T05:17:35Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:45:08Z"
   },
   {
     "id": "awb_8cdb0c13b3d2d3787a2d",
@@ -2644,30 +2469,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_c0a25242ef4210bc8d1a",
-    "name": "Radio Dalmacija",
-    "country": "HR",
-    "subdivision": null,
-    "languages": [
-      "hr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dalmatia",
-      "hits",
-      "pop",
-      "regional",
-      "split"
-    ],
-    "homepage": "https://www.radiodalmacija.hr/",
-    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/5uLKDLksVe.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T02:30:35Z"
-  },
-  {
     "id": "awb_3e14323074f92bdebb5d",
     "name": "Radio Dalmacija - Furešta",
     "country": "HR",
@@ -2708,26 +2509,6 @@
     "updatedAt": "2026-01-15T01:06:06Z"
   },
   {
-    "id": "awb_19fc64b7f1d5e5457aef",
-    "name": "Radio Dalmacija - Oliver",
-    "country": "HR",
-    "subdivision": "Splitsko Dalmatinska",
-    "languages": [
-      "hr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://www.radiodalmacija.hr/",
-    "favicon": "https://www.radiodalmacija.hr/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:43:38Z"
-  },
-  {
     "id": "awb_f44a024ced6499df8d6c",
     "name": "Radio Dalmacija - Oliver",
     "country": "HR",
@@ -2740,26 +2521,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_7555edbc4444f24c4aec",
-    "name": "Radio Dalmacija - Olivet",
-    "country": "HR",
-    "subdivision": "Splitsko Dalmatinska",
-    "languages": [
-      "hr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "http://www.radiodalmacija.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:27:11Z"
   },
   {
     "id": "awb_723db8b873947e0dce91",
@@ -3166,20 +2927,6 @@
     "updatedAt": "2026-01-15T08:44:42Z"
   },
   {
-    "id": "awb_f62ee0703059764bcee2",
-    "name": "Radio Maestral Pula",
-    "country": "HR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radio-maestral.hr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_db7d0cd5440e4828faa1",
     "name": "RADIO MARIA",
     "country": "HR",
@@ -3341,19 +3088,17 @@
       "hr"
     ],
     "categories": [
-      "news",
       "pop",
       "rock"
     ],
     "tags": [
-      "news",
       "pop",
       "rock"
     ],
     "homepage": "https://radiomegaton.hr/",
-    "favicon": "https://radiomegaton.hr/favicon.ico",
+    "favicon": "https://radiomegaton.hr/wp-content/uploads/2021/03/megaton-logo-rm-256.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3418,20 +3163,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_9535a794afc437b87066",
-    "name": "Radio Otocac",
-    "country": "HR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://onlineradiobox.com/hr/otocac/?lang=ru",
-    "favicon": "https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_8dfbdce888b6511c4f0a",
     "name": "Radio Otok Krk",
     "country": "HR",
@@ -3448,7 +3179,7 @@
     "homepage": "https://www.radio-otok-krk.hr/wptmp/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3521,16 +3252,13 @@
       "pop"
     ],
     "tags": [
-      "dalmatia",
       "hits",
-      "pop",
-      "regional",
-      "šibenik"
+      "pop"
     ],
     "homepage": "https://www.radioritam.hr/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4089,7 +3817,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4363,37 +4091,13 @@
     "name": "Yammat FM",
     "country": "HR",
     "subdivision": null,
-    "languages": [
-      "hr"
-    ],
-    "categories": [
-      "electronic",
-      "hip-hop",
-      "punk",
-      "religious",
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "dance",
-      "disco",
-      "experimental",
-      "funk",
-      "gospel",
-      "hip-hop",
-      "house",
-      "indie",
-      "punk",
-      "reagge",
-      "rock",
-      "soul",
-      "techno",
-      "world"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.yammat.fm/",
     "favicon": "https://www.yammat.fm/wp-content/themes/yammat/src/img/favicon/1024x1024.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4525,20 +4229,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_ef8fb0e8ebb96166d278",
-    "name": "ZFM 99.5 & 96.0",
-    "country": "HR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://zfm.hr/",
-    "favicon": "https://zfm.hr/wp-content/uploads/2020/01/LOGO-2019-SMALL.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_e512b95d73775e859ec0",

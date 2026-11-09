@@ -90,22 +90,6 @@
     "updatedAt": "2026-08-27T07:26:08Z"
   },
   {
-    "id": "awb_440887b2ba44f346f5bd",
-    "name": "90 rakthai",
-    "country": "TH",
-    "subdivision": null,
-    "languages": [
-      "th"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://radio11.plathong.net:8896/;stream.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:39:08Z"
-  },
-  {
     "id": "awb_a3878ccbd8c8698411fc",
     "name": "90.5 Delight",
     "country": "TH",
@@ -396,53 +380,14 @@
     "homepage": "http://www.coolism.net/index.php",
     "favicon": "http://www.coolism.net/favicon.ico",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_6b691bfc0e32dfbc87eb",
-    "name": "COOL Fahrenheit 93 FM",
-    "country": "TH",
-    "subdivision": "Bangkok",
-    "languages": [
-      "th"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "easy listening",
-      "thai",
-      "thailand"
-    ],
-    "homepage": "https://www.coolism.net/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-20T12:14:05Z"
-  },
-  {
-    "id": "awb_0336b322e5a9e5f2fd6f",
-    "name": "COOLISM",
-    "country": "TH",
-    "subdivision": null,
-    "languages": [
-      "th"
-    ],
-    "categories": [],
-    "tags": [
-      "คูลลิซึ่ม คลื่นเพลงเพราะอันดับ 1 ของเมืองไทย"
-    ],
-    "homepage": "https://www.coolism.net/",
-    "favicon": "https://www.coolism.net/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:12:44Z"
   },
   {
     "id": "awb_c071bed2f998fba5b237",
     "name": "CWK",
     "country": "TH",
-    "subdivision": "พะเยา",
+    "subdivision": "phay",
     "languages": [
       "th"
     ],
@@ -451,8 +396,8 @@
     "homepage": "https://autodj.plathong.net/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-29T03:40:29Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T09:03:03Z"
   },
   {
     "id": "awb_9cc4d64008aeddd88d1d",
@@ -514,7 +459,7 @@
     "homepage": "https://news1005.mcot.net/news1005/th",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-27T12:47:14Z"
   },
   {
@@ -763,19 +708,12 @@
     "country": "TH",
     "subdivision": "Si Sa Ket",
     "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "música pop",
-      "สตริง",
-      "เพลงร่วมสมัย",
-      "เพลงใหม่"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.keangun.com/",
-    "favicon": "https://www.keangun.com/sites/default/files/logo_0_0.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -848,20 +786,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_53646f1f91824bdf31c6",
-    "name": "Looktung Eing",
-    "country": "TH",
-    "subdivision": "Bangkok",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.eingdoi.com/looktung",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_50db184e596988ddb990",
     "name": "Looktung Eingdoi",
     "country": "TH",
@@ -872,7 +796,7 @@
     "homepage": "https://www.eingdoi.com/looktung/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -972,7 +896,7 @@
     "homepage": "https://www.mommaem.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -1164,13 +1088,12 @@
     ],
     "categories": [],
     "tags": [
-      "89.5 livemusic nonstop all day all night",
       "music nonstop all day all night"
     ],
     "homepage": "https://mytuner-radio.com/radio/rad-radio-895-483972/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T05:05:52Z"
   },
   {
@@ -1197,28 +1120,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_cd19a0478e11015f53b6",
-    "name": "Radio Samui",
-    "country": "TH",
-    "subdivision": "Surat Thani",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dj sets",
-      "hits",
-      "world music"
-    ],
-    "homepage": "https://radiosamui.online/",
-    "favicon": "https://radiosamui.online/assets/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-19T16:30:15Z"
   },
   {
     "id": "awb_550c76bb85901c674138",
@@ -1513,10 +1414,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.voiceofnavy.com/",
-    "favicon": "https://885sweetfm.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-06T05:00:16Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-26T03:03:08Z"
   },
   {
     "id": "awb_e38908aa7dc192ec7071",
@@ -1594,17 +1495,13 @@
     ],
     "tags": [
       "country",
-      "hits 90's",
       "indie",
-      "looktung",
-      "thailanna",
-      "top 40",
       "top-40"
     ],
     "homepage": "https://www.lannaradio.com/",
-    "favicon": "https://www.lannaradio.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1624,64 +1521,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_cf3af08adc20889f9155",
-    "name": "มิติข่าว 90.5",
-    "country": "TH",
-    "subdivision": "Bangkok",
-    "languages": [
-      "th"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "news talk"
-    ],
-    "homepage": "http://www.smartbomb.co.th/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:19:36Z"
-  },
-  {
-    "id": "awb_5137daf657d23693ba9c",
-    "name": "ล้านนา เรดิโอ",
-    "country": "TH",
-    "subdivision": null,
-    "languages": [
-      "th"
-    ],
-    "categories": [],
-    "tags": [
-      "ลูกทุ่ง เพื่อชีวิต"
-    ],
-    "homepage": "https://www.lannaradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:38:09Z"
-  },
-  {
-    "id": "awb_395ba1408dc588399b94",
-    "name": "ลานนาเรดิโอ",
-    "country": "TH",
-    "subdivision": null,
-    "languages": [
-      "th"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://www.lannaradio.com/",
-    "favicon": "https://www.lannaradio.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:44:04Z"
   },
   {
     "id": "awb_630d8ddfc5dc71b2d23c",
@@ -1711,13 +1550,12 @@
     ],
     "categories": [],
     "tags": [
-      "fm 98.5 mhz ลูกทุ่ง ทั้งวัน ทั้งคืน",
       "ลูกทุ่ง ทั้งวัน ทังคืน"
     ],
     "homepage": "http://looktung.net/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:45:25Z"
   },
   {
@@ -1778,13 +1616,12 @@
     ],
     "categories": [],
     "tags": [
-      "วัดป่าไทรงาม กำแพงเพชร (fm 98.25 mhz)",
-      "วิทยุออนไลน์ วัดป่าไทรงาม (fm 98.25 mhz)"
+      "วัดป่าไทรงาม กำแพงเพชร (fm 98.25 mhz)"
     ],
     "homepage": "http://www.watpasaingam.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1892,24 +1729,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:26:48Z"
-  },
-  {
-    "id": "awb_8260f8ae2e349e842da7",
-    "name": "สังฆทานธรม",
-    "country": "TH",
-    "subdivision": null,
-    "languages": [
-      "th"
-    ],
-    "categories": [],
-    "tags": [
-      "คลื่นขาว จาก ชาวพุทธ"
-    ],
-    "homepage": "https://www.watsanghathan.com/content/5406/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%86%E0%B8%97%E0%B8%B2%E0%B8%99%E0%",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:57:53Z"
   },
   {
     "id": "awb_49ca2b3478a3b29573af",

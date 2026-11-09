@@ -35,8 +35,8 @@
     "homepage": "https://www.1766.today/",
     "favicon": "https://www.1766.today/wp-content/uploads/2016/11/cropped-radio_icon_660px-180x180.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T04:54:13Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:31:40Z"
   },
   {
     "id": "awb_862036d4043c22fd7f55",
@@ -179,9 +179,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.bossbossradio.com/",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/1/69241.v15.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -227,7 +227,7 @@
     "homepage": "https://www.ilovetacp.org.tw/cancheers/cancheers.aspx#page-top",
     "favicon": "https://www.ilovetacp.org.tw/cancheers/image/CanCheers-Logo.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -235,21 +235,14 @@
     "name": "Classical 古典音樂台 FM 97.7",
     "country": "TW",
     "subdivision": null,
-    "languages": [
-      "cmn",
-      "zh"
-    ],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical music"
-    ],
-    "homepage": "http://www.family977.com.tw/index.php",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.family977.com.tw/index.php%20favicon",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T01:53:33Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_c0eb0223f65b7403de36",
@@ -264,26 +257,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_53e8d18ddfe4b7882868",
-    "name": "HappyRadio",
-    "country": "TW",
-    "subdivision": "taipei",
-    "languages": [
-      "zh"
-    ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "talk"
-    ],
-    "homepage": "https://happyradio.com.tw/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-22T15:09:58Z"
   },
   {
     "id": "awb_8436ae9d25957b312d52",
@@ -401,23 +374,14 @@
     "name": "Nei-Di's ACG Music",
     "country": "TW",
     "subdivision": null,
-    "languages": [
-      "ja",
-      "zh"
-    ],
-    "categories": [
-      "anime"
-    ],
-    "tags": [
-      "anime",
-      "jpop",
-      "ost"
-    ],
-    "homepage": "http://neidi.homeip.net/",
-    "favicon": "https://neidi.homeip.net/blog/cblog/wp-content/uploads/2022/11/cropped-ic0-192x192.png",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://neidi.homeip.net:8080/;",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-29T19:34:26Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-29T12:17:53Z"
   },
   {
     "id": "awb_7b25e6290e8b58bd21e0",
@@ -432,7 +396,7 @@
     "homepage": "http://phate.io/",
     "favicon": "https://i.imgur.com/8bomhbn.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T02:07:59Z"
   },
   {
@@ -530,7 +494,7 @@
     "homepage": "https://radio.nitro-server.uk/public/1940sshanghaioldtimesmusicradio",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -606,20 +570,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_0badc76863548ceaae87",
-    "name": "中央廣播電台",
-    "country": "TW",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rti.org.tw/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_377149eaf027baf5e4b4",
@@ -788,24 +738,6 @@
     "updatedAt": "2026-01-15T03:03:48Z"
   },
   {
-    "id": "awb_95a95579ecbfe0af0438",
-    "name": "佳音電台",
-    "country": "TW",
-    "subdivision": null,
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "chirstian"
-    ],
-    "homepage": "http://www.goodnews.org.tw/forum.php?change_model=forum_detail&id=124",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:19:54Z"
-  },
-  {
     "id": "awb_c18f288ab621b5b2cb03",
     "name": "佳音電台 90.9 FM",
     "country": "TW",
@@ -967,43 +899,18 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_8680b049adc451946726",
-    "name": "台中城市廣播",
-    "country": "TW",
-    "subdivision": null,
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "information",
-      "music"
-    ],
-    "homepage": "http://www.cityfm.tw/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:01:29Z"
-  },
-  {
     "id": "awb_94f29663c6295eb9e751",
     "name": "台中廣播",
     "country": "TW",
     "subdivision": null,
-    "languages": [
-      "zh"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "public radio"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.fm1007lucky.com/",
     "favicon": null,
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:28:39Z"
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_e3a72aebe8551ce8417d",
@@ -1341,8 +1248,8 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_4845ac4953a685fd42a0",
-    "name": "城市廣播網-台北健康",
+    "id": "awb_a151657ce1d63a4c9b35",
+    "name": "城市廣播網-台南知音",
     "country": "TW",
     "subdivision": null,
     "languages": [],
@@ -1381,22 +1288,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_a151657ce1d63a4c9b35",
-    "name": "城市廣播網•台南知音",
-    "country": "TW",
-    "subdivision": null,
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.cityfm.tw/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:27:56Z"
   },
   {
     "id": "awb_513ea85a6d26d2506923",
@@ -1450,22 +1341,6 @@
     "updatedAt": "2026-01-15T02:28:27Z"
   },
   {
-    "id": "awb_14ad9c41f240e6273356",
-    "name": "大漢之音",
-    "country": "TW",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "full service"
-    ],
-    "homepage": "https://www.fm971.com.tw/",
-    "favicon": "https://www.fm971.com.tw/images/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_c75f57230a1760db8833",
     "name": "天南AM999",
     "country": "TW",
@@ -1517,20 +1392,15 @@
     "id": "awb_6b0f465e60641ace0f7a",
     "name": "太陽電台",
     "country": "TW",
-    "subdivision": "Taichung city",
+    "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [
-      "89.1",
-      "89.1 fm",
-      "information",
-      "music"
-    ],
+    "tags": [],
     "homepage": "http://www.sunny891.com.tw/",
-    "favicon": "http://www.sunny891.com.tw/dsyn1/store/F4/170407%E4%BF%AE%E6%94%B9-%E5%9E%8B%E9%A0%8502(2).gif",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:12Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_88a7e1cbb04be5ad53ca",
@@ -1601,20 +1471,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_11d72aa4affef9d38bb7",
-    "name": "寶島新聲廣播電台",
-    "country": "TW",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.baodaoradio.com.tw/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_ac10ab684102faf32947",
@@ -2026,7 +1882,7 @@
     "homepage": "https://www.csbc.com.tw/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -2363,30 +2219,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_d58da1ab7980acf0a5bf",
-    "name": "臺北電台",
-    "country": "TW",
-    "subdivision": "Taipei",
-    "languages": [
-      "zh"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "http://www.radio.gov.taipei/",
-    "favicon": "https://liveonlineradio.net/wp-content/uploads/2021/09/radio-taipei-93.1-fm-220x108.jpg",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:19:57Z"
   },
   {
     "id": "awb_7ee034a1b84d065a1b01",

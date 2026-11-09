@@ -169,7 +169,7 @@
     "homepage": "https://www.europa2.sk/",
     "favicon": "https://www.europa2.sk/wp-content/uploads/2023/05/cropped-favicon-128x128.png?w=128&h=128",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -282,19 +282,12 @@
     "languages": [
       "sk"
     ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "new music",
-      "pop",
-      "top 40",
-      "various"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.freshradio.sk/",
-    "favicon": "https://f15b622f1d.clvaw-cdnwnd.com/752c30533b02e0347e0f76e505c98b9d/200000015-5e4785e47a/Fresh%20radio%20-%20favicon_dark.ico?ph=f15b622f1d",
+    "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -314,58 +307,20 @@
     "updatedAt": "2026-01-14T23:53:14Z"
   },
   {
-    "id": "awb_6390863cc7e8a5f422d8",
-    "name": "Fun Radio",
-    "country": "SK",
-    "subdivision": "Slovakia",
-    "languages": [
-      "sk"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "http://www.funradio.sk/",
-    "favicon": "http://cdn.funradio.sk/img/logo/apple-icon-120x120.png?v=2022-05-26-1422",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T01:17:31Z"
-  },
-  {
     "id": "awb_24fd9c8066572af325b4",
     "name": "FUN RÁDIO 80-90",
     "country": "SK",
-    "subdivision": "Bratislava",
-    "languages": [
-      "sk"
-    ],
-    "categories": [],
-    "tags": [
-      "80-90"
-    ],
-    "homepage": "http://www.funradio.sk/",
-    "favicon": "https://i.imgur.com/kz8TUOr.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T06:03:28Z"
-  },
-  {
-    "id": "awb_9f6daf0d6167e5718b0a",
-    "name": "Fun Radio 80&90",
-    "country": "SK",
-    "subdivision": "Slovakia",
+    "subdivision": null,
     "languages": [
       "sk"
     ],
     "categories": [],
     "tags": [],
     "homepage": "http://www.funradio.sk/",
-    "favicon": null,
+    "favicon": "https://i.imgur.com/XyWdl3c.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:05:52Z"
+    "updatedAt": "2026-01-15T06:03:28Z"
   },
   {
     "id": "awb_25401198cf249d0c6e37",
@@ -409,32 +364,10 @@
     "updatedAt": "2026-01-15T06:36:23Z"
   },
   {
-    "id": "awb_19b952855af6d2f62ff8",
-    "name": "Fun Radio Dance",
-    "country": "SK",
-    "subdivision": "Slovakia",
-    "languages": [
-      "sk"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "eurodance",
-      "pop"
-    ],
-    "homepage": "http://www.funradio.sk/",
-    "favicon": "http://www.funradio.sk/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:31:23Z"
-  },
-  {
     "id": "awb_275eb68f2db11b8de026",
     "name": "FUN RÁDIO DANCE",
     "country": "SK",
-    "subdivision": "Bratislava",
+    "subdivision": null,
     "languages": [
       "sk"
     ],
@@ -443,10 +376,10 @@
       "dance"
     ],
     "homepage": "http://www.funradio.sk/",
-    "favicon": "https://i.imgur.com/j51rcUO.png",
+    "favicon": "https://i.imgur.com/H12RWeB.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:05:36Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:24:52Z"
   },
   {
     "id": "awb_3626f48bd7025770053c",
@@ -468,7 +401,7 @@
     "id": "awb_e4290887a4af23b7f667",
     "name": "G-Radio",
     "country": "SK",
-    "subdivision": "Košice",
+    "subdivision": null,
     "languages": [
       "sk"
     ],
@@ -477,7 +410,7 @@
     "homepage": "http://gradio.sk/",
     "favicon": "http://gradio.sk/favicon.ico",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T03:40:06Z"
   },
   {
@@ -497,7 +430,7 @@
     "homepage": "https://www.hitradioslovakia.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -517,20 +450,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_e25e5a8939fb5b62a7e0",
-    "name": "Info_vojna",
-    "country": "SK",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.infovojna.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-18T08:21:21Z"
   },
   {
     "id": "awb_0efb5660f82c11fc4659",
@@ -561,22 +480,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-03-16T07:55:17Z"
-  },
-  {
-    "id": "awb_bbeb2becf94a146fdfa4",
-    "name": "Infovojna",
-    "country": "SK",
-    "subdivision": null,
-    "languages": [
-      "sk"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.infovojna.bz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-21T22:37:18Z"
   },
   {
     "id": "awb_5db25aac7fabeeb7f05a",
@@ -814,38 +717,27 @@
     "languages": [
       "sk"
     ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radio7.sk/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_131328c5913ddc45c5fd",
     "name": "Rádio 7",
     "country": "SK",
-    "subdivision": "Bratislava",
+    "subdivision": null,
     "languages": [],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian",
-      "christianity",
-      "protestant",
-      "religion"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radio7.sk/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-09-16T17:32:01Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-16T16:33:54Z"
   },
   {
     "id": "awb_383652944c06a2d33c56",
@@ -908,22 +800,6 @@
     "updatedAt": "2026-01-15T08:31:17Z"
   },
   {
-    "id": "awb_77053a475d4e67f4aadc",
-    "name": "RÁDIO BEST FM",
-    "country": "SK",
-    "subdivision": null,
-    "languages": [
-      "sk"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://bestfm.sk/",
-    "favicon": "https://i.imgur.com/ty0Rjzh.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:50:53Z"
-  },
-  {
     "id": "awb_451e408a5018cf92745c",
     "name": "Rádio BestFM",
     "country": "SK",
@@ -939,25 +815,19 @@
   },
   {
     "id": "awb_88287a24c481792cfc13",
-    "name": "Rádio Beta",
+    "name": "RÁDIO BETA",
     "country": "SK",
     "subdivision": null,
     "languages": [
       "sk"
     ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "bojnice",
-      "music",
-      "pop"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://beta.sk/",
-    "favicon": "https://www.beta.sk/wp-content/uploads/2020/08/cropped-beta-radio-logo-512-180x180.png",
+    "favicon": "https://i.imgur.com/BVXJoSN.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T01:28:23Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:39:08Z"
   },
   {
     "id": "awb_645e3ae8ae72c26b8098",
@@ -992,27 +862,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:11:44Z"
-  },
-  {
-    "id": "awb_8f42b2f3971dfeb23710",
-    "name": "RADIO BIBLIA SK",
-    "country": "SK",
-    "subdivision": null,
-    "languages": [
-      "sk"
-    ],
-    "categories": [],
-    "tags": [
-      "bible",
-      "biblia",
-      "bozie slovo",
-      "svate pismo"
-    ],
-    "homepage": "https://www.radiobiblia.online/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:51:19Z"
   },
   {
     "id": "awb_d32d3d9c7addfcb92727",
@@ -1072,7 +921,7 @@
   },
   {
     "id": "awb_1da31c950845cffc9064",
-    "name": "Rádio Expres",
+    "name": "RÁDIO EXPRES",
     "country": "SK",
     "subdivision": null,
     "languages": [
@@ -1081,9 +930,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.expres.sk/",
-    "favicon": "https://sk.wikipedia.org/wiki/R%C3%A1dio_Expres#/media/S%C3%BAbor:Stare_logo_R%C3%A1dia_Expres.jpg",
+    "favicon": "https://i.imgur.com/Q7pqtwX.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1196,33 +1045,29 @@
     "id": "awb_31249d889cd8188b3383",
     "name": "Rádio FM",
     "country": "SK",
-    "subdivision": "Bratislava",
+    "subdivision": null,
     "languages": [
       "sk"
     ],
     "categories": [
-      "hip-hop",
       "pop",
       "public",
       "rock"
     ],
     "tags": [
       "alternative",
-      "hip-hop",
       "indie",
       "local music",
-      "music",
       "pop",
       "public radio",
       "rock",
-      "world music",
-      "youth"
+      "world music"
     ],
     "homepage": "https://fm.rtvs.sk/",
-    "favicon": "https://i.imgur.com/mdT0UbB.png",
+    "favicon": null,
     "type": "public",
-    "sourceCount": 5,
-    "updatedAt": "2026-01-15T06:26:48Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T00:32:40Z"
   },
   {
     "id": "awb_a5e35174a9afa436f67e",
@@ -1232,15 +1077,12 @@
     "languages": [],
     "categories": [],
     "tags": [
-      "alternative",
-      "local music",
-      "multicultural",
-      "world music"
+      "alternative"
     ],
     "homepage": "https://fm.rtvs.sk/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1326,18 +1168,15 @@
       "sk"
     ],
     "categories": [
-      "oldies",
       "pop"
     ],
     "tags": [
-      "80s",
-      "eurodance",
       "pop"
     ],
     "homepage": "https://www.radiokiks.sk/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T04:51:21Z"
   },
   {
@@ -1607,7 +1446,7 @@
     "homepage": "https://radiomelody.sk/",
     "favicon": "https://www.radiomelody.sk/wp-content/themes/melody/assets/logo.svg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1715,9 +1554,9 @@
       "talk"
     ],
     "homepage": "https://reginazapad.rtvs.sk/",
-    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.yfbXYckxrPxjXALPpN_LnAHaD2%26pid%3DApi&f=1&ipt=adb01ec0af436d9e0e0d8b2c71c88db5e93304f6c1789a2ce3b3f2686c70243c&ipo=images",
+    "favicon": "https://i.ibb.co/JcBjSsG/radio-regina-zapad-w.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1751,9 +1590,9 @@
       "rock"
     ],
     "homepage": "https://radiorock.sk/",
-    "favicon": "https://radiorock.sk/favicon.ico",
+    "favicon": "https://radiorock.sk/favicon-v4.png",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 2,
     "updatedAt": "2026-09-23T12:26:49Z"
   },
   {
@@ -1925,30 +1764,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_6d75e8d695f7c4ea2698",
-    "name": "RÁDIO SLOVENSKO",
-    "country": "SK",
-    "subdivision": "Slovensko",
-    "languages": [
-      "sk"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "music",
-      "news",
-      "talk",
-      "variety"
-    ],
-    "homepage": "https://slovensko.rtvs.sk/",
-    "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gItQZStw2mHIGhvJGp8aFwAAAA%26pid%3DApi&f=1&ipt=698c390e95f6a2d64349aa8e80bd8f925a2cc5c8d3b1f4f21070cdeaa2118d2d&ipo=images",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T02:35:55Z"
-  },
-  {
     "id": "awb_3e1d097749381239183c",
     "name": "Radio Suita",
     "country": "SK",
@@ -1975,7 +1790,7 @@
   },
   {
     "id": "awb_6148427ae71f49faa131",
-    "name": "Rádio TOPOĽČANY",
+    "name": "Rádio Topoľčany",
     "country": "SK",
     "subdivision": "Slovakia",
     "languages": [],
@@ -1984,8 +1799,8 @@
     "homepage": "https://www.radiotopolcany.sk/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:08Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_6fad3bd547ff769ffb29",
@@ -2007,7 +1822,7 @@
   },
   {
     "id": "awb_321961cd5b65cf56c50f",
-    "name": "Rádio Viva",
+    "name": "RÁDIO VIVA",
     "country": "SK",
     "subdivision": "Bratislava",
     "languages": [
@@ -2019,13 +1834,12 @@
     ],
     "tags": [
       "pop",
-      "rock",
-      "various"
+      "rock"
     ],
     "homepage": "http://www.radioviva.sk/",
     "favicon": "https://i.imgur.com/DExIeEb.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:34:57Z"
   },
   {
@@ -2043,92 +1857,53 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_d188c2feaf9f5647f958",
-    "name": "Radio Viva Metropol",
+    "id": "awb_d32e714036b6997e8ed1",
+    "name": "RÁDIO VLNA",
     "country": "SK",
-    "subdivision": "Bratislava",
+    "subdivision": null,
     "languages": [
       "sk"
     ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "local news",
-      "local radio",
-      "pop"
-    ],
-    "homepage": "http://www.radioviva.sk/",
-    "favicon": null,
+    "categories": [],
+    "tags": [],
+    "homepage": "http://radiovlna.sk/",
+    "favicon": "https://i.imgur.com/7Ni2bGP.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:32:25Z"
-  },
-  {
-    "id": "awb_d32e714036b6997e8ed1",
-    "name": "Rádio Vlna",
-    "country": "SK",
-    "subdivision": "Slovakia",
-    "languages": [
-      "sk"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "oldies"
-    ],
-    "homepage": "http://radiovlna.sk/",
-    "favicon": "http://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=9",
-    "type": null,
-    "sourceCount": 3,
     "updatedAt": "2026-01-15T06:08:23Z"
   },
   {
     "id": "awb_dd5fc0a5f16d35a3956d",
     "name": "RÁDIO VLNA 60-70",
     "country": "SK",
-    "subdivision": "Ko",
-    "languages": [
-      "sk"
-    ],
+    "subdivision": "Slovensko",
+    "languages": [],
     "categories": [
       "oldies"
     ],
     "tags": [
-      "60",
-      "60-70",
       "60s",
-      "70",
       "70s"
     ],
     "homepage": "https://radiovlna.sk/",
-    "favicon": "https://i.imgur.com/XIRnWa2.png",
+    "favicon": "https://cdn.radiovlna.sk/img/Radio_Vlna_Logo.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T04:35:18Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_6a5354112278de272acd",
-    "name": "Rádio Vlna CLASSIC ROCK",
+    "name": "RÁDIO VLNA Classic Rock",
     "country": "SK",
-    "subdivision": "Košice",
-    "languages": [
-      "sk"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "rock"
-    ],
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radiovlna.sk/",
-    "favicon": "https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2024-03-04-1100",
+    "favicon": "https://i.imgur.com/hyw6YZ3.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T05:50:37Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_d8837393f34f917c0dca",
@@ -2139,13 +1914,11 @@
       "sk"
     ],
     "categories": [],
-    "tags": [
-      "goldies"
-    ],
+    "tags": [],
     "homepage": "https://radiovlna.sk/",
-    "favicon": "https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=9",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2163,9 +1936,9 @@
       "oldies"
     ],
     "homepage": "https://radiovlna.sk/",
-    "favicon": "https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2023-10-09-10-40",
+    "favicon": "https://i.imgur.com/Qs142Tk.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2370,21 +2143,15 @@
     "languages": [
       "sk"
     ],
-    "categories": [
-      "news",
-      "pop"
-    ],
+    "categories": [],
     "tags": [
-      "local news",
-      "news",
-      "pop",
       "various music"
     ],
-    "homepage": "http://skyradio.sk/",
-    "favicon": "http://skyradio.sk/img/fav.png",
+    "homepage": "http://www.skyradio.sk/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:29:04Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:44:56Z"
   },
   {
     "id": "awb_299838c4de5b549de461",
@@ -2404,44 +2171,31 @@
     "id": "awb_3f1eb2b4d0a9b1c57c5c",
     "name": "Slobodný vysielač",
     "country": "SK",
-    "subdivision": "Banská Bystrica",
+    "subdivision": null,
     "languages": [
       "sk"
     ],
     "categories": [],
-    "tags": [
-      "truth about the world. pravda o svete."
-    ],
+    "tags": [],
     "homepage": "https://slobodnyvysielac.sk/",
     "favicon": "https://slobodnyvysielac.b-cdn.net/wp-content/uploads/2015/10/cropped-fav-150x150.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:08:04Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T06:43:16Z"
   },
   {
     "id": "awb_705e647d4f3ce5ecd140",
     "name": "SRo1 Rádio Slovensko",
     "country": "SK",
     "subdivision": null,
-    "languages": [
-      "sk"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "public radio",
-      "rtvs",
-      "talk"
-    ],
-    "homepage": "https://slovensko.rtvs.sk/",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://slovensko.rtvs.sk/player",
     "favicon": null,
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:13:09Z"
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_d3765dd65b3503fd2c93",
@@ -2551,32 +2305,6 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:12:44Z"
-  },
-  {
-    "id": "awb_0755c9af00a1f0920e0e",
-    "name": "SRo4 Rádio FM",
-    "country": "SK",
-    "subdivision": null,
-    "languages": [
-      "sk"
-    ],
-    "categories": [
-      "pop",
-      "public"
-    ],
-    "tags": [
-      "alternative",
-      "indie",
-      "pop",
-      "public radio",
-      "rtvs",
-      "youth"
-    ],
-    "homepage": "http://fm.rtvs.sk/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:23:20Z"
   },
   {
     "id": "awb_d01052250a609d1ba337",
@@ -2789,28 +2517,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_fb6ca06b89ed64639285",
-    "name": "TRNAVSKÉ RÁDIO",
-    "country": "SK",
-    "subdivision": "Trnava",
-    "languages": [
-      "sk"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "oldies",
-      "pop"
-    ],
-    "homepage": "https://trnavske.radio/",
-    "favicon": "https://i.imgur.com/10yFTbI.png",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:16:49Z"
   },
   {
     "id": "awb_5b7a966bd79abf4bb692",

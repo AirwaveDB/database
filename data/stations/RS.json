@@ -163,22 +163,6 @@
     "updatedAt": "2026-01-15T05:45:24Z"
   },
   {
-    "id": "awb_1aeb92a02bb685071688",
-    "name": "Banker Radio",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiobanker.rs/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-03T10:02:08Z"
-  },
-  {
     "id": "awb_a154cee0cb433c56e806",
     "name": "BB Radio Sombor",
     "country": "RS",
@@ -214,30 +198,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
-    "id": "awb_a48a5718013a7f580354",
-    "name": "Blok Radio",
-    "country": "RS",
-    "subdivision": "Beograd",
-    "languages": [
-      "sr"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "protest",
-      "student radio",
-      "talk"
-    ],
-    "homepage": "https://blokradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-14T13:58:43Z"
   },
   {
     "id": "awb_56c226f148b798ee97ba",
@@ -327,7 +287,7 @@
     "homepage": "http://www.coolradio.rs/",
     "favicon": "https://coolradio.rs/images/logo/logo_500x500.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-03-23T14:58:38Z"
   },
   {
@@ -428,7 +388,7 @@
     "homepage": "https://www.densomaniak.com/",
     "favicon": "https://www.densomaniak.com/wp-content/uploads/2020/02/logo.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -477,22 +437,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_79175b51d59ecd128170",
-    "name": "Dženarika",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.dzenarika.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:11:16Z"
   },
   {
     "id": "awb_95d76096786d9d661ebc",
@@ -674,24 +618,6 @@
     "updatedAt": "2026-03-23T13:27:12Z"
   },
   {
-    "id": "awb_83ffa5d5858defb854a7",
-    "name": "Hit FM Radio Beograd",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [],
-    "tags": [
-      "serbian music"
-    ],
-    "homepage": "http://hitfm.rs/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:56:58Z"
-  },
-  {
     "id": "awb_5ec59a8d65a520137dda",
     "name": "Hit Radio Istok",
     "country": "RS",
@@ -795,14 +721,14 @@
     "id": "awb_f17938d025600ca1237d",
     "name": "Jack folk radio",
     "country": "RS",
-    "subdivision": "Srbija",
+    "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://jackfolkradio.weebly.com/",
-    "favicon": "https://freeimage.host/i/1000012958.qKi06DN",
+    "homepage": "https://jackfolkradio.weebly.com/",
+    "favicon": "https://postimg.cc/ZWfX1gGP",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-05-24T15:08:52Z"
   },
   {
@@ -881,8 +807,8 @@
     "homepage": "https://zeno.fm/radio/kiss-club-fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-02-08T18:02:28Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:35:18Z"
   },
   {
     "id": "awb_b647f0dd5ee376144f80",
@@ -913,19 +839,16 @@
       "sr"
     ],
     "categories": [
-      "folk",
-      "pop"
+      "folk"
     ],
     "tags": [
-      "folk",
-      "folk music",
-      "pop"
+      "folk music"
     ],
     "homepage": "https://zeno.fm/radio/kiss-fm-balkan/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-02-08T18:04:57Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:17:31Z"
   },
   {
     "id": "awb_66d16fc4a6348a63b687",
@@ -1072,27 +995,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-01T06:32:08Z"
-  },
-  {
-    "id": "awb_7f55cefc64a6cce7ed59",
-    "name": "Lotel Radio",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [
-      "folk",
-      "pop"
-    ],
-    "tags": [
-      "pop - folk"
-    ],
-    "homepage": "https://lotel.rs/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:50:53Z"
   },
   {
     "id": "awb_cd34194dd01eaea1c632",
@@ -1268,16 +1170,12 @@
     "country": "RS",
     "subdivision": "Serbia",
     "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "psychedelic trance"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://mugadavanje.rs/",
     "favicon": "https://mugadavanje.rs/wp-content/uploads/2022/08/flamingtext__28276465349303853.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1363,31 +1261,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_6cddabd7d94f6ba3da8f",
-    "name": "Naxi",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "naxi",
-      "pop",
-      "rock",
-      "serbian music",
-      "zabavna"
-    ],
-    "homepage": "https://www.naxi.rs/",
-    "favicon": "https://www.naxi.rs/files/img/logos/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-23T13:43:32Z"
-  },
-  {
     "id": "awb_f61438e5b14987bcc3ff",
     "name": "Naxi - hype",
     "country": "RS",
@@ -1450,7 +1323,7 @@
     "homepage": "https://www.naxi.rs/80e",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1513,14 +1386,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [
-      "chansons",
-      "mediterranean"
-    ],
+    "tags": [],
     "homepage": "https://www.naxi.rs/adore",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1897,7 +1767,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1949,7 +1819,7 @@
     "homepage": "https://www.naxi.rs/latino",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2032,20 +1902,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_71f7b819c1f4e209f562",
-    "name": "Naxi MIX",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.naxi.rs/mix",
-    "favicon": "https://www.naxi.rs/media/a088b1-mix.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_b9d3af0150b937dd972d",
@@ -2218,7 +2074,7 @@
     "homepage": "https://www.naxi.rs/rock",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2520,7 +2376,7 @@
     "homepage": "http://www.pinkradio.rs/",
     "favicon": "http://www.pinkradio.rs/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2653,7 +2509,7 @@
     "homepage": "https://www.playradio.rs/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2853,13 +2709,12 @@
     "categories": [],
     "tags": [
       "disco & funk",
-      "disco funk",
       "radio 021"
     ],
     "homepage": "https://radio021.rs/station/disco-funk/",
-    "favicon": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2912,26 +2767,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_5337bb19f66208ab2054",
-    "name": "Radio 31 Plus",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "narodna - folk"
-    ],
-    "homepage": "http://radio31.rs/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:36:04Z"
   },
   {
     "id": "awb_51c0ff8c998bbbe534d2",
@@ -3104,7 +2939,7 @@
     "homepage": "https://radioas.fm/",
     "favicon": "https://radioas.fm/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3208,36 +3043,6 @@
     "updatedAt": "2026-01-15T02:15:14Z"
   },
   {
-    "id": "awb_66c088b26eceede5dd08",
-    "name": "Radio Beograd",
-    "country": "RS",
-    "subdivision": "Belgrade",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_f7ceb01010c456eb8d96",
-    "name": "Radio Beograd 1",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rts.rs/page/radio/sr/live.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:20:39Z"
-  },
-  {
     "id": "awb_e4f5ebbdecf41713ce1f",
     "name": "Radio Beograd 2 link 2",
     "country": "RS",
@@ -3252,22 +3057,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_3ecc1859541ac8dfc0ee",
-    "name": "Radio Beograd 202",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rts.rs/page/radio/sr/live.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:03:15Z"
   },
   {
     "id": "awb_9f09cb9550ebb70a9c56",
@@ -3833,9 +3622,9 @@
       "narodna"
     ],
     "homepage": "http://radiolevac.rs/",
-    "favicon": "http://radiolevac.rs/wp-content/uploads/2019/04/logo150radiolevac.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T06:37:46Z"
   },
   {
@@ -3856,15 +3645,12 @@
     "id": "awb_fb8ea01f0158ce1e5af8",
     "name": "Radio Lola",
     "country": "RS",
-    "subdivision": "Belgrade",
+    "subdivision": null,
     "languages": [
       "sr"
     ],
-    "categories": [
-      "folk"
-    ],
+    "categories": [],
     "tags": [
-      "folk",
       "izvorna",
       "narodna",
       "народне"
@@ -3872,7 +3658,7 @@
     "homepage": "https://radiolola.rs/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-18T16:43:45Z"
   },
   {
@@ -3890,7 +3676,7 @@
     "homepage": "http://radiolola.rs/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4069,28 +3855,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:48:01Z"
-  },
-  {
-    "id": "awb_b569a411fa223595e058",
-    "name": "Radio Naxi 80-e",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop-rock - 80s - dance"
-    ],
-    "homepage": "https://www.naxi.rs/80e",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:09:32Z"
   },
   {
     "id": "awb_49385307919f484dedf0",
@@ -4545,7 +4309,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5256,16 +5020,12 @@
     "languages": [
       "sr"
     ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop - zabavna"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.radios.rs/",
-    "favicon": "https://www.radios.rs/images/radios/favicon/apple-icon-120x120.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5295,7 +5055,7 @@
     "homepage": "http://www.radios3.rs/",
     "favicon": "https://www.radios.rs/media/footerlogo/s3.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-03-21T19:22:27Z"
   },
   {
@@ -5856,21 +5616,14 @@
     "name": "Radio Tavor",
     "country": "RS",
     "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "orthodox christian",
-      "orthodox church"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://eparhijabacka.info/",
     "favicon": "https://eparhijabacka.info/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T04:32:05Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_4f50c940f65f2a2f215b",
@@ -6070,26 +5823,6 @@
     "updatedAt": "2026-01-15T00:18:06Z"
   },
   {
-    "id": "awb_dd908c427efe4d0f0f05",
-    "name": "Retro Plus FM 90s",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "90s"
-    ],
-    "homepage": "https://zeno.fm/radio/retro-plus-fm-90s/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:11:01Z"
-  },
-  {
     "id": "awb_84306118c299bb04365d",
     "name": "rock beograd",
     "country": "RS",
@@ -6123,7 +5856,7 @@
     "homepage": "https://rockradio.rs/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6173,7 +5906,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6278,20 +6011,18 @@
   },
   {
     "id": "awb_b4406ea6220ea2de1431",
-    "name": "skc",
+    "name": "SKC",
     "country": "RS",
     "subdivision": null,
     "languages": [
       "sr"
     ],
     "categories": [],
-    "tags": [
-      "serbia"
-    ],
+    "tags": [],
     "homepage": "https://skc.fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:45:25Z"
   },
   {
@@ -6524,34 +6255,18 @@
   },
   {
     "id": "awb_b9726e4997518e336838",
-    "name": "UnderGRAND Radio",
+    "name": "UnderGRAND RADIO",
     "country": "RS",
     "subdivision": "Vojvodina",
     "languages": [
       "sr"
     ],
-    "categories": [
-      "blues",
-      "jazz",
-      "metal",
-      "punk",
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "blues",
-      "funk",
-      "hard rock",
-      "jazz",
-      "metal",
-      "post rock",
-      "punk",
-      "underground"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://undergrandradio.dotkomsite.com/",
     "favicon": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T04:13:13Z"
   },
   {
@@ -6804,23 +6519,6 @@
     "updatedAt": "2026-09-06T19:03:20Z"
   },
   {
-    "id": "awb_b15e38b275327043e300",
-    "name": "Пумпај Радио (Pumpaj Radio)",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [
-      "hr",
-      "sr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://pumpaj.info/",
-    "favicon": "https://scontent.cdninstagram.com/v/t51.82787-19/572357021_17896779789343948_1552834154076738982_n.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-06T01:40:19Z"
-  },
-  {
     "id": "awb_a5878b4125a99c676989",
     "name": "Радио Београд - 1",
     "country": "RS",
@@ -6842,33 +6540,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:41:29Z"
-  },
-  {
-    "id": "awb_246077b32b980166f98d",
-    "name": "РТС - Радио Београд - 1",
-    "country": "RS",
-    "subdivision": "Belgrade",
-    "languages": [
-      "sr"
-    ],
-    "categories": [
-      "news",
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "art",
-      "culture",
-      "music",
-      "news",
-      "sport",
-      "talk"
-    ],
-    "homepage": "https://rtsplaneta.rs/",
-    "favicon": "https://rtsplaneta.rs/favicon.ico",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:22:03Z"
   },
   {
     "id": "awb_962ecb1ade00aef6564b",

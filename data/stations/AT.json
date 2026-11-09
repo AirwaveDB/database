@@ -1,21 +1,5 @@
 [
   {
-    "id": "awb_19663c72c5a4d3d4c86c",
-    "name": "1 Radio One",
-    "country": "AT",
-    "subdivision": "Wien",
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://stream.radiotechnikum.at/RADIOONE",
-    "favicon": "https://www.radio-one.at/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-22T20:19:32Z"
-  },
-  {
     "id": "awb_34bf0d3bb71cb4f3c63b",
     "name": "1000 ELECTRONIC DANCE MUSIC",
     "country": "AT",
@@ -174,28 +158,6 @@
     "updatedAt": "2026-01-15T06:33:47Z"
   },
   {
-    "id": "awb_b79b11620059d549fcaf",
-    "name": "88.6 On Air",
-    "country": "AT",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "metal",
-      "rock"
-    ],
-    "tags": [
-      "metal",
-      "rock"
-    ],
-    "homepage": "https://www.radio886.at/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:13:28Z"
-  },
-  {
     "id": "awb_afc8b5cf4b66f572112e",
     "name": "88.6 Rot-Weiß-Rock",
     "country": "AT",
@@ -242,9 +204,9 @@
       "pop"
     ],
     "homepage": "https://antenneoesterreich.oe24.at/",
-    "favicon": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -282,27 +244,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:14:13Z"
-  },
-  {
-    "id": "awb_ff2fa1c29cbc135edd41",
-    "name": "Antenne Kärnten 80er Pop",
-    "country": "AT",
-    "subdivision": "Kärnten",
-    "languages": [],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "80's",
-      "80er",
-      "80s",
-      "80s radio"
-    ],
-    "homepage": "https://www.antenne.at/radioplayer/kaernten/80erpop",
-    "favicon": "https://assets.radioplayer.org/040/04051/600/600/lopvbsjz.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-09T22:43:05Z"
   },
   {
     "id": "awb_ee94b02d072cd712f198",
@@ -356,9 +297,9 @@
       "rock"
     ],
     "homepage": "https://antenneoesterreich.oe24.at/",
-    "favicon": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -611,9 +552,9 @@
       "pop"
     ],
     "homepage": "https://www.antennevorarlberg.at/",
-    "favicon": "https://www.antennevorarlberg.at/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -644,13 +585,12 @@
       "rock"
     ],
     "tags": [
-      "classic",
       "rock"
     ],
     "homepage": "https://www.antennevorarlberg.at/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-12T16:32:18Z"
   },
   {
@@ -1215,10 +1155,10 @@
       "rock"
     ],
     "homepage": "http://www.austrianrockradio.at/",
-    "favicon": "https://austrianrockradio.at/wp-content/uploads/2023/02/liferadio-150x150.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T07:15:37Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:47:04Z"
   },
   {
     "id": "awb_61f7c83aa3bc31b044f8",
@@ -1325,22 +1265,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:45:08Z"
-  },
-  {
-    "id": "awb_4c827fdcc711c191b2a5",
-    "name": "Campus & City Radio St. Pölten",
-    "country": "AT",
-    "subdivision": "Lower Austria",
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.cr944.at/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:09:01Z"
   },
   {
     "id": "awb_a29b850cf71a021f3f6f",
@@ -1518,8 +1442,8 @@
     "homepage": "http://strm112.1.fm/acpl_mobile_mp3",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-14T22:54:10Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_7783c4607752348699e6",
@@ -1990,8 +1914,8 @@
     "homepage": "https://radio.gamesboro.org/public/gamesboro_radio",
     "favicon": "https://radio.gamesboro.org/static/uploads/browser_icon/original.1693066595.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-11-06T08:39:30Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-06T06:59:24Z"
   },
   {
     "id": "awb_c256c742a52b19145c6a",
@@ -2004,7 +1928,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2162,27 +2086,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_af4904c023665c5ddf10",
-    "name": "Kronehit",
-    "country": "AT",
-    "subdivision": "Austria",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "rock pop dance"
-    ],
-    "homepage": "https://www.kronehit.at/",
-    "favicon": "https://i.imgur.com/Z3rkNFc.png",
-    "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-01-15T02:18:30Z"
   },
   {
     "id": "awb_8f3f1867f9d230ce34ab",
@@ -2541,20 +2444,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_eeb32a3d3c916adeb045",
-    "name": "Lounge FM Digital",
-    "country": "AT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.lounge.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-21T09:47:36Z"
-  },
-  {
     "id": "awb_1f2c90c5e1751bc929bf",
     "name": "Lounge.FM - 100% Austria",
     "country": "AT",
@@ -2640,20 +2529,13 @@
     "country": "AT",
     "subdivision": "Vienna",
     "languages": [],
-    "categories": [
-      "metal"
-    ],
-    "tags": [
-      "128 kbps",
-      "heavy metal",
-      "metal",
-      "mp3"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://metal-radio.at/",
     "favicon": "https://metal-radio.at/assets/logo-D4TNgK9S.svg",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-10-21T13:25:33Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_78a171f01460250fd1a4",
@@ -2722,24 +2604,8 @@
     "homepage": "https://www.plattenkiste.net/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T07:54:52Z"
-  },
-  {
-    "id": "awb_6929f2cf51b023dae1a2",
-    "name": "museumsradio",
-    "country": "AT",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://museum.streamserver24.com:8080/stream",
-    "favicon": null,
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:07:10Z"
+    "updatedAt": "2026-01-15T07:38:17Z"
   },
   {
     "id": "awb_262c625a0b5c74e46f58",
@@ -2748,13 +2614,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [
-      "international"
-    ],
+    "tags": [],
     "homepage": "https://plattenkiste.radio/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2934,40 +2798,6 @@
     "updatedAt": "2026-11-06T11:03:47Z"
   },
   {
-    "id": "awb_33645d75ac21754e2f87",
-    "name": "oe1 dd",
-    "country": "AT",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://oe1.orf.at/",
-    "favicon": "https://oe1.orf.at/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:15:00Z"
-  },
-  {
-    "id": "awb_1177025acacf22d04878",
-    "name": "oe1 surround",
-    "country": "AT",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [
-      "classique"
-    ],
-    "homepage": "https://oe1.orf.at/artikel/583273/Oesterreich-1-neu-hoeren",
-    "favicon": "https://oe1.orf.at/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:45:24Z"
-  },
-  {
     "id": "awb_1163d1dc742e61379cd6",
     "name": "Oldie Party",
     "country": "AT",
@@ -2990,9 +2820,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://o94.at/de",
-    "favicon": "https://o94.at/themes/custom/radio_orange/logo1.png",
+    "favicon": "https://o94.at/sites/default/files/styles/large/public/inline-images/photo_2021-09-30_18-38-50.jpg?itok=Mwgd9Rr9",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-06-06T15:24:07Z"
   },
   {
@@ -3006,9 +2836,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://o94.at/",
-    "favicon": "https://o94.at/themes/custom/radio_orange/images/icons/apple/apple-touch-icon-120x120.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3042,13 +2872,12 @@
     ],
     "tags": [
       "orf",
-      "pop",
-      "pop music"
+      "pop"
     ],
     "homepage": "http://oe3.orf.at/",
     "favicon": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-11-06T08:50:23Z"
   },
   {
@@ -3417,22 +3246,6 @@
     "updatedAt": "2026-09-24T13:47:51Z"
   },
   {
-    "id": "awb_ff27729ddbaa35eb6260",
-    "name": "ORF Radio Vorarlberg",
-    "country": "AT",
-    "subdivision": "Vorarlberg",
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://vorarlberg.orf.at/player",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:03:28Z"
-  },
-  {
     "id": "awb_e417186ae653f6f7235f",
     "name": "ORF Radio Wien",
     "country": "AT",
@@ -3503,28 +3316,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-06T08:12:20Z"
-  },
-  {
-    "id": "awb_8aeb16ac14ac26d76437",
-    "name": "ORF Slovenski spored",
-    "country": "AT",
-    "subdivision": "Kärnten",
-    "languages": [
-      "de",
-      "en",
-      "sl"
-    ],
-    "categories": [],
-    "tags": [
-      "ethnic programming",
-      "minority",
-      "orf"
-    ],
-    "homepage": "https://slovenci.orf.at/",
-    "favicon": "https://orf.at/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-06T14:38:15Z"
   },
   {
     "id": "awb_983cd13dc1eaa02a10da",
@@ -3601,20 +3392,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_a34a304dcc21154328e0",
-    "name": "PENNY live",
-    "country": "AT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://maxfive.com/",
-    "favicon": "https://maxfive.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_69b844a9edcd36b08fec",
@@ -3711,7 +3488,7 @@
     "homepage": null,
     "favicon": "https://lh3.googleusercontent.com/p/AF1QipO1nU_lDtIzU5-Sv6EZFzE7Wa-ttB38YYWP5f3A=s680-w680-h510",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3719,9 +3496,7 @@
     "name": "Popwelle. Das Musikradio,AutoDJ",
     "country": "AT",
     "subdivision": "St. Gallen",
-    "languages": [
-      "de"
-    ],
+    "languages": [],
     "categories": [
       "pop",
       "rock"
@@ -3735,7 +3510,7 @@
     "homepage": null,
     "favicon": "https://popwelle.at/pimages/popwelle_logo.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3947,24 +3722,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_d404df4f391dad8077e2",
-    "name": "Radio Bollerwagen",
-    "country": "AT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "apresski",
-      "ballermann",
-      "party"
-    ],
-    "homepage": "https://radiobollerwagen.at/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-02T16:57:08Z"
-  },
-  {
     "id": "awb_7c37c6d7b630fd1e69bd",
     "name": "Radio Braunau am Inn AT",
     "country": "AT",
@@ -4054,13 +3811,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [
-      "volksmusik"
-    ],
+    "tags": [],
     "homepage": "https://radioflamingo.at/",
-    "favicon": "https://radioflamingo.at/uploads/small_RF_Volksmusik_Vollfla_echig_Stream_Icon_4000x4000px_v1_3c3eaff79d.jpg",
+    "favicon": "https://radioflamingo.at/uploads/medium_RF_Volksmusik_Vollfla_echig_Stream_Icon_4000x4000px_v1_3c3eaff79d.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4515,18 +4270,16 @@
       "en"
     ],
     "categories": [
-      "ambient",
       "electronic"
     ],
     "tags": [
-      "chill",
       "electronica",
       "techno"
     ],
     "homepage": "https://www.radiorudina.com/",
-    "favicon": "https://images.squarespace-cdn.com/content/v1/5ea5bd3c1bd4b07f0727b9e8/85982ce5-159e-45a2-8580-f7f69121326a/favicon.ico",
+    "favicon": "https://www.radiorudina.com/s/appleicon3.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4743,9 +4496,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://www.radio-xmas.at/",
-    "favicon": "http://www.radio-xmas.at/assets/img/bg/graphic-1.png",
+    "favicon": "http://www.radio-xmas.at/assets/img/santa.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -4979,9 +4732,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.rockantenne.at/",
-    "favicon": "https://www.rockantenne.at/logos/rock-antenne-at/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5110,6 +4863,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:28:23Z"
+  },
+  {
+    "id": "awb_7d124778d68d35649fc4",
+    "name": "Servus Radio",
+    "country": "AT",
+    "subdivision": "Salzburg",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://servusradio.at/",
+    "favicon": "https://servusradio.at/wp-content/uploads/2024/01/cropped-Servus_Radio_Logo_APP-32x32.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T09:45:12Z"
   },
   {
     "id": "awb_2cdb0d25c155acba0606",
@@ -5519,17 +5288,13 @@
     ],
     "tags": [
       "arabesk",
-      "arabesk fantazi",
       "pop",
-      "pop music",
-      "pop-music",
-      "slow",
-      "slow radio"
+      "pop-music"
     ],
     "homepage": "https://www.viyanafm.at/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5738,19 +5503,5 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_a59a52c0c0bc75adf64c",
-    "name": "Yves Joseph",
-    "country": "AT",
-    "subdivision": "Pennsylvania (Philadelphia)",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiotelesentinel.com/",
-    "favicon": "https://tunein.com/radio/RADIO-PELERIN-FM-s260708/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-02T02:24:10Z"
   }
 ]

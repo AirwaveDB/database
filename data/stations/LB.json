@@ -71,9 +71,9 @@
       "oldies"
     ],
     "homepage": "https://3jradio.com/",
-    "favicon": "https://i.ibb.co/7xsv5XHJ/pic-180-172.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -187,9 +187,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://lbiradio.com/albal/",
-    "favicon": "https://i.ibb.co/HT3zGP3/cover.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -597,20 +597,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-21T07:54:58Z"
-  },
-  {
-    "id": "awb_b355922ce648e7db8fe9",
-    "name": "Delta 101.7",
-    "country": "LB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiodelta.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_b3ae1ecf2b69242dbbb1",
@@ -1161,13 +1147,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [
-      "montcarlo"
-    ],
+    "tags": [],
     "homepage": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1724,22 +1708,6 @@
     "updatedAt": "2026-10-21T08:02:23Z"
   },
   {
-    "id": "awb_715d7ee4756fc9dfac5e",
-    "name": "sancta maria radio",
-    "country": "LB",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://streaming.radio.co/sa7e0251a2/listen",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:27:11Z"
-  },
-  {
     "id": "awb_2752c2332f4d198220db",
     "name": "Santa Maria radio",
     "country": "LB",
@@ -1904,22 +1872,6 @@
     "updatedAt": "2026-10-21T08:10:48Z"
   },
   {
-    "id": "awb_0df995cb6a3a261d81ef",
-    "name": "SBI Lebanon",
-    "country": "LB",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://wew.sbilebsnon.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:24:52Z"
-  },
-  {
     "id": "awb_349e11531c9457cbfaed",
     "name": "Star LB FM Arabic Remix",
     "country": "LB",
@@ -2049,9 +2001,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://cassini.shoutca.st:9496/xstream",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241105_072003770.jpg?alt=media&token=fced3441-43c9-482d-a705-b51befd8b4ca",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T05:17:35Z"
   },
   {
@@ -2064,13 +2016,12 @@
       "classical"
     ],
     "tags": [
-      "classical",
-      "misc"
+      "classical"
     ],
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {

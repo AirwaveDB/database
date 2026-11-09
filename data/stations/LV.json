@@ -1,23 +1,5 @@
 [
   {
-    "id": "awb_2f32ec200aa6df51f06b",
-    "name": "Alise Plus",
-    "country": "LV",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [
-      "casual"
-    ],
-    "homepage": "http://aliseplus.lv/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:16:53Z"
-  },
-  {
     "id": "awb_01f396173d670578e01a",
     "name": "AlisePlus",
     "country": "LV",
@@ -155,9 +137,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.ehr.fm/sakums",
-    "favicon": "https://www.ehr.fm/build/favicons/favicon.png",
+    "favicon": "https://www.ehr.fm/content/channels/8d581e2b-c441-4fc8-aac7-2ef8a629bef8.png?w=205&h=205&fm=webp&s=e03fb1aeb3af2b1b4fac2c53c93c5d2c",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
   },
   {
@@ -664,27 +646,6 @@
     "updatedAt": "2026-10-15T22:58:05Z"
   },
   {
-    "id": "awb_58e0ad4fe3b3f28c1418",
-    "name": "European Hit Radio - Fresh",
-    "country": "LV",
-    "subdivision": null,
-    "languages": [
-      "lv"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "ehr",
-      "top 40"
-    ],
-    "homepage": "http://www.ehrhiti.lv/",
-    "favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:05:50Z"
-  },
-  {
     "id": "awb_92b96caef52c550dfabd",
     "name": "European Hit Radio - KOOL hits",
     "country": "LV",
@@ -908,28 +869,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-15T23:05:00Z"
-  },
-  {
-    "id": "awb_75c0129acda0553ba4dd",
-    "name": "European Hit Radio - Top 40",
-    "country": "LV",
-    "subdivision": null,
-    "languages": [
-      "lv"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "ehr",
-      "pop",
-      "top 40"
-    ],
-    "homepage": "https://www.ehrhiti.lv/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:12:02Z"
   },
   {
     "id": "awb_4d8ea7298a80cec98f24",
@@ -1203,13 +1142,12 @@
       "religious"
     ],
     "tags": [
-      "christian",
       "religious"
     ],
     "homepage": "https://lkr.lv/",
     "favicon": "https://lkr.lv/icon-128x128.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1589,7 +1527,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2119,7 +2057,7 @@
     "homepage": "http://www.radioswh.lv/",
     "favicon": "http://www.radioswh.lv/favicon.ico",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T03:43:13Z"
   },
   {
@@ -2434,7 +2372,7 @@
     "homepage": "https://live.relaxfm.lv/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2570,7 +2508,7 @@
     "homepage": "https://stream.radioskonto.lv:8443/stereo",
     "favicon": "https://stream.radioskonto.lv:8443/stereo",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2606,7 +2544,7 @@
     "homepage": "https://stream.radioskontoplus.lv:8443/st128",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -2709,29 +2647,15 @@
     "id": "awb_7ff8c5a598bba77161f1",
     "name": "SWH",
     "country": "LV",
-    "subdivision": "Riga",
+    "subdivision": "Rīga",
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://80.232.162.149:8000/swh96mp3",
-    "favicon": "http://80.232.162.149:8000/swh96mp3",
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_89fbc651fb51be673795",
-    "name": "SWH Plus",
-    "country": "LV",
-    "subdivision": "Riga",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://80.232.162.149:8000/plus96mp3",
-    "favicon": "http://80.232.162.149:8000/plus96mp3",
+    "homepage": null,
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_34f0509062a8096b2f9d",
@@ -2744,8 +2668,8 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_61031d4d556f498fbe93",
@@ -2839,13 +2763,12 @@
     ],
     "tags": [
       "pop",
-      "pop music",
       "pop-music"
     ],
     "homepage": "https://topradio.lv/",
     "favicon": "https://topradio.lv/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {

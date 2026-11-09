@@ -81,7 +81,7 @@
     "homepage": "https://www.4fun.tv/",
     "favicon": "https://brandingmonitor.pl/wp-content/uploads/2014/02/nowe-logo-4fun-tv-telewizji.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T05:39:41Z"
   },
   {
@@ -145,24 +145,8 @@
     "homepage": "https://radioluz.pl/",
     "favicon": "https://radioluz.pl/wp-content/themes/radio-luz/assets/icons/AppIcon_1024x1024.png?v=1",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_ee15f3f6740c53929314",
-    "name": "Akademickie Radio Luz 91.6",
-    "country": "PL",
-    "subdivision": "dolnośląskie",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioluz.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:24:51Z"
   },
   {
     "id": "awb_f5469f71df76bf6d8b49",
@@ -223,14 +207,13 @@
       "rock"
     ],
     "tags": [
-      "classic rock",
       "metal",
       "rock"
     ],
     "homepage": "http://www.antyradio.pl/",
     "favicon": "https://gfx.antyradio.pl/design/antyradio/src/images/favicon/favicon_180x180.png",
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 4,
     "updatedAt": "2026-08-24"
   },
   {
@@ -287,13 +270,12 @@
       "rock"
     ],
     "tags": [
-      "classic rock",
       "classic-rock"
     ],
     "homepage": "https://player.antyradio.pl/Kanaly-muzyczne/Antyradio-Classic-Rock",
-    "favicon": "https://gfx-player.antyradio.pl/design/player_antyradio/images/favicon/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -330,15 +312,13 @@
       "rock"
     ],
     "tags": [
-      "greatest hits",
       "greatest-hits",
-      "no ads",
       "rock"
     ],
     "homepage": "https://player.antyradio.pl/Kanaly-muzyczne/Antyradio-Greatest",
-    "favicon": "https://gfx-player.antyradio.pl/design/player_antyradio/images/favicon/favicon-32x32.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -359,7 +339,7 @@
     "homepage": "https://player.antyradio.pl/Kanaly-muzyczne/Antyradio-Hard",
     "favicon": "https://gfx-player.radiozet.pl/var/player/storage/images/player-antyradio/kanaly-muzyczne/antyradio-hard/710016-10-pol-PL/Antyradio-Hard_size-228x228.jpg",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -414,10 +394,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://player.antyradio.pl/Kanaly-muzyczne/Antyradio-Unplugged",
-    "favicon": "https://gfx-player.antyradio.pl/design/player_antyradio/images/favicon/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T05:01:43Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:56:19Z"
   },
   {
     "id": "awb_fe9aa986b72ae63b0782",
@@ -473,22 +453,8 @@
     "homepage": "https://awirofm.pl/",
     "favicon": "https://cdn.awiro.xyz/AwiroBrowser.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-07-23T14:52:23Z"
-  },
-  {
-    "id": "awb_484735cf093b6cea2c3b",
-    "name": "Bayer FM",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://bayerfm.eu/",
-    "favicon": "https://bayerfm.eu/webplayer/logo3.png",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
+    "updatedAt": "2026-07-23T14:52:23Z"
   },
   {
     "id": "awb_4988f558f389fd169d41",
@@ -503,22 +469,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_afe59994fd0873b8948c",
-    "name": "Bayerm FM",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://bayerfm.eu/",
-    "favicon": "https://bayerfm.eu/webplayer/logo3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:52:11Z"
   },
   {
     "id": "awb_e064be602d41b70c256c",
@@ -686,7 +636,7 @@
     "homepage": "http://stream.radiobest.eu:8000/192",
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-11-06T13:38:38Z"
   },
   {
@@ -732,24 +682,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-06T09:06:26Z"
-  },
-  {
-    "id": "awb_536fb95e6d637330abf0",
-    "name": "BEZPIECZNA PODRÓŻ",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "info music"
-    ],
-    "homepage": "https://bezpiecznapodroz.org/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:41:04Z"
   },
   {
     "id": "awb_7461af3c7d18ae68c257",
@@ -825,24 +757,6 @@
     "updatedAt": "2026-01-15T01:05:28Z"
   },
   {
-    "id": "awb_b4ef8bc20e1f534f70a9",
-    "name": "Bonton Chełm",
-    "country": "PL",
-    "subdivision": "Chełm",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "regional radio"
-    ],
-    "homepage": "https://www.radiobonton.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:17:31Z"
-  },
-  {
     "id": "awb_e77c9250ba0cd2eafb01",
     "name": "Bonton Chełm 2",
     "country": "PL",
@@ -887,7 +801,7 @@
     "homepage": "https://www.chillizet.pl/",
     "favicon": "https://gfx.chillizet.pl/extension/chillizet/design/standard/images/favicon/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1115,8 +1029,8 @@
     "homepage": "http://www.cyberstacja.pl/",
     "favicon": "https://cyberstacja.pl/images/historia/logo_sluchawki.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-11-02T01:20:10Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-01T02:40:01Z"
   },
   {
     "id": "awb_02c971fd71a7b8aaeddb",
@@ -1237,24 +1151,8 @@
     "homepage": "https://discoparty.pl/",
     "favicon": "https://discoparty.pl/wp-content/uploads/2020/06/logo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_de082997a75b2b78e0f3",
-    "name": "DISCOPARTY.PL - Kanał Club",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://discoparty.pl/",
-    "favicon": "https://discoparty.pl/wp-content/uploads/2023/01/cropped-logotyp-180x180.png",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:44:43Z"
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_8281a813402790fd94e7",
@@ -1287,20 +1185,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_2cfd6d0c2b6439f81406",
-    "name": "Doxa.fm",
-    "country": "PL",
-    "subdivision": "Opole",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://doxa.fm/",
-    "favicon": "https://doxa.fm/wp-content/themes/understrap/img/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-01T15:10:14Z"
-  },
-  {
     "id": "awb_ee4f8a2a67f27990e349",
     "name": "Dubstep24h",
     "country": "PL",
@@ -1313,24 +1197,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-17T06:38:43Z"
-  },
-  {
-    "id": "awb_beb02cc0f87927c94468",
-    "name": "Dwójka",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_220fda69d8fc5f51ddbc",
@@ -1379,20 +1245,16 @@
     "id": "awb_8f969eb04f3ce63ad6ab",
     "name": "EL-Stacja",
     "country": "PL",
-    "subdivision": "Poland",
+    "subdivision": null,
     "languages": [
       "pl"
     ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electronic music"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "http://el-stacja.pl/wp/",
     "favicon": "https://el-stacja.pl/logo.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T06:33:47Z"
   },
   {
@@ -1608,44 +1470,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-24T11:04:08Z"
-  },
-  {
-    "id": "awb_2e333dbd5450f68a09fa",
-    "name": "ESKA 2 KONIN",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://dwa.eska.pl/rozrywka/radio-eska-2-online-gdzie-sluchac-radia-w-internecie-czestotliwosc-aa-tj7N-ebxA-NdWK.html",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240111_125518184.jpg?alt=media&token=b27ab716-a727-4bea-ad7a-31db9f6bb74c",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:45:25Z"
-  },
-  {
-    "id": "awb_8be7ad140fd9633badcf",
-    "name": "ESKA 2 RZESZÓW",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://eska2.pl/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240111_233153036.jpg?alt=media&token=7e392b04-2497-4cab-9183-cf6ec5ab5b93",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:23:59Z"
   },
   {
     "id": "awb_5127e563fb9e2d6fb1a8",
@@ -1891,7 +1715,7 @@
     "homepage": "https://www.eska.pl/poznan/",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_150439740.jpg?alt=media&token=879bb2b7-8416-4957-b2dd-4bcdc67e6898",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:20:33Z"
   },
   {
@@ -1915,9 +1739,9 @@
       "rock"
     ],
     "homepage": "https://www.eskarock.pl/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/2LqeyZhdFq.png",
+    "favicon": "https://cdn.radios.smcloud.net/t/radios/ESKA_ROCK500_rp-ew5e-TH25-89A9_500x500.jpg",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 4,
     "updatedAt": "2026-10-23T21:54:25Z"
   },
   {
@@ -2038,40 +1862,17 @@
     "id": "awb_ac1771d76e6c541b6115",
     "name": "Folk Radio",
     "country": "PL",
-    "subdivision": "Świętokrzyskie",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk music",
-      "world music"
-    ],
-    "homepage": "https://folkradio.pl/",
-    "favicon": "https://folkradio.pl/images/logo.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-02-28T12:33:41Z"
-  },
-  {
-    "id": "awb_317c8f2b968df1874d27",
-    "name": "FSSPX Radio",
-    "country": "PL",
-    "subdivision": "Warszawa",
+    "subdivision": null,
     "languages": [
       "pl"
     ],
     "categories": [],
-    "tags": [
-      "catolic tradition"
-    ],
-    "homepage": "https://radio.fsspx.pl/",
+    "tags": [],
+    "homepage": "https://folkradio.pl/",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:22:03Z"
+    "updatedAt": "2026-02-28T12:33:41Z"
   },
   {
     "id": "awb_569441291a6108da5e9e",
@@ -2245,22 +2046,6 @@
     "updatedAt": "2026-10-26T05:26:49Z"
   },
   {
-    "id": "awb_aabe4a7828b09fd9efae",
-    "name": "Hit Radio",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.hitradio.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:24:32Z"
-  },
-  {
     "id": "awb_ff7abdb5f9e71d41ef2b",
     "name": "Hit radio",
     "country": "PL",
@@ -2311,56 +2096,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_111e6a09dffeef2e0714",
-    "name": "HitRadio 107.6 Wloclawek",
-    "country": "PL",
-    "subdivision": "Kujawsko-Pomorskie",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radiohit.net.pl/",
-    "favicon": "https://www.radiohit.net.pl/wp-content/uploads/2018/05/cropped-logo-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_32737291725ec15824b2",
-    "name": "Hitradio Polska",
-    "country": "PL",
-    "subdivision": "Warsaw",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "eurodisco & italo disco new generation italo disco spacesynt"
-    ],
-    "homepage": "https://www.hitradio.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:27:20Z"
-  },
-  {
-    "id": "awb_9bbdc98cea788191a2b2",
-    "name": "Hitradio.pl",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_fbe93dc47c5346810fd6",
     "name": "HOID RADIO",
     "country": "PL",
@@ -2396,17 +2131,13 @@
       "electronic"
     ],
     "tags": [
-      "deep house",
       "electronic",
-      "funky house",
-      "house",
-      "minimal",
-      "tech house"
+      "house"
     ],
     "homepage": "https://houseoffunk.eu/",
     "favicon": "https://houseoffunk.eu/favicon.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2494,28 +2225,8 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-23T22:43:27Z"
-  },
-  {
-    "id": "awb_526d5c8df9c9282a534a",
-    "name": "Ivan Honcharov",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "instrumental",
-      "rock",
-      "surf rock"
-    ],
-    "homepage": "https://reverbriff.com/",
-    "favicon": "https://reverbriff.com/web-app-manifest-192x192.png",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-07-19T19:53:52Z"
+    "updatedAt": "2026-08-23T22:43:27Z"
   },
   {
     "id": "awb_fd8cc2cb96ac26ae3cd4",
@@ -2571,7 +2282,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -2606,13 +2317,12 @@
     ],
     "tags": [
       "ambient",
-      "comunity",
       "techno"
     ],
     "homepage": "https://radiokapital.pl/",
-    "favicon": "https://radiokapital.pl/static/favicons/ms-icon-150x150.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2654,26 +2364,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:59:11Z"
-  },
-  {
-    "id": "awb_3615921b8c906d03484d",
-    "name": "Katolickie Radio Rzeszow - VIA",
-    "country": "PL",
-    "subdivision": "Rzeszow",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "http://www.radiovia.com.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:51:15Z"
   },
   {
     "id": "awb_06eb3e90dd8ef2f3c014",
@@ -2857,24 +2547,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_da6076f1e288e4bc8d26",
-    "name": "Latino polska",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "latin"
-    ],
-    "tags": [
-      "latino"
-    ],
-    "homepage": "https://open.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-12T22:42:34Z"
-  },
-  {
     "id": "awb_4b68112f835c43578f29",
     "name": "Leliwa",
     "country": "PL",
@@ -2918,20 +2590,6 @@
     "updatedAt": "2026-01-15T04:42:03Z"
   },
   {
-    "id": "awb_48204738ec15f2142406",
-    "name": "Life 4 Club",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://life4club.pl/",
-    "favicon": "https://life4club.online/static/uploads/live/album_art.1734215277.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_ec056f5514c80239f3be",
     "name": "LIFE4CLUB",
     "country": "PL",
@@ -2967,7 +2625,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -3050,22 +2708,6 @@
     "updatedAt": "2026-01-15T02:40:05Z"
   },
   {
-    "id": "awb_94b1c84e36361260b532",
-    "name": "MC Radio",
-    "country": "PL",
-    "subdivision": "Poznan",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://mcradio.pl/",
-    "favicon": "https://cdn-profiles.tunein.com/s103210/images/logoq.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:32:41Z"
-  },
-  {
     "id": "awb_aac712942e2e8a67f4e8",
     "name": "MC RADIO",
     "country": "PL",
@@ -3097,15 +2739,14 @@
     ],
     "tags": [
       "2000s",
-      "90's",
       "90s",
       "dance",
       "pop"
     ],
     "homepage": "https://www.radiomega.pl/",
-    "favicon": "https://www.radiomega.pl/wp-content/uploads/2024/09/Radio-MEGA-LOGO.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3175,18 +2816,16 @@
     "name": "MELORADIO HOT DANCE",
     "country": "PL",
     "subdivision": "Warsaw",
-    "languages": [
-      "pl"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [
       "dance"
     ],
     "homepage": "https://meloradio.pl/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241223_184842765.jpg?alt=media&token=a62dd69a-bc4c-4e96-bbb8-d551e4bdfef7",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T01:24:48Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_f60bfb290605ef59f8a2",
@@ -3285,20 +2924,13 @@
     "country": "PL",
     "subdivision": "Zachodniopomorskie",
     "languages": [],
-    "categories": [
-      "metal"
-    ],
-    "tags": [
-      "heavy metal",
-      "melodic power metal",
-      "power metal",
-      "thrash"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.facebook.com/livemetalradio/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_bb66da7030302307efb6",
@@ -3322,10 +2954,10 @@
       "techno"
     ],
     "homepage": "http://minimalmix.com/",
-    "favicon": "https://minimalmix.com/wp-content/uploads/2022/04/favicon.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-02-26T13:22:45Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T08:36:02Z"
   },
   {
     "id": "awb_2332dc222ea571fdc990",
@@ -3379,20 +3011,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:39:23Z"
-  },
-  {
-    "id": "awb_3581f55ce1783f4328a8",
-    "name": "modules.pl",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.modules.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_52c70154921fb4246e53",
@@ -3503,20 +3121,6 @@
     "updatedAt": "2026-08-23T13:48:28Z"
   },
   {
-    "id": "awb_d54ed5f08f6ef2103e1e",
-    "name": "MS RADIO 90's POLSKA",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://audio.msradio.pl/public/msradio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-23T11:30:44Z"
-  },
-  {
     "id": "awb_fd07f34275dbf34cf156",
     "name": "Ms Radio 90's Selected Polska",
     "country": "PL",
@@ -3549,22 +3153,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-23T14:07:56Z"
-  },
-  {
-    "id": "awb_f2921499c07e9cdd7adb",
-    "name": "msRADIO 90s OK",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://audio.msradio.pl/public/msradio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-23T13:46:30Z"
   },
   {
     "id": "awb_5206fbf7d0a281407557",
@@ -3781,22 +3369,6 @@
     "updatedAt": "2026-01-15T06:20:33Z"
   },
   {
-    "id": "awb_8ba5bf1cbcfcda82698c",
-    "name": "Off Radio Krakow",
-    "country": "PL",
-    "subdivision": "Krakow",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://off.radiokrakow.pl/",
-    "favicon": "http://off.radiokrakow.pl/img/icons/apple-touch-icon-152x152.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:21:23Z"
-  },
-  {
     "id": "awb_cd909bca95a11d90639c",
     "name": "Offradio Kraków",
     "country": "PL",
@@ -3922,22 +3494,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:31:15Z"
-  },
-  {
-    "id": "awb_7ddefb469aa2c677996c",
-    "name": "Paranormalium [OPUS_8kbps]",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.paranormalium.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:11:33Z"
   },
   {
     "id": "awb_42a3ff98dfe2548746e5",
@@ -4133,26 +3689,6 @@
     "updatedAt": "2026-01-14T23:16:26Z"
   },
   {
-    "id": "awb_2acd35b4d6790b1bef3a",
-    "name": "Polmax 3",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "dance",
-      "disco",
-      "discopolo"
-    ],
-    "homepage": "https://polmaxfm.github.io/polmax3.html",
-    "favicon": "https://polmaxfm.github.io/images/djpies3.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:25:41Z"
-  },
-  {
     "id": "awb_abb4676675e279c318df",
     "name": "Polmax 3",
     "country": "PL",
@@ -4246,20 +3782,6 @@
     "updatedAt": "2026-09-02T12:14:42Z"
   },
   {
-    "id": "awb_77f5ac3456732508db0f",
-    "name": "Polski FM",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://polski.fm/",
-    "favicon": "https://polski.fm/wp-content/uploads/2018/06/polski-fm-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_a3bd687d7d95c0ddb384",
     "name": "Polskie Radio - Chopin (Radio Chopin) (AAC+)",
     "country": "PL",
@@ -4315,29 +3837,6 @@
     "updatedAt": "2026-01-15T01:42:04Z"
   },
   {
-    "id": "awb_50cd7037c28e4a7e2f84",
-    "name": "Polskie Radio 24",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "information",
-      "news",
-      "talk"
-    ],
-    "homepage": "https://polskieradio24.pl/",
-    "favicon": "https://yt3.ggpht.com/a/AATXAJyFlzKJAEMeWhP6xmsC3EHQ9MkIldwATEmAQA=s900-c-k-c0xffffffff-no-rj-mo",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:56:33Z"
-  },
-  {
     "id": "awb_a5d47f2c682ef63a51c1",
     "name": "Polskie Radio 24",
     "country": "PL",
@@ -4360,86 +3859,20 @@
     "updatedAt": "2026-01-15T05:36:39Z"
   },
   {
-    "id": "awb_695f4cd7df3c76561dda",
-    "name": "Polskie Radio 24 (NEW STREAM)",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "news",
-      "public"
-    ],
-    "tags": [
-      "information",
-      "news",
-      "polskie radio",
-      "public radio"
-    ],
-    "homepage": "https://polskieradio24.pl/",
-    "favicon": "https://yt3.ggpht.com/a/AATXAJyFlzKJAEMeWhP6xmsC3EHQ9MkIldwATEmAQA=s900-c-k-c0xffffffff-no-rj-mo",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:29:04Z"
-  },
-  {
     "id": "awb_24e6de60294a42fca7a1",
     "name": "Polskie Radio Bialystok",
     "country": "PL",
-    "subdivision": "Bialystok",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "polskieradio",
-      "public radio"
-    ],
-    "homepage": "http://www.radio.bialystok.pl/",
-    "favicon": "http://www.radio.bialystok.pl/favicon.ico",
-    "type": "public",
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T04:42:03Z"
-  },
-  {
-    "id": "awb_856e9d9c7ca662d8a54f",
-    "name": "Polskie Radio Białystok",
-    "country": "PL",
-    "subdivision": "Podlasie",
+    "subdivision": null,
     "languages": [
       "pl"
     ],
     "categories": [],
     "tags": [],
     "homepage": "http://www.radio.bialystok.pl/",
-    "favicon": null,
+    "favicon": "https://www.radio.bialystok.pl/image/icon/logo_PRB_70.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:37:59Z"
-  },
-  {
-    "id": "awb_f6154074a2c7e425e37f",
-    "name": "Polskie Radio Czwórka",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "polish",
-      "public radio"
-    ],
-    "homepage": null,
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/7/79/Czw%C3%B3rka_Polskie_Radio.jpg",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-03-19T07:13:38Z"
+    "updatedAt": "2026-01-15T03:03:48Z"
   },
   {
     "id": "awb_461c7e36c087e4c326c0",
@@ -4505,41 +3938,6 @@
     "updatedAt": "2026-01-15T02:17:08Z"
   },
   {
-    "id": "awb_68f69d5ee90f1299a746",
-    "name": "Polskie Radio Gdańsk",
-    "country": "PL",
-    "subdivision": "Gdansk",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://stream.task.gda.pl:8000/rg1",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_65f2cd4b96445494f07a",
-    "name": "Polskie Radio Jedynka",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "polskieradio",
-      "public radio"
-    ],
-    "homepage": "http://www.polskieradio.pl/jedynka/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:22:41Z"
-  },
-  {
     "id": "awb_7e00be09fe2e6b173406",
     "name": "Polskie Radio Jedynka AAC",
     "country": "PL",
@@ -4596,7 +3994,7 @@
     "homepage": "https://radiokierowcow.pl/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:27:51Z"
   },
   {
@@ -4630,27 +4028,6 @@
     "updatedAt": "2026-01-15T04:58:11Z"
   },
   {
-    "id": "awb_f8d3c910622340692abc",
-    "name": "Polskie Radio Program 1",
-    "country": "PL",
-    "subdivision": "Warszawa",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "polskieradio",
-      "public radio"
-    ],
-    "homepage": "http://www.polskieradio.pl/jedynka/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:30:45Z"
-  },
-  {
     "id": "awb_508ee2a3cfd3cfaac774",
     "name": "Polskie Radio Program 2",
     "country": "PL",
@@ -4672,57 +4049,6 @@
     "updatedAt": "2026-01-14T23:56:14Z"
   },
   {
-    "id": "awb_d94a2a7abe2849bd5732",
-    "name": "Polskie Radio Program 3",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.polskieradio.pl/9,Trojka",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:03:36Z"
-  },
-  {
-    "id": "awb_3bcd11c1c203fe310fe3",
-    "name": "Polskie Radio RDC - Radio Dla Ciebie",
-    "country": "PL",
-    "subdivision": "Warszawa",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "polskieradio",
-      "public radio"
-    ],
-    "homepage": "http://www.rdc.pl/",
-    "favicon": "http://www.rdc.pl/favicon.ico",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:24:51Z"
-  },
-  {
-    "id": "awb_3b121aa5d75a4f9a1f9f",
-    "name": "Polskie Radio Szczecin 92FM",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://radioszczecin.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_53de1849cd101e269411",
     "name": "Polskie Radio Trójka",
     "country": "PL",
@@ -4735,45 +4061,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-07T08:15:55Z"
-  },
-  {
-    "id": "awb_69fb56a4b5b873916be7",
-    "name": "Polskie Radio Trojka AAC",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "polskieradio"
-    ],
-    "homepage": "https://www.polskieradio.pl/9,Trojka",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_0b1accfcb755680412ba",
-    "name": "Polskie Radio: Dwójka (2)",
-    "country": "PL",
-    "subdivision": "Warszawa",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "classical",
-      "talk"
-    ],
-    "tags": [
-      "classical",
-      "polish",
-      "talk & speech"
-    ],
-    "homepage": "https://www.polskieradio.pl/8,dwojka",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T20:58:15Z"
   },
   {
     "id": "awb_625b43f11dcc6367c391",
@@ -4791,7 +4078,7 @@
     "homepage": "https://radiokierowcow.pl/",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240209_120619614.jpg?alt=media&token=edc29b4f-8648-43ec-aee1-4df7bcd33bc6",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T07:52:11Z"
   },
   {
@@ -4822,28 +4109,13 @@
     ],
     "categories": [],
     "tags": [
-      "muzic info",
       "public"
     ],
     "homepage": "https://trojka.polskieradio.pl/?RadioPoland",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250314_080616667.jpg?alt=media&token=4738543a-4391-4727-9d9d-89741871db70",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:17:33Z"
-  },
-  {
-    "id": "awb_00b2e465ac7cf83eacc8",
-    "name": "PR24",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.polskieradio.pl/",
-    "favicon": null,
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
+    "updatedAt": "2026-01-14T23:48:52Z"
   },
   {
     "id": "awb_2342a75a0f89cd7d4794",
@@ -4909,20 +4181,6 @@
     "updatedAt": "2026-01-15T01:18:42Z"
   },
   {
-    "id": "awb_31a728d9d5880360b44c",
-    "name": "Przystań",
-    "country": "PL",
-    "subdivision": "Mazowsze",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-28T21:03:36Z"
-  },
-  {
     "id": "awb_83ffeb03dffa57934f90",
     "name": "Przystan",
     "country": "PL",
@@ -4949,20 +4207,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_ec887e9f9563f7509f3a",
-    "name": "Punkowe Radio Underground",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radiounderground.org/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_7db9222ef5e8225a17ff",
@@ -4993,24 +4237,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_2cac1beb4d13b60eb07a",
-    "name": "radio",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "musical"
-    ],
-    "homepage": "http://teoriachaosu.info/",
-    "favicon": "http://teoriachaosu.info/wp-content/plugins/under-construction-page/themes/images/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:20:40Z"
   },
   {
     "id": "awb_9866d2d179df5c0b240f",
@@ -5049,9 +4275,9 @@
       "oldies"
     ],
     "homepage": "https://onlineradiobox.com/pl/radio100/",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/5/122745.v6.png",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/5/122745.v9.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-11-07T18:52:04Z"
   },
   {
@@ -5139,19 +4365,17 @@
     "id": "awb_ebbcf9b579aee5d0ce97",
     "name": "Radio 7",
     "country": "PL",
-    "subdivision": "Mlawa",
+    "subdivision": null,
     "languages": [
       "pl"
     ],
     "categories": [],
-    "tags": [
-      "dance"
-    ],
+    "tags": [],
     "homepage": "https://radio7.pl/",
     "favicon": "https://radio7.pl/wp-content/uploads/2018/12/logo_radio_7_200.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T06:56:27Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:34:16Z"
   },
   {
     "id": "awb_298699eaba6fdaefcee6",
@@ -6027,13 +5251,12 @@
     ],
     "categories": [],
     "tags": [
-      "dance",
-      "disco polo"
+      "dance"
     ],
     "homepage": "https://discoparty.pl/",
-    "favicon": "https://discoparty.pl/wp-content/uploads/2023/01/logotyp.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6123,24 +5346,6 @@
     "updatedAt": "2026-01-15T05:19:36Z"
   },
   {
-    "id": "awb_a787b057a632828af6dc",
-    "name": "Radio Dwójka (MP3)",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "polskieradio"
-    ],
-    "homepage": "http://www.polskieradio.pl/8,Dwojka",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:11:29Z"
-  },
-  {
     "id": "awb_60d8b6edca6fb7840dbf",
     "name": "Radio Dzwiek",
     "country": "PL",
@@ -6173,7 +5378,7 @@
     "homepage": "https://radiodzwiek.slask.pl/",
     "favicon": null,
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 5,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6184,21 +5389,13 @@
     "languages": [
       "pl"
     ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "misc",
-      "other",
-      "rock",
-      "various"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radiodzwiek.slask.pl/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-19T23:12:40Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-19T23:10:04Z"
   },
   {
     "id": "awb_b1f04eee2fe76c24f0ce",
@@ -6221,20 +5418,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:12:24Z"
-  },
-  {
-    "id": "awb_b8f0ecabf0106f04aadd",
-    "name": "Radio Elbląg",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://polskieradioelblag.pl/",
-    "favicon": "https://polskieradioelblag.pl/posluchaj/img/nowy/re.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_c53738eda6db1b5bbfc9",
@@ -6440,6 +5623,22 @@
     "updatedAt": "2026-01-15T06:04:09Z"
   },
   {
+    "id": "awb_a68851d52ae80363703c",
+    "name": "Radio Eska - Wrocław",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://eska.pl/",
+    "favicon": "https://www.eska.pl/media/eska/desktop/images/logo-ESKA2023.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:22:18Z"
+  },
+  {
     "id": "awb_56f0e8c8226dec569aa6",
     "name": "Radio Eska 2 Kultowe Polskie",
     "country": "PL",
@@ -6624,7 +5823,7 @@
     "homepage": "https://warszawa.eska.pl/",
     "favicon": "https://cdn.music.smcloud.net/t/logo/2f7b5979-4b66-4586-aefb-ca31e4b8580d_eska_1500x1500_500x500.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-29T07:38:13Z"
   },
   {
@@ -6646,44 +5845,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-01-15T06:43:16Z"
-  },
-  {
-    "id": "awb_da707f98b1b75a1d27c0",
-    "name": "Radio Eska Warszawa (64kbps + metadata)",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "128 kbps",
-      "pop",
-      "top 40"
-    ],
-    "homepage": "https://warszawa.eska.pl/",
-    "favicon": "https://cdn.music.smcloud.net/t/logo/2f7b5979-4b66-4586-aefb-ca31e4b8580d_eska_1500x1500_500x500.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-29T08:26:51Z"
-  },
-  {
-    "id": "awb_a68851d52ae80363703c",
-    "name": "Radio Eska Wrocław",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.eska.pl/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Eska_1049_2.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:22:18Z"
   },
   {
     "id": "awb_331002da24e36e6cdbce",
@@ -6790,7 +5951,7 @@
     "homepage": "http://famka.pl/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
@@ -6826,22 +5987,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:49:40Z"
-  },
-  {
-    "id": "awb_2bd8a8fd379e23a13b6d",
-    "name": "Radio Fest 100.2 FM",
-    "country": "PL",
-    "subdivision": "dolnośląskie",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radiofest.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:26:48Z"
   },
   {
     "id": "awb_a4b6c5a08bb0b7bf793d",
@@ -6960,7 +6105,7 @@
     "homepage": "https://radiofreee.pl/",
     "favicon": "https://radiofreee.pl/wp-content/uploads/2023/10/cropped-logo-freee-ico-180x180.png",
     "type": "public",
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6976,7 +6121,7 @@
     "homepage": "http://radioftb.net/",
     "favicon": "https://radioftb.net/wp-content/uploads/2020/11/appstore.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T03:27:42Z"
   },
   {
@@ -7073,27 +6218,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:09:18Z"
-  },
-  {
-    "id": "awb_ec902c98ed4dbfcd946a",
-    "name": "Radio Głos Pelplin",
-    "country": "PL",
-    "subdivision": "Pelplin",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian",
-      "religion"
-    ],
-    "homepage": "https://radioglos.pl/",
-    "favicon": "https://radioglos.pl/images/portal/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:42:25Z"
   },
   {
     "id": "awb_82b8210999f47893ef21",
@@ -7376,20 +6500,6 @@
     "updatedAt": "2026-09-16T11:50:26Z"
   },
   {
-    "id": "awb_762cd8b9c491404ba258",
-    "name": "Radio Italo4you",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radioitalo4you.net/",
-    "favicon": "https://www.radioitalo4you.net/images/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_2f31102213839c6794c1",
     "name": "Radio Italo4you 256kbps",
     "country": "PL",
@@ -7434,26 +6544,22 @@
     "homepage": "https://radio.jard.pl/",
     "favicon": "https://radio.jard.pl/wp-content/uploads/2019/09/cropped-favicon-1-180x180.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T05:31:15Z"
   },
   {
     "id": "awb_660682d40bc8b3d704d1",
     "name": "Radio Jasna Gora",
     "country": "PL",
-    "subdivision": "Czestochowa",
-    "languages": [
-      "pl"
-    ],
+    "subdivision": null,
+    "languages": [],
     "categories": [],
-    "tags": [
-      "religion"
-    ],
-    "homepage": "http://www.radiojasnagora.pl/",
+    "tags": [],
+    "homepage": "https://www.radiojasnagora.pl/",
     "favicon": "https://www.radiojasnagora.pl/images/logo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T23:59:15Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_312e1340fa4e317621ed",
@@ -7544,7 +6650,7 @@
     "id": "awb_6bf30a3a58c450f52c5c",
     "name": "Radio Kampus 97,1 FM",
     "country": "PL",
-    "subdivision": "Warsaw",
+    "subdivision": null,
     "languages": [
       "pl"
     ],
@@ -7560,10 +6666,10 @@
       "indie rock",
       "rock"
     ],
-    "homepage": "http://radiokampus.fm/",
-    "favicon": "http://radiokampus.fm/logo192.png",
+    "homepage": "https://radiokampus.fm/",
+    "favicon": "https://radiokampus.fm/assets/1338/banner_kampus.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-06-15T18:01:13Z"
   },
   {
@@ -7642,33 +6748,15 @@
     "id": "awb_e371e795435f4ce1df7c",
     "name": "Radio Kielce",
     "country": "PL",
-    "subdivision": "Świętokrzyskie",
+    "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://radiokielce.pl/",
-    "favicon": "https://radiokielce.pl/wp-content/uploads/2021/12/logo150.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-07-27T12:25:51Z"
-  },
-  {
-    "id": "awb_244693608eb64d0c02f9",
-    "name": "RADIO KIEROWCÓW",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "info music"
-    ],
-    "homepage": "https://radiokierowcow.pl/",
-    "favicon": null,
+    "favicon": "https://radiokielce.pl/wp-content/uploads/2022/04/cropped-rk-192x192.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:01:29Z"
+    "updatedAt": "2026-07-27T12:25:51Z"
   },
   {
     "id": "awb_0597257f19da6c9df7df",
@@ -7722,20 +6810,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-03T10:08:09Z"
-  },
-  {
-    "id": "awb_a8acc15da8dd17be8477",
-    "name": "Radio Kolor 103 FM",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiokolor.pl/",
-    "favicon": "https://radiokolor.pl/wp-content/uploads/2026/05/cropped-favicon-3-300x300.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-27T12:08:59Z"
   },
   {
     "id": "awb_09f9c60764dcfd5f3ed4",
@@ -7853,8 +6927,8 @@
     "homepage": "https://leliwa.pl/",
     "favicon": "https://leliwa.pl/wp-content/uploads/2024/07/Leliwa_logo-1-e1712909417435.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-02-28T17:25:19Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_1b9225ecb05fe6041247",
@@ -7990,23 +7064,20 @@
     ],
     "categories": [
       "news",
-      "pop",
-      "talk"
+      "pop"
     ],
     "tags": [
-      "adult contemporary",
       "adult-contemporary",
       "classic hits",
       "hits",
       "music",
       "news",
-      "pop",
-      "talk"
+      "pop"
     ],
     "homepage": "https://radio.lublin.pl/",
-    "favicon": "https://radio.lublin.pl/wp-content/uploads/2019/05/cropped-logo512t-180x180.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8119,8 +7190,8 @@
     "homepage": "https://radiomango.ai/",
     "favicon": "https://radiomango.ai/radio_mango_ai_logo_short.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T18:30:37Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-12T15:56:44Z"
   },
   {
     "id": "awb_b81f4167afea5fc5fa9d",
@@ -8700,29 +7771,14 @@
     "languages": [
       "pl"
     ],
-    "categories": [
-      "news"
-    ],
+    "categories": [],
     "tags": [
-      "adult contemporary",
-      "cultural news",
-      "jerzy sosnowski",
-      "journalism",
-      "ksenia maćczak",
-      "music",
-      "news",
-      "pl",
-      "polska",
-      "rzeczpospolita",
-      "rzeczpospolita polska",
-      "society",
-      "soft adult contemporary",
-      "wojciech mann"
+      "adult contemporary"
     ],
     "homepage": "https://nowyswiat.online/",
     "favicon": "https://dl.memuplay.com/new_market/img/com.thehouseofcode.radio_nowy_swiat.icon.2021-03-20-18-25-39.png",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 2,
     "updatedAt": "2026-11-05T19:43:23Z"
   },
   {
@@ -8750,7 +7806,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8764,14 +7820,12 @@
     ],
     "tags": [
       "music",
-      "news",
-      "pion",
-      "poziom"
+      "news"
     ],
     "homepage": "https://nowyswiat.online/",
     "favicon": "https://nowyswiat.online/assets/favicons/android-icon-192x192.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8841,36 +7895,6 @@
     "updatedAt": "2026-01-14T23:55:29Z"
   },
   {
-    "id": "awb_b0c655fea72ef6000f8d",
-    "name": "Radio OIOM",
-    "country": "PL",
-    "subdivision": "łódzkie",
-    "languages": [],
-    "categories": [
-      "blues",
-      "jazz",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "blues",
-      "blues rock",
-      "classic rock",
-      "indie rock",
-      "jazz",
-      "polish rock",
-      "pop music",
-      "pop rock",
-      "rhythm & blues",
-      "soft rock"
-    ],
-    "homepage": "https://radio-oiom.eu/",
-    "favicon": "https://radio-oiom.eu/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-24T06:37:50Z"
-  },
-  {
     "id": "awb_e80c1cc8afc5c2b2cc8d",
     "name": "Radio OIOM - radio przyjazne ludziom",
     "country": "PL",
@@ -8885,22 +7909,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-02T22:52:28Z"
-  },
-  {
-    "id": "awb_cdd282d5a4fae10462c9",
-    "name": "Radio Olsztyn",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radioolsztyn.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:53:54Z"
   },
   {
     "id": "awb_8e86754cdf603181816c",
@@ -9542,7 +8550,7 @@
     "homepage": "http://www.radiopik.bydgoszcz.pl/",
     "favicon": "http://www.radiopik.bydgoszcz.pl/assets/favicon/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T03:48:14Z"
   },
   {
@@ -9724,14 +8732,14 @@
     "id": "awb_fe6e6a875d5c6943676a",
     "name": "Radio Plus Warszawa",
     "country": "PL",
-    "subdivision": "Warszawa",
+    "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://www.radioplus.pl/",
     "favicon": "https://www.radioplus.pl/favicon.ico",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -9752,20 +8760,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_d93ca26b8261bcd3b8b2",
-    "name": "Radio Pogoda",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiopogoda.pl/",
-    "favicon": "https://gfx.radiopogoda.pl/extension/radiopogoda/design/standard/images/favicon/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_acfa68bb4e322c421482",
@@ -9917,7 +8911,7 @@
     "id": "awb_d825109d9499bf1988cf",
     "name": "Radio Prestige",
     "country": "PL",
-    "subdivision": "Opolskie",
+    "subdivision": "opolskie",
     "languages": [
       "pl"
     ],
@@ -9925,14 +8919,13 @@
       "pop"
     ],
     "tags": [
-      "electropop",
       "pop music"
     ],
     "homepage": "https://radioprestige.panelradiowy.pl/radio",
     "favicon": "https://storage/emulated/0/DCIM/Snapseed/1000042519-01.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T05:29:20Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:45:39Z"
   },
   {
     "id": "awb_06e1c3825571709cdaee",
@@ -10004,34 +8997,6 @@
     "updatedAt": "2026-01-15T04:13:13Z"
   },
   {
-    "id": "awb_5413c76a0437e74d100e",
-    "name": "Radio Radom",
-    "country": "PL",
-    "subdivision": "mazowieckie",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "jazz",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "adult contemporary / mix hits",
-      "hits",
-      "jazz",
-      "poland",
-      "pop",
-      "radom",
-      "rock"
-    ],
-    "homepage": "https://radioradom.pl/",
-    "favicon": "https://radioradom.pl/radiodns/logo_600.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-20T16:41:58Z"
-  },
-  {
     "id": "awb_5e10f23e7c2fecc54d18",
     "name": "Radio RAM",
     "country": "PL",
@@ -10046,11 +9011,8 @@
       "pop"
     ],
     "tags": [
-      "alternative",
       "indie pop",
-      "jazz",
       "latino",
-      "local radio",
       "lounge",
       "r'n'b funk",
       "smooth jazz",
@@ -10060,7 +9022,7 @@
     "homepage": "http://www.radioram.pl/",
     "favicon": "http://www.radioram.pl/img/layout/logo.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10246,20 +9208,6 @@
     "updatedAt": "2026-09-14T14:22:39Z"
   },
   {
-    "id": "awb_73816528267558e3fe32",
-    "name": "Radio RMF",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rmfon.pl/play,32#p",
-    "favicon": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_8058e383fa275c79468e",
     "name": "Radio RMF - 2000",
     "country": "PL",
@@ -10324,20 +9272,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_d3a2334b5687117e27ad",
-    "name": "Radio Rmf Fm",
-    "country": "PL",
-    "subdivision": "Krakow",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rmfon.pl/play,5#p",
-    "favicon": "https://i.discogs.com/DnA_zyepthmbKMSlb7t0fb6af4AKVpGzY54bk1VVvaE/rs:fit/g:sm/q:90/h:250/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxNjgz/OS0xNDA2MTI5OTky/LTM4MzcuanBlZw.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_98c913864343b5089960",
@@ -10409,13 +9343,11 @@
     "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [
-      "misc"
-    ],
+    "tags": [],
     "homepage": null,
-    "favicon": "https://cdn.onlineradiobox.com/img/l/4/1294.v9.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10470,17 +9402,15 @@
     "id": "awb_f6e8cc5f4280d316cfab",
     "name": "Radio Rodzina",
     "country": "PL",
-    "subdivision": "Wroclaw",
-    "languages": [
-      "pl"
-    ],
+    "subdivision": null,
+    "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.radiorodzina.pl/",
+    "homepage": "https://www.radiorodzina.pl/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T01:11:29Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_7fd45ae491eac38a44c6",
@@ -10551,16 +9481,16 @@
     "id": "awb_3f836d7ec234f5c42b1c",
     "name": "Radio Rzeszów",
     "country": "PL",
-    "subdivision": "Podkarpacie",
+    "subdivision": null,
     "languages": [
       "pl"
     ],
     "categories": [],
     "tags": [],
     "homepage": "https://radio.rzeszow.pl/",
-    "favicon": "https://radio.rzeszow.pl/wp-content/uploads/2022/12/cropped-favicon-1-180x180.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-02-28T18:01:37Z"
   },
   {
@@ -10739,24 +9669,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_4fb1a69f3e21def92d2d",
-    "name": "Radio Silesia FM",
-    "country": "PL",
-    "subdivision": "Gorny Slask",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "regionalna muzyka"
-    ],
-    "homepage": "https://silesia.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:38:48Z"
-  },
-  {
     "id": "awb_8a5c05c35c5da95dbd8d",
     "name": "Radio Slask",
     "country": "PL",
@@ -10828,48 +9740,17 @@
     "id": "awb_0fbd24ef0b043df1d3b2",
     "name": "Radio Śpioch",
     "country": "PL",
-    "subdivision": "Warszawa",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "electronic",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "dance",
-      "edm",
-      "house",
-      "impreza",
-      "polska",
-      "polski rock",
-      "polskie radio",
-      "pop",
-      "rock",
-      "trance"
-    ],
-    "homepage": "https://radiospioch.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:32:25Z"
-  },
-  {
-    "id": "awb_d2eb5079953557671d22",
-    "name": "Radio Spioch",
-    "country": "PL",
     "subdivision": null,
     "languages": [
       "pl"
     ],
     "categories": [],
     "tags": [],
-    "homepage": "http://spioch.cba.pl/",
+    "homepage": "https://radiospioch.pl/",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:24:15Z"
+    "updatedAt": "2026-01-15T06:32:25Z"
   },
   {
     "id": "awb_5729487fab7133b5c2e4",
@@ -11000,28 +9881,6 @@
     "updatedAt": "2026-01-14T23:29:03Z"
   },
   {
-    "id": "awb_2c41b4a5f5c648eb2806",
-    "name": "Radio Strefa FM",
-    "country": "PL",
-    "subdivision": "Piotrków Tryb.",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news",
-      "local radio",
-      "mp3"
-    ],
-    "homepage": "https://strefa.fm/",
-    "favicon": "https://www.strefa.fm/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:44:03Z"
-  },
-  {
     "id": "awb_20a46fb83b462afdd34d",
     "name": "Radio Strefa Muzy",
     "country": "PL",
@@ -11032,21 +9891,17 @@
     "categories": [
       "country",
       "pop",
-      "rock",
-      "talk"
+      "rock"
     ],
     "tags": [
       "country",
-      "culture",
       "pop",
-      "rock",
-      "science",
-      "talk"
+      "rock"
     ],
     "homepage": "https://radiostrefamuzy.pl/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -11055,17 +9910,13 @@
     "country": "PL",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "disco polo italo disco techno"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://a7.asurahosting.com/public/radio_strefa_0_",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-28T07:34:53Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T07:28:16Z"
   },
   {
     "id": "awb_18b6668bfd6df4954fca",
@@ -11100,13 +9951,12 @@
       "pop"
     ],
     "tags": [
-      "misc",
       "pop"
     ],
     "homepage": "http://www.radiosud.pl/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T00:21:39Z"
   },
   {
@@ -11335,6 +10185,24 @@
     "updatedAt": "2026-01-15T00:51:12Z"
   },
   {
+    "id": "awb_ab59e857383991140f9a",
+    "name": "Radio TOKfm",
+    "country": "PL",
+    "subdivision": "Warszawa",
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.tokfm.pl/Tokfm/0,0.html",
+    "favicon": "https://prowly-prod.s3.eu-west-1.amazonaws.com/uploads/4587/assets/736974/-13583d6975b91fa0550c1c24bcd79123.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T07:35:43Z"
+  },
+  {
     "id": "awb_1945bc94d27385ef7823",
     "name": "RADIO TON PL",
     "country": "PL",
@@ -11349,22 +10217,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:38:47Z"
-  },
-  {
-    "id": "awb_2548c7767e6149fa7927",
-    "name": "Radio TOP80",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "decades"
-    ],
-    "homepage": null,
-    "favicon": "https://cdn.onlineradiobox.com/img/l/3/1893.v4.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_feff1f892e632fb1fd94",
@@ -11403,20 +10255,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_2feeabe9d7f6952c90bb",
-    "name": "radio trojka",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://stream3.polskieradio.pl:8954/;.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-31T16:43:37Z"
   },
   {
     "id": "awb_9a30c73bc008a9259b67",
@@ -11678,56 +10516,37 @@
     "country": "PL",
     "subdivision": null,
     "languages": [
-      "en",
       "pl"
     ],
-    "categories": [
-      "pop"
-    ],
+    "categories": [],
     "tags": [
-      "hits",
-      "muzic info",
-      "pop",
-      "top40"
+      "muzic info"
     ],
     "homepage": "https://radiowielkopolska.pl/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_173306308.jpg?alt=media&token=a87d4cff-689b-461f-b2ce-33169f60754e",
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240209_121514609.jpg?alt=media&token=fbdcbfd9-7087-49f8-acb0-bb579c914ab8",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:14:13Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T07:41:42Z"
   },
   {
     "id": "awb_bb269825797a79bf10c1",
     "name": "Radio wierzchlas",
     "country": "PL",
     "subdivision": "wierzchlas",
-    "languages": [
-      "pl"
-    ],
+    "languages": [],
     "categories": [
       "pop"
     ],
     "tags": [
       "chr",
       "dance",
-      "local radio",
-      "pop",
-      "pop dance",
-      "pop music",
-      "r&b/urban",
-      "radio",
-      "radio locale",
-      "regional radio",
-      "top 40",
-      "top hits",
-      "urban",
-      "webradio"
+      "top 40"
     ],
     "homepage": "https://radiowierzchlas.pl/",
     "favicon": "https://radiowierzchlas.pl/assets/img/favicon.svg",
-    "type": "internet",
-    "sourceCount": 2,
-    "updatedAt": "2026-11-05T09:45:06Z"
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-05T09:39:23Z"
   },
   {
     "id": "awb_5eb773a1592925d1a58e",
@@ -11744,20 +10563,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:10:11Z"
-  },
-  {
-    "id": "awb_656b2e9fb307c3127ef6",
-    "name": "Radio WNET",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://wnet.fm/",
-    "favicon": "https://sluchaj.wnet.fm/wnet.jpg?25519",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_a0fa2d7cb813343487ba",
@@ -11885,19 +10690,17 @@
   },
   {
     "id": "awb_ac7191038cfe284e6240",
-    "name": "Radio Zet",
+    "name": "Radio ZET",
     "country": "PL",
     "subdivision": null,
-    "languages": [
-      "pl"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://www.radiozet.pl/",
-    "favicon": "https://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicon/apple-touch-icon.png",
+    "favicon": "https://gfx-player.radiozet.pl/design/player_radiozet/images/favicon/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T02:27:53Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_e408baddcbf2ed8f73c7",
@@ -12080,29 +10883,6 @@
     "updatedAt": "2026-01-15T07:40:19Z"
   },
   {
-    "id": "awb_d99ae66b0c8070e2e6ea",
-    "name": "Radio Złote Przeboje",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "classic hits",
-      "classic rock",
-      "pop"
-    ],
-    "homepage": "https://radio.zloteprzeboje.pl/",
-    "favicon": "https://gfx.zloteprzeboje.pl/extension/radiozet-header-2/design/zloteprzeboje/images/logo.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-06T16:52:18Z"
-  },
-  {
     "id": "awb_6e18868d467f31c6d4b0",
     "name": "Radio Złote Przeboje - Bieszczady",
     "country": "PL",
@@ -12255,25 +11035,6 @@
     "updatedAt": "2026-01-15T07:11:47Z"
   },
   {
-    "id": "awb_3bc7c9b23f60ce8f3102",
-    "name": "Radio ZW",
-    "country": "PL",
-    "subdivision": "Lodz",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "disco",
-      "local radio"
-    ],
-    "homepage": "https://www.radiozw.com.pl/",
-    "favicon": "https://www.radiozw.com.pl/wp-content/uploads/2025/01/RZW-logo-www-darkmode_109.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-27T11:25:52Z"
-  },
-  {
     "id": "awb_8e28761ffebc9c594ed1",
     "name": "Radio-Stacja",
     "country": "PL",
@@ -12372,20 +11133,14 @@
       "electronic"
     ],
     "tags": [
-      "club",
       "dance",
       "disco",
-      "dj",
-      "muzyka klubowa",
-      "polskie radio",
-      "radio internetowe cmp3",
-      "radiocmp3",
       "techno"
     ],
     "homepage": "https://radiocmp3.eu/",
-    "favicon": "https://radiocmp3.eu/img/av-app.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -12413,43 +11168,34 @@
     "id": "awb_4b49e5c817ec766fe4aa",
     "name": "radiOFF",
     "country": "PL",
-    "subdivision": "Oderland",
+    "subdivision": "Lubuskie",
     "languages": [
       "de",
       "pl"
     ],
     "categories": [
-      "ambient",
-      "talk"
+      "ambient"
     ],
     "tags": [
-      "ambient",
-      "bilingual",
       "borderland",
       "culture",
       "documentary",
       "german",
       "germany",
       "history",
-      "independent",
       "local",
       "lounge chillout relax smoothjazz ambient",
-      "music",
-      "no ads",
-      "oder river",
       "poland",
       "polish",
       "regional",
-      "slow radio",
-      "spoken word",
       "storytelling",
       "viadrina"
     ],
-    "homepage": "https://radioff.com/",
+    "homepage": "http://radioff.com/",
     "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-10-13T19:07:23Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-08T18:16:01Z"
   },
   {
     "id": "awb_b08969ed0d1a376d1958",
@@ -12651,7 +11397,7 @@
     "homepage": "http://radioradio.fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T00:57:08Z"
   },
   {
@@ -12701,20 +11447,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:56:10Z"
-  },
-  {
-    "id": "awb_2b6757f4b5ec6c48e564",
-    "name": "RadioWoM",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radiowom.pl/",
-    "favicon": "https://status.gadu-gadu.pl/users/status.asp?id=34130094&styl=4&source=widget",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-29T06:27:50Z"
   },
   {
     "id": "awb_86c24fdd3d806d3329b8",
@@ -12840,24 +11572,16 @@
       "electronic"
     ],
     "tags": [
-      "club",
       "dance",
       "disco",
-      "dj",
-      "electro",
       "electronic",
-      "electronic dance music",
       "house",
-      "muzyka do pracy",
-      "muzyka klubowa",
-      "polskie radio",
-      "radio internetowe",
       "techno"
     ],
     "homepage": "https://red7.pl/",
-    "favicon": "https://red7.pl/img/clubdj-app.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -13541,31 +12265,6 @@
     "updatedAt": "2026-01-15T01:34:09Z"
   },
   {
-    "id": "awb_e1afd3d8773e8cc93fff",
-    "name": "RMF Chopin (64 kbps, playlista + FAKTY)",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "24/7",
-      "chopin",
-      "classical",
-      "classical piano",
-      "piano",
-      "playlist"
-    ],
-    "homepage": "http://www.rmfon.pl/play,85",
-    "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-30T09:30:48Z"
-  },
-  {
     "id": "awb_57da0bf3eb29440ef82d",
     "name": "RMF Chopin + FAKTY",
     "country": "PL",
@@ -13577,14 +12276,13 @@
       "classical"
     ],
     "tags": [
-      "chopin",
       "classical"
     ],
     "homepage": "http://www.rmfon.pl/play,85",
     "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-30T09:30:48Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:40:20Z"
   },
   {
     "id": "awb_b6811db8fde7ce49e536",
@@ -13706,7 +12404,7 @@
   },
   {
     "id": "awb_5b40904d07d97237a83d",
-    "name": "RMF DANCE FAKTY",
+    "name": "RMF Dance + FAKTY",
     "country": "PL",
     "subdivision": "Krakow",
     "languages": [
@@ -13716,11 +12414,11 @@
     "tags": [
       "dance"
     ],
-    "homepage": "https://rmfon.pl/",
-    "favicon": "https://rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+    "homepage": "http://www.rmfon.pl/play,3",
+    "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:02:57Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T07:48:52Z"
   },
   {
     "id": "awb_943d923125cbb334339a",
@@ -13825,15 +12523,12 @@
       "pop"
     ],
     "tags": [
-      "fm",
-      "pop",
-      "rmf",
-      "rmffm"
+      "pop"
     ],
-    "homepage": "https://www.rmf.fm/",
-    "favicon": "https://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
+    "homepage": "http://www.rmf.fm/",
+    "favicon": "http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T05:03:36Z"
   },
   {
@@ -13910,22 +12605,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_4a6678c64678fc32cc3d",
-    "name": "RMF Game Music",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "misc"
-    ],
-    "homepage": "https://www.rmfon.pl/play,156#p",
-    "favicon": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_80546fc03ae7ff892e14",
     "name": "RMF Gamemusic",
     "country": "PL",
@@ -13944,7 +12623,7 @@
     "homepage": "https://gamemusic.pl/",
     "favicon": "https://gamemusic.pl/wp-content/uploads/fbrfg/favicon.ico",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T05:35:49Z"
   },
   {
@@ -14155,7 +12834,7 @@
     "id": "awb_ccafb97eb92dab888427",
     "name": "RMF MAXX",
     "country": "PL",
-    "subdivision": "Małopolskie",
+    "subdivision": "Malopolskie",
     "languages": [
       "pl"
     ],
@@ -14174,7 +12853,7 @@
     "homepage": "https://www.rmfmaxx.pl/",
     "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_VCxLogQxD9XPszTgZkGp3WCNUOBzXBkyQQ&s",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-23T21:50:24Z"
   },
   {
@@ -15539,26 +14218,6 @@
     "updatedAt": "2026-01-15T02:50:58Z"
   },
   {
-    "id": "awb_f7755fffded108cfee24",
-    "name": "SmoothJazz.com.pl",
-    "country": "PL",
-    "subdivision": "Pomorskie",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "smooth jazz"
-    ],
-    "homepage": "https://smoothjazz.com.pl/",
-    "favicon": "http://bcast.vigormultimedia.com:7000/sj_logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-05T22:36:09Z"
-  },
-  {
     "id": "awb_d14c10e45802e34a828a",
     "name": "SmoothJazz.com.pl 192k aac+",
     "country": "PL",
@@ -15671,24 +14330,6 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
-    "id": "awb_b7f532e0516f67d2019b",
-    "name": "Studenckie Radio ZAK",
-    "country": "PL",
-    "subdivision": "Lodz",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "alternative"
-    ],
-    "homepage": "http://zak.lodz.pl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:41:54Z"
-  },
-  {
     "id": "awb_b01421539c9fa1c4fcd2",
     "name": "Studenckie Radio Żak Politechniki Łódzkiej",
     "country": "PL",
@@ -15771,20 +14412,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:45:24Z"
-  },
-  {
-    "id": "awb_0fa1fdd50e13d4d1b699",
-    "name": "supernova",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://supernova.pl/",
-    "favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_2b86829fcf451dea4fcd",
@@ -15978,33 +14605,6 @@
     "updatedAt": "2026-03-05T11:53:21Z"
   },
   {
-    "id": "awb_0260e7869709c88da158",
-    "name": "Tail FM Poland",
-    "country": "PL",
-    "subdivision": "Greater Poland",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "#90s",
-      "00's",
-      "2000s",
-      "alternative",
-      "poland",
-      "pop rock"
-    ],
-    "homepage": "https://tail.5v.pl/",
-    "favicon": "https://tail.5v.pl/kita.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-28T07:29:49Z"
-  },
-  {
     "id": "awb_46f3fbc300f3ff98ac2a",
     "name": "TobiFM",
     "country": "PL",
@@ -16039,7 +14639,7 @@
     "homepage": "https://www.tokfm.pl/Tokfm/0,0.html",
     "favicon": "https://static.im-g.pl/im/6/7455/m7455556.gif",
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -16059,7 +14659,7 @@
     "homepage": "https://www.tokfm.pl/",
     "favicon": "https://static.im-g.pl/im/6/7455/m7455556.gif",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -16202,10 +14802,10 @@
     "tags": [
       "rap"
     ],
-    "homepage": "https://stream.open.fm/139",
+    "homepage": "http://stream.open.fm/139",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -16241,7 +14841,7 @@
     "homepage": null,
     "favicon": "https://trendyradio.pl/assets/images/logo.gif",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -16282,22 +14882,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_9acc362b9f20c8f52cc8",
-    "name": "Trojka",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://moje.polskieradio.pl/OtherChannels/Trojka.aspx",
-    "favicon": "http://moje.polskieradio.pl/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:43:13Z"
-  },
-  {
     "id": "awb_de786b1cede516c9ffeb",
     "name": "Trójka",
     "country": "PL",
@@ -16312,7 +14896,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -16328,22 +14912,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-04T16:51:01Z"
-  },
-  {
-    "id": "awb_3f8a9f0844587ec91f81",
-    "name": "Trójka mp3",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "misc"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_b240d1030bc0db11851e",
@@ -16500,9 +15068,9 @@
       "rap"
     ],
     "homepage": "https://vibefm.pl/",
-    "favicon": "https://radioplayer.myradioonline.pl/public/uploads/radio_img/vibe-fm/play_250_250.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -16544,9 +15112,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://voxfm.pl/",
-    "favicon": "http://voxfm.pl/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -16598,20 +15166,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_187cde858d36f00ca350",
-    "name": "VOX FM DISCO 90",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://player.voxfm.pl/?stream_uid=vox_disco_90",
-    "favicon": "https://player.voxfm.pl/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_a4964bcf09ce6bdf9e0d",
@@ -16742,38 +15296,6 @@
     "updatedAt": "2026-01-15T00:02:06Z"
   },
   {
-    "id": "awb_f767bccca63d3c5eb702",
-    "name": "Wesołe Slonzoki",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://wesole-slonzoki.eu/",
-    "favicon": "https://wesole-slonzoki.eu/wp-content/uploads/2020/09/cropped-herb-2-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_b502b167143bc9d6434a",
-    "name": "WIELKOPOLSKA",
-    "country": "PL",
-    "subdivision": "Welkopolska",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "information"
-    ],
-    "homepage": "https://radiowielkopolska.pl/category/wielkopolska//",
-    "favicon": "https://radiowielkopolska.pl/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:05:55Z"
-  },
-  {
     "id": "awb_0b20d4f59091f260460b",
     "name": "Wnet.fm",
     "country": "PL",
@@ -16784,9 +15306,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://wnet.fm/",
-    "favicon": "https://wnet.fm/favicon.ico",
+    "favicon": "https://wnet.fm/wp-content/uploads/2019/03/cropped-favikon-145x145.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -16809,30 +15331,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_869efbb362a6af77c29d",
-    "name": "Żak - Studenckie Radio Politechniki Łódzkiej",
-    "country": "PL",
-    "subdivision": "Łódź",
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "college"
-    ],
-    "tags": [
-      "alternative",
-      "student",
-      "student radio",
-      "university",
-      "university radio"
-    ],
-    "homepage": "https://www.zak.lodz.pl/",
-    "favicon": "https://www.zak.lodz.pl/favicon.ico",
-    "type": "college",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:27:20Z"
   },
   {
     "id": "awb_ad9a109b9e18895e3750",

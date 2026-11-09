@@ -43,24 +43,20 @@
     "name": "Al Jazeera - Arabic",
     "country": "QA",
     "subdivision": null,
-    "languages": [
-      "ar"
-    ],
+    "languages": [],
     "categories": [
       "news",
       "talk"
     ],
     "tags": [
-      "documentaries",
       "news",
       "news talk",
-      "speech",
       "talk"
     ],
-    "homepage": "https://www.aljazeera.net/",
-    "favicon": "https://www.aljazeera.net/favicon.ico",
+    "homepage": "http://www.aljazeera.net/",
+    "favicon": "http://i.ibb.co/ngQWtpY/Al-Jazeera-Arabic.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-06-27T16:09:11Z"
   },
   {
@@ -154,26 +150,6 @@
     "updatedAt": "2026-03-28T22:21:18Z"
   },
   {
-    "id": "awb_43a14f0fd10e7ca531a2",
-    "name": "Al Jazzera News Audio Hub Live English 20260312",
-    "country": "QA",
-    "subdivision": "Doha QATAR",
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "current affairs",
-      "middle east",
-      "news"
-    ],
-    "homepage": "https://www.aljazeera.com/audio/live/",
-    "favicon": "https://www.aljazeera.com/wp-content/uploads/2025/05/english-live-1747222410.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-12T01:07:48Z"
-  },
-  {
     "id": "awb_0896d1c631e85c0e0196",
     "name": "aljazeera",
     "country": "QA",
@@ -190,26 +166,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_5d285acf6857cdb218d2",
-    "name": "Aljazeera Arabic",
-    "country": "QA",
-    "subdivision": null,
-    "languages": [
-      "ar"
-    ],
-    "categories": [],
-    "tags": [
-      "aljazeera",
-      "الجزيرة",
-      "قناة الجزيرة"
-    ],
-    "homepage": "https://www.aljazeera.net/",
-    "favicon": "https://www.aljazeera.net/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:37:06Z"
   },
   {
     "id": "awb_dff7ebe942d03da7fa33",
@@ -335,9 +291,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://suno.qa/",
-    "favicon": "https://suno.qa/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

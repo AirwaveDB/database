@@ -44,9 +44,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.antennereunionradio.fr/",
-    "favicon": "https://static.wixstatic.com/media/dafa71_883786e5405c4e909d9dcfe152dfb89d%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/dafa71_883786e5405c4e909d9dcfe152dfb89d%7Emv2.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -122,24 +122,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_9fae60fb4b173e121434",
-    "name": "Exo FM Réunion",
-    "country": "RE",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "réunion"
-    ],
-    "homepage": "http://www.exofm.re/",
-    "favicon": "https://i.ibb.co/hJfVFQCr/exo-fm-75f89444.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-16T10:44:18Z"
   },
   {
     "id": "awb_97a6d24748e7ead2342a",
@@ -224,22 +206,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_690e3a984e4c05fc59e8",
-    "name": "louange radio",
-    "country": "RE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "international"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_dad19c5d9075f9552d4b",
     "name": "Love Hit Reunion",
     "country": "RE",
@@ -264,7 +230,7 @@
     "homepage": null,
     "favicon": "https://cdn.onlineradiobox.com/img/l/9/145909.v1.png",
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -436,24 +402,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_4eb7e9a7279bfb1d3231",
-    "name": "Radio Pikan Réunion",
-    "country": "RE",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "réunion"
-    ],
-    "homepage": "https://radiopikan.fr/",
-    "favicon": "https://i.ibb.co/238FR0wM/radio-pikan-958bdfac-upscayl-2x-digital-art-4x.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-16T10:37:12Z"
-  },
-  {
     "id": "awb_5a4ecbc6b800a2a82648",
     "name": "Radio Star Réunion",
     "country": "RE",
@@ -511,24 +459,6 @@
     "type": "public",
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_4e2374e7aa80225df5b6",
-    "name": "Réunion la 1ère (La1er)",
-    "country": "RE",
-    "subdivision": "France",
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news"
-    ],
-    "homepage": "https://la1ere.francetvinfo.fr/reunion/direct-radio/",
-    "favicon": "https://la1ere.francetvinfo.fr/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_25485ca114d150442431",

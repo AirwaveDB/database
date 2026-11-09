@@ -363,9 +363,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://www.coolfm.ng/",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/3/6733.v14.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -632,29 +632,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_6479fd64821ba46914a9",
-    "name": "GoRadio ng",
-    "country": "NG",
-    "subdivision": "Lagos",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "afrobeat",
-      "gospel",
-      "highlife",
-      "rnb"
-    ],
-    "homepage": "https://goradio.com.ng/",
-    "favicon": "https://goradio.com.ng/wp-content/uploads/2026/02/logo-2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-11T14:03:09Z"
-  },
-  {
     "id": "awb_e0ea0e6911987a1e5640",
     "name": "Gospotainment Radio",
     "country": "NG",
@@ -702,7 +679,7 @@
     "homepage": "https://hodradio.webradiosite.com/",
     "favicon": "https://www.facebook.com/hodradio",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -944,19 +921,16 @@
     "name": "Nagari Radio",
     "country": "NG",
     "subdivision": null,
-    "languages": [
-      "ha"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [
-      "entertainment",
       "http://stream.zeno.fm/287z97ksdg8uv"
     ],
     "homepage": "http://stream.zeno.fm/287z97ksdg8uv",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T02:55:32Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_63031db78c8bb1f4e551",
@@ -1040,7 +1014,7 @@
     "homepage": "https://www.obonguniversity.edu.ng/event-details-obong-radio.html",
     "favicon": "https://www.forwardmystream.com/stations/300/obongradio-7110.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1066,31 +1040,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.praiseworldradio.com/",
-    "favicon": "https://www.praiseworldradio.com/wp-content/uploads/2020/05/praiseworldlogo-1.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_167afba0987328106899",
-    "name": "Radio East",
-    "country": "NG",
-    "subdivision": "Imo",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "music",
-      "talk"
-    ],
-    "homepage": "https://www.radioeast.com.ng/",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:18:28Z"
+    "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_1f06a0930ee7bb147c27",
@@ -1249,31 +1202,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.tatafofmglobal.com/",
-    "favicon": "https://static.wixstatic.com/media/66bf40_91ec5701a78542c98822686535fed162~mv2.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-22T01:34:08Z"
-  },
-  {
-    "id": "awb_e5d98ec202e7d4d0615c",
-    "name": "The Ark of Nigeria Radio",
-    "country": "NG",
-    "subdivision": "Rivers",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community",
-      "talk"
-    ],
-    "tags": [
-      "community / talk / culture"
-    ],
-    "homepage": "https://theark.com.ng/",
-    "favicon": "https://cdn.webtrend.com.ng/files/6a455d107144a1.13154008.jpg",
-    "type": "community",
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T23:56:33Z"
+    "updatedAt": "2026-10-22T01:34:08Z"
   },
   {
     "id": "awb_a15881a71f2352f5ff67",
@@ -1383,24 +1315,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-11-03T21:49:04Z"
-  },
-  {
-    "id": "awb_e11c188604f496d6d0b7",
-    "name": "Voice of Hope Africa",
-    "country": "NG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community"
-    ],
-    "homepage": null,
-    "favicon": "https://on.voha-radio.com.ng/logo.png",
-    "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-11-03T21:46:48Z"
   },
   {
     "id": "awb_6c1f2d438c016f907cbc",

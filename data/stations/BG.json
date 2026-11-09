@@ -1,32 +1,5 @@
 [
   {
-    "id": "awb_ddd2f0a889b5b975fca5",
-    "name": "&#1056;&#1072;&#1076;&#1080;&#1086; FM+",
-    "country": "BG",
-    "subdivision": "Sofia",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "90s",
-      "adult",
-      "contemporary;rock",
-      "pop",
-      "pop-rock",
-      "soul"
-    ],
-    "homepage": "http://fmplus.net/",
-    "favicon": "https://shorturl.at/jfGEP",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:38:10Z"
-  },
-  {
     "id": "awb_358c035cee4ad4488780",
     "name": "1 Rock Bulgaria",
     "country": "BG",
@@ -80,8 +53,8 @@
     "homepage": "http://arhea.org/",
     "favicon": "http://arhea.org/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:08:04Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:31:23Z"
   },
   {
     "id": "awb_cc868a1e61227f5dabed",
@@ -171,9 +144,9 @@
       "rock"
     ],
     "homepage": "https://badrockradio.net/",
-    "favicon": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-18T17:17:28Z"
   },
   {
@@ -225,27 +198,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_b6d3031d6900f4c8795d",
-    "name": "Badrock National",
-    "country": "BG",
-    "subdivision": "Bulgaria",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "rock"
-    ],
-    "homepage": "https://badrockradio.net/",
-    "favicon": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-11T04:44:33Z"
-  },
-  {
     "id": "awb_35fbc0cdf40cfda5afb5",
     "name": "BadRock Radio",
     "country": "BG",
@@ -269,7 +221,7 @@
     "homepage": "https://www.badrockradio.net/",
     "favicon": "https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-18T17:15:33Z"
   },
   {
@@ -359,7 +311,7 @@
     "homepage": "https://bgradio.bg/",
     "favicon": "https://www.radioplay.bg/assets/logos/bgestrada.png",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 4,
     "updatedAt": "2026-11-06T20:05:09Z"
   },
   {
@@ -430,20 +382,6 @@
     "updatedAt": "2026-07-19T18:34:18Z"
   },
   {
-    "id": "awb_f54efb7a02fe2a59cb38",
-    "name": "BNR Burgas",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://bnr.bg/burgas",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_738dcf1ed569f72b810d",
     "name": "BNR Horizont",
     "country": "BG",
@@ -454,7 +392,7 @@
     "homepage": "https://www.radioplay.bg/?radio=bnr",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -492,29 +430,6 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:32:00Z"
-  },
-  {
-    "id": "awb_2867865c4d3a784bd327",
-    "name": "BNR Varna",
-    "country": "BG",
-    "subdivision": "Varna",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "pop",
-      "public"
-    ],
-    "tags": [
-      "bnr",
-      "pop",
-      "public radio"
-    ],
-    "homepage": "http://bnr.bg/varna",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:38:48Z"
   },
   {
     "id": "awb_8f1eecf367b556bee882",
@@ -656,23 +571,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_918ff4bb2b149a5373a6",
-    "name": "City Bulgaria",
-    "country": "BG",
-    "subdivision": "Sofia",
-    "languages": [
-      "bg",
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.city.bg/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:31:29Z"
   },
   {
     "id": "awb_a04102be6fb04c824374",
@@ -838,19 +736,12 @@
     "languages": [
       "bg"
     ],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "news",
-      "politics",
-      "sport"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://darik.bg/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1011,7 +902,7 @@
     "homepage": "https://live.easyradio.bg/192?type=.mp3",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1022,20 +913,14 @@
     "languages": [
       "bg"
     ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
+    "categories": [],
     "tags": [
-      "pop",
-      "pop rock",
-      "relaxation music",
-      "rock"
+      "relaxation music"
     ],
     "homepage": "https://easyradio.bg/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-28T17:52:47Z"
   },
   {
@@ -1585,9 +1470,9 @@
       "folk"
     ],
     "homepage": "https://radiofolkmix.com/",
-    "favicon": "https://radiofolkmix.com/wp-content/uploads/2024/01/cropped-radiofolkmix-180x180.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1662,22 +1547,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_f04d1037e4b41d8c9fc3",
-    "name": "Fresh Bulgaria",
-    "country": "BG",
-    "subdivision": "Sofia",
-    "languages": [
-      "bg"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radiofresh.bg/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:16:53Z"
-  },
-  {
     "id": "awb_6679032d4d8b01f75932",
     "name": "Fresh!",
     "country": "BG",
@@ -1696,20 +1565,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:40:20Z"
-  },
-  {
-    "id": "awb_9841b07bcdd5fc683bf7",
-    "name": "Fusion 7",
-    "country": "BG",
-    "subdivision": "Плевен",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.palamarka.com/public/fusion7",
-    "favicon": "https://radio.palamarka.com/static/uploads/fusion7/album_art.1787387818.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-15T12:21:02Z"
   },
   {
     "id": "awb_602af5a9dcabd91616e2",
@@ -1888,9 +1743,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://jazzfm.bg/",
-    "favicon": "https://jazzfm.bg/static/bg/microsites/jazzfm/img/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1911,21 +1766,14 @@
     "id": "awb_02394dede929329aac3e",
     "name": "KATRA FM",
     "country": "BG",
-    "subdivision": "Plovdiv",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "contemporary",
-      "hits"
-    ],
-    "homepage": "http://www.katrafm.com/",
-    "favicon": "http://www.katrafm.com/favicon.ico",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.katrafm.com/play/",
+    "favicon": "http://www.katrafm.com/imj/listen_logo.jpg",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2001,38 +1849,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_cbfd36c358c8e6600fdc",
-    "name": "Luxor Web Radio",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electronic"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_4b60b267188cd065d874",
-    "name": "MAGIC FM",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://m.magic.bg/",
-    "favicon": "http://www.liveonlineradio.net/wp-content/uploads/2016/11/Magic-FM-Bulgaria.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_7c8b91c308b3b60472d7",
@@ -2176,21 +1992,14 @@
       "bg",
       "en"
     ],
-    "categories": [
-      "news",
-      "talk"
-    ],
+    "categories": [],
     "tags": [
-      "club",
-      "dance",
-      "in the morning",
-      "news",
-      "talk show"
+      "dance"
     ],
     "homepage": "https://metrocast.top/dance",
     "favicon": "https://metrocast.top/wp-content/uploads/2021/09/metrodance.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2206,24 +2015,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_bbe41a1a6ef55a60e045",
-    "name": "Metro Hits",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_2820769d914483708d5f",
@@ -2270,7 +2061,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2292,25 +2083,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_7a43bbc1fadf539ad7df",
-    "name": "Metro Love 70s",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "70s",
-      "oldies"
-    ],
-    "homepage": "https://metrocast.top/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:31:23Z"
-  },
-  {
     "id": "awb_faa075238bcce48209a5",
     "name": "Metro Love 80s",
     "country": "BG",
@@ -2327,24 +2099,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_f0d3f15816c5a9bc72bc",
-    "name": "Metro Love 90s",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_d779557622876193283c",
@@ -2460,7 +2214,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2612,7 +2366,7 @@
     "homepage": "https://notefmbg.free.bg/",
     "favicon": "https://radiodns.mpbnl.nl/logos/note/note-fm.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-11-06T03:24:14Z"
   },
   {
@@ -2816,32 +2570,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_782b280d26d9d6d1014e",
-    "name": "Radio 1 (Bulgaria)",
-    "country": "BG",
-    "subdivision": "Sofia",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "90s",
-      "classic hits",
-      "classic pop",
-      "classic rock",
-      "classic-rock"
-    ],
-    "homepage": "http://radio1.bg/",
-    "favicon": "http://radio1.bg/theme_assets/radio1/images/favicon.png",
-    "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-08-24"
-  },
-  {
     "id": "awb_323fbdc603f562a98ed0",
     "name": "Radio 1 (Радио 1 -Едно Русе0 -Ruse 88.9 FM",
     "country": "BG",
@@ -2861,6 +2589,30 @@
     "favicon": "https://top-radio.ru/assets/image/radio/180/radio1bg.jpg",
     "type": null,
     "sourceCount": 2,
+    "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_782b280d26d9d6d1014e",
+    "name": "Radio 1 Bulgaria",
+    "country": "BG",
+    "subdivision": "Sofia",
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "90s",
+      "classic hits",
+      "classic pop",
+      "classic rock",
+      "classic-rock"
+    ],
+    "homepage": "https://radio1.bg/",
+    "favicon": "http://radio1.bg/theme_assets/radio1/images/favicon.png",
+    "type": null,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3054,22 +2806,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-02T00:56:43Z"
-  },
-  {
-    "id": "awb_0abb0eca31f1c6529a55",
-    "name": "Radio BG London Plus",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "misc"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_ea974d7232889cdf5450",
@@ -3578,24 +3314,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_9279b609ca39ee544921",
-    "name": "Radio Horo Plus",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_1a067e31d4d100be4fac",
     "name": "Radio Hushove",
     "country": "BG",
@@ -3627,20 +3345,6 @@
     ],
     "homepage": null,
     "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_317cbe8c4d6abfcd1b85",
-    "name": "Radio Jega Жега",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.predavatel.com/bg/live/",
-    "favicon": "https://www.predavatel.com/theme/images/favicon.gif",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
@@ -3993,7 +3697,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
@@ -4042,9 +3746,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.radiopi.top/",
-    "favicon": "https://www.radiopi.top/favicon.ico",
+    "favicon": "https://www.radiopi.top/wp-content/themes/bridge/img/logo_white.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-06-27T16:24:09Z"
   },
   {
@@ -4160,21 +3864,13 @@
     "name": "Radio Ruse",
     "country": "BG",
     "subdivision": "Ruse",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local radio",
-      "music",
-      "news"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radioruse.com/",
-    "favicon": "https://radioruse.com/site/images/logo7.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4244,22 +3940,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_fdc05446acdc5d9dbe96",
-    "name": "Radio Sunny Beach",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "misc"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_767acd074ba054ac050d",
@@ -4404,24 +4084,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_a9b5c1bb31d4d160c1d4",
-    "name": "Radio Veselina",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_89fb63b4755a80ed2455",
@@ -4654,8 +4316,8 @@
     "homepage": "https://radioplay.bg/",
     "favicon": "https://www.radioplay.bg/assets/logos/cafe.png",
     "type": null,
-    "sourceCount": 5,
-    "updatedAt": "2026-11-07T01:15:23Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-06T05:49:37Z"
   },
   {
     "id": "awb_7d6da6ea41204bd17f3f",
@@ -4829,18 +4491,14 @@
     "languages": [
       "en"
     ],
-    "categories": [
-      "electronic"
-    ],
+    "categories": [],
     "tags": [
-      "dance",
-      "deep house",
-      "nu disco"
+      "dance"
     ],
     "homepage": "https://sweetradio.online/",
-    "favicon": "https://sweetradio.online/wp-content/uploads/cropped-sweet-1a.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4981,24 +4639,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_cbc40bf8ac018c56f801",
-    "name": "Ultra Sandanski",
-    "country": "BG",
-    "subdivision": "Blagoevgad",
-    "languages": [
-      "bg"
-    ],
-    "categories": [],
-    "tags": [
-      "chalga"
-    ],
-    "homepage": "http://www.radioultra.bg/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:29:21Z"
   },
   {
     "id": "awb_16304c543c32a75577f7",
@@ -5456,30 +5096,6 @@
     "updatedAt": "2026-01-15T03:09:18Z"
   },
   {
-    "id": "awb_8659c6032f2406add929",
-    "name": "БНР – Радио Бургас",
-    "country": "BG",
-    "subdivision": "Burgas",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "https://bnrnews.bg/burgas",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:43:07Z"
-  },
-  {
     "id": "awb_2257814131e6958c0672",
     "name": "БНР – Радио Видин",
     "country": "BG",
@@ -5518,30 +5134,6 @@
     "updatedAt": "2026-09-27T08:43:07Z"
   },
   {
-    "id": "awb_0856711f11d8dc9779ce",
-    "name": "БНР – Радио Кърджали",
-    "country": "BG",
-    "subdivision": "Kardzhali",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "https://bnrnews.bg/kardzhali",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:43:07Z"
-  },
-  {
     "id": "awb_3a189057bc06b6111317",
     "name": "БНР – Радио Кърджали",
     "country": "BG",
@@ -5562,78 +5154,6 @@
     "updatedAt": "2026-01-15T08:16:49Z"
   },
   {
-    "id": "awb_620934782e6a2992bd06",
-    "name": "БНР – Радио Пловдив",
-    "country": "BG",
-    "subdivision": "Plovdiv",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "https://bnrnews.bg/plovdiv",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:42:44Z"
-  },
-  {
-    "id": "awb_a74b6c39b0a7fcc897a7",
-    "name": "БНР – Радио София",
-    "country": "BG",
-    "subdivision": "Sofia City",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "https://bnrnews.bg/sofia",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:41:39Z"
-  },
-  {
-    "id": "awb_683a57d2332876687815",
-    "name": "БНР – Радио Шумен",
-    "country": "BG",
-    "subdivision": "Shumen",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "https://bnrnews.bg/shumen",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:42:56Z"
-  },
-  {
     "id": "awb_cb169c20cefb2de8feb2",
     "name": "БНР Радио Русе 98.6 FM",
     "country": "BG",
@@ -5652,30 +5172,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-22T16:51:27Z"
-  },
-  {
-    "id": "awb_954f591b0459853bc664",
-    "name": "БНР Хоризонт",
-    "country": "BG",
-    "subdivision": null,
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "https://bnrnews.bg/horizont",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:42:56Z"
   },
   {
     "id": "awb_8f5181593360247299d3",
@@ -5783,10 +5279,10 @@
       "християнство"
     ],
     "homepage": "https://radio-glas.mitropolia-sofia.org/",
-    "favicon": "https://mitropolia-sofia.org/wp-content/uploads/2023/09/heder-newvision5-1-150x150.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-10-12T12:28:06Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:04:00Z"
   },
   {
     "id": "awb_010bceb459c94a8b4437",
@@ -5816,17 +5312,13 @@
     "languages": [
       "bg"
     ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.city.bg/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:07:13Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T07:47:33Z"
   },
   {
     "id": "awb_8f22ff6eebf97ae2c97d",
@@ -5847,26 +5339,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_5af066a091e3c9464000",
-    "name": "Радио FM+",
-    "country": "BG",
-    "subdivision": "Sofia",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "http://fmplus.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:19:59Z"
   },
   {
     "id": "awb_80f9b79de68f5ad8be0f",
@@ -6001,29 +5473,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_75bbb26ccbf65d1b4b55",
-    "name": "Радио Велико Търново",
-    "country": "BG",
-    "subdivision": "Veliko Tarnovo",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "folk",
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "local news",
-      "pop-folk"
-    ],
-    "homepage": "https://radiovelikotarnovo.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:43:28Z"
-  },
-  {
     "id": "awb_a5424efd5b53ce06cc62",
     "name": "Радио Вероника Русе 99.0 FM",
     "country": "BG",
@@ -6153,22 +5602,6 @@
     "updatedAt": "2026-01-14T23:31:23Z"
   },
   {
-    "id": "awb_c5057c4e73f2a3c5382c",
-    "name": "Радио Пауър ФМ - Radio Power FM",
-    "country": "BG",
-    "subdivision": "Burgas",
-    "languages": [
-      "bg"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.powerfm.bg/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:43:16Z"
-  },
-  {
     "id": "awb_bbf2fb28df03d6ee5b98",
     "name": "Радио Пияника",
     "country": "BG",
@@ -6287,27 +5720,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_6d847d549ef6d64223b2",
-    "name": "Студио Оряхово",
-    "country": "BG",
-    "subdivision": "Vratsa",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "folk",
-      "pop"
-    ],
-    "tags": [
-      "pop-folk"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:43:28Z"
-  },
-  {
     "id": "awb_ceac03347026f81dacb7",
     "name": "��� � ����� �����",
     "country": "BG",
@@ -6328,7 +5740,7 @@
     "homepage": "https://bnrnews.bg/sofia",
     "favicon": null,
     "type": "public",
-    "sourceCount": 8,
+    "sourceCount": 6,
     "updatedAt": "2026-09-27T08:28:16Z"
   },
   {
@@ -6397,26 +5809,6 @@
     ],
     "tags": [
       "pop-folk"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:31:25Z"
-  },
-  {
-    "id": "awb_61541d4e9efef6b95f8c",
-    "name": "�������� ����� �������",
-    "country": "BG",
-    "subdivision": "Razgrad",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news"
     ],
     "homepage": null,
     "favicon": null,

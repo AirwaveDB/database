@@ -45,16 +45,12 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "noticias"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.atb.com.bo/atbradio/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -206,30 +202,17 @@
       "2000s",
       "80s",
       "90s",
-      "classic hits",
-      "classic rock",
       "classic-hits",
       "classic-rock",
-      "clásicos en español",
-      "latin music",
-      "latin pop",
       "latin-music",
       "latin-pop",
-      "musica latina",
-      "musica popular",
-      "musica romantica",
-      "música en español e inglés",
-      "música latina",
       "pop",
-      "pop en español",
-      "pop en español e inglés",
-      "rock",
-      "rock en español"
+      "rock"
     ],
     "homepage": "https://dianadfm.com/",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/3/120323.v2.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -392,45 +375,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_4b4c54cbf7027217e890",
-    "name": "Fides La Paz",
-    "country": "BO",
-    "subdivision": "La Paz (Nuestra Señora de)",
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "noticias"
-    ],
-    "homepage": "https://radiofides.com/es/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_deaa450f7b2eee00c7b4",
-    "name": "Fides Tarija",
-    "country": "BO",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "entrevistas",
-      "noticias"
-    ],
-    "homepage": "https://online.radiofides.com/tarija.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:22:38Z"
-  },
-  {
     "id": "awb_a6f4b7b6c37b440f57b3",
     "name": "FM La Paz",
     "country": "BO",
@@ -541,24 +485,6 @@
     "updatedAt": "2026-01-15T03:00:03Z"
   },
   {
-    "id": "awb_9cce4dfac411de38df90",
-    "name": "Radio \"Cumbia 90s\"",
-    "country": "BO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "latin"
-    ],
-    "tags": [
-      "cumbia"
-    ],
-    "homepage": "https://tropical90.emisora.info/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_d0b967170cabd4cd324b",
     "name": "RADIO 24 DE JULIO 97.1 FM VILLA MONTES - TRAIJA",
     "country": "BO",
@@ -586,7 +512,7 @@
     "id": "awb_7bf74dfc1f9b61a0ffde",
     "name": "Radio Acer",
     "country": "BO",
-    "subdivision": "Santa Cruz de la Sierra",
+    "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [
@@ -595,8 +521,8 @@
     "homepage": "https://radioacer.com/",
     "favicon": "https://radioacer.com/favicon.ico",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-25T15:04:09Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_316f647efde55f6c39f1",
@@ -1164,20 +1090,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_da343305e07d25bf68a1",
-    "name": "Radio Pueblo",
-    "country": "BO",
-    "subdivision": "LA PAZ",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rtvpueblo.blogspot.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-31T00:41:41Z"
-  },
-  {
     "id": "awb_2c1d22e9f8d20ad1329c",
     "name": "Radio Pueblo Bolivia",
     "country": "BO",
@@ -1395,9 +1307,9 @@
       "world music"
     ],
     "homepage": "https://www.radiosatbolivia.com/",
-    "favicon": "https://www.radiosatbolivia.com/wp-content/uploads/2025/01/cropped-cropped-Logo-Transparente-para-Web1-768x400.png",
+    "favicon": "https://i.imgur.com/AbYNwYZ.jpeg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24T04:00:38Z"
   },
   {
@@ -1583,7 +1495,7 @@
     "homepage": "https://zoymilton.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

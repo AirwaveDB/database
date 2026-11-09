@@ -65,33 +65,6 @@
     "updatedAt": "2026-10-27T15:32:01Z"
   },
   {
-    "id": "awb_f4b9e0871be784b8db06",
-    "name": "Energy 100 FM",
-    "country": "NA",
-    "subdivision": "Khomas",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "hip-hop",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "afro",
-      "pop",
-      "rap",
-      "rock",
-      "slow",
-      "trap"
-    ],
-    "homepage": "https://www.energy100fm.com/",
-    "favicon": "https://www.energy100fm.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:22:50Z"
-  },
-  {
     "id": "awb_548bf9bbfe267cb4771b",
     "name": "Energy100 FM",
     "country": "NA",
@@ -271,20 +244,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_56ed7c28277137e1e935",
-    "name": "Radio Wave 96.7 FM",
-    "country": "NA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiowave.com.na/",
-    "favicon": "https://radiowave.com.na/wp-content/uploads/2022/11/Radiowave-Logo-Mobile.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_a80eb30db3133558e0b7",
     "name": "Radiowave FM",
     "country": "NA",
@@ -316,9 +275,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiowave.com.na/",
-    "favicon": "https://radiowave.com.na/wp-content/uploads/2022/11/Radiowave-logo-header-old.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

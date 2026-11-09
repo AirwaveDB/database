@@ -84,7 +84,7 @@
     "homepage": "https://www.melisten.sg/radio/987",
     "favicon": "https://www.melisten.sg/static/apple-touch-icon.png?v=2023",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
   },
   {
@@ -450,9 +450,7 @@
     "name": "kiss92",
     "country": "SG",
     "subdivision": null,
-    "languages": [
-      "en"
-    ],
+    "languages": [],
     "categories": [
       "pop"
     ],
@@ -461,9 +459,9 @@
       "pop-music"
     ],
     "homepage": "https://www.kiss92.sg/",
-    "favicon": "https://static.kiss92.sg/uploads/sites/5/2017/10/ABOUT_US_Station_920.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -606,9 +604,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.melisten.sg/radio/oli968?c=968fm",
-    "favicon": "https://www.melisten.sg/static/apple-touch-icon.png?v=2023",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -925,22 +923,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_28c2f2c5a390b2749312",
-    "name": "Warna 942 Radio",
-    "country": "SG",
-    "subdivision": "Singapore",
-    "languages": [
-      "ms"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.meradio.sg/radio/warna-942fm",
-    "favicon": "http://www.meradio.sg/static/apple-icon-120x120.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:01:02Z"
-  },
-  {
     "id": "awb_638b6101c177dde603c6",
     "name": "XRadio: The Worldwide Superstation",
     "country": "SG",
@@ -1010,7 +992,7 @@
     "homepage": "https://www.melisten.sg/radio/yes-933",
     "favicon": "https://www16.mediacorp.sg/melisten/radiostation-logos/yes-933.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
   },
   {

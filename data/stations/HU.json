@@ -332,28 +332,6 @@
     "updatedAt": "2026-01-15T06:22:11Z"
   },
   {
-    "id": "awb_a304d5b7c9e6705ea8eb",
-    "name": "Best FM",
-    "country": "HU",
-    "subdivision": "Hajdú-Bihar",
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://www.bestfm.hu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:22:41Z"
-  },
-  {
     "id": "awb_cc3e8feb75dca3fb6b41",
     "name": "Best FM - Budapest",
     "country": "HU",
@@ -377,29 +355,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_63e196f07e433921a86b",
-    "name": "Best FM - Debrecen",
-    "country": "HU",
-    "subdivision": "Hajdú-Bihar",
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "adult contemporary",
-      "local news",
-      "top hits"
-    ],
-    "homepage": "http://www.bestfmdebrecen.hu/",
-    "favicon": "https://myonlineradio.hu/public/uploads/radio_img/best-fm/play_250_250.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:04:28Z"
   },
   {
     "id": "awb_11e09bae172a2c5ac131",
@@ -593,20 +548,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_959ae3abccdbdcba3ec2",
-    "name": "BestFM Debrecen",
-    "country": "HU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.bestfmdebrecen.hu/",
-    "favicon": "http://www.bestfmdebrecen.hu/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_0826acd3fc584fa013f7",
     "name": "Bias Radio",
     "country": "HU",
@@ -631,7 +572,7 @@
     "homepage": "https://bithang-yoo-radio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-02-18T13:25:37Z"
   },
   {
@@ -785,7 +726,7 @@
     "homepage": "http://cegledradio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T03:03:48Z"
   },
   {
@@ -944,24 +885,14 @@
     "name": "CLUBFLASHH RADIO",
     "country": "HU",
     "subdivision": null,
-    "languages": [
-      "en",
-      "hu"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "dance",
-      "edm",
-      "house",
-      "trance"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://clubflashh.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-28T08:38:51Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-28T08:36:53Z"
   },
   {
     "id": "awb_e9ae5c518bc9cc622f56",
@@ -1714,7 +1645,7 @@
     "homepage": "https://www.danubiusradio.hu/",
     "favicon": "https://www.danubiusradio.hu/logo192.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -2125,22 +2056,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_aeb2ff0ce8371c7ef87f",
-    "name": "Folkrádió",
-    "country": "HU",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://folkradio.hu/",
-    "favicon": "https://folkradio.hu/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:57:38Z"
-  },
-  {
     "id": "awb_6d4d22186d7e3afe7078",
     "name": "Forrás Rádió",
     "country": "HU",
@@ -2453,8 +2368,8 @@
     "homepage": "http://www.hobbyradio.hu/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-07-15T11:12:28Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:49:38Z"
   },
   {
     "id": "awb_69b54c543ba6a5ab7fdb",
@@ -2473,22 +2388,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_e199d9ba669085a0a344",
-    "name": "Hungarian dance",
-    "country": "HU",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://gamershouse.hu:8000/livemega.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:15:15Z"
   },
   {
     "id": "awb_f8a26041bdbb81ce3929",
@@ -2706,7 +2605,7 @@
     "homepage": "http://klasszikradio.hu/hu/",
     "favicon": "https://klasszikradio.hu/wp-content/uploads/2023/03/cropped-klassziklogo-01-e1680102856142.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2795,7 +2694,7 @@
     "id": "awb_f53e91b975cc47c55673",
     "name": "Kossuth",
     "country": "HU",
-    "subdivision": "Budapest",
+    "subdivision": null,
     "languages": [],
     "categories": [
       "news"
@@ -2803,36 +2702,11 @@
     "tags": [
       "news"
     ],
-    "homepage": "https://icast.connectmedia.hu/4736/mr1.mp3",
+    "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_03de0cedb00fdac77480",
-    "name": "Kossuth Rádió",
-    "country": "HU",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "duna média",
-      "news",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "http://www.mediaklikk.hu/kossuth/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:56:19Z"
   },
   {
     "id": "awb_9b08052f968e0478369a",
@@ -3183,8 +3057,8 @@
     "homepage": "http://www.megadanceradio.hu/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:20:38Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:46:02Z"
   },
   {
     "id": "awb_e68c8289cb7ee3e8f47a",
@@ -3219,8 +3093,8 @@
     "homepage": "http://gamershouse.hu:8000/livemega.mp3",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:04:47Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T05:35:49Z"
   },
   {
     "id": "awb_956eb99f10bf99f5543c",
@@ -3465,19 +3339,16 @@
       "hu"
     ],
     "categories": [
-      "pop",
-      "public"
+      "pop"
     ],
     "tags": [
-      "hungarian pop music",
       "music",
-      "pop",
-      "public radio"
+      "pop"
     ],
     "homepage": "https://mediaklikk.hu/petofi/",
     "favicon": null,
-    "type": "public",
-    "sourceCount": 2,
+    "type": null,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3536,29 +3407,6 @@
     "type": "public",
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_1f772b355a2ae6471051",
-    "name": "MR5 - Parlamenti Adások",
-    "country": "HU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "jazz",
-      "news",
-      "public"
-    ],
-    "tags": [
-      "jazz",
-      "news",
-      "politics",
-      "public radio"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-07-15T11:10:09Z"
   },
   {
     "id": "awb_e2cd1d62b248014c84c7",
@@ -4334,27 +4182,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_86e556786221d5a64710",
-    "name": "Periszkóp Rádió",
-    "country": "HU",
-    "subdivision": "Baranya",
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "free radio"
-    ],
-    "homepage": "https://periszkopradio.hu/",
-    "favicon": null,
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:16:49Z"
-  },
-  {
     "id": "awb_ca37d2cf7197fe124946",
     "name": "Petőfi",
     "country": "HU",
@@ -4403,9 +4230,9 @@
       "public radio"
     ],
     "homepage": "http://www.petofilive.hu/",
-    "favicon": "https://i1.sndcdn.com/artworks-000103658408-5g7ohr-t500x500.jpg",
+    "favicon": null,
     "type": "public",
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4533,24 +4360,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_49b4d6a680f15af90424",
-    "name": "Rádió 1",
-    "country": "HU",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [],
-    "tags": [
-      "dance"
-    ],
-    "homepage": "https://radio1.hu/",
-    "favicon": "https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T01:06:06Z"
-  },
-  {
     "id": "awb_c007f1b1dac619c84f8b",
     "name": "Rádió 1",
     "country": "HU",
@@ -4565,7 +4374,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4620,29 +4429,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_34fe48c23ed3e5278a57",
-    "name": "Rádió 1 - Sopron",
-    "country": "HU",
-    "subdivision": "Győr-Moson-Sopron",
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "hits",
-      "pop",
-      "top 40"
-    ],
-    "homepage": "https://radio1.hu/",
-    "favicon": "https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-28T15:00:46Z"
-  },
-  {
     "id": "awb_298539fb8e4dc3dac919",
     "name": "Rádió 1 Debrecen",
     "country": "HU",
@@ -4673,7 +4459,7 @@
     "homepage": "https://www.radio1eger.hu/",
     "favicon": "https://www.radio1eger.hu/wp-content/uploads/2025/02/logo_bg.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4938,22 +4724,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-07T09:52:09Z"
-  },
-  {
-    "id": "awb_1619b159f0a92cef549c",
-    "name": "Rádió Dabas",
-    "country": "HU",
-    "subdivision": "Pest",
-    "languages": [
-      "hu"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radiodabas.hu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:06:34Z"
   },
   {
     "id": "awb_bed2b1f049d5f96c5688",
@@ -5453,26 +5223,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_007f5731f4522f89a1fa",
-    "name": "RadiOzora Trance",
-    "country": "HU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "psychedelic",
-      "psytrance",
-      "trance"
-    ],
-    "homepage": "https://radiozora.fm/",
-    "favicon": "https://radiozora.fm/wp-content/uploads/2024/01/RADIO24-ok-1-640x244.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_8d1732e0501db3827330",
     "name": "Reménység Hangja Rádió",
     "country": "HU",
@@ -5480,19 +5230,12 @@
     "languages": [
       "hu"
     ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "adventist",
-      "christian",
-      "cultural",
-      "religious"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://remenyseghangja.ro/",
-    "favicon": "https://players.rcast.net/uploads/images/202409/img_x300_66d4651db6be74-74421204-37700107.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5593,20 +5336,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_4351e4b326c7294badc6",
-    "name": "Roxy Radio",
-    "country": "HU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://roxyradio.hu/",
-    "favicon": "https://s2.audiostream.hu:9443/unsafe/500x0/smart/https://roxyradio.hu/Logok/Roxy_Logo_App.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_7a3bdbd953773c437b1c",
@@ -5711,7 +5440,7 @@
     "homepage": "https://solaradio.hu/",
     "favicon": "http://www.kegyelem.net/uploads/thumbs/c7b42f10c-1.jpg",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 4,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6213,18 +5942,14 @@
       "community"
     ],
     "tags": [
-      "alternative",
       "community radio",
-      "free radio",
-      "freeform",
-      "independent",
       "pirate radio"
     ],
-    "homepage": "http://tilos.hu/",
-    "favicon": "http://tilos.hu/favicon.ico",
+    "homepage": "https://tilos.hu/",
+    "favicon": "https://pbs.twimg.com/profile_images/1566500393047162886/kbnlJsYS_400x400.jpg",
     "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:07:13Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T06:05:37Z"
   },
   {
     "id": "awb_4087a256cf1ef8458695",
@@ -6296,7 +6021,7 @@
     "homepage": "https://trendfm.hu/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {

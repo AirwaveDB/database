@@ -167,16 +167,12 @@
     "languages": [
       "ne"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.bbc.com/nepali",
-    "favicon": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-128x128.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -622,9 +618,9 @@
       "news"
     ],
     "homepage": "https://www.jpkhabar.com/",
-    "favicon": "https://scontent.fktm1-1.fna.fbcdn.net/v/t39.30808-6/366019422_794576132675494_5008954012440779529_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEvByzWXpXGOLOifeMWI-mB6EidZTX8ugzoSJ1lNfy6DKqgfahL7lsiidwWGY4yEVmTPIx-cqEol98hVEEMAwvT&_nc_ohc=535uJw4xoGYQ7kNvwHY7lQ9&_nc_oc=AdkAWHh2oipcSsBn-reZA8IM-dMphIzPyjUI7O3gJNXfPRrGj5skEKe2oIw9Jr-OuFk&_nc_zt=23&_nc_ht=scontent.fktm1-1.fna&_nc_gid=s5qgyXQmtNn-6yEKUGHyuQ&oh=00_AfL-boNmx4yccYeViVoegIaY_LLzhpC1mG_mZiRueUZJsQ&oe=6842DC45",
+    "favicon": "https://cdn-profiles.tunein.com/s343823/images/logod.jpg?t=638841604500000000",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T01:47:59Z"
   },
   {
@@ -731,16 +727,11 @@
       "ne"
     ],
     "categories": [],
-    "tags": [
-      "kantipur",
-      "kathmandu",
-      "nepal",
-      "nepali"
-    ],
+    "tags": [],
     "homepage": "https://radiokantipur.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1534,20 +1525,6 @@
     "updatedAt": "2026-09-10T20:31:10Z"
   },
   {
-    "id": "awb_b23f31182d861a6bcbd6",
-    "name": "Radio Kantipur",
-    "country": "NP",
-    "subdivision": "Kathmandu",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiokantipur.com/",
-    "favicon": "http://radio-jcss-cdn.ekantipur.com/images/kfm_logo.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
     "id": "awb_8ec65c41f1e5cc0e8d32",
     "name": "Radio Kantipur FM 96.1 MHz",
     "country": "NP",
@@ -1556,9 +1533,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiokantipur.com/",
-    "favicon": "http://radio-jcss-cdn.ekantipur.com/images/kfm_logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
@@ -2296,8 +2273,8 @@
     "homepage": "https://tinaufm.com.np/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-10T19:50:10Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-10T19:45:33Z"
   },
   {
     "id": "awb_046615016dbe505231c3",

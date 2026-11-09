@@ -43,30 +43,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_c9c1162048ce26162eef",
-    "name": "Actitud 100.9",
-    "country": "GT",
-    "subdivision": "Guatemala city",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "\\",
-      "christian",
-      "christian music",
-      "christian praise&worship"
-    ],
-    "homepage": "https://actitud.fm/",
-    "favicon": "https://yt3.googleusercontent.com/ytc/APkrFKbGOrZMbz2DoH0SGUd1pe2xLQ4R1IQeX5VG7RJ0Bg=s176-c-k-c0x00ffffff-no-rj",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:58:18Z"
-  },
-  {
     "id": "awb_cff0c120cb9a4ef49960",
     "name": "Actitud 100.9 FM",
     "country": "GT",
@@ -81,20 +57,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:26:48Z"
-  },
-  {
-    "id": "awb_661d59a29c7e4453bb3d",
-    "name": "Actitud 100.9 FM Guatemala",
-    "country": "GT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_b2ff868862fbc3f776d5",
@@ -372,17 +334,12 @@
     "country": "GT",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "catholic",
-      "christian"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://emausradio.net/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -598,60 +555,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:41:55Z"
-  },
-  {
-    "id": "awb_77064b5c04917e6ff53d",
-    "name": "Exa FM 101.7 Guatemala",
-    "country": "GT",
-    "subdivision": "Ciudad de Guatemala",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "101.7 fm",
-      "entretenimiento",
-      "estación",
-      "exa",
-      "exa fm",
-      "fm",
-      "grupo alius",
-      "guatemala",
-      "juvenil",
-      "la estación exacta",
-      "la estación naranja",
-      "latin music",
-      "latin pop",
-      "latinoamérica",
-      "moi merino",
-      "music",
-      "mvs",
-      "mvs radio",
-      "música",
-      "música en español",
-      "música pop",
-      "ponte exa",
-      "pop",
-      "pop dance",
-      "pop music",
-      "pop rock",
-      "radio",
-      "top",
-      "top 100",
-      "top 40",
-      "top 40 hits",
-      "top charts",
-      "top hits"
-    ],
-    "homepage": "https://www.facebook.com/exafmguatemala/",
-    "favicon": "https://www.facebook.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:46:18Z"
   },
   {
     "id": "awb_8966f4a7b4da5e1eb8fb",
@@ -905,20 +808,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_d8be54bfbb7c0cbc1b5f",
-    "name": "Juventud Palabra Miel",
-    "country": "GT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://juventudpalabramiel.org/",
-    "favicon": "https://juventudpalabramiel.org/images/radiojuventud.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-05T06:40:47Z"
   },
   {
     "id": "awb_401a0a5602367dc068ec",
@@ -1233,27 +1122,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:31:27Z"
-  },
-  {
-    "id": "awb_b1cbce87e8aee4001578",
-    "name": "Radio Actitud",
-    "country": "GT",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian music"
-    ],
-    "homepage": "https://actitud.fm/",
-    "favicon": "https://actitud.fm/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:33:47Z"
   },
   {
     "id": "awb_aadbfb9221da6c27d030",

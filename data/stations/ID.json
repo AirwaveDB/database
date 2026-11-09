@@ -55,20 +55,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_27dc6e18c2fbd04c5065",
-    "name": "101 Jak FM Streaming Online – Jakarta",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://jak101fm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_3dc55d1dbb4d2be75f19",
     "name": "101.1 Insania FM Sumbawa",
     "country": "ID",
@@ -260,26 +246,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_993d27b8d87257b0da52",
-    "name": "88.0 Mustang FM Jakarta",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [
-      "id"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "musik and news"
-    ],
-    "homepage": "https://mustang88fm.com/",
-    "favicon": "https://mustang88fm.com/assets/img/xfavicon.ico.pagespeed.ic.zecamulnwf.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:22:03Z"
-  },
-  {
     "id": "awb_3e254daf2a94efb1e6df",
     "name": "889 FMberlin",
     "country": "ID",
@@ -321,7 +287,7 @@
     "homepage": "https://www.campursarifm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -353,24 +319,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
-    "id": "awb_4b9fa7ac471e7cae75c6",
-    "name": "95.1 Kiss FM",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop adul kontemporer"
-    ],
-    "homepage": "https://kis951fm.com/",
-    "favicon": "https://kis951fm.com/assets/img/xfavicon.ico.pagespeed.ic.7xpwd2svoy.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_2c7a84fcb27920aa5b39",
@@ -431,22 +379,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-06T22:39:47Z"
-  },
-  {
-    "id": "awb_4570c6534aad4c3bf71a",
-    "name": "98,4 Suara Giri FM Gresik",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "misc"
-    ],
-    "homepage": "http://www.girifm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_128f52e36a0d8a7d7a40",
@@ -668,38 +600,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_5707f306f66cb3db9e0c",
-    "name": "Ardan",
-    "country": "ID",
-    "subdivision": "Bandung, West Java",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://ardanradio.com/",
-    "favicon": "https://ardanradio.com/storage/logo/Logo%20Ardan.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-16T23:00:58Z"
-  },
-  {
-    "id": "awb_9c7b8be96320f0e24e78",
-    "name": "ARDAN 105.9 FM BANDUNG",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://ardanradio.com/",
-    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/396/ardan-fm.46d7b4ee.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-10T11:39:38Z"
-  },
-  {
     "id": "awb_bf0148e43e57740539e7",
     "name": "ARDAN RADIO",
     "country": "ID",
@@ -917,14 +817,13 @@
     ],
     "tags": [
       "dance",
-      "dj remix",
       "electronic",
       "house"
     ],
     "homepage": "https://thebeatbali.com/",
-    "favicon": "https://i0.wp.com/thebeatbali.com/wp-content/uploads/2020/05/favicon.png?fit=180%2c180&#038;ssl=1",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -979,23 +878,23 @@
       "sunda"
     ],
     "homepage": "https://bellasalamfm.com/",
-    "favicon": "https://www.bellasalamfm.com/wp-content/uploads/2026/06/logo-bellasalam-kotak-512x512-1.png",
+    "favicon": "https://news.bellasalamfm.com/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_11a914a5196431798527",
-    "name": "BENS RADIO",
+    "name": "Bens Radio",
     "country": "ID",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://www.bensradio.com/",
-    "favicon": "https://www.bensradio.com/wp-content/uploads/2026/02/logo-bens-baru-768x322.webp",
+    "favicon": "https://www.bensradio.com/wp-content/uploads/2026/02/logo-bens-baru.webp",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-07-09T15:38:43Z"
   },
   {
@@ -1192,15 +1091,11 @@
       "jv"
     ],
     "categories": [],
-    "tags": [
-      "campursari",
-      "dangdut",
-      "koplo"
-    ],
+    "tags": [],
     "homepage": "https://www.campursarifm.com/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/id/d/d0/Campursari_FM_892.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1252,7 +1147,7 @@
     "homepage": "https://www.cityradio.id/5.0/streaming?line=2",
     "favicon": "https://cityradio.id/5.0/assets/img/city_logo_web.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-04-25T13:52:08Z"
   },
   {
@@ -1493,9 +1388,9 @@
       "pop"
     ],
     "homepage": "https://www.radiodahliafm.com/",
-    "favicon": "https://www.radiodahliafm.com/frontend/img/about/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1651,17 +1546,14 @@
       "rock"
     ],
     "tags": [
-      "pop music",
-      "pop rock",
       "pop-music",
       "pop-rock",
-      "top 40",
       "top-40"
     ],
     "homepage": "https://denger.in/",
-    "favicon": "https://denger.in/logo.png",
+    "favicon": "https://denger.in/images/dmi-tosca.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1729,13 +1621,12 @@
       "pop"
     ],
     "tags": [
-      "pop",
-      "top40"
+      "pop"
     ],
     "homepage": "https://www.dnafm.net/",
-    "favicon": "https://www.dnafm.net/wp-content/uploads/2024/08/cropped-logo_560.jpg",
+    "favicon": "https://www.dnafm.net/wp-content/uploads/2025/08/dnafm_logo_280x96.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1821,41 +1712,17 @@
     "updatedAt": "2026-11-07T00:10:04Z"
   },
   {
-    "id": "awb_4b09d8692cc546237808",
-    "name": "Elshinta FM Jakarta",
-    "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": "https://elshinta.com/live/radio",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIzL7tIGB12Br_2r7vntuYq1pMrDXk5HIG2LOERpfrYB2UVFu3J3SBSa-&s=10",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:58:35Z"
-  },
-  {
     "id": "awb_ccb320cb8611008944ad",
     "name": "elshinta jakarta",
     "country": "ID",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://elshinta.com/radio",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1885,8 +1752,8 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_220e30e8c9bc0657d9c1",
@@ -1947,9 +1814,9 @@
       "pop"
     ],
     "homepage": "https://radiostream.novawap.com/",
-    "favicon": "https://static-roov.rctiplus.id/images/radio/free-fm-jakarta-1679027322.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1975,7 +1842,7 @@
     "homepage": "https://www.fressfm.com/",
     "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOM4Hu71atAn0HP-2Ye-TYCceB3QTwwXM2FA&usqp=CAU",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-09-30T13:19:17Z"
   },
   {
@@ -2013,7 +1880,7 @@
     "homepage": "https://gajahmadafm.co.id/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T23:37:16Z"
   },
   {
@@ -2047,7 +1914,7 @@
     "id": "awb_b04c11cb931a5ecc34a6",
     "name": "Galau Jikan FM - Indonesia",
     "country": "ID",
-    "subdivision": "DKI Jakarta",
+    "subdivision": null,
     "languages": [
       "en",
       "id",
@@ -2060,8 +1927,8 @@
     "homepage": "https://gjfm.my.id/",
     "favicon": "https://gjfm.my.id/logo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-27T00:52:03Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-22T01:56:08Z"
   },
   {
     "id": "awb_44ca6c59042111bdb680",
@@ -2105,8 +1972,8 @@
     "homepage": "https://stream-sg1.galuhmedia.co.id/listen/galuhmedia/stream",
     "favicon": "https://www.galuhweb.com/assets/static/img/logo-2.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-11-06T22:07:03Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-06T11:32:51Z"
   },
   {
     "id": "awb_e37213354f3a84a87eed",
@@ -2151,24 +2018,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_e4cbed85696ee20ad123",
-    "name": "Gen 103.1 FM Surabaya",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://gen1031fm.com/streaming",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_4a71a03b77cb48f57c80",
     "name": "Gen 103.1 FM Surabaya New",
     "country": "ID",
@@ -2192,35 +2041,10 @@
     "updatedAt": "2026-01-14T23:27:13Z"
   },
   {
-    "id": "awb_83d798892be4e5962e82",
-    "name": "Gen 98.7 FM",
-    "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "indonesia",
-      "indonesian",
-      "pop",
-      "pop music",
-      "pop rock"
-    ],
-    "homepage": "https://gen987fm.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbOar4cPXVK8MrnO6gP7fUc8fQVpkLRFPdCQ&s",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-09T16:23:34Z"
-  },
-  {
     "id": "awb_d45283beb1fcabb13062",
     "name": "Gen 98.7 FM Jakarta",
     "country": "ID",
-    "subdivision": "DKI Jakarta",
+    "subdivision": "Jakarta",
     "languages": [
       "id"
     ],
@@ -2228,45 +2052,22 @@
       "jazz",
       "news",
       "pop",
-      "rock",
-      "talk"
+      "rock"
     ],
     "tags": [
       "alternative",
       "jazz",
       "local music",
-      "music",
       "news",
       "pop",
       "rock",
-      "talk",
       "top 40 hits"
     ],
     "homepage": "https://gen987fm.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4VecqCqeZwK-c0osq91dVt4J3xf2ksm1U4g&usqp=CAU",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/k9kKLX6VTr.png",
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 3,
     "updatedAt": "2026-11-05T06:56:58Z"
-  },
-  {
-    "id": "awb_899318957e50f6cec463",
-    "name": "gen 987 FM",
-    "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://gen987fm.com/",
-    "favicon": "https://www.mahakax.com/wp-content/uploads/2022/09/Logo-Gen-Jkt-png.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-22T09:57:38Z"
   },
   {
     "id": "awb_a19fc035f03e89eb4ea4",
@@ -2281,10 +2082,10 @@
       "pop"
     ],
     "homepage": "https://radiofm.novawap.com/",
-    "favicon": "https://liveonlineradio.net/wp-content/uploads/2013/12/gen-fm-1.jpg",
+    "favicon": "https://liveonlineradio.net/wp-content/uploads/2013/12%20/gen-fm-1.Jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-27T21:50:27Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-05-27T21:48:41Z"
   },
   {
     "id": "awb_8dd1073a789ab7fc9c99",
@@ -2430,20 +2231,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_1d401dea74a3c1ed1852",
-    "name": "HANG 106FM",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://panel.hangmedia.co.id/radiop.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_4c9600f150d85f5b25bc",
     "name": "Hang FM",
     "country": "ID",
@@ -2528,9 +2315,9 @@
       "rock"
     ],
     "homepage": "https://radiostream.novawap.com/",
-    "favicon": "https://www.hrhradio.com/wp-content/uploads/2023/05/logo_cuadrado_fondo_negro-150x150.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2546,7 +2333,7 @@
     "homepage": "https://hardrockfm.com/",
     "favicon": "https://hardrockfm.com/favicon.ico",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-07-18T12:39:43Z"
   },
   {
@@ -2645,10 +2432,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://hitsunikomradio.com/",
-    "favicon": "https://hitsunikomradio.com/wp-content/themes/hitsunikomradio/assets/images/hits_unikom.png",
+    "favicon": "https://i0.wp.com/hitsunikomradio.com/wp-content/uploads/2024/06/cropped-logo.png?fit=200%2C89&ssl=1",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-06-20T15:54:19Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_1e8a7ccbe348e0cd0c7f",
@@ -3166,7 +2953,7 @@
     "homepage": "https://jak101fm.com/",
     "favicon": "https://jak101fm.com/wp-content/uploads/2020/08/cropped-logo-jak-bar-1-180x180.png",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 4,
     "updatedAt": "2026-11-05T07:00:39Z"
   },
   {
@@ -3366,9 +3153,9 @@
       "pop"
     ],
     "homepage": "https://firzadankiaradio.blogspot.com/",
-    "favicon": "http://cdn.theradiohub.com/logos/157.jpg",
+    "favicon": "https://cdn.theradiohub.com/logos/157.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3402,31 +3189,15 @@
       "pop"
     ],
     "tags": [
-      "2024",
-      "adult conterporary",
-      "best",
-      "club",
-      "club house",
       "dance",
-      "dance pop",
-      "deep house",
-      "electro",
       "electronic",
-      "fresh",
-      "hot",
       "house",
-      "misc",
-      "new",
-      "party",
-      "pop",
-      "remix",
-      "variety",
-      "various"
+      "pop"
     ],
     "homepage": "https://kinozal.tv/radio.php",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3451,27 +3222,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:27:18Z"
-  },
-  {
-    "id": "awb_dc65dab121d0efbea540",
-    "name": "Kis 95.1 FM Jakarta",
-    "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "chill",
-      "relax music"
-    ],
-    "homepage": "https://kis951fm.com/streaming",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:03:21Z"
   },
   {
     "id": "awb_307458f8eaaf1bee73a2",
@@ -3714,23 +3464,14 @@
     "name": "KPFM Balikpapan",
     "country": "ID",
     "subdivision": "Balikpapan",
-    "languages": [
-      "en",
-      "id"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "indonesia",
-      "pop"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://live.kapefm.com/",
     "favicon": "https://live.kapefm.com/wp-content/uploads/2024/07/logo-kapefmcom.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-04-08T12:32:27Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-04-08T12:30:16Z"
   },
   {
     "id": "awb_6f88819f65198a44404d",
@@ -3750,7 +3491,7 @@
     "homepage": "https://kradionews.com/",
     "favicon": "https://i.imgur.com/MIalWN9.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-11-06T22:07:03Z"
   },
   {
@@ -3942,24 +3683,6 @@
     "updatedAt": "2026-06-26T07:18:27Z"
   },
   {
-    "id": "awb_2a92f47703f4b5b4727e",
-    "name": "mandarin station",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "https://mandarinstation983.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_defc8c44b9a296606610",
     "name": "Mandarin Station 98.3 FM",
     "country": "ID",
@@ -3976,24 +3699,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_3bc38d0b45eabaa50913",
-    "name": "Mandarin station FM 98.3",
-    "country": "ID",
-    "subdivision": "DKI Jakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [],
-    "tags": [
-      "mandarin"
-    ],
-    "homepage": "https://mandarinstation983.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-24T04:15:45Z"
   },
   {
     "id": "awb_9ad9e920fecefcaa1c8e",
@@ -4066,20 +3771,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_4f285224e415b39dde3e",
-    "name": "Megaswara FM Bogor 100,8 MHZ",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://megaswaramobile.com/",
-    "favicon": "https://megaswaramobile.com/img/core-img/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_6c3219af44c0d29c41e9",
     "name": "Mendhut FM",
     "country": "ID",
@@ -4122,7 +3813,7 @@
     "homepage": "https://merdekafm.com/",
     "favicon": "https://merdekafm.com/wp-content/uploads/2021/09/icon_merdeka2-1.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-03-22T13:54:45Z"
   },
   {
@@ -4754,36 +4445,6 @@
     "updatedAt": "2026-05-29T18:06:10Z"
   },
   {
-    "id": "awb_2d7523262ddb1339a816",
-    "name": "Most Radio Jakarta",
-    "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://most1058fm.com/streaming",
-    "favicon": "https://cdn.instant.audio/images/logos/radioonline-co-id/lite-jakarta.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:33:47Z"
-  },
-  {
-    "id": "awb_2e30040aa688f15ed529",
-    "name": "MQFM Bandung - Indonesia",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mqfmnetwork.com/",
-    "favicon": "https://mqfmnetwork.com/wp-content/uploads/2023/02/cropped-logo-MQFM-768x172.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_5a5d8add6675780d8d9d",
     "name": "MTB FM Surabaya",
     "country": "ID",
@@ -4810,20 +4471,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-18T14:50:19Z"
-  },
-  {
-    "id": "awb_8bd1636d3feace138be2",
-    "name": "Mustang 88 FM",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mustang88fm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_5249b2ae807bffb766e2",
@@ -4991,27 +4638,6 @@
     "updatedAt": "2026-03-27T03:59:54Z"
   },
   {
-    "id": "awb_38bf4b7f90f494cea84c",
-    "name": "Nur FM Rembang",
-    "country": "ID",
-    "subdivision": "Jawa Tengah",
-    "languages": [
-      "id",
-      "jv"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "religious"
-    ],
-    "homepage": "https://live.nurfmrembang.com/",
-    "favicon": "https://www.nurfmrembang.com/wp-content/uploads/2020/01/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-04T20:26:06Z"
-  },
-  {
     "id": "awb_e4f76888bf57d6919cd5",
     "name": "Nusa FM",
     "country": "ID",
@@ -5028,26 +4654,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_2f3af9563621345383e6",
-    "name": "Nusa FM Yogyakarta",
-    "country": "ID",
-    "subdivision": "Yogyakarta",
-    "languages": [
-      "jv"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "religious"
-    ],
-    "homepage": "https://nusafm.weebly.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx1ax2t21LXJm9bjsYPOgrKqCgK6-dJ3kygUEmzm0yBv5pJWNbSrg_Np8w&s=10",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:26:37Z"
   },
   {
     "id": "awb_9aa91ef9fa13404e8d3d",
@@ -5076,20 +4682,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-15T14:37:48Z"
-  },
-  {
-    "id": "awb_9d85bbb2a0f66697b5dc",
-    "name": "OKTAP Radio",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://play.google.com/store/apps/details?id=com.streamedia.id0ktf1",
-    "favicon": "https://play-lh.googleusercontent.com/PgAHb2Wxo01UTmVtSIi2ZGuntjpixEUEgRGEzYuBv8GU_VpgKMz-kpkSxpKA0taMvvDydWwhUxEfId6M_hVbl98=s512-rw",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-17T13:32:23Z"
   },
   {
     "id": "awb_456c25a63665fa28a2f8",
@@ -5171,13 +4763,12 @@
       "easy listening",
       "easy-listening",
       "hits",
-      "j-pop",
       "pop"
     ],
     "homepage": "https://pandumusikradio.wixsite.com/myradio",
     "favicon": "https://forwardmystream.com/stations/300/pandumusikradio-2013.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5306,20 +4897,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_7fc574c84f5a33265ca2",
-    "name": "Phoenix Radio Bali",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://phoenixradiobali.com/index.php",
-    "favicon": "https://phoenixradiobali.com/images/logo_phoenixradiobali.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-06T14:08:57Z"
   },
   {
     "id": "awb_03448950a56967ff38b6",
@@ -5504,22 +5081,6 @@
     "updatedAt": "2026-05-04T13:10:50Z"
   },
   {
-    "id": "awb_88538b228465647e1825",
-    "name": "PRO 1 RRI MAKASSAR",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [
-      "id"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rri.co.id/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:23:51Z"
-  },
-  {
     "id": "awb_9eae378640633f6c8033",
     "name": "Pro 5 Makassar",
     "country": "ID",
@@ -5538,35 +5099,17 @@
     "updatedAt": "2026-05-26T03:00:20Z"
   },
   {
-    "id": "awb_279e4aa19aaf40e30ed6",
-    "name": "Pro1 RRI Jakarta",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rri.co.id/",
-    "favicon": "https://www.rri.co.id/assets/v2/img/logo-rricoid.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_afda627799fbc97c77fa",
     "name": "Pro1 RRI Makassar",
     "country": "ID",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://rri.co.id/stream/radio",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5620,10 +5163,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.elshinta.com/",
-    "favicon": "https://elshinta.com/template/elshinta_mobile/images/radio.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:06Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_faff5c91bb67b75d6be7",
@@ -5751,22 +5294,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_3206926109aefa721f63",
-    "name": "Radio ananda",
-    "country": "ID",
-    "subdivision": "asia tenggara",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "edukation"
-    ],
-    "homepage": "https://www.radioanandabandung.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_5691c47cbdfcc195d829",
     "name": "Radio ANDIKA",
     "country": "ID",
@@ -5816,20 +5343,14 @@
     "id": "awb_ce17e5ba108cfb6de530",
     "name": "Radio Bantul 89.10 FM",
     "country": "ID",
-    "subdivision": "Yogyakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://www.swadesifm.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJF8y-O1ocSyEUCPv1J5NK_8-DFS1U9pHWp7PMQUGfdUDjL5-5iF-E51w&s=10",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://swadesifm.com/",
+    "favicon": "https://swadesifm.com/_next/image?url=%2Fapi%2Fmedia%2Ffile%2Fswadesibantul.png&w=828&q=75",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-06-25T13:09:52Z"
   },
   {
@@ -5903,7 +5424,7 @@
     "homepage": "https://radiobola.co.id/",
     "favicon": "https://i.imgur.com/jWiTHyJ.jpeg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-11-06T11:46:06Z"
   },
   {
@@ -5965,8 +5486,8 @@
     "homepage": "https://www.cbbradio.com/home",
     "favicon": "https://lh4.googleusercontent.com/Q5b7umKixgKr5wE-FpM11128BawjPXdw3kZgFCY-MIcwWCb2-QK5rZAAJE-G_nt6JJs3XoOG9UaWjSgQM_IBCBM=w16383",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-23T08:43:58Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_23252ec3691dbbe9426c",
@@ -6038,20 +5559,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_468ecd66a1c492c551a8",
-    "name": "Radio Dangdut 97.1 FM Jakarta",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.rdifm.co.id/",
-    "favicon": "http://www.hit-tuner.net/images/radiologos/img_laender/radio_dangdut_971.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_42076a3f2ffb9c641b18",
@@ -6129,20 +5636,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_5687c75d31043ff54267",
-    "name": "Radio Elshinta",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://elshinta.com/live/radio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_2401517769b32063ba78",
     "name": "Radio Elshinta Bandung",
     "country": "ID",
@@ -6206,22 +5699,6 @@
     "updatedAt": "2026-07-17T13:37:45Z"
   },
   {
-    "id": "awb_2f3ef23c7e7d542fcd90",
-    "name": "Radio Gentara",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "dangdut"
-    ],
-    "homepage": "https://radiostream.novawap.com/",
-    "favicon": "https://static.mytuner.mobi/media/radios-150px/157/radio-gentara.04b3d352.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-06T21:08:37Z"
-  },
-  {
     "id": "awb_8695df9b4f018c7f3f0f",
     "name": "Radio Gentara",
     "country": "ID",
@@ -6232,7 +5709,7 @@
     "homepage": "https://radiogentara.com/",
     "favicon": "https://radiogentara.com/wp-content/uploads/2023/09/Logo-Radio-Gentara-White.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
   },
   {
@@ -6316,7 +5793,7 @@
     "homepage": "https://radioidola.com/",
     "favicon": "https://radioidola.com/wp-content/uploads/2021/01/Radio-Idola-Semarang-462x462.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-06-20T14:48:09Z"
   },
   {
@@ -6371,8 +5848,8 @@
     "homepage": "http://siaran.radioislam.my.id:11132/index.html",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T04:35:18Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:05:08Z"
   },
   {
     "id": "awb_fdde77eddb07ac6824dc",
@@ -6389,22 +5866,8 @@
     "homepage": "http://malang.radioislam.my.id:11132/index.html?sid=1",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T06:36:23Z"
-  },
-  {
-    "id": "awb_b039e96965ee566a920e",
-    "name": "RADIO K-LITE 107.1 FM BANDUNG",
-    "country": "ID",
-    "subdivision": "Bandung",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.klite.id/",
-    "favicon": null,
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:13Z"
+    "updatedAt": "2026-01-14T23:53:14Z"
   },
   {
     "id": "awb_d50e7d82f51bca44bf66",
@@ -6593,7 +6056,7 @@
     "homepage": "https://radiomanggarai88.com/",
     "favicon": "https://radiomanggarai88.com/favicon.png?v=2",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-11-01T04:30:38Z"
   },
   {
@@ -6927,7 +6390,7 @@
     "homepage": "https://aliman.id/",
     "favicon": "https://aliman.id/site/wp-content/uploads/2019/01/logo-250-150x150.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-04-18T04:38:57Z"
   },
   {
@@ -7090,7 +6553,7 @@
     "homepage": "https://rasfmjakarta.com/",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241110_200404387.jpg?alt=media&token=2e644c7b-e474-4658-8852-9f725608e5cb",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T03:18:28Z"
   },
   {
@@ -7102,17 +6565,15 @@
       "id"
     ],
     "categories": [
-      "pop",
-      "religious"
+      "pop"
     ],
     "tags": [
-      "pop",
-      "religious"
+      "pop"
     ],
     "homepage": "https://rasfmjakarta.com/rastreaming",
-    "favicon": "https://rasfmjakarta.com/wp-content/uploads/2017/08/logo.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7161,22 +6622,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-27T16:36:20Z"
-  },
-  {
-    "id": "awb_713b58cc77e4a2314f62",
-    "name": "RDI 97.1 FM",
-    "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "dangdut"
-    ],
-    "homepage": "http://www.rdifm.co.id/",
-    "favicon": "https://i.imgur.com/4abdtyl.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_61579ce41e31462fc69e",
@@ -7268,16 +6713,16 @@
   },
   {
     "id": "awb_86c8d539ee98b106b47d",
-    "name": "Retjo Buntung FM",
+    "name": "RETJO BUNTUNG FM",
     "country": "ID",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://retjobuntungfm.com/home",
+    "homepage": "https://retjobuntungfm.com/",
     "favicon": "https://retjobuntungfm.com/themes/radio/images/logo.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-06-29T13:01:05Z"
   },
   {
@@ -7393,9 +6838,9 @@
       "90s"
     ],
     "homepage": "http://radio-online.id/rri-channel5",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240321_200416756.jpg?alt=media&token=1371f1d7-7170-4c52-80e2-0df87f504281",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7488,24 +6933,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_6491955d5001eb6d2d1a",
-    "name": "RRI Pro 1 Jakarta",
-    "country": "ID",
-    "subdivision": "DKI Jakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [],
-    "tags": [
-      "information"
-    ],
-    "homepage": "https://rri.co.id/",
-    "favicon": "https://radio-online.id/assets/image/radio/180/rri-pro-1-Jakarta.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-22T23:15:22Z"
-  },
-  {
     "id": "awb_6d6d2e516da25772aa2f",
     "name": "RRI Pro 1 Jakarta 91.2 FM",
     "country": "ID",
@@ -7522,32 +6949,13 @@
       "hot adult contemporary",
       "information",
       "inspiration",
-      "local news",
-      "local radio"
+      "local news"
     ],
     "homepage": "https://www.rri.co.id/",
     "favicon": "https://ppid.rri.go.id/download/dokumen/pro_1.png/276134",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-12T02:24:10Z"
-  },
-  {
-    "id": "awb_6c12de855528d18f5b6d",
-    "name": "RRI Pro 1 Makassar",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": "https://rri.co.id/stream/radio",
-    "favicon": "https://static.wikia.nocookie.net/logopedia/images/0/09/RRI_Pro_1_Makassar.png/revision/latest?cb=20180120105525",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "updatedAt": "2026-06-11T12:40:29Z"
   },
   {
     "id": "awb_b6592b1a637d95aabf4e",
@@ -7639,24 +7047,14 @@
     "languages": [
       "id"
     ],
-    "categories": [
-      "news",
-      "pop",
-      "talk"
-    ],
+    "categories": [],
     "tags": [
-      "local music",
-      "local news",
-      "local weather",
-      "music",
-      "news",
-      "pop music",
-      "talk show radio"
+      "music"
     ],
     "homepage": "https://rri.co.id/tanjungpinang",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7707,23 +7105,12 @@
     "languages": [
       "id"
     ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "local information",
-      "local music",
-      "local news",
-      "local radio",
-      "local talk",
-      "local weather",
-      "talk show radio"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://rri.co.id/tanjungpinang",
-    "favicon": "https://static.wikia.nocookie.net/logopedia/images/e/e9/RRI_Pro_2_Tanjung_Pinang.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7837,30 +7224,6 @@
     "updatedAt": "2026-01-15T00:50:24Z"
   },
   {
-    "id": "awb_6e15790f5e1cfa4b885c",
-    "name": "RRI Pro 2 Tanjungpinang",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [
-      "id"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "local news",
-      "music",
-      "news",
-      "talk show radio"
-    ],
-    "homepage": "https://rri.co.id/tanjungpinang",
-    "favicon": "https://logos.fandom.com/wiki/RRI_Pro_2_Tanjung_Pinang?file=RRI_Pro_2_Tanjung_Pinang.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:16:26Z"
-  },
-  {
     "id": "awb_b91d9332a2278c2ebcc2",
     "name": "RRI Pro 2 Yogyakarta",
     "country": "ID",
@@ -7887,32 +7250,16 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "news",
       "pop"
     ],
     "tags": [
-      "news",
       "pop"
     ],
     "homepage": "https://radiostream.novawap.com/",
-    "favicon": "https://rri.co.id/assets_frontend/images/pro3_rri.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_8f09b9c827fbf5d0da46",
-    "name": "RRI PRO 3",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rri.co.id/stream/radio",
-    "favicon": "https://www.rri.co.id/assets/v2/img/pro3.png",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_fd62de4da763b05e131f",
@@ -8151,23 +7498,17 @@
       "en"
     ],
     "categories": [
-      "news",
       "pop",
-      "rock",
-      "talk"
+      "rock"
     ],
     "tags": [
-      "culture",
-      "international",
-      "news",
       "pop",
-      "rock",
-      "talk"
+      "rock"
     ],
     "homepage": "https://www.voinews.id/",
-    "favicon": "https://www.voinews.id/home/img/logo/favicon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8218,7 +7559,7 @@
     "homepage": "http://www.streaming.sanantafm.com/",
     "favicon": "http://www.streaming.sanantafm.com/img/sanantafm.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -8343,22 +7684,6 @@
     "updatedAt": "2026-07-07T15:15:52Z"
   },
   {
-    "id": "awb_41bdefdda251ece6f112",
-    "name": "Slawi FM Tegal",
-    "country": "ID",
-    "subdivision": "Tegal",
-    "languages": [
-      "id"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://slawifm.id/",
-    "favicon": "https://slawifm.id/wp-content/uploads/2021/01/slawi-fm-1.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T05:53:55Z"
-  },
-  {
     "id": "awb_df5c44483d72f2e33b67",
     "name": "Slipknot",
     "country": "ID",
@@ -8373,7 +7698,7 @@
     "homepage": "https://radiofm.novawap.com/",
     "favicon": "https://media.radiospinner.com/media/logos/180/1006601/logo_o2UHNsKVzd.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8433,18 +7758,14 @@
     "languages": [
       "id"
     ],
-    "categories": [
-      "news"
-    ],
+    "categories": [],
     "tags": [
-      "music",
-      "news",
-      "traffic"
+      "music"
     ],
     "homepage": "https://www.sonora.id/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/HGDyN8ySPT.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8574,9 +7895,9 @@
       "classic-rock"
     ],
     "homepage": "https://radiostream.novawap.com/",
-    "favicon": "https://static.wixstatic.com/media/837828_567a64fa790042dca71f5fbafbabf7a6~mv2.jpeg",
+    "favicon": "https://static.wixstatic.com/media/837828_03b79a4d1d0345839c9a2e523d54662c~mv2.png/v1/fill/w_246,h_246,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/837828_03b79a4d1d0345839c9a2e523d54662c~mv2.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8757,24 +8078,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_7b644b30455408e42fe0",
-    "name": "Suara Gracia FM",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://radiostream.novawap.com/",
-    "favicon": "https://klikhost.com/lunaplayer/graciafm/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-16T16:58:53Z"
-  },
-  {
     "id": "awb_af2591558ee8a0a967d8",
     "name": "Suara Gracia FM",
     "country": "ID",
@@ -8897,20 +8200,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_867bd2c35de1d1c53526",
-    "name": "Suara Surabaya",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.suarasurabaya.net/radio/",
-    "favicon": "https://www.suarasurabaya.net/wp-content/uploads/2020/02/iconSS.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_fedf6ac6e46875cc17da",
     "name": "Suara Surabaya FM",
     "country": "ID",
@@ -8921,7 +8210,7 @@
     "homepage": "https://www.suarasurabaya.net/radio/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -9159,20 +8448,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-03T13:10:42Z"
-  },
-  {
-    "id": "awb_b44ffe9ec80ec584b844",
-    "name": "The Beat Bali",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_557933246ba351cd7825",
@@ -9554,20 +8829,6 @@
     "updatedAt": "2026-05-28T23:19:09Z"
   },
   {
-    "id": "awb_2819c348247d1695a841",
-    "name": "Voice of Indonesia",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://voinews.id/",
-    "favicon": "https://voinews.id/img/logo-voi.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-29T13:03:40Z"
-  },
-  {
     "id": "awb_42d325d9636c42c0816d",
     "name": "Voice of Indonesia RRI world service",
     "country": "ID",
@@ -9702,7 +8963,7 @@
     "id": "awb_4b99604c24f184ad25a3",
     "name": "VOS RADIO",
     "country": "ID",
-    "subdivision": "Jawa Barat",
+    "subdivision": null,
     "languages": [
       "en",
       "id"
@@ -9714,7 +8975,7 @@
     "homepage": "https://voss.my.id/",
     "favicon": "https://cdn.onlineradiobox.com/img/l/6/94966.v8.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-11-06T20:34:38Z"
   },
   {
@@ -9752,7 +9013,7 @@
     "homepage": "https://xn--tmz.xn--tnz/?",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {

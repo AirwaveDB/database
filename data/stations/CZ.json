@@ -234,28 +234,12 @@
       "cs"
     ],
     "categories": [],
-    "tags": [
-      "regional"
-    ],
-    "homepage": "https://budejovice.rozhlas.cz/",
-    "favicon": "https://budejovice.rozhlas.cz/",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_add428641a9212b48e1e",
-    "name": "Cesky Rozhlas Classical Lossless FLAC Stream",
-    "country": "CZ",
-    "subdivision": "Czech Republic",
-    "languages": [],
-    "categories": [],
     "tags": [],
-    "homepage": "https://d-dur.rozhlas.cz/",
-    "favicon": "https://d-dur.rozhlas.cz/favicon.ico",
+    "homepage": "https://budejovice.rozhlas.cz/",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_420b32db4e037e6e4b2a",
@@ -417,30 +401,6 @@
     "updatedAt": "2026-09-01T20:45:55Z"
   },
   {
-    "id": "awb_88fd575f675aacf993c4",
-    "name": "City FM",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [
-      "cs",
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "dance",
-      "eurodance",
-      "hits",
-      "top100"
-    ],
-    "homepage": "https://hitradiocity.cz/",
-    "favicon": "https://hitradiocity.cz/design/favicons/apple-icon-120x120.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:24:51Z"
-  },
-  {
     "id": "awb_733fc0c4111bfc081173",
     "name": "City Milenium",
     "country": "CZ",
@@ -552,24 +512,6 @@
     "updatedAt": "2026-01-15T04:42:03Z"
   },
   {
-    "id": "awb_85d3fc52efe63daba776",
-    "name": "Country Radio",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_c9b1667d1b022fac89f2",
     "name": "Country Radio",
     "country": "CZ",
@@ -656,22 +598,8 @@
     "homepage": "https://d-dur.rozhlas.cz/",
     "favicon": "https://api.play.cz/static/radio_logo/t200/croddur.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_b16e3ff7db40a718566f",
-    "name": "ČRo D-dur FLAC",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.cesnet.cz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_9132b7af1f84d217652c",
@@ -743,31 +671,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-06T13:54:45Z"
-  },
-  {
-    "id": "awb_c1ec017dff361209557c",
-    "name": "ČRo Jazz",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [
-      "cs"
-    ],
-    "categories": [
-      "jazz",
-      "public"
-    ],
-    "tags": [
-      "flac",
-      "jazz",
-      "lossless",
-      "public radio",
-      "český rozhlas"
-    ],
-    "homepage": "https://www.rozhlas.cz/jazz/",
-    "favicon": "https://jazz.rozhlas.cz/sites/default/files/favicon_jazz.ico",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:51:52Z"
   },
   {
     "id": "awb_f5138c7fe0160759e8ac",
@@ -993,22 +896,12 @@
     "languages": [
       "cs"
     ],
-    "categories": [
-      "news",
-      "public",
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "public radio",
-      "sport",
-      "talk"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://rozhlas.cz/",
     "favicon": null,
-    "type": "public",
-    "sourceCount": 2,
+    "type": null,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1059,20 +952,12 @@
     "languages": [
       "cs"
     ],
-    "categories": [
-      "news",
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "news talk",
-      "sports news",
-      "český rozhlas"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://sport.rozhlas.cz/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1208,24 +1093,6 @@
     "updatedAt": "2026-01-15T07:25:31Z"
   },
   {
-    "id": "awb_5d368669e31753937c2d",
-    "name": "Czech radio classical",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": "https://d-dur.rozhlas.cz/",
-    "favicon": "https://d-dur.rozhlas.cz/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_5b0734cde5ef9c258eab",
     "name": "Czech Radio ČRo D-dur",
     "country": "CZ",
@@ -1238,20 +1105,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_48bd6bdd214268a0eed0",
-    "name": "Czech Radio ČRo Jazz | aac 160",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://jazz.rozhlas.cz/",
-    "favicon": "https://jazz.rozhlas.cz/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-06T13:57:51Z"
   },
   {
     "id": "awb_65c04db341cba8082b34",
@@ -1400,20 +1253,6 @@
     "updatedAt": "2026-01-15T06:30:27Z"
   },
   {
-    "id": "awb_b895ce14d9fabdacb20c",
-    "name": "ENERGIC",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioenergic.cz/",
-    "favicon": "https://radioenergic.cz/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_7efea91df0c636dded06",
     "name": "Evropa 2 - aac",
     "country": "CZ",
@@ -1476,13 +1315,11 @@
     "subdivision": "Prague",
     "languages": [],
     "categories": [],
-    "tags": [
-      "88.2"
-    ],
+    "tags": [],
     "homepage": "https://www.evropa2.cz/",
-    "favicon": "https://i.postimg.cc/9MPpLH6b/6067b0e51f4e27fc0549b36ac5c01f91.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1506,29 +1343,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_ab83d4c1e21e7e936a69",
-    "name": "Expres FM",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [
-      "cs",
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "pop",
-      "top40"
-    ],
-    "homepage": "http://www.expresfm.cz/",
-    "favicon": "https://www.expresfm.cz/app/mu-plugins/expresfm/assets/favicons/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:45:24Z"
   },
   {
     "id": "awb_86e39d8476289a0f84da",
@@ -1663,23 +1477,18 @@
       "en"
     ],
     "categories": [
-      "ambient",
       "electronic",
       "hip-hop"
     ],
     "tags": [
-      "chill",
-      "chilled trap",
       "edm",
       "electronic",
-      "hip-hop",
-      "liquid trap",
-      "trap"
+      "hip-hop"
     ],
     "homepage": "https://fedstrapradio.com/",
-    "favicon": "https://fedstrapradio.com/img/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1701,29 +1510,14 @@
     "name": "Free Rádio 107,0 FM Brno",
     "country": "CZ",
     "subdivision": null,
-    "languages": [
-      "cs"
-    ],
-    "categories": [
-      "electronic",
-      "hip-hop",
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "90s",
-      "dance",
-      "hiphop",
-      "house",
-      "pop",
-      "rnb",
-      "trance"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "http://www.freeradio.cz/",
     "favicon": "http://www.freeradio.cz/img/ico_vcelka_32_32_6.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T23:59:15Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_dafdb965492cc8565791",
@@ -1863,15 +1657,12 @@
     "categories": [],
     "tags": [
       "disco",
-      "discomusic 70",
-      "discomusic 80",
-      "funk",
-      "nu-disco"
+      "funk"
     ],
     "homepage": "https://www.funkstar.eu/",
-    "favicon": "https://www.funkstar.eu/favicon.ico",
+    "favicon": "https://www.funkstar.eu/wp-content/uploads/2018/12/FS_144-144.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2008,26 +1799,6 @@
     "updatedAt": "2026-01-14T23:56:14Z"
   },
   {
-    "id": "awb_7dd032095cfca3702883",
-    "name": "Hit PopRock",
-    "country": "CZ",
-    "subdivision": "Prague",
-    "languages": [
-      "cs"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://radia.cz/radio-hitradio-poprock-playlist",
-    "favicon": "https://radia.cz/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:39:08Z"
-  },
-  {
     "id": "awb_8c5ebe5be06a30d9a191",
     "name": "HIT Rádio Orion",
     "country": "CZ",
@@ -2063,9 +1834,9 @@
       "pop rock"
     ],
     "homepage": "https://hitradiocernahora.cz/",
-    "favicon": "https://hitradiocernahora.cz/design/favicons/apple-icon-120x120.png",
+    "favicon": "https://www.radio.net/images/broadcasts/9a/fa/12747/2/c300.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
@@ -2165,7 +1936,7 @@
     "homepage": "https://radia.cz/radia/hitradio-90tka",
     "favicon": "https://radia.cz/media/images/0001/01/1eec5dac28c0282256fb18500f58a51d468f5ec9.svg",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2357,19 +2128,17 @@
       "cs"
     ],
     "categories": [
-      "news",
       "pop",
       "rock"
     ],
     "tags": [
-      "news",
       "pop",
       "rock"
     ],
     "homepage": "https://www.impuls.cz/",
     "favicon": "https://www.impuls.cz/images/200_200_4_941d1d797794f49eb932b8ea8b41a6d3.webp",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-10-26T10:50:03Z"
   },
   {
@@ -2491,25 +2260,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:26:24Z"
-  },
-  {
-    "id": "awb_7392cf17db6b2cdcdbdf",
-    "name": "Kiss Radio",
-    "country": "CZ",
-    "subdivision": "Středočeský kraj",
-    "languages": [
-      "cs"
-    ],
-    "categories": [],
-    "tags": [
-      "dance",
-      "nineties"
-    ],
-    "homepage": "https://www.kiss.cz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:46:57Z"
   },
   {
     "id": "awb_54eab5348244f9799bcf",
@@ -2663,7 +2413,7 @@
     "homepage": "https://www.netroliferadio.cz/",
     "favicon": "https://www.netroliferadio.cz/files/resize/128/128/netro-favicon-top-0.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2750,26 +2500,6 @@
     "updatedAt": "2026-01-15T00:18:06Z"
   },
   {
-    "id": "awb_7325c10a1ba2c902607e",
-    "name": "Oldies Rádio",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [
-      "cs"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "oldies"
-    ],
-    "homepage": "http://www.oldiesradio.cz/",
-    "favicon": "http://www.oldiesradio.cz/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:41:54Z"
-  },
-  {
     "id": "awb_c43b81ec5f3b99c6cddb",
     "name": "Oldies radio",
     "country": "CZ",
@@ -2801,8 +2531,8 @@
     "homepage": "https://phonk.plainrock127.xyz/",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-11-07T00:06:27Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-06T19:40:54Z"
   },
   {
     "id": "awb_1ccb09986a2835236e66",
@@ -2922,20 +2652,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_0f7829e917fe40ba9390",
-    "name": "PowerPonies Radio",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://radio.powerponies.cz/",
-    "favicon": "http://radio.powerponies.cz/img/PowerPonies-Radio.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_9b8947b2e168e43e7863",
@@ -3081,7 +2797,7 @@
     "homepage": "https://www.radio1.cz/",
     "favicon": "https://www.radio1.cz/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3137,42 +2853,18 @@
     "updatedAt": "2026-01-15T04:06:36Z"
   },
   {
-    "id": "awb_d398be0c14942616fdc6",
-    "name": "Rádio Beat",
+    "id": "awb_f355679a90eb4b7fc45a",
+    "name": "RADIO BEAT",
     "country": "CZ",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.radiobeat.cz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_f355679a90eb4b7fc45a",
-    "name": "Radio Beat",
-    "country": "CZ",
-    "subdivision": "Czech Republic",
-    "languages": [
-      "cs"
-    ],
-    "categories": [
-      "metal",
-      "rock"
-    ],
-    "tags": [
-      "classic rock",
-      "heavy metal",
-      "metal",
-      "rock"
-    ],
-    "homepage": "http://www.radiobeat.cz/",
+    "homepage": "https://www.radiobeat.cz/",
     "favicon": "https://www.radiobeat.cz/img/logo@2x.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T08:26:33Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_7fdf9e63f50d7617eef8",
@@ -3359,49 +3051,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_d3b7e6eb34fd704fa326",
-    "name": "Radio Čas",
-    "country": "CZ",
-    "subdivision": "Ostrava",
-    "languages": [
-      "cs"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "oldies",
-      "pop",
-      "regional"
-    ],
-    "homepage": "https://casradio.cz/",
-    "favicon": "https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/logos/radio-cas5.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:46:38Z"
-  },
-  {
-    "id": "awb_608899b99a9b010d61bd",
-    "name": "Radio Čas Rock",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [
-      "cs"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://www.casrock.cz/",
-    "favicon": "https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002=",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:25:32Z"
-  },
-  {
     "id": "awb_9f8ac825333f6c07fb36",
     "name": "Radio Cas Rock",
     "country": "CZ",
@@ -3409,16 +3058,12 @@
     "languages": [
       "cs"
     ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "classic rock"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.casrock.cz/",
     "favicon": "https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002=",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:35:30Z"
   },
   {
@@ -3495,22 +3140,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-07T19:00:09Z"
-  },
-  {
-    "id": "awb_091d574c163c074438a9",
-    "name": "Radio Depeche Mode",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [
-      "cs"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.abradio.cz/radio/22/radio-depeche-mode/",
-    "favicon": "https://radia.cz/media/images/0001/01/thumb_246_images_w200.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:48:55Z"
   },
   {
     "id": "awb_87692ace3e0f7c0ef623",
@@ -3618,36 +3247,19 @@
     ],
     "categories": [
       "blues",
-      "folk",
-      "metal",
       "pop",
-      "punk",
       "rock"
     ],
     "tags": [
-      "ai art",
-      "black metal",
       "blues",
-      "czech",
-      "dark pop",
-      "folk metal",
-      "fonlord",
-      "gothic metal",
-      "hard rock",
-      "heavy metal",
-      "pagan metal",
       "pop",
-      "pop rock",
       "pop-rock",
-      "punk rock",
-      "rock",
-      "symphonic metal",
-      "world music"
+      "rock"
     ],
     "homepage": "https://a5.asurahosting.com/public/r%C3%A1dio_fonlord",
-    "favicon": "https://fonlord.github.io/Virtualni-basnik/radio-fonlord-logo-512.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3801,20 +3413,6 @@
     "updatedAt": "2026-01-15T00:00:02Z"
   },
   {
-    "id": "awb_54da9a626e51633a4992",
-    "name": "Rádio Jih Cimbálka",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiocimbalka.cz/",
-    "favicon": "https://radiocimbalka.cz/wp-content/uploads/2021/09/favicon_cimbalka_v2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_40cfb81c519dfe156457",
     "name": "Rádio Junior",
     "country": "CZ",
@@ -3891,9 +3489,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://krokodyl.cz/",
-    "favicon": "http://krokodyl.cz/www/upload/favicons/144/20210218010709604.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T00:58:35Z"
   },
   {
@@ -3955,7 +3553,6 @@
       "oldies"
     ],
     "tags": [
-      "2000's",
       "2000s",
       "90's",
       "90s"
@@ -3963,7 +3560,7 @@
     "homepage": "https://radiomb.cz/",
     "favicon": "https://radiomb.cz/wp-content/uploads/2026/06/Logo-MB.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4260,28 +3857,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_304bf36f082959e38959",
-    "name": "Rádio Relax",
-    "country": "CZ",
-    "subdivision": "Středočeský kraj",
-    "languages": [
-      "cs"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock"
-    ],
-    "homepage": "http://radio-relax.cz/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:59:16Z"
-  },
-  {
     "id": "awb_f853c94d9ba8bc448474",
     "name": "Radio ROCK",
     "country": "CZ",
@@ -4528,7 +4103,7 @@
     "homepage": "https://radio7.cz/",
     "favicon": "https://radio7.cz/images/logo/r7_logo_transp_inv.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T07:54:52Z"
   },
   {
@@ -4798,20 +4373,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_c45d0d877c32cd0a9ce4",
-    "name": "SeeJay Radio",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://listen.play.cz/player?shortcut=seejay-radio",
-    "favicon": "http://api.play.cz/static/radio_logo/t200/seejay-radio.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_4dcbafaf13f1a1a48c07",
@@ -5218,50 +4779,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:42:04Z"
-  },
-  {
-    "id": "awb_fe797c3188aa27e7db8b",
-    "name": "Радио Свобода",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "новости",
-      "политика",
-      "разговорное"
-    ],
-    "homepage": "https://www.svoboda.org/",
-    "favicon": "https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_91b26ec1906ea4b6ad82",
-    "name": "Радио Свобода (Radio Svoboda, RFE/RL Russian, ch. 4)",
-    "country": "CZ",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "cultural",
-      "music",
-      "news",
-      "prague",
-      "rfe-rl",
-      "talk"
-    ],
-    "homepage": "http://www.svoboda.org/",
-    "favicon": "http://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:19:04Z"
   },
   {
     "id": "awb_5d1868dd47f63698e317",

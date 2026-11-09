@@ -990,31 +990,6 @@
     "updatedAt": "2026-11-03T06:47:12Z"
   },
   {
-    "id": "awb_1f1a0b35188e5e1c8378",
-    "name": "OFW Radio",
-    "country": "KW",
-    "subdivision": "Kuwait City",
-    "languages": [
-      "ar",
-      "en"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock",
-      "variety",
-      "world middle east"
-    ],
-    "homepage": "https://streema.com/radios/OFW_RADIO",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zlTxP-QMZVvQUOeVri0rmHntqKjsjtg2OyZFtn46qQ&s",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-06T06:24:38Z"
-  },
-  {
     "id": "awb_642da0d1525c7f018cb1",
     "name": "Quran Radio راديو القرآن - Abdulbasit Abdulsamad - عبدالباسط عبدالصمد",
     "country": "KW",
@@ -1162,7 +1137,6 @@
     ],
     "tags": [
       "egypt",
-      "eygpt",
       "islam",
       "islamic",
       "kuwait",
@@ -1171,14 +1145,13 @@
       "quran radio",
       "saudi",
       "القرآن",
-      "القرآن الكريم",
       "راديو القرآن",
       "مشاري العفاسي"
     ],
     "homepage": "https://mp3islam.com/",
-    "favicon": "https://radio.mp3islam.com/api/station/5/art/91d5c1c715991eb0e3958d37-1678174382.jpg",
+    "favicon": "https://radio.mp3islam.com/listen/mishary/radio.mp3",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -5024,13 +4997,11 @@
       "ar"
     ],
     "categories": [],
-    "tags": [
-      "mix"
-    ],
+    "tags": [],
     "homepage": "https://media.gov.kw/LiveRadio.aspx?PanStation=Program2",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

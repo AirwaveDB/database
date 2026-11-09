@@ -282,22 +282,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_a3722a0ea573ec6c35aa",
-    "name": "Exclusiva FM 103.7",
-    "country": "PY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "http://www.exclusiva.com.py/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_ba41668d0c9c72ccde60",
     "name": "Exclusiva FM 103.7 FM",
     "country": "PY",
@@ -355,10 +339,10 @@
       "music"
     ],
     "homepage": "http://www.hoy.com.py/",
-    "favicon": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/favicon-150x150.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:09Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_6fe0934dd7a5b915cb3f",
@@ -594,7 +578,6 @@
     "categories": [
       "ambient",
       "jazz",
-      "news",
       "pop"
     ],
     "tags": [
@@ -603,16 +586,15 @@
       "ambient",
       "asuncion",
       "jazz",
-      "noticias",
       "paraguay",
       "pop",
       "spanish radio"
     ],
     "homepage": "https://radiaura.net/arasuncion",
-    "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
+    "favicon": "https://radiaura.net/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-09-02T23:05:11Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_95240474c8e99cd0809c",
@@ -808,14 +790,14 @@
     "id": "awb_5c13bd616a981437a38d",
     "name": "Radio Digital 88.5 Fm Paraguay",
     "country": "PY",
-    "subdivision": "San Pedro de Ycuamandyyú",
+    "subdivision": "San Pedro Paraguay",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "http://streaming.camaronhosting.com:8036/",
     "favicon": "https://m.facebook.com/story.php?story_fbid=385074119999677&id=100054912755185",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {

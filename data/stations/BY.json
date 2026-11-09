@@ -127,20 +127,6 @@
     "updatedAt": "2026-05-11T20:18:58Z"
   },
   {
-    "id": "awb_fa4c19d61ea4fe70c9e2",
-    "name": "fm_Salyutf",
-    "country": "BY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://stream.salyutfm.ru:8000/stream",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-23T10:35:39Z"
-  },
-  {
     "id": "awb_a34b0a7070064eaa5363",
     "name": "Gomel FM",
     "country": "BY",
@@ -191,28 +177,6 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
-    "id": "awb_bf59fea3f6ece0c7b009",
-    "name": "Legendy FM",
-    "country": "BY",
-    "subdivision": null,
-    "languages": [
-      "be",
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "top40"
-    ],
-    "homepage": "https://legendy.by/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:59:24Z"
-  },
-  {
     "id": "awb_f35c25916cfb4a5086f2",
     "name": "Lider FM",
     "country": "BY",
@@ -230,36 +194,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_f2e5e966d7139692f712",
-    "name": "LOVE IS RADIO",
-    "country": "BY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://loveisradio.by/",
-    "favicon": "https://myradio24.com/users/3355/nocover.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-26T07:48:22Z"
-  },
-  {
-    "id": "awb_ff50b5f94886dde68898",
-    "name": "Love Is Radio Belarus",
-    "country": "BY",
-    "subdivision": "Minsk",
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://loveisradio.by/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:25:56Z"
   },
   {
     "id": "awb_ce4b8898740ee31ea742",
@@ -310,9 +244,9 @@
   },
   {
     "id": "awb_67b575dc9dedd10323f3",
-    "name": "Radio Alesia",
+    "name": "Radio ALESIA",
     "country": "BY",
-    "subdivision": "belarus",
+    "subdivision": "Belarus",
     "languages": [
       "be",
       "pl",
@@ -362,29 +296,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-01T13:08:54Z"
-  },
-  {
-    "id": "awb_a03597937b3c810fee39",
-    "name": "Radio Racyja",
-    "country": "BY",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "pop",
-      "russian hits",
-      "top hits"
-    ],
-    "homepage": "https://racyja.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:02:03Z"
   },
   {
     "id": "awb_1ef099fe17ae210b4853",
@@ -634,40 +545,13 @@
     ],
     "categories": [],
     "tags": [
-      "belarus",
-      "different songs",
-      "minsk",
       "music"
     ],
     "homepage": "https://top-radio.ru/minsk/dushevnoe-radio",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_160050339.jpg?alt=media&token=0cb3377d-b899-487d-ab2c-cb89fbcc771b",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_a75a3c746d9166369fe7",
-    "name": "Европа Плюс Полоцк",
-    "country": "BY",
-    "subdivision": "Polock",
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "chr",
-      "dance music",
-      "hits",
-      "pop music",
-      "top 40"
-    ],
-    "homepage": "https://sammit.tv/",
-    "favicon": "https://sammit.tv/wp-content/uploads/2025/10/Plus-scaled.png",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-04-04T17:19:29Z"
+    "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_8cfa4622faabaa9c491c",
@@ -756,28 +640,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_eff513fab33484a9d7ad",
-    "name": "Легенды ФМ Минск 94.1 FM",
-    "country": "BY",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [
-      "belarus",
-      "legends",
-      "minsk",
-      "music",
-      "retro music"
-    ],
-    "homepage": "https://top-radio.ru/minsk/legendyi-fm",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_155441613.jpg?alt=media&token=240e8f46-b33d-4f60-bee3-04303ea83caf",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:18:30Z"
-  },
-  {
     "id": "awb_65472cbead994b492589",
     "name": "МВ-Радио",
     "country": "BY",
@@ -794,7 +656,7 @@
     "homepage": "https://mvolna.by/index.html",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -847,16 +709,13 @@
       "pop"
     ],
     "tags": [
-      "belarus",
-      "minsk",
       "music",
-      "narodnoe radio",
       "pop"
     ],
     "homepage": "https://top-radio.ru/minsk/narodnoe-belarus",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_155706748.jpg?alt=media&token=0ca151c7-3147-4c7d-90ee-f8a797f27c5a",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -892,7 +751,7 @@
     "homepage": "https://novoeradio.by/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -936,26 +795,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_e3e1fc7381eeb086056f",
-    "name": "Открытое Слово",
-    "country": "BY",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "https://radioslovo.net/",
-    "favicon": "https://radioslovo.net/assets/css/img/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:17:36Z"
   },
   {
     "id": "awb_f48f75e6f89cdcc03357",
@@ -1050,14 +889,12 @@
       "rock"
     ],
     "tags": [
-      "rock",
-      "russian",
-      "shanson"
+      "rock"
     ],
     "homepage": "https://roks.com/onlajn",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1136,7 +973,7 @@
     "homepage": "https://minsknews.by/radio-minsk/",
     "favicon": "https://minsknews.by/wp-content/uploads/2022/11/cropped-logo-180x180.webp",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1188,9 +1025,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiusfm.by/",
-    "favicon": "https://radiusfm.by/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1212,24 +1049,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:25:25Z"
-  },
-  {
-    "id": "awb_026304ef2683e04fda77",
-    "name": "Радыё Марыя",
-    "country": "BY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://www.radiomaria.by/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_65cb195c1f9c7c33dd03",
@@ -1342,9 +1161,9 @@
       "rock"
     ],
     "homepage": "https://radio-live-mg.rtr-vesti.ru/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20231217_203215767.jpg?alt=media&token=c0ec5db6-96ff-4f1c-b9a0-6aae7e13f427",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1354,13 +1173,11 @@
     "subdivision": "Minsk",
     "languages": [],
     "categories": [],
-    "tags": [
-      "chr"
-    ],
+    "tags": [],
     "homepage": "https://centerfm.by/ru",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

@@ -99,16 +99,12 @@
     "country": "ET",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://yonaskassahun011.wixsite.com/selamcoffee-1",
-    "favicon": "https://www.wix.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -167,13 +163,12 @@
       "70s",
       "80s",
       "90s",
-      "amharic",
       "oldies"
     ],
     "homepage": "https://www.ethioldies.com/",
-    "favicon": "https://www.ethioldies.com/static/uploads/browser_icon/192.1732350958.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -185,9 +180,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.ethioldies.com/",
-    "favicon": "https://www.ethioldies.com/static/uploads/ethioldies/album_art.1732346933.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
@@ -260,40 +255,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_adb88248d60cb59d48fc",
-    "name": "Halaal Radio",
-    "country": "ET",
-    "subdivision": "deder",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "livestream"
-    ],
-    "homepage": "https://stream.zeno.fm/rqx24qj7offvv",
-    "favicon": "https://stream.zeno.fm/rqx24qj7offvv",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:00:36Z"
-  },
-  {
-    "id": "awb_39c16125dc3c7e9ba488",
-    "name": "hip hop",
-    "country": "ET",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://yonaskassahun011.wixsite.com/selamcoffee-1",
-    "favicon": "https://www.wix.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_b3bc72288f5fed6e5f13",
     "name": "Jano FM",
     "country": "ET",
@@ -312,73 +273,17 @@
     "updatedAt": "2026-01-15T08:27:11Z"
   },
   {
-    "id": "awb_01343d8d930f384ec571",
-    "name": "jazz",
-    "country": "ET",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "jazz"
-    ],
-    "homepage": "https://youtu.be/WrqgUTpWQ0I",
-    "favicon": "https://www.youtube.com/s/desktop/8b6c1f4c/img/favicon_144x144.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_d4030aee7b3f5a361007",
-    "name": "jazz",
-    "country": "ET",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "jazz"
-    ],
-    "homepage": "https://yonaskassahun011.wixsite.com/selamcoffee-1",
-    "favicon": "https://www.wix.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_bbe19f6f395aed2ef48b",
-    "name": "jazz Ethiopia world",
-    "country": "ET",
-    "subdivision": null,
-    "languages": [
-      "am"
-    ],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "jazz"
-    ],
-    "homepage": "http://mediaserv38.live-streams.nl:8006/live",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:14:42Z"
-  },
-  {
     "id": "awb_36fd6222f734c674bf97",
     "name": "Jazz Ethopia World",
     "country": "ET",
-    "subdivision": "amharic,engilsh",
+    "subdivision": "Amharic,Engilsh",
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://mediaserv38.live-streams.nl:8006/live",
+    "homepage": null,
     "favicon": "https://www.sovspot.com/wp-content/uploads/2022/07/coat-of-arms-of-ethiopia.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -394,22 +299,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_a8d7472a1c36e0d19ac3",
-    "name": "music",
-    "country": "ET",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://yonaskassahun011.wixsite.com/selamcoffee-1",
-    "favicon": "https://www.wix.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_4ea678b4636a585b6d2b",

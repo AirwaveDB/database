@@ -20,7 +20,6 @@
       "90s",
       "dance",
       "disco",
-      "musica romantica",
       "pop",
       "rock",
       "romantic"
@@ -28,7 +27,7 @@
     "homepage": "https://musica80.radioclub.es/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -100,9 +99,7 @@
     "name": "[REE] Radio Exterior de España",
     "country": "ES",
     "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [
       "international",
@@ -111,8 +108,8 @@
     "homepage": "https://www.rtve.es/radio/radio-exterior/",
     "favicon": "https://assets.radioplayer.org/724/724505/600/600/kywx5mfr.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-08T14:20:23Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-03-13T22:31:29Z"
   },
   {
     "id": "awb_8a9ce6352e6cce222568",
@@ -362,23 +359,15 @@
       "es"
     ],
     "categories": [
-      "oldies",
-      "pop"
+      "oldies"
     ],
     "tags": [
-      "80",
-      "80's",
-      "80er",
-      "80s",
-      "80s radio",
-      "all 80s",
-      "hits 80s",
-      "the best of 80's"
+      "80s"
     ],
     "homepage": "https://www.1000hits80s.eu/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -419,17 +408,12 @@
       "classical"
     ],
     "tags": [
-      "classical",
-      "classical baroque",
-      "classical guitar",
-      "classical music",
-      "classical piano",
-      "contemporary classical"
+      "classical"
     ],
     "homepage": "https://www.splashradio.eu/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -475,36 +459,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:00:36Z"
-  },
-  {
-    "id": "awb_e36f42f114c89a766aa3",
-    "name": "24h RTVE Original TELEVISION",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:08Z"
-  },
-  {
-    "id": "awb_9833643cc4ce9a3cf737",
-    "name": "24h RTVE Televisión",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rtve.es/play/videos/directo/24h/",
-    "favicon": "https://img2.rtve.es/imagenes/directo-elecciones-cataluna/1504082563113.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:53:08Z"
   },
   {
     "id": "awb_28079ae1898d9f716247",
@@ -593,9 +547,9 @@
       "romantic"
     ],
     "homepage": "https://musica80.radioclub.es/",
-    "favicon": "https://assets.laut.fm/51443b263d4b82dd4e7c24b811b8ddd7?t=_640x640",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -717,20 +671,6 @@
     "updatedAt": "2026-09-05T21:00:18Z"
   },
   {
-    "id": "awb_0cac60fd78f8ba2f9af9",
-    "name": "97 Irratia",
-    "country": "ES",
-    "subdivision": "Bilbao",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://97irratia.info/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_d23218067328cf169fec",
     "name": "972'CostaBrava",
     "country": "ES",
@@ -753,29 +693,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-17T07:48:28Z"
-  },
-  {
-    "id": "awb_907e2ae1939d252ceb14",
-    "name": "99.9 Plaza Radio Valencia",
-    "country": "ES",
-    "subdivision": "País Valencià",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "local news",
-      "music",
-      "talk"
-    ],
-    "homepage": "https://999plazaradio.valenciaplaza.com/",
-    "favicon": "https://la999.es/wp-content/uploads/2020/06/cropped-circulo999-negro-blanco-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:23:20Z"
   },
   {
     "id": "awb_dec1e61b1492c56e194e",
@@ -880,20 +797,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:49:59Z"
-  },
-  {
-    "id": "awb_04af880a943f8f0c4602",
-    "name": "Absolute Chillout",
-    "country": "ES",
-    "subdivision": "Ibiza",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.absolutechillout.com/",
-    "favicon": "http://www.absolutechillout.com/favicon.ico",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_c0faba25e898ece5d764",
@@ -1488,29 +1391,6 @@
     "updatedAt": "2026-01-15T08:14:13Z"
   },
   {
-    "id": "awb_83492b19929ade21dc67",
-    "name": "ARCO FM",
-    "country": "ES",
-    "subdivision": "Cantabria",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "local news",
-      "news",
-      "sports"
-    ],
-    "homepage": "https://arcofm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-19T21:24:13Z"
-  },
-  {
     "id": "awb_0238a1da37cbcdce0fbf",
     "name": "ArcoFM",
     "country": "ES",
@@ -1654,54 +1534,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:10:00Z"
-  },
-  {
-    "id": "awb_a5a53542f3dd5aebcb09",
-    "name": "Atlantis FM Lanzarote",
-    "country": "ES",
-    "subdivision": "Canaries",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "ambient",
-      "jazz"
-    ],
-    "tags": [
-      "jazz",
-      "smooth jazz",
-      "smooth lounge"
-    ],
-    "homepage": "https://atlantisfmlanzarote.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-22T19:24:25Z"
-  },
-  {
-    "id": "awb_13a541a93fb8b24327a4",
-    "name": "AW Radio Gijón",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "hits",
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ44W4L8ZEtnhqlfS8iV9iJifA2P9YDTazrdRJY1M9Jg&s=10",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-06T12:55:10Z"
   },
   {
     "id": "awb_351413ce1be3763dd173",
@@ -2007,7 +1839,7 @@
     "id": "awb_15fd5a1798121b2d17fc",
     "name": "Blue Marlin Ibiza",
     "country": "ES",
-    "subdivision": "Illes Balears",
+    "subdivision": "Ibiza",
     "languages": [],
     "categories": [
       "ambient",
@@ -2017,13 +1849,12 @@
       "chillout",
       "dj",
       "electro",
-      "electronic dance music",
       "house"
     ],
     "homepage": "https://www.bluemarlinibiza.com/radio/",
-    "favicon": "https://www.bluemarlinibiza.com/wp-content/themes/bluemarlinibiza/favicon64.png",
+    "favicon": "https://www.bluemarlinibiza.com/wp-content/themes/bluemarlinibiza/_lib/views/var/public/sprites/common-map-2x.png?_v=108_0",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -2142,22 +1973,19 @@
     "id": "awb_ba22e2d14e5f64fd7460",
     "name": "Cadena 100",
     "country": "ES",
-    "subdivision": "Madrid",
+    "subdivision": null,
     "languages": [
       "es"
     ],
-    "categories": [
-      "pop"
-    ],
+    "categories": [],
     "tags": [
       "misc",
-      "music",
-      "pop"
+      "music"
     ],
     "homepage": "http://www.cadena100.es/",
     "favicon": "https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T05:32:00Z"
   },
   {
@@ -2373,10 +2201,10 @@
     "tags": [
       "talk & speech"
     ],
-    "homepage": "http://www.cadenamix.es/",
-    "favicon": "https://static.wixstatic.com/media/4d3432_785e144b998948fd96f2abd8b63a2894~mv2.png/v1/fill/w_180,h_104,al_c,q_85,usm_0.66_1.00_0.01/LogoMIX_sin%20fondo.webp",
+    "homepage": "https://cadenamix.es/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
@@ -2735,46 +2563,6 @@
     ],
     "homepage": "https://cadenaser.com/",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240620_211937553.jpg?alt=media&token=a9626ab2-247a-4891-ad7e-788edd841a05",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_d2cbef9028c35256c0a8",
-    "name": "Cadena Ser + Bilbao",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "debates y deportes",
-      "noticias"
-    ],
-    "homepage": "https://cadenaser.com/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240620_210054883.jpg?alt=media&token=175e5ab8-cd0d-47e3-a6cb-6bf5bf6edec2",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_2287a1e61af206f0607b",
-    "name": "Cadena Ser + Cadiz",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "debates y deportes",
-      "noticias"
-    ],
-    "homepage": "https://cadenaser.com/",
-    "favicon": null,
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
@@ -3305,17 +3093,15 @@
     "id": "awb_dca95ac4891861e43013",
     "name": "Cadena SER Ceuta",
     "country": "ES",
-    "subdivision": "Ciudad Autónoma de Ceuta",
-    "languages": [
-      "es"
-    ],
+    "subdivision": "spain",
+    "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://cadenaser.com/radio-ceuta/",
-    "favicon": "https://cdn.instant.audio/images/logos/emisora-org-es/ser-ceuta.png",
+    "favicon": "https://cadenaser00.epimg.net/favicon.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-04-06T09:43:28Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-04-06T09:26:03Z"
   },
   {
     "id": "awb_f371895f209861d8b895",
@@ -3323,19 +3109,13 @@
     "country": "ES",
     "subdivision": "Córdoba",
     "languages": [],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "debates y deportes",
-      "noticias"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://cadenaser.com/radio-cordoba/",
     "favicon": "https://cadenaser.com/pf/resources/img/favicon.png?d=320",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_144ccbec19e5a0b017ce",
@@ -3359,33 +3139,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:04:28Z"
-  },
-  {
-    "id": "awb_d96798dd30cef021db63",
-    "name": "Cadena SER España",
-    "country": "ES",
-    "subdivision": "Spain",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "cultural news",
-      "live",
-      "news",
-      "news talk",
-      "spanish",
-      "sports news"
-    ],
-    "homepage": "http://play.cadenaser.com/",
-    "favicon": "https://cadenaser00.epimg.net/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:28:27Z"
   },
   {
     "id": "awb_6287f3f41aca136efdf6",
@@ -3547,7 +3300,7 @@
     "homepage": "https://play.cadenaser.com/emisora/radio_pontevedra",
     "favicon": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
@@ -3741,28 +3494,13 @@
     ],
     "tags": [
       "chillout",
-      "ibiza",
       "lounge"
     ],
     "homepage": "https://cafedelmar.com/radio/",
-    "favicon": "https://cafedelmar.com/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_8b55dd3058fe99b29fe4",
-    "name": "Cafe Del Mar",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://cafedelmar.com/radio",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_4f2b994c185801d3da32",
@@ -3780,13 +3518,12 @@
     "tags": [
       "ambient",
       "chillout",
-      "electronic",
-      "ibiza"
+      "electronic"
     ],
     "homepage": "https://cafedelmar.com/radio",
-    "favicon": "https://cafedelmar.com/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3814,7 +3551,7 @@
     "homepage": "https://cafedelmar.com/",
     "favicon": "https://images.radio.co/station_logos/se1a320b47.20210412021711.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3826,9 +3563,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://cafedelmar.com/",
-    "favicon": "https://images.radio.co/station_logos/se1a320b47.20210412021711.png",
+    "favicon": "https://cdmspace.fra1.digitaloceanspaces.com/495c49ed63d48d73585af236c13b19ae.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
@@ -4198,9 +3935,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://www.rtvc.es/inicio/home.aspx?ref=tm",
-    "favicon": "https://rtvc.es/archivos/2021/03/c144.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4462,40 +4199,17 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_0462e14c79f2bc391b84",
-    "name": "Catalunya Radio",
-    "country": "ES",
-    "subdivision": "Catalunya",
-    "languages": [],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news talk"
-    ],
-    "homepage": "https://www.3cat.cat/catradio/",
-    "favicon": "https://statics.3cat.cat/img/logos/catradio_colorBgBlanc.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-07T15:49:46Z"
-  },
-  {
     "id": "awb_19b5dbf5bc4a4c7f70dd",
     "name": "Catalunya Radio",
     "country": "ES",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "talk & speech"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4659,7 +4373,7 @@
     "homepage": "https://www.chocolatefm.com/",
     "favicon": "https://www.chocolatefm.com/__ovh/common/img/favicon.ico",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T07:52:11Z"
   },
   {
@@ -4731,9 +4445,7 @@
     "name": "Cinema Radio",
     "country": "ES",
     "subdivision": "Comunidad de Madrid",
-    "languages": [
-      "es"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [
       "banda",
@@ -4743,7 +4455,7 @@
     "homepage": "https://tunerplay.com/emisoras/cinemaradio/",
     "favicon": "https://i.ibb.co/TB96y0HX/favicon-2.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-03-14T11:48:07Z"
   },
   {
@@ -5220,35 +4932,14 @@
     "name": "COPE Tenerife",
     "country": "ES",
     "subdivision": "Islas Canarias",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "magazine",
-      "noticias"
-    ],
-    "homepage": "https://www.cope.es/directos/cope-mas-tenerife",
-    "favicon": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T03:25:25Z"
-  },
-  {
-    "id": "awb_03c3f20f39b4b53ea224",
-    "name": "Cope Zaragoza",
-    "country": "ES",
-    "subdivision": "Zaragoza",
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://cope.es/",
-    "favicon": "https://cdn.instant.audio/images/logos/emisora-org-es/cope-zaragoza.png",
+    "homepage": "https://www.cope.es/directos/cope-mas-tenerife",
+    "favicon": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-08-11T09:34:03Z"
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_8934c395807c4d74d9c0",
@@ -5395,25 +5086,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_2ed9e2ba0cde8204aa9e",
-    "name": "Costa Del Mar - Chillout (AAC 96kbps)",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "chill",
-      "chillout"
-    ],
-    "homepage": "http://www.costadelmar-radio.com/chillout/",
-    "favicon": "http://www.costadelmar-radio.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_0423f2dc427f5d3c53b6",
     "name": "Costa Del Mar Dance",
     "country": "ES",
@@ -5465,20 +5137,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_2347394aa29d6736451a",
-    "name": "Costa Madrid",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio2.vip-radios.fm:18064/stream-RadioDNS-ST",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-25T21:12:42Z"
-  },
-  {
     "id": "awb_069497288787619a9272",
     "name": "Cristianos - Christen auf Spanisch",
     "country": "ES",
@@ -5521,23 +5179,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:20:35Z"
-  },
-  {
-    "id": "awb_68990a1a9d4772b0136d",
-    "name": "CUAC FM (MP3)",
-    "country": "ES",
-    "subdivision": "A Coruña",
-    "languages": [
-      "es",
-      "gl"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://cuacfm.org/",
-    "favicon": "https://cuacfm.org/wp-content/uploads/2015/04/favicon-cuacfm.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:32:04Z"
   },
   {
     "id": "awb_b8586c4746fe51cdb30b",
@@ -5611,29 +5252,13 @@
       "en",
       "es"
     ],
-    "categories": [
-      "ambient",
-      "metal",
-      "rock"
-    ],
-    "tags": [
-      "ambient",
-      "avantgarde",
-      "dark ambient",
-      "doom",
-      "experimental",
-      "industrial",
-      "metal",
-      "noise",
-      "power electronics",
-      "progressive",
-      "rock"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radio.hkprime.com/",
     "favicon": "https://radio.hkprime.com/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-25T11:43:14Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-25T11:40:48Z"
   },
   {
     "id": "awb_12638f69f03f745c6195",
@@ -5918,40 +5543,13 @@
       "80s",
       "90s",
       "disco",
-      "music",
-      "música en español e inglés"
+      "music"
     ],
     "homepage": "https://discomusicradio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_70128827bbbe36f8ac05",
-    "name": "DiscomanÍa",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "1970s",
-      "1980s",
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://tunerplay.com/emisoras/discomania/",
-    "favicon": "https://i.ibb.co/gLgXXxnf/favicon.jpg",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-03-14T11:38:32Z"
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_f893c7afd26d1d5d1d10",
@@ -6225,24 +5823,6 @@
     "updatedAt": "2026-01-15T08:51:19Z"
   },
   {
-    "id": "awb_aa781129e7616fbe9efb",
-    "name": "Dynamis Radio Madrid",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "religion"
-    ],
-    "homepage": "https://www.dynamisradio.org/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:43:38Z"
-  },
-  {
     "id": "awb_e5579e58e2af5203158a",
     "name": "EAJ Radio",
     "country": "ES",
@@ -6330,26 +5910,6 @@
     "updatedAt": "2026-03-19T18:53:06Z"
   },
   {
-    "id": "awb_f3a35dddcca7de46c472",
-    "name": "EDM FESTIVAL - Online Radio",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "dance",
-      "edm",
-      "electronic"
-    ],
-    "homepage": "https://0nlineradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:13Z"
-  },
-  {
     "id": "awb_f99e7cebf6f2ca728791",
     "name": "EDM Festival - Online Radio",
     "country": "ES",
@@ -6409,20 +5969,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_8b527929468cbbd6ceb9",
-    "name": "EduNeu Radio 3: DJ Johnson Somerset Remixes",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.eduneu.eu/public/radio3",
-    "favicon": "https://www.eduneu.eu/logo_radio3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_9c874b5ff70ea4ece167",
     "name": "Efecto FM 89.0Mhz",
     "country": "ES",
@@ -6473,18 +6019,14 @@
     "name": "EITB Euskal Kantak",
     "country": "ES",
     "subdivision": "Basque Country",
-    "languages": [
-      "eu"
-    ],
+    "languages": [],
     "categories": [],
-    "tags": [
-      "basque music"
-    ],
+    "tags": [],
     "homepage": "https://www.eitb.eus/eu/irratia/eitb-euskal-kantak/",
-    "favicon": "https://images14.eitb.eus/multimedia/recursos/generales/streaming/logo_zuzenean_euskal_kantak.png",
+    "favicon": "https://www.eitb.eus/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:29:13Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_a480367327653a7ff1cd",
@@ -6684,34 +6226,6 @@
     "updatedAt": "2026-01-15T01:46:18Z"
   },
   {
-    "id": "awb_38e3534f75597a2d747c",
-    "name": "EME Radio fm",
-    "country": "ES",
-    "subdivision": "ESPAÑA",
-    "languages": [
-      "es",
-      "gl"
-    ],
-    "categories": [
-      "electronic",
-      "jazz",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "jazz",
-      "pop",
-      "pop music",
-      "rock",
-      "tech house"
-    ],
-    "homepage": "https://emeradiofm.com/",
-    "favicon": "https://emeradiofm.com/wp-content/uploads/2020/12/cropped-EMEdia-logo-fondo-transparente-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:42:49Z"
-  },
-  {
     "id": "awb_c8432a1f1f82f765c2eb",
     "name": "Emision moviles",
     "country": "ES",
@@ -6896,20 +6410,6 @@
     "updatedAt": "2026-01-15T04:32:06Z"
   },
   {
-    "id": "awb_cf7598a848e72cfef3ff",
-    "name": "es radio",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.libertaddigital.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-12T17:01:10Z"
-  },
-  {
     "id": "awb_e27663e4b59c689fe8cb",
     "name": "ES Radio",
     "country": "ES",
@@ -7044,26 +6544,23 @@
   },
   {
     "id": "awb_73cfd15a2c1127f78126",
-    "name": "esRadio",
+    "name": "EsRadio",
     "country": "ES",
     "subdivision": "Madrid",
     "languages": [
       "es"
     ],
     "categories": [
-      "news",
       "talk"
     ],
     "tags": [
       "misc",
-      "news",
-      "talk",
       "talk show"
     ],
-    "homepage": "http://esradio.libertaddigital.com/",
+    "homepage": "https://esradio.libertaddigital.com/directo.html",
     "favicon": "https://s.libertaddigital.com/2024/08/20/1200/627/esradio/esradio-redes.jpg",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 3,
     "updatedAt": "2026-01-15T06:24:38Z"
   },
   {
@@ -7105,16 +6602,16 @@
     "categories": [],
     "tags": [],
     "homepage": "https://esradio.libertaddigital.com/",
-    "favicon": "https://s.libertaddigital.com/2024/08/20/1200/627/esradio/esradio-redes.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_b2833d6e4d279c1bce9b",
-    "name": "EsRadio Asturias",
+    "name": "esRadio Asturias",
     "country": "ES",
-    "subdivision": "Asturias",
+    "subdivision": null,
     "languages": [
       "es"
     ],
@@ -7124,7 +6621,6 @@
       "talk"
     ],
     "tags": [
-      "información",
       "music",
       "news",
       "politics",
@@ -7134,7 +6630,7 @@
     "homepage": "https://www.esradioasturias.fm/",
     "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37bEeF5FdSC6v5LRuR2gzzsIIEHZuqSZnaCBwoK8l&s",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-09-06T10:58:27Z"
   },
   {
@@ -7296,45 +6792,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_e59c7596b21d67d97633",
-    "name": "esRadio Onda Requena",
-    "country": "ES",
-    "subdivision": "Comunidad Valenciana",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "economia",
-      "economic news",
-      "economics",
-      "local news",
-      "news",
-      "noticias",
-      "noticias en español",
-      "noticias locales",
-      "noticias nacionales e internacionales",
-      "noticias opinion",
-      "opinion",
-      "politica",
-      "political",
-      "political analysis",
-      "political news",
-      "political talk",
-      "politics",
-      "talk",
-      "talks"
-    ],
-    "homepage": "http://akouradio.com/play?id=19865",
-    "favicon": "http://akouradio.com/StatImage/19865.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T06:16:23Z"
-  },
-  {
     "id": "awb_ca4495748cab8ced1bfb",
     "name": "esRadio Orihuela del Tremedal",
     "country": "ES",
@@ -7383,17 +6840,12 @@
     "country": "ES",
     "subdivision": "Madrid",
     "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "magazines",
-      "news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://esradio.libertaddigital.com/directo.html",
-    "favicon": "https://s.libertaddigital.com/2024/08/20/1200/627/esradio/esradio-redes.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7425,7 +6877,7 @@
     "homepage": "https://www.canal4tenerife.tv/radio/",
     "favicon": "https://www.canal4tenerife.tv/wp-content/uploads/2022/06/logoc4tv80.webp",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T01:47:04Z"
   },
   {
@@ -7500,20 +6952,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_5dade0e48485fd34a238",
-    "name": "ETIB Euskal Kantak",
-    "country": "ES",
-    "subdivision": "Basque Country",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.eitb.eus/eu/irratia/eitb-euskal-kantak/",
-    "favicon": "https://www.eitb.eus/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_10683226ca32dd7b1cea",
     "name": "Europa FM Guipuzcoa",
     "country": "ES",
@@ -7548,41 +6986,18 @@
     "updatedAt": "2026-10-26T11:39:59Z"
   },
   {
-    "id": "awb_218ed255945a0e34d43b",
-    "name": "Euskadi irratia",
-    "country": "ES",
-    "subdivision": "Basque Country",
-    "languages": [
-      "eu"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "m3u8",
-      "pop"
-    ],
-    "homepage": "http://www.eitb.eus/eu/irratia/euskadi-irratia/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:04:00Z"
-  },
-  {
     "id": "awb_dfd0dbb495dbed0149a0",
     "name": "Euskadi Irratia",
     "country": "ES",
     "subdivision": null,
-    "languages": [
-      "eu"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://guau.eus/st/euskadi-irratia",
     "favicon": "https://cdnstorage.primeran.eus/directus/eitb/ba5eb9f4-585a-46dd-bbae-af9b145ee12f.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-04T07:36:09Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_e88d70dc4007e768a74d",
@@ -7626,46 +7041,6 @@
     "updatedAt": "2026-01-15T01:50:53Z"
   },
   {
-    "id": "awb_4467fb4fa53b06c770a3",
-    "name": "Exa FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "93.3 fm",
-      "estación",
-      "exa",
-      "exa fm",
-      "fm",
-      "juvenil",
-      "la estación exacta",
-      "la estación naranja",
-      "moi merino",
-      "mvs",
-      "mvs noticias",
-      "mvs radio",
-      "música pop",
-      "ponte exa",
-      "pop",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
-      "radio"
-    ],
-    "homepage": "https://www.exafm.com/veracruz/",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:06:28Z"
-  },
-  {
     "id": "awb_bdcfa33cd3a2c82aafa7",
     "name": "Exito Radio",
     "country": "ES",
@@ -7693,15 +7068,13 @@
       "oldies"
     ],
     "tags": [
-      "00s",
       "80s",
-      "90s",
-      "feel good"
+      "90s"
     ],
     "homepage": "https://www.feelgoodradio.es/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7770,20 +7143,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_db87f4ee53e232ce3253",
-    "name": "Fiesta 89.1 FM",
-    "country": "ES",
-    "subdivision": "Barcelona",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://fiesta891fm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_4be49f8a7cbbaf49ecab",
@@ -7894,9 +7253,9 @@
       "pop"
     ],
     "homepage": "https://www.flaixbac.cat/",
-    "favicon": "https://flaixbac.cat/favicon_bac_32x32.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7953,20 +7312,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_7a76993a67e6e554ba9f",
-    "name": "Flamenco Radio Art",
-    "country": "ES",
-    "subdivision": "Andalucía",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://air.radioart.online/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-10T23:56:24Z"
-  },
-  {
     "id": "awb_27037344cb6730c45543",
     "name": "Flash Radio",
     "country": "ES",
@@ -7993,7 +7338,7 @@
     "homepage": "https://www.flowradio.es/",
     "favicon": "https://flowradio.es/wp-content/uploads/2024/06/cropped-logo_flowradio_web-1.png",
     "type": null,
-    "sourceCount": 5,
+    "sourceCount": 2,
     "updatedAt": "2026-07-03T06:35:58Z"
   },
   {
@@ -8184,38 +7529,6 @@
     "updatedAt": "2026-01-15T03:52:28Z"
   },
   {
-    "id": "awb_2daa55e551926aacdf2c",
-    "name": "Free FM",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "en",
-      "es",
-      "ja"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "80's",
-      "90's",
-      "classic rock",
-      "free",
-      "free fm",
-      "free radio",
-      "oldies",
-      "pop music",
-      "rock"
-    ],
-    "homepage": "http://freefmradio.net/",
-    "favicon": "https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:48:01Z"
-  },
-  {
     "id": "awb_295cdb0b01785b5ba9d8",
     "name": "Free FM 80s",
     "country": "ES",
@@ -8242,7 +7555,7 @@
     "id": "awb_9460f1920da093fb7d9a",
     "name": "Free FM Chill",
     "country": "ES",
-    "subdivision": "Madrid",
+    "subdivision": "Comunidad de Madrid",
     "languages": [
       "en",
       "es"
@@ -8252,15 +7565,12 @@
       "oldies"
     ],
     "tags": [
-      "#80s",
-      "#chill",
-      "#chill #80s #90s",
-      "#freefm"
+      "#chill #80s #90s"
     ],
     "homepage": "http://www.freefmworld.com/",
-    "favicon": "https://lh3.googleusercontent.com/9u-dekaPrK3ofEaKOK0dUp5aQQnRCBnR2bAOYFBLRYjQHLLnTaneDm7NY7qtiuHYnEMo6KOheQ7eyCdvcDiZZjL3e60Lzd38yXpxwSSFEcqR5eVd95T7as-SybDgi5BW0g=w1280",
+    "favicon": "https://lh6.googleusercontent.com/5492N1NnFOT61t3jxUzcLhggW0y1H3we4yX6sWaDcFocXuW5YvCY9EwmDYoDNULvGe9ImLh57W4ja_4nr9_gni1cSMFdjTf0QiHR0Rgk5yYILhGprUtJhF00ik6jtgxCJg=w1280",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T02:17:46Z"
   },
   {
@@ -8354,80 +7664,18 @@
     ],
     "categories": [
       "oldies",
-      "pop",
       "rock"
     ],
     "tags": [
-      "70 80 hits",
-      "80's",
-      "80er",
       "80s",
-      "80s rock",
-      "classic rock",
       "classic-rock",
-      "rock",
-      "the best of 80's"
+      "rock"
     ],
     "homepage": "http://freefmradio.net/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_e77072775d980873540a",
-    "name": "Free FM Mdrid",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "de",
-      "en",
-      "es",
-      "ja"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "80s",
-      "90s",
-      "free",
-      "music",
-      "pop music",
-      "top 100"
-    ],
-    "homepage": "http://freefmradio.net/",
-    "favicon": "https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:12:26Z"
-  },
-  {
-    "id": "awb_f7428ee3b03966b9a53b",
-    "name": "Free FM Sports",
-    "country": "ES",
-    "subdivision": "Comunidad de Madrid",
-    "languages": [
-      "de",
-      "es"
-    ],
-    "categories": [
-      "electronic",
-      "sports"
-    ],
-    "tags": [
-      "deporte",
-      "electronic",
-      "esportes",
-      "musica popular",
-      "sports"
-    ],
-    "homepage": "http://freefmradio.net/",
-    "favicon": "https://1.bp.blogspot.com/-5NFjr9YWzKY/YUoOEhqer7I/AAAAAAAAEao/2pi40mHcMcIAkWv3ujDFCFJzP59IkDKJwCLcBGAsYHQ/s320/free%2B%2Btop%2B512%2Bx%2B512.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:29:06Z"
   },
   {
     "id": "awb_eef2c387205ee52ebbce",
@@ -8600,18 +7848,14 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "news"
-    ],
+    "categories": [],
     "tags": [
-      "local news",
-      "magazines",
       "music"
     ],
     "homepage": "https://genteradio.net/player/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8769,17 +8013,13 @@
     "country": "ES",
     "subdivision": "Alhama - Granada- Andalucía",
     "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop en español e inglés"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.grxbitradio.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-07-08T18:39:42Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-07-08T18:37:26Z"
   },
   {
     "id": "awb_6dd257c4110944bde633",
@@ -8865,9 +8105,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://hitfm.es/",
-    "favicon": "https://www.hitfm.es/wp-content/uploads/2019/06/cropped-favicon-192x192.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8890,28 +8130,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:40:05Z"
-  },
-  {
-    "id": "awb_5f6ccd51dfe40f9ab6dc",
-    "name": "HitFM",
-    "country": "ES",
-    "subdivision": "ESPAÑA",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop rock"
-    ],
-    "homepage": "https://www.hitfm.es/",
-    "favicon": "https://www.hitfm.es/wp-content/uploads/2019/06/Logo_HIT_Home-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:08:13Z"
   },
   {
     "id": "awb_71df30a7a190ffe4a592",
@@ -9093,40 +8311,15 @@
     "id": "awb_5ca5e100e6a8da2616fe",
     "name": "HKM Radio",
     "country": "ES",
-    "subdivision": "Valencia, Comunitat Valenciana",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "electronic",
-      "pop"
-    ],
-    "tags": [
-      "80",
-      "90",
-      "club dance electronic house trance",
-      "dance",
-      "disco",
-      "electronic",
-      "free",
-      "hkm",
-      "house",
-      "internet radio",
-      "music",
-      "pop",
-      "radio",
-      "radio online",
-      "remember",
-      "spain",
-      "valencia",
-      "www"
-    ],
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "http://www.hkmradio.com/",
     "favicon": "https://hkmradio.com/wp/wp-content/uploads/2022/05/cropped-icohkm-192x192.png",
-    "type": "internet",
-    "sourceCount": 2,
-    "updatedAt": "2026-02-15T23:56:32Z"
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_fa72ea404d43c30542ed",
@@ -9345,27 +8538,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_ca2d0578ed9afd2f3eca",
-    "name": "Ibiza - Chill",
-    "country": "ES",
-    "subdivision": "Islas Baleares",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "chillout",
-      "chillout+lounge"
-    ],
-    "homepage": "https://www.ibiza-radios.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-28T01:32:59Z"
-  },
-  {
     "id": "awb_87c4b33da0579ba085b8",
     "name": "Ibiza - Deep House",
     "country": "ES",
@@ -9541,59 +8713,6 @@
     "updatedAt": "2026-07-22T06:17:29Z"
   },
   {
-    "id": "awb_acb03166b31384f87f6e",
-    "name": "Ibiza Radios Deep House",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "deep house"
-    ],
-    "homepage": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T02:38:10Z"
-  },
-  {
-    "id": "awb_d0861b83a1a0eb1ba145",
-    "name": "Ibiza Radios Hits",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.ibiza-radios.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_6d90204ca2c1aa1b5a72",
-    "name": "Ibiza Radios Relax",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "relaxing"
-    ],
-    "homepage": "http://www.ibiza-radios.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:18:50Z"
-  },
-  {
     "id": "awb_4f71eb135ddc40c06caa",
     "name": "Ibiza Relax",
     "country": "ES",
@@ -9721,14 +8840,12 @@
       "electronic"
     ],
     "tags": [
-      "deep house",
-      "house",
-      "ibiza"
+      "house"
     ],
     "homepage": "https://www.ibizastardustradio.com/",
     "favicon": "https://ibizastardustradio.com/upload/design/63ebc17848b5c2.89470539.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -9790,22 +8907,20 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_a417ec9aaa2b23a081fa",
-    "name": "Ibiza_Radios",
+    "id": "awb_acb03166b31384f87f6e",
+    "name": "Ibiza_Radios/Deep House",
     "country": "ES",
     "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
+    "languages": [
+      "en"
     ],
-    "tags": [
-      "deep house"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
+    "updatedAt": "2026-01-15T02:38:10Z"
   },
   {
     "id": "awb_434a22860c9c96b933d6",
@@ -9938,56 +9053,12 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "albacete",
-      "almería",
-      "andalucía",
-      "aragon",
-      "bilbao",
-      "cadiz",
-      "castilla y león",
-      "catalunya",
-      "conservative",
-      "conservative talk",
-      "cordoba",
-      "cultura",
-      "cultural",
-      "cultural news",
-      "cultural reports",
-      "culture",
-      "economia",
-      "economic",
-      "economic news",
-      "economics",
-      "españa",
-      "español",
-      "galicia",
-      "historia",
-      "historico",
-      "history",
-      "internacional",
-      "leon",
-      "liberal",
-      "madrid",
-      "murcia",
-      "nacional",
-      "news",
-      "news talk",
-      "noticias",
-      "noticias en español",
-      "noticias locales",
-      "noticias nacionales e internacionales",
-      "noticias y comentarios",
-      "noticieros"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://informaradio.edatv.news/",
-    "favicon": "https://informaradio.edatv.news/fav-300x300.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10051,48 +9122,6 @@
     "updatedAt": "2026-01-15T06:27:38Z"
   },
   {
-    "id": "awb_c795efc9ee64a0761036",
-    "name": "Inselradio Mallorca",
-    "country": "ES",
-    "subdivision": "Mallorca",
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://www.inselradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_28bc3b232b47107f9567",
-    "name": "Inthemix FM 96.2",
-    "country": "ES",
-    "subdivision": "Catalonia",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "dance",
-      "electronic",
-      "house"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-26T10:20:03Z"
-  },
-  {
     "id": "awb_bf871fc78cb4d25ad245",
     "name": "Intimidad Radio",
     "country": "ES",
@@ -10125,9 +9154,9 @@
       "relax"
     ],
     "homepage": "https://intimidadradio.com/",
-    "favicon": "https://intimidadradio.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10196,27 +9225,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-28T20:38:07Z"
-  },
-  {
-    "id": "awb_a9f495efe7328d862642",
-    "name": "JAM 66 Radio",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "blues",
-      "rock"
-    ],
-    "tags": [
-      "blues",
-      "blues rock",
-      "rock"
-    ],
-    "homepage": "https://jarnanz.wixsite.com/jamradio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-20T14:53:30Z"
   },
   {
     "id": "awb_9ebcce3667de2b8f1b9c",
@@ -10441,35 +9449,27 @@
     "homepage": "https://radio.josema.zapto.org:8443/public/metal",
     "favicon": "https://radio.josema.zapto.org:8443/static/uploads/browser_icon_metal/192.1792001088.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-22T13:31:58Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T12:39:20Z"
   },
   {
     "id": "awb_8e6bed8d71023a170cc1",
     "name": "Josema MSX Radio",
     "country": "ES",
     "subdivision": "Almería",
-    "languages": [
-      "en",
-      "es"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [
-      "chiptune",
       "msx",
-      "msx turbo r",
       "msx turbor",
       "msx2",
-      "msx2+",
-      "retro",
-      "vgm",
-      "video game music"
+      "msx2+"
     ],
     "homepage": "https://radio.josema.zapto.org:8443/public/msx",
     "favicon": "https://radio.josema.zapto.org:8443/static/uploads/browser_icon/192.1791617283.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-10-22T13:15:38Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T19:25:16Z"
   },
   {
     "id": "awb_70c272e12dd7f0865831",
@@ -10494,8 +9494,8 @@
     "homepage": "https://radio.josema.zapto.org:8443/public/retro",
     "favicon": "https://radio.josema.zapto.org:8443/static/uploads/browser_icon_retro/192.1792001088.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-22T13:36:03Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-22T12:54:09Z"
   },
   {
     "id": "awb_d864279f25bb5cdc22d3",
@@ -10513,23 +9513,17 @@
   },
   {
     "id": "awb_167bdf236661f79bc927",
-    "name": "Kaibo Radio",
+    "name": "KAIBO RADIO",
     "country": "ES",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "club",
-      "electronic",
-      "house"
-    ],
-    "homepage": "https://ibizasonica.com/category/radio-channel/",
+    "categories": [],
+    "tags": [],
+    "homepage": "https://ibizasonica.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
     "id": "awb_d9d8766592a1fae48067",
@@ -10611,25 +9605,17 @@
       "pop"
     ],
     "tags": [
-      "1980s",
-      "1990s",
       "2000s",
-      "80's",
       "80s",
-      "90's",
       "90s",
       "music",
       "musica",
-      "música",
-      "pop music",
-      "pop-music",
-      "spanish",
-      "spanish pop"
+      "pop-music"
     ],
     "homepage": "https://www.kissfm.es/",
     "favicon": "https://www.kissfm.es/wp-content/uploads/2024/10/Logo-KISS-FM_Negativo-Color.png",
     "type": null,
-    "sourceCount": 8,
+    "sourceCount": 4,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10676,13 +9662,12 @@
     "tags": [
       "80's",
       "90's",
-      "90s y más",
-      "decades"
+      "90s y más"
     ],
     "homepage": "https://www.kissfm.es/",
     "favicon": "https://www.kissfm.es/wp-content/uploads/2020/09/favicon_KISS.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T00:35:25Z"
   },
   {
@@ -10720,22 +9705,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_329e9bd58d0950c4c769",
-    "name": "Kiss-FM Madrid",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.kissfm.es/",
-    "favicon": "https://www.kissfm.es/wp-content/uploads/2022/03/cropped-LOGOS_KISSFM20_CC_CMYK_Logo-KISS-FM-20-Negativo-Color-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:10:52Z"
   },
   {
     "id": "awb_76dafd5c0f2f16f16817",
@@ -10925,28 +9894,6 @@
     "updatedAt": "2026-01-15T08:38:46Z"
   },
   {
-    "id": "awb_cba6997d5558171677f1",
-    "name": "La Diez Capital Radio",
-    "country": "ES",
-    "subdivision": "Islas Canarias",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "entrevistas",
-      "magazines",
-      "noticias locales"
-    ],
-    "homepage": "https://www.ladiez.es/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:56:58Z"
-  },
-  {
     "id": "awb_dceb697134f01c869c53",
     "name": "La Disco Radio",
     "country": "ES",
@@ -11013,22 +9960,17 @@
   },
   {
     "id": "awb_1432758752651638fcb0",
-    "name": "La Jungla Radio",
+    "name": "LA JUNGLA RADIO",
     "country": "ES",
-    "subdivision": "El Tiemblo",
-    "languages": [
-      "es"
-    ],
+    "subdivision": null,
+    "languages": [],
     "categories": [],
-    "tags": [
-      "entretenimiento",
-      "musica"
-    ],
+    "tags": [],
     "homepage": "https://lajunglaradio.com/",
-    "favicon": "https://www.google.com/s2/favicons?domain=www.lajunglaradio.com",
+    "favicon": "https://lajunglaradio.com/wp-content/uploads/2021/07/Logotipo-La-Jungla-Radio-510-300x300.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T07:06:44Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_59ae7c835f73b6e49299",
@@ -11152,14 +10094,13 @@
       "electronic"
     ],
     "tags": [
-      "deep house",
-      "electro swing"
+      "deep house"
     ],
     "homepage": "https://lamixradio.com/",
     "favicon": "https://lamixradio.com/wp-content/uploads/2024/10/cropped-cropped-Logo-PNG-2023-1.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-07-09T19:00:49Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:08:33Z"
   },
   {
     "id": "awb_e0005b51c149aed83e36",
@@ -11176,25 +10117,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:44:43Z"
-  },
-  {
-    "id": "awb_7a2cccf9435cfd724123",
-    "name": "La Nueva 87.9 FM (87.9 FM) Madrid",
-    "country": "ES",
-    "subdivision": "Comunidad de Madrid",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "var",
-      "variados"
-    ],
-    "homepage": "https://es.streema.com/radios/ESPY_FM",
-    "favicon": "https://static-media.streema.com/media/cache/7a/72/7a72e6d6f4910dbb98e407112bbe6f5b.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:33:03Z"
   },
   {
     "id": "awb_a64c17b23dc1aeeeb2c0",
@@ -11430,7 +10352,7 @@
     "homepage": "http://www.locafm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T05:45:24Z"
   },
   {
@@ -11452,24 +10374,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_b1c151eb1393ebb7e441",
-    "name": "LOCA FM 80s",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electronic"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_e46d20291804a19fc9a1",
     "name": "Loca FM 80s",
     "country": "ES",
@@ -11482,20 +10386,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_b70f9667b225b64536a6",
-    "name": "Loca FM Ambient",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.locafm.com/ambient/player.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_6cc7b451c7c061a09352",
@@ -11514,20 +10404,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_5915b06c22f478ad477e",
-    "name": "Loca FM chillout",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.locafm.com/chill-out/player.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_07627225026c0b26cd5d",
@@ -11630,24 +10506,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_9233742e3ed38d690a10",
-    "name": "LOCA FM Techno",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electronic"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_80576e2623345decf6aa",
@@ -11850,25 +10708,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_b29af292ffa2e6d7ac63",
-    "name": "Los 40",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "r&b/urban"
-    ],
-    "homepage": "https://play.los40.com/",
-    "favicon": "https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_6ade1bf27a1cead65ecc",
     "name": "Los 40 Asturias",
     "country": "ES",
@@ -11980,20 +10819,6 @@
     "updatedAt": "2026-01-15T00:58:35Z"
   },
   {
-    "id": "awb_5738855e55cef0239e9a",
-    "name": "Los 40 españa",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://los40.com/",
-    "favicon": "https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_107036ddc748fe31d338",
     "name": "LOS 40 Lanzarote",
     "country": "ES",
@@ -12008,20 +10833,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-20T11:36:06Z"
-  },
-  {
-    "id": "awb_73b1d8df2b68406144cc",
-    "name": "Los 40 Nacional",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_7a1812d2e14daaa93487",
@@ -12055,13 +10866,12 @@
     "tags": [
       "music",
       "pop",
-      "top 40",
       "top-40"
     ],
     "homepage": "https://los40.com/",
-    "favicon": "https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -12137,13 +10947,12 @@
     "tags": [
       "dance",
       "music",
-      "pop",
-      "urban"
+      "pop"
     ],
     "homepage": "https://los40.com/seccion/los40urban/",
-    "favicon": "https://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -12210,36 +11019,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_801eefebf390983c2bed",
-    "name": "Los40 Dance",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://play.los40.com/emisora/los40_dance/",
-    "favicon": "https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_0c29cc3b21425a31ce47",
-    "name": "Los40 direct",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://playerservices.streamtheworld.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-31T02:23:46Z"
-  },
-  {
     "id": "awb_a14dd60fbcee9650fefc",
     "name": "LOS40 Madrid (93.9FM)",
     "country": "ES",
@@ -12252,10 +11031,10 @@
       "pop music"
     ],
     "homepage": "https://los40.com/",
-    "favicon": "https://static-1.ivoox.com/audios/7/8/7/4/511477844787_XXL.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-02T00:15:23Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-08-01T23:56:05Z"
   },
   {
     "id": "awb_2761dc61f5964ac5ef93",
@@ -12418,14 +11197,14 @@
     "id": "awb_fc704e9ce74d3ed4165b",
     "name": "Mambo Radio",
     "country": "ES",
-    "subdivision": "Ibiza",
+    "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://www.cafemamboibiza.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
@@ -12452,26 +11231,19 @@
     ],
     "categories": [],
     "tags": [
-      "andalousie",
-      "andalucia",
       "costa del sol",
       "culture française",
-      "francophone",
       "french culture",
       "french music",
-      "french radio",
-      "info music",
       "international",
       "musique",
-      "radio",
-      "radio france",
       "radio française"
     ],
     "homepage": "https://marbescop.com/",
     "favicon": "https://asset.cloudinary.com/djxycj6pf/6614f09715138e4d263e4a2b09ac5f7a",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T02:32:41Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:02:44Z"
   },
   {
     "id": "awb_16e58da6b449caf2ac91",
@@ -12500,29 +11272,18 @@
     "subdivision": "Madrid",
     "languages": [],
     "categories": [
-      "blues",
       "pop",
-      "punk",
       "rock"
     ],
     "tags": [
-      "alternative rock",
-      "blues rock",
-      "classic rock",
       "classic-rock",
-      "hard rock",
-      "indie rock",
-      "pop rock",
       "pop-rock",
-      "progressive rock",
-      "punk rock",
-      "rock",
-      "soft rock"
+      "rock"
     ],
     "homepage": "https://mariskalrock.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -12789,22 +11550,6 @@
     "updatedAt": "2026-01-15T04:09:15Z"
   },
   {
-    "id": "awb_793518adf4a5c1bf5bac",
-    "name": "MEGA STAR FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "international"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_a91f6d8c161fcd1df056",
     "name": "MegaStarFM",
     "country": "ES",
@@ -12851,20 +11596,16 @@
       "es"
     ],
     "categories": [
-      "metal",
-      "rock"
+      "metal"
     ],
     "tags": [
-      "hard rock",
-      "heavy metal",
-      "metal",
-      "rock"
+      "heavy metal"
     ],
     "homepage": "https://azuracast.javidai.uk/public/metalmeria",
-    "favicon": "https://azuracast.javidai.uk/static/uploads/browser_icon/192.1792001088.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-14T18:19:58Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T18:27:05Z"
   },
   {
     "id": "awb_75d1066fdb779fd4c26f",
@@ -12938,22 +11679,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_f84e4ee088fa6eaf1a06",
-    "name": "Mix Radio Gran Canaria",
-    "country": "ES",
-    "subdivision": "Islas Canarias",
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mixradio.eu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:32:39Z"
-  },
-  {
     "id": "awb_177bf93ef9ab020b34f7",
     "name": "Mix80Radio",
     "country": "ES",
@@ -12968,22 +11693,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_780038ac4744a7bf306c",
-    "name": "MixFM Gran Canaria",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mixradio.eu/",
-    "favicon": "https://mixradio.eu/wp-content/uploads/2019/07/cropped-MixRadio_Logo_highQ.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:23:20Z"
   },
   {
     "id": "awb_af7a71145addda3dd43e",
@@ -13041,6 +11750,29 @@
     "updatedAt": "2026-01-15T08:48:40Z"
   },
   {
+    "id": "awb_5497f5d2b8518abe2c0e",
+    "name": "Motiva FM",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "latin",
+      "reggaeton",
+      "spanish",
+      "urban"
+    ],
+    "homepage": "https://motivafm.com/",
+    "favicon": "https://graph.facebook.com/motivafm/picture?width=1024&height=1024",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T10:50:53Z"
+  },
+  {
     "id": "awb_ab0f4a0a5eef14b10bd7",
     "name": "MotivaHit",
     "country": "ES",
@@ -13059,25 +11791,19 @@
     "name": "Mozoilo Irratia",
     "country": "ES",
     "subdivision": "Bizkaia",
-    "languages": [
-      "eu"
-    ],
+    "languages": [],
     "categories": [
-      "news",
-      "talk"
+      "news"
     ],
     "tags": [
       "local news",
-      "music",
-      "politics",
-      "regional",
-      "talk"
+      "music"
     ],
     "homepage": "https://mozoiloirratia.eus/",
     "favicon": "https://mozoiloirratia.eus/wp-content/uploads/2020/07/freepik_br_881d32e0-1db0-477c-8b8b-729e907342ac-320x320.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-05T21:45:39Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_5d3249bbe87a2b653903",
@@ -13167,20 +11893,6 @@
     "updatedAt": "2026-01-15T06:35:42Z"
   },
   {
-    "id": "awb_ee7f70a3f97855a1a591",
-    "name": "Muy buena",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.emisorasmusicales.net/",
-    "favicon": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/04135742/MuyBuena-1-1.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_e31d7b7907872d9ff8ab",
     "name": "Muy buena Valencia",
     "country": "ES",
@@ -13228,8 +11940,8 @@
     "homepage": "https://irratia.naiz.eus/eu",
     "favicon": "https://irratia.naiz.eus/assets/favicon-4233dd9f9a29c4aa3d6c77b379b2ee2141dd9a5ff891e1d8955e3d14498cd6fe.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-30T10:27:37Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-07-24T09:10:45Z"
   },
   {
     "id": "awb_799101055c0ee6b80256",
@@ -13240,8 +11952,7 @@
       "es"
     ],
     "categories": [
-      "news",
-      "talk"
+      "news"
     ],
     "tags": [
       "economia",
@@ -13250,18 +11961,16 @@
       "economics",
       "economy",
       "news",
-      "news talk",
       "noticias",
       "noticias en español",
-      "politics",
       "sociedad",
       "society"
     ],
     "homepage": "https://www.negocios.com/",
     "favicon": "https://www.negocios.com/wp-content/uploads/2022/08/ico-negocios.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-23T20:50:28Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T06:36:23Z"
   },
   {
     "id": "awb_e310b0c7a1bc25669873",
@@ -13395,20 +12104,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_de7e2017756601815356",
-    "name": "Olimpica Valencia",
-    "country": "ES",
-    "subdivision": "Valencia",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.olimpicavalencia.es/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_ef97c62fc29e5793f5e1",
@@ -13687,24 +12382,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_8095d78631ce15401068",
-    "name": "ONDA CERO (España)",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "noticias y música"
-    ],
-    "homepage": "https://www.radio.es/s/onda-cero-madrid",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_ebd7a15c268388662765",
     "name": "Onda Cero (Eventos 1)",
     "country": "ES",
@@ -13888,28 +12565,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_51856d46b373bee33b8d",
-    "name": "Onda Cero Granada",
-    "country": "ES",
-    "subdivision": "Granada",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": "https://www.ondacero.es/emisoras/andalucia/granada/directo/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:50:58Z"
-  },
-  {
     "id": "awb_119beeee99a74d373250",
     "name": "Onda Cero Huelva",
     "country": "ES",
@@ -13984,8 +12639,8 @@
     "homepage": "https://www.ondacero.es/",
     "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-10-13T10:02:41Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-12T13:01:59Z"
   },
   {
     "id": "awb_62375a23258e17f27c92",
@@ -14046,20 +12701,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_4da060b18e963be56d58",
-    "name": "Onda Cero Pontevedra",
-    "country": "ES",
-    "subdivision": "Pontevedra",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.ondacero.es/emisoras/galicia/pontevedra/directo/",
-    "favicon": "https://static.ondacero.es/img/favicon.ico?ondacero",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_87a95674c51654a1e438",
@@ -14590,12 +13231,10 @@
   },
   {
     "id": "awb_884b789c485ccf99c0f0",
-    "name": "ONDA WANTUKI",
+    "name": "Onda Wantuki",
     "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
+    "subdivision": null,
+    "languages": [],
     "categories": [
       "hip-hop",
       "oldies",
@@ -14615,10 +13254,10 @@
       "rock"
     ],
     "homepage": "https://onda-wantuki-wc.webnode.es/",
-    "favicon": "https://d1di2lzuh97fh2.cloudfront.net/files/1j/1j3/1j3767.ico?ph=a8c8871dd5",
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20220923_223554634.png?alt=media&token=b0543e7b-d4d1-478d-b305-6120a41b0692",
     "type": null,
-    "sourceCount": 7,
-    "updatedAt": "2026-01-15T08:44:42Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_6109bda3888d064b3289",
@@ -14670,9 +13309,9 @@
       "news"
     ],
     "homepage": "https://www.ondacero.es/emisoras/murcia/cartagena/",
-    "favicon": "https://static.ondacero.es/img/favicon.ico",
+    "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T02:38:10Z"
   },
   {
@@ -14780,6 +13419,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-28T13:29:46Z"
+  },
+  {
+    "id": "awb_a5e069fb3b4bf64b9707",
+    "name": "ONE FM",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "hits",
+      "pop",
+      "spanish"
+    ],
+    "homepage": "https://onefm.es/",
+    "favicon": "https://onefm.es/wp-content/uploads/2023/09/LOGO-2025-770x770.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T10:52:11Z"
   },
   {
     "id": "awb_842ead255b5f919e1e5e",
@@ -14919,20 +13581,6 @@
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
-    "id": "awb_641cbe2fc7f2e4d4c545",
-    "name": "PabloMix Music",
-    "country": "ES",
-    "subdivision": "Zaragoza",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://pablomix.ramirezgutierrez.es/",
-    "favicon": "https://pablomix.ramirezgutierrez.es/images/logo_512.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
     "id": "awb_a94ac6d785c7c92e36c3",
     "name": "Pakito FM",
     "country": "ES",
@@ -15007,14 +13655,12 @@
       "electronic"
     ],
     "tags": [
-      "deep house",
-      "house",
-      "tropical"
+      "house"
     ],
     "homepage": "https://perfect-radio.com/perfect-deephouse.html",
-    "favicon": "https://perfect-radio.com/____impro/1/onewebmedia/Logo%20Perfect%20Deephouse.jpg?etag=W%2F%22847e5-619665ca%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=355%2B372&extract=0%2B0%2B354%2B372&quality=85",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -15335,24 +13981,6 @@
     "updatedAt": "2026-10-28T02:47:48Z"
   },
   {
-    "id": "awb_7b71f43282eaaea86e33",
-    "name": "Pollença",
-    "country": "ES",
-    "subdivision": "Islas Baleares",
-    "languages": [
-      "ca"
-    ],
-    "categories": [],
-    "tags": [
-      "local radio"
-    ],
-    "homepage": "https://www.xn--radiopollena-udb.net/",
-    "favicon": "https://www.xn--radiopollena-udb.net/wp-content/themes/rp/img/logo-rp.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-30T09:32:14Z"
-  },
-  {
     "id": "awb_4637b0a03ad709a1b476",
     "name": "Pontevedra Viva",
     "country": "ES",
@@ -15375,24 +14003,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:22:35Z"
-  },
-  {
-    "id": "awb_f961ed93d906b5a5348f",
-    "name": "Pop Music Station [RU]",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://stream.vyshka24.ru/radio24",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:08Z"
   },
   {
     "id": "awb_77c97d33d15a0313ef1e",
@@ -15425,24 +14035,6 @@
     "updatedAt": "2026-07-25T08:28:38Z"
   },
   {
-    "id": "awb_fedb8348623e8568ba8f",
-    "name": "PS Audio",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "jazz"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_d17109c109b9dcc48b69",
     "name": "punk irratia",
     "country": "ES",
@@ -15462,8 +14054,8 @@
     "homepage": "https://punkirratia.net/",
     "favicon": "https://punkirratia.net/punkirratia.jpg",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-11-06T23:22:23Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-06T20:47:12Z"
   },
   {
     "id": "awb_2d748205b8cd10558fa7",
@@ -15511,7 +14103,7 @@
     "homepage": "https://www.pureibizaradio.com/",
     "favicon": "https://www.radio.es/images/broadcasts/a2/7d/103588/1/c300.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -15587,21 +14179,12 @@
     "languages": [
       "ca"
     ],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "culture",
-      "humour",
-      "local news",
-      "news",
-      "sports"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.rac1.cat/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -15847,25 +14430,21 @@
     "id": "awb_b5740e7d0c8bec0dc8cc",
     "name": "Radio 90",
     "country": "ES",
-    "subdivision": "Catalunya",
+    "subdivision": null,
     "languages": [
-      "ca",
       "es"
     ],
     "categories": [
-      "oldies",
-      "talk"
+      "oldies"
     ],
     "tags": [
-      "music",
-      "oldies",
-      "spoken word"
+      "oldies"
     ],
-    "homepage": "https://www.r90.org/",
-    "favicon": "https://www.r90.org/wp-content/uploads/2022/07/logo_r90_95px.png",
+    "homepage": "http://www.r90.org/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:29:21Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:12:37Z"
   },
   {
     "id": "awb_eec8e9ee39a1a59e2961",
@@ -15889,29 +14468,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_d62c661f7d4f133a84a5",
-    "name": "Ràdio 90 (320k)",
-    "country": "ES",
-    "subdivision": "Catalunya",
-    "languages": [],
-    "categories": [
-      "jazz",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "funk",
-      "jazz",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://www.r90.org/",
-    "favicon": "https://www.r90.org/wp-content/uploads/2022/07/logo_r90_50px.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_9abaa13229d0d7ebd2e0",
@@ -16097,7 +14653,7 @@
     "homepage": "https://radioalmaina.org/",
     "favicon": "https://radioalmaina.org/wp-content/uploads/2023/10/cropped-logo_radio_almaina-1-180x180.png",
     "type": "community",
-    "sourceCount": 5,
+    "sourceCount": 3,
     "updatedAt": "2026-01-15T01:19:21Z"
   },
   {
@@ -16154,8 +14710,8 @@
     "homepage": "https://radioaltamira.es/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-19T21:24:13Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:21:57Z"
   },
   {
     "id": "awb_b1313fae10f52499a700",
@@ -16236,44 +14792,17 @@
     "id": "awb_81c7a82aba5e2ed0fda1",
     "name": "Radio Argayo",
     "country": "ES",
-    "subdivision": "Cantabria",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "talk"
-    ],
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
     "tags": [
-      "misc",
-      "music",
-      "spoken word"
+      "misc"
     ],
     "homepage": "https://radioargayo.noblogs.org/",
     "favicon": "https://radioargayo.noblogs.org/files/2023/07/cropped-RA_isotipo-e1688923142854.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T02:39:23Z"
-  },
-  {
-    "id": "awb_aa586e2310839a1043aa",
-    "name": "Ràdio Arrels",
-    "country": "ES",
-    "subdivision": "Catalonia",
-    "languages": [
-      "ca"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "music",
-      "news"
-    ],
-    "homepage": "https://www.radioarrels.cat/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:47:59Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_79b203fd92c2ab763b77",
@@ -16330,66 +14859,19 @@
     "id": "awb_3ae85c569c6456a7bdf6",
     "name": "Radio Ateos de Barcelona",
     "country": "ES",
-    "subdivision": "Cataluña",
+    "subdivision": "Barcelona",
     "languages": [
       "es"
     ],
     "categories": [],
     "tags": [
-      "atea",
-      "ateas",
-      "ateismo",
-      "ateo",
-      "ateos",
-      "ateísmo",
-      "barcelona",
-      "biblia",
-      "corán",
-      "cristianismo",
-      "cristo",
-      "daños de las religiones",
-      "dios",
-      "diosas",
-      "dioses",
-      "epistemología",
-      "escepticismo",
-      "escéptico",
-      "grandes males del mundo",
-      "hinduismo",
-      "hindú",
-      "islam",
-      "jesús",
-      "judaismo",
-      "judío",
-      "lacra de la humanidad",
-      "musulmán",
-      "radio",
-      "religion",
-      "religiones",
-      "religión",
-      "teología"
+      "ateo"
     ],
     "homepage": "https://radioateosdebarcelona.webradiosite.com/",
     "favicon": "https://public-rf-upload.minhawebradio.net/249840/logo/ef675b302b1ffea40a3c8d5b28a5b277.png",
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T01:52:51Z"
-  },
-  {
-    "id": "awb_df7ecbfde1c0754199bc",
-    "name": "Radio Atlantis Lanzarote",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://atlantisfm.de/",
-    "favicon": "https://atlantisfm.de/wp-content/uploads/mstile-310x310-2.png",
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:42:51Z"
+    "updatedAt": "2026-01-15T00:35:25Z"
   },
   {
     "id": "awb_a2a55973a7641aec47d5",
@@ -16824,8 +15306,8 @@
     "homepage": "https://www.rtve.es/play/radio/radio-clasica/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-05T17:02:19Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-05-05T17:01:26Z"
   },
   {
     "id": "awb_a0081c5329aa31cd11a4",
@@ -16844,22 +15326,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_f0d72ccdd1f05c2eff7d",
-    "name": "Radio Connect Romania",
-    "country": "ES",
-    "subdivision": "catalunia",
-    "languages": [
-      "ro"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioconnect.ro/",
-    "favicon": "https://www.facebook.com/RadioConnectFm",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-30T22:35:52Z"
   },
   {
     "id": "awb_b3556a0d7096d063833a",
@@ -17036,32 +15502,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_9ec7273d0938f409663b",
-    "name": "Radio Dikela",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "alabanza",
-      "christian",
-      "evangelico",
-      "flamenco",
-      "gospel",
-      "oracion",
-      "worship"
-    ],
-    "homepage": "https://dikela.org/",
-    "favicon": "https://dikela.org/content/uploads/photos/2026/09/dikela_logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-03T22:14:19Z"
   },
   {
     "id": "awb_8620a54ca22227ffadcb",
@@ -17444,22 +15884,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_73aed0fffa4be813b9f2",
-    "name": "Radio Euskadi",
-    "country": "ES",
-    "subdivision": "BIZKAIA",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.eitb.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:47:20Z"
-  },
-  {
     "id": "awb_c43bf789480cad2e565c",
     "name": "Radio Exterior de España",
     "country": "ES",
@@ -17516,23 +15940,14 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "religious",
-      "talk"
-    ],
+    "categories": [],
     "tags": [
-      "christian",
-      "evangelical",
-      "music",
-      "protestant",
-      "reformed",
-      "speech",
-      "talk"
+      "music"
     ],
     "homepage": "https://farodegracia.com/",
-    "favicon": "https://i.imgur.com/I8bkVTI.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -17589,7 +16004,7 @@
     "homepage": "https://opaii.blogspot.com/",
     "favicon": "https://4.bp.blogspot.com/-W4AMwZRgefQ/VsOGm_Cji8I/AAAAAAAAJnE/I1OC5UndR1Q/s1600-r/Cabeceira4.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -17710,14 +16125,11 @@
     "subdivision": "Galicia",
     "languages": [],
     "categories": [],
-    "tags": [
-      "galicia",
-      "regional"
-    ],
+    "tags": [],
     "homepage": "https://www.agalegaaudio.gal/videos/category/12478-directos",
-    "favicon": "https://d1oldvcs710rcb.cloudfront.net/fly/65d34d426dcc48cd806b5d7cbf038e3b.png",
+    "favicon": "https://www.agalegaaudio.gal/icons/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
@@ -17899,7 +16311,7 @@
     "homepage": "http://radio.guijuelo.es/emision-directo/",
     "favicon": "http://radio.guijuelo.es/wp-content/uploads/2021/01/cropped-Cabecera-radio-guijuelo.jpg",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-03T12:32:21Z"
   },
   {
@@ -17919,7 +16331,7 @@
     "homepage": "https://www.emisorasmusicales.net/emisoras/radio-hallo/",
     "favicon": "https://media.emisorasmusicales.net/wp-content/uploads/2023/08/31110344/radioHallo-1200x1200-1-scaled.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:11:46Z"
   },
   {
@@ -18035,7 +16447,7 @@
     "homepage": "https://radioibizing.com/",
     "favicon": "http://radioibizing.com/wp-content/uploads/2024/06/cropped-3.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-04-11T18:10:50Z"
   },
   {
@@ -18090,24 +16502,14 @@
     "name": "Radio Intereconomía",
     "country": "ES",
     "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "economia",
-      "economic",
-      "economics",
-      "economy",
-      "news"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://intereconomia.com/",
     "favicon": "https://scontent-mty2-1.xx.fbcdn.net/v/t39.30808-6/473158869_1511175113158325_8027410635159064941_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=3adM1fSemxYQ7kNvgFAOZyC&_nc_oc=AdgNZU98qoawDQGphWEPoOWihqZh3rmHZggM9YRxXjcPoClkUTS-4JOmzEonZSv8BKw&_nc_zt=23&_nc_ht=scontent-mty2-1.xx&_nc_gid=AQLe83pEfKWD-Tykx4-aTy2&oh=00_AYB6OHxM7Mh1twmR9Azkh347cn-pDCA0ef-ri-lT0wQp4A&oe=67AFCB04",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T05:05:52Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_0b57af7ae14b8bc2d60f",
@@ -18168,8 +16570,8 @@
     "homepage": "https://cadenaser.com/radio-jodar/",
     "favicon": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-17T14:29:54Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-17T14:28:09Z"
   },
   {
     "id": "awb_12bd58d728e98d69e697",
@@ -18184,22 +16586,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
-  },
-  {
-    "id": "awb_ba4817b9ed8db4a1e89a",
-    "name": "Ràdio l'Hospitalet de l'Infant",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "ca"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiohospitalet.cat/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-24T06:30:19Z"
   },
   {
     "id": "awb_7d80893579f3e72cd00e",
@@ -18287,9 +16673,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiolagranjazaragoza.wordpress.com/",
-    "favicon": "https://radiolagranjazaragoza.wordpress.com/wp-content/uploads/2021/07/cropped-radiolagranjaramone.png?w=180",
+    "favicon": "https://radiobot.radioslibres.info/static/uploads/radio_la_granja/background.1713382583.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-17T06:08:50Z"
   },
   {
@@ -18487,60 +16873,14 @@
     "name": "Radio Linguas",
     "country": "ES",
     "subdivision": "Galicia",
-    "languages": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "gl",
-      "it",
-      "ja",
-      "pt",
-      "zh"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "educational",
-      "languages"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radiolinguas.eu/",
     "favicon": "https://radiolinguas.eu/wp-content/uploads/2024/03/radiolinguas.jpg",
-    "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:42:52Z"
-  },
-  {
-    "id": "awb_bdd6b2e8180b8368d15c",
-    "name": "Radio Linguas",
-    "country": "ES",
-    "subdivision": "Galicia",
-    "languages": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "gl",
-      "it",
-      "ja",
-      "pt",
-      "zh"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "educational",
-      "languages"
-    ],
-    "homepage": "https://www.podomatic.com/podcasts/radiolinguas-eoidevigo",
-    "favicon": "http://www.edu.xunta.gal/centros/eoivigo/?q=system/files/u4/radiolinguas_eoidevigo.jpg",
-    "type": "community",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T23:53:14Z"
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_ebfc91285fcd4873fb38",
@@ -18757,7 +17097,7 @@
     "homepage": "https://sonic.mediatelekom.net/9316/stream",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -18771,8 +17111,8 @@
     "homepage": "https://www.marca.com/radio.html?intcmp=BOTONPORTADA01&s_kw=radiomarca",
     "favicon": "https://www.marca.com/apple-touch-icon-precomposed.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-06T06:52:54Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_24d9790a9f79c5e388f7",
@@ -18820,28 +17160,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:42:52Z"
-  },
-  {
-    "id": "awb_15a614a26a177cfbe56e",
-    "name": "Radio Marca Barcelona 2",
-    "country": "ES",
-    "subdivision": "Barcelona",
-    "languages": [
-      "ca",
-      "es"
-    ],
-    "categories": [
-      "sports"
-    ],
-    "tags": [
-      "deportes",
-      "sports"
-    ],
-    "homepage": "https://www.radiomarcabarcelona.com/directo/",
-    "favicon": "https://www.radiomarcabarcelona.com/icon/1logo_Barcelona@3x.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-25T09:16:09Z"
   },
   {
     "id": "awb_3aa2f0ad6b3ddc0af8a6",
@@ -19303,26 +17621,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_3548cbaceb8ba8154352",
-    "name": "Radio Nacional de España - Valencia",
-    "country": "ES",
-    "subdivision": "Comunitat Valenciana",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "noticias"
-    ],
-    "homepage": "https://www.rtve.es/",
-    "favicon": "https://css2.rtve.es/css/rtve.2021/i/rtve-logos/logos_cabeceras/logo_rneaudio-rne.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-12T13:08:58Z"
-  },
-  {
     "id": "awb_38e454109a35d8294ac9",
     "name": "Radio Nature",
     "country": "ES",
@@ -19345,7 +17643,7 @@
     "homepage": "https://radionature.weebly.com/",
     "favicon": "https://radionature.weebly.com/uploads/7/4/0/7/74072033/icon-players_orig.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
@@ -19367,23 +17665,14 @@
     "name": "Radio Nervión",
     "country": "ES",
     "subdivision": "Bizkaia",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "bilbao",
-      "música y noticias",
-      "noticias",
-      "noticias locales"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.radionervion.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:03:15Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_744408a1f601027bb7e8",
@@ -19633,7 +17922,7 @@
     "homepage": "https://www.radioplaneta.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -19743,9 +18032,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiopopular.com/",
-    "favicon": "https://rpopular.mediasector.es/estaticos/2021/11/23012447/cropped-Logotipo-Radio-Popular-Mariposa-scaled-1-192x192.gif",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
@@ -19785,32 +18074,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:24:52Z"
-  },
-  {
-    "id": "awb_35823b917e67e77107b9",
-    "name": "Radio Primavera GC 107.3 FM",
-    "country": "ES",
-    "subdivision": "Gran Canaria",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "deutsch",
-      "oldies",
-      "pop",
-      "rock",
-      "schlager"
-    ],
-    "homepage": "https://radio-pv.com/",
-    "favicon": "https://radio-pv.com/wp-content/uploads/2019/01-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:56:33Z"
   },
   {
     "id": "awb_06200c0859a578255563",
@@ -20616,20 +18879,6 @@
     "updatedAt": "2026-10-19T21:24:13Z"
   },
   {
-    "id": "awb_9eda47e9ee8426feb819",
-    "name": "Radio Studio Più - Ibiza",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiostudiopiuibiza.com/studiopiuibiza/index.php",
-    "favicon": "https://radiostudiopiuibiza.com/studiopiuibiza/assets/img/logo_sito_studiopiuibiza.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-14T13:59:14Z"
-  },
-  {
     "id": "awb_ec42235fb50326388073",
     "name": "Radio Surco Tomelloso",
     "country": "ES",
@@ -20643,7 +18892,7 @@
     "homepage": "https://radiosurco.es/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -20756,34 +19005,6 @@
     "updatedAt": "2026-10-12T03:48:47Z"
   },
   {
-    "id": "awb_04fc821b88c2e761f3e0",
-    "name": "Radio The Club",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiotheclub.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_1668492d26b1e2f3f8f8",
-    "name": "Radio THE CLUB - Mallorca 92.0 FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiotheclub.com/",
-    "favicon": "https://radiotheclub.com/img/192x192.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_b73ce9b2e47b31875854",
     "name": "RADIO TINAMAR",
     "country": "ES",
@@ -20826,20 +19047,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-19T21:53:44Z"
-  },
-  {
-    "id": "awb_65492b7b7f2b3abbb6cc",
-    "name": "Radio Tirso Libertaria (RTL)",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiotirsolibertaria.cntmadrid.org/",
-    "favicon": "https://radiotirsolibertaria.cntmadrid.org/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-18T19:36:03Z"
   },
   {
     "id": "awb_409d6b377c6a5cac8a72",
@@ -21137,7 +19344,7 @@
     "homepage": "https://www.radiovallekas.org/",
     "favicon": "https://www.radiovallekas.org/favicon.ico",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -21272,28 +19479,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_304d7923cb0c430e0f7a",
-    "name": "Radio Voz (A Coruña)",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es",
-      "gl"
-    ],
-    "categories": [],
-    "tags": [
-      "galicia",
-      "galiza",
-      "la voz de galicia",
-      "spain"
-    ],
-    "homepage": "http://www.radiovoz.com/",
-    "favicon": "http://www.radiovoz.com/img/favicon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:11:46Z"
-  },
-  {
     "id": "awb_dfa6b44ac829da605a85",
     "name": "Radio Voz (Compostela)",
     "country": "ES",
@@ -21386,7 +19571,7 @@
     "homepage": "https://bluesflac.com/",
     "favicon": "https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -21473,24 +19658,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_0f4f5e423365a838498e",
-    "name": "RadioMV Español",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "https://es.radiomv.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_496b114e0f66d52debe9",
     "name": "RadioMV Español El Antiguo Testamento",
     "country": "ES",
@@ -21552,18 +19719,12 @@
     "country": "ES",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "metal",
-      "rock"
-    ],
-    "tags": [
-      "metal",
-      "rock"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.radiopermu.org/#body",
     "favicon": "https://www.radiopermu.org/images/logos/radiopermu_logo_250.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-01T13:54:42Z"
   },
   {
@@ -21581,28 +19742,6 @@
     "updatedAt": "2026-10-17T10:18:42Z"
   },
   {
-    "id": "awb_b27f92760fd843ff8b2a",
-    "name": "RadioRemember",
-    "country": "ES",
-    "subdivision": "Spain",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "dance",
-      "makina",
-      "mix",
-      "remember",
-      "remix"
-    ],
-    "homepage": "https://stream-164.zeno.fm/vth4gamdntzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2dGg0Z2FtZG50enV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjBwMjdydG5LU1J5Uk1WdHVCSkJjcEEiLCJpYXQiOjE3NDA4NzY2ODksImV4cCI6MTc0MDg3Njc0OX0.C895dopT7rEuOlpWiF7fF2IwhjTj5Oje8WzcLOdV0G0",
-    "favicon": "https://images.zeno.fm/oFd_nzXU9ipqM0xH5uo91hdsSfpF3J_mFCaNpLT_bPc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGdsNVBoMEFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGdwOExCd0FrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTczNDU5ODIyNTAwMA.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:13:59Z"
-  },
-  {
     "id": "awb_27d30bb860683e188e7b",
     "name": "Radios Libres",
     "country": "ES",
@@ -21610,17 +19749,14 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "talk"
-    ],
+    "categories": [],
     "tags": [
-      "music",
-      "spoken word"
+      "music"
     ],
     "homepage": "https://radioslibres.info/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -21969,8 +20105,8 @@
     "homepage": "http://www.rfcradio.es/",
     "favicon": "https://www.wix.com/favicon.ico",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-13T10:10:23Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T07:48:53Z"
   },
   {
     "id": "awb_2f6f96b6793e18726f01",
@@ -22129,29 +20265,8 @@
     "homepage": "https://www.rtve.es/play/audios/informativo-de-aragon/#",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:29:20Z"
-  },
-  {
-    "id": "awb_e55e2b937f5cdddcfd27",
-    "name": "RNE - Radio 5 Zaragoza",
-    "country": "ES",
-    "subdivision": "Zaragoza",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local news",
-      "news"
-    ],
-    "homepage": "https://www.rtve.es/play/audios/informativo-de-aragon/#",
-    "favicon": null,
-    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:28:14Z"
+    "updatedAt": "2026-01-15T04:41:13Z"
   },
   {
     "id": "awb_69eb1632d0ede2b872f2",
@@ -22209,27 +20324,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:09:01Z"
-  },
-  {
-    "id": "awb_44e4e9987c1a492e1668",
-    "name": "RNE Andalucía",
-    "country": "ES",
-    "subdivision": "Andalucía",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "culture",
-      "news"
-    ],
-    "homepage": "https://www.rtve.es/play/audios/programa/rneand-live/3893442/",
-    "favicon": "https://img2.rtve.es/css//rtve.2021/i/rtve-logos/logos_cadenas/radio-nacional_color.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:05:15Z"
   },
   {
     "id": "awb_7f68c480391a1ca04b71",
@@ -22545,24 +20639,21 @@
   },
   {
     "id": "awb_ab053c361e376ff4927e",
-    "name": "Rock FM",
+    "name": "ROCK FM",
     "country": "ES",
     "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
+    "languages": [],
     "categories": [
       "rock"
     ],
     "tags": [
-      "m3u8",
       "rock"
     ],
-    "homepage": "http://www.rockfm.fm/",
+    "homepage": "https://www.rockfm.fm/",
     "favicon": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
     "type": null,
-    "sourceCount": 6,
-    "updatedAt": "2026-01-15T05:12:26Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_5c2e022af3ebd614a6d0",
@@ -22581,46 +20672,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_71382796998f7a9966c4",
-    "name": "Rock FM Espana 128",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://www.rockfm.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:01:29Z"
-  },
-  {
-    "id": "awb_5eebdcb44e56bc644853",
-    "name": "Rock FM Espana Hi-Res",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://www.rockfm.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:14:10Z"
   },
   {
     "id": "awb_a3f2ca5eb6a35edc0cf3",
@@ -22664,22 +20715,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-04-09T12:29:59Z"
-  },
-  {
-    "id": "awb_b45ea433e0168d7ba214",
-    "name": "RockFM 101.7",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.rockfm.fm/",
-    "favicon": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:00:03Z"
   },
   {
     "id": "awb_33bb823e62fa0777427b",
@@ -22742,11 +20777,11 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://emisorasmusicales.net/",
-    "favicon": "https://www.emisorasmusicales.net/emisoras/rockstar/#",
+    "homepage": "https://www.emisorasmusicales.net/",
+    "favicon": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023734/Rockstar-300x300.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-12T05:08:43Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-06-12T05:06:38Z"
   },
   {
     "id": "awb_5cb043d7129b4494bf1a",
@@ -22767,32 +20802,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_39df907c9f35998392d8",
-    "name": "RTPA",
-    "country": "ES",
-    "subdivision": "Asturies",
-    "languages": [
-      "ast",
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "asturies",
-      "economics",
-      "entertaiment",
-      "foreing affairs",
-      "news",
-      "political"
-    ],
-    "homepage": "https://www.rtpa.es/",
-    "favicon": "https://www.rtpa.es/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:29:44Z"
   },
   {
     "id": "awb_0db8962590c8fd0f9657",
@@ -22887,20 +20896,6 @@
     "updatedAt": "2026-08-21T09:21:59Z"
   },
   {
-    "id": "awb_8fe7082024a8fd2bc893",
-    "name": "S+ ibiza",
-    "country": "ES",
-    "subdivision": "Ibiza",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.studiopiu.net/",
-    "favicon": "https://www.studiopiu.net/offline/img/icona.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_d37f468d23b0a75141ac",
     "name": "Salsa FM",
     "country": "ES",
@@ -22929,7 +20924,7 @@
     "homepage": "https://salvajefmcadiz.wixsite.com/salvajefm",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
@@ -22981,7 +20976,7 @@
     "homepage": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -23016,10 +21011,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://scotlander.es/",
-    "favicon": "https://scotlander.es/wp-content/uploads/2026/07/SCOTLANDER.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-09T14:00:51Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-03-30T12:15:55Z"
   },
   {
     "id": "awb_6e03439b9cfa8cdbac95",
@@ -23055,7 +21050,7 @@
     "homepage": "https://segurairratia.eus/",
     "favicon": "https://segurairratia.eus/wp-content/uploads/2017/05/cropped-icon_segura-4-180x180.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:40:24Z"
   },
   {
@@ -23131,7 +21126,7 @@
   },
   {
     "id": "awb_adb166ee12d6071b3702",
-    "name": "SER - Segovia (20241023)",
+    "name": "Ser - Segovia 20241023",
     "country": "ES",
     "subdivision": null,
     "languages": [
@@ -23147,7 +21142,7 @@
     "homepage": "https://cadenaser.com/radio-segovia/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:33:47Z"
   },
   {
@@ -23378,22 +21373,13 @@
     "country": "ES",
     "subdivision": "Sevilla",
     "languages": [],
-    "categories": [
-      "sports"
-    ],
-    "tags": [
-      "deportes",
-      "futbol",
-      "partidos",
-      "sevilla",
-      "sevilla fc",
-      "sevilla futbol club"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://live.sevillafc.es/",
-    "favicon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://live.sevillafc.es&size=16",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_af3c64eb6b1f29d7111c",
@@ -23595,27 +21581,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_35832ad5323b01420494",
-    "name": "Sonaos fm",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "1980s",
-      "90's",
-      "classic hits",
-      "hits"
-    ],
-    "homepage": "https://sonaosfm.com/",
-    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/314/sonaos-fm.987aa5ef.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-07T12:46:08Z"
-  },
-  {
     "id": "awb_19f3a01770002f110625",
     "name": "Sonica Tribe",
     "country": "ES",
@@ -23625,17 +21590,15 @@
       "es"
     ],
     "categories": [
-      "ambient",
       "electronic"
     ],
     "tags": [
-      "chill",
       "electronic"
     ],
     "homepage": "https://ibizasonica.com/",
-    "favicon": "https://ibizasonica.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -23829,22 +21792,6 @@
     "updatedAt": "2026-01-15T03:52:28Z"
   },
   {
-    "id": "awb_96163212bf1c60200abb",
-    "name": "Star People",
-    "country": "ES",
-    "subdivision": "Madrid",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.starpeople.es/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:54:30Z"
-  },
-  {
     "id": "awb_0ba365e1997704209ff7",
     "name": "staronlineradio",
     "country": "ES",
@@ -23980,10 +21927,24 @@
       "talk"
     ],
     "homepage": "http://www.talkradioeurope.com/",
-    "favicon": "https://www.talkradioeurope.com/wp-content/uploads/2022/09/TRE-High-Res-Logo-300x300.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T08:48:40Z"
+  },
+  {
+    "id": "awb_fb5331f702642aced8a4",
+    "name": "TARDEO CLUB RADIO",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://playlist.tips/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-08T12:58:02Z"
   },
   {
     "id": "awb_1c97029cab7ebfc5e884",
@@ -24071,7 +22032,7 @@
     "homepage": "https://stream.technolovers.fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -24147,13 +22108,12 @@
       "pop"
     ],
     "tags": [
-      "pop",
-      "r&b/urban"
+      "pop"
     ],
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -24313,7 +22273,7 @@
     "homepage": "https://www.urbanrevolution.es/",
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 4,
     "updatedAt": "2026-11-07T01:15:23Z"
   },
   {
@@ -24403,16 +22363,14 @@
     "name": "Verbena FM",
     "country": "ES",
     "subdivision": null,
-    "languages": [
-      "es"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://verbenafm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T23:45:01Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_3caa8e4f61993c32b0fe",
@@ -24477,20 +22435,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:04:28Z"
-  },
-  {
-    "id": "awb_122dc4c4ee6761f0a3e0",
-    "name": "Vive Radio Burgos",
-    "country": "ES",
-    "subdivision": "Burgos",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.viveradio.es/viveBurgos",
-    "favicon": "https://www.viveradio.es/dist/images/favicons/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_95ade2b3953c6bd25f19",
@@ -24747,24 +22691,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-23T20:11:50Z"
-  },
-  {
-    "id": "awb_b252d4b367443580d328",
-    "name": "YouTube Radio",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "all",
-      "videos",
-      "youtube"
-    ],
-    "homepage": "http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_699f7f74f71435415166",

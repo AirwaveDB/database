@@ -176,30 +176,6 @@
     "updatedAt": "2026-01-15T01:13:59Z"
   },
   {
-    "id": "awb_4be0da55c935ef0c6937",
-    "name": "América FM 103.3",
-    "country": "UY",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin",
-      "pop"
-    ],
-    "tags": [
-      "entretenimiento",
-      "latino",
-      "música en español",
-      "pop en español"
-    ],
-    "homepage": "http://americafm.com.uy/",
-    "favicon": "http://americafm.com.uy/assets/america.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:11:09Z"
-  },
-  {
     "id": "awb_7f05dcd69c0cf1b6801f",
     "name": "ARAPEY (AM 1450)",
     "country": "UY",
@@ -290,15 +266,13 @@
     ],
     "tags": [
       "alternative",
-      "entretenimiento",
-      "indie rock",
       "musica",
       "rock"
     ],
     "homepage": "https://azulfm.com.uy/",
     "favicon": "https://azulfm.com.uy/public/img/favicons/apple-touch-icon.png?v=5",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-08-23"
   },
   {
@@ -312,7 +286,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
@@ -329,14 +303,12 @@
     "tags": [
       "instrumental",
       "jazz",
-      "music",
-      "radio pública",
-      "uruguay"
+      "music"
     ],
     "homepage": "https://babel.uy/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -413,7 +385,7 @@
     "homepage": "https://carvedeportiva.uy/",
     "favicon": "https://carvedeportiva.uy/wp-content/themes/radio1010_theme/assets/images/logo-carve-deportiva.svg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T04:15:53Z"
   },
   {
@@ -811,9 +783,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://delsol.uy/",
-    "favicon": "https://delsol.uy/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -875,52 +847,14 @@
     "name": "Diamante FM 98.7",
     "country": "UY",
     "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "adult contemporary",
-      "classic hits",
-      "entretenimiento",
-      "musica romantica",
-      "música en español e inglés",
-      "noticias"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.diamantefm.com/",
-    "favicon": "http://www.diamantefm.com/wp-content/uploads/2016/10/logo_header-1.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:37:46Z"
-  },
-  {
-    "id": "awb_ba475f9c09d518be84c7",
-    "name": "Difusora Treinta y Tres 1390 AM",
-    "country": "UY",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "baladas en español",
-      "entretenimiento",
-      "information",
-      "musica romantica",
-      "música variada",
-      "noticias",
-      "radio hablada"
-    ],
-    "homepage": "https://difusoratreintaytres.com.uy/",
-    "favicon": "https://difusoratreintaytres.com.uy/assets/images/logo.png",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:53:11Z"
+    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_5c4aa2dfdb26e37d73a9",
@@ -930,16 +864,12 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://espectador.com/",
-    "favicon": "https://espectador.com/public/img/favicon/apple-touch-icon.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -955,32 +885,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_baf9e00b98d5284c9311",
-    "name": "El Libertador 1210 AM",
-    "country": "UY",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "folk",
-      "news"
-    ],
-    "tags": [
-      "folclore",
-      "folk",
-      "music",
-      "noticias",
-      "social",
-      "variety"
-    ],
-    "homepage": "https://ellibertador.com.uy/",
-    "favicon": "https://i0.wp.com/ellibertador.com.uy/wp-content/uploads/2020/11/cropped-cropped-Logo-El-Libertador-1-1.png?fit=935%2C337&ssl=1",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:51:37Z"
   },
   {
     "id": "awb_1d975da85cb3851421a0",
@@ -1009,16 +913,11 @@
       "es"
     ],
     "categories": [],
-    "tags": [
-      "información",
-      "música uruguaya",
-      "radio pública",
-      "uruguay"
-    ],
+    "tags": [],
     "homepage": "https://emisoradelsur.uy/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1138,20 +1037,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_6142b064cd0910c18667",
-    "name": "FM Azul",
-    "country": "UY",
-    "subdivision": "Montevideo",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://azulfm.com.uy/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_2e6cd68130f71b4399b4",
@@ -1343,9 +1228,9 @@
       "rock"
     ],
     "homepage": "https://fmhit.uy/",
-    "favicon": "https://fmhit.uy/wp-content/uploads/2023/09/Logo_HIT_BLANCO-sin-claim.png",
+    "favicon": "https://fmhit.uy/wp-content/uploads/2020/07/cropped-FmHIT90.3-192x192.jpg",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1359,7 +1244,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1422,22 +1307,14 @@
     "name": "FM Sueños 106.7",
     "country": "UY",
     "subdivision": "Rio Negro",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "other",
-      "pop"
-    ],
+    "languages": [],
+    "categories": [],
+    "tags": [],
     "homepage": "https://fm1067.com.uy/",
     "favicon": "https://fm1067.com.uy/assets/images/favicon.png?v=405a4609",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-12T19:02:29Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-09-12T18:49:22Z"
   },
   {
     "id": "awb_f1e1d2d0c826167dea22",
@@ -1810,22 +1687,8 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_55ed16dd620574ab1697",
-    "name": "Metropolis Punta 95.9",
-    "country": "UY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "updatedAt": "2026-08-23"
   },
   {
     "id": "awb_525f880e2abca6b6c90f",
@@ -1851,7 +1714,6 @@
     "country": "UY",
     "subdivision": "Río Negro",
     "languages": [
-      "en",
       "es"
     ],
     "categories": [],
@@ -1861,7 +1723,7 @@
     "homepage": "https://multimediosrincon.com.uy/",
     "favicon": "https://scontent.fmvd2-1.fna.fbcdn.net/v/t39.30808-6/337384218_1595585237572448_8701487168143709854_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=oMl_JwxkgOQQ7kNvgFRKET9&_nc_ht=scontent.fmvd2-1.fna&oh=00_AYDVOWlfjxf-9fLoPFn84FIjQMOVEfvA0xykA6ut8bX05w&oe=66FE82EF",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T03:18:28Z"
   },
   {
@@ -1877,24 +1739,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_7464c0fee2b230018abb",
-    "name": "mundo fm uruguay",
-    "country": "UY",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "musica"
-    ],
-    "homepage": "http://mundofm.net/2016/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:04:28Z"
   },
   {
     "id": "awb_80eb2d3aecde24ba9b14",
@@ -1963,31 +1807,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-13T15:01:43Z"
-  },
-  {
-    "id": "awb_f8e3931cf1eb7140ba74",
-    "name": "Oldies FM",
-    "country": "UY",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "80s",
-      "90s",
-      "classic hits",
-      "oldies"
-    ],
-    "homepage": "https://fmhit.uy/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:15:25Z"
   },
   {
     "id": "awb_5444db2de24af1b1c12e",
@@ -2086,22 +1905,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_4a6ccc6e6d6ae03533d0",
-    "name": "Radio Arapey",
-    "country": "UY",
-    "subdivision": "Salto",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://10minutos.com.uy/arapeyon-line/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:30:27Z"
-  },
-  {
     "id": "awb_6458f1de17df4717f381",
     "name": "Radio Carmelo",
     "country": "UY",
@@ -2116,20 +1919,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_ac18f26154f4207d9826",
-    "name": "Radio Carve",
-    "country": "UY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiocarve.uy/",
-    "favicon": "https://radiocarve.uy/wp-content/themes/carve_theme/assets/images/logo.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_e773c9b342f82ddf1b5b",
     "name": "Radio Chiveo",
     "country": "UY",
@@ -2139,7 +1928,6 @@
     "tags": [
       "infancia",
       "musica infantil",
-      "música para infancias",
       "música para niños",
       "niñas",
       "niñes",
@@ -2148,7 +1936,7 @@
     "homepage": "https://comodin.uy/public/chiveo",
     "favicon": "https://comodin.uy/static/uploads/chiveo/album_art.1680347629.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
@@ -2180,22 +1968,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:37:16Z"
-  },
-  {
-    "id": "awb_14e39cf61c0358d3709e",
-    "name": "Radio Cultura 1290 AM",
-    "country": "UY",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mediospublicos.uy/category/radio/radio-cultura/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:34:02Z"
   },
   {
     "id": "awb_eafb49541eea5fcfb30e",
@@ -2676,7 +2448,7 @@
     "homepage": "https://enperspectiva.uy/",
     "favicon": "https://enperspectiva.uy/logo_radiomundo.jpeg",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 1,
     "updatedAt": "2026-11-06T08:37:35Z"
   },
   {
