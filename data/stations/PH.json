@@ -489,6 +489,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_cc4d6acf8be1158f1bdc",
+    "name": "89.3 Beat FM Bunal",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radyoph.com/station/beatfmbunal",
+    "favicon": "https://apk.radyoph.com/upload/1794200636_BeatFMBunal.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T11:47:49Z"
+  },
+  {
     "id": "awb_816b92debf5553e0e957",
     "name": "89.5 DWIZ EASTERN VISAYAS TACLOBAN",
     "country": "PH",
@@ -993,14 +1007,14 @@
   },
   {
     "id": "awb_0a435f30dce89dbe203f",
-    "name": "98.5 RADIO JOHN BINALBAGAN",
+    "name": "98.5 Radio John Binalbagan",
     "country": "PH",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://985radiojohn.weebly.com/",
-    "favicon": "https://985radiojohn.weebly.com/uploads/1/2/0/7/120752597/published/rjlogo2024.png?1728216327",
+    "favicon": "https://985radiojohn.weebly.com/uploads/1/2/0/7/120752597/editor/radio-john-logo-1.png?1617251393",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -1092,6 +1106,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-08T16:14:19Z"
+  },
+  {
+    "id": "awb_61f4abfb9c90aa824b0a",
+    "name": "99.5 One FM HD - DZYW",
+    "country": "PH",
+    "subdivision": "Intramuros, Manila",
+    "languages": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "talk",
+      "variety"
+    ],
+    "homepage": "https://www.facebook.com/radyopilipinodigital",
+    "favicon": "https://cdn.radio-addict.com/media/stream/c6041bb2-5a75-4596-98ea-eeba455bb25b_07A573E6CEAE83B08696EE9CF9D97512_4pa2myhht8hp.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T01:01:06Z"
   },
   {
     "id": "awb_73930fe496839772ef7b",
@@ -1733,6 +1769,20 @@
     "updatedAt": "2026-09-18T01:50:08Z"
   },
   {
+    "id": "awb_abcc110c9c3be521dabf",
+    "name": "Barangay LS 89.3 Tuguegarao",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.gmanetwork.com/radio/",
+    "favicon": "https://static.wikia.nocookie.net/gmanetwork/images/6/68/Barangay_LS_89.3.png/revision/latest/scale-to-width/360?cb=20260913012028",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T06:08:42Z"
+  },
+  {
     "id": "awb_2343277277be7fb18884",
     "name": "Barangay LS 91.1 Lucena",
     "country": "PH",
@@ -2258,6 +2308,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-02T13:37:45Z"
+  },
+  {
+    "id": "awb_944977038c763f5109ff",
+    "name": "Bound FM",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "mass",
+      "news",
+      "talk",
+      "variety"
+    ],
+    "homepage": "https://cast1.typicalmedia.net/player/boundfm",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T08:20:17Z"
   },
   {
     "id": "awb_febe139f2642e3c59f5c",
@@ -3540,6 +3614,20 @@
     "updatedAt": "2026-11-04T16:28:30Z"
   },
   {
+    "id": "awb_e7d6b717aa175ed076ba",
+    "name": "DZMM Radyo Patrol 630",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://pcmc.com.ph/dzmmradyopatrol630/",
+    "favicon": "https://pcmc.com.ph/wp-content/uploads/2026/06/DZMM40_Logo-Colored_v2-300x169.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T03:41:07Z"
+  },
+  {
     "id": "awb_2d50b06e2f703e87cb33",
     "name": "DZRH",
     "country": "PH",
@@ -4132,20 +4220,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_855e1d2f01593e958310",
-    "name": "FM Radio Regional",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://148.72.153.65:9201/stream",
-    "favicon": "https://pcmc.com.ph/wp-content/uploads/2024/09/FM-Radio.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-11T14:12:44Z"
   },
   {
     "id": "awb_7c8572b83f1933ae85b2",
@@ -9753,6 +9827,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-15T13:39:27Z"
+  },
+  {
+    "id": "awb_bbcfc0938e69b3025234",
+    "name": "XFM 88.3 SAGAY",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://xfm-sample.infinityfreeapp.com/?i=1",
+    "favicon": "https://xfm-sample.infinityfreeapp.com/wp-content/uploads/2025/10/cropped-Untitled-design-8-321x144.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T05:11:05Z"
   },
   {
     "id": "awb_9a0225443c6474f1c642",

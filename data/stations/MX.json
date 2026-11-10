@@ -18030,6 +18030,34 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_46307dc11630f3616f69",
+    "name": "Destella Radio",
+    "country": "MX",
+    "subdivision": "Mexico City",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "classical",
+      "pop",
+      "religious",
+      "rock"
+    ],
+    "tags": [
+      "christian",
+      "classical",
+      "música religiosa",
+      "pop music",
+      "pop rock",
+      "religion"
+    ],
+    "homepage": "https://destellaradio.com/",
+    "favicon": "https://destellaradio.com/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T02:22:21Z"
+  },
+  {
     "id": "awb_40ddcb1742acde7acdb0",
     "name": "Digital (Saltillo) - 106.5 FM - XHZCN-FM - RCG Media - Saltillo, Coahuila",
     "country": "MX",
@@ -22973,17 +23001,27 @@
     "id": "awb_0870e60e07cdc790b667",
     "name": "Exosfera Radio",
     "country": "MX",
-    "subdivision": "Ciudad de México",
+    "subdivision": "Mexico City",
     "languages": [
       "es"
     ],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "pop",
+      "religious",
+      "rock"
+    ],
+    "tags": [
+      "christian",
+      "pop music",
+      "pop rock",
+      "religious",
+      "rock"
+    ],
     "homepage": "https://exosferaradio.com/",
-    "favicon": "https://exosferaradio.com/image/logo-1200.png",
+    "favicon": "https://exosferaradio.com/logo.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-16T03:58:13Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-10T02:36:18Z"
   },
   {
     "id": "awb_bf01727fb9f6255d06d3",
@@ -57560,6 +57598,32 @@
     "updatedAt": "2026-05-30T12:06:43Z"
   },
   {
+    "id": "awb_6034cf009b1f4891ac79",
+    "name": "Stratos Radio",
+    "country": "MX",
+    "subdivision": "Mexico City",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "religious",
+      "rock"
+    ],
+    "tags": [
+      "christian",
+      "classic rock",
+      "pop music",
+      "pop rock",
+      "religious"
+    ],
+    "homepage": "https://stratosradio.com/",
+    "favicon": "https://stratosradio.com/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T02:31:09Z"
+  },
+  {
     "id": "awb_a1aa1db574f9e67c8c98",
     "name": "Studio (Chihuahua) - 96.5 FM / 580 AM - XHFI-FM / XEFI-AM - Radiorama - Chihuahua, Chihuahua",
     "country": "MX",
@@ -58487,6 +58551,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_bc6e86606ab9477c6293",
+    "name": "Termosfera Radio",
+    "country": "MX",
+    "subdivision": "Mexico City",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop",
+      "religious",
+      "rock"
+    ],
+    "tags": [
+      "christian",
+      "classic hits",
+      "classic rock"
+    ],
+    "homepage": "https://termosferaradio.com/",
+    "favicon": "https://termosferaradio.com/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T02:25:55Z"
   },
   {
     "id": "awb_2699dd42e68e43888839",

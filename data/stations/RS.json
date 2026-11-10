@@ -6172,6 +6172,24 @@
     "updatedAt": "2026-01-15T04:31:27Z"
   },
   {
+    "id": "awb_aac568be8c17a1c99b57",
+    "name": "TDI Radio",
+    "country": "RS",
+    "subdivision": "Central Serbia/ Pomoravlje",
+    "languages": [
+      "sr"
+    ],
+    "categories": [],
+    "tags": [
+      "modern"
+    ],
+    "homepage": "https://tunein.com/radio/TDI-Radio-918-s89313/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T09:25:32Z"
+  },
+  {
     "id": "awb_6e754e8797297b91a376",
     "name": "TDI Radio - Love",
     "country": "RS",
@@ -6202,6 +6220,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-28T13:06:34Z"
+  },
+  {
+    "id": "awb_c00d8bbfe26ca14328fa",
+    "name": "TDI Radio direct stream",
+    "country": "RS",
+    "subdivision": "Belgrade",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://player.tdiradio.com/",
+    "favicon": "https://player.tdiradio.com/",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T09:31:55Z"
   },
   {
     "id": "awb_1102adcaa2a1c3c7207d",

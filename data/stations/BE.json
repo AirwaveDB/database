@@ -482,6 +482,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_390baddeb1b38fc17f27",
+    "name": "Bruce-Radio",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.bruce-radio.be/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T12:34:36Z"
+  },
+  {
     "id": "awb_aafa0c29188606567d54",
     "name": "Bruzz",
     "country": "BE",
@@ -5145,16 +5159,25 @@
     "name": "Radio Sunshine 97,5 Ostbelgien",
     "country": "BE",
     "subdivision": "ostbelgien",
-    "languages": [],
-    "categories": [],
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "oldies"
+    ],
     "tags": [
+      "97.5",
+      "evergreens",
+      "oldies",
+      "ostbelgien",
+      "schlager",
       "schlagerselection"
     ],
     "homepage": "https://www.radio-sunshine.info/livestream",
-    "favicon": null,
+    "favicon": "https://static.wixstatic.com/media/4fe5d9_a1dfac2151234caeb64d63f8322ed30b%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/4fe5d9_a1dfac2151234caeb64d63f8322ed30b%7Emv2.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-09T19:17:44Z"
   },
   {
     "id": "awb_f920c6d6c1299235410f",

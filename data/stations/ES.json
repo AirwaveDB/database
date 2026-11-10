@@ -1536,6 +1536,23 @@
     "updatedAt": "2026-01-15T02:10:00Z"
   },
   {
+    "id": "awb_47c7ec3bbaed36adc4e8",
+    "name": "Aura Radio",
+    "country": "ES",
+    "subdivision": "Huelva",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://auraradio.es/",
+    "favicon": "https://auraradio.es/app/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T08:15:33Z"
+  },
+  {
     "id": "awb_351413ce1be3763dd173",
     "name": "Azul FM Murcia",
     "country": "ES",
@@ -3435,7 +3452,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://cadenaser.com/radio-san-sebastian/",
-    "favicon": "http://cadenaser00.epimg.net/iconos/v1.x/v1.0/redes/imagenes_og/emisoras_v2/1200x630_imagen_control_radio_san_sebastian.jpg",
+    "favicon": "https://listaradio.com/storage/radios/17744/37779/conversions/mNYLhS77V1B5YyOMtoIV0T2cHSfukH-metaUmFkaW9TYW5TZWJhc3RpYW5DYWRlbmFTRVIucG5n--lg.webp",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:22:40Z"
@@ -4942,6 +4959,22 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_55581f3ccfafa189c48c",
+    "name": "COPE Valencia",
+    "country": "ES",
+    "subdivision": "Comunidad Valenciana",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.cope.es/emisoras/comunidad-valenciana/valencia-provincia/valencia",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T21:54:51Z"
+  },
+  {
     "id": "awb_8934c395807c4d74d9c0",
     "name": "copesal",
     "country": "ES",
@@ -5363,7 +5396,7 @@
       "hardstyle",
       "music"
     ],
-    "homepage": "https://decibeliafm.es/web/",
+    "homepage": "https://decibeliafm.es/",
     "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
     "type": null,
     "sourceCount": 2,
@@ -11037,6 +11070,28 @@
     "updatedAt": "2026-08-01T23:56:05Z"
   },
   {
+    "id": "awb_06bfe041e1e4649a8fcf",
+    "name": "Lounge & Coffee Radio",
+    "country": "ES",
+    "subdivision": "Comunidad de Madrid",
+    "languages": [],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "cafe background music",
+      "chillout",
+      "chillout+lounge",
+      "downtempo",
+      "lounge"
+    ],
+    "homepage": "https://coolcoffesounds.com/",
+    "favicon": "https://scontent.fmad16-1.fna.fbcdn.net/v/t39.30808-6/897320799_1607399804738507_5257088296890640594_n.jpg?stp=dst-jpg_tt6&cstp=mx1024x1024&ctp=s1024x1024&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=w3tANllkG9sQ7kNvwFhvktU&_nc_oc=AdqIsN-A-qn4chwkPFhKOUcDPfEr8GY9qf0YZRlrPdPeri0saIbtUnF03jKQCGcH8gc&_nc_zt=23&_nc_ht=scontent.fmad16-1.fna&_nc_gid=_LdH6gcxheGT96Sb0GzTnw&_nc_ss=7b2a8&oh=00_AQT1LtJF9oixcy2iMSCFWOxHZmZ6dG8gwaYChFAZW4sXmg&oe=6AF7C8C9",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T18:03:44Z"
+  },
+  {
     "id": "awb_2761dc61f5964ac5ef93",
     "name": "Lounge Radio Ibiza",
     "country": "ES",
@@ -12583,8 +12638,8 @@
       "sports",
       "talks"
     ],
-    "homepage": "https://ondacero.es/",
-    "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
+    "homepage": "https://www.ondacero.es/emisoras/andalucia/huelva/directo/",
+    "favicon": "https://i.scdn.co/image/ab6775700000ee851a865a3769a3e6868928a43f",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-04-01T11:00:35Z"
@@ -13750,6 +13805,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:56:58Z"
+  },
+  {
+    "id": "awb_e0fc70d3f4f41ca6e7fa",
+    "name": "Pinnacle Nexus Radio",
+    "country": "ES",
+    "subdivision": "Valencia",
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "independent music",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "homepage": "https://adsfree.us/radio-test.html",
+    "favicon": "https://adsfree.us/pinnacle-radio/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T10:56:33Z"
   },
   {
     "id": "awb_2fe33ebda380c59d87ca",
@@ -20710,8 +20788,8 @@
     "tags": [
       "rock"
     ],
-    "homepage": "http://www.rockfm.fm/",
-    "favicon": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
+    "homepage": "https://www.rockfm.fm/",
+    "favicon": "https://institucional.cope.es/wp-content/uploads/2019/02/ROCK-FM.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-04-09T12:29:59Z"

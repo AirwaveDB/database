@@ -2299,6 +2299,27 @@
     "updatedAt": "2026-01-15T03:25:25Z"
   },
   {
+    "id": "awb_72f2d08a1a0c97bb2880",
+    "name": "All Out 80s",
+    "country": "GB",
+    "subdivision": "England",
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "80s",
+      "dance",
+      "pop"
+    ],
+    "homepage": "https://www.allout80s.co.uk/",
+    "favicon": "https://www.allout80s.co.uk/wp-content/uploads/2026/11/All-Out-80s-Full-Logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T18:24:41Z"
+  },
+  {
     "id": "awb_3e8699b654f8b5f26831",
     "name": "allsoundsradio",
     "country": "GB",
@@ -7432,6 +7453,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-28T22:05:19Z"
+  },
+  {
+    "id": "awb_feeb10fe56a652a75cf7",
+    "name": "Capital Yorkshire (South and West)",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.capitalfm.com/yorkshiresouthwest/",
+    "favicon": "http://owdo.thisisglobal.com/2.0/id/148/logo/320x240.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T16:54:26Z"
   },
   {
     "id": "awb_50114413e697c03035e7",
@@ -14438,6 +14473,20 @@
     "updatedAt": "2026-01-15T00:00:55Z"
   },
   {
+    "id": "awb_a5e62a120e1b68f9ce9e",
+    "name": "Heart Glasgow West",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.heart.co.uk/glasgow/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T08:30:31Z"
+  },
+  {
     "id": "awb_7a5841c3e4955db4ffec",
     "name": "Heart Gloucestershire",
     "country": "GB",
@@ -20162,6 +20211,20 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_48fc29a1330171c167e3",
+    "name": "Metal Radio UK",
+    "country": "GB",
+    "subdivision": "Devon",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.rockradiouk.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T11:12:34Z"
+  },
+  {
     "id": "awb_01143636d65ce98feabd",
     "name": "Metro Sound",
     "country": "GB",
@@ -24934,7 +24997,7 @@
       "pop"
     ],
     "homepage": "https://www.radiohillingdon.com/",
-    "favicon": "https://www.radiohillingdon.com/images/Listen%20Live%20Button%202023.png",
+    "favicon": "https://www.radiohillingdon.com/images/RH%20Logo%202023%20website_footer.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-05T23:55:52Z"
@@ -25693,6 +25756,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:02:06Z"
+  },
+  {
+    "id": "awb_f46ebc4ee42bdc4f6075",
+    "name": "Radio Social Music",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "it"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "80's",
+      "80s",
+      "90s"
+    ],
+    "homepage": "https://radiosocialmusic.online/",
+    "favicon": "https://hq3.yesstreaming.net/media/radiosm/station_21/logos/logo_1794226123810.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T12:09:46Z"
   },
   {
     "id": "awb_b288837efe3e54f0fee2",
@@ -27570,7 +27656,7 @@
       "rock"
     ],
     "homepage": "https://rock.scot/",
-    "favicon": "https://rf.broadcast.radio/api/image/a47741f3-6103-40c4-9e21-0453a30fc67e.png?g=center&w=600&h=600&f=png",
+    "favicon": "https://rock.scot/assets/images/logo.webp",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-30T21:53:05Z"
@@ -27863,22 +27949,8 @@
     "updatedAt": "2026-01-15T07:48:15Z"
   },
   {
-    "id": "awb_4d900e46928ed7781c23",
-    "name": "Rokit Radio 1940s Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www2.rokitradio.com/",
-    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_f76b3b62acdafadb1e33",
-    "name": "ROKit Radio Science Fiction",
+    "name": "ROKiT Radio : Science Fiction",
     "country": "GB",
     "subdivision": "London, England",
     "languages": [
@@ -27895,10 +27967,24 @@
       "scifi"
     ],
     "homepage": "https://rokitradio.com/",
-    "favicon": "https://rokitradio.com/images/channels/scifi.jpg",
+    "favicon": "https://rokitradio.com/images/rokit-radio-mic.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:11:46Z"
+  },
+  {
+    "id": "awb_4d900e46928ed7781c23",
+    "name": "Rokit Radio 1940s Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www2.rokitradio.com/",
+    "favicon": "https://www2.rokitradio.com/_next/image?url=%2Fimages%2Fchannels%2F1940s.jpg&w=128&q=75",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_4f80b87c36c6127a0778",
@@ -31750,6 +31836,20 @@
     "updatedAt": "2026-11-01T23:02:52Z"
   },
   {
+    "id": "awb_8065feb94abceec67176",
+    "name": "Times Radio 127kbps",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.thetimes.co.uk/radio",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmcsFprqkbGA0cVQaLMAmuvIwoa3qtMDesD-M0mhqt-Q&s",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T17:13:14Z"
+  },
+  {
     "id": "awb_b5a3a4ea7c4d8f05a738",
     "name": "TK Radio",
     "country": "GB",
@@ -34073,7 +34173,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

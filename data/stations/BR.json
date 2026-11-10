@@ -2066,6 +2066,20 @@
     "updatedAt": "2026-11-07T22:15:28Z"
   },
   {
+    "id": "awb_99c25e862ac7fd61bb70",
+    "name": "BSD Radio",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://bsdradio.com.br/",
+    "favicon": "https://bsdradio.com.br/wp-content/uploads/2025/04/Copia-de-Sem-nome-768x1365.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T12:16:00Z"
+  },
+  {
     "id": "awb_79029b640ded04e98ee1",
     "name": "Cacais FM",
     "country": "BR",
@@ -4898,23 +4912,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_3577f70efcba9f874fdd",
-    "name": "Harmonia Geral",
-    "country": "BR",
-    "subdivision": "Rio Grande do Sul",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "carnaval",
-      "samba"
-    ],
-    "homepage": "https://harmoniageral.com.br/site/aradio",
-    "favicon": "https://harmoniageral.com.br/site/arquivos/imagens/harmonia-geral-favicon-[13-12-24][11-01-31].png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-14T21:26:04Z"
   },
   {
     "id": "awb_180b9c8a58ebeee95ca2",
@@ -9829,14 +9826,20 @@
     "name": "Radio 1 Classe",
     "country": "BR",
     "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiopc.com.br/#0",
-    "favicon": "https://www.radiopc.com.br/assets/imgs/nocover.png",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "classicos hits"
+    ],
+    "homepage": "https://www.radiopc.com.br/",
+    "favicon": "https://cp-1.owh.radio.br/static/uploads/owh_s35320/album_art.1794231272.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-04T13:26:43Z"
+    "updatedAt": "2026-11-09T17:05:31Z"
   },
   {
     "id": "awb_8e23ee24b7cb7fe87615",
@@ -10454,6 +10457,20 @@
     "updatedAt": "2026-06-25T17:04:00Z"
   },
   {
+    "id": "awb_4d3ab1946499a45773d8",
+    "name": "RÁDIO ÁGUAS DE CONTENDAS NO ESTADO DE MINAS GERAIS",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://cp-1.owh.radio.br:8430/radio-mp3",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T11:59:19Z"
+  },
+  {
     "id": "awb_eba60d377384702bf92a",
     "name": "Rádio Águia FM",
     "country": "BR",
@@ -10706,7 +10723,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC",
+    "name": "Rádio AMC+",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -10721,7 +10738,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amclogo.png",
+    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -16005,6 +16022,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_c816d7a37b016a575fd9",
+    "name": "Rádio JC Guassussê",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiojcg.org/",
+    "favicon": "https://blogger.googleusercontent.com/img/a/AVvXsEiBUZgNDUkgfXwpuq-qqA1ebDM7RLFY58Xk7-qMJY2LDNXqu0ELzVpgyCz3wMExby1N3ee4WTizM-mMYL_hzwH8gqyBWpD8QVKBb2z6sqfNrfLwAv4TlHOdbBc72Xi8GRkYXXecjin5TI4MkT446MrAUY-C7fDpN_aj_65Ta6_v74EACCv07amjUbofvwbL=s150",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T12:25:01Z"
+  },
+  {
     "id": "awb_0b67b6c1ec9fd8989991",
     "name": "Rádio Joinville Cultural FM",
     "country": "BR",
@@ -16744,6 +16775,20 @@
     "updatedAt": "2026-01-15T06:54:30Z"
   },
   {
+    "id": "awb_32b62cf65885d03d4d81",
+    "name": "Radio Mandu Ladino",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://cp-1.owh.radio.br/listen/owh_s35296/radio-mp3",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T12:07:05Z"
+  },
+  {
     "id": "awb_d3d1ce6c433f1b2fdbb5",
     "name": "Rádio Mania FM",
     "country": "BR",
@@ -17381,6 +17426,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_7e6644c2897f8612c17a",
+    "name": "Rádio Mirai",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://portalmirai.com/radiomirai/",
+    "favicon": "https://img.radios.com.br/radio/lg/radio190637_1741332317.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T12:20:00Z"
   },
   {
     "id": "awb_1814275994c5f57df8fb",
@@ -21561,13 +21620,13 @@
   },
   {
     "id": "awb_13526dba636939f0e478",
-    "name": "Rádio Videira FM 102.9",
+    "name": "Rádio Videira - FM 102.9",
     "country": "BR",
     "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.radiov102.com.br/",
+    "homepage": "https://www.radiov102.com.br/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -21816,6 +21875,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_396a3826bfd17efacac7",
+    "name": "Rádio Web Meio dia com Cristo",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.meiodiacomcristo.com.br/webradio",
+    "favicon": "https://www.meiodiacomcristo.com.br/wp-content/uploads/2025/08/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T12:10:20Z"
   },
   {
     "id": "awb_3c3b577fb9851502a393",
@@ -24794,6 +24867,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_418ac7959994d9be03a1",
+    "name": "WebRádio Onda Jovem",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://webradiondajovem.com.br/",
+    "favicon": "https://webradiondajovem.com.br/home/assets/capa.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T12:18:09Z"
   },
   {
     "id": "awb_58a0e856bf8ec7d64545",

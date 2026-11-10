@@ -17639,16 +17639,19 @@
       "de"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
+      "70's",
+      "hits 70's",
       "oldies"
     ],
     "homepage": "https://antenne.nrw/",
-    "favicon": "https://wikimedia.org/",
+    "favicon": "https://www.radio.de/100/antennenrw70erhits.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-07T18:25:24Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-09T10:51:45Z"
   },
   {
     "id": "awb_6bdb35e1e62a2bd1910e",
@@ -20381,6 +20384,22 @@
     "updatedAt": "2026-01-15T04:06:37Z"
   },
   {
+    "id": "awb_c0b320bd9655bec2fb70",
+    "name": "Berliner Rundfunk - Rick De Lisle",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://berliner-rundfunk.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T21:39:28Z"
+  },
+  {
     "id": "awb_482f6415701d429979c8",
     "name": "Berliner Rundfunk - Simone Panteleit Radio",
     "country": "DE",
@@ -21160,7 +21179,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z"
@@ -22683,7 +22702,7 @@
   },
   {
     "id": "awb_8190c9ddc390bf0a7507",
-    "name": "Blues Club - Laut.FM",
+    "name": "Blues Club - Laut.fm",
     "country": "DE",
     "subdivision": null,
     "languages": [
@@ -22828,7 +22847,7 @@
     "id": "awb_57a7c6623f3b848ad6d8",
     "name": "BN-Radio",
     "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
+    "subdivision": "Sachsen",
     "languages": [
       "de"
     ],
@@ -22839,7 +22858,7 @@
       "electronic"
     ],
     "homepage": "http://www.bn-radio.de/",
-    "favicon": "https://stream.bn-radio.de/images/Logo-BN_Radio.png",
+    "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-11-06T14:46:27Z"
@@ -27636,10 +27655,10 @@
     "categories": [],
     "tags": [],
     "homepage": "https://laut.fm/depeche-mode-universe",
-    "favicon": null,
+    "favicon": "https://cdn-profiles.tunein.com/s318005/images/logod.png?t=639227700990000000",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-09T15:04:57Z"
   },
   {
     "id": "awb_6406988e0fa29ba68def",
@@ -35707,6 +35726,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_8c1bd98a366d0d2aaeec",
+    "name": "Feebels World Radio",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "cologne",
+      "electro",
+      "hiphop",
+      "radio play",
+      "rap",
+      "rapmetal"
+    ],
+    "homepage": "https://feebels-world-radio.feebelsworld.workers.dev/",
+    "favicon": "https://feebels-world-radio.feebelsworld.workers.dev/assets/img/station-logo-300.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T07:34:43Z"
   },
   {
     "id": "awb_21f980eaf095c91fbd0f",
@@ -46674,20 +46719,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_616ed3903ac8c03719ff",
-    "name": "Jazzradio",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://jazzradio.net/#",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-09T09:43:56Z"
-  },
-  {
     "id": "awb_f7f0f286984e863951f5",
     "name": "JazzRadio 106.8 Berlin",
     "country": "DE",
@@ -55026,7 +55057,7 @@
   },
   {
     "id": "awb_deb33c8f9e0dc702a70e",
-    "name": "mdr kultur",
+    "name": "MDR KULTUR",
     "country": "DE",
     "subdivision": "Saxony-Anhalt",
     "languages": [
@@ -55050,7 +55081,7 @@
       "mitteldeutscher rundfunk",
       "popkultur"
     ],
-    "homepage": "https://www.mdr.de/",
+    "homepage": "https://www.mdr.de/kultur/radio/index.html",
     "favicon": "https://www.mdr.de/kultur/logo-118-resimage_v-variantSmall1x1_w-512.png",
     "type": null,
     "sourceCount": 2,
@@ -71167,6 +71198,22 @@
     "updatedAt": "2026-03-16T16:11:38Z"
   },
   {
+    "id": "awb_09d1700e066a32398c63",
+    "name": "Radio Essen",
+    "country": "DE",
+    "subdivision": "NRW",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radioessen.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-09T12:58:17Z"
+  },
+  {
     "id": "awb_06dd15339f32ef3abd8f",
     "name": "Radio Euroherz",
     "country": "DE",
@@ -74777,7 +74824,7 @@
       "nordrhein-westfalen"
     ],
     "homepage": "https://www.radiomk.de/",
-    "favicon": "https://www.radiomk.de/assets/images/senderlogos/radio_mk.png",
+    "favicon": "https://logos-der-nrwlokalradios.s3.eu-central-1.amazonaws.com/0192-35-39.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-04T14:26:02Z"
@@ -80950,7 +80997,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
+    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"

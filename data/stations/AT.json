@@ -4865,20 +4865,31 @@
     "updatedAt": "2026-01-15T01:28:23Z"
   },
   {
-    "id": "awb_7d124778d68d35649fc4",
-    "name": "Servus Radio",
+    "id": "awb_d99f2983600c657aae33",
+    "name": "Sinfonia Radio - Sinfonia Technica",
     "country": "AT",
-    "subdivision": "Salzburg",
+    "subdivision": null,
     "languages": [
-      "de"
+      "de",
+      "en"
     ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://servusradio.at/",
-    "favicon": "https://servusradio.at/wp-content/uploads/2024/01/cropped-Servus_Radio_Logo_APP-32x32.png",
+    "categories": [
+      "classical",
+      "electronic"
+    ],
+    "tags": [
+      "classical",
+      "classical techno",
+      "creative commons",
+      "electronic",
+      "orchestral",
+      "techno"
+    ],
+    "homepage": "https://sinfonia.ruthner.at/",
+    "favicon": "https://sinfonia.ruthner.at/sinfonia-technica/cover.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-09T09:45:12Z"
+    "updatedAt": "2026-11-09T22:42:44Z"
   },
   {
     "id": "awb_2cdb0d25c155acba0606",
