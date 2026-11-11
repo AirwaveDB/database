@@ -1084,7 +1084,7 @@
     "id": "awb_5989de5122b255078072",
     "name": "99.5 DZYW koolFM",
     "country": "PH",
-    "subdivision": null,
+    "subdivision": "Quezon City",
     "languages": [
       "en",
       "tl"
@@ -1105,7 +1105,7 @@
     "favicon": "https://listen.smilemediaph.com/static/uploads/koolfm/album_art.1789441746.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-08T16:14:19Z"
+    "updatedAt": "2026-11-10T10:28:52Z"
   },
   {
     "id": "awb_61f4abfb9c90aa824b0a",
@@ -8547,6 +8547,31 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_0d08e38aa287f9870dc3",
+    "name": "RGMA Asian Pop 101.9 - DWAP",
+    "country": "PH",
+    "subdivision": "Quezon City",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "anime"
+    ],
+    "tags": [
+      "anime music",
+      "asian music",
+      "kpop",
+      "mandopop",
+      "opm",
+      "ppop"
+    ],
+    "homepage": "https://www.gmanetwork.com/radio/",
+    "favicon": "https://scontent.fcrk2-4.fna.fbcdn.net/v/t39.30808-6/846449283_1123448637286023_2208989944225320468_n.jpg?stp=dst-webp_p261x260_q70&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6db65e&_nc_ohc=oIIPbt6-FigQ7kNvwHgTDwg&_nc_oc=Adr0xNWEnFAQxDfK_39VMQlgL-DoBO7jaZ6esVzA8P7mdffoy8GcOHv6Jf7fCbWD0Kc&_nc_zt=23&_nc_ht=scontent.fcrk2-4.fna&_nc_gid=TEe0HV9f810ePC1ernJdRQ&_nc_ss=7b289&oh=00_AQSBV2G6KigZpbIzXltx2ND_olNwM1g93QzGL5W9kqyVuw&oe=6AF8D873",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T15:08:39Z"
+  },
+  {
     "id": "awb_b7882528807adbb5e028",
     "name": "RJ FM 100.3",
     "country": "PH",
@@ -8679,20 +8704,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_7c2261c7367901a80845",
-    "name": "RMN DYVR 657 Roxas",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rmn.ph/dyvr657roxas/",
-    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/roxas.png?w=400&ssl=1",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-26T13:27:03Z"
   },
   {
     "id": "awb_a8130f6bb62fb0d4b9f2",

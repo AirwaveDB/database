@@ -182,6 +182,34 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_23f3105fa3e8c96b0a47",
+    "name": "70 80",
+    "country": "IT",
+    "subdivision": "Lombardy",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "70 80 hits",
+      "70s",
+      "80s",
+      "classic hits",
+      "discomusic 70",
+      "discomusic 80",
+      "greatest hits",
+      "oldies"
+    ],
+    "homepage": "https://www.70-80.it/",
+    "favicon": "https://www.70-80.it/wp-content/uploads/2026/11/70-80-logo-2023-bianco-145x145px.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T15:27:19Z"
+  },
+  {
     "id": "awb_e6075ffa22097961252a",
     "name": "70 80 90",
     "country": "IT",
@@ -265,20 +293,16 @@
       "it"
     ],
     "categories": [
-      "oldies",
-      "pop"
+      "oldies"
     ],
     "tags": [
-      "1970s",
-      "1980s",
-      "70 80 hits",
       "70s",
       "80s"
     ],
     "homepage": "https://www.70-80.it/",
-    "favicon": "https://www.70-80.it/wp-content/uploads/2020/03/logo-7080-new.webp",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -1277,29 +1301,6 @@
     "updatedAt": "2026-01-14T23:56:58Z"
   },
   {
-    "id": "awb_a91af7e1fa28eb59cb4d",
-    "name": "Chill Out Zone",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "ambient",
-      "chillout",
-      "downtempo",
-      "psychill"
-    ],
-    "homepage": "https://chilloutzoneitaly.weebly.com/",
-    "favicon": "https://www.google.com/search?sca_esv=2c719d755bc25006&rlz=1C1FHFK_itIT1098IT1098&sxsrf=APpeQnvci-brFeHmzOz1zzfrmz8a_Sq2vg:1785411008431&udm=2&fbs=ABfTbFWgwlc2MNw7uknLQP9cFo05YtUSpNgn2klEDQSYENClc9rC8PvVvFW40kjRYlUQHR37384hyYA0WqP36o5C6UG5e7u0MFn5nI6jP7g9cX32Yf2dZNj42X5O_8nkT3W-I4SlelDgfTcOPG2WFR6jRXDJuqHb_SoY88M-JD0-XWKtqpQhoDqs23gLZfXNa586dnkYpwWZy4UPiUV0lRY1eAhGDWK7XQ&q=chillout+zone+radio&sa=X&ved=2ahUKEwicy72npvqVAxWYh_0HHYFuL14QtKgLegQIFxAB",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-30T11:32:07Z"
-  },
-  {
     "id": "awb_191eea5cbe3fdd92379a",
     "name": "chilloutzone",
     "country": "IT",
@@ -2129,24 +2130,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:53:54Z"
-  },
-  {
-    "id": "awb_2b50d42e9e0cfb50108f",
-    "name": "DJ Osso Radio",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [],
-    "tags": [
-      "happy music"
-    ],
-    "homepage": "https://www.djossoradio.it/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-22T13:51:07Z"
   },
   {
     "id": "awb_1d7fee9ffb9c4e5970d5",
@@ -16873,7 +16856,7 @@
     "id": "awb_2ec5014d6733135a428b",
     "name": "Radio Meano",
     "country": "IT",
-    "subdivision": "Veneto",
+    "subdivision": "Belluno",
     "languages": [
       "it"
     ],
@@ -24906,6 +24889,26 @@
     "updatedAt": "2026-02-22T14:32:49Z"
   },
   {
+    "id": "awb_c85ac57af8039d71ca6d",
+    "name": "RDS",
+    "country": "IT",
+    "subdivision": "italia",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz"
+    ],
+    "homepage": "https://stream.rcs.revma.com/x3ab37sgn7uvv",
+    "favicon": "https://stream.rcs.revma.com/x3ab37sgn7uvv",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T18:04:57Z"
+  },
+  {
     "id": "awb_0dea551db9772f2ae6f5",
     "name": "RDS - Radio Dimensione Suono",
     "country": "IT",
@@ -29479,6 +29482,86 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-02T16:08:51Z"
+  },
+  {
+    "id": "awb_b457512efb1c7e8d0d28",
+    "name": "VOX-ARIA",
+    "country": "IT",
+    "subdivision": "Emilia-Romagna",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "ambient",
+      "talk"
+    ],
+    "tags": [
+      "ai",
+      "ambient",
+      "audiobooks",
+      "chillout",
+      "radio drama",
+      "spoken word",
+      "storytelling"
+    ],
+    "homepage": "https://voxaria.live/it",
+    "favicon": "https://voxaria.live/images/directory/voxaria-logo-600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T17:37:57Z"
+  },
+  {
+    "id": "awb_572a394393070fb8c26d",
+    "name": "VOX-ARIA English",
+    "country": "IT",
+    "subdivision": "Emilia-Romagna",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "talk"
+    ],
+    "tags": [
+      "ai",
+      "ambient",
+      "audiobooks",
+      "chillout",
+      "radio drama",
+      "spoken word",
+      "storytelling"
+    ],
+    "homepage": "https://voxaria.live/en",
+    "favicon": "https://voxaria.live/images/directory/voxaria-logo-600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T17:36:02Z"
+  },
+  {
+    "id": "awb_6680ea0923b010a8fee4",
+    "name": "VOX-ARIA Francais",
+    "country": "IT",
+    "subdivision": "Emilia-Romagna",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ai",
+      "ambient",
+      "audiobooks",
+      "chillout",
+      "fiction radiophonique",
+      "livres audio",
+      "radio drama"
+    ],
+    "homepage": "https://voxaria.live/fr",
+    "favicon": "https://voxaria.live/images/directory/voxaria-logo-600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T17:35:38Z"
   },
   {
     "id": "awb_982b42b67a1e1843becb",

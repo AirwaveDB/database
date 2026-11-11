@@ -3452,7 +3452,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://cadenaser.com/radio-san-sebastian/",
-    "favicon": "https://listaradio.com/storage/radios/17744/37779/conversions/mNYLhS77V1B5YyOMtoIV0T2cHSfukH-metaUmFkaW9TYW5TZWJhc3RpYW5DYWRlbmFTRVIucG5n--lg.webp",
+    "favicon": "http://cadenaser00.epimg.net/iconos/v1.x/v1.0/redes/imagenes_og/emisoras_v2/1200x630_imagen_control_radio_san_sebastian.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:22:40Z"
@@ -5396,11 +5396,33 @@
       "hardstyle",
       "music"
     ],
-    "homepage": "https://decibeliafm.es/",
+    "homepage": "https://decibeliafm.es/web/",
     "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:35:43Z"
+  },
+  {
+    "id": "awb_aba7c642dcb60c2701dc",
+    "name": "Deckchair FM",
+    "country": "ES",
+    "subdivision": "Canary Islands",
+    "languages": [],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "easy listening",
+      "oldies",
+      "tenerife"
+    ],
+    "homepage": "https://deckchairfm.com/",
+    "favicon": "https://deckchairfm.com/brand/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T23:32:31Z"
   },
   {
     "id": "awb_2a7c62b341bd3236a6b8",
@@ -15422,6 +15444,22 @@
     "updatedAt": "2026-09-30T22:24:51Z"
   },
   {
+    "id": "awb_56f444575bbfb9a12fa1",
+    "name": "radio Control P",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "entretenimiento"
+    ],
+    "homepage": "https://gomsen.com/es/stream/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T01:09:00Z"
+  },
+  {
     "id": "awb_2f6abc425326096d38e2",
     "name": "Ràdio Cornellà",
     "country": "ES",
@@ -19166,6 +19204,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:22:03Z"
+  },
+  {
+    "id": "awb_9fda0374de161cfb48a2",
+    "name": "Radio Tony Zayas",
+    "country": "ES",
+    "subdivision": "Valencia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiotonyzayas.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T11:39:49Z"
   },
   {
     "id": "awb_29498077e44fafe1adce",

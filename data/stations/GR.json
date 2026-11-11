@@ -456,7 +456,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Kozani",
+    "subdivision": "Attica, Athens",
     "languages": [
       "el",
       "en"
@@ -19618,24 +19618,6 @@
     "updatedAt": "2026-01-15T07:04:47Z"
   },
   {
-    "id": "awb_3ed4843bf6ff77af7a01",
-    "name": "Radio Art - Rebetika",
-    "country": "GR",
-    "subdivision": "Athens",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "ρεμπέτικα"
-    ],
-    "homepage": "https://www.radioart.com/",
-    "favicon": "https://distomo.espivblogs.net/files/2017/05/18449592_1682196368753064_4196091443884444977_o.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-05T06:48:59Z"
-  },
-  {
     "id": "awb_f2bed7a3ee9f0d84f646",
     "name": "Radio Art - Reflexology",
     "country": "GR",
@@ -21798,6 +21780,22 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_b8b789dd2a1bb1ebbd7d",
+    "name": "Radio-Art Ρεμπέτικα",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.artradio.club/player-radio/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jgZjpcXgN3zAQQ9molHZZHUB3Tz7WeX7EodiEWyn2w&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T18:39:58Z"
+  },
+  {
     "id": "awb_1597eae63a16f83e519f",
     "name": "radio-rizitis",
     "country": "GR",
@@ -22220,6 +22218,44 @@
     "updatedAt": "2026-01-14T23:54:34Z"
   },
   {
+    "id": "awb_a4b0c8e766b070edad16",
+    "name": "Rare Net Radio",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "90s",
+      "adult pop"
+    ],
+    "homepage": "https://rareradio.gr/",
+    "favicon": "https://rareradio.gr/55f7cc69-567d-4adb-be45-0f2a1f2e4d84.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T19:50:15Z"
+  },
+  {
+    "id": "awb_2f4c2421a09f2d73c9f7",
+    "name": "Rat FM",
+    "country": "GR",
+    "subdivision": "Chania",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "student radio"
+    ],
+    "homepage": "https://ratfm.hmu.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/bc34dc58-f4ac-4966-b0b6-60246f4a96da.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T20:32:44Z"
+  },
+  {
     "id": "awb_c9eeb52afbb143527163",
     "name": "Razordino Radio",
     "country": "GR",
@@ -22375,6 +22411,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-06T14:45:46Z"
+  },
+  {
+    "id": "awb_28fced6b0c33a8e8ae8a",
+    "name": "Reboot GR",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radioreboot.gr/",
+    "favicon": "https://radioreboot.gr/images/rrlogo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T20:02:32Z"
   },
   {
     "id": "awb_b8cb25a9439792307e44",

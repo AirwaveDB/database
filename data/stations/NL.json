@@ -7390,7 +7390,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://kink.nl/",
-    "favicon": "https://kink.nl/static/kink_x2.gif",
+    "favicon": "https://kink.nl/static/apple-touch-icon.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -7865,8 +7865,8 @@
       "pop",
       "top 40"
     ],
-    "homepage": "https://www.langstraatmedia.nl/",
-    "favicon": "https://www.langstraatmedia.nl/favicon.ico",
+    "homepage": "https://www.langstraatmedia.nl/langstraat-fm/",
+    "favicon": "https://www.langstraatmedia.nl/logos/LangstraatFM.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-18T15:42:14Z"
@@ -11855,6 +11855,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-11T09:30:49Z"
+  },
+  {
+    "id": "awb_6ffbb31084c30295859c",
+    "name": "Power Radio",
+    "country": "NL",
+    "subdivision": "Gelderland, Nijmegen",
+    "languages": [
+      "en",
+      "nl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "eurodance",
+      "pop music",
+      "synthpop"
+    ],
+    "homepage": "https://www.powerradio.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T16:56:14Z"
   },
   {
     "id": "awb_9dfab1f949e8c0397d80",
@@ -16991,6 +17015,20 @@
     "updatedAt": "2026-03-27T16:18:59Z"
   },
   {
+    "id": "awb_e9fd3e012c12bf95930d",
+    "name": "RTV4",
+    "country": "NL",
+    "subdivision": "Dalfsen",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.rtv4.nl/",
+    "favicon": "https://www.rtv4.nl/wp-content/uploads/2026/10/fac-rtv4.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T07:51:48Z"
+  },
+  {
     "id": "awb_344f543ed5bb6dabd003",
     "name": "RTV794",
     "country": "NL",
@@ -18613,6 +18651,29 @@
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-11-02T06:52:41Z"
+  },
+  {
+    "id": "awb_6361454ccdb30a320ffe",
+    "name": "The Finest Beat Street",
+    "country": "NL",
+    "subdivision": "Noord holland Amsterdam",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "breakdance",
+      "electric boogie",
+      "electro",
+      "rap"
+    ],
+    "homepage": "https://beatstreet.thefinest.amsterdam/",
+    "favicon": "https://thefinest.amsterdam/wp-content/uploads/2026/11/jpeg.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T10:59:32Z"
   },
   {
     "id": "awb_b6fab58149b97ed90b1f",

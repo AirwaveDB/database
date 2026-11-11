@@ -10924,7 +10924,7 @@
   },
   {
     "id": "awb_31f6b9c5492374858e6a",
-    "name": "FIP",
+    "name": "Fip",
     "country": "FR",
     "subdivision": null,
     "languages": [],
@@ -38726,6 +38726,23 @@
     "updatedAt": "2026-10-26T09:32:10Z"
   },
   {
+    "id": "awb_3e0dfd2cddb93c4142c2",
+    "name": "Radio Montmartre",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "french",
+      "old time radio"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T16:31:16Z"
+  },
+  {
     "id": "awb_46c01b2fd1baac7c06fe",
     "name": "Radio Montmartre",
     "country": "FR",
@@ -39869,6 +39886,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_6d4468dc05ac75b1e451",
+    "name": "RADIO RCU",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "musica"
+    ],
+    "homepage": "https://radiorcu.fr/",
+    "favicon": "https://radiorcu.fr/img/logo/transparent-small.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T13:57:17Z"
+  },
+  {
     "id": "awb_1b8005206fcd58d1dec4",
     "name": "Radio Rempart",
     "country": "FR",
@@ -41005,6 +41040,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_dea38b500376789463ec",
+    "name": "Radio vénèr",
+    "country": "FR",
+    "subdivision": "Strasbourg",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://plaquetournante.micro-ondes.org/@radiovnr",
+    "favicon": "https://plaquetournante.micro-ondes.org/assets/img/442782_1791242434.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T12:18:34Z"
   },
   {
     "id": "awb_7fcc36d07a5f065eef42",

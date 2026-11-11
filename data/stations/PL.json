@@ -107,6 +107,34 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_e48a669b171183147d5d",
+    "name": "4YOU.fm",
+    "country": "PL",
+    "subdivision": "mazowieckie",
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
+    "tags": [
+      "chillout",
+      "dance",
+      "edm",
+      "electronic",
+      "house",
+      "lofi",
+      "melodic techno"
+    ],
+    "homepage": "https://4you.fm/",
+    "favicon": "https://4you.fm/logo-4you.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T14:29:26Z"
+  },
+  {
     "id": "awb_fa1fe433d725f8111e84",
     "name": "Affi Radio",
     "country": "PL",
@@ -6086,26 +6114,18 @@
     "id": "awb_ea9d2add9a4ea4c0b49c",
     "name": "Radio Freee 89.9",
     "country": "PL",
-    "subdivision": "lubelskie",
+    "subdivision": null,
     "languages": [
       "pl"
     ],
-    "categories": [
-      "news",
-      "public"
-    ],
+    "categories": [],
     "tags": [
-      "adult contemporary",
-      "adult-contemporary",
-      "cultural news",
-      "popular culture",
-      "public radio",
-      "regional radio"
+      "adult-contemporary"
     ],
     "homepage": "https://radiofreee.pl/",
-    "favicon": "https://radiofreee.pl/wp-content/uploads/2023/10/cropped-logo-freee-ico-180x180.png",
-    "type": "public",
-    "sourceCount": 2,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7746,6 +7766,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:22:41Z"
+  },
+  {
+    "id": "awb_026207854a4741ee90ee",
+    "name": "Radio nakło",
+    "country": "PL",
+    "subdivision": "Kujawsko-pomorskie",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://107i5.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-10T21:34:44Z"
   },
   {
     "id": "awb_016b35c3ff183bc75af9",
