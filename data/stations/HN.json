@@ -334,29 +334,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_52c619789356522b8534",
-    "name": "FM FAMA 97.7",
-    "country": "HN",
-    "subdivision": "Cortés",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "97.7 fm",
-      "fm fama",
-      "joyas musicales",
-      "oldies"
-    ],
-    "homepage": "https://www.facebook.com/fama977/",
-    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/jhwUyNznv3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-16T19:25:28Z"
-  },
-  {
     "id": "awb_935ca2fdfbbe412d3690",
     "name": "GD Dubai",
     "country": "HN",
@@ -507,7 +484,9 @@
     "name": "LHT FM 104.1",
     "country": "HN",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [
       "la hora del te",
@@ -519,7 +498,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-23"
+    "updatedAt": "2026-11-12T05:18:07Z"
   },
   {
     "id": "awb_d985bec21964dc2790c9",

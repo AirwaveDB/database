@@ -578,9 +578,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://candie.eu/",
-    "favicon": "https://candie.eu/wp-content/uploads/2023/07/candie_logo_trans@4x-768x333.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -967,7 +967,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T09:53:29Z"
+    "updatedAt": "2026-11-12T07:38:10Z"
   },
   {
     "id": "awb_de2b368b2358d1635b4c",
@@ -1640,20 +1640,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_d72f0a756f0d539ddaa7",
-    "name": "Jamendo Lounge",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.jamendo.com/radios/Lounge",
-    "favicon": "https://www.jamendo.com/Client/assets/toolkit/images/icon/apple-touch-icon-180x180.780963008.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_92780275780c63085e2a",
     "name": "Jess FM - Menen, Be",
     "country": "BE",
@@ -1990,7 +1976,7 @@
     "favicon": "https://kioskradio.com/favicon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T21:49:25Z"
+    "updatedAt": "2026-11-12T03:04:59Z"
   },
   {
     "id": "awb_947922d6b726b9bf5582",
@@ -2056,7 +2042,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T23:19:34Z"
+    "updatedAt": "2026-11-12T02:05:03Z"
   },
   {
     "id": "awb_e9b95c56fb49244683e6",
@@ -2077,7 +2063,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/klara-continuo/v2/color.svg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-07T01:40:50Z"
+    "updatedAt": "2026-11-12T05:39:39Z"
   },
   {
     "id": "awb_74c6297f95c86b70f72e",
@@ -2433,7 +2419,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/02/MNM_logo_2024.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T04:31:18Z"
+    "updatedAt": "2026-11-11T23:24:53Z"
   },
   {
     "id": "awb_657c71feaf037b46f2dd",
@@ -2454,7 +2440,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/mnm-hits/v3/color.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-05T23:23:40Z"
+    "updatedAt": "2026-11-12T04:31:20Z"
   },
   {
     "id": "awb_ff1b4a0ac4f9ea4bfa1c",
@@ -3111,18 +3097,12 @@
     "country": "BE",
     "subdivision": "West-Vlaanderen",
     "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "top 40",
-      "women"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "http://www.pinkradio.be/",
-    "favicon": "http://www.pinkradio.be/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3248,14 +3228,16 @@
     "name": "Q-Music",
     "country": "BE",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "nl"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://qmusic.be/",
     "favicon": "https://assets.radio.dpgmedia.net/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-10T20:17:40Z"
+    "updatedAt": "2026-11-11T22:55:52Z"
   },
   {
     "id": "awb_349285ac43c1a8d7111e",
@@ -3882,26 +3864,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_369bda6af3dd1800944a",
-    "name": "radio chrétienne francophone Belgique",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "catholic"
-    ],
-    "homepage": "https://rcf.be/",
-    "favicon": "https://rcf.be/wp-content/themes/neutro-rcf/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:03:48Z"
   },
   {
     "id": "awb_98408e0b3d0778e082d9",
@@ -4569,20 +4531,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_d79f4e744a4f3107bf26",
-    "name": "Radio Ninove Classic Hits",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radioninove.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-22T12:51:08Z"
-  },
-  {
     "id": "awb_617904d1850797fb11ed",
     "name": "Radio Ninove Non-Stop Hits",
     "country": "BE",
@@ -4732,26 +4680,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_2fcd71096b49856453db",
-    "name": "Radio Palermo - Essen, be",
-    "country": "BE",
-    "subdivision": "Antwerpen",
-    "languages": [
-      "nl"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "http://www.radio-palermo.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-21T22:56:03Z"
-  },
-  {
     "id": "awb_ddcb58c3477b30f2b3cc",
     "name": "Radio Pallieter",
     "country": "BE",
@@ -4797,7 +4725,7 @@
     "favicon": "https://www.radiopanik.org/static/img/logo-panik-500-invert.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T00:51:15Z"
+    "updatedAt": "2026-11-12T04:06:55Z"
   },
   {
     "id": "awb_ada972074e78a490a026",
@@ -6412,7 +6340,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-06T07:10:59Z"
+    "updatedAt": "2026-11-12T02:58:37Z"
   },
   {
     "id": "awb_6be14114cc53255c27e4",
@@ -6438,7 +6366,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T14:34:54Z"
+    "updatedAt": "2026-11-12T03:12:47Z"
   },
   {
     "id": "awb_666ca7fec1e291a157c0",
@@ -6498,7 +6426,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-untz/v3/color.svg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T06:21:15Z"
+    "updatedAt": "2026-11-12T07:53:30Z"
   },
   {
     "id": "awb_facd3eddacefa43cea53",
@@ -6521,7 +6449,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-bruut/v4/color.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T03:24:14Z"
+    "updatedAt": "2026-11-12T07:05:32Z"
   },
   {
     "id": "awb_5782dc0d90fe8db9dff0",
@@ -7242,8 +7170,8 @@
       "pop",
       "vrt"
     ],
-    "homepage": "https://radio2.be/",
-    "favicon": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+    "homepage": "http://www.radio2.be/",
+    "favicon": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-11T09:24:40Z"
@@ -7347,7 +7275,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-06T08:42:24Z"
+    "updatedAt": "2026-11-12T03:18:22Z"
   },
   {
     "id": "awb_e0970633f1547b11b81c",
@@ -7389,7 +7317,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio-1-classics/v1/color.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T10:50:10Z"
+    "updatedAt": "2026-11-12T05:25:39Z"
   },
   {
     "id": "awb_798bd5b5d51be0b21548",
@@ -7890,7 +7818,7 @@
     "favicon": "https://zoe.radio/zoeradio/images/logo-vierkant-512.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-06T13:42:26Z"
+    "updatedAt": "2026-11-12T04:37:06Z"
   },
   {
     "id": "awb_f3125b1ad09615ee5d45",

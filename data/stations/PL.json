@@ -149,20 +149,6 @@
     "updatedAt": "2026-09-25T12:36:13Z"
   },
   {
-    "id": "awb_3ac6f044e30890c3e239",
-    "name": "AH.FM: #1 for Electronic Dance Music",
-    "country": "PL",
-    "subdivision": "Warsaw",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://ah.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-29T06:17:26Z"
-  },
-  {
     "id": "awb_be72ac7d6d0f200f3814",
     "name": "Akademickie Radio LUZ",
     "country": "PL",
@@ -643,7 +629,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T04:28:33Z"
+    "updatedAt": "2026-11-12T05:51:08Z"
   },
   {
     "id": "awb_16a33c59720939783c39",
@@ -665,7 +651,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T13:38:38Z"
+    "updatedAt": "2026-11-12T06:35:40Z"
   },
   {
     "id": "awb_d013b3c05f20f2b85511",
@@ -687,7 +673,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-07T00:11:48Z"
+    "updatedAt": "2026-11-12T01:09:07Z"
   },
   {
     "id": "awb_fe441815feb3d96d49cf",
@@ -709,7 +695,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T09:06:26Z"
+    "updatedAt": "2026-11-12T03:37:11Z"
   },
   {
     "id": "awb_7461af3c7d18ae68c257",
@@ -2219,6 +2205,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_78bf9b40516ab184de0e",
+    "name": "Informatics Productions Radio",
+    "country": "PL",
+    "subdivision": "lubelskie",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://lttstore.pl/",
+    "favicon": "https://lttstore.pl/radioicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-02-15T21:12:43Z"
   },
   {
     "id": "awb_16b12f987753df67fd7a",
@@ -4515,20 +4515,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:27:20Z"
-  },
-  {
-    "id": "awb_22a6756742ab1051335d",
-    "name": "Radio Aktywne",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioaktywne.pl/",
-    "favicon": "https://radioaktywne.pl/static/images/ra_banner-b3198ed95c743c1739835454f4d52637.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_26d696688fbd22c1d394",
@@ -7926,38 +7912,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_a8e3d47d1135d08a32bd",
-    "name": "Radio OIOM",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "blues",
-      "electronic",
-      "jazz",
-      "metal",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "blues",
-      "dance",
-      "house",
-      "instrumental",
-      "jazz",
-      "metal",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://fotomagik.eu/oiom/",
-    "favicon": "https://i.imgur.com/K4RZ1At.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:55:29Z"
-  },
-  {
     "id": "awb_e80c1cc8afc5c2b2cc8d",
     "name": "Radio OIOM - radio przyjazne ludziom",
     "country": "PL",
@@ -9612,7 +9566,7 @@
     "favicon": "https://stream.radiosar.pl/logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-07T00:18:54Z"
+    "updatedAt": "2026-11-12T01:18:40Z"
   },
   {
     "id": "awb_8905c570441dc64baced",
@@ -10564,13 +10518,12 @@
       "folk"
     ],
     "tags": [
-      "disco polo",
       "folk"
     ],
     "homepage": "https://wiatraczek.panelradiowy.pl/radio",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -10901,6 +10854,25 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_5c747ac2f9b4c8313832",
+    "name": "Radio ZET na Święta",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "christmas"
+    ],
+    "tags": [
+      "christmas",
+      "polish"
+    ],
+    "homepage": "https://player.radiozet.pl/Kanaly-muzyczne/Radio-ZET-na-Swieta",
+    "favicon": "https://gfx-player.radiozet.pl/var/player/storage/images/player-radio-zet/kanaly-muzyczne/radio-zet-na-swieta2/684257-12-pol-PL/Radio-ZET-na-Swieta_size-228x228.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:56Z"
   },
   {
     "id": "awb_8f1d9f8c44af62bdd14a",
@@ -14149,20 +14121,6 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
-    "id": "awb_9edfe52d4c453fcc7cd7",
-    "name": "Rock Radio Klasyka Rocka",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rockradio.tuba.pl/RockRadio/0,0.html",
-    "favicon": "https://static.im-g.pl/im/7/24937/m24937627.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_b841ebd4cda783177dc1",
     "name": "RockSerwis",
     "country": "PL",
@@ -14282,7 +14240,7 @@
   },
   {
     "id": "awb_d14c10e45802e34a828a",
-    "name": "SmoothJazz.com.pl 192k aac+",
+    "name": "SmoothJazz.com.pl",
     "country": "PL",
     "subdivision": "Pomorskie",
     "languages": [
@@ -14296,10 +14254,10 @@
       "smooth-jazz"
     ],
     "homepage": "https://www.smoothjazz.com.pl/",
-    "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
+    "favicon": "http://bcast.vigormultimedia.com:7000/sj_logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T16:18:52Z"
+    "updatedAt": "2026-11-12T09:37:06Z"
   },
   {
     "id": "awb_6a8307b78259863d8db5",
@@ -14321,7 +14279,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T13:59:47Z"
+    "updatedAt": "2026-11-12T02:48:53Z"
   },
   {
     "id": "awb_a97c92681ac9281b8fbe",
@@ -14342,7 +14300,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T12:11:55Z"
+    "updatedAt": "2026-11-12T01:35:35Z"
   },
   {
     "id": "awb_d4e9b951cc81c034ecc8",

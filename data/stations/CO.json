@@ -408,6 +408,30 @@
     "updatedAt": "2026-03-03T20:35:51Z"
   },
   {
+    "id": "awb_134fff02d72886e49184",
+    "name": "alerta san gil 1220 am",
+    "country": "CO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "tags": [
+      "crossover",
+      "deportes",
+      "noticias",
+      "romántica",
+      "tropical",
+      "vallenato"
+    ],
+    "homepage": "https://www.alerta.com.co/alerta-bucaramanga",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:56:00Z"
+  },
+  {
     "id": "awb_9e6cb18859545ccd704c",
     "name": "Alfa Stereo 107.8 FM",
     "country": "CO",
@@ -3076,6 +3100,32 @@
     "updatedAt": "2026-01-15T05:56:44Z"
   },
   {
+    "id": "awb_fb1b5539f19f8ae15716",
+    "name": "cima stereo 105.6 usiacurí",
+    "country": "CO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "caribe",
+      "comunitaria",
+      "cristiana",
+      "crossover",
+      "latina",
+      "romántica",
+      "salsa",
+      "tropical",
+      "vallenato"
+    ],
+    "homepage": "https://zeno.fm/radio/cima-stereo/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:50Z"
+  },
+  {
     "id": "awb_dad2c23a5384a30d70df",
     "name": "Cisneros Stereo 105.4 FM",
     "country": "CO",
@@ -5304,6 +5354,31 @@
     "updatedAt": "2026-01-15T00:28:14Z"
   },
   {
+    "id": "awb_20b4c5a18e1c8c3fa8a8",
+    "name": "Hablando Vallenato - La Mafia Vallenata",
+    "country": "CO",
+    "subdivision": "Cesar",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "acordeon",
+      "colombia",
+      "latin",
+      "musica colombiana",
+      "tropical",
+      "vallenato"
+    ],
+    "homepage": "https://hablandovallenato.com/",
+    "favicon": "https://hablandovallenato.com/favicon.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:58Z"
+  },
+  {
     "id": "awb_efcd66d6e7379e166a37",
     "name": "Himnos Cristianos del ayer (Radio)",
     "country": "CO",
@@ -5977,6 +6052,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-15T17:51:29Z"
+  },
+  {
+    "id": "awb_385659dbe148a1759e84",
+    "name": "La Descarga Radio Online",
+    "country": "CO",
+    "subdivision": "QUINDÍO",
+    "languages": [],
+    "categories": [
+      "hip-hop",
+      "latin"
+    ],
+    "tags": [
+      "latin trap",
+      "rap",
+      "reggaeton",
+      "regue"
+    ],
+    "homepage": "https://ladescargaradionline.blogspot.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T01:00:58Z"
   },
   {
     "id": "awb_13078f249c5c5422844f",
@@ -6857,6 +6954,25 @@
     "updatedAt": "2026-04-17T20:21:12Z"
   },
   {
+    "id": "awb_80c3a82ac864d928066f",
+    "name": "la simiteña 100.0 fm",
+    "country": "CO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "comunitaria",
+      "crossover",
+      "tropical",
+      "vallenato"
+    ],
+    "homepage": "https://streaminghd.co/user/lasimitenastereo1000fm",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:49Z"
+  },
+  {
     "id": "awb_060adb0aed8d7dc7bc30",
     "name": "La Sonora 100.6 Samacá",
     "country": "CO",
@@ -6961,17 +7077,14 @@
       "latin"
     ],
     "tags": [
-      "crossover",
-      "entretenimiento",
       "popular",
       "reggaeton",
-      "salsa",
-      "vallenato"
+      "salsa"
     ],
     "homepage": "https://www.brsradio.co/",
-    "favicon": "https://www.brsradio.co/wp-content/uploads/2024/11/LA-SONORA-89.6-560x560.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8111,24 +8224,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_61e6f5dbd414ad9e1a3f",
-    "name": "Minuto de Dios FM (Bogotá)",
-    "country": "CO",
-    "subdivision": "Bogotá",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "cristianas"
-    ],
-    "homepage": "https://emisorascolombianas.online/minuto-bogota/",
-    "favicon": "https://emisorascolombianas.online/logos/minuto-bogota.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-19T21:34:21Z"
   },
   {
     "id": "awb_44878d508a2970beb73c",
@@ -9634,6 +9729,32 @@
     "updatedAt": "2026-08-19T21:36:14Z"
   },
   {
+    "id": "awb_82559525fa944270ac5e",
+    "name": "radio catatumbo 1150 am ocaña",
+    "country": "CO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "tags": [
+      "caracol radio",
+      "católica",
+      "crossover",
+      "deportes",
+      "noticias",
+      "romántica",
+      "tropical",
+      "vallenato"
+    ],
+    "homepage": "https://www.catatumboradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:57Z"
+  },
+  {
     "id": "awb_5c1228d3ed16a8decb46",
     "name": "Radio Chipazaque",
     "country": "CO",
@@ -10918,7 +11039,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-11T03:37:04Z"
+    "updatedAt": "2026-11-11T21:57:21Z"
   },
   {
     "id": "awb_efe86b9994155508d623",
@@ -11500,6 +11621,26 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-09-06T00:22:42Z"
+  },
+  {
+    "id": "awb_777cb390f21025adc835",
+    "name": "risaralda 100.2 tu radio",
+    "country": "CO",
+    "subdivision": "Pereira",
+    "languages": [],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "crossover",
+      "salsa",
+      "tropical"
+    ],
+    "homepage": "https://www.risaralda1002turadio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:54Z"
   },
   {
     "id": "awb_3329836901227fe8669c",

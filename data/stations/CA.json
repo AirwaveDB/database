@@ -1882,20 +1882,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_b37a82bb7b49c15539b7",
-    "name": "Alternative Rock Variety",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://player.live365.com/AlternativeRockVarietyMEGASHUFFLE",
-    "favicon": "https://media.live365.com/download/2483f575-609c-4901-962c-337022c03f09.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-18T17:33:38Z"
-  },
-  {
     "id": "awb_3a8a7e5ac3d89ab6071d",
     "name": "AM 1150 Talk Radio in Kelowna",
     "country": "CA",
@@ -3126,14 +3112,16 @@
     "name": "cbc Calgary",
     "country": "CA",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://27033.live.streamtheworld.com/CBR1FM_CBC.mp3",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
+    "updatedAt": "2026-11-12T06:53:52Z"
   },
   {
     "id": "awb_319bdd9ce7a7fb371433",
@@ -5794,7 +5782,7 @@
   },
   {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -5812,7 +5800,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://cfnj.net/",
+    "homepage": "http://www.cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -18348,7 +18336,7 @@
     "favicon": "https://i.postimg.cc/KvZZqvw9/classic-hits-online-yellow-on-black-600-x-600.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-06-11T13:46:27Z"
+    "updatedAt": "2026-11-12T08:45:54Z"
   },
   {
     "id": "awb_0fc074196d4a0885ef6c",
@@ -18890,6 +18878,31 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_f5e1015e6ad30c7768e6",
+    "name": "Estuary FM",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "talk"
+    ],
+    "tags": [
+      "ambient",
+      "experimental",
+      "field recordings",
+      "recorded programmes",
+      "spoken word"
+    ],
+    "homepage": "https://riveratdusk.neocities.org/estuary",
+    "favicon": "https://riveratdusk.neocities.org/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T02:59:24Z"
+  },
+  {
     "id": "awb_de2abeabc7ca31262faf",
     "name": "ETN.fm",
     "country": "CA",
@@ -18907,7 +18920,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:06:43Z"
+    "updatedAt": "2026-11-12T03:32:54Z"
   },
   {
     "id": "awb_cc437a30b42f4d537c45",
@@ -20464,6 +20477,30 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_c4bde83f5881f5f6d80e",
+    "name": "Jazz des IA",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "24/7",
+      "ai",
+      "artificial intelligence",
+      "jazz"
+    ],
+    "homepage": "https://radio.reorg.dev/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:57Z"
   },
   {
     "id": "awb_3f8fcb175c67bda5b524",
@@ -22224,6 +22261,29 @@
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
+    "id": "awb_f073f46714ccdf9e30e2",
+    "name": "Nouvelles des IA",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "actualites",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radio.reorg.dev/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T00:03:03Z"
+  },
+  {
     "id": "awb_cdc5f7dcc7c7b33fc90c",
     "name": "Nova",
     "country": "CA",
@@ -23561,20 +23621,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:44:42Z"
-  },
-  {
-    "id": "awb_a6b945463b1a718ea8e2",
-    "name": "Radio ChimpLab",
-    "country": "CA",
-    "subdivision": "Quebec",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://chimplabx.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-11T01:00:32Z"
   },
   {
     "id": "awb_774cd2d8ba20c1defc8c",
@@ -25558,7 +25604,9 @@
     "name": "Stingray Smoot Jazz",
     "country": "CA",
     "subdivision": "Toronto, ON",
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "jazz"
     ],
@@ -25569,7 +25617,7 @@
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-09-21T11:36:15Z"
+    "updatedAt": "2026-11-12T07:01:05Z"
   },
   {
     "id": "awb_6ef852d870db2d9449ff",
@@ -25910,20 +25958,6 @@
     "type": "community",
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_b545bdcfd8db08ceee62",
-    "name": "The EDM Megashuffle",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://player.live365.com/TheEDMMegashuffle",
-    "favicon": "https://media.live365.com/download/14190ee9-23b8-4946-9ef8-60208015df10.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-18T17:36:28Z"
   },
   {
     "id": "awb_7c19577188c420d30eac",

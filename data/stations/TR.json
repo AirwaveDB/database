@@ -547,36 +547,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_cfab7e8f09e4f86bf84f",
-    "name": "Ankara Üniversitesi Radyosu Radyo İlef",
-    "country": "TR",
-    "subdivision": "ANKARA",
-    "languages": [
-      "en",
-      "tr"
-    ],
-    "categories": [
-      "jazz",
-      "oldies",
-      "rock"
-    ],
-    "tags": [
-      "70's",
-      "80s",
-      "anatolian rock",
-      "jazz",
-      "rock",
-      "soul",
-      "turkish",
-      "world music"
-    ],
-    "homepage": "https://www.ilef.ankara.edu.tr/radyoilef/",
-    "favicon": "https://www.ilef.ankara.edu.tr/wp-content/uploads/sites/264/2020/10/loginlogo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-14T06:15:14Z"
-  },
-  {
     "id": "awb_4b81ca335aa731d125ea",
     "name": "ANTAKYA RENK FM HATAY",
     "country": "TR",
@@ -620,7 +590,7 @@
     "favicon": "https://www.apacikradyo.com.tr/themes/custom/acikradyo/assets/img/favicon.png",
     "type": "community",
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T06:32:40Z"
+    "updatedAt": "2026-11-11T21:36:34Z"
   },
   {
     "id": "awb_feb6ee5d99dca5587604",
@@ -1625,6 +1595,30 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_dcc11945f181df411db5",
+    "name": "DamlaChatFM - DamLaChat Radyo",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "chat",
+      "pop",
+      "sohbet",
+      "turkish",
+      "türkçe"
+    ],
+    "homepage": "https://www.damlachat.com/",
+    "favicon": "https://www.damlachat.com/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T08:53:40Z"
+  },
+  {
     "id": "awb_5590f5dc30aec2999e77",
     "name": "Danceland",
     "country": "TR",
@@ -1803,7 +1797,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T08:32:28Z"
+    "updatedAt": "2026-11-12T00:30:46Z"
   },
   {
     "id": "awb_8dc344dd987ed3d504a1",
@@ -1826,7 +1820,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T05:07:27Z"
+    "updatedAt": "2026-11-12T04:06:56Z"
   },
   {
     "id": "awb_1da58c9adefda6d59499",
@@ -1850,7 +1844,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T16:57:03Z"
+    "updatedAt": "2026-11-12T01:55:53Z"
   },
   {
     "id": "awb_b35105ad16c219d0740f",
@@ -1872,7 +1866,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T20:29:52Z"
+    "updatedAt": "2026-11-12T01:04:56Z"
   },
   {
     "id": "awb_18ef70fa187d5f788e31",
@@ -1901,7 +1895,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-legacy-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T12:50:46Z"
+    "updatedAt": "2026-11-12T09:40:29Z"
   },
   {
     "id": "awb_7edc0fde3b3291cc2ace",
@@ -1922,7 +1916,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-mmradyo-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-05T21:48:00Z"
+    "updatedAt": "2026-11-11T23:32:42Z"
   },
   {
     "id": "awb_ffeadaecbf30ca44c405",
@@ -1950,7 +1944,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T19:02:44Z"
+    "updatedAt": "2026-11-12T00:58:14Z"
   },
   {
     "id": "awb_0726c5d4e8aa71680e95",
@@ -2001,7 +1995,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-smog-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T09:49:49Z"
+    "updatedAt": "2026-11-12T07:08:48Z"
   },
   {
     "id": "awb_cc0a413a69dc071e0aed",
@@ -4318,20 +4312,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_5caea4c30a095513f5ff",
-    "name": "KLAS RADİO TURKEY",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://anadolu.liderhost.com.tr:10929/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_ba588235246724cf4481",
     "name": "KLASİK HOME",
     "country": "TR",
@@ -4661,7 +4641,7 @@
     "favicon": "https://i.postimg.cc/XYRRHwry/android-chrome-512x512.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T08:49:06Z"
   },
   {
     "id": "awb_d934cd3be70adc60123c",
@@ -4717,7 +4697,9 @@
     "name": "LP Arabesk Fm",
     "country": "TR",
     "subdivision": "manisa",
-    "languages": [],
+    "languages": [
+      "tr"
+    ],
     "categories": [],
     "tags": [
       "arabesk"
@@ -4726,7 +4708,7 @@
     "favicon": "https://images.zeno.fm/kYv17oRTpTiaLU9XEU6GlRjghJXGtVyJlk63noxalGM/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzAyZTA5ODMxLTc2MTQtNGQ1NS05OWRmLTNmYTdkZWMxNGNlNi9pbWFnZS8_dT0xNzk0MzY1NDA5NzE3.webp",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-11T02:55:57Z"
+    "updatedAt": "2026-11-11T22:55:51Z"
   },
   {
     "id": "awb_5c2f751d974ea1a583d4",
@@ -4890,7 +4872,7 @@
     "favicon": "https://i.postimg.cc/ZnsgHRtW/android-chrome-512x512.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T05:26:58Z"
   },
   {
     "id": "awb_ac4e093cc633c77de934",
@@ -6159,7 +6141,7 @@
     "favicon": "https://radioglamorize.com/wp-content/uploads/2020/05/cropped-sdiavatar2-180x180.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T08:38:00Z"
   },
   {
     "id": "awb_842a8a627ed7085f386a",
@@ -9578,20 +9560,6 @@
     "updatedAt": "2026-06-01T07:26:45Z"
   },
   {
-    "id": "awb_c07dd4e8da9c9d5f075d",
-    "name": "Semerkand Radyo",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://semerkandradyo.com.tr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-20T04:52:09Z"
-  },
-  {
     "id": "awb_a2066c14c5791275735e",
     "name": "Serhat FM",
     "country": "TR",
@@ -9604,20 +9572,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_575e9c193ee15cffe25c",
-    "name": "SES FM",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://yayin.sesfm.com.tr:8090/stream",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-25T07:16:43Z"
   },
   {
     "id": "awb_e373cd6d1f28d20af3d6",
@@ -9744,6 +9698,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_01e5c26693d7384c47d1",
+    "name": "SOFT RADYO",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radyo.softradyo.com/1140/stream",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-04-19T15:42:52Z"
   },
   {
     "id": "awb_f0db3adb9fe555377aaf",
@@ -10879,6 +10847,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-19T00:17:05Z"
+  },
+  {
+    "id": "awb_bf91fdee2668f4df9283",
+    "name": "Vitamin FM 88.4",
+    "country": "TR",
+    "subdivision": "karadeniz,pop,türkçe,rize",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://vitaminfm.com/",
+    "favicon": "https://vitaminfm.com/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T09:16:35Z"
   },
   {
     "id": "awb_4f01f4cbe4351eaeba5b",

@@ -2691,7 +2691,10 @@
     "name": "Radio MFK",
     "country": "DK",
     "subdivision": "Nordjylland",
-    "languages": [],
+    "languages": [
+      "da",
+      "en"
+    ],
     "categories": [
       "pop"
     ],
@@ -2702,7 +2705,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-10T21:33:39Z"
+    "updatedAt": "2026-11-11T21:36:28Z"
   },
   {
     "id": "awb_41212c06d6a7668c11c6",
@@ -3071,7 +3074,9 @@
     "name": "Rar",
     "country": "DK",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [
       "tec"
@@ -3080,7 +3085,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
+    "updatedAt": "2026-11-12T04:53:37Z"
   },
   {
     "id": "awb_3706abc88b0ec532463d",

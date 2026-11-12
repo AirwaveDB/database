@@ -586,22 +586,6 @@
     "updatedAt": "2026-01-14T23:22:35Z"
   },
   {
-    "id": "awb_c29496eb9c89f44034c1",
-    "name": "AIR Devikulam",
-    "country": "IN",
-    "subdivision": "kerala",
-    "languages": [
-      "ml"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://akashvani.gov.in/radio/live.php",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-27T09:35:53Z"
-  },
-  {
     "id": "awb_97fc7728b8c2b15c7d11",
     "name": "Air Dharmapuri",
     "country": "IN",
@@ -995,28 +979,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_876e9a69d3fe5bc0ee8e",
-    "name": "AIR Thrissur",
-    "country": "IN",
-    "subdivision": "kerala",
-    "languages": [
-      "ml"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "local radio",
-      "malayalam",
-      "news"
-    ],
-    "homepage": "https://akashvani.gov.in/radio/live.php",
-    "favicon": "https://newsonair.gov.in/wp-content/uploads/2024/03/Akhashvani-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-27T04:11:08Z"
   },
   {
     "id": "awb_e4b7d1f583e1de34cf69",
@@ -2020,14 +1982,11 @@
       "ta"
     ],
     "categories": [],
-    "tags": [
-      "tamil cinema music",
-      "tamil music"
-    ],
+    "tags": [],
     "homepage": "https://southradios.com/",
     "favicon": "https://southradios.com/assets/images/logo/logo90.webp",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -4081,6 +4040,24 @@
     "updatedAt": "2026-01-15T06:36:23Z"
   },
   {
+    "id": "awb_218da2937b6d74e8a5ac",
+    "name": "Estar Odia",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [
+      "or"
+    ],
+    "categories": [],
+    "tags": [
+      "odia"
+    ],
+    "homepage": null,
+    "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F_CNoR_gEfn9XaYIBED-2Ll2sCvzvcv1uYk8IRETqOI4%2Frs%3Afit%3A268%3A268%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUR3dk9IcWd3Z01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3N0lTOGl3c01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE5NjIwNjYwMDA.webp&w=640&q=75",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T05:40:39Z"
+  },
+  {
     "id": "awb_5db2bb01a1132d7e8ea7",
     "name": "evergreen-tamil-radio",
     "country": "IN",
@@ -5715,6 +5692,22 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_87e2b28cfe0041aff9bb",
+    "name": "Janadhwani Kannada",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [
+      "kn"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/01/jana-dhwani-kannda.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T01:09:32Z"
+  },
+  {
     "id": "awb_018bb596e694d68be603",
     "name": "JANVANI 90.8 FM",
     "country": "IN",
@@ -5747,7 +5740,10 @@
     "name": "JAVA MASTIKHOR",
     "country": "IN",
     "subdivision": "Uttar Pradesh",
-    "languages": [],
+    "languages": [
+      "en",
+      "hi"
+    ],
     "categories": [
       "pop"
     ],
@@ -5761,7 +5757,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-17T14:21:46Z"
+    "updatedAt": "2026-11-12T03:51:06Z"
   },
   {
     "id": "awb_1e7e00b52d903b558521",
@@ -6784,6 +6780,7 @@
     "country": "IN",
     "subdivision": null,
     "languages": [
+      "en",
       "hi"
     ],
     "categories": [],
@@ -6792,7 +6789,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-05-01T12:56:29Z"
+    "updatedAt": "2026-11-12T00:32:37Z"
   },
   {
     "id": "awb_ad8929189b02fcd7492e",
@@ -8076,7 +8073,10 @@
     "name": "Radio 24",
     "country": "IN",
     "subdivision": "Maharashtra",
-    "languages": [],
+    "languages": [
+      "en",
+      "hi"
+    ],
     "categories": [],
     "tags": [
       "bollywood",
@@ -8087,7 +8087,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-11T23:44:11Z"
   },
   {
     "id": "awb_8a97f60eb9d2e8eceb2a",
@@ -9759,6 +9759,25 @@
     "updatedAt": "2026-11-05T04:45:41Z"
   },
   {
+    "id": "awb_a34610f572f57d22ea23",
+    "name": "RADIO SANSKAR",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [
+      "or"
+    ],
+    "categories": [],
+    "tags": [
+      "misc",
+      "odia"
+    ],
+    "homepage": "http://www.shoutcast.com/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR63dYHkBvYiw7TjDFI-kNdEvgjhoMpw_3B4g&s",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T06:25:13Z"
+  },
+  {
     "id": "awb_5b533c94d3a07a2fbea4",
     "name": "Radio Sanskrit Bharati",
     "country": "IN",
@@ -9878,6 +9897,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-28T05:45:09Z"
+  },
+  {
+    "id": "awb_e1b996d41c6cd9978bf9",
+    "name": "Radio Sparsha",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [
+      "or"
+    ],
+    "categories": [],
+    "tags": [
+      "odia"
+    ],
+    "homepage": "http://www.shoutcast.com/",
+    "favicon": "https://play-lh.googleusercontent.com/0eFvI8vOEH34zC5QCdr-rh_giddDQQ4Yd9kHewLcPs3NL5Ax8XSGtXoKcSLIey3Th9m6t2G3YlK0idV4VNLOjHs",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T05:10:58Z"
   },
   {
     "id": "awb_8a842d1b58192f1c225a",
@@ -11204,20 +11241,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_5dbc987b4c12cf447731",
-    "name": "Shripad Radio",
-    "country": "IN",
-    "subdivision": "Maharashtra",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://liveradios.in/shripad-radio.html",
-    "favicon": "https://liveradios.in/wp-content/uploads/shripad-radio.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
     "id": "awb_fd5868ec9ed7f50d4ac5",
@@ -12678,22 +12701,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-29T05:28:43Z"
-  },
-  {
-    "id": "awb_81dd8b0064c21fe64769",
-    "name": "Vaigai FM",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [
-      "ta"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/12/vaigai-fm.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:36:24Z"
   },
   {
     "id": "awb_0615743645af49facc5b",

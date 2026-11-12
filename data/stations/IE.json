@@ -148,31 +148,6 @@
     "updatedAt": "2026-10-20T06:37:16Z"
   },
   {
-    "id": "awb_3528e092204f75cb46b9",
-    "name": "Banter FM",
-    "country": "IE",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "chart",
-      "hits",
-      "irish",
-      "music",
-      "pop",
-      "top 40"
-    ],
-    "homepage": "https://banterfm.tech/",
-    "favicon": "https://banterfm.tech/assets/cast-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-27T16:10:09Z"
-  },
-  {
     "id": "awb_1de70909f93144e14f1c",
     "name": "Beat 102-103",
     "country": "IE",
@@ -193,7 +168,7 @@
       "pop dance"
     ],
     "homepage": "https://www.beat102103.com/",
-    "favicon": "https://www.beat102103.com/images/ico/android-icon-192x192.png",
+    "favicon": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource122/v4/d0/c0/db/d0c0dbf6-cbee-ed1f-7a47-f7ae868d87f9/70aabc5c-2d63-43ab-ad31-12d2592c7c32.png/1200x1200bf-60.jpg",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-08-24"
@@ -522,9 +497,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://classicgoldradio.ie/radiochannel/classic-gold-radio/",
-    "favicon": "https://classicgoldradio.ie/wp-content/uploads/2024/07/Logo-Classic-Gold-02.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -729,32 +704,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-19T13:13:20Z"
-  },
-  {
-    "id": "awb_687c9e9eeaf49206ab15",
-    "name": "Deep House Radio (DHR)",
-    "country": "IE",
-    "subdivision": "Co. Cork",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "ambient",
-      "electronic"
-    ],
-    "tags": [
-      "chillout+lounge",
-      "deep house",
-      "deep techno",
-      "deephouse",
-      "house",
-      "house/soulful/deep house"
-    ],
-    "homepage": "https://deephouse-radio.com/",
-    "favicon": "https://deephouse-radio.com/dhr-logo-bg.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-07T12:41:32Z"
   },
   {
     "id": "awb_9f6c8bac4ba7d986790b",
@@ -1426,7 +1375,7 @@
     "favicon": "https://www.irishpubradio.com/images/logo.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-01-15T04:14:02Z"
+    "updatedAt": "2026-11-12T07:34:12Z"
   },
   {
     "id": "awb_e0efb318e8113a7fa8a8",
@@ -1533,6 +1482,7 @@
     "country": "IE",
     "subdivision": "Dublin",
     "languages": [
+      "en",
       "gd"
     ],
     "categories": [],
@@ -1544,7 +1494,7 @@
     "favicon": "https://ugc.production.linktr.ee/25ptJVPeSsK0acaBjPZg_EC3n4X2PX71u30I0?io=true&size=avatar-v3_0",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-07-10T03:45:19Z"
+    "updatedAt": "2026-11-12T00:32:40Z"
   },
   {
     "id": "awb_dae7f7dd694c1c54625f",
@@ -1559,20 +1509,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_06c5eec511ee3456dfd4",
-    "name": "LMFM Country",
-    "country": "IE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.lmfm.ie/player/lmfms-country-express/",
-    "favicon": "https://mm.aiircdn.com/616/5d77b00deee6a.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_50c28f2b33862e8f0e2f",
@@ -1837,7 +1773,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T19:00:52Z"
+    "updatedAt": "2026-11-12T02:11:00Z"
   },
   {
     "id": "awb_09ce91223417498232c1",
@@ -1866,7 +1802,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio2-90s00s.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T15:35:21Z"
+    "updatedAt": "2026-11-12T08:29:49Z"
   },
   {
     "id": "awb_0a70ca4c43d2f9c168be",
@@ -2937,7 +2873,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-11T23:35:45Z"
   },
   {
     "id": "awb_6eb80855ca4ba1c7c6ef",

@@ -93,14 +93,17 @@
     "name": "Batanga Radio",
     "country": "PR",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en",
+      "es"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://batangaclassics.casa/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-23"
+    "updatedAt": "2026-11-12T08:06:35Z"
   },
   {
     "id": "awb_a868752271daa6a161aa",
@@ -778,16 +781,12 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://www.wkaq580.com/",
-    "favicon": "https://bloximages.chicago2.vip.townnews.com/wkaq580.com/content/tncms/custom/image/9732c65a-a5bb-11ee-8102-67d137cd6b72.png?resize=400%2C167",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {

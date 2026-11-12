@@ -2507,22 +2507,6 @@
     "updatedAt": "2026-07-08T07:04:07Z"
   },
   {
-    "id": "awb_eac0ecdcb388e793c972",
-    "name": "La Voz de Yungay",
-    "country": "CL",
-    "subdivision": "Yungay",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://lavozdeyungay.cl/",
-    "favicon": "https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-1/298837109_464729655660656_1098981855635272549_n.png?stp=cp0_dst-png_s50x50&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=DAhc059lbvsQ7kNvwGV1o01&_nc_oc=Adrn5XJ2Nlzc98s9fGMlsky_kxLo6wBBIob8EBBokj-Bpx4N8ZTvbTZu2I22BnTXeYwjhrEy4dOwjxZh7wzo9i1d&_nc_zt=24&_nc_ht=scontent.fccp1-1.fna&edm=AHhUBXQEAAAA&_nc_gid=xbSHZxtGCwRRd5G-0sjpqQ&oh=00_AQHefDB8m_AjgvkN0YhO7SH_KRFaAzviRH7dwZVSr-INSw&oe=6A8962AA",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-18T00:35:58Z"
-  },
-  {
     "id": "awb_5a89755e2b19630a4858",
     "name": "La Voz del Cipres",
     "country": "CL",
@@ -5180,7 +5164,7 @@
     "homepage": "https://edelweiss.fm/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6391,20 +6375,6 @@
     "updatedAt": "2026-07-08T21:01:40Z"
   },
   {
-    "id": "awb_9dae62e1f54ce813e8b4",
-    "name": "Radio Mirador",
-    "country": "CL",
-    "subdivision": "Lautaro",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mirador.fm/",
-    "favicon": "https://cdn.instant.audio/images/logos/emisora-cl/mirador-lautaro.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-04T03:56:36Z"
-  },
-  {
     "id": "awb_bc518af1c61f3dc4d0ae",
     "name": "Radio Mix 360 |",
     "country": "CL",
@@ -7363,7 +7333,7 @@
     "homepage": "https://radiosol.cl/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8293,22 +8263,6 @@
     "updatedAt": "2026-07-09T11:40:14Z"
   },
   {
-    "id": "awb_2dd116c2bd3f69a752e2",
-    "name": "Rio Claro FM 88.5",
-    "country": "CL",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radios-chilenas.com/rio-claro-fm-885",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-09T11:44:37Z"
-  },
-  {
     "id": "awb_111b97d70da42a114f79",
     "name": "Ritmo en Frecuencia",
     "country": "CL",
@@ -8496,6 +8450,7 @@
     "country": "CL",
     "subdivision": "santiago de chile",
     "languages": [
+      "en",
       "es"
     ],
     "categories": [
@@ -8513,7 +8468,7 @@
     "favicon": "https://catalogo-rm.prochile.cl/wp-content/uploads/2020/10/LOGO_400-169.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-02-04T14:07:48Z"
+    "updatedAt": "2026-11-11T23:27:17Z"
   },
   {
     "id": "awb_2787b3864ea36bd5a303",

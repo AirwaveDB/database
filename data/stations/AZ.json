@@ -420,7 +420,9 @@
     "name": "Media FM Relax",
     "country": "AZ",
     "subdivision": "Baku",
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "ambient"
     ],
@@ -432,7 +434,7 @@
     "favicon": "https://mediafm.az/wp-content/uploads/2026/03/Media_Reax_309x309.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-09-21T05:17:02Z"
+    "updatedAt": "2026-11-12T05:03:47Z"
   },
   {
     "id": "awb_43fe8858d737ad2fbe58",

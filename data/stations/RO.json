@@ -2027,9 +2027,9 @@
       "deep house"
     ],
     "homepage": "https://radioenergyfm.com/deep/",
-    "favicon": "https://radioenergyfm.com/sitepad-data/uploads/2026/07/cropped-icon-192x192.png",
+    "favicon": "https://radioenergyfm.com/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-11-09T20:29:32Z"
   },
   {
@@ -2613,7 +2613,9 @@
     "country": "RO",
     "subdivision": "Mures",
     "languages": [
-      "hu"
+      "en",
+      "hu",
+      "ro"
     ],
     "categories": [
       "pop"
@@ -2625,7 +2627,32 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-04-28T08:16:00Z"
+    "updatedAt": "2026-11-12T07:12:28Z"
+  },
+  {
+    "id": "awb_ca2097d74df51db38c15",
+    "name": "Euronews Radio Romania",
+    "country": "RO",
+    "subdivision": "Bucharest",
+    "languages": [
+      "ro"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "entertainment",
+      "hot ac",
+      "information",
+      "news",
+      "pop"
+    ],
+    "homepage": "https://euronews.ro/radio",
+    "favicon": "https://www.euronews.ro/radio_rgb.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:58Z"
   },
   {
     "id": "awb_12d55bc774a2de099cea",
@@ -3226,7 +3253,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:00:02Z"
+    "updatedAt": "2026-11-12T08:50:12Z"
   },
   {
     "id": "awb_dbfea5994d068b2d7927",
@@ -5535,7 +5562,7 @@
     "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/HjlyAvI2C7pMMyAvVM4mXhpr1UjBMdXqLycNj4MxKPQ/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOGEwZjNlZGUtYmVhYS00NmFlLTgzNTYtZjQ3YWRmMDBjZDkwL2ltYWdlLz91PTE2NjMzNDIzMDQwMDA.webp",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-04-28T17:27:03Z"
+    "updatedAt": "2026-11-12T01:25:34Z"
   },
   {
     "id": "awb_12406e481480870e84b7",
@@ -7638,14 +7665,16 @@
     "name": "Radio DJ1",
     "country": "RO",
     "subdivision": "Galati",
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://radiodj1.carrd.co/",
     "favicon": "https://i.postimg.cc/BbMm93G6/rdj1-noua.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-02-03T13:28:44Z"
+    "updatedAt": "2026-11-12T04:16:41Z"
   },
   {
     "id": "awb_0a17d6018c0c7cc5a70d",
@@ -7755,22 +7784,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-21T10:25:09Z"
-  },
-  {
-    "id": "awb_ae8a3e90a05ddce39461",
-    "name": "Radio DOR Romania",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "ro"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://radiodor.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:06:06Z"
   },
   {
     "id": "awb_9189e0bca1b194916077",
@@ -8138,7 +8151,7 @@
     "favicon": "https://radiofiladelfia.ro/wp-content/uploads/2020/03/Radio-Filadelfia_logo_500px.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T00:10:47Z"
+    "updatedAt": "2026-11-11T23:23:50Z"
   },
   {
     "id": "awb_fdecb3d280c4fac29329",
@@ -9320,23 +9333,6 @@
     "updatedAt": "2026-05-20T03:43:18Z"
   },
   {
-    "id": "awb_186b73b29c718dd8fb8d",
-    "name": "Radio Lipova Popular",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "petrecere",
-      "populară"
-    ],
-    "homepage": "http://www.radiolipova.ro/",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s158269g.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-23T17:44:55Z"
-  },
-  {
     "id": "awb_1bf704935143ca03f370",
     "name": "Radio LTU",
     "country": "RO",
@@ -10351,28 +10347,6 @@
     "updatedAt": "2026-01-15T06:09:45Z"
   },
   {
-    "id": "awb_09bb519b844c8b0a0704",
-    "name": "Radio Oradea",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "00s",
-      "90s",
-      "dance",
-      "pop"
-    ],
-    "homepage": "https://radiooradea.ro/",
-    "favicon": "https://www.liveradio.ie/files/images/588835/radiooradea_logo.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-28T17:19:12Z"
-  },
-  {
     "id": "awb_604b3ca6e8dcc9b9cb58",
     "name": "Radio Orion FM -Câmpulung Muscel 96,6 FM",
     "country": "RO",
@@ -10954,7 +10928,12 @@
     "country": "RO",
     "subdivision": null,
     "languages": [
-      "ro"
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ro",
+      "ru"
     ],
     "categories": [],
     "tags": [
@@ -10964,7 +10943,7 @@
     "favicon": "http://player.rri.ro/images/custom/logo-international3.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-03-05T19:15:29Z"
+    "updatedAt": "2026-11-12T02:55:55Z"
   },
   {
     "id": "awb_947d2a8976bda17f1176",
@@ -11141,7 +11120,9 @@
     "name": "Radio Romantic Modern Talking - Blue Systems",
     "country": "RO",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [
       "eurodisco",
@@ -11151,14 +11132,16 @@
     "favicon": "https://oss-us.fileget.net/tingfm/img/l/4/83434.v20.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-09-20T08:15:04Z"
+    "updatedAt": "2026-11-12T05:08:21Z"
   },
   {
     "id": "awb_8dea5b9ef1dda1606a8a",
     "name": "Radio Romantic- Modern Talking",
     "country": "RO",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [
       "italo disco"
@@ -11167,7 +11150,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-09-01T12:02:25Z"
+    "updatedAt": "2026-11-12T01:53:21Z"
   },
   {
     "id": "awb_813cca40376596140daa",
@@ -12218,20 +12201,6 @@
     "updatedAt": "2026-04-29T05:41:12Z"
   },
   {
-    "id": "awb_da15cae6b3d1cc4fc850",
-    "name": "Radio ZU!",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiozu.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_256249938015fd0024af",
     "name": "Radio.Sighet.Xyz",
     "country": "RO",
@@ -12320,7 +12289,7 @@
     "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/G49swqcLJs8GRdJlPQpgC8YebxH7Mw5Xb-xBoDy7Zw8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNTViZGNlZDYtZjkxNy00ZTc2LWI2YWQtY2FlZjhlMGE2NGI3L2ltYWdlLz91PTE2OTc1NjM5NjUwMDA.webp",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-04-28T17:32:46Z"
+    "updatedAt": "2026-11-12T09:46:01Z"
   },
   {
     "id": "awb_18f7083af73065a30f7f",
@@ -13263,20 +13232,6 @@
     "updatedAt": "2026-09-05T17:11:36Z"
   },
   {
-    "id": "awb_2f9737d6bca1c3eb137b",
-    "name": "shred.ing",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://shred.ing/play",
-    "favicon": "https://shred.ing/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-04T06:56:07Z"
-  },
-  {
     "id": "awb_364a17b6ab8d4174934b",
     "name": "Siculus Rádió",
     "country": "RO",
@@ -13791,7 +13746,9 @@
     "name": "SONIQ Festival FM",
     "country": "RO",
     "subdivision": "București",
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "electronic"
     ],
@@ -13807,7 +13764,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-04-16T12:15:45Z"
+    "updatedAt": "2026-11-12T09:46:04Z"
   },
   {
     "id": "awb_a903e9689e6ee6cfb3c8",
@@ -15261,7 +15218,7 @@
     "homepage": "https://radioenergyfm.com/",
     "favicon": "https://radioenergyfm.com/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-11-10T17:23:59Z"
   },
   {

@@ -1940,8 +1940,8 @@
       "traffic",
       "traffic information"
     ],
-    "homepage": "http://www.cnr.cn/",
-    "favicon": "https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20221211/1670743148470.jpg",
+    "homepage": "https://www.cnr.cn/",
+    "favicon": "https://ytmedia.radio.cn/CCYT/202505/19/18/8jLzVYGQuoQrHLIljfYQxUeOssaU12f5xAiFGZr2025051918831.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:38:09Z"
@@ -4837,6 +4837,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:38:48Z"
+  },
+  {
+    "id": "awb_a5760c230f17cac7c915",
+    "name": "Yurao Culture TV",
+    "country": "CN",
+    "subdivision": "Chekiang",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "chekiang",
+      "hls video"
+    ],
+    "homepage": "http://www.yysee.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:25:56Z"
   },
   {
     "id": "awb_c39f9d555f947e12294e",
@@ -11495,24 +11514,6 @@
     "updatedAt": "2026-10-20T15:25:27Z"
   },
   {
-    "id": "awb_5117c3e9f6ef12802611",
-    "name": "嘉定综合广播",
-    "country": "CN",
-    "subdivision": "Shanghai",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "full service"
-    ],
-    "homepage": "http://www.jiading.gov.cn/",
-    "favicon": "https://bkimg.cdn.bcebos.com/pic/9e3df8dcd100baa1cd11678ed144ae12c8fcc3ce80f0?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-11T14:15:52Z"
-  },
-  {
     "id": "awb_ef8b68b9ca40a4747ff0",
     "name": "嘉峪关交通广播",
     "country": "CN",
@@ -12637,24 +12638,6 @@
     "updatedAt": "2026-06-11T05:03:46Z"
   },
   {
-    "id": "awb_f8cd476ddad85b6fd411",
-    "name": "天水交通广播频道",
-    "country": "CN",
-    "subdivision": "Kansu",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "traffic radio broadcast"
-    ],
-    "homepage": "http://www.tstv.cn/",
-    "favicon": "https://pic.qtfm.cn/2018/0117/20180117115019.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:49:38Z"
-  },
-  {
     "id": "awb_1bd8ec4eb373328dd8b1",
     "name": "天水综合广播",
     "country": "CN",
@@ -13251,24 +13234,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:05:28Z"
-  },
-  {
-    "id": "awb_c5a04c6aa351df7ae781",
-    "name": "孟村回族自治县人民广播电台",
-    "country": "CN",
-    "subdivision": "Hopei",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "http://cz.hebei.com.cn/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:59:53Z"
   },
   {
     "id": "awb_e02a80860af05d76df86",
@@ -27143,9 +27108,9 @@
       "news"
     ],
     "homepage": "https://www.gstv.com.cn/",
-    "favicon": "https://so1.360tres.com/t11938a03494107cd343502a5c8.png",
+    "favicon": "https://jiangsu-10.zos.ctyun.cn/gansu/3jhZLtbhFrame%20427319550.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-12T13:32:13Z"
   },
   {
@@ -29872,6 +29837,26 @@
     "updatedAt": "2026-01-15T02:41:59Z"
   },
   {
+    "id": "awb_7619a83164dc06a3b4b2",
+    "name": "襄州综合广播 都市965汽车音乐广播",
+    "country": "CN",
+    "subdivision": null,
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop music"
+    ],
+    "homepage": "http://www.zgxy.gov.cn/",
+    "favicon": "https://pic.qtfm.cn/sso/198/1627896201476_n7riSB6sY.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T06:43:16Z"
+  },
+  {
     "id": "awb_38f66852f259033a1db7",
     "name": "襄阳交通音乐广播",
     "country": "CN",
@@ -31300,27 +31285,6 @@
     "updatedAt": "2026-01-15T04:16:44Z"
   },
   {
-    "id": "awb_77eff6cf1e4c9fb31b26",
-    "name": "达州交通音乐广播",
-    "country": "CN",
-    "subdivision": "Szechuan",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "102.9",
-      "102.9 fm",
-      "culture",
-      "music"
-    ],
-    "homepage": "http://www.dzxw.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:38:48Z"
-  },
-  {
     "id": "awb_e5959fec31b3408c3b56",
     "name": "达州综合广播",
     "country": "CN",
@@ -31426,7 +31390,7 @@
       "traffic radio broadcast"
     ],
     "homepage": "https://www.lyg1.com/index.html",
-    "favicon": "http://pic.qingting.fm/2021/0714/20210714033025.jpeg",
+    "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiEo.png@350w_1l",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T18:33:11Z"
@@ -32936,24 +32900,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-11T14:27:09Z"
-  },
-  {
-    "id": "awb_daf55b371dbe0c8ee527",
-    "name": "铁岭电视台新闻综合频道",
-    "country": "CN",
-    "subdivision": "Liaoning",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "tv"
-    ],
-    "homepage": "http://tieling.nen.com.cn/",
-    "favicon": "https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd5266d0161fef0654802bd40734fa98be?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-24T15:16:03Z"
   },
   {
     "id": "awb_c09d8d7599401253025c",
@@ -35119,24 +35065,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:52:51Z"
-  },
-  {
-    "id": "awb_24f1d796960350a106d4",
-    "name": "韩城综合广播",
-    "country": "CN",
-    "subdivision": "Shensi",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "full service"
-    ],
-    "homepage": "https://www.sxhcrm.cn/",
-    "favicon": "http://pic.qingting.fm/2017/0701/20170701083425.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-06T01:19:44Z"
   },
   {
     "id": "awb_c4dbecb62c7d908c8e45",

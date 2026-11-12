@@ -306,20 +306,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_d79719fe6d6e9ed15ce5",
-    "name": "Cosmos",
-    "country": "EC",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://cosmosir.net/index.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-11T03:37:37Z"
-  },
-  {
     "id": "awb_305b7a7be9b70f96cace",
     "name": "Cuenca TV",
     "country": "EC",
@@ -986,6 +972,7 @@
     "country": "EC",
     "subdivision": null,
     "languages": [
+      "en",
       "es"
     ],
     "categories": [
@@ -1004,7 +991,7 @@
     "favicon": "https://maniaticaradio.com/logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T00:23:44Z"
   },
   {
     "id": "awb_3196fafa97466843afd5",

@@ -7755,27 +7755,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_0384278c5344df651ab1",
-    "name": "chitsradio",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "pop"
-    ],
-    "homepage": "http://www.chitsradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-27T06:12:28Z"
-  },
-  {
     "id": "awb_8e771b7f38b6b4d573a7",
     "name": "Christmas hits 1",
     "country": "FR",
@@ -9797,7 +9776,7 @@
     "favicon": "https://www.egrego.re/RESOURCES/IMAGES/EGREGORELOGO.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-07T01:18:49Z"
+    "updatedAt": "2026-11-12T04:22:49Z"
   },
   {
     "id": "awb_9f2cbe07bf0627568cc4",
@@ -10230,7 +10209,7 @@
     "homepage": "https://www.europaradiojazz.org/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -11504,7 +11483,7 @@
       "pop"
     ],
     "homepage": "https://www.fip.fr/pop/webradio",
-    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg",
+    "favicon": "https://www.fip.fr/dist/favicons/logo-120.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -11664,6 +11643,26 @@
     "type": "public",
     "sourceCount": 3,
     "updatedAt": "2026-09-02T01:52:16Z"
+  },
+  {
+    "id": "awb_1dacc900690def57c6d1",
+    "name": "Fip Strasbourg",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "fip",
+      "france",
+      "radio france"
+    ],
+    "homepage": "https://fluxradios.blogspot.com/2014/07/flux-url-fip-strasbourg.html",
+    "favicon": "https://media.tunedradios.com/w_600,h_600,q_40/static/radio/3635/logo/a3c1ba7049916f688ca3c1616ae85d85.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:57Z"
   },
   {
     "id": "awb_fba5dbf974287039a055",
@@ -16386,6 +16385,7 @@
     "country": "FR",
     "subdivision": null,
     "languages": [
+      "en",
       "fr"
     ],
     "categories": [
@@ -16418,7 +16418,7 @@
     "favicon": "https://www.hits1radio.com/wp-content/uploads/2019/03/1024.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T04:22:43Z"
   },
   {
     "id": "awb_5f65e355ee6d515774c0",
@@ -19040,6 +19040,25 @@
     "updatedAt": "2026-10-17T04:50:13Z"
   },
   {
+    "id": "awb_3c8a795ea37d44ca658a",
+    "name": "Ici Alsace",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "france",
+      "variety"
+    ],
+    "homepage": "https://www.ici.fr/",
+    "favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_ICI_par_France_Bleu_et_France_3.svg/langfr-250px-Logo_ICI_par_France_Bleu_et_France_3.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:56:23Z"
+  },
+  {
     "id": "awb_d5cc819d017ca1ef3543",
     "name": "ici Armorique",
     "country": "FR",
@@ -19438,7 +19457,7 @@
     "favicon": "https://i.postimg.cc/BQZXKJnh/LOGO-3-2-bg1.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T03:05:48Z"
+    "updatedAt": "2026-11-12T04:22:42Z"
   },
   {
     "id": "awb_59958b09a5492c724646",
@@ -19471,7 +19490,7 @@
     "favicon": "https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-06T18:50:59Z"
+    "updatedAt": "2026-11-12T02:12:19Z"
   },
   {
     "id": "awb_7e1888e862706fbd34c1",
@@ -19495,7 +19514,7 @@
     "favicon": "https://i.postimg.cc/3rFkNkY4/LOGO-3-2-bg3.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T18:00:20Z"
+    "updatedAt": "2026-11-12T06:34:40Z"
   },
   {
     "id": "awb_663247fe9bfb98162cd8",
@@ -28145,47 +28164,6 @@
     "updatedAt": "2026-09-18T18:49:49Z"
   },
   {
-    "id": "awb_86571c57748b80c17cf4",
-    "name": "NRJ Beach Club",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "nrj",
-      "webradio"
-    ],
-    "homepage": "https://www.nrj.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:49:49Z"
-  },
-  {
-    "id": "awb_0c47a604174a64c1ea8a",
-    "name": "NRJ Beach Running",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "sports"
-    ],
-    "tags": [
-      "nrj",
-      "sport",
-      "webradio"
-    ],
-    "homepage": "https://www.nrj.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:53:49Z"
-  },
-  {
     "id": "awb_714e71feb08d469b9238",
     "name": "NRJ Beauvais",
     "country": "FR",
@@ -34345,7 +34323,7 @@
   },
   {
     "id": "awb_4242dc875d1bdd4fe48f",
-    "name": "Puissance Max la Radio",
+    "name": "Puissance Max La Radio",
     "country": "FR",
     "subdivision": "Auvergne-Rhône-Alpes",
     "languages": [
@@ -34360,8 +34338,8 @@
       "top 40",
       "top hits"
     ],
-    "homepage": "https://puissance-max-la-radio.fr/",
-    "favicon": "https://www.image-heberg.fr/files/17675323612993863926.png",
+    "homepage": "https://www.puissance-max-la-radio.fr/#apropos",
+    "favicon": "https://static.wixstatic.com/media/eea892_1334dfd05976420cba30d24bcba8af47~mv2.png/v1/fill/w_462,h_460,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vierge.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-05T10:31:11Z"
@@ -34430,6 +34408,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_66268187b269e7ad50b7",
+    "name": "PulsRadio 2000",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "00s",
+      "2000s",
+      "dance",
+      "electronic",
+      "trance"
+    ],
+    "homepage": "https://www.pulsradio.com/fr/2000/",
+    "favicon": "https://www.pulsradio.com/img/logo-2000.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:58Z"
   },
   {
     "id": "awb_d10cfc5199e38609a0b0",
@@ -35694,7 +35696,7 @@
     "favicon": "https://stream.radiobroussaille.fr:8443/favicon-32x32.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T03:57:42Z"
+    "updatedAt": "2026-11-12T05:05:40Z"
   },
   {
     "id": "awb_7e734f5079f289eeae18",
@@ -38240,7 +38242,7 @@
     "favicon": "https://www.lapurdi.net/squelettes/img/logo_web_small.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T08:39:30Z"
+    "updatedAt": "2026-11-12T07:22:31Z"
   },
   {
     "id": "awb_dc9e303757687b995c02",
@@ -39690,7 +39692,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T06:08:41Z"
+    "updatedAt": "2026-11-12T05:02:39Z"
   },
   {
     "id": "awb_693a7cccadd9c543e879",
@@ -39710,7 +39712,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T18:49:09Z"
+    "updatedAt": "2026-11-11T23:45:57Z"
   },
   {
     "id": "awb_170145a89df6bee49f9c",
@@ -39730,7 +39732,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T20:17:15Z"
+    "updatedAt": "2026-11-12T00:52:44Z"
   },
   {
     "id": "awb_f9e6ec4fab79c1be88df",
@@ -41322,7 +41324,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T14:54:40Z"
+    "updatedAt": "2026-11-11T21:58:12Z"
   },
   {
     "id": "awb_3184303c9e1059ff5d5d",
@@ -41370,20 +41372,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:04:47Z"
-  },
-  {
-    "id": "awb_524b7bbecabdf7bb2975",
-    "name": "Radio_Accordeon",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radioenlignefrance.com/accordeon-sans-pub",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-14T09:47:18Z"
   },
   {
     "id": "awb_0f9122a6afca192b8b45",
@@ -41607,33 +41595,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-16T07:39:54Z"
-  },
-  {
-    "id": "awb_d0078018612849c9aa85",
-    "name": "Radionysos",
-    "country": "FR",
-    "subdivision": "Paris",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "electronic",
-      "folk",
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "electronic",
-      "folk",
-      "rock",
-      "soul",
-      "various"
-    ],
-    "homepage": "https://www.radionysos.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-24T03:49:18Z"
   },
   {
     "id": "awb_f81cddf3c6c0a3173b9c",
@@ -42021,26 +41982,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:15:05Z"
-  },
-  {
-    "id": "awb_c14d94995ed7e7eed74c",
-    "name": "RCF Haute-Normandie",
-    "country": "FR",
-    "subdivision": "Normandie",
-    "languages": [
-      "fr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "https://rcf.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:16:50Z"
   },
   {
     "id": "awb_8ddea1e3318c66115f2f",
@@ -43666,7 +43607,7 @@
     "favicon": "https://fichiers.rjrradio.fr/logo/Fond%20blanc/RJR%202016%20carr%C3%A9%20sans%20marge.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-06T16:29:03Z"
+    "updatedAt": "2026-11-12T09:33:31Z"
   },
   {
     "id": "awb_3e050152e9c0639b6101",
@@ -44572,7 +44513,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-06T13:56:21Z"
+    "updatedAt": "2026-11-12T09:45:53Z"
   },
   {
     "id": "awb_27f177cc378d35086ddb",
@@ -47146,7 +47087,7 @@
     "favicon": "https://vicecity.fr/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-07T00:31:36Z"
+    "updatedAt": "2026-11-12T05:46:29Z"
   },
   {
     "id": "awb_e5ecac656bef647da481",
@@ -48371,7 +48312,7 @@
     "favicon": "https://i.imgur.com/cVC439t.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T15:37:08Z"
+    "updatedAt": "2026-11-12T03:42:37Z"
   },
   {
     "id": "awb_72b0c0b1ce1aa867247a",

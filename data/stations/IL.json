@@ -1041,6 +1041,29 @@
     "updatedAt": "2026-01-15T06:48:55Z"
   },
   {
+    "id": "awb_34eb0b98d714cedc5f5d",
+    "name": "RADIO TIKVA",
+    "country": "IL",
+    "subdivision": "Tel Aviv",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "francophone",
+      "french",
+      "israel",
+      "news"
+    ],
+    "homepage": "https://radiotikva.com/",
+    "favicon": "https://studio10.vestaradio.com/uploads/user-music/1811/covers/cover_1811_1794141305_65af96.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T07:11:22Z"
+  },
+  {
     "id": "awb_b613a2846f280b5cfdb4",
     "name": "RadioPlus",
     "country": "IL",
@@ -1787,16 +1810,20 @@
     ],
     "categories": [
       "metal",
+      "punk",
       "rock"
     ],
     "tags": [
+      "indy",
       "metal",
+      "post punk",
+      "punk",
       "rock"
     ],
     "homepage": "https://zerockradio.com/",
-    "favicon": null,
+    "favicon": "https://zerockradio.com/favicon.ico",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {

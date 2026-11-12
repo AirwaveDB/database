@@ -20,7 +20,9 @@
     "name": "101.8 Radio Maria",
     "country": "UG",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "religious"
     ],
@@ -31,7 +33,7 @@
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_225514758.jpg?alt=media&token=4e49dcdf-f742-4ed3-bf7b-81e10b861d4f",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
+    "updatedAt": "2026-11-11T22:10:44Z"
   },
   {
     "id": "awb_e8b159d96a3f42c778bb",
@@ -86,7 +88,7 @@
     "favicon": "https://stream-154.zeno.fm/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
+    "updatedAt": "2026-11-12T03:19:15Z"
   },
   {
     "id": "awb_4c4be3ff2dbdab58e013",
@@ -309,7 +311,9 @@
     "name": "91.6 Christ Fm",
     "country": "UG",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "religious"
     ],
@@ -320,7 +324,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
+    "updatedAt": "2026-11-12T06:46:42Z"
   },
   {
     "id": "awb_16cc85ae4eace0c0c3b6",
@@ -909,7 +913,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
+    "updatedAt": "2026-11-11T22:21:54Z"
   },
   {
     "id": "awb_e33c00b3a89b416124ff",
@@ -2615,7 +2619,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
+    "updatedAt": "2026-11-12T08:34:52Z"
   },
   {
     "id": "awb_c1b74ee85a4782413465",
@@ -2974,6 +2978,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:05:50Z"
+  },
+  {
+    "id": "awb_349304c86924c394a44f",
+    "name": "TNE Music Radio",
+    "country": "UG",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://tne-music.ai.studio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T20:11:21Z"
   },
   {
     "id": "awb_9fd8a8e42a98d7096df1",

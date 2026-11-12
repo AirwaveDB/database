@@ -465,9 +465,9 @@
       "pop"
     ],
     "homepage": "https://europaplus.kiev.ua/",
-    "favicon": "https://europaplus.kiev.ua/europa-box/2020/10/cropped-EP_Logo_final-180x180.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2379,14 +2379,16 @@
     "name": "relax int",
     "country": "UA",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://www.radiorelax.ua/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-11T22:48:27Z"
   },
   {
     "id": "awb_4ba5cb7a1f66e755ceb2",
@@ -2747,7 +2749,9 @@
     "name": "Tik Tok Hits",
     "country": "UA",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "pop",
       "rock"
@@ -2762,7 +2766,7 @@
     "favicon": "https://telegram.org/img/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
+    "updatedAt": "2026-11-12T09:13:18Z"
   },
   {
     "id": "awb_b96d1a859e21300e81f3",
@@ -4847,7 +4851,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radio.nikopolnews.net/",
-    "favicon": "https://radio.nikopolnews.net/img/640logonikopol.png",
+    "favicon": "https://radio.nikopolnews.net/icons/favicon-192x192.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-09-10T08:30:45Z"

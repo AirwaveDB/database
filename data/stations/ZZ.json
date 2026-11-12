@@ -1796,20 +1796,6 @@
     "updatedAt": "2026-01-15T00:15:22Z"
   },
   {
-    "id": "awb_73e64494a6de944e6807",
-    "name": "AB Rádio Humor 128",
-    "country": "ZZ",
-    "subdivision": "ČR",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_8e30581d1be0869fd2c9",
     "name": "Absolut Oldie Classics",
     "country": "ZZ",
@@ -1970,28 +1956,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_a30b38d2047552f090e5",
-    "name": "Altitude FM",
-    "country": "ZZ",
-    "subdivision": "Guarda",
-    "languages": [
-      "pt"
-    ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "local news",
-      "pop"
-    ],
-    "homepage": "http://altitude.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:30:35Z"
   },
   {
     "id": "awb_d5e71826c568dc1f3a2f",
@@ -4466,7 +4430,7 @@
     "favicon": "https://dancewave.online/dwr_logo.png",
     "type": null,
     "sourceCount": 6,
-    "updatedAt": "2026-11-06T22:04:38Z"
+    "updatedAt": "2026-11-12T05:36:31Z"
   },
   {
     "id": "awb_9177d45281e2c40b9d6b",
@@ -4484,7 +4448,7 @@
     "favicon": "https://dancewave.online/dw_logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T17:20:43Z"
+    "updatedAt": "2026-11-12T05:14:11Z"
   },
   {
     "id": "awb_99236828eabed1f5bb5d",
@@ -4506,7 +4470,7 @@
     "favicon": "https://dancewave.online/dw_logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-07T00:05:30Z"
+    "updatedAt": "2026-11-12T01:34:58Z"
   },
   {
     "id": "awb_12f4d75fe91165f196d0",
@@ -4526,7 +4490,7 @@
     "favicon": "https://dancewave.online/dw_logo.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-08T00:10:42Z"
+    "updatedAt": "2026-11-12T01:51:50Z"
   },
   {
     "id": "awb_8b532d70845b2ddc1be4",
@@ -10160,29 +10124,6 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_127d20531c8ddf0c0644",
-    "name": "Polygon.FM - Indie Russian",
-    "country": "ZZ",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "indie",
-      "rock",
-      "russian"
-    ],
-    "homepage": "https://polygon.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:26:31Z"
-  },
-  {
     "id": "awb_a457ffc536b353a2d7a4",
     "name": "Polygon.FM - Loud Russian (fastcast)",
     "country": "ZZ",
@@ -10208,56 +10149,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:22:38Z"
-  },
-  {
-    "id": "awb_5e718b327e653f196611",
-    "name": "Polygon.FM - Punk's Not Dead",
-    "country": "ZZ",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "punk",
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "punk",
-      "rock"
-    ],
-    "homepage": "https://polygon.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:35:30Z"
-  },
-  {
-    "id": "awb_79e8929dd6ccdddca85c",
-    "name": "Polygon.FM - Quite Russian",
-    "country": "ZZ",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "ballade",
-      "pop",
-      "relax",
-      "rock",
-      "russian",
-      "smooth"
-    ],
-    "homepage": "https://polygon.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:29:44Z"
   },
   {
     "id": "awb_a1ff6c03882b3b55246e",
@@ -10323,29 +10214,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_a840af046a7811661b6e",
-    "name": "Program 3 (Trójka)",
-    "country": "ZZ",
-    "subdivision": null,
-    "languages": [
-      "pl"
-    ],
-    "categories": [
-      "jazz",
-      "rock"
-    ],
-    "tags": [
-      "alternative",
-      "jazz",
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:08:13Z"
   },
   {
     "id": "awb_2a9534e2effbcb52ecb0",

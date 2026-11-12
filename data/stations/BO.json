@@ -828,7 +828,7 @@
     "id": "awb_37afa7d89d6b39dff0c2",
     "name": "Radio Fides La Paz",
     "country": "BO",
-    "subdivision": "La Paz (Nuestra Señora de)",
+    "subdivision": "La Paz",
     "languages": [
       "es"
     ],
@@ -836,13 +836,12 @@
       "news"
     ],
     "tags": [
-      "música y noticias",
-      "noticias"
+      "música y noticias"
     ],
-    "homepage": "https://radiofides.com/es/",
+    "homepage": "https://www.radiofides.com/radio-online",
     "favicon": "https://cdn-profiles.tunein.com/s13712/images/logog.png?t=154460",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-12T16:47:43Z"
   },
   {
@@ -886,6 +885,20 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_59910f767ce78047fa18",
+    "name": "RADIO FRONTERA FM 100.3 MHz",
+    "country": "BO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiofronterayacuiba.com/",
+    "favicon": "https://radiofronterayacuiba.com/imagenes/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-05-12T13:12:19Z"
+  },
+  {
     "id": "awb_0d78b3e8f627138717dd",
     "name": "Radio GAM Viacha",
     "country": "BO",
@@ -893,18 +906,12 @@
     "languages": [
       "es"
     ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "institucional",
-      "música",
-      "noticias"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://viacha.gob.bo/",
-    "favicon": "https://i.ibb.co/v6BKzZfx/logo-viacha.jpg",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1185,6 +1192,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_6e1f96da2675a0a2b7ee",
+    "name": "Radio San Gabriel AM 620",
+    "country": "BO",
+    "subdivision": "La Paz",
+    "languages": [
+      "ay",
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "cultura",
+      "educación",
+      "folklore",
+      "noticias"
+    ],
+    "homepage": "https://radiosangabriel.org.bo/?id=am",
+    "favicon": "https://graph.facebook.com/radiosangabrieldebolivia/picture?type=large",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T23:39:52Z"
   },
   {
     "id": "awb_f387e4fc1ecf0c4d0eca",

@@ -531,13 +531,11 @@
     "subdivision": "Vilnius",
     "languages": [],
     "categories": [],
-    "tags": [
-      "random"
-    ],
+    "tags": [],
     "homepage": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9",
-    "favicon": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
@@ -1124,7 +1122,7 @@
     "id": "awb_f0418ec6f2a427f541db",
     "name": "Radijo Stotis Kelyje",
     "country": "LT",
-    "subdivision": "Kaunas",
+    "subdivision": "Vilnius",
     "languages": [
       "lt"
     ],

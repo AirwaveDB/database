@@ -1843,20 +1843,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_7183627c99dcb792c6f1",
-    "name": "adskoe_radio",
-    "country": "RU",
-    "subdivision": "Massachusetts",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.openos.pp.ua/public/adskoe_radio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-12T17:12:06Z"
-  },
-  {
     "id": "awb_aed715b501c88d0e5dff",
     "name": "Afrobeat / Afrobeats - Radio Caprice",
     "country": "RU",
@@ -3225,7 +3211,7 @@
     "favicon": "https://breaking-bass.ru/wp-content/uploads/2024/05/bb-air-logo-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T01:31:57Z"
+    "updatedAt": "2026-11-12T00:23:47Z"
   },
   {
     "id": "awb_e83d66287c6fd549c4c4",
@@ -9721,14 +9707,16 @@
     "name": "insomnia",
     "country": "RU",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "http://dfm-insomnia.hostingradio.ru/insomnia96.aacp",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:08Z"
+    "updatedAt": "2026-11-12T08:53:26Z"
   },
   {
     "id": "awb_c202786a77627d4f46e1",
@@ -10588,22 +10576,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_1af60f26dfdde555ad44",
-    "name": "Love Radio Power",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "поп-музыка"
-    ],
-    "homepage": "https://www.loveradio.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_e91755b4a8e370752991",
     "name": "Love Radio Брянск 107.6 FM",
     "country": "RU",
@@ -10626,25 +10598,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:32:26Z"
-  },
-  {
-    "id": "awb_c8a1c65bb3aabc191087",
-    "name": "Love Radio Владикавказ 105.3 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "love radio",
-      "music",
-      "region 15",
-      "vladikavkaz"
-    ],
-    "homepage": "http://loveradio.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_b4684de524acfc7febaa",
@@ -10713,32 +10666,6 @@
     "updatedAt": "2026-01-15T02:32:41Z"
   },
   {
-    "id": "awb_82fa1cd551a732bb4a83",
-    "name": "Love Radio Санкт-Петербург 105.3 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "105_3",
-      "178",
-      "78",
-      "love radio",
-      "music",
-      "pop",
-      "spb"
-    ],
-    "homepage": "https://top-radio.ru/sankt-peterburg/love",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250118_182500328.jpg?alt=media&token=358adac3-5b69-4989-ace2-91622cb31ea7",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:22:03Z"
-  },
-  {
     "id": "awb_e378b884a355fea3fb33",
     "name": "Love Radio Симферополь 88.6 FM",
     "country": "RU",
@@ -10764,27 +10691,6 @@
     "updatedAt": "2026-01-15T04:32:05Z"
   },
   {
-    "id": "awb_c57989459ca4c57577e7",
-    "name": "Love radio Тверь 105.5 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "music",
-      "pop"
-    ],
-    "homepage": "https://top-radio.ru/tver/love",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_220304915.jpg?alt=media&token=d72de2db-51a0-4ef3-8d37-322279083d49",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:06:06Z"
-  },
-  {
     "id": "awb_2deef91b6076fcfb1d29",
     "name": "Love Radio Туапсе 90.8 FM",
     "country": "RU",
@@ -10806,30 +10712,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:47:54Z"
-  },
-  {
-    "id": "awb_518a592c04a024c89020",
-    "name": "Love radio Ярославль 100.6 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "love radio",
-      "music",
-      "pop",
-      "region 76",
-      "yaroslavl"
-    ],
-    "homepage": "https://top-radio.ru/yaroslavl/love",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241228_113014358.jpg?alt=media&token=baf5ebdb-844c-4642-a88f-360fad466b36",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:42:14Z"
   },
   {
     "id": "awb_eb05f2e18d7ed4234442",
@@ -11013,14 +10895,13 @@
     ],
     "tags": [
       "chillout",
-      "deep house",
       "electronic",
       "house"
     ],
     "homepage": "https://mdeep.ru/",
-    "favicon": "https://mdeep.ru/img/logo.webp",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -11779,6 +11660,32 @@
     "updatedAt": "2026-01-14T23:22:02Z"
   },
   {
+    "id": "awb_ff1f998bbbd88ee51bfe",
+    "name": "MOTORADIO, Low AAC 24 kbps",
+    "country": "RU",
+    "subdivision": "Saint Petersburg",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "blues",
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "blues",
+      "classic-rock",
+      "hard-rock",
+      "heavy-metal",
+      "motorcycle"
+    ],
+    "homepage": "https://motoradio.online/",
+    "favicon": "https://motoradio.online/assets/img/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:50Z"
+  },
+  {
     "id": "awb_e86d051a798852225148",
     "name": "MOTORADIO.ONLINE, Just music, no programs",
     "country": "RU",
@@ -12317,22 +12224,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_786da4b6283ee301c8e5",
-    "name": "News AI",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://pipebot.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-17T10:09:19Z"
   },
   {
     "id": "awb_71a09287da9dab048470",
@@ -13298,20 +13189,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_2341da39ba31bc85f1af",
-    "name": "Prioksk FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://priokskfm.online/",
-    "favicon": "https://priokskfm.online:1030/media/servers/IMG_0010.jpeg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-01T04:12:22Z"
   },
   {
     "id": "awb_c3a2429fe0c283b6685f",
@@ -15968,22 +15845,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_88ec2ecc62198f3fe5ba",
-    "name": "Radio Caprice - Ambient Dub",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://radcap.ru/",
-    "favicon": "http://radcap.ru/graf2/radcaplogo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:39:08Z"
-  },
-  {
     "id": "awb_038aa5ba472253dd3870",
     "name": "Radio Caprice - Americana",
     "country": "RU",
@@ -17412,6 +17273,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_e83dadc19f154533cf3d",
+    "name": "Radio Caprice - Dream Trance",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "dream dance"
+    ],
+    "homepage": "http://radcap.ru/dreamtrance.html",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:45:48Z"
   },
   {
     "id": "awb_ee1e6fc75b3a01b70f0d",
@@ -21371,6 +21250,20 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
+    "id": "awb_34a8b1493067eab47932",
+    "name": "Radio Caprice - Symphonic Gothic Metal",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://radcap.ru/symphogothmet.html",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T14:54:13Z"
+  },
+  {
     "id": "awb_a7b1787244797da772e0",
     "name": "Radio Caprice - Symphonic Power Metal",
     "country": "RU",
@@ -22220,28 +22113,6 @@
     "updatedAt": "2026-01-15T03:36:09Z"
   },
   {
-    "id": "awb_f32423643c404fe3c5d4",
-    "name": "Radio Dacha",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classic hits",
-      "hits",
-      "russian hits"
-    ],
-    "homepage": "http://radiodacha.ru/",
-    "favicon": "https://www.radiodacha.ru/logo.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T08:21:23Z"
-  },
-  {
     "id": "awb_abe5e3aba928f5a115dd",
     "name": "Radio Deluxe",
     "country": "RU",
@@ -22463,44 +22334,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-13T12:43:04Z"
-  },
-  {
-    "id": "awb_c41fe754e84e7bed3531",
-    "name": "Radio Gora - Oldies",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "misc"
-    ],
-    "homepage": null,
-    "favicon": "https://cdn.onlineradiobox.com/img/l/9/22599.v2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_7db1fb0617fb3567c0bf",
-    "name": "Radio Gora Etcetera",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "ru"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "chillout",
-      "lounge"
-    ],
-    "homepage": "http://radiogora.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-21T12:35:09Z"
   },
   {
     "id": "awb_aeb861e866b9c3dc2522",
@@ -22794,28 +22627,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:48:52Z"
-  },
-  {
-    "id": "awb_99074f06b5ae751f3aa5",
-    "name": "Radio Maska",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "pop",
-      "russian hits"
-    ],
-    "homepage": "http://radiomaska.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:10:16Z"
   },
   {
     "id": "awb_777cdc5442800e467a5b",
@@ -24539,26 +24350,6 @@
     "updatedAt": "2026-01-15T00:31:56Z"
   },
   {
-    "id": "awb_137f38dc0c0642f274d2",
-    "name": "Radio Russkiy Hit",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits"
-    ],
-    "homepage": "http://www.ruhit.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:06:43Z"
-  },
-  {
     "id": "awb_709e1a157274e3405caf",
     "name": "Radio Salyut",
     "country": "RU",
@@ -24743,7 +24534,10 @@
     "name": "Radio Sova",
     "country": "RU",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en",
+      "ru"
+    ],
     "categories": [],
     "tags": [
       "music disco"
@@ -24752,7 +24546,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
+    "updatedAt": "2026-11-12T03:47:45Z"
   },
   {
     "id": "awb_bba25948c99b14b0cea5",
@@ -25135,133 +24929,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_26b3b6f77a9897ae8ba6",
-    "name": "RadioGora - ATD",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "metal",
-      "rock"
-    ],
-    "tags": [
-      "alternative rock",
-      "metal"
-    ],
-    "homepage": "http://radiogora.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:32:38Z"
-  },
-  {
-    "id": "awb_e5e331ce633809cb1f2a",
-    "name": "RadioGora - Electro",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electro",
-      "house"
-    ],
-    "homepage": "http://radiogora.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:23:35Z"
-  },
-  {
-    "id": "awb_04fb7512c446db99f8e7",
-    "name": "RadioGora - Groove Cafe",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "ambient"
-    ],
-    "tags": [
-      "chillout",
-      "lounge",
-      "лëгкая музыка",
-      "чилаут"
-    ],
-    "homepage": "http://radiogora.ru/",
-    "favicon": "https://radiogora.ru/media/uploads/2020/03/makin-magic-album-sleeve-2191013-1568x1045.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T00:57:53Z"
-  },
-  {
-    "id": "awb_83fca06e8a3762b72dfe",
-    "name": "RadioGora - HitMix",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "hits"
-    ],
-    "homepage": "http://radiogora.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:45:01Z"
-  },
-  {
-    "id": "awb_eaddc5ec8b29e07e1cbd",
-    "name": "RadioGora - Oldies",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "oldies",
-      "ретро"
-    ],
-    "homepage": "http://radiogora.ru/",
-    "favicon": "https://radiogora.ru/media/uploads/2020/03/black-cassette-tape-on-top-of-red-and-yellow-surface-1626481-1568x1045.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T01:08:58Z"
-  },
-  {
-    "id": "awb_b0d0db36bd7ea6777843",
-    "name": "RadioGora - RedNoise",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electronic"
-    ],
-    "homepage": "http://radiogora.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:17:02Z"
   },
   {
     "id": "awb_a4087cd5ec35779441a5",
@@ -27589,7 +27256,7 @@
     "favicon": "https://play.google.com/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T18:52:43Z"
+    "updatedAt": "2026-11-12T05:35:41Z"
   },
   {
     "id": "awb_605aa6f231103b2256d0",
@@ -29867,32 +29534,6 @@
     "updatedAt": "2026-08-16T16:09:13Z"
   },
   {
-    "id": "awb_c7b0dfdb4079bf8c7005",
-    "name": "Бизнес ФМ Казань 93.5 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "army",
-      "business fm",
-      "kazan'",
-      "news",
-      "politics",
-      "talk"
-    ],
-    "homepage": "https://top-radio.ru/kazan/business-fm",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:44:43Z"
-  },
-  {
     "id": "awb_6d3ebe8f735bdd06a2be",
     "name": "Бизнес ФМ Краснодар 106.8 FM",
     "country": "RU",
@@ -30801,27 +30442,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-30T11:47:56Z"
-  },
-  {
-    "id": "awb_ddcfd4bca76e3f6a4e1b",
-    "name": "Восток FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "russian"
-    ],
-    "homepage": "https://vostok.fm/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:17:50Z"
   },
   {
     "id": "awb_1cfdc74c9da65748a67e",
@@ -38371,24 +37991,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_4f561530d6cb36988590",
-    "name": "Радио Дача Вологда 101.4 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://top-radio.ru/vologda/dacha",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240625_151649901.jpg?alt=media&token=ef932e8d-a41c-4a91-a335-3095864ecc1e",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:56:00Z"
-  },
-  {
     "id": "awb_95a9d35656311de6505e",
     "name": "Радио Дача Волоколамск 87.6 FM",
     "country": "RU",
@@ -38534,52 +38136,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_2a7c4cbbd796ebcdec43",
-    "name": "Радио Дача Самара 102.1 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "music",
-      "pop"
-    ],
-    "homepage": "https://top-radio.ru/samara/dacha",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_224743350.jpg?alt=media&token=4c4d28bc-45aa-4563-a280-f903cb0fef01",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:39:08Z"
-  },
-  {
-    "id": "awb_fa2c72daea2c8b8cf2db",
-    "name": "Радио Дача Санкт-Петербург 97.0 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "97_0 fm",
-      "chanson",
-      "music",
-      "pop",
-      "radio dacha",
-      "spb"
-    ],
-    "homepage": "https://top-radio.ru/sankt-peterburg/dacha",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:15:53Z"
-  },
-  {
     "id": "awb_f973aee310999f92364b",
     "name": "Радио Дача Смоленск 89.9 FM",
     "country": "RU",
@@ -38602,27 +38158,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:18:25Z"
-  },
-  {
-    "id": "awb_07c43f870a182f2ea6fa",
-    "name": "Радио Дача Тверь 107.2 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "music",
-      "pop"
-    ],
-    "homepage": "https://top-radio.ru/tver/dacha",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240916_220630085.jpg?alt=media&token=330c837a-9217-47fb-aa2e-626269c716c8",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:02:06Z"
   },
   {
     "id": "awb_35d7169d98cb50674bac",
@@ -41941,30 +41476,6 @@
     "updatedAt": "2026-01-15T04:30:45Z"
   },
   {
-    "id": "awb_01f3492e6dee1a395a17",
-    "name": "Радио Родных Дорог Ярославль 93.0 FM",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "chanson",
-      "music",
-      "pop",
-      "radio native roads",
-      "yaroslavl"
-    ],
-    "homepage": "https://top-radio.ru/yaroslavl/rodnyix-dorog",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241228_113621685.jpg?alt=media&token=6a20331f-6cc0-4186-ae92-e177bfface40",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:46:57Z"
-  },
-  {
     "id": "awb_2d5b778f8b5e92942b4b",
     "name": "Радио России (AAC)",
     "country": "RU",
@@ -42234,29 +41745,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_90f26c74a5a34233771a",
-    "name": "Радио Русский Хит 99.6 FM Москва",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "moskva",
-      "music",
-      "pop",
-      "russian hit"
-    ],
-    "homepage": "https://top-radio.ru/moskva/russkij-xit",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:48:14Z"
   },
   {
     "id": "awb_d8230f3c6894f6ea74c3",
@@ -44135,24 +43623,6 @@
     "updatedAt": "2026-01-15T05:05:52Z"
   },
   {
-    "id": "awb_e32635565f0088556101",
-    "name": "Романтический шансон",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [
-      "shanson"
-    ],
-    "homepage": "https://radioshanson.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:53:08Z"
-  },
-  {
     "id": "awb_7e38cd13bca3af92c9bd",
     "name": "Русская Волна",
     "country": "RU",
@@ -45824,20 +45294,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_2e8763de58245b731470",
-    "name": "Такси FM - Москва",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://m.taxifm.ru/",
-    "favicon": "http://img.taxifm.ru/images/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_ee9ab0afeda9923a969c",
     "name": "ТАНЦЫ",
     "country": "RU",
@@ -46708,48 +46164,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_1ce45054c2dceac5435e",
-    "name": "Шансон без цензуры",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [
-      "russia",
-      "russian",
-      "shanson",
-      "без",
-      "русский",
-      "цензуры",
-      "шансон"
-    ],
-    "homepage": "https://radioshanson.ru/",
-    "favicon": "https://www.eff.org/files/Button_Russian_white.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:11:46Z"
-  },
-  {
-    "id": "awb_d9ad6d9933a18eda143c",
-    "name": "ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_da59dbcd4101c8c43ab7",

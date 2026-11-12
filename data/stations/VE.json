@@ -342,27 +342,6 @@
     "updatedAt": "2026-01-15T06:00:57Z"
   },
   {
-    "id": "awb_9109cedc11db40486558",
-    "name": "BOLIVAR 98.7 FM",
-    "country": "VE",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "entretenimiento",
-      "folclor",
-      "music",
-      "popular"
-    ],
-    "homepage": "https://zeno.fm/radio/bolivar987/",
-    "favicon": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/4TUVKAW6rQ-sZkkgS8K0r7b9K1AKXhHo3V3QU51j1kw/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWVkYzM4MTgtMzJjYy00NDkxLWJkZDUtZTg4YmYxZTRhMjZiL2ltYWdlLz91PTE3MjEwNzY1NTAwMDA.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:29:04Z"
-  },
-  {
     "id": "awb_87996a2694f402fae834",
     "name": "Bravas 99.7 FM",
     "country": "VE",
@@ -664,6 +643,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:26:48Z"
+  },
+  {
+    "id": "awb_21e740a3405110f0ab19",
+    "name": "CIRCUITO DINAMICA 103.3 FM",
+    "country": "VE",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "baladas en ingles",
+      "entretenimiento",
+      "music",
+      "música variada",
+      "retro"
+    ],
+    "homepage": "https://www.circuitodinamica.com/anzoategui/",
+    "favicon": "https://www.circuitodinamica.com/anzoategui/js/bla.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T03:00:48Z"
   },
   {
     "id": "awb_506296289f5e48885eaa",
@@ -2077,27 +2078,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:46:18Z"
-  },
-  {
-    "id": "awb_5c8c060f28883c779d73",
-    "name": "Maturín - Fe y Alegría 105.9FM",
-    "country": "VE",
-    "subdivision": "Monagas",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "católica",
-      "fe y alegría",
-      "maturín",
-      "monagas"
-    ],
-    "homepage": "https://radios.feyalegrianoticias.com/maturin/",
-    "favicon": "https://radios.feyalegrianoticias.com/wp-content/uploads/2020/09/MaturinFM.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-07T03:40:49Z"
   },
   {
     "id": "awb_57f458e359409af79094",

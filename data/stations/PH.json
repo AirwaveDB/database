@@ -404,7 +404,8 @@
     "country": "PH",
     "subdivision": null,
     "languages": [
-      "en"
+      "en",
+      "tl"
     ],
     "categories": [
       "religious"
@@ -417,7 +418,7 @@
     "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8LA27R8OyUlSDhzday5uJJot-LNiQXZ9aw&s",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:55:29Z"
+    "updatedAt": "2026-11-11T21:29:56Z"
   },
   {
     "id": "awb_b5177cd75b359263b3d5",
@@ -681,22 +682,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-07T14:00:32Z"
-  },
-  {
-    "id": "awb_4bc3a454a597e2a20ef8",
-    "name": "92.3 Radyo5 True FM",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://news.tv5.com.ph/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/440px-Radyo5truefmlogo.webp.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-01T15:14:04Z"
   },
   {
     "id": "awb_b6843d1bef1ffaaa9585",
@@ -2002,6 +1987,20 @@
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
+    "id": "awb_8a20c0729bc6073fd81b",
+    "name": "Big Sound FM Tuguegarao",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.vanguardradionetwork.com/mainmenu.php",
+    "favicon": "https://liveonlineradio.net/wp-content/uploads/2021/12/BiG-SOUND-FM.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-27T05:05:47Z"
+  },
+  {
     "id": "awb_70023b5f370d6472f00b",
     "name": "Bilyonaryo News Channel",
     "country": "PH",
@@ -2014,20 +2013,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-01T15:00:47Z"
-  },
-  {
-    "id": "awb_cbd62a0d4ce3fdf7b2ff",
-    "name": "Bionic Online Radio",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://bioniconlineradio.com/",
-    "favicon": "https://bioniconlineradio.com/wp-content/uploads/2026/01/bionic_logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-02T13:30:42Z"
   },
   {
     "id": "awb_694e991bbcee30963096",
@@ -2726,20 +2711,6 @@
     "updatedAt": "2026-03-13T13:13:57Z"
   },
   {
-    "id": "awb_1ac792f03417384c897c",
-    "name": "Brigada News FM Sorsogon",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.brigadanews.ph/bnfm-sorsogon/",
-    "favicon": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-22T13:59:14Z"
-  },
-  {
     "id": "awb_a6251ae0af823e720708",
     "name": "Brigada News FM Tagum",
     "country": "PH",
@@ -2844,18 +2815,18 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_3231472198c83891609f",
-    "name": "Caritas FM Iloilo",
+    "id": "awb_dfae61b68e435eac7bc8",
+    "name": "CARE 104.3 DWAY-FM Legazpi",
     "country": "PH",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.facebook.com/AngDiosGugmaNetwork/",
-    "favicon": "https://apk.radyoph.com/upload/1716036264_caritas-fm-iloilo.png",
+    "homepage": "https://dway.febc.ph/",
+    "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-09-27T14:48:47Z"
+    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_5388de91b7d6bcf2188a",
@@ -4140,7 +4111,10 @@
     "name": "Filipino Music Central",
     "country": "PH",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en",
+      "tl"
+    ],
     "categories": [],
     "tags": [
       "added by redbullet28"
@@ -4149,7 +4123,7 @@
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240421_064020824.jpg?alt=media&token=1bc711a7-80f7-4873-85ba-e4f3d5653c57",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "updatedAt": "2026-11-12T06:51:41Z"
   },
   {
     "id": "awb_d85e12691e791c1615b9",
@@ -4649,9 +4623,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://www.979homeradio.com/index.php/95-1-homeradio-naga/#",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/95.1_Home_Radio_Naga.png/500px-95.1_Home_Radio_Naga.png",
+    "favicon": "http://www.979homeradio.com/wp-content/uploads/2018/09/cropped-LOGO-1024PNG.png",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-05-08T12:20:49Z"
   },
   {
@@ -5368,20 +5342,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-10T03:25:35Z"
-  },
-  {
-    "id": "awb_bfce316dcaf29fc5e47b",
-    "name": "Like Radio 104.7 Bais City",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://likeradio1047.weebly.com/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/712/like-radio-1047-bais-city.9bf33809.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-15T08:17:29Z"
   },
   {
     "id": "awb_58ca7438d04c2faf594b",

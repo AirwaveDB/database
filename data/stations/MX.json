@@ -8248,24 +8248,6 @@
     "updatedAt": "2026-04-27T08:25:51Z"
   },
   {
-    "id": "awb_e52e3796dfb1252ede91",
-    "name": "91.7 Tu Playlist (Colima) - XHCIA-FM",
-    "country": "MX",
-    "subdivision": "Colima",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://917colima.mx/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-11T01:50:37Z"
-  },
-  {
     "id": "awb_dee42ac29fb9a35cae69",
     "name": "91.9 Altamix (Ciudad Altamirano) - 91.9 FM - XHSCBP-FM - Altamiradio Comunicaciones, A.C. - Ciudad Altamirano, Guerrero",
     "country": "MX",
@@ -11358,66 +11340,6 @@
     "updatedAt": "2026-06-24T18:33:13Z"
   },
   {
-    "id": "awb_9cb27b89d565c5310a2e",
-    "name": "98.5 W Radio (Tututepec) - 98.5 FM - XHPVTS-FM - Grupo Rojaz - Tututepec, Oaxaca",
-    "country": "MX",
-    "subdivision": "Tututepec, Oaxaca",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "98.5 fm",
-      "américa",
-      "entretenimiento",
-      "entrevistas",
-      "español",
-      "estación",
-      "fm",
-      "grupo rojaz",
-      "hablada",
-      "latinoamérica",
-      "local",
-      "local information",
-      "local news",
-      "local radio",
-      "local talk",
-      "mexican music",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música en español",
-      "música mexicana",
-      "música popular mexicana",
-      "música regional",
-      "música regional mexicana",
-      "música tradicional mexicana",
-      "música y noticias",
-      "norteamérica",
-      "noticias",
-      "noticias cortas",
-      "noticias en español",
-      "noticias locales",
-      "noticias nacionales e internacionales",
-      "noticias opinion",
-      "noticias y comentarios",
-      "noticias y música",
-      "oaxaca",
-      "radio",
-      "radio hablada",
-      "radiópolis"
-    ],
-    "homepage": "https://wradio.com.mx/",
-    "favicon": "https://i.postimg.cc/85ZnjCTJ/wradio985.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-13T02:14:13Z"
-  },
-  {
     "id": "awb_c87419ed1f5f71edcda1",
     "name": "99.1 Exa FM (San Juan del Río) - 99.1 FM - XHVI-FM - San Juan del Río, Querétaro",
     "country": "MX",
@@ -12876,35 +12798,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:57:38Z"
-  },
-  {
-    "id": "awb_61a6a5c3dfc783c121aa",
-    "name": "Altermedia Network",
-    "country": "MX",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "80s",
-      "90s",
-      "clásicos en español",
-      "hits",
-      "music",
-      "musica",
-      "rock en español",
-      "rock en ingles"
-    ],
-    "homepage": "https://altermedianetwork.com/",
-    "favicon": "https://altermedianetwork.com/wp-content/uploads/2023/09/AMNnew-2048x504.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:09:18Z"
   },
   {
     "id": "awb_1813cd452ca9dcbf6562",
@@ -17786,20 +17679,6 @@
     "updatedAt": "2026-03-23T06:46:28Z"
   },
   {
-    "id": "awb_efd0acef42949b201008",
-    "name": "Cuellar Podcaster Radio",
-    "country": "MX",
-    "subdivision": "Pachuca, Hidalgo",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://cuellarpodcaster.com/",
-    "favicon": "https://cuellarpodcaster.com/assets/images/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-10T15:55:31Z"
-  },
-  {
     "id": "awb_d168398d3ab046b701e3",
     "name": "Cumbia - La Musica Que Nos Gusta",
     "country": "MX",
@@ -19586,6 +19465,52 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-16T12:15:46Z"
+  },
+  {
+    "id": "awb_8cddef1769fafe7739ba",
+    "name": "EL VIEJÓN 98.3 (San Pedro) - 98.3 FM - XHBF-FM - GPS Media - San Pedro, Coahuila",
+    "country": "MX",
+    "subdivision": "San Pedro, Coahuila",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "98.3 fm",
+      "américa",
+      "coahuila",
+      "entretenimiento",
+      "español",
+      "estación",
+      "fm",
+      "gps media",
+      "latinoamérica",
+      "mexican music",
+      "moi merino",
+      "music",
+      "méxico",
+      "música",
+      "música del recuerdo",
+      "música en español",
+      "música mexicana",
+      "música popular mexicana",
+      "música regional",
+      "música regional mexicana",
+      "música tradicional mexicana",
+      "norteamérica",
+      "radio",
+      "regional",
+      "regional mexican",
+      "regional mexicana",
+      "regional music",
+      "san pedro coahuila",
+      "traditional mexican music"
+    ],
+    "homepage": "https://gpsmedia.com.mx/viejonsp/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/746/la-poderosa-983-fm.1b5f0b73.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T08:18:44Z"
   },
   {
     "id": "awb_e2b380abcf5159b10a51",
@@ -23036,7 +22961,7 @@
     "id": "awb_0870e60e07cdc790b667",
     "name": "Exosfera Radio",
     "country": "MX",
-    "subdivision": "Mexico City",
+    "subdivision": "Ciudad de México",
     "languages": [
       "es"
     ],
@@ -23053,7 +22978,7 @@
       "rock"
     ],
     "homepage": "https://exosferaradio.com/",
-    "favicon": "https://exosferaradio.com/logo.png",
+    "favicon": "https://exosferaradio.com/image/logo-1200.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-10T02:36:18Z"
@@ -27932,54 +27857,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-23T18:55:25Z"
-  },
-  {
-    "id": "awb_e67524ff31e867fa6e29",
-    "name": "La Bonita del Norte (Río Grande) - 92.7 FM - XHPRGZ-FM - Comunicaciones JFJ - Río Grande, Zacatecas",
-    "country": "MX",
-    "subdivision": "Zacatecas",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "92.7 fm",
-      "américa",
-      "comunicaciones jfj",
-      "estación",
-      "fm",
-      "la bonita del norte",
-      "latinoamérica",
-      "local music",
-      "local news",
-      "local radio",
-      "mexican music",
-      "moi merino",
-      "méxico",
-      "música mexicana",
-      "música popular mexicana",
-      "música regional",
-      "música regional mexicana",
-      "música tradicional mexicana",
-      "norteamérica",
-      "norteña",
-      "noticias locales",
-      "radio",
-      "regional",
-      "regional mexican",
-      "regional mexicana",
-      "regional music",
-      "río grande",
-      "traditional mexican music",
-      "zacatecas"
-    ],
-    "homepage": "https://www.comunicacionesjfj.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:14:52Z"
   },
   {
     "id": "awb_e79701962be45a604826",
@@ -45544,27 +45421,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_7ae525cdc70baaf8021e",
-    "name": "Mix 106.5",
-    "country": "MX",
-    "subdivision": "Ciudad de México",
-    "languages": [],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "high energy",
-      "pop",
-      "rock"
-    ],
-    "homepage": "https://mixfm.mx/",
-    "favicon": "https://www.frecuenciamexico.com/imgNueva/thumb__600x300fb149.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-11T00:53:05Z"
-  },
-  {
     "id": "awb_a161a39ba8f6950419d6",
     "name": "MIX 90.1 (Toluca) - 90.1 FM - XHENO-FM - Grupo ACIR - Toluca, Estado de México",
     "country": "MX",
@@ -48986,7 +48842,7 @@
     "homepage": "https://lapecera02.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-11-03T03:03:22Z"
   },
   {
@@ -52064,6 +51920,23 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:39:47Z"
+  },
+  {
+    "id": "awb_d3e730937fa5e16b17cf",
+    "name": "radio indecente",
+    "country": "MX",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "crossover",
+      "variada"
+    ],
+    "homepage": "https://legendary-games.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-09-05T23:13:26Z"
   },
   {
     "id": "awb_7f13c15e58061cf27a9a",
@@ -56063,23 +55936,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-20T01:46:14Z"
-  },
-  {
-    "id": "awb_7bffe590f9ece39e1ae9",
-    "name": "Simja Torah Radio",
-    "country": "MX",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "biblia",
-      "litoral"
-    ],
-    "homepage": "https://gozoypaz.mx/",
-    "favicon": "https://gozoypaz.mx/wp-content/uploads/2023/06/LOGOGP.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_9a57bde0d3b4a52dc2fe",

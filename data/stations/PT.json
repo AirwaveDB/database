@@ -1099,7 +1099,7 @@
     "id": "awb_024ab1a6c2712c886805",
     "name": "Gongas Radio",
     "country": "PT",
-    "subdivision": "cascais",
+    "subdivision": "cascaos",
     "languages": [
       "en"
     ],
@@ -3755,7 +3755,7 @@
     "favicon": "https://meiodomato.com/static/img/logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T08:05:02Z"
+    "updatedAt": "2026-11-11T23:01:51Z"
   },
   {
     "id": "awb_cf1d912566dd6adad4f8",
@@ -4983,7 +4983,7 @@
     "homepage": "https://radiotagide.pt/",
     "favicon": "https://radiotagide.pt/wp-content/uploads/2022/04/cropped-SIMBOLO_TAGIDE-32x32.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-11-02T11:19:50Z"
   },
   {
@@ -5953,15 +5953,13 @@
       "rock"
     ],
     "tags": [
-      "electric",
-      "groove",
       "pop",
       "rock"
     ],
     "homepage": "https://rua.pt/",
-    "favicon": "https://rua.pt/wp-content/uploads/2021/10/cropped-favicon-270x270.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -6047,25 +6045,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:34:41Z"
-  },
-  {
-    "id": "awb_32c70333fee83ed6ec72",
-    "name": "Smart Cap Code Radio",
-    "country": "PT",
-    "subdivision": "Viseu",
-    "languages": [
-      "pt"
-    ],
-    "categories": [],
-    "tags": [
-      "local",
-      "viseu"
-    ],
-    "homepage": "https://ouvirradios.pt/102138-smart-cap-code-radio.html",
-    "favicon": "https://cdn.radoxo.com/images/portugal/smart-cap-code-radio.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T20:09:48Z"
   },
   {
     "id": "awb_c0d6a4eec1fc4529bafb",

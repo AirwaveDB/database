@@ -449,7 +449,13 @@
     "name": "Radio Habana Cuba 102.5 MHz",
     "country": "CU",
     "subdivision": "La Habana",
-    "languages": [],
+    "languages": [
+      "en",
+      "eo",
+      "es",
+      "fr",
+      "pt"
+    ],
     "categories": [
       "news",
       "sports"
@@ -472,7 +478,7 @@
     "favicon": "https://static2.mytuner.mobi/media/tvos_radios/wBFBCeE72A.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-10T22:42:01Z"
+    "updatedAt": "2026-11-11T21:54:07Z"
   },
   {
     "id": "awb_0e05f06bba4430582c9b",

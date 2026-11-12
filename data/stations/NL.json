@@ -194,7 +194,7 @@
     "favicon": "https://meta.1zwolle.nl/logos/64x64.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T14:42:32Z"
+    "updatedAt": "2026-11-12T04:43:24Z"
   },
   {
     "id": "awb_3861f863ae11d5bbecf3",
@@ -843,7 +843,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T11:55:04Z"
+    "updatedAt": "2026-11-12T03:58:07Z"
   },
   {
     "id": "awb_adbe00e0ff15eab162bf",
@@ -865,7 +865,7 @@
     "favicon": "https://forums.ah.fm/data/assets/logo/favicon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T13:37:48Z"
+    "updatedAt": "2026-11-12T08:25:07Z"
   },
   {
     "id": "awb_b15789c95ae038b00045",
@@ -1456,7 +1456,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T10:10:07Z"
+    "updatedAt": "2026-11-12T08:27:43Z"
   },
   {
     "id": "awb_77432b1c1f3cfc4d495b",
@@ -2064,8 +2064,8 @@
     "homepage": "https://centrumradio.eu/",
     "favicon": "https://centrumradio.eu/wp-content/uploads/2016/03/CentrumRadio_Fulllogo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T07:03:15Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:16:26Z"
   },
   {
     "id": "awb_9996fc4e773fd6dcf8f5",
@@ -3278,7 +3278,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-06-28T21:32:17Z"
+    "updatedAt": "2026-11-12T04:23:45Z"
   },
   {
     "id": "awb_a62fc9864329931ec94f",
@@ -3706,20 +3706,20 @@
     "country": "NL",
     "subdivision": "Utrecht, Utrecht",
     "languages": [
+      "en",
       "nl"
     ],
     "categories": [
       "pop"
     ],
     "tags": [
-      "chr",
       "pop"
     ],
     "homepage": "https://domstadradio.nl/",
-    "favicon": "https://domstadradio.nl/wp-content/uploads/2024/04/Logo_modern_trans_wit.png",
+    "favicon": "https://domstadradio.nl/uploads/1790411210483-10406851.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-26T06:12:20Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T00:13:53Z"
   },
   {
     "id": "awb_c9c8735de75057515c4d",
@@ -3773,6 +3773,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_ac6783324eab2f62d99b",
+    "name": "Draaiorgel Radio",
+    "country": "NL",
+    "subdivision": "Friesland",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://draaiorgel-radio.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T19:01:49Z"
   },
   {
     "id": "awb_de319fa255baa388aa0b",
@@ -4829,7 +4843,7 @@
     "favicon": "https://glowfm.nl/favicon.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-06T16:51:27Z"
+    "updatedAt": "2026-11-11T23:50:38Z"
   },
   {
     "id": "awb_a0bd610c0db6d36ad5e5",
@@ -5456,7 +5470,7 @@
     "favicon": "https://www.hardcoreradio.nl/wp-content/themes/hardcore-radio/static/images/favicon/apple-touch-icon.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-07T02:14:01Z"
+    "updatedAt": "2026-11-12T05:32:53Z"
   },
   {
     "id": "awb_ab0e719d2b480819273c",
@@ -5538,21 +5552,28 @@
   },
   {
     "id": "awb_429c48729c0c652dd554",
-    "name": "Henk's Streaming Audio",
+    "name": "Henk's Streaming Audio.",
     "country": "NL",
     "subdivision": null,
     "languages": [
       "nl"
     ],
-    "categories": [],
-    "tags": [
-      "my most favorites on this channel."
+    "categories": [
+      "folk"
     ],
-    "homepage": "https://www.henksplace.nl/hsa/skin/HSABanner1376x768.jpg",
+    "tags": [
+      "dutch",
+      "dutch folk",
+      "easy listening",
+      "evergreens",
+      "instrumentals",
+      "popular"
+    ],
+    "homepage": "https://home.henksplace.nl:8443/HSA",
     "favicon": "https://www.henksplace.nl/hsa/skin/HSABanner1376x768.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-07T03:03:26Z"
+    "updatedAt": "2026-11-12T07:59:35Z"
   },
   {
     "id": "awb_db7eacfb90b392bf8d46",
@@ -5634,27 +5655,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_4e0005eac8f05291a102",
-    "name": "Hi On Line Radio - Gold",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "nl"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "oldies"
-    ],
-    "homepage": "https://www.hionline.eu/gold/",
-    "favicon": "https://www.hionline.eu/wp-content/uploads/2015/11/cropped-radio-2.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-29T14:04:29Z"
   },
   {
     "id": "awb_6d99e8d444056bcb7721",
@@ -6121,28 +6121,6 @@
     "updatedAt": "2026-01-15T03:16:53Z"
   },
   {
-    "id": "awb_12632869329b31e8e1cc",
-    "name": "House Classics",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "dance",
-      "house",
-      "oldskool"
-    ],
-    "homepage": "https://www.houseclassics.eu/",
-    "favicon": "https://assets.clrd.net/uploads/logos/autodj/01a087a1-c80e-7966-ae65-d5eeef63ee57/8399a720-0d10-4b3f-90b1-1d8d39d4c7cf.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-11T22:45:13Z"
-  },
-  {
     "id": "awb_3c7b85b4067427e37522",
     "name": "https://www.openstageradio.eu/",
     "country": "NL",
@@ -6369,7 +6347,7 @@
     "favicon": "https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T14:21:17Z"
+    "updatedAt": "2026-11-12T04:57:56Z"
   },
   {
     "id": "awb_ed5ab2ed3096970a5be7",
@@ -7390,7 +7368,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://kink.nl/",
-    "favicon": "https://kink.nl/static/apple-touch-icon.png",
+    "favicon": "https://kink.nl/static/kink_x2.gif",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -7865,8 +7843,8 @@
       "pop",
       "top 40"
     ],
-    "homepage": "https://www.langstraatmedia.nl/langstraat-fm/",
-    "favicon": "https://www.langstraatmedia.nl/logos/LangstraatFM.png",
+    "homepage": "https://www.langstraatmedia.nl/",
+    "favicon": "https://www.langstraatmedia.nl/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-18T15:42:14Z"
@@ -9015,20 +8993,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:16:54Z"
-  },
-  {
-    "id": "awb_7f3fdd71396259d80ab2",
-    "name": "Muziekteam",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.muziekteam.nl/",
-    "favicon": "https://www.muziekteam.nl/images/lup%20header%20nieuw.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-03T12:27:50Z"
   },
   {
     "id": "awb_0bd1bf98ce92e4183a56",
@@ -10551,6 +10515,7 @@
     "country": "NL",
     "subdivision": "Zuid-Holland, Rotterdam",
     "languages": [
+      "en",
       "nl"
     ],
     "categories": [
@@ -10566,7 +10531,7 @@
     "favicon": "https://www.only80sradio.nl/favicon.ico",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-01-15T02:06:33Z"
+    "updatedAt": "2026-11-12T08:26:39Z"
   },
   {
     "id": "awb_cb842c704736ac1b7259",
@@ -10990,32 +10955,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_a66254e8a65a682edc64",
-    "name": "Pinguin Radio",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "nl"
-    ],
-    "categories": [
-      "community",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "alternative rock",
-      "community radio",
-      "indie pop",
-      "pinguinradio"
-    ],
-    "homepage": "https://pinguinradio.com/player/pinguin-radio",
-    "favicon": "https://pinguinradio.com/dist/images/content/p-radio.jpg",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:14:13Z"
   },
   {
     "id": "awb_bb31b0614af3af5390ba",
@@ -14720,22 +14659,14 @@
     "country": "NL",
     "subdivision": null,
     "languages": [],
-    "categories": [
-      "folk"
-    ],
+    "categories": [],
     "tags": [
-      "alternative",
-      "dutch",
-      "folk music",
-      "hollands",
-      "nederlandstalig",
-      "pirate radio",
-      "piratenhits"
+      "alternative"
     ],
     "homepage": "https://radioregenboog.nl/",
-    "favicon": "https://radioregenboog.nl/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -15468,7 +15399,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:13:03Z"
+    "updatedAt": "2026-11-12T02:32:57Z"
   },
   {
     "id": "awb_e3074ef4858b69590d10",
@@ -16696,6 +16627,7 @@
     "country": "NL",
     "subdivision": "heerlen",
     "languages": [
+      "en",
       "nl"
     ],
     "categories": [],
@@ -16707,7 +16639,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-09-29T13:36:04Z"
+    "updatedAt": "2026-11-12T01:20:49Z"
   },
   {
     "id": "awb_b04244ab2cbf94c8d629",
@@ -17019,14 +16951,16 @@
     "name": "RTV4",
     "country": "NL",
     "subdivision": "Dalfsen",
-    "languages": [],
+    "languages": [
+      "nl"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://www.rtv4.nl/",
     "favicon": "https://www.rtv4.nl/wp-content/uploads/2026/10/fac-rtv4.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-11T07:51:48Z"
+    "updatedAt": "2026-11-11T22:55:59Z"
   },
   {
     "id": "awb_344f543ed5bb6dabd003",
@@ -18020,6 +17954,26 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_94dd897fe0f8d0cc1839",
+    "name": "Sparkradio",
+    "country": "NL",
+    "subdivision": "Zuid Holland",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "charts",
+      "classics",
+      "various music"
+    ],
+    "homepage": "https://sparkradio.nl/",
+    "favicon": "https://drive.google.com/file/d/1d2VZ0SvY5pGfgYkWviHIDy_Lon4iGY3q/view?usp=drive_link",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:46:26Z"
+  },
+  {
     "id": "awb_a82aec2b861dca60f19a",
     "name": "Speedy",
     "country": "NL",
@@ -18285,7 +18239,7 @@
     "favicon": "https://studio040.nl/favicons/studio_040_favicon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T14:46:27Z"
+    "updatedAt": "2026-11-12T06:29:57Z"
   },
   {
     "id": "awb_949a102148c6cea32e42",
@@ -18421,7 +18375,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T04:00:21Z"
+    "updatedAt": "2026-11-12T00:35:54Z"
   },
   {
     "id": "awb_dd748d6ac2bea7f2fb37",
@@ -19005,20 +18959,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:06:00Z"
-  },
-  {
-    "id": "awb_d4aa7f36fa1f8a646198",
-    "name": "U luistert naar www.muziekteam.nl voor de beste piraten hits",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://muziekteam.nl/",
-    "favicon": "https://muziekteam.nl/images/rrrr4.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-24T15:49:10Z"
   },
   {
     "id": "awb_9ae9717e4b257e189fb2",
@@ -19995,11 +19935,11 @@
       "80s",
       "classics"
     ],
-    "homepage": "https://xerosradio.pages.dev/",
+    "homepage": "https://www.xeros-radio.nl/",
     "favicon": "https://res.cloudinary.com/xerosradio/image/upload/f_webp,q_auto/XerosRadio_Logo_Classics",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T15:22:54Z"
+    "updatedAt": "2026-11-12T00:06:17Z"
   },
   {
     "id": "awb_3c47968d3943638dcee1",
@@ -20015,11 +19955,11 @@
     "tags": [
       "top 40"
     ],
-    "homepage": "https://xerosradio.pages.dev/",
+    "homepage": "https://www.xeros-radio.nl/",
     "favicon": "https://res.cloudinary.com/xerosradio/image/upload/f_webp,q_auto/XerosRadio_Logo_Top40",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T10:11:26Z"
+    "updatedAt": "2026-11-12T03:43:34Z"
   },
   {
     "id": "awb_6dc6c02582013f561be5",

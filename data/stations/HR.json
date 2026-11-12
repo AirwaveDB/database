@@ -2469,6 +2469,22 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_c0a25242ef4210bc8d1a",
+    "name": "Radio Dalmacija",
+    "country": "HR",
+    "subdivision": "Splitsko-Dalmatinska",
+    "languages": [
+      "hr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiodalmacija.hr/",
+    "favicon": "https://radiodalmacija.hr/wp-content/uploads/2023/10/cropped-favicon-32x32.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:56:24Z"
+  },
+  {
     "id": "awb_3e14323074f92bdebb5d",
     "name": "Radio Dalmacija - Furešta",
     "country": "HR",
@@ -2684,6 +2700,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:37:06Z"
+  },
+  {
+    "id": "awb_d0560d7fa8cd3e8d7b3c",
+    "name": "Radio Imotski",
+    "country": "HR",
+    "subdivision": "Splitsko Dalmatinska",
+    "languages": [
+      "hr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radioimotski.hr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:50Z"
   },
   {
     "id": "awb_6bbfdea7bef0a8c5b585",
@@ -3512,6 +3544,30 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_076eba861a343e4a09d6",
+    "name": "Radio Tvornica Zagreb",
+    "country": "HR",
+    "subdivision": "Zagreb",
+    "languages": [
+      "hr"
+    ],
+    "categories": [
+      "blues",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "blues",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.radiotvornica.hr/",
+    "favicon": "https://www.radiotvornica.hr/images/_theme/RT-logo.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:57Z"
   },
   {
     "id": "awb_d4f075c6ca92b699d6ba",

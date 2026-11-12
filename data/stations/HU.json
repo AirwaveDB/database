@@ -1874,31 +1874,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_4295de9803b3acde5581",
-    "name": "Duna World Rádió",
-    "country": "HU",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "duna média",
-      "news",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "http://www.mediaklikk.hu/dunaworldradio/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/hu/thumb/5/56/DW_radio.png/250px-DW_radio.png",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:12:34Z"
-  },
-  {
     "id": "awb_9282c76cbf255209b8ba",
     "name": "Élő Víz Rádió - Living Water Radio",
     "country": "HU",
@@ -1977,7 +1952,9 @@
     "name": "FluxWave Radio",
     "country": "HU",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [
       "variety",
@@ -1988,7 +1965,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T00:35:50Z"
   },
   {
     "id": "awb_d989c8690e0d16f3579b",
@@ -2501,7 +2478,7 @@
     "favicon": "https://jazzy.hu/apple-icon-180x180.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-05T23:08:58Z"
+    "updatedAt": "2026-11-12T00:38:16Z"
   },
   {
     "id": "awb_9004082bf7afd465323e",
@@ -2523,7 +2500,7 @@
     "favicon": "https://jazzy-backend-prod.melkweg.hu/jazzy-borito-fallback-cool.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-07T01:21:40Z"
+    "updatedAt": "2026-11-12T08:01:31Z"
   },
   {
     "id": "awb_7583c59f1cc4b438b6f8",
@@ -2545,7 +2522,7 @@
     "favicon": "https://jazzy-backend-prod.melkweg.hu/jazzy-borito-fallback-groove.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-07T02:14:01Z"
+    "updatedAt": "2026-11-12T04:11:32Z"
   },
   {
     "id": "awb_50c61d3acc5429ffbd7c",
@@ -2568,7 +2545,7 @@
     "favicon": "https://jazzy-backend-prod.melkweg.hu/jazzy-borito-fallback-soul.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T08:09:16Z"
+    "updatedAt": "2026-11-12T03:29:53Z"
   },
   {
     "id": "awb_c39bb1b4d03d4c808320",
@@ -3466,20 +3443,12 @@
     "languages": [
       "hu"
     ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "public radio",
-      "talk"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://mediaklikk.hu/dunaworldradio/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/hu/5/56/DW_radio.png",
-    "type": "public",
-    "sourceCount": 2,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3510,21 +3479,15 @@
       "hu"
     ],
     "categories": [
-      "pop",
-      "sports",
-      "talk"
+      "pop"
     ],
     "tags": [
-      "entertainment",
-      "pop",
-      "sport",
-      "sports",
-      "talk"
+      "pop"
     ],
     "homepage": "https://www.nemzetisport.hu/",
-    "favicon": "https://netradio.online/files/styles/180/public/logo/nemzeti-sportradio.jpg?itok=kDexZ43P",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3533,16 +3496,12 @@
     "country": "HU",
     "subdivision": "Budapest",
     "languages": [],
-    "categories": [
-      "sports"
-    ],
-    "tags": [
-      "sports"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://m4sport.hu/musor",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5183,20 +5142,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_31b58a664a56e701f14a",
-    "name": "RádióX",
-    "country": "HU",
-    "subdivision": "Budapest",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiox.hu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-09T16:32:31Z"
-  },
-  {
     "id": "awb_4b704d98e705028e6d16",
     "name": "RadiOzora",
     "country": "HU",
@@ -5289,7 +5234,7 @@
     "favicon": "https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/android-icon-192x192.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T07:27:46Z"
+    "updatedAt": "2026-11-12T02:10:01Z"
   },
   {
     "id": "awb_567caffee131eebf5781",

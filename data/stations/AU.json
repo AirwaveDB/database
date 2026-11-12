@@ -2328,6 +2328,22 @@
     "updatedAt": "2026-08-15T14:56:28Z"
   },
   {
+    "id": "awb_2212f378c215c41bfe68",
+    "name": "3KND Kool 'N' Deadly - 1503 AM",
+    "country": "AU",
+    "subdivision": "Melbourne VIC",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.3knd.org.au/",
+    "favicon": "https://static.wixstatic.com/media/dd7fa8_a4500b7de9ea4d55a9b2bea6bb24f0f2~mv2.jpg/v1/fill/w_1332,h_768,al_c/dd7fa8_a4500b7de9ea4d55a9b2bea6bb24f0f2~mv2.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-07-03T11:57:30Z"
+  },
+  {
     "id": "awb_7710f6e52daa657685ed",
     "name": "3MBS - Melbourne, 103.5 MHz FM",
     "country": "AU",
@@ -3141,7 +3157,9 @@
     "name": "4ZZZ Digital",
     "country": "AU",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "community"
     ],
@@ -3152,7 +3170,7 @@
     "favicon": null,
     "type": "community",
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T04:44:19Z"
   },
   {
     "id": "awb_ec58754cf6b1071ebe0f",
@@ -3706,7 +3724,7 @@
     "favicon": "https://terminal-dystopia.com/images/radio.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T22:01:44Z"
+    "updatedAt": "2026-11-12T07:17:44Z"
   },
   {
     "id": "awb_8b6bb977e85c1c6bf113",
@@ -8359,7 +8377,7 @@
     "favicon": "https://aspradio.au/static/uploads/browser_icon/original.1709873524.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T20:22:03Z"
+    "updatedAt": "2026-11-11T21:56:23Z"
   },
   {
     "id": "awb_a1ad733d531b36b1afea",
@@ -8429,7 +8447,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Internet_Archive_logo_and_wordmark.svg/1280px-Internet_Archive_logo_and_wordmark.svg.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-07-31T03:04:29Z"
+    "updatedAt": "2026-11-11T23:45:57Z"
   },
   {
     "id": "awb_df45fee2d80c0d114fcb",
@@ -15037,6 +15055,24 @@
     "updatedAt": "2026-01-15T05:03:36Z"
   },
   {
+    "id": "awb_40be0d651037a3564af6",
+    "name": "Australian Digital Radio Network - Usher (MP3)",
+    "country": "AU",
+    "subdivision": "Sydney NSW",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "usher"
+    ],
+    "homepage": "http://www.australiandigitalradio.com/",
+    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T08:10:11Z"
+  },
+  {
     "id": "awb_b8f614503e84b3043672",
     "name": "Australian Digital Radio Network - Van Halen (MP3)",
     "country": "AU",
@@ -18801,10 +18837,10 @@
       "sikh"
     ],
     "homepage": "http://harmanradio.com/",
-    "favicon": null,
+    "favicon": "https://harmanradio.com/webradio/harman_cover.jpg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:27:20Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-27T07:17:54Z"
   },
   {
     "id": "awb_c22f62c501ed91af5974",
@@ -20171,7 +20207,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.kooriradio.com/",
+    "homepage": "https://kooriradio.com/",
     "favicon": "https://www.kooriradio.com/wp-content/uploads/2024/09/cropped-Koori_Radio_logo-192x192.png",
     "type": null,
     "sourceCount": 2,
@@ -27549,7 +27585,9 @@
     "name": "Samadhi HiFI",
     "country": "AU",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "ambient"
     ],
@@ -27561,7 +27599,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T06:12:15Z"
   },
   {
     "id": "awb_adcecb9b578d809b38fc",

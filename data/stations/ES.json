@@ -581,7 +581,8 @@
     "country": "ES",
     "subdivision": "Alicante",
     "languages": [
-      "en"
+      "en",
+      "es"
     ],
     "categories": [
       "oldies"
@@ -596,7 +597,7 @@
     "favicon": "https://dbs.radioline.fr/pictures/radio_b63e9690e33008aef26971db4c08613a/logo600.jpg",
     "type": "internet",
     "sourceCount": 1,
-    "updatedAt": "2026-09-29T11:34:33Z"
+    "updatedAt": "2026-11-12T05:36:35Z"
   },
   {
     "id": "awb_c1214bedf0ea041d414e",
@@ -5087,20 +5088,6 @@
     "updatedAt": "2026-01-15T06:05:36Z"
   },
   {
-    "id": "awb_d464d0faf130b40765c0",
-    "name": "Costa Del Mar",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://cdm-radio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_09b42db93a610621c16a",
     "name": "Costa del Mar - Chillout",
     "country": "ES",
@@ -5396,7 +5383,7 @@
       "hardstyle",
       "music"
     ],
-    "homepage": "https://decibeliafm.es/web/",
+    "homepage": "https://decibeliafm.es/",
     "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
     "type": null,
     "sourceCount": 2,
@@ -5407,7 +5394,9 @@
     "name": "Deckchair FM",
     "country": "ES",
     "subdivision": "Canary Islands",
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "oldies"
     ],
@@ -5422,7 +5411,7 @@
     "favicon": "https://deckchairfm.com/brand/icon-512.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-10T23:32:31Z"
+    "updatedAt": "2026-11-11T22:55:56Z"
   },
   {
     "id": "awb_2a7c62b341bd3236a6b8",
@@ -5969,7 +5958,13 @@
     "name": "EDM Festival - Online Radio",
     "country": "ES",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ru"
+    ],
     "categories": [
       "electronic"
     ],
@@ -5980,7 +5975,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "updatedAt": "2026-11-12T04:13:51Z"
   },
   {
     "id": "awb_94d01b433903a2b34ed7",
@@ -7604,7 +7599,7 @@
     "favicon": "https://freefmworld.com/assets/img/freefmworld-logo-oficial.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-01T22:12:44Z"
+    "updatedAt": "2026-11-12T00:35:51Z"
   },
   {
     "id": "awb_9460f1920da093fb7d9a",
@@ -8229,6 +8224,8 @@
     "country": "ES",
     "subdivision": "Illes Balears",
     "languages": [
+      "af",
+      "en",
       "es"
     ],
     "categories": [
@@ -8253,7 +8250,7 @@
     "favicon": "https://www.hits1radio.com/wp-content/uploads/2019/03/1024.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T05:53:12Z"
   },
   {
     "id": "awb_bea9eea3d656d6c1fedb",
@@ -8469,7 +8466,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T23:00:34Z"
+    "updatedAt": "2026-11-12T04:00:43Z"
   },
   {
     "id": "awb_1a0d5615e13b0cbd99ad",
@@ -11487,90 +11484,6 @@
     "updatedAt": "2026-01-14T22:54:08Z"
   },
   {
-    "id": "awb_65027a347c7290eff01f",
-    "name": "MDT Radio",
-    "country": "ES",
-    "subdivision": "Comunitat Valenciana",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mdtradio.com/",
-    "favicon": "https://mdtradio.com/wp-content/uploads/2022/11/logowebok.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_b51212c9e8058b8d86c1",
-    "name": "MDT RADIO Alicante 90.4 FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mdtradio.com/",
-    "favicon": "https://mdtradio.com/wp-content/uploads/2022/11/logobanner.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_5463a4e2dd013c56185c",
-    "name": "MDT RADIO Castellón 102.4 FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mdtradio.com/",
-    "favicon": "https://mdtradio.com/wp-content/uploads/2022/11/logobanner.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_4a26ee2a311c0a77792e",
-    "name": "MDT RADIO Madrid DAB+",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mdtradio.com/",
-    "favicon": "https://mdtradio.com/wp-content/uploads/2022/11/logobanner.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_4ff0ae0b095147ce27b7",
-    "name": "MDT RADIO Murcia 97.1 FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mdtradio.com/",
-    "favicon": "https://mdtradio.com/wp-content/uploads/2022/11/logobanner.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_32d5ac5fde31efafbcba",
-    "name": "MDT RADIO Valencia 107.3 FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://mdtradio.com/",
-    "favicon": "https://mdtradio.com/wp-content/uploads/2022/11/logobanner.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_ef5ecf436aa32ff0daba",
     "name": "Medea Fm Asturias",
     "country": "ES",
@@ -11705,7 +11618,7 @@
     "favicon": "https://miamigoradio.es/favicon.ico",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T09:14:15Z"
   },
   {
     "id": "awb_7a1e850212bc1a8979ff",
@@ -13577,7 +13490,13 @@
     "name": "Original EDM FESTIVAL",
     "country": "ES",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ru"
+    ],
     "categories": [
       "electronic"
     ],
@@ -13589,7 +13508,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T08:07:36Z"
   },
   {
     "id": "awb_f770316a9f10bbc31f66",
@@ -14155,7 +14074,7 @@
     "favicon": "https://punkirratia.net/punkirratia.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T20:47:12Z"
+    "updatedAt": "2026-11-12T05:34:32Z"
   },
   {
     "id": "awb_2d748205b8cd10558fa7",
@@ -15448,7 +15367,9 @@
     "name": "radio Control P",
     "country": "ES",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [
       "entretenimiento"
@@ -15457,7 +15378,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-11T01:09:00Z"
+    "updatedAt": "2026-11-11T22:55:52Z"
   },
   {
     "id": "awb_2f6abc425326096d38e2",
@@ -19705,20 +19626,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_4d6386649722a393a83d",
-    "name": "RadioBoss",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_52ea626e297e31b5fa11",
     "name": "Radiocable",
     "country": "ES",
@@ -22404,7 +22311,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-07T01:15:23Z"
+    "updatedAt": "2026-11-12T08:12:33Z"
   },
   {
     "id": "awb_60668b862f76c8a40ef9",
@@ -22901,6 +22808,7 @@
     "country": "ES",
     "subdivision": null,
     "languages": [
+      "en",
       "es"
     ],
     "categories": [],
@@ -22909,7 +22817,7 @@
     "favicon": "https://zonarap.es/img/logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:11:01Z"
+    "updatedAt": "2026-11-11T22:08:46Z"
   },
   {
     "id": "awb_99fef349535ab7e885f0",

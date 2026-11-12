@@ -1402,28 +1402,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_2df964145fdb949b713f",
-    "name": "Ativa FM 105.5",
-    "country": "BR",
-    "subdivision": "Paraná",
-    "languages": [
-      "pt"
-    ],
-    "categories": [],
-    "tags": [
-      "eclética",
-      "entretenimento",
-      "notícias",
-      "popular",
-      "sertanejo"
-    ],
-    "homepage": "https://www.ativafmdv.net.br/",
-    "favicon": "https://platform-upload.cdn-brlogic.com/253238/logo/b3d0d07b0b2e82e89a2cac2248327ed9.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-20T16:46:50Z"
-  },
-  {
     "id": "awb_596273a1b60093c87991",
     "name": "Atlántida",
     "country": "BR",
@@ -1757,7 +1735,7 @@
     "favicon": "https://radio.pevaio.top/static/uploads/album_art.1784866749.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T01:22:57Z"
+    "updatedAt": "2026-11-11T22:22:54Z"
   },
   {
     "id": "awb_fccba9e4f43fcf4b34c2",
@@ -4047,7 +4025,7 @@
     "favicon": "https://redefanfm.com.br/wp-content/uploads/2023/07/favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T19:46:34Z"
+    "updatedAt": "2026-11-12T02:55:18Z"
   },
   {
     "id": "awb_cd2981357d40dbe6e9a3",
@@ -6493,22 +6471,6 @@
     "updatedAt": "2026-08-03T23:12:51Z"
   },
   {
-    "id": "awb_27cfea4af2a44633c51c",
-    "name": "Líder FM Santa Rosa",
-    "country": "BR",
-    "subdivision": "Rio Grande do Sul",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "local information"
-    ],
-    "homepage": "https://femafm.minhawebradio.net/",
-    "favicon": "https://public-rf-upload.minhawebradio.net/40413/fbplayer/3dd42a7cb8afab888a40d4b7bb31e98b.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_caa4ec37d8b7fab6b37f",
     "name": "Liderança FM 105.9",
     "country": "BR",
@@ -6957,7 +6919,9 @@
     "name": "maracutaia.fm",
     "country": "BR",
     "subdivision": "Rio de Janeiro",
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "electronic"
     ],
@@ -6973,7 +6937,7 @@
     "favicon": "https://listen.maracutaia.fm/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T06:09:51Z"
+    "updatedAt": "2026-11-11T22:33:32Z"
   },
   {
     "id": "awb_cb7a6f86baf415a5ca5e",
@@ -9122,22 +9086,6 @@
     "updatedAt": "2026-06-18T21:30:34Z"
   },
   {
-    "id": "awb_119f43c429cc4f0c94a6",
-    "name": "PANORAMA FM 94,9",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "misc"
-    ],
-    "homepage": "https://www.fmpanorama.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:13Z"
-  },
-  {
     "id": "awb_77b708511581766ecc62",
     "name": "Pão Diário",
     "country": "BR",
@@ -9315,9 +9263,9 @@
     "categories": [],
     "tags": [],
     "homepage": "http://planetareggae.com.br/",
-    "favicon": "https://imgur.com/a/pLiqqim",
+    "favicon": "https://imgur.com/a/7UVUTUB",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-25T00:31:20Z"
   },
   {
@@ -11854,9 +11802,9 @@
   },
   {
     "id": "awb_ed3a2b709ad8b4213973",
-    "name": "RÁDIO BONS TEMPOS FM",
+    "name": "Rádio Bons Tempos FM",
     "country": "BR",
-    "subdivision": "SAO PAULO",
+    "subdivision": "São Paulo",
     "languages": [],
     "categories": [
       "rock"
@@ -11864,7 +11812,7 @@
     "tags": [
       "popo rock"
     ],
-    "homepage": "https://www.radiobonstemposfm.com.br/",
+    "homepage": "http://www.radiobonstemposfm.com.br/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -13133,20 +13081,6 @@
     "updatedAt": "2026-01-15T01:48:00Z"
   },
   {
-    "id": "awb_ece14a9ba81df03cc7dc",
-    "name": "Radio CNN",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiocnn.com.br/",
-    "favicon": "https://radiocnn.com.br/admin/assets/img/logo.png?February192025646am12",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:44Z"
-  },
-  {
     "id": "awb_9bafd230906bdb6fa1e2",
     "name": "Rádio CNS",
     "country": "BR",
@@ -13212,7 +13146,7 @@
     "favicon": "https://radioaconchego.org/files/2015/03/cropped-cropped-5617042203_961643d1a0_o-180x180.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-07T02:02:18Z"
+    "updatedAt": "2026-11-12T09:45:58Z"
   },
   {
     "id": "awb_5f174301d3d27e6688ba",
@@ -15806,45 +15740,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_19684f130b461eba5479",
-    "name": "Radio Itapuã Pato Branco",
-    "country": "BR",
-    "subdivision": "Parana",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://superradioitapua.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-10T21:50:45Z"
-  },
-  {
-    "id": "awb_5120d8287ee90faca59e",
-    "name": "Radio Itapuã Pato Branco",
-    "country": "BR",
-    "subdivision": "Parana",
-    "languages": [],
-    "categories": [
-      "hip-hop",
-      "jazz",
-      "rock"
-    ],
-    "tags": [
-      "hip hop",
-      "jazz",
-      "modão",
-      "rap",
-      "rock",
-      "sertanejo"
-    ],
-    "homepage": "http://play.radios.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-10T21:53:56Z"
-  },
-  {
     "id": "awb_89ff2d610a19c5216725",
     "name": "Rádio Itapuí 100.3 FM",
     "country": "BR",
@@ -17461,24 +17356,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-23T20:32:36Z"
-  },
-  {
-    "id": "awb_170ee1f6e4cc2220911f",
-    "name": "Rádio Ministério Cristo Pleno",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "gospel"
-    ],
-    "homepage": "https://01.megadinamica.com:7018/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_7e6644c2897f8612c17a",
@@ -20440,26 +20317,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_e4089dea0c72790edac0",
-    "name": "Rádio T 105,3 FM Ponta Grossa - PR",
-    "country": "BR",
-    "subdivision": "PR",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music",
-      "sertanejo",
-      "sertanejo raiz"
-    ],
-    "homepage": "https://www.radiot.fm/",
-    "favicon": "https://www.radiot.fm/images/logo4.fw.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:13Z"
-  },
-  {
     "id": "awb_9aa20e231fe9bcde7805",
     "name": "Rádio T 88.1 FM Foz",
     "country": "BR",
@@ -21574,6 +21431,31 @@
     "updatedAt": "2026-11-06T17:53:52Z"
   },
   {
+    "id": "awb_26456ddee5fafa91966c",
+    "name": "Rádio Verde Oliva - Manaus (98.3 FM)",
+    "country": "BR",
+    "subdivision": "Amazonas",
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "mpb",
+      "música popular brasileira",
+      "pop",
+      "soft adult contemporary"
+    ],
+    "homepage": "https://www.eb.mil.br/web/central-de-conteudos/radio-verde-oliva",
+    "favicon": "https://www.eb.mil.br/documents/20121/36350/favicon_logo/166a47a3-8e7a-869a-2b36-13682380ac8d",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-06T18:06:24Z"
+  },
+  {
     "id": "awb_fd77264d33c46d0a56b9",
     "name": "Rádio Verde Oliva - Resende",
     "country": "BR",
@@ -22267,7 +22149,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-08-12T15:44:30Z"
+    "updatedAt": "2026-11-12T00:45:42Z"
   },
   {
     "id": "awb_b234cbbfcbc3dde343ed",
@@ -24843,22 +24725,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_37fa71dd8f6e34d88363",
-    "name": "Web Radio Semear, Toritama-PE(WRSTPE)",
-    "country": "BR",
-    "subdivision": "PE",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "webradios"
-    ],
-    "homepage": "https://semeartoritama.top/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-04T15:05:07Z"
   },
   {
     "id": "awb_ad40d2a5fbf60a31e8a2",

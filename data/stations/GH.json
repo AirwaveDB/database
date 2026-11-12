@@ -279,14 +279,17 @@
     "name": "ALLOS FM",
     "country": "GH",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en",
+      "tw"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://listen.radiovexa.com/allos-fm",
     "favicon": "https://listen.radiovexa.com/public/v1/stations/allos-fm/logo",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-08-25T09:00:26Z"
+    "updatedAt": "2026-11-12T04:13:54Z"
   },
   {
     "id": "awb_2b3ce2ab3b55e730cdb1",
@@ -1295,27 +1298,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_2262ac5e696b6eaca44b",
-    "name": "Nyatefe Radio",
-    "country": "GH",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news",
-      "variety"
-    ],
-    "homepage": null,
-    "favicon": "https://cdn.onlineradiobox.com/img/logo/8/93948.v3.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-14T13:13:30Z"
   },
   {
     "id": "awb_55378c0cb83b0012a0f3",

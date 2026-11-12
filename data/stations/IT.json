@@ -2532,7 +2532,7 @@
     "favicon": "https://www.fangoradio.com/img/fango-logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T01:30:02Z"
+    "updatedAt": "2026-11-12T03:12:46Z"
   },
   {
     "id": "awb_a4f59c381442b110c95a",
@@ -2824,7 +2824,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://freeradioconselve.it/",
-    "favicon": "https://players.fluidstream.it/Conselve/images/512.jpg",
+    "favicon": "https://ios.fluidstream.it/conselve_v3/fontanabianco.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:30:27Z"
@@ -4358,7 +4358,10 @@
     "subdivision": "Roma",
     "languages": [
       "en",
-      "it"
+      "es",
+      "fr",
+      "it",
+      "ru"
     ],
     "categories": [
       "pop"
@@ -4376,7 +4379,7 @@
     "favicon": "https://mrg.fm/img/italiaradio125.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:17:02Z"
+    "updatedAt": "2026-11-11T23:01:52Z"
   },
   {
     "id": "awb_33cc35fe55ab77682562",
@@ -5757,7 +5760,7 @@
     "favicon": "https://radio.motostorie.blog/static/uploads/motostorie/album_art.1776953816.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T19:14:21Z"
+    "updatedAt": "2026-11-11T22:51:06Z"
   },
   {
     "id": "awb_cd00a94b3489648acdd8",
@@ -6188,7 +6191,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "updatedAt": "2026-11-11T21:47:42Z"
   },
   {
     "id": "awb_c63af7cc6f981ff4bbc5",
@@ -10323,25 +10326,6 @@
     "updatedAt": "2026-10-24T10:12:20Z"
   },
   {
-    "id": "awb_be881519b25a5a98d9c4",
-    "name": "Radio Café",
-    "country": "IT",
-    "subdivision": "Veneto",
-    "languages": [
-      "it"
-    ],
-    "categories": [],
-    "tags": [
-      "padova",
-      "soft music"
-    ],
-    "homepage": "http://www.radiocafe.it/",
-    "favicon": "http://www.radiocafe.it/wp-content/uploads/2021/07/cropped-cafe-180x180.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:07:14Z"
-  },
-  {
     "id": "awb_75426ba3552eadbe9c79",
     "name": "Radio Calabria 27",
     "country": "IT",
@@ -11001,6 +10985,35 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:42:32Z"
+  },
+  {
+    "id": "awb_687bbc7a929cadee90e7",
+    "name": "Radio Charlie",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "blues",
+      "news",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "blues",
+      "classic rock",
+      "news",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "homepage": "https://www.radiocharlie.it/",
+    "favicon": "https://www.radiocharlie.it/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:56:23Z"
   },
   {
     "id": "awb_fe321f00c0f63391806d",
@@ -12480,6 +12493,7 @@
     "country": "IT",
     "subdivision": null,
     "languages": [
+      "en",
       "it"
     ],
     "categories": [
@@ -12507,7 +12521,7 @@
     "favicon": "https://favicon-generator.org/favicon-generator/htdocs/favicons/2025-01-13/a46c8e118c24923aa862f46d62f93152.ico.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T02:41:28Z"
   },
   {
     "id": "awb_352198eb0add55d3b7a1",
@@ -12976,7 +12990,7 @@
     "favicon": "https://erre18.com/wp-content/uploads/2023/08/Logo-Nero.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T04:21:12Z"
+    "updatedAt": "2026-11-12T03:50:13Z"
   },
   {
     "id": "awb_93601bf016f194e90594",
@@ -13813,28 +13827,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-10T15:34:16Z"
-  },
-  {
-    "id": "awb_8bf8dea65c672a59f0c2",
-    "name": "Radio Game Firenze",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [
-      "it"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "golden oldies",
-      "italian oldies",
-      "oldies"
-    ],
-    "homepage": "https://radiogamefirenze.altervista.org/",
-    "favicon": "https://radiogamefirenze.altervista.org/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:59:17Z"
   },
   {
     "id": "awb_3f8989df0bcdb74ba6e8",
@@ -16856,7 +16848,7 @@
     "id": "awb_2ec5014d6733135a428b",
     "name": "Radio Meano",
     "country": "IT",
-    "subdivision": "Belluno",
+    "subdivision": "Veneto",
     "languages": [
       "it"
     ],
@@ -19030,6 +19022,26 @@
     "updatedAt": "2026-01-15T07:33:28Z"
   },
   {
+    "id": "awb_259aeeca4a2ead2f07a1",
+    "name": "Radio Pizzica Station Salento",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "folk"
+    ],
+    "homepage": null,
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvMRJ4mh0WokYQKBwrhWl70_nvjqbDqOtt2dL_Ce1_Zg&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T05:42:06Z"
+  },
+  {
     "id": "awb_f1362bef2ce8364c5772",
     "name": "Radio Planet Music",
     "country": "IT",
@@ -20382,7 +20394,7 @@
     "favicon": "https://radio.motostorie.blog/static/uploads/rvd/album_art.1782297111.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T01:49:42Z"
+    "updatedAt": "2026-11-12T02:01:43Z"
   },
   {
     "id": "awb_fd2288fc2d4673ede4e6",
@@ -21036,6 +21048,22 @@
     "updatedAt": "2026-01-15T05:27:18Z"
   },
   {
+    "id": "awb_45de3a73cf8e6f4dbb99",
+    "name": "Radio Social Music",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiosocialmusic.online/",
+    "favicon": "https://radiosocialmusic.online/images/152x152/29119457/RadioSM_Favicon_512-Q6qilJ5ZJongi_4JSwHN7g-qWWMR6D3_Q4C0rVOceRYEw.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:56Z"
+  },
+  {
     "id": "awb_ecc66c9f9cf5552c8730",
     "name": "Radio Soffio",
     "country": "IT",
@@ -21651,7 +21679,7 @@
     "favicon": "https://www.radiostudio104.com/wp-content/uploads/2025/06/104-logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-07T00:02:41Z"
+    "updatedAt": "2026-11-12T02:16:12Z"
   },
   {
     "id": "awb_ca4a09c821cbf4f08849",
@@ -24228,7 +24256,7 @@
     "favicon": "https://www.rai.it/cropgd/560x292/dl/img/2019/01/07/1280x720_1546854278675_conferenza%20radio1.jpg",
     "type": "public",
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T04:14:26Z"
+    "updatedAt": "2026-11-12T03:21:11Z"
   },
   {
     "id": "awb_f87c08ece781cf0b06ea",
@@ -26757,6 +26785,29 @@
     "updatedAt": "2026-10-22T13:27:25Z"
   },
   {
+    "id": "awb_7f2e0ed45bcfa6366d6b",
+    "name": "RTV Radio Soul",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "it"
+    ],
+    "categories": [],
+    "tags": [
+      "black music",
+      "funk",
+      "motown",
+      "rnb",
+      "soul"
+    ],
+    "homepage": "http://rtvradio.50webs.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:51Z"
+  },
+  {
     "id": "awb_293153723a5b24c106fd",
     "name": "Ruggine",
     "country": "IT",
@@ -27207,7 +27258,7 @@
     "favicon": "https://radiospore.oziosi.org/user/themes/quark/images/logo/logoprova2.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-07T01:08:18Z"
+    "updatedAt": "2026-11-12T05:35:42Z"
   },
   {
     "id": "awb_234d9c2b691f781ed058",
@@ -28011,20 +28062,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_957ebce4acbe602828f2",
-    "name": "TMB DJ RADIO",
-    "country": "IT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://tmbradio.net/",
-    "favicon": "https://tmbradio.net/index_htm_files/9360@2x.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-28T13:40:28Z"
   },
   {
     "id": "awb_c8803f903e8ce32f67a0",

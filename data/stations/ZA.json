@@ -2379,7 +2379,10 @@
     "name": "Rainbow FM",
     "country": "ZA",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "af",
+      "en"
+    ],
     "categories": [
       "religious"
     ],
@@ -2390,7 +2393,7 @@
     "favicon": "https://rainbowfm.co.za/wp-content/uploads/2024/08/cropped-rainbowfmicon-180x180.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
+    "updatedAt": "2026-11-12T07:25:00Z"
   },
   {
     "id": "awb_77cafb52b49160dc06b1",

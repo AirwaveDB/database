@@ -367,6 +367,22 @@
     "updatedAt": "2026-06-17T19:18:43Z"
   },
   {
+    "id": "awb_5cbac4a4ecbeeae6a1bc",
+    "name": "97.2 My Radio FM - Banjarbaru",
+    "country": "ID",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "campursari"
+    ],
+    "homepage": "https://radiostream.novawap.com/",
+    "favicon": "https://i.ibb.co.com/jZy7WctZ/bjb.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-06-16T21:01:41Z"
+  },
+  {
     "id": "awb_7e740b610f4d4326482c",
     "name": "97.9 Insania FM Gorontalo",
     "country": "ID",
@@ -420,7 +436,7 @@
     "favicon": "https://i.imgur.com/Kjo8NzL.jpeg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T18:02:57Z"
+    "updatedAt": "2026-11-12T09:13:20Z"
   },
   {
     "id": "awb_e8ed880361698ae50147",
@@ -690,25 +706,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
-    "id": "awb_678fa811f085c3201c85",
-    "name": "B 104.6 FM",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "id"
-    ],
-    "categories": [],
-    "tags": [
-      "various"
-    ],
-    "homepage": "https://bilitonesefm.com/",
-    "favicon": "https://i.imgur.com/wdzguAM.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-06T09:35:18Z"
   },
   {
     "id": "awb_80c559ba85dc7ee99a53",
@@ -1027,7 +1024,7 @@
     "favicon": "https://i.imgur.com/o0y6tmP.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T08:34:41Z"
+    "updatedAt": "2026-11-12T05:58:49Z"
   },
   {
     "id": "awb_1e22bf1c158461103c56",
@@ -1307,7 +1304,7 @@
     "favicon": "https://i.imgur.com/EewJI7x.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-05T23:58:11Z"
+    "updatedAt": "2026-11-11T21:47:40Z"
   },
   {
     "id": "awb_ce7e9b89b6f44fda444f",
@@ -1471,7 +1468,7 @@
     "favicon": "https://i.imgur.com/jXvNwDm.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T17:58:04Z"
+    "updatedAt": "2026-11-12T09:17:39Z"
   },
   {
     "id": "awb_4d3a97b1c3ed4136a169",
@@ -1709,7 +1706,7 @@
     "favicon": "https://i.imgur.com/HnGOXjC.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-07T00:10:04Z"
+    "updatedAt": "2026-11-12T01:18:41Z"
   },
   {
     "id": "awb_ccb320cb8611008944ad",
@@ -1973,7 +1970,7 @@
     "favicon": "https://www.galuhweb.com/assets/static/img/logo-2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T11:32:51Z"
+    "updatedAt": "2026-11-11T21:56:19Z"
   },
   {
     "id": "awb_e37213354f3a84a87eed",
@@ -2090,24 +2087,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-11-05T06:56:58Z"
-  },
-  {
-    "id": "awb_a19fc035f03e89eb4ea4",
-    "name": "Gen FM",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://radiofm.novawap.com/",
-    "favicon": "https://liveonlineradio.net/wp-content/uploads/2013/12%20/gen-fm-1.Jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-27T21:48:41Z"
   },
   {
     "id": "awb_8dd1073a789ab7fc9c99",
@@ -2393,7 +2372,7 @@
     "favicon": "https://i.imgur.com/ObPAKbZ.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T05:22:52Z"
+    "updatedAt": "2026-11-11T23:24:53Z"
   },
   {
     "id": "awb_6c4f601ec548e532a07b",
@@ -2461,7 +2440,7 @@
   },
   {
     "id": "awb_1e8a7ccbe348e0cd0c7f",
-    "name": "HITZ 91.2 FM",
+    "name": "Hitz 91.2 FM Belitung",
     "country": "ID",
     "subdivision": null,
     "languages": [
@@ -2472,13 +2451,16 @@
       "pop"
     ],
     "tags": [
-      "hits"
+      "hits",
+      "indonesia",
+      "pop",
+      "top 40"
     ],
-    "homepage": "http://www.bilitonesefm.com/",
+    "homepage": "https://hitzfmbelitung.com/",
     "favicon": "https://i.imgur.com/J37C5xS.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T07:08:30Z"
+    "updatedAt": "2026-11-11T22:08:52Z"
   },
   {
     "id": "awb_df29112b697969c754ff",
@@ -2962,10 +2944,6 @@
       "talk"
     ],
     "tags": [
-      "adult contemporary",
-      "contemporary hits radio",
-      "hits",
-      "hot adult contemporary",
       "jazz",
       "music",
       "news",
@@ -2975,7 +2953,7 @@
     "homepage": "https://jak101fm.com/",
     "favicon": "https://jak101fm.com/wp-content/uploads/2020/08/cropped-logo-jak-bar-1-180x180.png",
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 3,
     "updatedAt": "2026-11-05T07:00:39Z"
   },
   {
@@ -3265,33 +3243,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_a28afdf7f2767e867094",
-    "name": "Kis FM 95.1",
-    "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "2000s",
-      "2010s",
-      "90s",
-      "hits",
-      "top hits",
-      "woman",
-      "women"
-    ],
-    "homepage": "https://www.kis951fm.com/",
-    "favicon": "https://www.mahakax.com/wp-content/uploads/2022/06/logo-kisfm.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-09T16:38:58Z"
-  },
-  {
     "id": "awb_04863ec8b743f0f1aed1",
     "name": "KISI FM BOGOR",
     "country": "ID",
@@ -3514,7 +3465,7 @@
     "favicon": "https://i.imgur.com/MIalWN9.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T22:07:03Z"
+    "updatedAt": "2026-11-12T00:43:18Z"
   },
   {
     "id": "awb_4e1b7ed062ccdfe6b27b",
@@ -3608,7 +3559,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s299056/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T16:02:36Z"
+    "updatedAt": "2026-11-12T06:43:14Z"
   },
   {
     "id": "awb_cccecf22e26b64401abf",
@@ -4719,12 +4670,13 @@
     ],
     "tags": [
       "hits",
+      "local music",
       "pop"
     ],
     "homepage": "https://onixradio.id/",
-    "favicon": null,
+    "favicon": "https://onixradio.id/images/onix1.png",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5103,24 +5055,6 @@
     "updatedAt": "2026-05-04T13:10:50Z"
   },
   {
-    "id": "awb_9eae378640633f6c8033",
-    "name": "Pro 5 Makassar",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://radiofm.novawap.com/",
-    "favicon": "https://radio-online.id/assets/image/radio/180/rri5_makassar.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-26T03:00:20Z"
-  },
-  {
     "id": "awb_afda627799fbc97c77fa",
     "name": "Pro1 RRI Makassar",
     "country": "ID",
@@ -5335,14 +5269,21 @@
     "country": "ID",
     "subdivision": "Bali",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
     "tags": [
-      "easy-listening"
+      "easy listening",
+      "easy-listening",
+      "local news",
+      "local radio",
+      "news talk"
     ],
     "homepage": "https://radioarbali.com/",
-    "favicon": null,
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/rb7qsaes7dmq.jpg",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5390,7 +5331,7 @@
     "updatedAt": "2026-06-25T13:59:22Z"
   },
   {
-    "id": "awb_d7d0c2eb69c5e4145ea1",
+    "id": "awb_678fa811f085c3201c85",
     "name": "Radio BFM Belitung",
     "country": "ID",
     "subdivision": null,
@@ -5402,14 +5343,16 @@
       "pop"
     ],
     "tags": [
+      "indonesia",
       "pop",
+      "top 40",
       "top-40"
     ],
     "homepage": "https://bilitonesefm.com/",
-    "favicon": null,
+    "favicon": "https://i.imgur.com/wdzguAM.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-11T22:12:20Z"
   },
   {
     "id": "awb_b4d30dd64280e71f5265",
@@ -5447,7 +5390,7 @@
     "favicon": "https://i.imgur.com/jWiTHyJ.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T11:46:06Z"
+    "updatedAt": "2026-11-12T02:01:39Z"
   },
   {
     "id": "awb_c60d76150d5f2aec1e94",
@@ -5547,7 +5490,7 @@
     "favicon": "https://www.radiobells.com/stations/coolmusicnow.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T22:53:15Z"
+    "updatedAt": "2026-11-12T08:07:39Z"
   },
   {
     "id": "awb_7f66cb01ce02d3ba949b",
@@ -5705,6 +5648,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-30T12:25:52Z"
+  },
+  {
+    "id": "awb_2828fc899824f89f1df3",
+    "name": "Radio Gema Randik",
+    "country": "ID",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://gemarandik.mubakab.go.id/",
+    "favicon": "https://gemarandik.mubakab.go.id/real/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-05-19T14:00:32Z"
   },
   {
     "id": "awb_3b10e63ebde0140dc81e",
@@ -6272,22 +6229,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_eb197978ec0c7bfa1ca1",
-    "name": "Radio Rumah Oma",
-    "country": "ID",
-    "subdivision": "DKI Jakarta",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiorumahoma.com/",
-    "favicon": "https://www.radiorumahoma.com/assets/img/rroblack.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-27T04:02:12Z"
-  },
-  {
     "id": "awb_68d4d4c74869261136d1",
     "name": "RADIO SALVATOR",
     "country": "ID",
@@ -6309,7 +6250,7 @@
     "favicon": "https://radiosalvator.com/wp-content/uploads/2024/06/logo-salvator.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T23:12:17Z"
+    "updatedAt": "2026-11-12T03:18:18Z"
   },
   {
     "id": "awb_c2d735ac339546992d75",
@@ -6416,6 +6357,20 @@
     "updatedAt": "2026-04-18T04:38:57Z"
   },
   {
+    "id": "awb_65d304c0a97a636ecce3",
+    "name": "Radio Suara Banjar",
+    "country": "ID",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rsb.banjarkab.go.id/",
+    "favicon": "https://rsb.banjarkab.go.id/wp-content/uploads/2022/08/cropped-logorsb.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-06-25T13:23:13Z"
+  },
+  {
     "id": "awb_a918ca0fc277f9f4724f",
     "name": "radio suara itmi",
     "country": "ID",
@@ -6456,20 +6411,12 @@
       "id",
       "jv"
     ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "local music",
-      "local news",
-      "local radio",
-      "talk & speech"
-    ],
+    "categories": [],
+    "tags": [],
     "homepage": "https://radioswarasemarangfm.co.id/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrbO3GhqbU6aFrxog5dD_oSs-8f-G-ovTSJamwgi0WANW_DK9EFaALIko&s=10",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -7696,14 +7643,16 @@
     "name": "Singosari FM Brebes (Official Station)",
     "country": "ID",
     "subdivision": "Central Java",
-    "languages": [],
+    "languages": [
+      "id"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://singosarifmbrebes.radiostream123.com/",
     "favicon": "https://drive.google.com/file/d/1uSOTY7C1nDTbWMltHubSjwUUPXssmxQa/view?usp=sharing",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-07T15:15:52Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-07-20T19:02:02Z"
   },
   {
     "id": "awb_df5c44483d72f2e33b67",
@@ -7743,20 +7692,6 @@
     "type": "community",
     "sourceCount": 2,
     "updatedAt": "2026-03-23T04:22:10Z"
-  },
-  {
-    "id": "awb_fd677fef0e1080c82fa1",
-    "name": "Solopos FM",
-    "country": "ID",
-    "subdivision": "Indonesia",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.solopos.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-18T03:07:42Z"
   },
   {
     "id": "awb_6c3882b84cd473ad6e55",
@@ -7986,7 +7921,7 @@
     "favicon": "https://i.imgur.com/mIV5WlL.jpeg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T06:30:08Z"
+    "updatedAt": "2026-11-12T00:18:56Z"
   },
   {
     "id": "awb_993dd59d1cbffa39f541",
@@ -8200,7 +8135,7 @@
     "favicon": "https://i.imgur.com/NV4Irpq.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-05T22:45:46Z"
+    "updatedAt": "2026-11-12T07:07:39Z"
   },
   {
     "id": "awb_d86b73f8c1ad7d637e24",
@@ -8310,7 +8245,7 @@
     "favicon": "https://i.imgur.com/60EsDSg.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T05:38:50Z"
+    "updatedAt": "2026-11-12T08:53:21Z"
   },
   {
     "id": "awb_ee3a569f7205ab5931ca",
@@ -8423,7 +8358,7 @@
     "favicon": "https://i.imgur.com/rRhPIKf.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T11:01:41Z"
+    "updatedAt": "2026-11-12T01:19:42Z"
   },
   {
     "id": "awb_b8df36d5c04e14b698e9",
@@ -8534,9 +8469,9 @@
       "rock"
     ],
     "homepage": "https://therockinlife.com/streaming-bali/",
-    "favicon": null,
+    "favicon": "https://assets-static.therockinlife.com/wp-content/uploads/2024/12/TRL-MUSIC-STREAM-PLAYER-BALI.jpg",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -8998,7 +8933,7 @@
     "favicon": "https://cdn.onlineradiobox.com/img/l/6/94966.v8.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T20:34:38Z"
+    "updatedAt": "2026-11-12T05:56:35Z"
   },
   {
     "id": "awb_b713f398163583e354b8",

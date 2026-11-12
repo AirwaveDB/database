@@ -538,7 +538,8 @@
     "country": "GR",
     "subdivision": "Attiki",
     "languages": [
-      "el"
+      "el",
+      "en"
     ],
     "categories": [
       "folk"
@@ -551,7 +552,7 @@
     "favicon": "https://newageradio.gr/1st_Greek_Folk_FLAC_Radio_2200x2200.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-01T20:17:22Z"
+    "updatedAt": "2026-11-12T02:55:17Z"
   },
   {
     "id": "awb_ff88c2984e68cb5deb3c",
@@ -559,7 +560,8 @@
     "country": "GR",
     "subdivision": "Athens Greece",
     "languages": [
-      "el"
+      "el",
+      "en"
     ],
     "categories": [
       "folk"
@@ -572,7 +574,7 @@
     "favicon": "https://newageradio.gr/1st_Greek_Folk_FLAC_Radio_2200x2200.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-01T18:42:08Z"
+    "updatedAt": "2026-11-12T07:38:08Z"
   },
   {
     "id": "awb_2ebd5cec4ed469737f97",
@@ -4702,6 +4704,20 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_397353ad1f0264dac303",
+    "name": "Cocktail Vibes",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://cocktailvibes.eu/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T15:51:08Z"
+  },
+  {
     "id": "awb_6d06df9188e745379ef7",
     "name": "Coffee Web Radio",
     "country": "GR",
@@ -5186,14 +5202,14 @@
   },
   {
     "id": "awb_6701abcebd45b6846fd2",
-    "name": "D-Code 96.2",
+    "name": "D-Code 96,2",
     "country": "GR",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://962.gr/",
-    "favicon": "https://962.gr/wp-content/uploads/2022/08/dcode-2.png",
+    "favicon": "https://962.gr/wp-content/uploads/2022/08/cropped-Untitled-design-2.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -8340,22 +8356,6 @@
     "updatedAt": "2026-03-07T18:18:39Z"
   },
   {
-    "id": "awb_fb93a36f68ee03144127",
-    "name": "Future Web Radio GR",
-    "country": "GR",
-    "subdivision": "Moschato",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.futurewebradio.gr/",
-    "favicon": "http://www.futurewebradio.gr/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:20:40Z"
-  },
-  {
     "id": "awb_a68e0eadc21cdc2c7af8",
     "name": "FYSTIKI 95.8",
     "country": "GR",
@@ -8732,6 +8732,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_f0bbbe22025e644d56b5",
+    "name": "Geko",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronica",
+      "house",
+      "progressive",
+      "techno"
+    ],
+    "homepage": "https://gekoradio.blogspot.com/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/8c0849ea-d8d8-4a64-93e5-fc3f03bb280b.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T22:55:52Z"
   },
   {
     "id": "awb_c208f6130cf9106b8c84",
@@ -10198,7 +10219,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T07:24:27Z"
+    "updatedAt": "2026-11-11T23:58:50Z"
   },
   {
     "id": "awb_5daf4d1f3882debc368d",
@@ -11129,6 +11150,22 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_dff5fc18790e00b0bd58",
+    "name": "Kyparissia 93.6",
+    "country": "GR",
+    "subdivision": "Kyparissia",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio936.gr/",
+    "favicon": "http://resources.live24.gr/resources/images/stations/26851d3a-afc8-4ca1-9040-09f6b546a31d.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:38:30Z"
+  },
+  {
     "id": "awb_b5c079f8013dbcd74441",
     "name": "La Famiglia",
     "country": "GR",
@@ -11148,6 +11185,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:34:36Z"
+  },
+  {
+    "id": "awb_6880dc259e56f3dc7912",
+    "name": "La Vita Radio",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://mcr.streams.gr/station/lavitaradio",
+    "favicon": "https://resources.live24.gr/resources/images/stations/342afe3f-edf1-4283-818e-629fc9be23a7.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T19:56:52Z"
   },
   {
     "id": "awb_acd3370fc971777a0e9e",
@@ -12818,7 +12873,8 @@
     "country": "GR",
     "subdivision": null,
     "languages": [
-      "el"
+      "el",
+      "en"
     ],
     "categories": [
       "metal"
@@ -12840,7 +12896,7 @@
     "favicon": "https://www.metalourgio.com/wp-content/uploads/2024/03/Metalourgio_avatar_1710105257-192x192.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-04-17T12:52:46Z"
+    "updatedAt": "2026-11-12T05:22:41Z"
   },
   {
     "id": "awb_9c195a4ab1c1fcd8bb46",
@@ -12972,7 +13028,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-05T22:52:08Z"
+    "updatedAt": "2026-11-12T00:23:46Z"
   },
   {
     "id": "awb_c167527670d82af2d214",
@@ -13219,6 +13275,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-22T09:22:25Z"
+  },
+  {
+    "id": "awb_dfc089f7c6a0cd4f4232",
+    "name": "Monarch Club",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rooftops-monarch-radio-3bvn.mdn.live/radio-landing/rooftops-monarch-radio-3bvn/",
+    "favicon": "https://images.zeno.fm/AkpktqxaLUcyx7nnH5mi93QXZuu-WyQT7iAOPbu3unw/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMmQwYjdjMzQtMGM3NC00Y2I1LTk4OTItNjg1OTJhNzY4ODM1L2ltYWdlLz91PTE3ODcwMTExOTQwMDA",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T19:19:17Z"
   },
   {
     "id": "awb_c9086403152cca6f10a8",
@@ -21364,7 +21434,7 @@
     "favicon": "https://meraklis.ddnsfree.com/logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-07T00:02:41Z"
+    "updatedAt": "2026-11-12T00:16:20Z"
   },
   {
     "id": "awb_346b3683b2aedf080370",
@@ -21677,7 +21747,7 @@
     "favicon": "https://rebetis.duckdns.org/rebetis.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T13:33:00Z"
+    "updatedAt": "2026-11-12T04:35:51Z"
   },
   {
     "id": "awb_81b70ae5bcc12ea6cc33",
@@ -22237,14 +22307,16 @@
     "favicon": "https://rareradio.gr/55f7cc69-567d-4adb-be45-0f2a1f2e4d84.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-10T19:50:15Z"
+    "updatedAt": "2026-11-11T22:55:51Z"
   },
   {
     "id": "awb_2f4c2421a09f2d73c9f7",
     "name": "Rat FM",
     "country": "GR",
     "subdivision": "Chania",
-    "languages": [],
+    "languages": [
+      "el"
+    ],
     "categories": [],
     "tags": [
       "student radio"
@@ -22253,7 +22325,7 @@
     "favicon": "https://resources.live24.gr/resources/images/stations/bc34dc58-f4ac-4966-b0b6-60246f4a96da.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-10T20:32:44Z"
+    "updatedAt": "2026-11-11T22:55:59Z"
   },
   {
     "id": "awb_c9eeb52afbb143527163",
@@ -22463,6 +22535,25 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_da15a27f59cd7df08eeb",
+    "name": "Remos",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://karteliasmediagroup.gr/",
+    "favicon": "https://lalala.gr/wp-content/uploads/2023/04/small-logo-remos.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T18:02:07Z"
   },
   {
     "id": "awb_3ea231900bd164b3462d",
@@ -22927,6 +23018,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_20facb4df390557aadad",
+    "name": "Rolling GR",
+    "country": "GR",
+    "subdivision": "Heraclion",
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://rollingradio.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/1e264eb9-239d-4c19-9644-48aa21045e22.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-11T19:04:29Z"
   },
   {
     "id": "awb_ec3d64e4f1eb73b3c085",
@@ -23654,7 +23763,7 @@
     "favicon": "https://www.simpleradio.gr/wp-content/uploads/2023/12/logo_small.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-07-21T06:34:39Z"
+    "updatedAt": "2026-11-12T01:08:04Z"
   },
   {
     "id": "awb_0e8d0127ad6afd5ae713",
@@ -24915,7 +25024,7 @@
     "favicon": "https://studio19.gr/images/Studio19_logo2.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-06T13:40:49Z"
+    "updatedAt": "2026-11-11T21:57:21Z"
   },
   {
     "id": "awb_18893ffc2d3b47772e2e",
@@ -28884,27 +28993,6 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
-    "id": "awb_d6beb7d467756f17a3e5",
-    "name": "Ελληνάδικο 102 FM",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "greek pop",
-      "mainstream"
-    ],
-    "homepage": "https://ellinadikofm.gr/",
-    "favicon": "http://resources.live24.gr/resources/images/stations/ca728aea-c5f6-4f86-b510-102f00fce8fd.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:42:03Z"
-  },
-  {
     "id": "awb_b8f0acdfd05320bfbb32",
     "name": "Ελληνικό LoveRockRadio",
     "country": "GR",
@@ -31470,25 +31558,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:16:26Z"
-  },
-  {
-    "id": "awb_32ac9613db4b2b120212",
-    "name": "Μελωδία 106.9",
-    "country": "GR",
-    "subdivision": "Kos",
-    "languages": [
-      "el"
-    ],
-    "categories": [],
-    "tags": [
-      "pentecostal",
-      "religion"
-    ],
-    "homepage": "https://artoszoisko.webnode.gr/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/64159c75-0154-40e7-b497-284865dabd92.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:18:42Z"
   },
   {
     "id": "awb_96c744d12b1dc051b9a9",

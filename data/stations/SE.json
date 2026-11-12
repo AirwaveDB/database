@@ -227,7 +227,7 @@
     "favicon": "https://lyssna.bananradion.se/static/uploads/bananradion/background.1740701637.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T14:47:48Z"
+    "updatedAt": "2026-11-12T04:21:52Z"
   },
   {
     "id": "awb_3b028254acf815cc890c",
@@ -1763,7 +1763,9 @@
     "name": "Pain",
     "country": "SE",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "rock"
     ],
@@ -1775,7 +1777,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T07:23:40Z"
   },
   {
     "id": "awb_69b12c62ac25d67644dc",
@@ -2355,9 +2357,9 @@
       "fantasy"
     ],
     "homepage": "https://www.radiorivendell.com/",
-    "favicon": "https://www.radiorivendell.com/site-content/themes/rivendell-2k21/dist/images/logotype-radio-rivendell--horizontal--gold.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2802,7 +2804,9 @@
     "name": "Roxette",
     "country": "SE",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [],
     "tags": [
       "discography"
@@ -2811,7 +2815,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T03:36:05Z"
   },
   {
     "id": "awb_a5a1d147b7da869cac27",
@@ -3960,7 +3964,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T05:09:27Z"
+    "updatedAt": "2026-11-12T07:00:12Z"
   },
   {
     "id": "awb_ca2dcb1d74512aecf5d4",

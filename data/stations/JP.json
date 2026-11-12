@@ -553,26 +553,6 @@
     "updatedAt": "2026-09-06T05:10:36Z"
   },
   {
-    "id": "awb_cf48526c6928f95c08c4",
-    "name": "Hitsujikai Radio",
-    "country": "JP",
-    "subdivision": null,
-    "languages": [
-      "ja"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "christian"
-    ],
-    "homepage": "https://www.hitsujikai-radio.com/",
-    "favicon": "https://www.hitsujikai-radio.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:28:38Z"
-  },
-  {
     "id": "awb_8ad7f8e60f62f7558d57",
     "name": "J-Club Club Bandstand",
     "country": "JP",
@@ -1832,7 +1812,7 @@
   },
   {
     "id": "awb_0b251ca3797b1e45b104",
-    "name": "Retro-Ko radio",
+    "name": "Retro-Ko Radio",
     "country": "JP",
     "subdivision": "Kanagawa",
     "languages": [
@@ -2152,18 +2132,15 @@
     "subdivision": "Hokaido",
     "languages": [],
     "categories": [
-      "classical",
-      "religious"
+      "classical"
     ],
     "tags": [
-      "christian",
-      "classical",
-      "soft"
+      "classical"
     ],
     "homepage": "https://www.hitsujikai-radio.com/",
-    "favicon": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hitsujikai-radio.com/&size=256",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23"
   },
   {
