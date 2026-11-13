@@ -4761,7 +4761,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox Radio",
+    "name": "Boombox radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -5058,7 +5058,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao-Radio",
+    "name": "Cacao Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -17874,8 +17874,8 @@
       "love-songs",
       "pop"
     ],
-    "homepage": "https://hotmixradio.com/",
-    "favicon": "https://cdn.hotmixradio.com/hotmix-love-fr-mp3.jpg",
+    "homepage": "https://www.hotmixradio.com/",
+    "favicon": "https://www.hotmixradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -20521,6 +20521,45 @@
     "updatedAt": "2026-01-15T04:32:05Z"
   },
   {
+    "id": "awb_ddb8ca614fc23d040a1a",
+    "name": "JM Classiks",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "classic hits",
+      "hits"
+    ],
+    "homepage": "https://jm-radio.fr/",
+    "favicon": "https://jm-radio.fr/stations/classiks.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T15:12:46Z"
+  },
+  {
+    "id": "awb_be1a6dca4497011fbe3a",
+    "name": "JM Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "urban"
+    ],
+    "homepage": "https://jm-radio.fr/",
+    "favicon": "https://jm-radio.fr/logo.png?v=2",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T15:06:57Z"
+  },
+  {
     "id": "awb_076cc532acef050b4ec6",
     "name": "Jordanne FM Corrèze",
     "country": "FR",
@@ -22554,7 +22593,7 @@
     "favicon": "https://lyl.live/favicon.ico",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-06T22:55:08Z"
+    "updatedAt": "2026-11-12T10:18:48Z"
   },
   {
     "id": "awb_11e4b384c12f65d075d6",
@@ -34323,7 +34362,7 @@
   },
   {
     "id": "awb_4242dc875d1bdd4fe48f",
-    "name": "Puissance Max La Radio",
+    "name": "Puissance Max la Radio",
     "country": "FR",
     "subdivision": "Auvergne-Rhône-Alpes",
     "languages": [
@@ -34338,8 +34377,8 @@
       "top 40",
       "top hits"
     ],
-    "homepage": "https://www.puissance-max-la-radio.fr/#apropos",
-    "favicon": "https://static.wixstatic.com/media/eea892_1334dfd05976420cba30d24bcba8af47~mv2.png/v1/fill/w_462,h_460,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vierge.png",
+    "homepage": "https://puissance-max-la-radio.fr/",
+    "favicon": "https://www.image-heberg.fr/files/17675323612993863926.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-05T10:31:11Z"
@@ -36511,22 +36550,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-31T04:59:58Z"
-  },
-  {
-    "id": "awb_79b6510960f36e56758d",
-    "name": "Radio de Noël",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "misc"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_c680c1eeb8398fc4f0d5",
@@ -41324,7 +41347,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-11T21:58:12Z"
+    "updatedAt": "2026-11-12T09:55:42Z"
   },
   {
     "id": "awb_3184303c9e1059ff5d5d",
@@ -47439,6 +47462,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_e9482bf431b9e90cdae1",
+    "name": "Virgin Radio FR",
+    "country": "FR",
+    "subdivision": "Paris",
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop rock"
+    ],
+    "homepage": "https://virginradio.fr/",
+    "favicon": "https://virginradio.fr/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T17:18:27Z"
   },
   {
     "id": "awb_1d6e1fd6a9dc443b36f2",

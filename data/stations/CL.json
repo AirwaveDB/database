@@ -3033,16 +3033,22 @@
     "country": "CL",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
+      "alternative rock",
+      "darkwave; ebm; futurepop; gothic; electropop; synth-pop; alt",
       "ebm",
+      "gothic rock",
       "synthpop"
     ],
     "homepage": "https://nocturne-vault-radio.vercel.app/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-05T17:25:25Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-12T16:28:45Z"
   },
   {
     "id": "awb_21f1088cee805d209e44",

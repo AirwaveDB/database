@@ -2491,20 +2491,16 @@
     "id": "awb_342d89f94aa298da45aa",
     "name": "Hot 93.2 FM Jakarta",
     "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [
-      "id"
-    ],
+    "subdivision": null,
+    "languages": [],
     "categories": [],
     "tags": [
-      "dangdut",
-      "indonesian",
-      "koplo"
+      "dangdut"
     ],
-    "homepage": "https://hot932fm.com/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/bwa9cq6nkvue.jpg",
+    "homepage": "https://www.hot932fm.com/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafsfnt77RQ7mCjBKKimH__-YITkokUF9bfQ&usqp=CAU",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-11-05T23:47:57Z"
   },
   {
@@ -4335,32 +4331,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:42:51Z"
-  },
-  {
-    "id": "awb_35f80b1691e5352dca9b",
-    "name": "Most 1058",
-    "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [
-      "news",
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "80s",
-      "90s",
-      "hits",
-      "music",
-      "news"
-    ],
-    "homepage": "https://www.most1058fm.com/",
-    "favicon": "https://radio-online.id/assets/image/radio/180/most1058.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-09T16:43:40Z"
   },
   {
     "id": "awb_da9fe59c87fd922bc73f",
@@ -8551,7 +8521,7 @@
     "favicon": "https://i.imgur.com/NwN4rnC.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-08T04:24:12Z"
+    "updatedAt": "2026-11-13T04:25:05Z"
   },
   {
     "id": "awb_e30b54925828758d32cf",

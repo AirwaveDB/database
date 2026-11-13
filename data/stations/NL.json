@@ -3170,6 +3170,25 @@
     "updatedAt": "2026-02-04T18:41:23Z"
   },
   {
+    "id": "awb_f9b9eb9db17902b51f31",
+    "name": "Dance Radio 1",
+    "country": "NL",
+    "subdivision": "Noord holland",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "club",
+      "dance"
+    ],
+    "homepage": "https://www.danceradioone.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T12:34:02Z"
+  },
+  {
     "id": "awb_8e9066ac4750acb1603f",
     "name": "Dance Radio Amsterdam",
     "country": "NL",
@@ -7368,7 +7387,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://kink.nl/",
-    "favicon": "https://kink.nl/static/kink_x2.gif",
+    "favicon": "https://kink.nl/static/apple-touch-icon.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -10198,7 +10217,7 @@
   },
   {
     "id": "awb_07f37dcda9704329f8c3",
-    "name": "Omroep Horst aan de maas",
+    "name": "Omroep Horst aan de Maas!",
     "country": "NL",
     "subdivision": "Limburg",
     "languages": [

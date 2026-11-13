@@ -1940,8 +1940,8 @@
       "traffic",
       "traffic information"
     ],
-    "homepage": "https://www.cnr.cn/",
-    "favicon": "https://ytmedia.radio.cn/CCYT/202505/19/18/8jLzVYGQuoQrHLIljfYQxUeOssaU12f5xAiFGZr2025051918831.jpg",
+    "homepage": "http://www.cnr.cn/",
+    "favicon": "https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20221211/1670743148470.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:38:09Z"
@@ -27033,8 +27033,8 @@
     "homepage": "http://www.gstv.com.cn/",
     "favicon": "https://jiangsu-10.zos.ctyun.cn/gansu/rBploJrGFrame%20427319549.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-11T23:57:23Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-13T05:50:59Z"
   },
   {
     "id": "awb_1222a92670de53547f9f",
@@ -27069,8 +27069,8 @@
     "homepage": "https://www.gstv.com.cn/",
     "favicon": "http://radio.666scly.com/img/logo/20150107152930605.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T10:24:25Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-13T05:52:18Z"
   },
   {
     "id": "awb_795c10cdc12f90e86e26",
@@ -27110,8 +27110,26 @@
     "homepage": "https://www.gstv.com.cn/",
     "favicon": "https://jiangsu-10.zos.ctyun.cn/gansu/3jhZLtbhFrame%20427319550.png",
     "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-13T05:50:02Z"
+  },
+  {
+    "id": "awb_fdaa992d6d08b60ccaf8",
+    "name": "甘肃移动电视",
+    "country": "CN",
+    "subdivision": "Kansu",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "tv"
+    ],
+    "homepage": "https://www.gstv.com.cn/",
+    "favicon": "https://jiangsu-10.zos.ctyun.cn/gansu/JkJhceTS%E5%8F%B0%E6%A0%87logo%201.png",
+    "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-12T13:32:13Z"
+    "updatedAt": "2026-11-13T05:57:04Z"
   },
   {
     "id": "awb_8802fb4a79f3ef1d9ab5",
@@ -32462,7 +32480,7 @@
       "information",
       "news"
     ],
-    "homepage": "https://www.nxw.org.cn/",
+    "homepage": "http://www.nxw.org.cn/",
     "favicon": "http://pic.qingting.fm/2017/0413/20170413110818.jpeg",
     "type": null,
     "sourceCount": 2,
@@ -34214,6 +34232,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:12:44Z"
+  },
+  {
+    "id": "awb_f5d782fab3a80b5d39a4",
+    "name": "陕西青少广播",
+    "country": "CN",
+    "subdivision": "Shensi",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "education",
+      "educational",
+      "music",
+      "oldies"
+    ],
+    "homepage": "http://m.snrtv.com/?from=www.snrtv.com",
+    "favicon": "https://pic.qtfm.cn/2020/0410/20200410094502.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T09:19:49Z"
   },
   {
     "id": "awb_5a38140221b9d4e14eb1",

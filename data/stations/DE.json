@@ -12572,6 +12572,22 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_3c6d4b921a4527e90b04",
+    "name": "90s 90s",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.90s90s.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T22:44:27Z"
+  },
+  {
     "id": "awb_813197f1ee8085ef2326",
     "name": "90s 90s Dance",
     "country": "DE",
@@ -14571,6 +14587,30 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_f5b5f896b3eebebf75aa",
+    "name": "ACOUSTIC - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "acoustic",
+      "atomicradio",
+      "chill",
+      "study",
+      "unplugged"
+    ],
+    "homepage": "https://atomic.radio/acoustic",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T21:41:18Z"
+  },
+  {
     "id": "awb_8512c647c604a0223a7a",
     "name": "ADBT Radio",
     "country": "DE",
@@ -15554,7 +15594,7 @@
       "jpop"
     ],
     "homepage": "https://www.animeradio.de/",
-    "favicon": "https://www.animeradio.de/img/mascot/manami-guitar.webp",
+    "favicon": "https://www.animeradio.de/img/animeradio-stream-mp3-192.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-02T14:53:19Z"
@@ -19490,6 +19530,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_b8a06b2124421cb893f4",
+    "name": "Bass-party-club",
+    "country": "DE",
+    "subdivision": "Berlin-Brandenburg",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "club dance",
+      "radio",
+      "techno"
+    ],
+    "homepage": "https://bass-party-club-radio.de/",
+    "favicon": "https://bass-party-club-radio.de/assets/img/logo.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T13:49:44Z"
   },
   {
     "id": "awb_873a7a2ded1fa9131fc6",
@@ -25639,7 +25701,7 @@
     "id": "awb_4d93db1f5602c64a3ae1",
     "name": "Club85",
     "country": "DE",
-    "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
+    "subdivision": "Baden-Württemberg",
     "languages": [
       "de"
     ],
@@ -29312,6 +29374,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:48:53Z"
+  },
+  {
+    "id": "awb_79550f1aa3c3b6256a4b",
+    "name": "DOPEPHONK - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "atomicradio",
+      "drift phonk",
+      "electronic",
+      "phonk",
+      "workout"
+    ],
+    "homepage": "https://atomic.radio/dopephonk",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T21:32:31Z"
   },
   {
     "id": "awb_84cee552b7419730ff3b",
@@ -33989,7 +34075,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-11-12T10:14:33Z"
   },
   {
     "id": "awb_8922fafb8d502522508f",
@@ -34012,7 +34098,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:29:20Z"
+    "updatedAt": "2026-11-12T09:59:11Z"
   },
   {
     "id": "awb_f082b22953d8d3a0a60f",
@@ -36567,6 +36653,28 @@
     "updatedAt": "2026-09-28T19:53:43Z"
   },
   {
+    "id": "awb_ed9d8b0689a6962ff537",
+    "name": "FIGHTCLUB - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "atomicradio",
+      "hip-hop",
+      "rap"
+    ],
+    "homepage": "https://atomic.radio/fightclub",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T21:42:24Z"
+  },
+  {
     "id": "awb_a8e824cbfb45bf1c01fa",
     "name": "Filmradio",
     "country": "DE",
@@ -36738,7 +36846,7 @@
       "rock",
       "soul"
     ],
-    "homepage": "https://flaemingradio.de/",
+    "homepage": "https://www.flaemingradio.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -40323,6 +40431,30 @@
     "updatedAt": "2026-01-15T08:14:52Z"
   },
   {
+    "id": "awb_4e6abead2dfa71622c6a",
+    "name": "GAMING - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "atomicradio",
+      "dance",
+      "edm",
+      "electronic",
+      "gaming"
+    ],
+    "homepage": "https://listen.atomic.radio/gaming",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T21:34:20Z"
+  },
+  {
     "id": "awb_15ffa13fb613c7bbc3c4",
     "name": "GANORIUM Radio",
     "country": "DE",
@@ -41271,6 +41403,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:51:52Z"
+  },
+  {
+    "id": "awb_f26cc5eb16daaeb2f502",
+    "name": "H!GH GERMANY - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "atomicradio",
+      "deutschrap",
+      "german rap",
+      "hip-hop",
+      "rap"
+    ],
+    "homepage": "https://atomic.radio/highgermany",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T21:43:41Z"
   },
   {
     "id": "awb_caa9ca77b4ce8b8776df",
@@ -43019,6 +43175,30 @@
     "updatedAt": "2026-01-15T06:27:38Z"
   },
   {
+    "id": "awb_bae9ddd3b3511f275ed0",
+    "name": "HITRADAR - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "atomicradio",
+      "dance",
+      "hits",
+      "new music",
+      "pop"
+    ],
+    "homepage": "https://atomic.radio/hitradar",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T21:37:17Z"
+  },
+  {
     "id": "awb_72b2870477260a6eb9bd",
     "name": "Hitradio antenne 1",
     "country": "DE",
@@ -43566,6 +43746,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
+  },
+  {
+    "id": "awb_bc85a81f69f2b608998d",
+    "name": "HITSHISTORY - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "2000s",
+      "2010s",
+      "atomicradio",
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://atomic.radio/hitshistory",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T21:39:06Z"
   },
   {
     "id": "awb_a397b5a460ccdf7d1b61",
@@ -44697,6 +44901,33 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:06:00Z"
+  },
+  {
+    "id": "awb_ae4a42da4187bc0be51c",
+    "name": "I love music – I love radio",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "hip-hop",
+      "pop"
+    ],
+    "tags": [
+      "all channels",
+      "charts",
+      "dance",
+      "hip hop",
+      "i love radio",
+      "mix",
+      "throwbacks"
+    ],
+    "homepage": "https://ilovemusic.de/",
+    "favicon": "https://ilovemusic.de/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T20:44:57Z"
   },
   {
     "id": "awb_7dcebe59e24c78569d39",
@@ -52756,7 +52987,7 @@
       "techno"
     ],
     "homepage": "https://www.leipzig-beatzz.de/",
-    "favicon": "https://assets.website-files.com/5f5ff904eff116e46575e21b/5f6007dbf31b43899f2f51c9_Beatzz%20Logo%20Wei%C3%9F-p-800.png",
+    "favicon": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/75/28/9c75281d-92b1-a6e0-8373-cc9dc35a86d0/source/60x60bb.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -54228,7 +54459,7 @@
     "favicon": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-07T14:35:33Z"
+    "updatedAt": "2026-11-12T14:42:14Z"
   },
   {
     "id": "awb_0acf0fb62bebbeb83a99",
@@ -55034,7 +55265,7 @@
   },
   {
     "id": "awb_deb33c8f9e0dc702a70e",
-    "name": "MDR KULTUR",
+    "name": "mdr kultur",
     "country": "DE",
     "subdivision": "Saxony-Anhalt",
     "languages": [
@@ -55058,7 +55289,7 @@
       "mitteldeutscher rundfunk",
       "popkultur"
     ],
-    "homepage": "https://www.mdr.de/kultur/radio/index.html",
+    "homepage": "https://www.mdr.de/",
     "favicon": "https://www.mdr.de/kultur/logo-118-resimage_v-variantSmall1x1_w-512.png",
     "type": null,
     "sourceCount": 2,
@@ -64348,9 +64579,9 @@
   },
   {
     "id": "awb_b26a576ba1c27aef671a",
-    "name": "R.SA LIVE",
+    "name": "R.SA Live",
     "country": "DE",
-    "subdivision": "Sachsen",
+    "subdivision": "Saxony",
     "languages": [
       "de"
     ],
@@ -64359,7 +64590,7 @@
       "1980's",
       "80's"
     ],
-    "homepage": "https://www.rsa-sachsen.de/",
+    "homepage": "http://rsa-sachsen.de/",
     "favicon": "https://agginfo.quantumcast.cloud/m/rc/branding/5ae12897-a4cd-489e-b2c3-9be657ffbbe3/R.SA_Livestream_600x600_color.png",
     "type": null,
     "sourceCount": 2,
@@ -68484,7 +68715,7 @@
       "rock"
     ],
     "homepage": "http://www.radiobob.de/",
-    "favicon": "https://www.radiobob.de/",
+    "favicon": "https://images.radiobob.de/files/2025-05/classic_rock_stream_schrift.jpg",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-08-18T22:57:17Z"
@@ -69168,7 +69399,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobreidenbach.de/index.php?seite=startseite",
+    "homepage": "https://www.radiobreidenbach.de/",
     "favicon": "https://www.radiobreidenbach.de/templates/favicon.ico",
     "type": null,
     "sourceCount": 2,
@@ -75548,9 +75779,9 @@
   },
   {
     "id": "awb_111b51398f4845819796",
-    "name": "Radio PARALAX",
+    "name": "Radio Paralax",
     "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
+    "subdivision": "North Rhine-Westphalia",
     "languages": [
       "de"
     ],
@@ -80928,7 +81159,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
+    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"
@@ -83749,6 +83980,30 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_dc21dc8aa5d2ed456c9b",
+    "name": "RAVE - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "atomicradio",
+      "hard dance",
+      "hardstyle",
+      "rave",
+      "techno"
+    ],
+    "homepage": "https://atomic.radio/rave",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T21:40:12Z"
+  },
+  {
     "id": "awb_61af17617ac84e67825b",
     "name": "RBB 24 Inforadio",
     "country": "DE",
@@ -84321,6 +84576,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_08597ee55abcbdfa773d",
+    "name": "REMIX - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://atomic.radio/remix",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T21:30:14Z"
   },
   {
     "id": "awb_5a0147dcdecaf38d9ff1",
@@ -95516,6 +95785,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_7fe4676e0c7a18c7ca3f",
+    "name": "SYNTHWAVE - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "oldies"
+    ],
+    "tags": [
+      "80s",
+      "atomicradio",
+      "chill",
+      "retrowave",
+      "study",
+      "synthwave"
+    ],
+    "homepage": "https://atomic.radio/synthwave",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T21:35:59Z"
   },
   {
     "id": "awb_61f7ddbf6eb613bdc318",

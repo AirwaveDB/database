@@ -39,7 +39,8 @@
     "country": "CZ",
     "subdivision": null,
     "languages": [
-      "cs"
+      "cs",
+      "en"
     ],
     "categories": [
       "electronic",
@@ -54,7 +55,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-07T23:29:42Z"
+    "updatedAt": "2026-11-13T00:34:07Z"
   },
   {
     "id": "awb_666b011d413057fcf2bd",
@@ -4214,6 +4215,27 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_1885a1c875ddde949766",
+    "name": "Rock Radio - Legend of Rock",
+    "country": "CZ",
+    "subdivision": null,
+    "languages": [
+      "cs"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "rock"
+    ],
+    "homepage": "https://rockovyradio.cz/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T18:30:21Z"
   },
   {
     "id": "awb_49b197c98b186691dc03",

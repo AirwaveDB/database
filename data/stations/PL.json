@@ -7795,6 +7795,26 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_f780461bb2acce4c29a9",
+    "name": "Radio Niepokalanów",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [],
+    "tags": [
+      "muzyka",
+      "religia",
+      "religion"
+    ],
+    "homepage": "https://radioniepokalanow.pl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-12T11:23:20Z"
+  },
+  {
     "id": "awb_933e5e6c0280d215f821",
     "name": "Radio Nowej Generacji",
     "country": "PL",
@@ -14240,7 +14260,7 @@
   },
   {
     "id": "awb_d14c10e45802e34a828a",
-    "name": "SmoothJazz.com.pl",
+    "name": "SmoothJazz.com.pl 192k aac+",
     "country": "PL",
     "subdivision": "Pomorskie",
     "languages": [
@@ -14254,7 +14274,7 @@
       "smooth-jazz"
     ],
     "homepage": "https://www.smoothjazz.com.pl/",
-    "favicon": "http://bcast.vigormultimedia.com:7000/sj_logo.png",
+    "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-12T09:37:06Z"
@@ -14335,6 +14355,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-09T15:23:21Z"
+  },
+  {
+    "id": "awb_24e955afc7e13e21c84e",
+    "name": "Stacja EsaidFM",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://smartstream.myautodj.com/s/stacja-esaidfm?preview=1#top",
+    "favicon": "https://stacjaesaidfm.panelradiowy.pl/images/logos/79923-35.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T00:05:50Z"
   },
   {
     "id": "awb_b8edb01c6dac027c1c84",
