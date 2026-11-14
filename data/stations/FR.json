@@ -1234,6 +1234,24 @@
     "updatedAt": "2026-01-15T01:38:48Z"
   },
   {
+    "id": "awb_8d56fc3f6aa96044d325",
+    "name": "ABC Lounge Jazz",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "smooth lounge"
+    ],
+    "homepage": "https://www.abc-lounge.com/radio/fr/radio-lounge-folk-acoustique/",
+    "favicon": "https://www.abc-lounge.com/radio/wp-content/uploads/2019/11/cropped-Logo-DEF-600px-2019-180x180.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T14:26:32Z"
+  },
+  {
     "id": "awb_238dc8a0604868eea263",
     "name": "ABC Relax",
     "country": "FR",
@@ -10903,7 +10921,7 @@
   },
   {
     "id": "awb_31f6b9c5492374858e6a",
-    "name": "Fip",
+    "name": "FIP",
     "country": "FR",
     "subdivision": null,
     "languages": [],
@@ -17874,8 +17892,8 @@
       "love-songs",
       "pop"
     ],
-    "homepage": "https://www.hotmixradio.com/",
-    "favicon": "https://www.hotmixradio.com/favicon.ico",
+    "homepage": "https://hotmixradio.com/",
+    "favicon": "https://cdn.hotmixradio.com/hotmix-love-fr-mp3.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -21550,6 +21568,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:16:53Z"
+  },
+  {
+    "id": "awb_1b64246ca89d6f08b928",
+    "name": "La Radio Plus Club",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.laradioplus.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T20:24:32Z"
   },
   {
     "id": "awb_9beb420165fda76ca567",
@@ -25586,20 +25618,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_477502a30be33a48dc87",
-    "name": "NORMANDYTEK",
-    "country": "FR",
-    "subdivision": "Normandie",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.normandytek.com/",
-    "favicon": "https://www.normandytek.com/logo-normandytek.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-23T16:04:20Z"
   },
   {
     "id": "awb_44855736cf2fe6fb8f19",
@@ -34362,7 +34380,7 @@
   },
   {
     "id": "awb_4242dc875d1bdd4fe48f",
-    "name": "Puissance Max la Radio",
+    "name": "Puissance Max La Radio",
     "country": "FR",
     "subdivision": "Auvergne-Rhône-Alpes",
     "languages": [
@@ -34377,8 +34395,8 @@
       "top 40",
       "top hits"
     ],
-    "homepage": "https://puissance-max-la-radio.fr/",
-    "favicon": "https://www.image-heberg.fr/files/17675323612993863926.png",
+    "homepage": "https://www.puissance-max-la-radio.fr/#apropos",
+    "favicon": "https://static.wixstatic.com/media/eea892_1334dfd05976420cba30d24bcba8af47~mv2.png/v1/fill/w_462,h_460,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vierge.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-05T10:31:11Z"
@@ -38446,6 +38464,30 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_d9c0cccab821cceba280",
+    "name": "Radio Mavoix Digital",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "chanson",
+      "francophone",
+      "french",
+      "pop",
+      "variety"
+    ],
+    "homepage": "https://radio.mavoixdigital.pro/lecteur/mavoix",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T19:31:40Z"
+  },
+  {
     "id": "awb_7cf4b64081bff414585b",
     "name": "Radio MBS",
     "country": "FR",
@@ -39927,6 +39969,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-10T13:57:17Z"
+  },
+  {
+    "id": "awb_4a5e4c3ca6a1665ac027",
+    "name": "Radio Réel",
+    "country": "FR",
+    "subdivision": "Martinique",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious",
+      "worship"
+    ],
+    "homepage": "https://www.radioreel972.com/",
+    "favicon": "https://studio10.vestaradio.com/uploads/user-music/1775/covers/cover_1775_1794617904_32f22f.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T07:08:08Z"
   },
   {
     "id": "awb_1b8005206fcd58d1dec4",
@@ -43056,6 +43121,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_b7bf9b77a160e47201b0",
+    "name": "RG33 - Radio Génération 33",
+    "country": "FR",
+    "subdivision": "Gironde",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "80s",
+      "90s",
+      "french",
+      "hits",
+      "variety"
+    ],
+    "homepage": "https://www.rg33.fr/",
+    "favicon": "https://studio10.vestaradio.com/uploads/user-music/1769/covers/cover_1769_1794572604_ab3903.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T07:08:09Z"
   },
   {
     "id": "awb_19a9b4ac4c224f4e8d57",

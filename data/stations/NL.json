@@ -47,6 +47,25 @@
     "updatedAt": "2026-04-20T11:00:40Z"
   },
   {
+    "id": "awb_5f333c7e699e968b1937",
+    "name": "076 Radio",
+    "country": "NL",
+    "subdivision": "Noord-Brabant",
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [
+      "internet radio",
+      "variety"
+    ],
+    "homepage": "https://www.076radio.nl/",
+    "favicon": null,
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T16:49:25Z"
+  },
+  {
     "id": "awb_36bd97f0c7f6347ef1a9",
     "name": "100% NL",
     "country": "NL",
@@ -1733,11 +1752,11 @@
       "video game music",
       "world of warcraft"
     ],
-    "homepage": "https://www.octowow.st/",
+    "homepage": "https://radio.octowow.st/public/booty_bay_pirate_radio",
     "favicon": null,
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-08T20:07:06Z"
+    "updatedAt": "2026-11-13T20:07:32Z"
   },
   {
     "id": "awb_cdd051f2b944f48272cf",
@@ -16398,6 +16417,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_6fb4bf7e53998bd1affd",
+    "name": "Rick FM",
+    "country": "NL",
+    "subdivision": "Noord-Holland",
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "local news",
+      "local radio"
+    ],
+    "homepage": "https://www.rickfm.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T16:49:40Z"
   },
   {
     "id": "awb_92075a733d9340b1903f",

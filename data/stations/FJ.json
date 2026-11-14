@@ -118,7 +118,9 @@
     "name": "Life FM",
     "country": "FJ",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
       "christmas",
       "religious"
@@ -131,7 +133,7 @@
     "favicon": "https://lifefmfiji.org/wp-content/uploads/2022/07/Life-fm-logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-29T12:04:51Z"
+    "updatedAt": "2026-11-13T20:07:37Z"
   },
   {
     "id": "awb_5dd79b7c58968c0c8b28",

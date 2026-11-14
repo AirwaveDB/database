@@ -632,6 +632,31 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_471dbfd3a3fee001f4ca",
+    "name": "Daybreak Radio",
+    "country": "ZA",
+    "subdivision": "Free State",
+    "languages": [
+      "af",
+      "en"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "music",
+      "preaching",
+      "talk"
+    ],
+    "homepage": "https://daybreakradio.inksnapp.com/",
+    "favicon": "https://daybreakradio.inksnapp.com/wp-content/uploads/2026/11/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T11:35:15Z"
+  },
+  {
     "id": "awb_14bba53247120f3895c2",
     "name": "Diamond Radio",
     "country": "ZA",
@@ -2078,6 +2103,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-05T12:11:08Z"
+  },
+  {
+    "id": "awb_38857775e88f5bc67907",
+    "name": "Radio Free Tankwa",
+    "country": "ZA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "african"
+    ],
+    "homepage": "https://www.radiofreetankwa.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T17:34:07Z"
   },
   {
     "id": "awb_fa30a100ff2484a6868b",

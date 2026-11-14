@@ -1233,6 +1233,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_8cde92ceb4ef3716e41e",
+    "name": "Egida",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [],
+    "tags": [
+      "student"
+    ],
+    "homepage": "https://egida.us.edu.pl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T19:35:19Z"
+  },
+  {
     "id": "awb_85f5c44b6218d067cc61",
     "name": "El Radio",
     "country": "PL",
@@ -2655,6 +2673,39 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_20d6b2e6e3456eeac4de",
+    "name": "M&N RADYJO",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "country",
+      "electronic",
+      "hip-hop",
+      "metal",
+      "punk",
+      "rock"
+    ],
+    "tags": [
+      "alternativ rock",
+      "dark country",
+      "electronic",
+      "hip hop",
+      "indie rock",
+      "metal",
+      "nu metal",
+      "punk rock",
+      "rock"
+    ],
+    "homepage": "https://radio.castpol.pl/public/mn-radyjo",
+    "favicon": "https://i.postimg.cc/t4Rzyc1w/MN-RADYJO-logo-przezroczyste-web.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T21:28:31Z"
   },
   {
     "id": "awb_a7f069f288a7a1da02ae",

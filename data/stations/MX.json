@@ -23023,7 +23023,7 @@
     "id": "awb_0870e60e07cdc790b667",
     "name": "Exosfera Radio",
     "country": "MX",
-    "subdivision": "Ciudad de México",
+    "subdivision": "Mexico City",
     "languages": [
       "es"
     ],
@@ -23040,7 +23040,7 @@
       "rock"
     ],
     "homepage": "https://exosferaradio.com/",
-    "favicon": "https://exosferaradio.com/image/logo-1200.png",
+    "favicon": "https://exosferaradio.com/logo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-10T02:36:18Z"
@@ -24171,6 +24171,22 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-08-03T19:59:50Z"
+  },
+  {
+    "id": "awb_aff7ed6b5114cea43f18",
+    "name": "Frecuencia Milagro",
+    "country": "MX",
+    "subdivision": "Mexico City",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "spiritual"
+    ],
+    "homepage": "https://primerotupaz.com/",
+    "favicon": "https://th.bing.com/th/id/OIP.GB-gOabWVoc004oqexksHAAAAA?w=171&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T04:54:26Z"
   },
   {
     "id": "awb_bb453650f78d27f43584",
@@ -47826,6 +47842,27 @@
     "updatedAt": "2026-09-17T04:16:44Z"
   },
   {
+    "id": "awb_dcc7331772880b6c2f59",
+    "name": "Pop FM 98.7",
+    "country": "MX",
+    "subdivision": "Ciudad de México",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.popfm.com.mx/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T22:01:55Z"
+  },
+  {
     "id": "awb_63f8159df1574f71e69f",
     "name": "POP FM: ¡Más Música, Más Exitos!",
     "country": "MX",
@@ -53584,8 +53621,8 @@
       "kamen rider",
       "música variada"
     ],
-    "homepage": "https://stream.zeno.fm/ullfy4hf9lhtv",
-    "favicon": "http://images.zeno.fm/Dox8dRdykWVyupEFd2NObKH9XB1FEfX1rTf8Q61P5xE/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2MxYTZjZ",
+    "homepage": "https://stream.zeno.fm/ullfy4hf9lhtv.m3u",
+    "favicon": "http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIaWPa-y5G6aFCgGjUo1LQPUdzWnLVsSJLw&usqp=CAU",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T23:54:34Z"

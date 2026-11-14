@@ -308,6 +308,35 @@
     "updatedAt": "2026-01-15T04:22:03Z"
   },
   {
+    "id": "awb_d12d147e95adfbd44465",
+    "name": "Açık Kıyı | Open Shore",
+    "country": "TR",
+    "subdivision": "Muğla",
+    "languages": [
+      "en",
+      "tr"
+    ],
+    "categories": [
+      "ambient",
+      "jazz"
+    ],
+    "tags": [
+      "aegean",
+      "ambient",
+      "chill",
+      "experimental",
+      "improvisation",
+      "jazz",
+      "live",
+      "soundscape"
+    ],
+    "homepage": "https://acikkiyi.com/",
+    "favicon": "https://acikkiyi.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T23:42:30Z"
+  },
+  {
     "id": "awb_8b8e038309c37edbdaf4",
     "name": "AÇS Radyo",
     "country": "TR",
@@ -5610,7 +5639,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.playdanceradio.com/",
+    "homepage": "http://www.playdanceradio.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -6744,14 +6773,16 @@
     "name": "Radyo 7",
     "country": "TR",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "tr"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "http://www.radyo7.com/",
     "favicon": "https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-13T19:53:15Z"
   },
   {
     "id": "awb_f4b163554b19ca4b6d92",

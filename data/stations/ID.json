@@ -2463,6 +2463,34 @@
     "updatedAt": "2026-11-11T22:08:52Z"
   },
   {
+    "id": "awb_2b4cb6534e3c2fd8a18d",
+    "name": "Homebrew Radio",
+    "country": "ID",
+    "subdivision": "DKI Jakarta",
+    "languages": [
+      "en",
+      "id"
+    ],
+    "categories": [
+      "jazz",
+      "oldies",
+      "rock"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "90s",
+      "classic rock",
+      "easy listening",
+      "jazz"
+    ],
+    "homepage": "https://zen.homebrew.my.id/",
+    "favicon": "https://zen.homebrew.my.id/covers/zen-homey.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T19:03:06Z"
+  },
+  {
     "id": "awb_df29112b697969c754ff",
     "name": "Hot 93.2 FM",
     "country": "ID",
@@ -3206,18 +3234,20 @@
     ],
     "categories": [
       "news",
+      "pop",
       "talk"
     ],
     "tags": [
       "music",
       "news",
+      "pop",
       "talk"
     ],
     "homepage": "https://kis951fm.com/",
     "favicon": "https://kis951fm.com/assets/img/favicon.ico",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:27:18Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-14T04:22:37Z"
   },
   {
     "id": "awb_307458f8eaaf1bee73a2",
@@ -4897,6 +4927,24 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_fcf0b4b9097a27729003",
+    "name": "Polaris FM Kudus",
+    "country": "ID",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://radiostream.novawap.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T04:19:12Z"
   },
   {
     "id": "awb_ec06947602eec06f5417",

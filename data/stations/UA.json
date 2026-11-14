@@ -2945,6 +2945,22 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_35c7b375d0f1f769fed8",
+    "name": "VsemirnoeOdesscoeRadio",
+    "country": "UA",
+    "subdivision": "Odessa",
+    "languages": [
+      "uk"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://odessaradio.org/index.html",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T08:04:00Z"
+  },
+  {
     "id": "awb_94f45e50463344da6997",
     "name": "Wolf Music Radio",
     "country": "UA",
@@ -3713,6 +3729,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:45:08Z"
+  },
+  {
+    "id": "awb_78e796ee1291b258d3a6",
+    "name": "Мелодія FM Disco",
+    "country": "UA",
+    "subdivision": null,
+    "languages": [
+      "uk"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "disco",
+      "music",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.melodiafm.ua/music/",
+    "favicon": "https://static.melodiafm.ua/melodiafm/img/main/85x85.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T19:24:23Z"
   },
   {
     "id": "awb_a8bf51298242478bd45a",

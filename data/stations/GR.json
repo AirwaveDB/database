@@ -5222,14 +5222,14 @@
   },
   {
     "id": "awb_6701abcebd45b6846fd2",
-    "name": "D-Code 96,2",
+    "name": "D-Code 96.2",
     "country": "GR",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://962.gr/",
-    "favicon": "https://962.gr/wp-content/uploads/2022/08/cropped-Untitled-design-2.png",
+    "favicon": "https://962.gr/wp-content/uploads/2022/08/dcode-2.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -8834,6 +8834,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_3a6b50dd7ebfe564bb27",
+    "name": "Gnisios.gr",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "dimotika",
+      "greek folk",
+      "laiko",
+      "palio laiko",
+      "rebetiko",
+      "tragoudia"
+    ],
+    "homepage": "https://gnisios.gr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T17:51:07Z"
   },
   {
     "id": "awb_20d527589edb75d1d24a",
@@ -17146,6 +17171,27 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_915edb4ccbfe1d4312a8",
+    "name": "Radio Aptaliko",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "dimotika",
+      "greek folk",
+      "rebetiko",
+      "tragoudia"
+    ],
+    "homepage": "https://live.aptaliko.gr/home",
+    "favicon": "https://beta.uyl.me/lab/img.php?image=3507_unnamed_5pbq.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T17:39:22Z"
+  },
+  {
     "id": "awb_6f236b6bdf33de34a0fd",
     "name": "Radio Arhaggelos",
     "country": "GR",
@@ -21313,6 +21359,30 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_51f3a3b25cf383902f17",
+    "name": "Radio Laikorempetiko",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk",
+      "laiko",
+      "palio laiko",
+      "rebetiko",
+      "tragoudia"
+    ],
+    "homepage": "https://radio-laikorempetiko.gr/",
+    "favicon": "https://beta.uyl.me/lab/img.php?image=6322_logo_paxs.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T17:45:07Z"
+  },
+  {
     "id": "awb_96e9440f25cc53b20b86",
     "name": "Radio Lampsi",
     "country": "GR",
@@ -23388,6 +23458,25 @@
     "updatedAt": "2026-02-07T07:42:29Z"
   },
   {
+    "id": "awb_3aaa8e05e86867cb040f",
+    "name": "Save Radio",
+    "country": "GR",
+    "subdivision": "Kozani",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "mainstream",
+      "pop"
+    ],
+    "homepage": "https://saveradio.wixsite.com/saveradio",
+    "favicon": "https://resources.live24.gr/resources/images/stations/8ee82a6c-2f91-4d41-a1e0-15d72ec3d634.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T18:16:12Z"
+  },
+  {
     "id": "awb_1087f207d62170b23745",
     "name": "Scanner 102.2",
     "country": "GR",
@@ -23408,6 +23497,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:50:50Z"
+  },
+  {
+    "id": "awb_e0e2d6dc706df0fad54d",
+    "name": "Scarlet",
+    "country": "GR",
+    "subdivision": "Thessaloniki",
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://radioscarlet.webnode.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/ba394362-17d7-4def-8a4f-20bcfc706d3b.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T18:53:14Z"
   },
   {
     "id": "awb_5865cdeed085bd587304",
@@ -23439,6 +23546,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_4ea90c4fe0249e864b58",
+    "name": "Seduction Dance Tunes",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "house"
+    ],
+    "homepage": "https://www.facebook.com/seductionradiotv/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/89625ee6-99c5-4176-b39a-e3f0ce6683dd.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T19:08:55Z"
   },
   {
     "id": "awb_14e4439e43b048128dc8",
@@ -23761,6 +23887,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_123bc3078c5befb5d22b",
+    "name": "Silibre",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://silibre.blogspot.com/?m=1",
+    "favicon": "https://resources.live24.gr/resources/images/stations/c6155391-5151-4121-8ef6-1de6ea383f64.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T19:21:16Z"
   },
   {
     "id": "awb_a9d78f58230a765749a6",
@@ -28409,6 +28554,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:00:57Z"
+  },
+  {
+    "id": "awb_632b823ae4150ac30614",
+    "name": "Δημοτική Ανθολογία 88.8",
+    "country": "GR",
+    "subdivision": "Peloponnes",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "dimotika",
+      "greek folk music",
+      "greek traditional"
+    ],
+    "homepage": "http://web.facebook.com/groups/226072620845494/?",
+    "favicon": "https://resources.live24.gr/resources/images/stations/a80cbb40-c33e-40ad-aeb1-f30f41aaea2b.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T17:20:22Z"
   },
   {
     "id": "awb_e580deab104aed00114a",

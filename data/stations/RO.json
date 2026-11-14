@@ -2421,8 +2421,8 @@
     "homepage": "https://ebsradio.ro/",
     "favicon": "https://ebsradio.ro/wp-content/themes/ebs/favicons/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-13T20:21:46Z"
   },
   {
     "id": "awb_504a4bec4c6af347ea74",
@@ -6083,6 +6083,30 @@
     "updatedAt": "2026-01-15T04:44:38Z"
   },
   {
+    "id": "awb_e20e8b7d4a1002437447",
+    "name": "ProFM",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [
+      "ro"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk",
+      "top hits"
+    ],
+    "homepage": "https://www.profm.ro/",
+    "favicon": "https://www.profm.ro/static/theme-repo/bin/images/profm-logo.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T20:12:54Z"
+  },
+  {
     "id": "awb_b23fa960ba1305579d87",
     "name": "Protm",
     "country": "RO",
@@ -8437,6 +8461,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-19T21:35:21Z"
+  },
+  {
+    "id": "awb_d54319559aed74c6b9e6",
+    "name": "Rádió GaGa Disco Classic",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "disco",
+      "retro hits"
+    ],
+    "homepage": "https://www.radiogaga.ro/ro/radio-player/?station=9",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/7/147497.v4.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T18:02:17Z"
   },
   {
     "id": "awb_de84d540636934c7aa14",
@@ -11457,6 +11501,25 @@
     "updatedAt": "2026-09-22T17:42:20Z"
   },
   {
+    "id": "awb_fb48557bdd2cfc34701c",
+    "name": "Radio Teatru Radiofonic România",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [
+      "ro"
+    ],
+    "categories": [],
+    "tags": [
+      "radio drama",
+      "theatre"
+    ],
+    "homepage": "https://teatruradiofonic.com/radio-teatru-radiofonic-romania/",
+    "favicon": "https://teatruradiofonic.com/wp-content/uploads/2021/10/radio-teatruradiofoniclive-1.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T18:30:12Z"
+  },
+  {
     "id": "awb_7109c4deabe3e5155b00",
     "name": "radio teatru romînia -Brăila",
     "country": "RO",
@@ -11876,6 +11939,33 @@
     "updatedAt": "2026-02-08T11:03:13Z"
   },
   {
+    "id": "awb_24c2924b93e6f29b0c26",
+    "name": "Radio Underland",
+    "country": "RO",
+    "subdivision": "Neamt",
+    "languages": [
+      "en",
+      "ro"
+    ],
+    "categories": [
+      "electronic",
+      "hip-hop",
+      "pop"
+    ],
+    "tags": [
+      "ballads",
+      "electronic",
+      "hiphop",
+      "hits",
+      "rap"
+    ],
+    "homepage": "https://radiounderland.net/",
+    "favicon": "http://radiounderland.net/wp-content/uploads/2026/07/logo_patrat-150x150.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T14:00:13Z"
+  },
+  {
     "id": "awb_25916bf678d8c18727c4",
     "name": "Radio Underland",
     "country": "RO",
@@ -12218,6 +12308,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-29T05:41:12Z"
+  },
+  {
+    "id": "awb_da15cae6b3d1cc4fc850",
+    "name": "Radio ZU",
+    "country": "RO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "top hits"
+    ],
+    "homepage": "https://radiozu.ro/",
+    "favicon": "https://radiozu.ro/img/logo-zu.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T20:00:16Z"
   },
   {
     "id": "awb_256249938015fd0024af",

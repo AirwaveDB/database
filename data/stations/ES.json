@@ -9305,6 +9305,23 @@
     "updatedAt": "2026-09-28T20:38:07Z"
   },
   {
+    "id": "awb_4dc708546a94de7c57b3",
+    "name": "Jamm FM Radio Costa del Sol",
+    "country": "ES",
+    "subdivision": "Andalucía",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "r&b",
+      "urban"
+    ],
+    "homepage": "https://jammfmradio.com/",
+    "favicon": "https://jammfmradio.com/wp-content/uploads/2018/09/cropped-FAVICON-180x180.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T16:49:21Z"
+  },
+  {
     "id": "awb_9ebcce3667de2b8f1b9c",
     "name": "Jarvis FM",
     "country": "ES",
@@ -20133,6 +20150,22 @@
     "updatedAt": "2026-01-16T12:04:49Z"
   },
   {
+    "id": "awb_4f33ebde59be3bb8f71d",
+    "name": "Retro Plus TV",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "retro music"
+    ],
+    "homepage": "https://www.retroplustv.com/",
+    "favicon": "https://www.retroplustv.com/gallery_gen/3ec9d593edc1b1a2554b23b73ad3d5db_400x136_fit.jpg?ts=1793391138",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T18:12:59Z"
+  },
+  {
     "id": "awb_6f95a1dc546be6dd30fe",
     "name": "Revive FM",
     "country": "ES",
@@ -21917,14 +21950,25 @@
     "name": "Sufi Soul Radio",
     "country": "ES",
     "subdivision": "Islas Baleares",
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic",
+      "ethnic trance",
+      "ibiza",
+      "melodic techno",
+      "organic house",
+      "trance"
+    ],
     "homepage": "https://www.sufisoulradio.com/",
-    "favicon": null,
+    "favicon": "https://sufisoulradio.com/assets/img/icon-512.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-25T16:55:03Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-13T21:21:19Z"
   },
   {
     "id": "awb_620404396dda0e076f6e",

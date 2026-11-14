@@ -2808,7 +2808,7 @@
       "soul",
       "talk"
     ],
-    "homepage": "https://www.laserinternational.co.uk/",
+    "homepage": "https://www.laserinternational.co.uk/archive-radio",
     "favicon": "https://primary.jwwb.nl/public/t/a/i/temp-dozjcpvcaeqpdalqxwlr/1000090564-ig-profile-photo-320-320-high.png?enable-io=true&width=532",
     "type": null,
     "sourceCount": 2,
@@ -9999,35 +9999,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_7aae7f11adfadbba23ab",
-    "name": "DieselGoth1",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic",
-      "punk"
-    ],
-    "tags": [
-      "dark electro",
-      "darkwave",
-      "ebm",
-      "electronic",
-      "futurepop",
-      "gothic",
-      "industrial",
-      "post-punk",
-      "synthpop"
-    ],
-    "homepage": "https://radio.hollerboys.uk/46/",
-    "favicon": "https://hq2.stationhq.io/media/radiostalingrad/station_46/logos/logo_1791901984958.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-19T12:17:59Z"
-  },
-  {
     "id": "awb_8b2eddfe44fd9103437a",
     "name": "Different Drumz DnB Radio",
     "country": "GB",
@@ -16271,6 +16242,29 @@
     "updatedAt": "2026-04-21T00:20:31Z"
   },
   {
+    "id": "awb_9cec80804835cbc34f39",
+    "name": "Inferno FM",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "hard rock",
+      "metal",
+      "rock"
+    ],
+    "homepage": "https://sleradio.com/",
+    "favicon": "https://sleradio.com/station2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T18:50:08Z"
+  },
+  {
     "id": "awb_563c934c4175d50af8ee",
     "name": "Infinity Radio UK",
     "country": "GB",
@@ -21330,6 +21324,29 @@
     "updatedAt": "2026-11-11T22:33:31Z"
   },
   {
+    "id": "awb_7d7c5dfe63fce6097123",
+    "name": "Neon Drive FM",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic",
+      "retrowave",
+      "synthpop",
+      "synthwave"
+    ],
+    "homepage": "https://sleradio.com/",
+    "favicon": "https://sleradio.com/station3.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T18:50:10Z"
+  },
+  {
     "id": "awb_6860f637d8dc201e5388",
     "name": "Neon Radio",
     "country": "GB",
@@ -25849,6 +25866,20 @@
     "updatedAt": "2026-02-06T00:12:57Z"
   },
   {
+    "id": "awb_6d5e34dc22b7a97944a5",
+    "name": "Radio Sudd",
+    "country": "GB",
+    "subdivision": "Wales",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiosudd.co.uk/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T16:56:53Z"
+  },
+  {
     "id": "awb_7702a5a7548b770cde27",
     "name": "Radio TV Pater",
     "country": "GB",
@@ -28912,31 +28943,55 @@
   },
   {
     "id": "awb_e39e1943fb657da33006",
-    "name": "SLE RADIO ONE",
+    "name": "SLE Radio One",
     "country": "GB",
     "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "independent",
+      "indie",
+      "pop",
+      "rock",
+      "synthwave",
+      "underground"
+    ],
     "homepage": "https://sleradio.com/",
     "favicon": "https://sleradio.com/station1.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-05T12:32:25Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-13T18:52:21Z"
   },
   {
     "id": "awb_992620418267c5de6192",
-    "name": "SLE RADIO RAVE",
+    "name": "SLE Radio Rave",
     "country": "GB",
     "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "drum and bass",
+      "electronic",
+      "happy hardcore",
+      "house",
+      "rave",
+      "techno"
+    ],
     "homepage": "https://sleradio.com/",
     "favicon": "https://sleradio.com/station-rave.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-05T12:34:30Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-13T18:52:20Z"
   },
   {
     "id": "awb_c719849ae1f66a75d789",
@@ -34177,6 +34232,31 @@
     "updatedAt": "2026-01-15T05:32:55Z"
   },
   {
+    "id": "awb_22d7038fab84991d39d7",
+    "name": "Xennial FM",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "drum and bass",
+      "electronic",
+      "happy hardcore",
+      "hardcore",
+      "jungle",
+      "rave"
+    ],
+    "homepage": "https://sleradio.com/",
+    "favicon": "https://sleradio.com/station-xennial.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T18:50:10Z"
+  },
+  {
     "id": "awb_ac0bd18980a4a87dbcb6",
     "name": "Xenon Radio",
     "country": "GB",
@@ -34196,7 +34276,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

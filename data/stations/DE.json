@@ -14265,7 +14265,7 @@
   },
   {
     "id": "awb_8066a32cfdca8314b15b",
-    "name": "Absolut relax",
+    "name": "Absolut Relax",
     "country": "DE",
     "subdivision": "Bavaria",
     "languages": [
@@ -14275,7 +14275,7 @@
     "tags": [
       "relax"
     ],
-    "homepage": "https://absolutradio.de/relax",
+    "homepage": "https://absolutradio.de/",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_Absolut_relax.svg/960px-Logo_Absolut_relax.svg.png",
     "type": null,
     "sourceCount": 3,
@@ -21216,7 +21216,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z"
@@ -22884,7 +22884,7 @@
     "id": "awb_57a7c6623f3b848ad6d8",
     "name": "BN-Radio",
     "country": "DE",
-    "subdivision": "Sachsen",
+    "subdivision": "Nordrhein-Westfalen",
     "languages": [
       "de"
     ],
@@ -22895,7 +22895,7 @@
       "electronic"
     ],
     "homepage": "http://www.bn-radio.de/",
-    "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
+    "favicon": "https://stream.bn-radio.de/images/Logo-BN_Radio.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-11-12T09:49:05Z"
@@ -24563,6 +24563,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-08T07:42:50Z"
+  },
+  {
+    "id": "awb_75d96d2d052cc4635c5f",
+    "name": "CDKW24",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "ambient",
+      "jazz"
+    ],
+    "tags": [
+      "easy listening",
+      "jazz",
+      "lounge",
+      "smooth jazz"
+    ],
+    "homepage": "https://clubderklarenworte.de/",
+    "favicon": "https://cdn-profiles.tunein.com/s364778/images/logod.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T13:37:20Z"
   },
   {
     "id": "awb_08ef2cc3a55f21917923",
@@ -35339,6 +35363,39 @@
     "updatedAt": "2026-01-15T08:14:52Z"
   },
   {
+    "id": "awb_f81009d644dffeecb709",
+    "name": "Es wird Morgen",
+    "country": "DE",
+    "subdivision": "Hessen",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "ambient",
+      "blues",
+      "electronic",
+      "hip-hop",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "blues",
+      "chillout",
+      "dance & electronic",
+      "deutscher hip-hop",
+      "hip-hop",
+      "indie",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.es-wird-morgen.de/",
+    "favicon": "https://assets.laut.fm/04b227c7425b3cb8974156895d6e001e?t=_120x120",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T21:03:45Z"
+  },
+  {
     "id": "awb_7275fa5bda2593bd3a92",
     "name": "ESC Radio",
     "country": "DE",
@@ -36846,7 +36903,7 @@
       "rock",
       "soul"
     ],
-    "homepage": "https://www.flaemingradio.de/",
+    "homepage": "https://flaemingradio.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -52987,7 +53044,7 @@
       "techno"
     ],
     "homepage": "https://www.leipzig-beatzz.de/",
-    "favicon": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/75/28/9c75281d-92b1-a6e0-8373-cc9dc35a86d0/source/60x60bb.jpg",
+    "favicon": "https://assets.website-files.com/5f5ff904eff116e46575e21b/5f6007dbf31b43899f2f51c9_Beatzz%20Logo%20Wei%C3%9F-p-800.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -68715,7 +68772,7 @@
       "rock"
     ],
     "homepage": "http://www.radiobob.de/",
-    "favicon": "https://images.radiobob.de/files/2025-05/classic_rock_stream_schrift.jpg",
+    "favicon": "https://www.radiobob.de/",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-08-18T22:57:17Z"
@@ -75779,9 +75836,9 @@
   },
   {
     "id": "awb_111b51398f4845819796",
-    "name": "Radio Paralax",
+    "name": "Radio PARALAX",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
+    "subdivision": "Nordrhein-Westfalen",
     "languages": [
       "de"
     ],
@@ -75833,6 +75890,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-04T21:00:33Z"
+  },
+  {
+    "id": "awb_a51529d43ada858fd4ec",
+    "name": "Radio Paranoid",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "gothic",
+      "metal",
+      "rock"
+    ],
+    "homepage": "https://www.radio-paranoid.net/",
+    "favicon": "https://www.radio-paranoid.net/images/New_HP_Logo.jpg",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-13T12:54:56Z"
   },
   {
     "id": "awb_a3af4ea8bfb66e037186",

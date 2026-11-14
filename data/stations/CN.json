@@ -16174,6 +16174,7 @@
     "country": "CN",
     "subdivision": "Kwangtung",
     "languages": [
+      "yue",
       "zh"
     ],
     "categories": [
@@ -16181,6 +16182,7 @@
       "rock"
     ],
     "tags": [
+      "auto",
       "hits",
       "music",
       "pop",
@@ -16189,8 +16191,8 @@
     "homepage": "https://www.gztv.com/",
     "favicon": "http://pic.qingting.fm/2023/0519/20230519102904.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:13:35Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-14T05:55:52Z"
   },
   {
     "id": "awb_3a75d6705fc93e76f818",
@@ -34135,6 +34137,42 @@
     "updatedAt": "2026-01-15T06:20:33Z"
   },
   {
+    "id": "awb_9ad1075d7dbcf7e12441",
+    "name": "陕西交通广播",
+    "country": "CN",
+    "subdivision": "Shensi",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "traffic radio broadcast"
+    ],
+    "homepage": "http://m.snrtv.com/",
+    "favicon": "https://pic.qtfm.cn/2018/0201/20180201120816.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T23:14:47Z"
+  },
+  {
+    "id": "awb_31b17b63a6772ec59833",
+    "name": "陕西农村广播",
+    "country": "CN",
+    "subdivision": "Shensi",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "agriculture"
+    ],
+    "homepage": "http://m.snrtv.com/",
+    "favicon": "https://pic.qtfm.cn/sso/198/1631506829495_G_Sfqktqx.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T23:11:27Z"
+  },
+  {
     "id": "awb_8c1d154525da03ee5dcd",
     "name": "陕西农村广播",
     "country": "CN",
@@ -34171,6 +34209,27 @@
     "updatedAt": "2026-01-15T01:16:53Z"
   },
   {
+    "id": "awb_34658482369dda0f8b64",
+    "name": "陕西新闻广播",
+    "country": "CN",
+    "subdivision": "Shensi",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "health",
+      "news"
+    ],
+    "homepage": "http://m.snrtv.com/",
+    "favicon": "https://pic.qtfm.cn/2016/0715/20160715150648227.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T23:15:56Z"
+  },
+  {
     "id": "awb_38cef9a78c8696bd50b3",
     "name": "陕西新闻广播",
     "country": "CN",
@@ -34189,6 +34248,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:06:06Z"
+  },
+  {
+    "id": "awb_e2def8d065fc6dc28d85",
+    "name": "陕西经济广播",
+    "country": "CN",
+    "subdivision": "Shensi",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "culture",
+      "music"
+    ],
+    "homepage": "http://m.snrtv.com/",
+    "favicon": "https://pic.qtfm.cn/2026/0423/20260423045410.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T23:09:06Z"
   },
   {
     "id": "awb_6ed6bf1ad15566a47918",
@@ -34294,6 +34372,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:12:24Z"
+  },
+  {
+    "id": "awb_db4dff26f72d0d5544d7",
+    "name": "陕西音乐广播",
+    "country": "CN",
+    "subdivision": "Shensi",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "music"
+    ],
+    "homepage": "http://m.snrtv.com/",
+    "favicon": "https://pic.qtfm.cn/sso/198/1631506916079_0-KbsSKet.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T23:13:40Z"
   },
   {
     "id": "awb_dd7c66eee7682ed263f0",

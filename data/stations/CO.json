@@ -835,6 +835,26 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_9376407fcaab83051735",
+    "name": "armero fm stereo 92.7",
+    "country": "CO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "comunitaria",
+      "crossover",
+      "rancheras",
+      "tropical",
+      "vallenato"
+    ],
+    "homepage": "http://armerofmstereo.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T03:22:17Z"
+  },
+  {
     "id": "awb_bafa19900b9d912dfb36",
     "name": "Armonias Boyacenses 950 AM",
     "country": "CO",
@@ -1226,6 +1246,20 @@
     "updatedAt": "2026-02-16T07:15:51Z"
   },
   {
+    "id": "awb_958be80027575c0a48a0",
+    "name": "Barakah Radio",
+    "country": "CO",
+    "subdivision": "Antioquia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio.albarakah.com.co/",
+    "favicon": "https://radio.albarakah.com.co/assets/img/logo-barakah-radio-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T16:55:16Z"
+  },
+  {
     "id": "awb_987e3368bbe33e855b83",
     "name": "Barranquilla AM",
     "country": "CO",
@@ -1603,7 +1637,7 @@
       "various"
     ],
     "homepage": "https://www.betuliana.com/",
-    "favicon": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/mAu1Ds5YQAA4iPLI69rcZbjz4-PVw4vf5jzhQGl4_ks/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0k4cG1nN1FrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lpcEx4MlFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcyNjc2OTczNzAwMA.webp",
+    "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/mAu1Ds5YQAA4iPLI69rcZbjz4-PVw4vf5jzhQGl4_ks/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0k4cG1nN1FrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lpcEx4MlFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcyNjc2OTczNzAwMA.webp",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:36:23Z"
@@ -10725,6 +10759,20 @@
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
+    "id": "awb_66f3c4047378ac1b0382",
+    "name": "RADIO PROMESA ESTEREO",
+    "country": "CO",
+    "subdivision": "VALLE DEL CAUCA",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiopromesaestereo.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T14:15:13Z"
+  },
+  {
     "id": "awb_7fc58f262d248c9550cb",
     "name": "Radio Recuerdos 1230 AM",
     "country": "CO",
@@ -11040,6 +11088,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-11T21:57:21Z"
+  },
+  {
+    "id": "awb_d6451b5c39efe9d39d4b",
+    "name": "Radio UNAD Virtual",
+    "country": "CO",
+    "subdivision": "Bogota D.C.",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "college",
+      "jazz"
+    ],
+    "tags": [
+      "academico",
+      "educacion",
+      "jazz",
+      "music",
+      "radio hablada",
+      "university radio"
+    ],
+    "homepage": "https://ruv.unad.edu.co/ruvwp/",
+    "favicon": "https://ruv.unad.edu.co/ruvwp/wp-content/themes/ruvtheme/img/logo-ruv.png",
+    "type": "college",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-13T23:53:21Z"
   },
   {
     "id": "awb_efe86b9994155508d623",
