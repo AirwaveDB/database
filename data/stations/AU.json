@@ -6285,7 +6285,7 @@
     "id": "awb_bb5ded60dc6fe9596645",
     "name": "ABC Radio Goulburn Murray",
     "country": "AU",
-    "subdivision": "Victoria",
+    "subdivision": "Wodonga VIC",
     "languages": [
       "en"
     ],
@@ -6305,7 +6305,7 @@
       "public radio",
       "talk"
     ],
-    "homepage": "https://www.abc.net.au/listen/live/goulburnmurray/",
+    "homepage": "https://www.abc.net.au/listen/live/goulburnmurray",
     "favicon": "https://live-production.wcms.abc-cdn.net.au/dcb14254d898b30957b98605ea57385f",
     "type": "public",
     "sourceCount": 2,
@@ -6612,35 +6612,6 @@
     "updatedAt": "2026-10-11T22:31:15Z"
   },
   {
-    "id": "awb_68839ee58cc16ac36ef0",
-    "name": "ABC Radio National (SA)",
-    "country": "AU",
-    "subdivision": "South Australia",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "arts",
-      "culture",
-      "education",
-      "national radio",
-      "news",
-      "news talk",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "https://www.abc.net.au/listen/radionational/",
-    "favicon": "https://live-production.wcms.abc-cdn.net.au/556166359443f9aaa26ce7b905c4a29f",
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T08:36:03Z"
-  },
-  {
     "id": "awb_e37d9162bcf397ae1645",
     "name": "ABC Radio National (TAS)",
     "country": "AU",
@@ -6800,6 +6771,35 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:29:20Z"
+  },
+  {
+    "id": "awb_68839ee58cc16ac36ef0",
+    "name": "ABC Radio National SA",
+    "country": "AU",
+    "subdivision": "South Australia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "public",
+      "talk"
+    ],
+    "tags": [
+      "arts",
+      "culture",
+      "education",
+      "national radio",
+      "news",
+      "news talk",
+      "public radio",
+      "talk"
+    ],
+    "homepage": "https://www.abc.net.au/listen/radionational",
+    "favicon": "https://live-production.wcms.abc-cdn.net.au/556166359443f9aaa26ce7b905c4a29f",
+    "type": "public",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-12T08:36:03Z"
   },
   {
     "id": "awb_3fead8a25b9939df74e3",

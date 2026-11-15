@@ -208,5 +208,39 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_6b6792df099e59507f2e",
+    "name": "VAYO FM",
+    "country": "KH",
+    "subdivision": null,
+    "languages": [
+      "km"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://vayofm.com/",
+    "favicon": "https://vayofm.com/images/vayo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T13:16:24Z"
+  },
+  {
+    "id": "awb_785a4490918f4f9100db",
+    "name": "Women's Radio",
+    "country": "KH",
+    "subdivision": null,
+    "languages": [
+      "km"
+    ],
+    "categories": [],
+    "tags": [
+      "women"
+    ],
+    "homepage": "https://wmc.org.kh/page/10/",
+    "favicon": "https://wmc.org.kh/wp-content/uploads/2023/03/Logo-Womens-Media-Final_OK_02-1-21-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:34:54Z"
   }
 ]

@@ -2553,6 +2553,31 @@
     "updatedAt": "2026-01-20T12:39:54Z"
   },
   {
+    "id": "awb_6c1ba0c8415ca9bf1a27",
+    "name": "Cidade AM 860",
+    "country": "BR",
+    "subdivision": "Ceará",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "am",
+      "ceará",
+      "fortaleza",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://gcmais.com.br/radio/cidadeam860/",
+    "favicon": "https://media.gcmais.com.br/site-assets/articles/_logos-radios-color/am-pag-radios.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T15:38:14Z"
+  },
+  {
     "id": "awb_2c922cfda96cf530ceb5",
     "name": "Cidade FM de Matão",
     "country": "BR",
@@ -4782,6 +4807,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_e33f1dd2473ca20fa25b",
+    "name": "GOMES FM 100,7",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://player.srvsh.com.br/player-home-page/8126",
+    "favicon": "https://ouvirradioonline.com.br/logos_processadas/logo_75965_cad.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T19:09:34Z"
+  },
+  {
     "id": "awb_fe3309de01c278dc50a0",
     "name": "Gospel FM",
     "country": "BR",
@@ -6127,6 +6170,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-17T14:36:47Z"
+  },
+  {
+    "id": "awb_f55fbee172929fd87b14",
+    "name": "Jovem Pan FM Fortaleza",
+    "country": "BR",
+    "subdivision": "Ceará",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "ceará",
+      "fortaleza",
+      "hits",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://jovempan.com.br/afiliada/fortaleza-fm/",
+    "favicon": "https://jovempan.com.br/wp-content/uploads/sites/2/2026/06/cropped-favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T15:38:16Z"
   },
   {
     "id": "awb_3cf0364d74638331978a",
@@ -8522,6 +8589,23 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_518f21a32a185636a8b0",
+    "name": "Nossa sertaneja",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "sertaneja",
+      "sertanejo"
+    ],
+    "homepage": "https://nossasertaneja.com.br/",
+    "favicon": "https://nossasertaneja.com.br/imagens/sem%20fundo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T23:08:00Z"
+  },
+  {
     "id": "awb_efba3540f419af89c096",
     "name": "Nova Brasil 106,5 FM Maceió",
     "country": "BR",
@@ -9262,6 +9346,31 @@
     "updatedAt": "2026-08-14T19:10:47Z"
   },
   {
+    "id": "awb_5b1fb9191f04d9375fcb",
+    "name": "Pista das Antigas",
+    "country": "BR",
+    "subdivision": "Santa Catarina",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "00s",
+      "80s",
+      "90s",
+      "classic hits",
+      "flashback"
+    ],
+    "homepage": "https://pistadasantigas.com.br/",
+    "favicon": "https://pistadasantigas.com.br/public/30971-2026-04-07.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T00:53:08Z"
+  },
+  {
     "id": "awb_3f36af7172f48abb0108",
     "name": "planeta fm 102,7 miraguai",
     "country": "BR",
@@ -9809,26 +9918,6 @@
     "updatedAt": "2026-03-13T15:28:20Z"
   },
   {
-    "id": "awb_7d0bf2e2e09af27cbba5",
-    "name": "Radio 1 Classe",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [
-      "pt"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "classicos hits"
-    ],
-    "homepage": "https://www.radiopc.com.br/",
-    "favicon": "https://cp-1.owh.radio.br/static/uploads/owh_s35320/album_art.1794231272.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-09T17:05:31Z"
-  },
-  {
     "id": "awb_8e23ee24b7cb7fe87615",
     "name": "Rádio 100 FM",
     "country": "BR",
@@ -10023,6 +10112,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-02T17:54:06Z"
+  },
+  {
+    "id": "awb_7d0bf2e2e09af27cbba5",
+    "name": "Radio 1ª Classe",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "classic hits"
+    ],
+    "homepage": "https://www.radiopc.com.br/",
+    "favicon": "https://cp-1.owh.radio.br/static/uploads/owh_s35320/album_art.1794231272.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T17:06:24Z"
   },
   {
     "id": "awb_ad697dd4ce62e73db0b2",
@@ -10307,6 +10416,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-24T16:01:43Z"
+  },
+  {
+    "id": "awb_5fff3979bad0e85827f6",
+    "name": "Rádio AD DEL",
+    "country": "BR",
+    "subdivision": "Piauí",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://radioaddel.suawebradio.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s364800/images/logog.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:28:07Z"
   },
   {
     "id": "awb_d53b0a4ac843bc34cc15",
@@ -11641,6 +11772,28 @@
     "updatedAt": "2026-02-23T16:31:01Z"
   },
   {
+    "id": "awb_d4ed0cb47c3dbd638577",
+    "name": "Rádio Bíblia NVT",
+    "country": "BR",
+    "subdivision": "Ceará",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://redeimpactogospel.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s364794/images/logog.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:26:25Z"
+  },
+  {
     "id": "awb_3e8c399c2f455eddc1b5",
     "name": "Rádio Bíblia SBB",
     "country": "BR",
@@ -12448,6 +12601,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-15T13:05:36Z"
+  },
+  {
+    "id": "awb_c8d1fd53cea043fb3493",
+    "name": "Rádio CEADEP",
+    "country": "BR",
+    "subdivision": "Piauí",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://www.radio.ceadep.com.br/",
+    "favicon": "https://cdn-profiles.tunein.com/s364793/images/logog.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:26:14Z"
   },
   {
     "id": "awb_18a3b74148d5f1280d16",
@@ -14068,6 +14243,30 @@
     "updatedAt": "2026-02-05T12:26:29Z"
   },
   {
+    "id": "awb_1afa37c0d89e7d17aa56",
+    "name": "Rádio Eldorado 87.9 FM - Paracatu MG",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "ecletica",
+      "música pop",
+      "pop rock",
+      "sertaneja"
+    ],
+    "homepage": "https://www.eldoradofm.cpusistemaseweb.com.br/",
+    "favicon": "https://www.eldoradofm.cpusistemaseweb.com.br/thumb.php?h=70&src=images/1760555658.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T23:44:53Z"
+  },
+  {
     "id": "awb_83091f5de38f7f4c856e",
     "name": "Rádio Elohim",
     "country": "BR",
@@ -14225,6 +14424,28 @@
     "updatedAt": "2026-04-19T13:02:41Z"
   },
   {
+    "id": "awb_85b6f4b83c5d2993e242",
+    "name": "Rádio Esperança AM 850",
+    "country": "BR",
+    "subdivision": "Piauí",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://www.radioesperancadepicos.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:28:41Z"
+  },
+  {
     "id": "awb_10790912699af4242119",
     "name": "Radio Espinharas",
     "country": "BR",
@@ -14267,6 +14488,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_c0224c2dabfb9ad6ad18",
+    "name": "Rádio Estação Gospel",
+    "country": "BR",
+    "subdivision": "Piauí",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "http://www.radioestacaogospel.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s204103/images/logog.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:24:10Z"
   },
   {
     "id": "awb_4f54f0d1613e1e717d04",
@@ -14620,6 +14863,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-06T21:15:18Z"
+  },
+  {
+    "id": "awb_c8f681d002b8b59dd99e",
+    "name": "Rádio Forró Gospel",
+    "country": "BR",
+    "subdivision": "Ceará",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://forrogospel.redegospelbrasil.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s364801/images/logog.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:28:18Z"
   },
   {
     "id": "awb_829aafdf80211bd2cc82",
@@ -15289,6 +15554,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_a29fb2a61e9ea3552607",
+    "name": "Rádio Harpa Cristã",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://reliquiasgospel.redegospelbrasil.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s364789/images/logog.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:25:17Z"
   },
   {
     "id": "awb_999e9637b325699c8129",
@@ -17397,6 +17684,28 @@
     "updatedAt": "2026-11-09T12:20:00Z"
   },
   {
+    "id": "awb_7ead653049fe096b565b",
+    "name": "Rádio Missão Resgate",
+    "country": "BR",
+    "subdivision": "Piauí",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://redeimpactogospel.com/",
+    "favicon": "https://directory.streamerr.co/uploads/logos/1794599689_96d4b2757a59d368e5f2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:27:45Z"
+  },
+  {
     "id": "awb_1814275994c5f57df8fb",
     "name": "Rádio Mix 106.3 FM",
     "country": "BR",
@@ -18585,6 +18894,28 @@
     "updatedAt": "2026-01-15T00:36:24Z"
   },
   {
+    "id": "awb_3598c34abb05a79c6e83",
+    "name": "Rádio Picos Gospel",
+    "country": "BR",
+    "subdivision": "Piauí",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://picosgospel.redegospelbrasil.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s364797/images/logog.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:27:33Z"
+  },
+  {
     "id": "awb_72a7178b1ec0d0c348a1",
     "name": "Rádio Pirafm",
     "country": "BR",
@@ -18765,6 +19096,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:32:55Z"
+  },
+  {
+    "id": "awb_1294b01e74219067ed18",
+    "name": "Rádio Pregação Pentecostal",
+    "country": "BR",
+    "subdivision": "Santa Catarina",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://pregacao.redegospelbrasil.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s362095/images/logog.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:25:05Z"
   },
   {
     "id": "awb_5c623e97423b7851103f",
@@ -19656,6 +20009,28 @@
     "updatedAt": "2026-09-07T19:52:12Z"
   },
   {
+    "id": "awb_43b1d2722bf3585dc7c0",
+    "name": "Rádio Saudade Gospel",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://redeimpactogospel.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s364795/images/logog.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:26:48Z"
+  },
+  {
     "id": "awb_c4ccc29c6e0e290e39d7",
     "name": "Rádio SB 106.3 FM",
     "country": "BR",
@@ -19902,6 +20277,28 @@
     "updatedAt": "2026-02-24T12:27:46Z"
   },
   {
+    "id": "awb_f999c6bfc52b8ad5a8f7",
+    "name": "Rádio Sertanejo Gospel",
+    "country": "BR",
+    "subdivision": "Goiás",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://radiosertanejogospel.suawebradio.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s364792/images/logog.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:26:02Z"
+  },
+  {
     "id": "awb_0fdd1c413d93ef4c3d83",
     "name": "Rádio Sertanejo Play",
     "country": "BR",
@@ -20082,6 +20479,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-25T03:22:08Z"
+  },
+  {
+    "id": "awb_c81f7e4754d5c0ba8f02",
+    "name": "Rádio Som do Avivamento",
+    "country": "BR",
+    "subdivision": "Piauí",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://redeimpactogospel.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s364790/images/logog.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:25:39Z"
   },
   {
     "id": "awb_3dfe5286cfdc9fefc4fc",
@@ -20999,6 +21418,24 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_ba74b7336900e313791c",
+    "name": "Radio Uai do Tony",
+    "country": "BR",
+    "subdivision": "RJ",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop hits e flashbacks em geral"
+    ],
+    "homepage": "https://bondstarvideo.my.canva.site/clic-para-ouvir",
+    "favicon": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2Fb42a47c9-fa54-42ad-ae9c-5e18e810eec8/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAFbPkzZaz7UKp2IOodB4UzmN859PjKARkmo79vfsgD3c&exp=1794698819&osig=AAAAAAAAAAAAAAAAAAAAAEyJE74uL8E1EoKqqJrIYuT8X8IrtMXCYfZpLAatxurK&signer=media-rpc&token=AAIAAU0AJGI0MmE0N2M5LWZhNTQtNDJhZC1hZTljLTVlMThlODEwZWVjOAAAAAABodxitbj26wXyIBmM2n6Xe8SSsyRLoNHAQ_FH0sfLJaih-_EFgg&x-canva-quality=thumbnail",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T19:29:25Z"
+  },
+  {
     "id": "awb_913a056e566701d020c8",
     "name": "Rádio Ubatuba Surf",
     "country": "BR",
@@ -21653,6 +22090,23 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_bca54aed4173dacb3234",
+    "name": "Rádio Vitória 87.9 FM - Paracatu",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "ecletica",
+      "sertaneja"
+    ],
+    "homepage": "https://radiovitoria.com.br/",
+    "favicon": "https://radiovitoria.com.br/images/logo_1623582319.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T23:32:37Z"
+  },
+  {
     "id": "awb_d6e38242dfb0876e096f",
     "name": "Rádio Viva 106.7 FM",
     "country": "BR",
@@ -21942,6 +22396,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_66015562ee09f626b9ad",
+    "name": "Rádio XPsky",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "hip-hop",
+      "rock"
+    ],
+    "tags": [
+      "edm",
+      "lofi",
+      "rap",
+      "rock"
+    ],
+    "homepage": "https://radio.xpsky.online/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T23:34:41Z"
   },
   {
     "id": "awb_cca810e58945ce5f354a",
@@ -22575,6 +23054,24 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_5f9cc1934398b92ed1d0",
+    "name": "ROMANTICA1",
+    "country": "BR",
+    "subdivision": "São Paulo (SP)",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "romantico"
+    ],
+    "homepage": "https://romantica1.online/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T19:26:18Z"
   },
   {
     "id": "awb_07ed420b15a03f470511",
@@ -24132,6 +24629,26 @@
     "updatedAt": "2026-08-24T18:31:42Z"
   },
   {
+    "id": "awb_43fc3ba1c1722c6c20a2",
+    "name": "Unica FM - Paracatu MG 92.5 FM",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "ecletica",
+      "pop",
+      "sertaneja"
+    ],
+    "homepage": "https://unicanoar.com.br/",
+    "favicon": "https://unicanoar.com.br/hf-conteudo/uploads/layout/logo_c712dcf9950a9c91090b2187b1fc88d8.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T23:23:55Z"
+  },
+  {
     "id": "awb_f64a4e72413f99bf42eb",
     "name": "Unijuí FM",
     "country": "BR",
@@ -24647,6 +25164,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_6f089a571cdff726bd5b",
+    "name": "Web Rádio Diz a Bíblia",
+    "country": "BR",
+    "subdivision": "Pernambuco",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://dizabiblia.redegospelbrasil.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s364796/images/logog.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T12:27:10Z"
   },
   {
     "id": "awb_40ac31834225abc35b2a",

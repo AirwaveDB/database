@@ -7398,6 +7398,24 @@
     "updatedAt": "2026-06-09T01:45:16Z"
   },
   {
+    "id": "awb_c96c00bc545701ef6aa9",
+    "name": "任丘综合广播",
+    "country": "CN",
+    "subdivision": "Hopei",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "full service"
+    ],
+    "homepage": "https://zhuanti.hebnews.cn/2016/node_145151.htm",
+    "favicon": "http://pic.qtfm.cn/2024/0320/20240320095039.jpeg!200",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T02:26:24Z"
+  },
+  {
     "id": "awb_8327e558dd5bab1360cb",
     "name": "伊春第一套广播",
     "country": "CN",
@@ -9768,6 +9786,24 @@
     "updatedAt": "2026-03-19T02:08:04Z"
   },
   {
+    "id": "awb_9cebddbca217c4012e7a",
+    "name": "厦门交通旅游广播",
+    "country": "CN",
+    "subdivision": "Fukien",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "traffic radio broadcast"
+    ],
+    "homepage": "https://www.xmtv.cn/",
+    "favicon": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Pg2WiaicAAsrdfUiaGkX0fOu7NVQVshcDQKxjDIEErAorNXXKQlCiaROl073kWhBM9ozuOcibcu09YYS7sTFPncib74EoyXlhIh55CU7MiaZAeWYOo/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T02:52:58Z"
+  },
+  {
     "id": "awb_377144e360014352a718",
     "name": "厦门经济交通广播",
     "country": "CN",
@@ -9784,6 +9820,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:00:01Z"
+  },
+  {
+    "id": "awb_2c46c4a719a47398915f",
+    "name": "厦门综合广播",
+    "country": "CN",
+    "subdivision": "Fukien",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.xmtv.cn/",
+    "favicon": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Pg2WiaicAAsrdfUiaGkX0fOu7NVQVshcDQKxjDIEErAorNXXKQlCiaROl073kWhBM9ozuOcibcu09YYS7sTFPncib74EoyXlhIh55CU7MiaZAeWYOo/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T02:57:01Z"
   },
   {
     "id": "awb_cd8f0df9b2323c5a9ac1",
@@ -9820,8 +9876,8 @@
     "homepage": "https://www.xmtv.cn/",
     "favicon": "https://static.tudoradio.com/ins/w:120/plain/https://tudoradio.com/img/uploads/radios/radio_fm90salto.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-15T02:55:01Z"
   },
   {
     "id": "awb_7265c63e21ab77eb8055",
@@ -32482,7 +32538,7 @@
       "information",
       "news"
     ],
-    "homepage": "http://www.nxw.org.cn/",
+    "homepage": "https://www.nxw.org.cn/",
     "favicon": "http://pic.qingting.fm/2017/0413/20170413110818.jpeg",
     "type": null,
     "sourceCount": 2,

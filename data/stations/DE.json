@@ -14265,7 +14265,7 @@
   },
   {
     "id": "awb_8066a32cfdca8314b15b",
-    "name": "Absolut Relax",
+    "name": "Absolut relax",
     "country": "DE",
     "subdivision": "Bavaria",
     "languages": [
@@ -14275,7 +14275,7 @@
     "tags": [
       "relax"
     ],
-    "homepage": "https://absolutradio.de/",
+    "homepage": "https://absolutradio.de/relax",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_Absolut_relax.svg/960px-Logo_Absolut_relax.svg.png",
     "type": null,
     "sourceCount": 3,
@@ -18229,6 +18229,26 @@
     "updatedAt": "2026-01-15T05:28:02Z"
   },
   {
+    "id": "awb_f012668aedd4405d6dcf",
+    "name": "Antenne Thüringen Radio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.antennethueringen.de/",
+    "favicon": "https://dabplus.live/logo/824dc70684ed47218f636e1fb671c123.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T20:22:30Z"
+  },
+  {
     "id": "awb_ed29dee81655daf907be",
     "name": "antenne Thüringen Rock",
     "country": "DE",
@@ -21216,7 +21236,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
+    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z"
@@ -22739,7 +22759,7 @@
   },
   {
     "id": "awb_8190c9ddc390bf0a7507",
-    "name": "Blues Club - Laut.FM",
+    "name": "Blues Club - Laut.fm",
     "country": "DE",
     "subdivision": null,
     "languages": [
@@ -22884,7 +22904,7 @@
     "id": "awb_57a7c6623f3b848ad6d8",
     "name": "BN-Radio",
     "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
+    "subdivision": "Sachsen",
     "languages": [
       "de"
     ],
@@ -22895,7 +22915,7 @@
       "electronic"
     ],
     "homepage": "http://www.bn-radio.de/",
-    "favicon": "https://stream.bn-radio.de/images/Logo-BN_Radio.png",
+    "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-11-12T09:49:05Z"
@@ -49935,6 +49955,26 @@
     "updatedAt": "2026-01-15T06:34:58Z"
   },
   {
+    "id": "awb_14309121c222b7be87f7",
+    "name": "LandesWelle Thüringen Radio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.landeswelle.de/",
+    "favicon": "https://dabplus.live/logo/01972efc927d41a5bac13a6d3a177df5.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T20:23:59Z"
+  },
+  {
     "id": "awb_b222a2a758c8b32f7461",
     "name": "LandesWelle WeihnachtsWelle",
     "country": "DE",
@@ -53044,7 +53084,7 @@
       "techno"
     ],
     "homepage": "https://www.leipzig-beatzz.de/",
-    "favicon": "https://assets.website-files.com/5f5ff904eff116e46575e21b/5f6007dbf31b43899f2f51c9_Beatzz%20Logo%20Wei%C3%9F-p-800.png",
+    "favicon": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/75/28/9c75281d-92b1-a6e0-8373-cc9dc35a86d0/source/60x60bb.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -63249,6 +63289,28 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_87c5f869f1eeee729eba",
+    "name": "Post-Rock Nation Radio",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "languages": [],
+    "categories": [
+      "ambient",
+      "rock"
+    ],
+    "tags": [
+      "ambient",
+      "experimental",
+      "instrumental",
+      "post-rock"
+    ],
+    "homepage": "https://postrocknation.com/radio",
+    "favicon": "https://postrocknation.com/build/assets/logo-217f81c3.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T19:26:51Z"
+  },
+  {
     "id": "awb_9831460c1af259d840c7",
     "name": "postpunk",
     "country": "DE",
@@ -66170,6 +66232,32 @@
     "updatedAt": "2026-09-27T15:51:35Z"
   },
   {
+    "id": "awb_eafea8353831f90fc184",
+    "name": "Radio Aix-Clusive",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "aachen",
+      "hits",
+      "oldies",
+      "pop"
+    ],
+    "homepage": "https://radio-aix-clusive.de/",
+    "favicon": "https://radio.kern.info/img/logo-aix-300.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T18:04:38Z"
+  },
+  {
     "id": "awb_9536b7d40db5bfb6f2c7",
     "name": "radio aktiv Hameln",
     "country": "DE",
@@ -68772,7 +68860,7 @@
       "rock"
     ],
     "homepage": "http://www.radiobob.de/",
-    "favicon": "https://www.radiobob.de/",
+    "favicon": "https://images.radiobob.de/files/2025-05/classic_rock_stream_schrift.jpg",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-08-18T22:57:17Z"
@@ -69456,7 +69544,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobreidenbach.de/",
+    "homepage": "https://www.radiobreidenbach.de/index.php?seite=startseite",
     "favicon": "https://www.radiobreidenbach.de/templates/favicon.ico",
     "type": null,
     "sourceCount": 2,
@@ -75836,9 +75924,9 @@
   },
   {
     "id": "awb_111b51398f4845819796",
-    "name": "Radio PARALAX",
+    "name": "Radio Paralax",
     "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
+    "subdivision": "North Rhine-Westphalia",
     "languages": [
       "de"
     ],
@@ -81239,7 +81327,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
+    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"
@@ -87024,6 +87112,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:04:28Z"
+  },
+  {
+    "id": "awb_e7bb9486830323dc9195",
+    "name": "Rockhausradio Saarland",
+    "country": "DE",
+    "subdivision": "Saarland (Germany)",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://www.rockhausradio.de/",
+    "favicon": "https://www.rockhausradio.de/favicon",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T13:54:22Z"
   },
   {
     "id": "awb_2deeb2ea22b950d0d0d1",

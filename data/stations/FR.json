@@ -2101,7 +2101,7 @@
       "pop"
     ],
     "homepage": "https://airconnectradio.com/",
-    "favicon": "https://airconnectradio.com/img/logo.png",
+    "favicon": "https://airconnectradio.com/wp-content/uploads/2025/01/ac-grand.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-04-30T12:56:57Z"
@@ -10921,7 +10921,7 @@
   },
   {
     "id": "awb_31f6b9c5492374858e6a",
-    "name": "FIP",
+    "name": "Fip",
     "country": "FR",
     "subdivision": null,
     "languages": [],
@@ -11501,7 +11501,7 @@
       "pop"
     ],
     "homepage": "https://www.fip.fr/pop/webradio",
-    "favicon": "https://www.fip.fr/dist/favicons/logo-120.png",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -34380,7 +34380,7 @@
   },
   {
     "id": "awb_4242dc875d1bdd4fe48f",
-    "name": "Puissance Max La Radio",
+    "name": "Puissance Max la Radio",
     "country": "FR",
     "subdivision": "Auvergne-Rhône-Alpes",
     "languages": [
@@ -34395,8 +34395,8 @@
       "top 40",
       "top hits"
     ],
-    "homepage": "https://www.puissance-max-la-radio.fr/#apropos",
-    "favicon": "https://static.wixstatic.com/media/eea892_1334dfd05976420cba30d24bcba8af47~mv2.png/v1/fill/w_462,h_460,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vierge.png",
+    "homepage": "https://puissance-max-la-radio.fr/",
+    "favicon": "https://www.image-heberg.fr/files/17675323612993863926.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-05T10:31:11Z"
@@ -38949,6 +38949,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_f477786b482accbb56c4",
+    "name": "Radio Néo Toulouse",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radioneo.fr/",
+    "favicon": "https://www.radioneo.fr/upload/design/65e6dba4d28802.92952118.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T20:37:12Z"
   },
   {
     "id": "awb_4c90e398b1df1a542782",

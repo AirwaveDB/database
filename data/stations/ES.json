@@ -536,21 +536,24 @@
     ],
     "categories": [
       "oldies",
-      "pop"
+      "pop",
+      "rock"
     ],
     "tags": [
       "70s",
       "80s",
       "90s",
       "dance",
+      "disco",
       "pop",
+      "rock",
       "romantic"
     ],
     "homepage": "https://musica80.radioclub.es/",
-    "favicon": null,
+    "favicon": "https://assets.laut.fm/51443b263d4b82dd4e7c24b811b8ddd7?t=_640x640",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-14T15:09:32Z"
   },
   {
     "id": "awb_d43c43cafb447d5509ee",
@@ -1038,8 +1041,8 @@
     "homepage": "https://alexwolfradio.com/?from=radio_browser",
     "favicon": "https://alexwolfradio.com/assets/radio-logo.jpg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-21T08:32:58Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-14T23:05:03Z"
   },
   {
     "id": "awb_8f53519a56b3a6b4c223",
@@ -8178,13 +8181,18 @@
     "languages": [
       "es"
     ],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "éxitos internacionales del siglo xxi"
+    ],
     "homepage": "https://hitfm.es/",
-    "favicon": null,
+    "favicon": "https://www.hitfm.es/wp-content/uploads/2019/06/cropped-favicon-192x192.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-14T18:55:10Z"
   },
   {
     "id": "awb_aa7624a1e96d5b553ea7",
@@ -12616,8 +12624,8 @@
       "sports",
       "talks"
     ],
-    "homepage": "https://www.ondacero.es/emisoras/andalucia/huelva/directo/",
-    "favicon": "https://i.scdn.co/image/ab6775700000ee851a865a3769a3e6868928a43f",
+    "homepage": "https://ondacero.es/",
+    "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-04-01T11:00:35Z"
@@ -12833,6 +12841,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:13:35Z"
+  },
+  {
+    "id": "awb_8f8c8b3a4fcb24bf0647",
+    "name": "Onda Cero Tierras de Medina",
+    "country": "ES",
+    "subdivision": "Medina del Campo",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.ondacerotierrasdemedina.es/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T22:19:51Z"
   },
   {
     "id": "awb_3360f12b6fc42c61c8f9",
