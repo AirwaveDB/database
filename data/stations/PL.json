@@ -53,6 +53,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_140ff942fbfbb20c2605",
+    "name": "24Dubstep.pl || DropZone Radio - MP3 320",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://24dubstep.com/#kanaly",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T17:12:30Z"
+  },
+  {
     "id": "awb_57814e5f9df50c1474ba",
     "name": "357",
     "country": "PL",
@@ -3398,6 +3412,22 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_949bb4bb22b72d553248",
+    "name": "Nasze Radio",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "misc"
+    ],
+    "homepage": "https://www.nasze.fm/",
+    "favicon": "https://nasze.fm/loga/NRlogokwadrat.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T17:03:03Z"
+  },
+  {
     "id": "awb_f717679b123a4c75d9a8",
     "name": "Nasze RAdio",
     "country": "PL",
@@ -6486,18 +6516,27 @@
   },
   {
     "id": "awb_a36c318c078b185a6027",
-    "name": "Radio Hit",
+    "name": "Radio HIT 107.6 FM",
     "country": "PL",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "pl"
+    ],
     "categories": [
-      "classical"
+      "news",
+      "pop",
+      "rock"
     ],
     "tags": [
-      "classical"
+      "dance",
+      "hits",
+      "local news",
+      "polish music",
+      "pop",
+      "rock"
     ],
-    "homepage": null,
-    "favicon": null,
+    "homepage": "https://www.radiohit.net.pl/",
+    "favicon": "https://plyty.radiohit.net.pl/wp-content/uploads/2026/11/logo-radio-hit-512x512px.png",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
@@ -7162,6 +7201,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_292138a4e21844780355",
+    "name": "Radio LOOP24",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://loop24.pl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T11:13:03Z"
   },
   {
     "id": "awb_4153e4c77ff71b748d1b",

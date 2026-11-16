@@ -485,11 +485,20 @@
     "name": "Radio María de la Caridad",
     "country": "CU",
     "subdivision": "Santiago de Cuba",
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "catholic radio",
+      "christian-gospel",
+      "cuban",
+      "roman catholic church"
+    ],
     "homepage": "https://soloist.ai/radiomariadelacaridad",
-    "favicon": null,
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/281/radio-maria-de-la-caridad.a68835c2.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"

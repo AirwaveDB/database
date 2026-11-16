@@ -6285,7 +6285,7 @@
     "id": "awb_bb5ded60dc6fe9596645",
     "name": "ABC Radio Goulburn Murray",
     "country": "AU",
-    "subdivision": "Wodonga VIC",
+    "subdivision": "Victoria",
     "languages": [
       "en"
     ],
@@ -6305,7 +6305,7 @@
       "public radio",
       "talk"
     ],
-    "homepage": "https://www.abc.net.au/listen/live/goulburnmurray",
+    "homepage": "https://www.abc.net.au/listen/live/goulburnmurray/",
     "favicon": "https://live-production.wcms.abc-cdn.net.au/dcb14254d898b30957b98605ea57385f",
     "type": "public",
     "sourceCount": 2,
@@ -6612,6 +6612,35 @@
     "updatedAt": "2026-10-11T22:31:15Z"
   },
   {
+    "id": "awb_68839ee58cc16ac36ef0",
+    "name": "ABC Radio National (SA)",
+    "country": "AU",
+    "subdivision": "South Australia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "public",
+      "talk"
+    ],
+    "tags": [
+      "arts",
+      "culture",
+      "education",
+      "national radio",
+      "news",
+      "news talk",
+      "public radio",
+      "talk"
+    ],
+    "homepage": "https://www.abc.net.au/listen/radionational/",
+    "favicon": "https://live-production.wcms.abc-cdn.net.au/556166359443f9aaa26ce7b905c4a29f",
+    "type": "public",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-12T08:36:03Z"
+  },
+  {
     "id": "awb_e37d9162bcf397ae1645",
     "name": "ABC Radio National (TAS)",
     "country": "AU",
@@ -6771,35 +6800,6 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:29:20Z"
-  },
-  {
-    "id": "awb_68839ee58cc16ac36ef0",
-    "name": "ABC Radio National SA",
-    "country": "AU",
-    "subdivision": "South Australia",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "arts",
-      "culture",
-      "education",
-      "national radio",
-      "news",
-      "news talk",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "https://www.abc.net.au/listen/radionational",
-    "favicon": "https://live-production.wcms.abc-cdn.net.au/556166359443f9aaa26ce7b905c4a29f",
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T08:36:03Z"
   },
   {
     "id": "awb_3fead8a25b9939df74e3",
@@ -23680,6 +23680,20 @@
     "updatedAt": "2026-04-07T05:27:22Z"
   },
   {
+    "id": "awb_a12fe5b74c3712ba9acb",
+    "name": "Nest Radio 3NOW 98.9",
+    "country": "AU",
+    "subdivision": "Victoria",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://nest.radio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T08:15:12Z"
+  },
+  {
     "id": "awb_985fbb0b158843aa09ba",
     "name": "NetFM - Sydney (MP3)",
     "country": "AU",
@@ -31109,19 +31123,31 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
-    "id": "awb_9e12f91455245d57ddfe",
+    "id": "awb_6790399ad06b76a0ad05",
     "name": "Triple J",
     "country": "AU",
     "subdivision": null,
     "languages": [
       "en"
     ],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "electronic",
+      "hip-hop",
+      "public",
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "electronic",
+      "hip-hop",
+      "indie",
+      "indie rock",
+      "public radio"
+    ],
     "homepage": "http://www.abc.net.au/triplej/",
     "favicon": "http://www.abc.net.au/core-assets/triplej/favicon-32x32.png",
-    "type": null,
-    "sourceCount": 1,
+    "type": "public",
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T23:44:14Z"
   },
   {
@@ -31449,28 +31475,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:34:09Z"
-  },
-  {
-    "id": "awb_6790399ad06b76a0ad05",
-    "name": "Tripple J JJJ",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "folk",
-      "rock"
-    ],
-    "tags": [
-      "folk",
-      "rock"
-    ],
-    "homepage": "http://www.abc.net.au/triplej/",
-    "favicon": "http://www.abc.net.au/core-assets/triplej/favicon-32x32.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:32:38Z"
   },
   {
     "id": "awb_db0676a8ed77a3f2dcde",
@@ -32385,6 +32389,24 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:42:32Z"
+  },
+  {
+    "id": "awb_72c8c075d487ece08be3",
+    "name": "X3 FM",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "r&b"
+    ],
+    "homepage": "http://20.199.80.17:24671/xeno",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T03:55:19Z"
   },
   {
     "id": "awb_d580dd1a91d0c1668a60",

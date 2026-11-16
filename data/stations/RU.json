@@ -11178,9 +11178,18 @@
     "name": "MelodiClab Radio",
     "country": "RU",
     "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic",
+      "melodic house",
+      "melodic techno",
+      "progressive house"
+    ],
     "homepage": "https://radio.melodiclab.studio/",
     "favicon": "https://radio.melodiclab.studio/favicon.svg",
     "type": null,
@@ -36072,6 +36081,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:02:44Z"
+  },
+  {
+    "id": "awb_0a6278722ae4743b274c",
+    "name": "Олегатор ФМ / OlegatorFM",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "homepage": "https://xn--80affxiheqqw.xn--p1ai/",
+    "favicon": "https://xn--80affxiheqqw.xn--p1ai/assets/logo-cutout.webp?v=5",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T15:05:26Z"
   },
   {
     "id": "awb_b551241768dcf9fc37de",

@@ -2235,6 +2235,27 @@
     "updatedAt": "2026-02-28T19:10:08Z"
   },
   {
+    "id": "awb_8b3fab1dc9f61e4dff4d",
+    "name": "Cali radio Salsa",
+    "country": "CO",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "latin",
+      "salsa"
+    ],
+    "homepage": "https://caliradiosalsa.com/",
+    "favicon": "https://caliradiosalsa.com/img/logo.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T19:21:25Z"
+  },
+  {
     "id": "awb_29b70f094cc1b637095b",
     "name": "Calidad Stereo 100.6 FM",
     "country": "CO",
@@ -5722,6 +5743,39 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_c35017063ff5d716dda5",
+    "name": "javeriana stereo cali 107.5",
+    "country": "CO",
+    "subdivision": "cali",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "alternativa",
+      "clásica",
+      "clásicos en español",
+      "clásicos en inglés",
+      "cultural",
+      "dance",
+      "electrónica",
+      "latina",
+      "música clásica",
+      "pop",
+      "pop en inglés",
+      "rock",
+      "universitaria"
+    ],
+    "homepage": "https://emisora.javerianacali.edu.co/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T03:29:04Z"
   },
   {
     "id": "awb_30fe233be42de8433934",

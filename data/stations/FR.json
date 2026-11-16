@@ -1234,6 +1234,25 @@
     "updatedAt": "2026-01-15T01:38:48Z"
   },
   {
+    "id": "awb_338c347cc249b16decda",
+    "name": "ABC Lounge",
+    "country": "FR",
+    "subdivision": "Ile de France",
+    "languages": [],
+    "categories": [
+      "ambient",
+      "jazz"
+    ],
+    "tags": [
+      "jazz lounge"
+    ],
+    "homepage": "https://www.radio.fr/s/abclounge",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T09:11:51Z"
+  },
+  {
     "id": "awb_8d56fc3f6aa96044d325",
     "name": "ABC Lounge Jazz",
     "country": "FR",
@@ -2101,7 +2120,7 @@
       "pop"
     ],
     "homepage": "https://airconnectradio.com/",
-    "favicon": "https://airconnectradio.com/wp-content/uploads/2025/01/ac-grand.png",
+    "favicon": "https://airconnectradio.com/img/logo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-04-30T12:56:57Z"
@@ -4580,6 +4599,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-04T11:55:34Z"
+  },
+  {
+    "id": "awb_3162db70c262951b433e",
+    "name": "Biterroise-FM",
+    "country": "FR",
+    "subdivision": "Occitanie",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "beziers",
+      "local",
+      "news",
+      "variety"
+    ],
+    "homepage": "https://radiobiterroise.fr/",
+    "favicon": "https://studio10.vestaradio.com/uploads/user-music/2952/covers/cover_2952_1794784338_0d96be.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T08:27:24Z"
   },
   {
     "id": "awb_f8d4ad89722b96dddb04",
@@ -8161,7 +8203,7 @@
       "soul"
     ],
     "homepage": "http://www.comalaradio.com/",
-    "favicon": null,
+    "favicon": "https://www.radioking.com/api/track/cover/1067e676-147d-4af1-812e-7e1c92c059b1",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:06:43Z"
@@ -13584,6 +13626,27 @@
     "updatedAt": "2026-01-15T07:38:17Z"
   },
   {
+    "id": "awb_6577869caf81779b4711",
+    "name": "France Musique Piano Zen",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical piano",
+      "piano",
+      "piano music",
+      "solo piano"
+    ],
+    "homepage": "https://gist.github.com/JV-conseil/7063daeadf0041cb845d0ec22f8c418f",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T13:49:35Z"
+  },
+  {
     "id": "awb_7afac256c23db15c88f5",
     "name": "France24 arabic",
     "country": "FR",
@@ -16619,7 +16682,7 @@
       "pop music"
     ],
     "homepage": "https://www.horizon-fm.fr/",
-    "favicon": "https://horizon-fm.fr/wp-content/uploads/2015/03/logoanimeRouge.gif",
+    "favicon": "https://www.horizon-fm.fr/wp-content/uploads/2025/08/WhatsApp-Image-2025-07-25-at-14.28.42.jpeg",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:26:49Z"
@@ -24469,31 +24532,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:05:12Z"
-  },
-  {
-    "id": "awb_0efd9ea513718382ad12",
-    "name": "MIXIA RADIO",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr",
-      "tr"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "french pop",
-      "hits",
-      "internet radio",
-      "pop",
-      "turkish pop"
-    ],
-    "homepage": "https://radiomixia.fr/",
-    "favicon": "https://radiomixia.fr/app/mixia-retro-512.png",
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-11-03T21:33:27Z"
   },
   {
     "id": "awb_71b5eba281dfedd1fdce",
@@ -32477,6 +32515,25 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_5875bd69f9bb5a4e8d79",
+    "name": "OUÏ FM Christmas Rock",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "christmas"
+    ],
+    "tags": [
+      "christmas",
+      "christmas music"
+    ],
+    "homepage": "https://www.ouifm.fr/oui-fm-christmas-rock",
+    "favicon": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/1100x2000/filters:format(webp)/radios/ouifm/importrk/2018/12/christmas-300x300.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T18:07:43Z"
   },
   {
     "id": "awb_63fbde6c11927709dd1e",
@@ -44643,6 +44700,28 @@
     "updatedAt": "2026-11-12T09:45:53Z"
   },
   {
+    "id": "awb_0b4eccb333ba1c183e00",
+    "name": "SimpleFM",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "dance",
+      "electro",
+      "french",
+      "gaming",
+      "webradio"
+    ],
+    "homepage": "https://radio.simplegames.fr/public/simplefm",
+    "favicon": "https://radio.simplegames.fr/static/uploads/simplefm/album_art.1794748634.jpg",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T13:49:45Z"
+  },
+  {
     "id": "awb_27f177cc378d35086ddb",
     "name": "Sing Sing",
     "country": "FR",
@@ -45099,6 +45178,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_c470bd670d75609ed281",
+    "name": "Soulful House",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "soulful house"
+    ],
+    "homepage": "https://www.vip-radios.fm/station/soulful-house/",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/chcskazct3sl.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T12:22:47Z"
   },
   {
     "id": "awb_cd90a4c8c0ba95bb7975",
@@ -46579,6 +46676,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_0efd9ea513718382ad12",
+    "name": "TürkVox Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "turkish",
+      "türkçe mix"
+    ],
+    "homepage": "https://turkvox.eu/",
+    "favicon": "https://turkvox.eu/directory-assets/turkvox-radio-pwa-1200.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-03T21:33:27Z"
   },
   {
     "id": "awb_1cfef3b6daad55befecd",

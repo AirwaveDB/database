@@ -3061,13 +3061,22 @@
     "languages": [
       "de"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "public"
+    ],
     "tags": [
-      "orf"
+      "excursions",
+      "local news",
+      "local radio",
+      "orf",
+      "public radio",
+      "regional radio",
+      "tourism"
     ],
     "homepage": "https://burgenland.orf.at/player",
-    "favicon": "https://orfodon.org/system/accounts/avatars/111/374/581/969/931/266/original/4e38a6ea240646e2.png",
-    "type": null,
+    "favicon": "https://burgenland.orf.at/player/apple-touch-icon-180x180.png",
+    "type": "public",
     "sourceCount": 2,
     "updatedAt": "2026-11-12T04:48:32Z"
   },
@@ -3772,13 +3781,22 @@
     "languages": [
       "de"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "public"
+    ],
     "tags": [
-      "orf"
+      "excursions",
+      "local news",
+      "local radio",
+      "orf",
+      "public radio",
+      "regional radio",
+      "tourism"
     ],
     "homepage": "https://burgenland.orf.at/player",
-    "favicon": "https://orfodon.org/system/accounts/avatars/111/374/581/969/931/266/original/4e38a6ea240646e2.png",
-    "type": null,
+    "favicon": "https://burgenland.orf.at/player/apple-touch-icon-180x180.png",
+    "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-11-11T22:10:47Z"
   },
@@ -4248,17 +4266,30 @@
     "id": "awb_6a38304ce40e55d5c83f",
     "name": "Radio Osttirol",
     "country": "AT",
-    "subdivision": null,
+    "subdivision": "Tirol",
     "languages": [
       "de"
     ],
-    "categories": [],
+    "categories": [
+      "news",
+      "oldies",
+      "pop"
+    ],
     "tags": [
+      "events",
+      "greatest hits",
+      "mountain",
+      "news",
+      "oldies",
+      "pop",
       "schlager",
-      "volksmusik"
+      "tourism",
+      "traffic",
+      "volksmusik",
+      "weather"
     ],
     "homepage": "http://www.radio-osttirol.at/",
-    "favicon": null,
+    "favicon": "https://radio-osttirol.at/images/favicon/favicon_radio.png",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:47:12Z"

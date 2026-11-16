@@ -273,8 +273,8 @@
     "homepage": "https://balkanradio.com/",
     "favicon": "https://balkanradio.com/img/Icon.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-15T12:29:41Z"
   },
   {
     "id": "awb_352f439bc1c174ef5b00",
@@ -4484,6 +4484,26 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_80f9995373aa0628ac8a",
+    "name": "Sweet Radio",
+    "country": "BG",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "deep house",
+      "indie"
+    ],
+    "homepage": "https://sweetradio.online/",
+    "favicon": "https://sweetradio.online/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T18:45:54Z"
+  },
+  {
     "id": "awb_61cdb71f1791f0c1c31a",
     "name": "SWEET RADIO - BULGARIA",
     "country": "BG",
@@ -5723,7 +5743,7 @@
     "id": "awb_ceac03347026f81dacb7",
     "name": "��� � ����� �����",
     "country": "BG",
-    "subdivision": "Shumen",
+    "subdivision": "Sofia City",
     "languages": [
       "bg"
     ],
@@ -5737,7 +5757,7 @@
       "public radio",
       "talk"
     ],
-    "homepage": "https://bnrnews.bg/shumen",
+    "homepage": "https://bnrnews.bg/sofia",
     "favicon": null,
     "type": "public",
     "sourceCount": 6,

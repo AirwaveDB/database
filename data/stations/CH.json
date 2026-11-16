@@ -2315,41 +2315,28 @@
   },
   {
     "id": "awb_3fce4c8f088aecaba4d8",
-    "name": "Energy Bern",
-    "country": "CH",
-    "subdivision": null,
-    "languages": [
-      "gsw"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://energy.ch/stations/energy-bern",
-    "favicon": "https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_bern_1638178870.svg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_3b909e22138cc1169f13",
     "name": "Energy Bern (NRJ)",
     "country": "CH",
     "subdivision": "Bern",
     "languages": [
-      "de"
+      "de",
+      "gsw"
     ],
     "categories": [
       "news",
       "pop"
     ],
     "tags": [
+      "mainstream",
       "news",
-      "pop"
+      "pop",
+      "swiss"
     ],
-    "homepage": "http://www.energy.ch/bern/",
-    "favicon": null,
+    "homepage": "https://energy.ch/stations/energy-bern",
+    "favicon": "https://storage.energy.ch/broadcast/covers/channels/logo_v2_bern_1638178870.svg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:10:11Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_1e90290a64481521ec73",
@@ -8017,6 +8004,20 @@
     "updatedAt": "2026-01-15T00:18:06Z"
   },
   {
+    "id": "awb_ec19ea28167134dcc37f",
+    "name": "SRF Virus",
+    "country": "CH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T21:50:49Z"
+  },
+  {
     "id": "awb_d66ec7579f27284418f7",
     "name": "SRF1 Radio",
     "country": "CH",
@@ -8260,29 +8261,9 @@
   },
   {
     "id": "awb_6018184c48d7b70e90fc",
-    "name": "Symphoniya Wave",
-    "country": "CH",
-    "subdivision": "Canton of Vaud",
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical",
-      "symphonic",
-      "transe symphonic"
-    ],
-    "homepage": "http://symphoniya.com/wave",
-    "favicon": "https://symphoniya.com/wp-content/uploads/2026/08/symphoniya-wave.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-30T12:49:59Z"
-  },
-  {
-    "id": "awb_a1ffd7a35c49ab6d8a68",
     "name": "Symphoniya Wave — Symphoniya.com",
     "country": "CH",
-    "subdivision": "Vaud",
+    "subdivision": "Waadt",
     "languages": [
       "fr"
     ],
@@ -8295,13 +8276,15 @@
       "classical",
       "instrumental",
       "meditation",
-      "orchestral"
+      "orchestral",
+      "symphonic",
+      "transe symphonic"
     ],
     "homepage": "https://symphoniya.com/en/wave/",
-    "favicon": null,
+    "favicon": "https://symphoniya.com/wp-content/uploads/2026/09/symphoniya-wave-favicon-512.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-09-14T15:10:17Z"
+    "updatedAt": "2026-08-30T12:49:59Z"
   },
   {
     "id": "awb_ef873570891a8cc2369e",

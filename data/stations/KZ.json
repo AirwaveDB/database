@@ -212,11 +212,20 @@
     "name": "MUZZONE RADIO",
     "country": "KZ",
     "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "kk",
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "hits",
+      "pop"
+    ],
     "homepage": "https://radio.muzzone.tv/",
-    "favicon": "https://radio.muzzone.tv/logo.jpg",
+    "favicon": "https://radio.muzzone.tv/logo-kazakhstan.jpg",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T14:03:46Z"

@@ -703,6 +703,22 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_9078565a33f7170d69d6",
+    "name": "NRK P1 Hordaland (Høy kvalitet AAC)",
+    "country": "NO",
+    "subdivision": "Hordaland",
+    "languages": [
+      "no"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://nrk.no/",
+    "favicon": "https://lyd.nrk.no/img/logos/p1.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T10:57:11Z"
+  },
+  {
     "id": "awb_a8343788e7c61bc73c11",
     "name": "NRK P1 Innlandet",
     "country": "NO",
@@ -814,6 +830,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_676145dcc289ceef8168",
+    "name": "NRK P1 Sørlandssendingen",
+    "country": "NO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://nrk.no/",
+    "favicon": "https://lyd.nrk.no/img/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T10:16:31Z"
   },
   {
     "id": "awb_e58ae6a6b1ee32cafd3e",
@@ -1631,6 +1661,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_78af1db885c97f1f1d4f",
+    "name": "Radio L Lillesand",
+    "country": "NO",
+    "subdivision": null,
+    "languages": [
+      "no"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiol.no/",
+    "favicon": "https://radiol.no/wp-content/uploads/2020/01/admin-ajax2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T10:39:25Z"
   },
   {
     "id": "awb_020ff39eb1ed9665c333",

@@ -5,27 +5,21 @@
     "country": "ES",
     "subdivision": "Barcelona",
     "languages": [
-      "en",
       "es"
     ],
     "categories": [
-      "oldies",
-      "pop",
-      "rock"
+      "oldies"
     ],
     "tags": [
-      "00s",
       "70s",
       "80s",
       "90s",
       "dance",
       "disco",
-      "pop",
-      "rock",
-      "romantic"
+      "musica romantica"
     ],
     "homepage": "https://musica80.radioclub.es/",
-    "favicon": null,
+    "favicon": "https://assets.laut.fm/51443b263d4b82dd4e7c24b811b8ddd7?t=_640x640",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
@@ -1038,8 +1032,8 @@
       "rock",
       "toxic"
     ],
-    "homepage": "https://alexwolfradio.com/?from=radio_browser",
-    "favicon": "https://alexwolfradio.com/assets/radio-logo.jpg",
+    "homepage": "https://alexwolfradio.com/",
+    "favicon": "https://dabplus.live/logo/3487909e60c040fd8cc4534dd3f7f44a.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-14T23:05:03Z"
@@ -8301,6 +8295,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_c592b56a116a4a86f965",
+    "name": "HITS MUSIC RADIO ROCK",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "hard rock",
+      "hevy metal",
+      "rock"
+    ],
+    "homepage": "https://hitsmusicradiorock.com/",
+    "favicon": "https://hitsmusicradiorock.com/wp-content/uploads/2021/10/cropped-Logotip-de-radio-HITS-MUSIC-neon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T15:04:41Z"
   },
   {
     "id": "awb_849d20bb3088f0c17cf9",

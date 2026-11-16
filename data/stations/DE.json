@@ -13927,21 +13927,18 @@
   },
   {
     "id": "awb_a751b7b518cc9e955028",
-    "name": "Absolut 80ER",
+    "name": "Absolut 80er",
     "country": "DE",
-    "subdivision": "Bavaria",
-    "languages": [],
-    "categories": [
-      "oldies"
+    "subdivision": "Bayern",
+    "languages": [
+      "de"
     ],
+    "categories": [],
     "tags": [
-      "80's",
-      "80er",
-      "80s",
-      "oldies"
+      "80er"
     ],
-    "homepage": "https://absolutradio.de/",
-    "favicon": "https://absolutradio.de/images/stations/logo-absolut-radio-80er.png",
+    "homepage": "https://absolutradio.de/stream/80er",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/80er-1.png?v=1769085123336",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
@@ -13964,71 +13961,79 @@
     "id": "awb_f59995bbe84c596ef9f7",
     "name": "Absolut Bella",
     "country": "DE",
-    "subdivision": "Bavaria",
+    "subdivision": "Bayern",
     "languages": [
       "de"
     ],
     "categories": [],
     "tags": [
       "discofox+schlager",
-      "oldie"
+      "oldie",
+      "schlager"
     ],
-    "homepage": "https://absolutradio.de/",
-    "favicon": "https://absolutradio.de/apple-touch-icon.png",
+    "homepage": "https://absolutradio.de/sender/bella",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/bella-1.png?v=1769084947570",
     "type": null,
-    "sourceCount": 6,
+    "sourceCount": 7,
     "updatedAt": "2026-10-12T08:33:52Z"
   },
   {
     "id": "awb_9f287d487e4a666d2c9e",
-    "name": "Absolut christmas time",
+    "name": "Absolut Christmas Time",
     "country": "DE",
-    "subdivision": null,
-    "languages": [],
+    "subdivision": "Bayern",
+    "languages": [
+      "de"
+    ],
     "categories": [
       "christmas"
     ],
     "tags": [
       "christmas"
     ],
-    "homepage": "https://absolutradio.de/streams",
-    "favicon": "https://absolutradio.de/images/stations/logo-absolut-christmas-time.svg",
+    "homepage": "https://absolutradio.de/stream/christmas_time",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/christmas_time-1.png?v=1769085070901",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_f43cc451c35b04c32702",
+    "id": "awb_4339183b1138ec305b14",
     "name": "Absolut Classics",
     "country": "DE",
-    "subdivision": null,
+    "subdivision": "Bayern",
     "languages": [
       "de"
     ],
-    "categories": [],
-    "tags": [
-      "classics"
+    "categories": [
+      "oldies"
     ],
-    "homepage": "https://absolutradio.de/",
-    "favicon": "https://absolutradio.de/favicon.ico",
+    "tags": [
+      "classics",
+      "oldies"
+    ],
+    "homepage": "https://absolutradio.de/sender/oldies",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/AbsolutClassics_Logo_Kreis.webp?v=1777585203271",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-05-08T00:03:39Z"
   },
   {
     "id": "awb_9806d188b313dc7cc724",
     "name": "Absolut Coffeemusic",
     "country": "DE",
-    "subdivision": "Bavaria",
-    "languages": [],
+    "subdivision": "Bayern",
+    "languages": [
+      "de"
+    ],
     "categories": [
       "ambient"
     ],
     "tags": [
-      "smooth lounge"
+      "chillout"
     ],
-    "homepage": "https://absolutradio.de/",
-    "favicon": null,
+    "homepage": "https://absolutradio.de/stream/coffeemusic",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/coffeemusic-1.png?v=1769085206224",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -14055,17 +14060,20 @@
     "id": "awb_c4bf30d89b835028697b",
     "name": "Absolut Germany",
     "country": "DE",
-    "subdivision": "Bayern, München, AAC",
-    "languages": [],
+    "subdivision": "Bayern",
+    "languages": [
+      "de"
+    ],
     "categories": [
       "hip-hop",
       "pop"
     ],
     "tags": [
-      "deutschland pop hip hop rap"
+      "deutschland pop hip hop rap",
+      "german"
     ],
-    "homepage": "https://absolutradio.de/germany",
-    "favicon": "https://absolutradio.de/apple-touch-icon.png",
+    "homepage": "https://absolutradio.de/sender/germany",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/germany-1.png?v=1769084909677",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-24T15:59:09Z"
@@ -14074,29 +14082,21 @@
     "id": "awb_0ef6251d6e4ad3e4dff6",
     "name": "Absolut Hot",
     "country": "DE",
-    "subdivision": "Bayern, München, AAC 128",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "https://absolutradio.de/images/stations/230_hot.png",
+    "subdivision": "Bayern",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://absolutradio.de/sender/hot",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/hot-1.png?v=1769084614063",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_f46d7b8eef47dbc698d9",
-    "name": "Absolut HOT",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://absolutradio.de/",
-    "favicon": "https://absolutradio.de/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_f32573566798081b350e",
@@ -14159,28 +14159,36 @@
     "id": "awb_d36362a9fdae4163abf7",
     "name": "Absolut Lovesongs",
     "country": "DE",
-    "subdivision": null,
+    "subdivision": "Bayern",
     "languages": [
       "de"
     ],
     "categories": [],
-    "tags": [],
-    "homepage": "https://absolutradio.de/",
-    "favicon": "https://absolutradio.de/apple-touch-icon.png",
+    "tags": [
+      "lovesongs"
+    ],
+    "homepage": "https://absolutradio.de/stream/lovesongs",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/lovesongs-1.png?v=1769085238970",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:45:36Z"
   },
   {
     "id": "awb_21b2a65173502385f046",
-    "name": "Absolut Music XL",
+    "name": "Absolut musicXL",
     "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.absolutradio.de/",
-    "favicon": null,
+    "subdivision": "Bayern",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://absolutradio.de/stream/musicxl",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/musicxl-1.png?v=1769085441154",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
@@ -14200,29 +14208,21 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
-    "id": "awb_4339183b1138ec305b14",
-    "name": "Absolut Oldie Classics MP3",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://absoluteradio.de/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_8f643ebe53aa7ae90cc3",
     "name": "Absolut Radio AI",
     "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
+    "subdivision": "Bayern",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://absolutradio.de/stream/ai",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/ai-1.png?v=1769085143974",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
@@ -14248,26 +14248,10 @@
     "updatedAt": "2026-03-24T16:38:38Z"
   },
   {
-    "id": "awb_777c1728c63bfcd6b87e",
+    "id": "awb_8066a32cfdca8314b15b",
     "name": "Absolut Relax",
     "country": "DE",
-    "subdivision": "Bayern, München, AAC 128",
-    "languages": [
-      "de"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/aacp",
-    "favicon": "https://absolutradio.de/images/stations/229_relax.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-25T14:12:57Z"
-  },
-  {
-    "id": "awb_8066a32cfdca8314b15b",
-    "name": "Absolut relax",
-    "country": "DE",
-    "subdivision": "Bavaria",
+    "subdivision": "Bayern",
     "languages": [
       "de"
     ],
@@ -14275,30 +14259,28 @@
     "tags": [
       "relax"
     ],
-    "homepage": "https://absolutradio.de/relax",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_Absolut_relax.svg/960px-Logo_Absolut_relax.svg.png",
+    "homepage": "https://absolutradio.de/sender/relax",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/relax-1.png?v=1769085004853",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-06-06T06:24:17Z"
+    "sourceCount": 5,
+    "updatedAt": "2026-06-25T14:12:57Z"
   },
   {
     "id": "awb_0164d025efc4aacfc16c",
-    "name": "Absolut ROCK",
+    "name": "Absolut Rock",
     "country": "DE",
-    "subdivision": "Bavaria",
-    "languages": [],
+    "subdivision": "Bayern",
+    "languages": [
+      "de"
+    ],
     "categories": [
-      "metal",
       "rock"
     ],
     "tags": [
-      "alternative rock",
-      "hard rock",
-      "metal",
       "rock"
     ],
-    "homepage": "https://absolutradio.de/",
-    "favicon": "https://absolutradio.de/images/stations/logo-absolut-radio-rock.png",
+    "homepage": "https://absolutradio.de/stream/rock",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/rock-1.png?v=1769085469343",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
@@ -14318,33 +14300,21 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_c6862cfaecc415ee3594",
-    "name": "Absolut Top",
-    "country": "DE",
-    "subdivision": "Berlin",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://absolutradio.de/top",
-    "favicon": "https://absolutradio.de/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_b8cbbda8ba3d36266a84",
-    "name": "Absolut Top 2000ER",
+    "name": "Absolut Top 2000er",
     "country": "DE",
-    "subdivision": null,
+    "subdivision": "Bayern",
     "languages": [
       "de"
     ],
     "categories": [],
-    "tags": [],
-    "homepage": "https://absolutradio.de/",
-    "favicon": "https://cms.antenne-deutschland.de/api/media/file/top-1.png",
+    "tags": [
+      "2000s"
+    ],
+    "homepage": "https://absolutradio.de/sender/top",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/top-1.png?v=1769084861758",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-03-14T09:58:21Z"
   },
   {
@@ -14368,31 +14338,21 @@
     "updatedAt": "2026-10-16T14:23:04Z"
   },
   {
-    "id": "awb_a621cd98133da79c6d32",
-    "name": "Absolut TOP club night",
-    "country": "DE",
-    "subdivision": "Bayern, München, AAC 128",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "https://absolutradio.de/images/stations/2924_handheld_default_square_image600.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_7d97635d15832ed99849",
     "name": "Absolut Top Clubnight",
     "country": "DE",
-    "subdivision": "Bavaria",
-    "languages": [],
+    "subdivision": "Bayern",
+    "languages": [
+      "de"
+    ],
     "categories": [],
-    "tags": [],
-    "homepage": "https://absolutradio.de/streams",
-    "favicon": null,
+    "tags": [
+      "dance"
+    ],
+    "homepage": "https://absolutradio.de/stream/clubnight",
+    "favicon": "https://cms.antenne-deutschland.de/api/media/file/clubnight-1.png?v=1769085174903",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
@@ -20381,6 +20341,31 @@
     "updatedAt": "2026-01-15T07:54:52Z"
   },
   {
+    "id": "awb_3c293179c909ce166e02",
+    "name": "Berlin Beach House Radio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
+    "tags": [
+      "beach house",
+      "chillout",
+      "deep-house",
+      "electronic",
+      "house"
+    ],
+    "homepage": "https://www.fluxfm.de/",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/200/berlin-beach-house-radio.cc04c9b2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T12:32:48Z"
+  },
+  {
     "id": "awb_9abc825047637b49c838",
     "name": "Berlin Now",
     "country": "DE",
@@ -21236,7 +21221,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z"
@@ -22759,7 +22744,7 @@
   },
   {
     "id": "awb_8190c9ddc390bf0a7507",
-    "name": "Blues Club - Laut.fm",
+    "name": "Blues Club - Laut.FM",
     "country": "DE",
     "subdivision": null,
     "languages": [
@@ -37145,6 +37130,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-03T16:52:07Z"
+  },
+  {
+    "id": "awb_f7112a7c7ef0db125998",
+    "name": "Flux FM",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/8/8c/FluxFM.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T23:53:39Z"
   },
   {
     "id": "awb_73870136ad8b4c225621",
@@ -66202,20 +66201,6 @@
     "updatedAt": "2026-01-15T00:26:30Z"
   },
   {
-    "id": "awb_5a001aec9c573fb216f2",
-    "name": "Radio Absolut Bella",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://absolutradio.de/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
     "id": "awb_c0033723eaccb47a8cfa",
     "name": "Radio AI",
     "country": "DE",
@@ -72693,12 +72678,14 @@
     "id": "awb_df97af555efd233ed38b",
     "name": "Radio Gong 106.9",
     "country": "DE",
-    "subdivision": "Franken",
-    "languages": [],
+    "subdivision": "Bayern",
+    "languages": [
+      "de"
+    ],
     "categories": [],
     "tags": [],
-    "homepage": null,
-    "favicon": null,
+    "homepage": "https://www.radiogong.com/",
+    "favicon": "https://www.radiogong.com/storage/thumbs/512x512/r:1768406066/zpnikwqe8bwdc.png",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
@@ -72924,6 +72911,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:10:00Z"
+  },
+  {
+    "id": "awb_23efdc74c8bb3061dd02",
+    "name": "Radio Gong 97.1",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "nürnberg",
+      "rock"
+    ],
+    "homepage": "https://www.gong971.de/",
+    "favicon": "https://www.gong971.de/storage/thumbs/512x512/r:1724409813/s6vqkg7vaqfi4.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T10:06:33Z"
   },
   {
     "id": "awb_947a2776c4984e4bc104",
@@ -75924,9 +75932,9 @@
   },
   {
     "id": "awb_111b51398f4845819796",
-    "name": "Radio Paralax",
+    "name": "Radio PARALAX",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
+    "subdivision": "Nordrhein-Westfalen",
     "languages": [
       "de"
     ],
@@ -81327,7 +81335,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
+    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"
@@ -95406,6 +95414,26 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_a6a47005b472e61b888b",
+    "name": "SWR 4 Koblenz",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.swr.de/swr4/nachrichten/koblenz/index.html",
+    "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:f607d39888879ec7?w=512",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T06:44:30Z"
+  },
+  {
     "id": "awb_36470fa33fb7f9dcb327",
     "name": "SWR 4 RP Mainz (128k)",
     "country": "DE",
@@ -100107,7 +100135,7 @@
     "updatedAt": "2026-11-09T08:14:45Z"
   },
   {
-    "id": "awb_a005956359e0e31d6b7d",
+    "id": "awb_94713611432646dca401",
     "name": "WDR 2 Bergisches Land",
     "country": "DE",
     "subdivision": "North Rhine-Westphalia",
@@ -100116,18 +100144,20 @@
     ],
     "categories": [
       "news",
+      "pop",
       "talk"
     ],
     "tags": [
       "music",
       "news",
+      "pop",
       "talk"
     ],
     "homepage": "https://www1.wdr.de/radio/wdr2/",
     "favicon": "https://www1.wdr.de/resources-v5.122.3/img/favicon/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:10:47Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T02:34:36Z"
   },
   {
     "id": "awb_c152c8118397817ad520",
@@ -100984,28 +101014,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_94713611432646dca401",
-    "name": "WDR-2 Bewrgisch Land",
-    "country": "DE",
-    "subdivision": "NRW",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "news",
-      "pop"
-    ],
-    "homepage": "https://www1.wdr.de/radio/wdr2",
-    "favicon": "https://www1.wdr.de/radio/startseite/symbolbilder/dummy-logo108~_v-gseagaleriexl.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:34:36Z"
   },
   {
     "id": "awb_74125a3e223bb0c38e67",

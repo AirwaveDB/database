@@ -458,7 +458,7 @@
   },
   {
     "id": "awb_0740b44e89ea6ce240fd",
-    "name": "538 Dance Departmetn",
+    "name": "538 Dance Department",
     "country": "NL",
     "subdivision": null,
     "languages": [
@@ -1757,6 +1757,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-13T20:07:32Z"
+  },
+  {
+    "id": "awb_766619f7268e59875626",
+    "name": "Booty Bay Pirate Radio - Thematic tower",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://radio.octowow.st/listen/booty_bay_pirate_radio_thematic_tower/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T16:11:26Z"
   },
   {
     "id": "awb_cdd051f2b944f48272cf",
@@ -15608,6 +15622,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-31T16:29:11Z"
+  },
+  {
+    "id": "awb_3d8e3319471831ba85ef",
+    "name": "Radio Zilverdroom",
+    "country": "NL",
+    "subdivision": "Overijssel",
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [
+      "piraten"
+    ],
+    "homepage": "https://radiozilverdroom.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T15:03:02Z"
   },
   {
     "id": "awb_567205a9a0fde2e2123a",

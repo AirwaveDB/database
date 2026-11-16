@@ -983,31 +983,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_54be1dabb41e9b489b7d",
-    "name": "FLUXMEDIA",
-    "country": "PT",
-    "subdivision": "Castelo Branco",
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "dance",
-      "pop",
-      "rock",
-      "top40"
-    ],
-    "homepage": "https://fluxmedia.pt/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-21T16:41:12Z"
-  },
-  {
     "id": "awb_46c491deda1ee07239b9",
     "name": "FOQO",
     "country": "PT",
@@ -3262,6 +3237,36 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_54be1dabb41e9b489b7d",
+    "name": "Rádio FLUX",
+    "country": "PT",
+    "subdivision": "Castelo Branco",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "80s",
+      "90s",
+      "adult contemporary",
+      "dance pop",
+      "pop",
+      "pop rock",
+      "portuguese music",
+      "rock",
+      "top40"
+    ],
+    "homepage": "https://fluxmedia.pt/",
+    "favicon": "https://fluxmedia.pt/wp-content/uploads/2026/11/FLUXMEDIA_square_520x520.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-03-21T16:41:12Z"
   },
   {
     "id": "awb_02e2bbec605a1e3b7bda",

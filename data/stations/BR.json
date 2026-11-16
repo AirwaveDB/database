@@ -3646,27 +3646,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_4c21a37eb45b1506b208",
-    "name": "Eldorado FM - São Paulo",
-    "country": "BR",
-    "subdivision": "São Paulo",
-    "languages": [],
-    "categories": [
-      "jazz"
-    ],
-    "tags": [
-      "adult contemporary",
-      "adulta",
-      "jazz",
-      "mpb"
-    ],
-    "homepage": "https://eldorado.estadao.com.br/",
-    "favicon": "https://img.radios.com.br/radio/lg/radio13051_1439401448.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
     "id": "awb_dbdcda56b2ddad052b18",
     "name": "Eldorado FM - São Paulo",
     "country": "BR",
@@ -4642,6 +4621,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-11T22:11:19Z"
+  },
+  {
+    "id": "awb_927b21949c8f07f580f2",
+    "name": "GFM 90.1",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.ibahia.com/mundogfm",
+    "favicon": "https://cdn.socialradio.com.br/pwa-icons/82e5e039-1d32-4c20-88df-5cdf586765f8/1dcf4846-1a7a-45d9-9baa-0796e0d755d5/logo/1781289435895-dpn0ft.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T17:21:00Z"
   },
   {
     "id": "awb_4c850056d5bd08b24245",
@@ -6729,6 +6722,29 @@
     "updatedAt": "2026-10-24T15:06:15Z"
   },
   {
+    "id": "awb_d4f8bbad3742395ab766",
+    "name": "LuckyFM",
+    "country": "BR",
+    "subdivision": "Sao Paulo (Brazil)",
+    "languages": [
+      "ja"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "music",
+      "rap",
+      "underground",
+      "underground music"
+    ],
+    "homepage": "https://lunafunny.nekoweb.org/luckyfm/",
+    "favicon": "https://lunafunny.nekoweb.org/luckyfm/assets/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T23:36:35Z"
+  },
+  {
     "id": "awb_d65b59e62bc9c6e2cbba",
     "name": "Luis Henrique",
     "country": "BR",
@@ -7006,7 +7022,8 @@
     "country": "BR",
     "subdivision": "Rio de Janeiro",
     "languages": [
-      "en"
+      "en",
+      "pt"
     ],
     "categories": [
       "electronic"
@@ -7369,7 +7386,7 @@
     "homepage": "https://metalzone.radio.br/",
     "favicon": "https://metalzone.radio.br/assets/img/favicon-512.png",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-10-12T00:05:55Z"
   },
   {
@@ -14265,6 +14282,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-14T23:44:53Z"
+  },
+  {
+    "id": "awb_4c21a37eb45b1506b208",
+    "name": "Rádio Eldorado FM",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "adult contemporary",
+      "adulta",
+      "jazz",
+      "mpb"
+    ],
+    "homepage": "https://www.estadao.com.br/eldorado/",
+    "favicon": "https://assets.estadao.com.br/eldorado/logos/favicon_3.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
     "id": "awb_83091f5de38f7f4c856e",
@@ -22332,7 +22372,7 @@
       "tradicionalista gaúcha"
     ],
     "homepage": "https://sites.google.com/view/radiowebsanguegaucho?pli=1&authuser=0",
-    "favicon": "https://sites.google.com/sitesv-images-rt/AMxu72uwlzvtzfgd4bjHKkqOvdSgHXG57RjMzKDOQiVm58kNF_O_bD3Ce-al97OSFGk32S71mGI463tx6Whev04oySzgZabIso4G8_x6eVjmzlG7W3P4dF1pfgeKhyOqNxyt9_PLY0d5tTzEljL5uImE7xL3cg_uQgM1h2CoXCMISeAlTY3uJMSdKnN-G-ufbDE=w16383",
+    "favicon": "https://img.radios.com.br/radio/md/radio153613_1780312732.png",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T20:02:48Z"
@@ -23179,6 +23219,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-17T03:33:12Z"
+  },
+  {
+    "id": "awb_8c63b17484bbc490888f",
+    "name": "R�dio Luciano Kik�o",
+    "country": "BR",
+    "subdivision": "Amazonas",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "brazilian music",
+      "forro",
+      "forr�",
+      "luciano kik�o",
+      "piseiro"
+    ],
+    "homepage": "https://lucianokikao.com.br/radio-kikao",
+    "favicon": "https://lucianokikao.com.br/assets/img/icone-192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T04:12:36Z"
   },
   {
     "id": "awb_701d5fd88b252df3d8c3",

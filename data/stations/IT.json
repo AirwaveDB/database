@@ -5551,7 +5551,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.miamigoradio.it/",
-    "favicon": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.miamigoradio%26hl%3Dit&ved=0CBYQjRxqFwoTCPjJhJbtlZYDFQAAAAAdAAAAABAJ&opi=89978449",
+    "favicon": "https://radiomiamigoitaly.it/favicon.png",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-10T10:29:47Z"
@@ -11010,7 +11010,7 @@
     "id": "awb_687bbc7a929cadee90e7",
     "name": "Radio Charlie",
     "country": "IT",
-    "subdivision": null,
+    "subdivision": "Calabria",
     "languages": [
       "it"
     ],
@@ -11030,7 +11030,7 @@
       "talk"
     ],
     "homepage": "https://www.radiocharlie.it/",
-    "favicon": "https://www.radiocharlie.it/favicon.ico",
+    "favicon": "https://www.radiocharlie.it/RadioCharlie.png",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-11T22:56:23Z"
@@ -13413,6 +13413,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:18:28Z"
+  },
+  {
+    "id": "awb_a8e3298e19b90bbef8d2",
+    "name": "Radio Fiorenza",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "bossa nova",
+      "vocal jazz"
+    ],
+    "homepage": "https://www.radiofiorenza.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T16:04:54Z"
   },
   {
     "id": "awb_da7d19b8941ec761839c",

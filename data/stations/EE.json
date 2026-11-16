@@ -107,6 +107,24 @@
     "updatedAt": "2026-10-15T22:48:51Z"
   },
   {
+    "id": "awb_1950fa41ec9024ae97f4",
+    "name": "Cool FM",
+    "country": "EE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop dance"
+    ],
+    "homepage": "https://coolfm.ee/",
+    "favicon": "https://coolfm.ee/assets/logo/coolfm-logo-on-cobalt.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T17:23:14Z"
+  },
+  {
     "id": "awb_9fcd277b3ce41af9d984",
     "name": "Duo Country",
     "country": "EE",
@@ -924,7 +942,7 @@
   },
   {
     "id": "awb_f5f98cbe1bfefa043e85",
-    "name": "PCR.FM (Parnu Club Radio)",
+    "name": "PCR.fm (Parnu Club Radio)",
     "country": "EE",
     "subdivision": "Parnu",
     "languages": [

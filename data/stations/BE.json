@@ -2173,6 +2173,24 @@
     "updatedAt": "2026-01-15T03:49:38Z"
   },
   {
+    "id": "awb_81b7b2dad3bf084586ac",
+    "name": "Lazer Hot Hits",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "house"
+    ],
+    "homepage": "https://www.radiolazer.be/",
+    "favicon": "https://www.radiolazer.be/wp-content/uploads/2026/10/lazer-hot-hits-logo-300x88.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T13:38:08Z"
+  },
+  {
     "id": "awb_bb8b65411ef3f3c1b162",
     "name": "Lehabs Radio",
     "country": "BE",
@@ -5964,7 +5982,7 @@
     "homepage": "https://www.rtbf.be/lapremiere/",
     "favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23"
   },
   {
@@ -6041,6 +6059,26 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_34413a134b54650728d2",
+    "name": "RTBF Tipik",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.rtbf.be/",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/815/rtbf-tipik-fm.a66d6915.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-14T13:58:02Z"
   },
   {
     "id": "awb_be7c16e5d2bcedf65581",
@@ -6230,6 +6268,36 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-02T12:21:23Z"
+  },
+  {
+    "id": "awb_0163b43a50d3b0b3e79a",
+    "name": "Soundtrackfm",
+    "country": "BE",
+    "subdivision": "Antwerp",
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "classic movies",
+      "film music",
+      "film score",
+      "film scores",
+      "movie hits",
+      "movie music",
+      "movie scores",
+      "movie soundtracks",
+      "movie themes",
+      "soundtracks",
+      "tv themes"
+    ],
+    "homepage": "https://www.soundtrackfm.eu/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-15T17:30:53Z"
   },
   {
     "id": "awb_b0e2ec717a1753411030",
@@ -6531,20 +6599,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_34413a134b54650728d2",
-    "name": "Tipik",
-    "country": "BE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rtbf.be/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-14T13:58:02Z"
   },
   {
     "id": "awb_11a7dc6269c886870986",
