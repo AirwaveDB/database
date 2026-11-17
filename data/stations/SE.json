@@ -227,7 +227,7 @@
     "favicon": "https://lyssna.bananradion.se/static/uploads/bananradion/background.1740701637.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T04:21:52Z"
+    "updatedAt": "2026-11-17T04:21:59Z"
   },
   {
     "id": "awb_3b028254acf815cc890c",
@@ -731,6 +731,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_672fe94955b2a50db238",
+    "name": "Electro Lounge",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [
+      "sv"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic"
+    ],
+    "homepage": "https://www.viaplayradio.se/electrolounge/",
+    "favicon": "https://cdn.khz.se/images/350x350/81dd56c98c33bd100c5805311f24e3f4.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T04:35:00Z"
   },
   {
     "id": "awb_6a8158fff86b8d702699",
@@ -2104,6 +2124,26 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_b04b230dd615968ef293",
+    "name": "Radio Aftonbladet",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [
+      "sv"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.aftonbladet.se/nyheter/a/9prR0M/direkt-radio-aftonbladet",
+    "favicon": "https://images.stream.schibsted.media/users/ab_/images/b2a6d62132db85f5a99b123a24b7756e.jpg?t[]=480q50",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T16:30:43Z"
+  },
+  {
     "id": "awb_8f71f9acef07b3b459de",
     "name": "Radio Båstad",
     "country": "SE",
@@ -2776,6 +2816,26 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_c7df8104ccb68e365581",
+    "name": "Rock FM",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [
+      "sv"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://www.viaplayradio.se/rockfm/",
+    "favicon": "https://cdn.khz.se/images/350x350/4b8e66aab84bd28096aca1d28ebcbe39.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T04:48:44Z"
+  },
+  {
     "id": "awb_327ecccb6e35dc6e9441",
     "name": "Rocket FM Rock Home of Stockholm",
     "country": "SE",
@@ -2965,6 +3025,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_9a723d49390918f98b18",
+    "name": "Sonic",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [
+      "sv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.viaplayradio.se/sonic/",
+    "favicon": "https://cdn.khz.se/images/350x350/a0e672e2f777dd2f42930c053df0b23a.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T15:32:00Z"
   },
   {
     "id": "awb_7921fa9570c9ebf30b54",
@@ -3992,7 +4072,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T07:00:12Z"
+    "updatedAt": "2026-11-17T07:02:11Z"
   },
   {
     "id": "awb_ca2dcb1d74512aecf5d4",
@@ -4018,6 +4098,26 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_5cdf59bb35f5a478f5bc",
+    "name": "Topp 40",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [
+      "sv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.viaplayradio.se/topp40/",
+    "favicon": "https://cdn.khz.se/images/350x350/d49e0ea3e8fa7e37bc488f73d882a83e.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T04:42:38Z"
   },
   {
     "id": "awb_a3284878fb9d5bf76d00",

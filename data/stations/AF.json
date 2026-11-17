@@ -82,6 +82,23 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_af0913a3d83709e99200",
+    "name": "Afghan Aykhanum Radio",
+    "country": "AF",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "afghan music",
+      "music"
+    ],
+    "homepage": "https://zeno.fm/radio/afghan-aykhanum-radio/",
+    "favicon": "https://proxy.zeno.fm/content/stations/46f40474-ea04-460b-aa21-1bf91a9b7af9/image/?u=1670273380000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:54:31Z"
+  },
+  {
     "id": "awb_025da0bbcec6605f31f8",
     "name": "Al jazeera",
     "country": "AF",
@@ -139,6 +156,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-03T13:19:32Z"
+  },
+  {
+    "id": "awb_14cf3f706232386e9fd1",
+    "name": "Arman FM 98.1",
+    "country": "AF",
+    "subdivision": "Kabul",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "afghan music",
+      "music",
+      "poetry",
+      "pop"
+    ],
+    "homepage": "https://arman.fm/",
+    "favicon": "https://proxy.zeno.fm/content/stations/2cb9aa60-2dde-4e48-8b2f-4c8fe263b3ad/image/?u=1772573014000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:55:45Z"
   },
   {
     "id": "awb_90d189ddd9fb353d099d",
@@ -519,6 +557,23 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_efd641f25acae5d87bd8",
+    "name": "Hamsada Radio",
+    "country": "AF",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "afghan music",
+      "music"
+    ],
+    "homepage": "https://zeno.fm/radio/hamsada/",
+    "favicon": "https://proxy.zeno.fm/content/stations/aa985bc0-5227-40ed-9faf-842d46638236/image/?u=1675029199000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:54:29Z"
   },
   {
     "id": "awb_099b5166d7a1b06b88f6",
@@ -1055,6 +1110,48 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_623a91fa252bf9d2d28d",
+    "name": "Radio Afghanistan International",
+    "country": "AF",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.afintl.com/",
+    "favicon": "https://cdn-profiles.tunein.com/s359345/images/logog.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:54:41Z"
+  },
+  {
+    "id": "awb_8348200d327dd3b177e6",
+    "name": "Radio Azadi (RFE/RL)",
+    "country": "AF",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news",
+      "public",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "public radio",
+      "talk"
+    ],
+    "homepage": "https://da.azadiradio.com/",
+    "favicon": "https://da.azadiradio.com/Content/responsive/RFE/img/webApp/ico-512x512.png",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:55:45Z"
+  },
+  {
     "id": "awb_76353ca2149de4c01c2a",
     "name": "radio Bandeirantes goiania",
     "country": "AF",
@@ -1073,6 +1170,85 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_2d194b56ddfa7654e397",
+    "name": "Radio Barin",
+    "country": "AF",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "afghan music",
+      "music"
+    ],
+    "homepage": "https://zeno.fm/radio/radio-barin/",
+    "favicon": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQj_nS5wkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ16fMmQoMogEEemVubw/image/?u=1661094074000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:54:33Z"
+  },
+  {
+    "id": "awb_28ee12057758debb59a7",
+    "name": "Radio Begum",
+    "country": "AF",
+    "subdivision": "Kabul",
+    "languages": [],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "education",
+      "talk",
+      "women"
+    ],
+    "homepage": "https://www.facebook.com/Begumfm/",
+    "favicon": "https://graph.facebook.com/Begumfm/picture?width=1024&height=1024",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:55:45Z"
+  },
+  {
+    "id": "awb_c233acfdf3b2acbf2d59",
+    "name": "Radio Ghazal",
+    "country": "AF",
+    "subdivision": "Herat",
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "afghan music",
+      "folk",
+      "music"
+    ],
+    "homepage": "https://radioghazal.com/",
+    "favicon": "https://radioghazal.com/mianbarnama/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:55:46Z"
+  },
+  {
+    "id": "awb_1daebd0cc913ae192129",
+    "name": "Radio Haqiqat",
+    "country": "AF",
+    "subdivision": "Samangan",
+    "languages": [
+      "uz"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "afghan music",
+      "community radio",
+      "music"
+    ],
+    "homepage": "https://zeno.fm/radio/afghan-radio-haqiqat-aff8/",
+    "favicon": "https://proxy.zeno.fm/content/stations/1b7bedff-d193-41a9-a093-4312543940ce/image/?u=1768711917000",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:55:46Z"
+  },
+  {
     "id": "awb_52fd69cf6ab055547925",
     "name": "Radio Kabul",
     "country": "AF",
@@ -1085,6 +1261,45 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-10T20:45:00Z"
+  },
+  {
+    "id": "awb_7f9a006274e8361dfea2",
+    "name": "Radio Kunduz FM 89.6",
+    "country": "AF",
+    "subdivision": "Kunduz",
+    "languages": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://zeno.fm/radio/radio-kunduz-fm/",
+    "favicon": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ87HXyAoMCxIOU3RhdGlvblByb2ZpbGUYgICwqM7KqQkMogEEemVubw/image/?u=1766571601000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:55:46Z"
+  },
+  {
+    "id": "awb_a743b13c20da5f3d9ccc",
+    "name": "Radio Meher",
+    "country": "AF",
+    "subdivision": "Kabul",
+    "languages": [
+      "fa"
+    ],
+    "categories": [],
+    "tags": [
+      "afghan music",
+      "music"
+    ],
+    "homepage": "https://www.radiomeher.com/",
+    "favicon": "https://images.radio.co/station_logos/s08eb94fbc.20250502114734.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:55:45Z"
   },
   {
     "id": "awb_19d243a1e20aa9ee32bc",
@@ -1123,6 +1338,27 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_3cd2a46bd39750bd68f4",
+    "name": "Radio Sadaye Zindagi",
+    "country": "AF",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://afghanradio.org/",
+    "favicon": "https://graph.facebook.com/RadioSadayeZindagi/picture?width=1024&height=1024",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:54:52Z"
+  },
+  {
     "id": "awb_266e981076b43eddea3c",
     "name": "Radio Srood",
     "country": "AF",
@@ -1135,6 +1371,25 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_54390d55145e7c4b68f4",
+    "name": "Radio Tarhan",
+    "country": "AF",
+    "subdivision": null,
+    "languages": [
+      "tk"
+    ],
+    "categories": [],
+    "tags": [
+      "music",
+      "turkmen music"
+    ],
+    "homepage": "https://hafizhabb.wordpress.com/tarhanfm/",
+    "favicon": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDwwZOU1gsMCxIOU3RhdGlvblByb2ZpbGUYgIDwgeyQiQgMogEEemVubw/image/?u=1741901707000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:55:45Z"
   },
   {
     "id": "awb_86bc1be5e1bcc3978b4a",
@@ -1365,6 +1620,46 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_d91ba8151acad83445e9",
+    "name": "Taleemul Islam Radio",
+    "country": "AF",
+    "subdivision": "Kandahar",
+    "languages": [],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "education",
+      "islamic",
+      "religious"
+    ],
+    "homepage": "https://www.taleemulislam.net/",
+    "favicon": "https://www.taleemulislam.net/media/images/title-logo/20260922121208_WNyfbKS1xzqi.png?v=1790062928",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:55:45Z"
+  },
+  {
+    "id": "awb_c3b3973bd7612a871ced",
+    "name": "Taleemul Quran Radio",
+    "country": "AF",
+    "subdivision": "Kandahar",
+    "languages": [],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "islamic",
+      "quran",
+      "religious"
+    ],
+    "homepage": "https://www.t-quran.com/",
+    "favicon": "https://www.t-quran.com/wp-content/uploads/2026/09/%D8%AA%D9%88%D8%B1-%D8%AF-%D8%AA%D8%B9%D9%84%DB%8C%D9%85-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D8%B1%D8%A7%DA%89%DB%8C%D9%88-%D9%84%D9%88%DA%AB%D9%88-1-scaled.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:55:46Z"
+  },
+  {
     "id": "awb_3fb637c6d3d83f63e745",
     "name": "Veronika",
     "country": "AF",
@@ -1399,6 +1694,23 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_1f595af8f83e2162be3e",
+    "name": "Wardak FM",
+    "country": "AF",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "music",
+      "pashto music"
+    ],
+    "homepage": "https://zeno.fm/radio/wardak-fm/",
+    "favicon": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQx_uZuwoMCxIOU3RhdGlvblByb2ZpbGUYgIDQh6nM-AoMogEEemVubw/image/?u=1661166615000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T09:55:46Z"
   },
   {
     "id": "awb_7dce83a1a61b88d7272a",

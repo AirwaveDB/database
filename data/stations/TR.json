@@ -601,7 +601,7 @@
     "id": "awb_28f5726c853601d6fd94",
     "name": "Apacik Radyo",
     "country": "TR",
-    "subdivision": null,
+    "subdivision": "Istanbul",
     "languages": [
       "en",
       "tr"
@@ -619,7 +619,7 @@
     "favicon": "https://www.apacikradyo.com.tr/themes/custom/acikradyo/assets/img/favicon.png",
     "type": "community",
     "sourceCount": 2,
-    "updatedAt": "2026-11-11T21:36:34Z"
+    "updatedAt": "2026-11-16T21:38:05Z"
   },
   {
     "id": "awb_feb6ee5d99dca5587604",
@@ -1826,7 +1826,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T00:30:46Z"
+    "updatedAt": "2026-11-17T00:34:15Z"
   },
   {
     "id": "awb_8dc344dd987ed3d504a1",
@@ -1849,7 +1849,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T04:06:56Z"
+    "updatedAt": "2026-11-17T04:07:30Z"
   },
   {
     "id": "awb_1da58c9adefda6d59499",
@@ -1873,7 +1873,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T01:55:53Z"
+    "updatedAt": "2026-11-17T01:57:18Z"
   },
   {
     "id": "awb_b35105ad16c219d0740f",
@@ -1895,7 +1895,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T01:04:56Z"
+    "updatedAt": "2026-11-17T01:17:33Z"
   },
   {
     "id": "awb_18ef70fa187d5f788e31",
@@ -1924,7 +1924,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-legacy-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T09:40:29Z"
+    "updatedAt": "2026-11-17T09:45:23Z"
   },
   {
     "id": "awb_7edc0fde3b3291cc2ace",
@@ -1945,7 +1945,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-mmradyo-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-11T23:32:42Z"
+    "updatedAt": "2026-11-16T23:40:52Z"
   },
   {
     "id": "awb_ffeadaecbf30ca44c405",
@@ -1973,7 +1973,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T00:58:14Z"
+    "updatedAt": "2026-11-17T00:58:53Z"
   },
   {
     "id": "awb_0726c5d4e8aa71680e95",
@@ -1999,7 +1999,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T09:55:37Z"
+    "updatedAt": "2026-11-17T09:57:57Z"
   },
   {
     "id": "awb_173bf527a4d7f5eb635c",
@@ -2024,7 +2024,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-smog-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T07:08:48Z"
+    "updatedAt": "2026-11-17T07:15:37Z"
   },
   {
     "id": "awb_cc0a413a69dc071e0aed",
@@ -3322,6 +3322,30 @@
     "updatedAt": "2026-01-15T05:53:55Z"
   },
   {
+    "id": "awb_e1f6f7c2430ef3a1d491",
+    "name": "Halkın Sesi Radyo",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [
+      "ku",
+      "tr"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "folk",
+      "kurdish folk music",
+      "protest",
+      "turkish folk"
+    ],
+    "homepage": "https://halkinsesiradyo.org/",
+    "favicon": "https://halkinsesiradyo.org/wp-content/uploads/2024/12/WhatsApp-Image-2023-06-02-at-18.26.17.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T16:58:32Z"
+  },
+  {
     "id": "awb_f19a3570aa50d4588c4b",
     "name": "Havin FM",
     "country": "TR",
@@ -3400,7 +3424,7 @@
     "homepage": "https://radyo.yayin.com.tr:4078/mp3",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3794,26 +3818,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-07T14:21:59Z"
-  },
-  {
-    "id": "awb_55d7fa851a607a661b2d",
-    "name": "İTÜ Radyosu Rock",
-    "country": "TR",
-    "subdivision": "Istanbul",
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "http://www.radyo.itu.edu.tr/",
-    "favicon": "http://www.radyo.itu.edu.tr/Sitefinity/WebsiteTemplates/GenelTemplate/App_Themes/ITUGenelTemplate/Images/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:25:32Z"
   },
   {
     "id": "awb_f9224df9584f9ce7af4b",
@@ -4505,46 +4509,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-03-17T20:18:47Z"
-  },
-  {
-    "id": "awb_fe4614fce1854bde2c6a",
-    "name": "Kurd1",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_eb2e0df949e1d1e473c9",
-    "name": "Kurd1 FM",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "ku"
-    ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk music",
-      "kurdish folk music",
-      "kurdish songs"
-    ],
-    "homepage": "https://www.kurd1radyo.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_1f00980bc98e70bf3387",
@@ -8039,6 +8003,24 @@
     "updatedAt": "2026-03-19T00:40:55Z"
   },
   {
+    "id": "awb_52c6dd3158a9b324f6f5",
+    "name": "Radyo izmir fm",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.radyoizmirfm.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T17:34:12Z"
+  },
+  {
     "id": "awb_25b0ae62a9baaaf48abf",
     "name": "Radyo Karadeniz",
     "country": "TR",
@@ -11046,20 +11028,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-25T07:20:17Z"
-  },
-  {
-    "id": "awb_4ed7f593293bc474cfab",
-    "name": "Yön Radyo",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://yonradyo.com.tr/",
-    "favicon": "https://yonradyo.com.tr/wp-content/uploads/2023/10/yon-radyo-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-18T14:29:50Z"
   },
   {
     "id": "awb_7e69c5224c4866ec143f",

@@ -7697,23 +7697,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_43aa897ffa13a91bf0d7",
-    "name": "Figaro Discotheque",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "disco",
-      "italo disco"
-    ],
-    "homepage": "https://www.figarodisco.com/",
-    "favicon": "https://figarodisco.odoo.com/web/image/465-9d3163ba/DALL%C2%B7E%202025-01-22%2013.07.42%20-%20A%20vibrant%20and%20dynamic%20design%20representing%20a%20disco%20theme%20with%20a%20red%20and%20black%20color%20palette.%20The%20image%20features%20a%20retro-style%20disco%20ball%20reflecting%20col.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-09T21:37:06Z"
-  },
-  {
     "id": "awb_c584823c4b43534bfff6",
     "name": "Flash 99.4",
     "country": "GR",
@@ -10315,7 +10298,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-11T23:58:50Z"
+    "updatedAt": "2026-11-16T23:59:55Z"
   },
   {
     "id": "awb_5daf4d1f3882debc368d",
@@ -13124,7 +13107,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T00:23:46Z"
+    "updatedAt": "2026-11-17T00:26:47Z"
   },
   {
     "id": "awb_c167527670d82af2d214",
@@ -21593,7 +21576,7 @@
     "favicon": "https://meraklis.ddnsfree.com/logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T00:16:20Z"
+    "updatedAt": "2026-11-17T00:21:16Z"
   },
   {
     "id": "awb_346b3683b2aedf080370",
@@ -21906,7 +21889,7 @@
     "favicon": "https://rebetis.duckdns.org/rebetis.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T04:35:51Z"
+    "updatedAt": "2026-11-17T04:45:22Z"
   },
   {
     "id": "awb_81b70ae5bcc12ea6cc33",
@@ -25337,7 +25320,7 @@
     "favicon": "https://studio19.gr/images/Studio19_logo2.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-11T21:57:21Z"
+    "updatedAt": "2026-11-16T21:59:08Z"
   },
   {
     "id": "awb_18893ffc2d3b47772e2e",
@@ -30868,22 +30851,6 @@
     "updatedAt": "2026-01-15T07:47:33Z"
   },
   {
-    "id": "awb_45f04d7df8c5ee81f7f1",
-    "name": "Κανάλι 5 Love Radio 91.7",
-    "country": "GR",
-    "subdivision": "Kavala",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "greek music"
-    ],
-    "homepage": "https://www.loveradio917.gr/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/332958c8-1792-4502-9a83-19c7cf66d617.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-26T12:39:47Z"
-  },
-  {
     "id": "awb_e609920f61b89e7af003",
     "name": "Καντίνι Web Radio",
     "country": "GR",
@@ -31670,8 +31637,8 @@
     "tags": [
       "student radio"
     ],
-    "homepage": "https://my.aegean.gr/radio/Lesvos/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/dca9db0a-5ae1-4b14-bf03-07199db9425f.jpg",
+    "homepage": "http://my.aegean.gr/radio/Lesvos/",
+    "favicon": "http://my.aegean.gr/radio/Lesvos/pix/now-playing-lofosbox3.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-31T18:38:20Z"

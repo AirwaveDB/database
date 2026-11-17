@@ -312,7 +312,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/bgestrada.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-12T00:31:40Z"
+    "updatedAt": "2026-11-17T00:32:32Z"
   },
   {
     "id": "awb_2db2776867c3a828814e",
@@ -345,27 +345,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
-    "id": "awb_1fb11084da65f8abf6e8",
-    "name": "BG Voice Hit Mix",
-    "country": "BG",
-    "subdivision": "Sofia City",
-    "languages": [
-      "bg"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "bulgarian",
-      "hits"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T08:31:25Z"
   },
   {
     "id": "awb_28aaa9e00860c163ec49",
@@ -590,7 +569,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/cityrab.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T05:53:13Z"
+    "updatedAt": "2026-11-17T05:55:54Z"
   },
   {
     "id": "awb_69999cd8283c68d86b97",
@@ -610,7 +589,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/cityrab.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T04:56:46Z"
+    "updatedAt": "2026-11-17T05:00:40Z"
   },
   {
     "id": "awb_3005c7c05523c0418e30",
@@ -650,7 +629,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/citylatin.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-12T02:06:41Z"
+    "updatedAt": "2026-11-17T02:12:01Z"
   },
   {
     "id": "awb_5bfedef4441262879e27",
@@ -1202,7 +1181,7 @@
     "favicon": "https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T08:04:28Z"
+    "updatedAt": "2026-11-17T08:06:59Z"
   },
   {
     "id": "awb_90c1d424acedf01dc8ed",
@@ -1224,7 +1203,7 @@
     "favicon": "https://media.metacast.eu/pictures/02_2023/Aud5WKLJ6ZOzqVThrMmU-84388.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T02:05:51Z"
+    "updatedAt": "2026-11-17T02:07:18Z"
   },
   {
     "id": "awb_d457bc27a0a25c9c90cd",
@@ -1270,7 +1249,7 @@
     "favicon": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T05:36:30Z"
+    "updatedAt": "2026-11-17T05:37:53Z"
   },
   {
     "id": "awb_53bf5095068d2b58f3b7",
@@ -1318,7 +1297,7 @@
     "favicon": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T08:10:11Z"
+    "updatedAt": "2026-11-17T08:47:50Z"
   },
   {
     "id": "awb_240e9eb79646ea680f88",
@@ -1342,7 +1321,7 @@
     "favicon": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T09:40:39Z"
+    "updatedAt": "2026-11-17T09:42:02Z"
   },
   {
     "id": "awb_ea55fd895037dca643c0",
@@ -1708,6 +1687,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-20T19:32:08Z"
+  },
+  {
+    "id": "awb_340f5a8f586d45fa86d9",
+    "name": "Interhit",
+    "country": "BG",
+    "subdivision": "Vratsa",
+    "languages": [
+      "bg"
+    ],
+    "categories": [
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "pop folk"
+    ],
+    "homepage": "https://desicenov-vr.github.io/radio/",
+    "favicon": "https://desicenov-vr.github.io/radio/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T15:25:39Z"
   },
   {
     "id": "awb_8c96b81d04a5ca0978b6",
@@ -2367,7 +2367,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/note/note-fm.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T03:58:10Z"
+    "updatedAt": "2026-11-17T04:00:16Z"
   },
   {
     "id": "awb_ff184f6a6485a4b5fd8e",
@@ -3612,7 +3612,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/note/radio-nostalgia.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T00:17:12Z"
+    "updatedAt": "2026-11-17T00:21:15Z"
   },
   {
     "id": "awb_bbfc0ef7cb87b0c7eb71",
@@ -4317,7 +4317,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/cafe.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T01:55:51Z"
+    "updatedAt": "2026-11-17T01:57:20Z"
   },
   {
     "id": "awb_7d6da6ea41204bd17f3f",
@@ -4540,7 +4540,7 @@
     "favicon": "https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-12T04:21:53Z"
+    "updatedAt": "2026-11-17T04:24:16Z"
   },
   {
     "id": "awb_eebab4e816707604e006",
@@ -4678,7 +4678,7 @@
     "favicon": "https://www.radioplay.bg/assets/logos/vanilla.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T06:10:52Z"
+    "updatedAt": "2026-11-17T06:12:54Z"
   },
   {
     "id": "awb_6f71a7f3af6aec4facf9",
@@ -4899,7 +4899,7 @@
     "favicon": "https://xraydio.net/wp-content/uploads/2024/03/2.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T04:48:33Z"
+    "updatedAt": "2026-11-17T04:49:43Z"
   },
   {
     "id": "awb_b13f8ff504ae776f0572",
@@ -5743,7 +5743,7 @@
     "id": "awb_ceac03347026f81dacb7",
     "name": "��� � ����� �����",
     "country": "BG",
-    "subdivision": "Sofia City",
+    "subdivision": "Shumen",
     "languages": [
       "bg"
     ],
@@ -5757,7 +5757,7 @@
       "public radio",
       "talk"
     ],
-    "homepage": "https://bnrnews.bg/sofia",
+    "homepage": "https://bnrnews.bg/shumen",
     "favicon": null,
     "type": "public",
     "sourceCount": 6,

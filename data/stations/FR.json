@@ -6680,25 +6680,6 @@
     "updatedAt": "2026-09-18T18:49:18Z"
   },
   {
-    "id": "awb_6c62d1a16474e0699642",
-    "name": "Chérie FM La Playlist de 2006",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "cherie fm",
-      "webradio"
-    ],
-    "homepage": "https://www.cheriefm.fr/",
-    "favicon": null,
-    "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:49:49Z"
-  },
-  {
     "id": "awb_2788964b9bf74c23f7ae",
     "name": "Chérie FM Lannion / Guingamp",
     "country": "FR",
@@ -9836,7 +9817,7 @@
     "favicon": "https://www.egrego.re/RESOURCES/IMAGES/EGREGORELOGO.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T04:22:49Z"
+    "updatedAt": "2026-11-17T04:26:58Z"
   },
   {
     "id": "awb_9f2cbe07bf0627568cc4",
@@ -10963,7 +10944,7 @@
   },
   {
     "id": "awb_31f6b9c5492374858e6a",
-    "name": "Fip",
+    "name": "FIP",
     "country": "FR",
     "subdivision": null,
     "languages": [],
@@ -16195,6 +16176,26 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_bb809db842fba8d2a0af",
+    "name": "Henri Dès",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "chanson",
+      "chansons françaises",
+      "music"
+    ],
+    "homepage": "https://www.radio-henrides.net/",
+    "favicon": "https://www.radio-henrides.net/henri.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T19:30:52Z"
+  },
+  {
     "id": "awb_de55c0443914fdffbaef",
     "name": "here4ears",
     "country": "FR",
@@ -19538,7 +19539,7 @@
     "favicon": "https://i.postimg.cc/BQZXKJnh/LOGO-3-2-bg1.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T04:22:42Z"
+    "updatedAt": "2026-11-17T04:27:04Z"
   },
   {
     "id": "awb_59958b09a5492c724646",
@@ -19571,7 +19572,7 @@
     "favicon": "https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-12T02:12:19Z"
+    "updatedAt": "2026-11-17T02:20:15Z"
   },
   {
     "id": "awb_7e1888e862706fbd34c1",
@@ -19595,7 +19596,7 @@
     "favicon": "https://i.postimg.cc/3rFkNkY4/LOGO-3-2-bg3.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T06:34:40Z"
+    "updatedAt": "2026-11-17T06:36:51Z"
   },
   {
     "id": "awb_663247fe9bfb98162cd8",
@@ -21048,6 +21049,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-18T10:56:58Z"
+  },
+  {
+    "id": "awb_eb2e0df949e1d1e473c9",
+    "name": "Kurd1 Radyo",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "ku"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "folk music",
+      "kurdish folk music",
+      "kurdish songs"
+    ],
+    "homepage": "https://www.kurd1radyo.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-08-24"
   },
   {
     "id": "awb_0d2a64a73086385cff7e",
@@ -22688,7 +22711,7 @@
     "favicon": "https://lyl.live/favicon.ico",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T10:18:48Z"
+    "updatedAt": "2026-11-17T10:21:38Z"
   },
   {
     "id": "awb_11e4b384c12f65d075d6",
@@ -35602,8 +35625,8 @@
     "homepage": "http://www.radiobonheur.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:14:10Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-16T12:29:53Z"
   },
   {
     "id": "awb_78a01789cf88a2664743",
@@ -35810,7 +35833,7 @@
     "favicon": "https://stream.radiobroussaille.fr:8443/favicon-32x32.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T05:05:40Z"
+    "updatedAt": "2026-11-17T05:07:06Z"
   },
   {
     "id": "awb_7e734f5079f289eeae18",
@@ -38340,7 +38363,7 @@
     "favicon": "https://www.lapurdi.net/squelettes/img/logo_web_small.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T07:22:31Z"
+    "updatedAt": "2026-11-17T07:25:06Z"
   },
   {
     "id": "awb_dc9e303757687b995c02",
@@ -39828,7 +39851,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T05:02:39Z"
+    "updatedAt": "2026-11-17T05:03:26Z"
   },
   {
     "id": "awb_693a7cccadd9c543e879",
@@ -39848,7 +39871,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-11T23:45:57Z"
+    "updatedAt": "2026-11-16T23:48:14Z"
   },
   {
     "id": "awb_170145a89df6bee49f9c",
@@ -39868,7 +39891,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T00:52:44Z"
+    "updatedAt": "2026-11-17T00:53:22Z"
   },
   {
     "id": "awb_f9e6ec4fab79c1be88df",
@@ -40128,6 +40151,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:00:02Z"
+  },
+  {
+    "id": "awb_3e12dd2ecb7998d24e5e",
+    "name": "Radio RTL 2 Pop Rock Station",
+    "country": "FR",
+    "subdivision": "Paris",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop rock"
+    ],
+    "homepage": "https://www.rtl2.fr/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/fr/5/51/RTL2.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T14:58:05Z"
   },
   {
     "id": "awb_05d35425238b1a5ce85e",
@@ -41483,7 +41527,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T09:55:42Z"
+    "updatedAt": "2026-11-17T10:00:33Z"
   },
   {
     "id": "awb_3184303c9e1059ff5d5d",
@@ -43791,7 +43835,7 @@
     "favicon": "https://fichiers.rjrradio.fr/logo/Fond%20blanc/RJR%202016%20carr%C3%A9%20sans%20marge.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-12T09:33:31Z"
+    "updatedAt": "2026-11-17T09:50:42Z"
   },
   {
     "id": "awb_3e050152e9c0639b6101",
@@ -43943,7 +43987,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.rmf-radio.com/",
-    "favicon": "https://static.wixstatic.com/media/773fc3_1242bcad92c741eeb1aca7bfd293f577~mv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/773fc3_1242bcad92c741eeb1aca7bfd293f577~mv2.jpg",
+    "favicon": "https://rmf-radio.com/assets/img/logo%20RMF%201400X1400.png",
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
@@ -43961,35 +44005,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_db6006c73714b9bd998d",
-    "name": "ROBOTARIIS RADIO",
-    "country": "FR",
-    "subdivision": "Bretagne",
-    "languages": [
-      "en",
-      "fr"
-    ],
-    "categories": [
-      "ambient",
-      "electronic"
-    ],
-    "tags": [
-      "ai generated",
-      "ambient",
-      "downtempo",
-      "electronic",
-      "industrial",
-      "netradio",
-      "synthwave",
-      "techno"
-    ],
-    "homepage": "https://robotariis.com/",
-    "favicon": "https://robotariis.com/static/icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-18T21:40:22Z"
   },
   {
     "id": "awb_ade0f483ed3ed72f5daf",
@@ -44697,7 +44712,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-12T09:45:53Z"
+    "updatedAt": "2026-11-17T09:53:14Z"
   },
   {
     "id": "awb_0b4eccb333ba1c183e00",
@@ -47334,7 +47349,7 @@
     "favicon": "https://vicecity.fr/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T05:46:29Z"
+    "updatedAt": "2026-11-17T05:47:25Z"
   },
   {
     "id": "awb_e5ecac656bef647da481",
@@ -48578,7 +48593,7 @@
     "favicon": "https://i.imgur.com/cVC439t.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T03:42:37Z"
+    "updatedAt": "2026-11-17T03:44:28Z"
   },
   {
     "id": "awb_72b0c0b1ce1aa867247a",

@@ -5900,12 +5900,14 @@
     "subdivision": null,
     "languages": [],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "easy listening"
+    ],
     "homepage": "https://radioislanegra.com/",
     "favicon": "https://radioislanegra.com/wp-content/uploads/thegem-logos/logo_977b533d7fb4b89332eec7d778d689ed_2x.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-16T13:54:55Z"
   },
   {
     "id": "awb_2354d2ebb1bc6b2522cd",
@@ -7541,22 +7543,6 @@
     "updatedAt": "2026-05-02T12:33:02Z"
   },
   {
-    "id": "awb_e3751abe54fc0a8fe0e6",
-    "name": "Radio Tongoy fm 107.1",
-    "country": "CL",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiotongoyfm.cl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-09T11:15:31Z"
-  },
-  {
     "id": "awb_7ce90a2cfc65f598400f",
     "name": "Radio Tornagaleones",
     "country": "CL",
@@ -8765,6 +8751,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-25T02:12:39Z"
+  },
+  {
+    "id": "awb_06bd074ed37734f72b7a",
+    "name": "Súbela",
+    "country": "CL",
+    "subdivision": "Santiago, Región Metropolitana",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "generalista",
+      "música",
+      "noticias"
+    ],
+    "homepage": "https://subela.cl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T10:05:38Z"
   },
   {
     "id": "awb_103e1f0f4c0a24d60116",

@@ -505,7 +505,9 @@
     "name": "Musiquera 93.3 FM",
     "country": "HN",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "es"
+    ],
     "categories": [],
     "tags": [
       "93.3 fm",
@@ -514,10 +516,10 @@
       "rancheras"
     ],
     "homepage": "http://musiquera.com/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240323_072719225.jpg?alt=media&token=fc66d26c-24ae-49f8-bf4a-8976b66f3aa3",
+    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/516/musiquera.5a9c0d95.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:11Z"
+    "updatedAt": "2026-11-17T10:08:08Z"
   },
   {
     "id": "awb_3354dc36adedfaf3c222",
@@ -669,7 +671,7 @@
   },
   {
     "id": "awb_2d9a5af451ecf71888f2",
-    "name": "Radio HRN La Voz de Honduras",
+    "name": "Radio HRN 670 AM",
     "country": "HN",
     "subdivision": "Tegucigalpa",
     "languages": [
@@ -685,7 +687,7 @@
       "talk radio"
     ],
     "homepage": "https://radiohrn.hn/",
-    "favicon": "https://radiohrn.hn/favicon.ico",
+    "favicon": "https://static-media.streema.com/media/cache/b5/7c/b57cc9f082d754de8d1cbdec4ac2bde7.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"

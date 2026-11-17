@@ -962,6 +962,20 @@
     "updatedAt": "2026-05-21T01:18:32Z"
   },
   {
+    "id": "awb_a4c08e8a9c5b937bd9aa",
+    "name": "Radio Integracion",
+    "country": "BO",
+    "subdivision": "El Alto",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiointegracion.com/",
+    "favicon": "https://radioslatinas.com/uploads/mini/200/radoxo-bo/radio-integracion.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T19:00:52Z"
+  },
+  {
     "id": "awb_5c334444d6877cdcdc6a",
     "name": "Radio Kollasuyo FM",
     "country": "BO",
@@ -1034,20 +1048,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_65458dbff8ce50437f25",
-    "name": "Radio Oueblo",
-    "country": "BO",
-    "subdivision": "La Paz",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rtvpueblo.blogspot.com/",
-    "favicon": "https://i.ibb.co/N2W67qXv/pueblo26.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-05T14:05:11Z"
-  },
-  {
     "id": "awb_5af5fa9eeba3d13dfadc",
     "name": "Radio Panamericana",
     "country": "BO",
@@ -1095,6 +1095,22 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_65458dbff8ce50437f25",
+    "name": "Radio Pueblo",
+    "country": "BO",
+    "subdivision": "La Paz",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rtvpueblo.blogspot.com/",
+    "favicon": "https://i.ibb.co/N2W67qXv/pueblo26.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T03:54:38Z"
   },
   {
     "id": "awb_1523e2240ac745c9a954",
@@ -1394,25 +1410,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
-  },
-  {
-    "id": "awb_ec11e22aef719ff67030",
-    "name": "RQP Cochabamba 104.5",
-    "country": "BO",
-    "subdivision": "Cochabamba",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "cochabamba",
-      "música pop"
-    ],
-    "homepage": "https://www.rqp.com.bo/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-01T04:26:09Z"
   },
   {
     "id": "awb_2f4c6c4047f7e4be8033",

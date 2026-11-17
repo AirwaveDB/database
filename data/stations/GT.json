@@ -270,6 +270,29 @@
     "updatedAt": "2026-01-15T01:34:09Z"
   },
   {
+    "id": "awb_75ae1a8babadf03a7064",
+    "name": "Clásica Hits",
+    "country": "GT",
+    "subdivision": "Guatemala city",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "clasicos en inglés",
+      "classic hits 60s 70a 80s",
+      "music 70s 80s 90s"
+    ],
+    "homepage": "https://clasicahits.com/",
+    "favicon": "https://clasicahits.com/wp-content/uploads/2025/06/ORIGINAL-CLASICA-fondo-nn-1536x1536-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T14:26:04Z"
+  },
+  {
     "id": "awb_9f5f2d684f8cfa847e73",
     "name": "Computer Forensic Radio",
     "country": "GT",
@@ -451,31 +474,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:43:25Z"
-  },
-  {
-    "id": "awb_0435ed6f06230346d3d8",
-    "name": "Estéreo Gerardi 107.9 FM",
-    "country": "GT",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "cristiana",
-      "educational",
-      "radio comunitaria",
-      "religious",
-      "social",
-      "variety"
-    ],
-    "homepage": "https://www.facebook.com/EstereoGerardi",
-    "favicon": "https://radio.com.gt/uploads/img/stereo-gerardi.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:56:18Z"
   },
   {
     "id": "awb_d1924a539ffaf2be4a4b",
@@ -1360,6 +1358,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:08:23Z"
+  },
+  {
+    "id": "awb_4f1e6bf08489ad4906c8",
+    "name": "Radio Peniel",
+    "country": "GT",
+    "subdivision": "Ciudad de Guatemala",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "cristiana",
+      "gospel"
+    ],
+    "homepage": "https://radio.penielguatemala.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-16T13:50:34Z"
   },
   {
     "id": "awb_9c991b3640d0669c6d0c",

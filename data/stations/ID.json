@@ -436,7 +436,7 @@
     "favicon": "https://i.imgur.com/Kjo8NzL.jpeg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T09:13:20Z"
+    "updatedAt": "2026-11-17T09:30:04Z"
   },
   {
     "id": "awb_e8ed880361698ae50147",
@@ -706,6 +706,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_678fa811f085c3201c85",
+    "name": "B 104.6 FM",
+    "country": "ID",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "id"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top-40",
+      "various"
+    ],
+    "homepage": "https://bilitonesefm.com/",
+    "favicon": "https://i.imgur.com/wdzguAM.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-16T22:12:39Z"
   },
   {
     "id": "awb_80c559ba85dc7ee99a53",
@@ -1024,7 +1047,7 @@
     "favicon": "https://i.imgur.com/o0y6tmP.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T05:58:49Z"
+    "updatedAt": "2026-11-17T05:59:33Z"
   },
   {
     "id": "awb_1e22bf1c158461103c56",
@@ -1304,7 +1327,7 @@
     "favicon": "https://i.imgur.com/EewJI7x.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-11T21:47:40Z"
+    "updatedAt": "2026-11-16T21:53:36Z"
   },
   {
     "id": "awb_ce7e9b89b6f44fda444f",
@@ -1453,22 +1476,27 @@
   },
   {
     "id": "awb_a978ac93e6e4584dbfae",
-    "name": "DEHILLS RADIO",
+    "name": "deHills Radio",
     "country": "ID",
     "subdivision": null,
     "languages": [
       "en",
       "id"
     ],
-    "categories": [],
-    "tags": [
-      "easy"
+    "categories": [
+      "jazz",
+      "pop"
     ],
-    "homepage": "http://www.dehills.id/",
+    "tags": [
+      "jazz",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://dehills.id/",
     "favicon": "https://i.imgur.com/jXvNwDm.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T09:17:39Z"
+    "updatedAt": "2026-11-17T09:34:19Z"
   },
   {
     "id": "awb_4d3a97b1c3ed4136a169",
@@ -1706,7 +1734,7 @@
     "favicon": "https://i.imgur.com/HnGOXjC.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T01:18:41Z"
+    "updatedAt": "2026-11-17T01:21:03Z"
   },
   {
     "id": "awb_ccb320cb8611008944ad",
@@ -1970,7 +1998,7 @@
     "favicon": "https://www.galuhweb.com/assets/static/img/logo-2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-11T21:56:19Z"
+    "updatedAt": "2026-11-16T21:58:16Z"
   },
   {
     "id": "awb_e37213354f3a84a87eed",
@@ -2386,7 +2414,7 @@
     "favicon": "https://i.imgur.com/ObPAKbZ.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-11T23:24:53Z"
+    "updatedAt": "2026-11-16T23:26:08Z"
   },
   {
     "id": "awb_6c4f601ec548e532a07b",
@@ -2454,7 +2482,7 @@
   },
   {
     "id": "awb_1e8a7ccbe348e0cd0c7f",
-    "name": "Hitz 91.2 FM Belitung",
+    "name": "HITZ 91.2 FM",
     "country": "ID",
     "subdivision": null,
     "languages": [
@@ -2470,11 +2498,11 @@
       "pop",
       "top 40"
     ],
-    "homepage": "https://hitzfmbelitung.com/",
+    "homepage": "http://www.bilitonesefm.com/",
     "favicon": "https://i.imgur.com/J37C5xS.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-11T22:08:52Z"
+    "updatedAt": "2026-11-16T22:09:27Z"
   },
   {
     "id": "awb_2b4cb6534e3c2fd8a18d",
@@ -3505,7 +3533,7 @@
     "favicon": "https://i.imgur.com/MIalWN9.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T00:43:18Z"
+    "updatedAt": "2026-11-17T00:46:31Z"
   },
   {
     "id": "awb_4e1b7ed062ccdfe6b27b",
@@ -3599,7 +3627,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s299056/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T06:43:14Z"
+    "updatedAt": "2026-11-17T06:44:23Z"
   },
   {
     "id": "awb_cccecf22e26b64401abf",
@@ -4458,32 +4486,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-18T14:50:19Z"
-  },
-  {
-    "id": "awb_5249b2ae807bffb766e2",
-    "name": "Mustang 88.0",
-    "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [
-      "id"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "contemporary hits",
-      "contemporary hits radio",
-      "hits",
-      "teens",
-      "top 40",
-      "top 40 hits",
-      "young"
-    ],
-    "homepage": "https://mustang88fm.com/",
-    "favicon": "https://www.mahakax.com/wp-content/uploads/2022/06/logo-mustang.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-09T16:35:49Z"
   },
   {
     "id": "awb_2101600614ac526f64d2",
@@ -5363,30 +5365,6 @@
     "updatedAt": "2026-06-25T13:59:22Z"
   },
   {
-    "id": "awb_678fa811f085c3201c85",
-    "name": "Radio BFM Belitung",
-    "country": "ID",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "id"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "indonesia",
-      "pop",
-      "top 40",
-      "top-40"
-    ],
-    "homepage": "https://bilitonesefm.com/",
-    "favicon": "https://i.imgur.com/wdzguAM.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-11T22:12:20Z"
-  },
-  {
     "id": "awb_b4d30dd64280e71f5265",
     "name": "Radio Bintang Tenggara",
     "country": "ID",
@@ -5422,7 +5400,7 @@
     "favicon": "https://i.imgur.com/jWiTHyJ.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T02:01:39Z"
+    "updatedAt": "2026-11-17T02:06:07Z"
   },
   {
     "id": "awb_c60d76150d5f2aec1e94",
@@ -5522,7 +5500,7 @@
     "favicon": "https://www.radiobells.com/stations/coolmusicnow.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T08:07:39Z"
+    "updatedAt": "2026-11-17T08:25:05Z"
   },
   {
     "id": "awb_7f66cb01ce02d3ba949b",
@@ -6262,7 +6240,7 @@
   },
   {
     "id": "awb_68d4d4c74869261136d1",
-    "name": "RADIO SALVATOR",
+    "name": "Radio Salvator",
     "country": "ID",
     "subdivision": null,
     "languages": [
@@ -6270,19 +6248,16 @@
       "id"
     ],
     "categories": [
-      "oldies",
       "pop"
     ],
     "tags": [
-      "oldies",
-      "pop",
-      "religion"
+      "pop"
     ],
-    "homepage": "https://www.radiosalvator.com/",
+    "homepage": "https://radiosalvator.com/",
     "favicon": "https://radiosalvator.com/wp-content/uploads/2024/06/logo-salvator.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T03:18:18Z"
+    "updatedAt": "2026-11-17T03:27:58Z"
   },
   {
     "id": "awb_c2d735ac339546992d75",
@@ -7953,7 +7928,7 @@
     "favicon": "https://i.imgur.com/mIV5WlL.jpeg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T00:18:56Z"
+    "updatedAt": "2026-11-17T00:21:17Z"
   },
   {
     "id": "awb_993dd59d1cbffa39f541",
@@ -8167,7 +8142,7 @@
     "favicon": "https://i.imgur.com/NV4Irpq.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T07:07:39Z"
+    "updatedAt": "2026-11-17T07:08:33Z"
   },
   {
     "id": "awb_d86b73f8c1ad7d637e24",
@@ -8277,7 +8252,7 @@
     "favicon": "https://i.imgur.com/60EsDSg.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T08:53:21Z"
+    "updatedAt": "2026-11-17T08:54:41Z"
   },
   {
     "id": "awb_ee3a569f7205ab5931ca",
@@ -8390,7 +8365,7 @@
     "favicon": "https://i.imgur.com/rRhPIKf.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T01:19:42Z"
+    "updatedAt": "2026-11-17T01:22:06Z"
   },
   {
     "id": "awb_b8df36d5c04e14b698e9",
@@ -8965,7 +8940,7 @@
     "favicon": "https://cdn.onlineradiobox.com/img/l/6/94966.v8.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T05:56:35Z"
+    "updatedAt": "2026-11-17T05:57:49Z"
   },
   {
     "id": "awb_b713f398163583e354b8",

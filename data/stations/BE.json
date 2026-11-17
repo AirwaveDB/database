@@ -967,7 +967,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T07:38:10Z"
+    "updatedAt": "2026-11-17T07:38:55Z"
   },
   {
     "id": "awb_de2b368b2358d1635b4c",
@@ -1960,7 +1960,7 @@
     "favicon": "https://kioskradio.com/favicon.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T03:04:59Z"
+    "updatedAt": "2026-11-17T03:06:37Z"
   },
   {
     "id": "awb_947922d6b726b9bf5582",
@@ -2026,7 +2026,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T02:05:03Z"
+    "updatedAt": "2026-11-17T02:12:57Z"
   },
   {
     "id": "awb_e9b95c56fb49244683e6",
@@ -2047,7 +2047,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/klara-continuo/v2/color.svg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T05:39:39Z"
+    "updatedAt": "2026-11-17T05:46:36Z"
   },
   {
     "id": "awb_74c6297f95c86b70f72e",
@@ -2148,13 +2148,14 @@
       "classical"
     ],
     "tags": [
-      "classical"
+      "classical",
+      "classical music"
     ],
     "homepage": "https://laclassica.be/",
-    "favicon": null,
+    "favicon": "https://laclassica.be/favicon.ico",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:09:02Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-17T08:31:22Z"
   },
   {
     "id": "awb_ceffcb67271944a53ce7",
@@ -2421,7 +2422,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/02/MNM_logo_2024.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-11T23:24:53Z"
+    "updatedAt": "2026-11-16T23:26:05Z"
   },
   {
     "id": "awb_657c71feaf037b46f2dd",
@@ -2442,7 +2443,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/mnm-hits/v3/color.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T04:31:20Z"
+    "updatedAt": "2026-11-17T04:36:02Z"
   },
   {
     "id": "awb_ff1b4a0ac4f9ea4bfa1c",
@@ -4763,7 +4764,7 @@
     "favicon": "https://www.radiopanik.org/static/img/logo-panik-500-invert.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T04:06:55Z"
+    "updatedAt": "2026-11-17T04:07:28Z"
   },
   {
     "id": "awb_ada972074e78a490a026",
@@ -6428,7 +6429,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-12T02:58:37Z"
+    "updatedAt": "2026-11-17T02:59:26Z"
   },
   {
     "id": "awb_6be14114cc53255c27e4",
@@ -6454,7 +6455,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T03:12:47Z"
+    "updatedAt": "2026-11-17T03:21:56Z"
   },
   {
     "id": "awb_666ca7fec1e291a157c0",
@@ -6514,7 +6515,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-untz/v3/color.svg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T07:53:30Z"
+    "updatedAt": "2026-11-17T07:55:47Z"
   },
   {
     "id": "awb_facd3eddacefa43cea53",
@@ -6537,7 +6538,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-bruut/v4/color.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T07:05:32Z"
+    "updatedAt": "2026-11-17T07:06:37Z"
   },
   {
     "id": "awb_5782dc0d90fe8db9dff0",
@@ -7363,7 +7364,7 @@
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-12T03:18:22Z"
+    "updatedAt": "2026-11-17T03:21:07Z"
   },
   {
     "id": "awb_e0970633f1547b11b81c",
@@ -7405,7 +7406,7 @@
     "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio-1-classics/v1/color.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T05:25:39Z"
+    "updatedAt": "2026-11-17T05:25:55Z"
   },
   {
     "id": "awb_798bd5b5d51be0b21548",
@@ -7906,7 +7907,7 @@
     "favicon": "https://zoe.radio/zoeradio/images/logo-vierkant-512.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-12T04:37:06Z"
+    "updatedAt": "2026-11-17T04:38:56Z"
   },
   {
     "id": "awb_f3125b1ad09615ee5d45",
