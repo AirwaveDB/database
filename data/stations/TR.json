@@ -5603,7 +5603,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.playdanceradio.com/",
+    "homepage": "http://www.playdanceradio.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -9221,6 +9221,30 @@
     "updatedAt": "2026-03-19T00:37:01Z"
   },
   {
+    "id": "awb_96bf40936d7a9d9cd3ea",
+    "name": "Radyovizyon FM 93.0",
+    "country": "TR",
+    "subdivision": "Ankara",
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "ankara",
+      "fm",
+      "hits",
+      "pop",
+      "turkish pop"
+    ],
+    "homepage": "https://radyovizyon.com.tr/",
+    "favicon": "https://radyovizyon.com.tr/wp-content/themes/vizyon/assets/art-radyovizyon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T10:54:08Z"
+  },
+  {
     "id": "awb_53a0d990f7c269ad81dc",
     "name": "RadyoVoyage",
     "country": "TR",
@@ -10907,6 +10931,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-19T16:07:28Z"
+  },
+  {
+    "id": "awb_603d6efde8e0fc7436ee",
+    "name": "Vizyon Pulse",
+    "country": "TR",
+    "subdivision": "Ankara",
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "ankara",
+      "pop",
+      "turkish pop"
+    ],
+    "homepage": "https://radyovizyon.com.tr/",
+    "favicon": "https://radyovizyon.com.tr/wp-content/themes/vizyon/assets/st/4.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T10:54:06Z"
   },
   {
     "id": "awb_d8b8f7a082ef46123681",

@@ -5697,8 +5697,8 @@
       "sports news",
       "weather"
     ],
-    "homepage": "https://www.abc.net.au/",
-    "favicon": "https://www.abc.net.au/favicon.ico",
+    "homepage": "https://www.abc.net.au/listen/news",
+    "favicon": "https://live-production.wcms.abc-cdn.net.au/21b0d1767efbf09b96ab726650be17f3",
     "type": "public",
     "sourceCount": 2,
     "updatedAt": "2026-09-04T22:42:30Z"
@@ -20082,6 +20082,30 @@
     "updatedAt": "2026-01-27T21:23:08Z"
   },
   {
+    "id": "awb_3db91238b9e6cb175e12",
+    "name": "Killer Klown Clan Radio",
+    "country": "AU",
+    "subdivision": "New South Wales",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "horrorcore",
+      "juggalo",
+      "rap",
+      "underground hip hop"
+    ],
+    "homepage": "https://link.radioking.com/killer-klown-clan-radio",
+    "favicon": "https://image.radioking.io/radios/957501/logo/02eb9679-95d3-4a79-8403-425c6907596b.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T02:57:54Z"
+  },
+  {
     "id": "awb_fdf30d79994d5bbfe89f",
     "name": "Kiss FM - Dance Music Australia",
     "country": "AU",
@@ -26486,6 +26510,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-03T17:52:21Z"
+  },
+  {
+    "id": "awb_8345ab5e52dbad842acb",
+    "name": "Radio Skid Row 88.9",
+    "country": "AU",
+    "subdivision": "New South Wales",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radioskidrow.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T07:01:37Z"
   },
   {
     "id": "awb_654d1c68bbe03d10e73e",

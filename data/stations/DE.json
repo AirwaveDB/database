@@ -15554,7 +15554,7 @@
       "jpop"
     ],
     "homepage": "https://www.animeradio.de/",
-    "favicon": "https://www.animeradio.de/img/animeradio-stream-mp3-192.jpg",
+    "favicon": "https://www.animeradio.de/img/mascot/manami-guitar.webp",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-02T14:53:19Z"
@@ -25744,7 +25744,7 @@
     "id": "awb_4d93db1f5602c64a3ae1",
     "name": "Club85",
     "country": "DE",
-    "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
+    "subdivision": "Baden-Württemberg",
     "languages": [
       "de"
     ],
@@ -54498,7 +54498,7 @@
     "favicon": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-12T14:42:14Z"
+    "updatedAt": "2026-11-17T14:43:08Z"
   },
   {
     "id": "awb_0acf0fb62bebbeb83a99",
@@ -58034,6 +58034,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-03T17:03:26Z"
+  },
+  {
+    "id": "awb_8af5b316fb7ecfcd8b71",
+    "name": "Münster fm",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://mueenster-fm.jimdofree.com/kontakt-formular/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T19:31:20Z"
   },
   {
     "id": "awb_3ee5cbe496dc2475472c",
@@ -65322,6 +65342,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:54:30Z"
+  },
+  {
+    "id": "awb_1937b06e4403424a4399",
+    "name": "Radio 14 (Η 14η Περιφέρεια)",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "greek",
+      "music"
+    ],
+    "homepage": "https://radio14.gr/",
+    "favicon": "https://radio14.gr/assets/brand/icon-light-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T16:09:04Z"
   },
   {
     "id": "awb_d0568b53c51bacebc1b8",
@@ -75111,7 +75150,7 @@
       "nordrhein-westfalen"
     ],
     "homepage": "https://www.radiomk.de/",
-    "favicon": "https://www.radiomk.de/assets/images/senderlogos/radio_mk.png",
+    "favicon": "https://logos-der-nrwlokalradios.s3.eu-central-1.amazonaws.com/0192-35-39.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-04T14:26:02Z"
@@ -99786,6 +99825,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:12:35Z"
+  },
+  {
+    "id": "awb_2d1cfea51afc826312ec",
+    "name": "VoltFM",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "hip-hop",
+      "pop"
+    ],
+    "tags": [
+      "charts",
+      "deutschrap",
+      "hip-hop",
+      "pop"
+    ],
+    "homepage": "https://voltfm.xyz/",
+    "favicon": "https://www.voltfm.xyz/logo/voltfm-play-icon-dunkel.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T21:45:57Z"
   },
   {
     "id": "awb_39216e245433fbac54b7",

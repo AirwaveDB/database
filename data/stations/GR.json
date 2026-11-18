@@ -1640,7 +1640,7 @@
     "id": "awb_97841c7b9f3b00a5469b",
     "name": "A1812Radio",
     "country": "GR",
-    "subdivision": "Athens Greece",
+    "subdivision": "Attica, Athens",
     "languages": [],
     "categories": [],
     "tags": [],
@@ -9670,6 +9670,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:05:28Z"
+  },
+  {
+    "id": "awb_dcbd8f06a0d7544bef06",
+    "name": "I.M. PATRON",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "orthodox"
+    ],
+    "homepage": "https://www.i-m-patron.gr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T22:53:38Z"
   },
   {
     "id": "awb_e63d357c00c24bc2ab99",

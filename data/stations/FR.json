@@ -4821,7 +4821,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox radio",
+    "name": "Boombox Radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -20824,10 +20824,13 @@
   },
   {
     "id": "awb_7470107e13ffbec5ec15",
-    "name": "KickDrum",
+    "name": "Kickdrum",
     "country": "FR",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en",
+      "fr"
+    ],
     "categories": [
       "electronic"
     ],
@@ -20837,10 +20840,10 @@
       "jumpstyle"
     ],
     "homepage": "https://kickdrum.internal-server.work/",
-    "favicon": "https://kickdrum.internal-server.work/site/favicon.svg?v=1794071058",
+    "favicon": "https://kickdrum.internal-server.work/site/logo-512.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-07T18:52:04Z"
+    "updatedAt": "2026-11-17T22:56:50Z"
   },
   {
     "id": "awb_9001837497504c9782a9",

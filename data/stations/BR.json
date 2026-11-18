@@ -5370,6 +5370,34 @@
     "updatedAt": "2026-03-01T21:13:00Z"
   },
   {
+    "id": "awb_1ae06d4643470edce40e",
+    "name": "IPI - Sol Nascente",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "brasil",
+      "christian",
+      "evangelica",
+      "gospel",
+      "hinos",
+      "hymns",
+      "portuguese",
+      "psalms",
+      "sermons"
+    ],
+    "homepage": "https://ipi-sol-nascente.tatocando.com.br/",
+    "favicon": "https://ipi-sol-nascente.tatocando.com.br/logo",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T13:56:26Z"
+  },
+  {
     "id": "awb_ad233aa189e1915bcda0",
     "name": "Irecê Líder FM 103.7 Irecê - BA",
     "country": "BR",
@@ -9102,6 +9130,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-31T02:20:38Z"
+  },
+  {
+    "id": "awb_a9cb01addc7e7dbd17ee",
+    "name": "Ostentação Radio",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "brasil",
+      "highrise"
+    ],
+    "homepage": "https://derlei-radio.vanderlei-higinno2.chatgpt.site/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T00:19:44Z"
   },
   {
     "id": "awb_26596fada3a5c8a473f9",
@@ -17423,6 +17470,29 @@
     "updatedAt": "2026-05-12T08:12:32Z"
   },
   {
+    "id": "awb_f85580af780c6659f229",
+    "name": "Rádio Mega 94",
+    "country": "BR",
+    "subdivision": "Mato Grosso do Sul",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "jovem",
+      "mpb",
+      "pop",
+      "variedades"
+    ],
+    "homepage": "https://www.mega94.com.br/",
+    "favicon": "https://www.mega94.com.br/wp-content/uploads/2024/08/logo.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T17:23:06Z"
+  },
+  {
     "id": "awb_ae3e6cfd196a8bb125da",
     "name": "Rádio Mega FM Sananduva",
     "country": "BR",
@@ -17870,6 +17940,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-07T02:01:23Z"
+  },
+  {
+    "id": "awb_9b26bc4d8ededfcd6382",
+    "name": "Radio Monte Sinai",
+    "country": "BR",
+    "subdivision": "Espírito Santo",
+    "languages": [],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "gospel"
+    ],
+    "homepage": "https://radiowebmontesinai.com.br/",
+    "favicon": "https://i.imgur.com/soqmeDy.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T01:02:08Z"
   },
   {
     "id": "awb_62fa3e3483fbbd6dab36",
@@ -23790,6 +23878,89 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_3c10173f90890475d886",
+    "name": "Studio94 Flashback",
+    "country": "BR",
+    "subdivision": "Sao Paulo (Brazil)",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "80's",
+      "90's",
+      "flashback"
+    ],
+    "homepage": "https://studio94.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T22:10:28Z"
+  },
+  {
+    "id": "awb_20e8d22df21e341f753d",
+    "name": "Studio94 Pop & Pop Rock",
+    "country": "BR",
+    "subdivision": "SP",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "pop rock"
+    ],
+    "homepage": "https://studio94.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T22:06:35Z"
+  },
+  {
+    "id": "awb_6dda458f81b14b09401d",
+    "name": "Studio94 Samba & Pagode",
+    "country": "BR",
+    "subdivision": "Sao Paulo (Brazil)",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "pagode",
+      "samba",
+      "samba pagode"
+    ],
+    "homepage": "https://studio94.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T22:15:46Z"
+  },
+  {
+    "id": "awb_6b5c0f5a515729e6e64d",
+    "name": "Studio94 Sertanejo",
+    "country": "BR",
+    "subdivision": "Sao Paulo (Brazil)",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "música sertaneja",
+      "sertanejo",
+      "sertanejo raiz"
+    ],
+    "homepage": "https://studio94.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T22:13:17Z"
   },
   {
     "id": "awb_02e5c1433139dadef85a",

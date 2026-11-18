@@ -1668,6 +1668,20 @@
     "updatedAt": "2026-01-15T08:44:04Z"
   },
   {
+    "id": "awb_faa3e0102cfeec04371e",
+    "name": "Numberstations",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://broadcast.sonologic.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T13:53:54Z"
+  },
+  {
     "id": "awb_af6cb53134a7278e611a",
     "name": "Oldies FM",
     "country": "SE",
@@ -2144,6 +2158,28 @@
     "updatedAt": "2026-11-16T16:30:43Z"
   },
   {
+    "id": "awb_f2f429302cc3c74edfa3",
+    "name": "Radio Amerigano",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "americas",
+      "independent",
+      "indie",
+      "music"
+    ],
+    "homepage": "https://fablesh.com/radio/radio-amerigano",
+    "favicon": "https://fablesh.com/images/radio/radio-amerigano.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T16:13:34Z"
+  },
+  {
     "id": "awb_8f71f9acef07b3b459de",
     "name": "Radio Båstad",
     "country": "SE",
@@ -2172,6 +2208,32 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_73bf33869271983299f8",
+    "name": "Radio Euvropa",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "europe",
+      "independent",
+      "indie",
+      "music",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://fablesh.com/radio/radio-euvropa",
+    "favicon": "https://playout.fablesh.com/v1/public/logo/radio-euvropa/square?v=square-tonu31.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T19:27:49Z"
   },
   {
     "id": "awb_b2e53cfbc8647c2aea43",
@@ -2234,6 +2296,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_a9bdaee59e68f92a95f3",
+    "name": "Radio Globe",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "independent",
+      "indie",
+      "music",
+      "pop",
+      "world",
+      "world music"
+    ],
+    "homepage": "https://fablesh.com/radio/radio-globe",
+    "favicon": "https://playout.fablesh.com/v1/public/logo/radio-globe/square?v=square-mwl3ex22.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T20:06:32Z"
   },
   {
     "id": "awb_0057b7615b33402667bf",
@@ -2584,6 +2669,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_2c54dc2ec8688a62344a",
+    "name": "Radioapans knattekanal (aac-320)",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [
+      "sv"
+    ],
+    "categories": [
+      "kids",
+      "public"
+    ],
+    "tags": [
+      "children",
+      "public radio",
+      "sveriges radio"
+    ],
+    "homepage": "https://www.sverigesradio.se/kanaler/radioapans-knattekanal",
+    "favicon": "https://image-api.sr.se/v1/static/AA/2755/1fa2e5fc-da61-45b0-b604-f321013da477.jpg",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T14:41:04Z"
   },
   {
     "id": "awb_849ea8a427b2d95e3c9a",

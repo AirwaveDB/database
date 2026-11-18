@@ -1551,6 +1551,52 @@
     "updatedAt": "2026-11-10T08:15:33Z"
   },
   {
+    "id": "awb_b96b4c6bf72e328fb74f",
+    "name": "AYRE24 RadioNoticias",
+    "country": "ES",
+    "subdivision": "Madrid",
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "información",
+      "information",
+      "news",
+      "noticias",
+      "nouvelles"
+    ],
+    "homepage": "http://www.ayrevenezuela.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T14:01:16Z"
+  },
+  {
+    "id": "awb_35fcd209b49f92608b99",
+    "name": "AYRE2Radio",
+    "country": "ES",
+    "subdivision": "Madrid",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "dancing",
+      "house",
+      "music",
+      "party"
+    ],
+    "homepage": "https://www.ayrevenezuela.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T13:59:03Z"
+  },
+  {
     "id": "awb_351413ce1be3763dd173",
     "name": "Azul FM Murcia",
     "country": "ES",
@@ -3221,6 +3267,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:14:22Z"
+  },
+  {
+    "id": "awb_120af7af011ddbadd1bf",
+    "name": "Cadena SER Jaén",
+    "country": "ES",
+    "subdivision": "Jaén",
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "noticias"
+    ],
+    "homepage": "https://cadenaser.com/radio-jaen/](https://cadenaser.com/radio-jaen/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/253/cadena-ser-jaen.3fe7cc96.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T19:28:46Z"
   },
   {
     "id": "awb_f0c6225ef98e4e724933",
@@ -7367,7 +7431,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://flashradio.es/index.html",
-    "favicon": "https://flashradio.es/img/covers/cover.jpg",
+    "favicon": "https://flashradio.es/img/logo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-07T14:48:39Z"
@@ -15115,6 +15179,26 @@
     "updatedAt": "2026-01-15T02:50:21Z"
   },
   {
+    "id": "awb_cf4a4a2f0b2f5db9f79b",
+    "name": "Radio AYRE Venezuela 1",
+    "country": "ES",
+    "subdivision": "Madrid",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "generalist",
+      "spain",
+      "venezuela"
+    ],
+    "homepage": "http://www.ayrevenezuela.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T13:56:14Z"
+  },
+  {
     "id": "awb_54acdb444734e7cc06ae",
     "name": "Ràdio Balaguer",
     "country": "ES",
@@ -19870,6 +19954,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_94f9dd0a0a25b9dbbb7c",
+    "name": "radiom7",
+    "country": "ES",
+    "subdivision": "Andalucía",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "variety"
+    ],
+    "homepage": "https://www.radiom7.es/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T14:04:07Z"
   },
   {
     "id": "awb_496b114e0f66d52debe9",

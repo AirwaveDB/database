@@ -34,6 +34,20 @@
     "updatedAt": "2026-11-12T08:25:29Z"
   },
   {
+    "id": "awb_2c7851cb096c8140598c",
+    "name": "Brand FM Radio",
+    "country": "TZ",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://brandfmradio.carrd.co/",
+    "favicon": "https://i.postimg.cc/KzDv87s5/Brand-Fm-logo.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T08:30:16Z"
+  },
+  {
     "id": "awb_3f166a2ee91ec2353c9d",
     "name": "Capital Radio",
     "country": "TZ",
@@ -197,6 +211,33 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_a6e84453184ab54f6f26",
+    "name": "KiZaZi Radio",
+    "country": "TZ",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "afrobeats",
+      "afrohouse",
+      "amapiano",
+      "bongo falava",
+      "news talk music entertainment",
+      "podcast"
+    ],
+    "homepage": "https://kizaziradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T11:06:04Z"
   },
   {
     "id": "awb_ffe44496df81fecd48ab",

@@ -6533,6 +6533,27 @@
     "updatedAt": "2026-07-21T20:20:58Z"
   },
   {
+    "id": "awb_810617278d402bcf9ce0",
+    "name": "FM Pueblo Viejo 89.9",
+    "country": "AR",
+    "subdivision": "General Roca",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "cuarteto",
+      "folklore",
+      "música pop",
+      "tropical"
+    ],
+    "homepage": "https://fmpuebloviejo.com.ar/",
+    "favicon": "https://pueblo-total.github.io/pueblo-viejo-web/logo-pueblo-viejo.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-17T22:59:05Z"
+  },
+  {
     "id": "awb_1fe508f4528e7649154e",
     "name": "FM Recuerdos 91.1",
     "country": "AR",
@@ -8910,8 +8931,8 @@
       "del40al1",
       "los40"
     ],
-    "homepage": "https://www.los40.com.ar/",
-    "favicon": "https://lh3.googleusercontent.com/pw/AP1GczP6A5fU61BwITJ4aQjxjgjwh-8_Q_la-53jBYgq2TILGKYotr5Xc1t7VjReeGkZnCjGzWumgwOAZecpgLyd31kgoqQO9bptT7onkonCDqq1Q_3fzGcHNm5AMexuyOL5bczFy1wc35Pa5bfF5p28j0Gy=w1024-h1024-s-no-gm?authuser=0",
+    "homepage": "https://los40.com.ar/",
+    "favicon": "https://lh3.googleusercontent.com/pw/AP1GczOsgoH-saeC-gLWhZaNsw6ZRQO4kqFU6E5PA6_QxLKu6f-GX_H03dI-_Lx0yzLwerQzWXLstJZwyqmeLg6078pgs1uqDe-Z4tAO1EtHcBBQ88AHI0m-_CBDZOX-o-txyviptA01cUc8g8TyOjhiuHsW=w960-h960-s-no-gm?authuser=0",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-12T04:28:35Z"
@@ -13224,7 +13245,7 @@
   },
   {
     "id": "awb_d049a8b8118ea943f532",
-    "name": "Radio Cristiana FM 88.3",
+    "name": "Radio Cristiana fm 88.3",
     "country": "AR",
     "subdivision": "Buenos Aires",
     "languages": [
@@ -13241,7 +13262,7 @@
       "radio hablada",
       "religious"
     ],
-    "homepage": "https://www.radiocristiana883.com.ar/",
+    "homepage": "https://radiocristiana883.com.ar/",
     "favicon": "https://www.radiocristiana883.com.ar/splash.jpg",
     "type": null,
     "sourceCount": 2,
