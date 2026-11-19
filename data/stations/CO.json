@@ -408,6 +408,28 @@
     "updatedAt": "2026-03-03T20:35:51Z"
   },
   {
+    "id": "awb_079ed01c9276319fbdbf",
+    "name": "alerta Paisa 94.4 Medellín",
+    "country": "CO",
+    "subdivision": "Medellín, Antioquia",
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "crossover",
+      "noticias",
+      "popular",
+      "rancheras",
+      "tropical"
+    ],
+    "homepage": "https://www.alerta.com.co/alerta-paisa",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T02:19:06Z"
+  },
+  {
     "id": "awb_134fff02d72886e49184",
     "name": "alerta san gil 1220 am",
     "country": "CO",
@@ -1636,6 +1658,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-19T21:36:14Z"
+  },
+  {
+    "id": "awb_a66e8979cfb9bd389000",
+    "name": "Besame Radio",
+    "country": "CO",
+    "subdivision": "Medellín, Antioquia",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "balada en español"
+    ],
+    "homepage": "https://www.besame.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T01:20:31Z"
   },
   {
     "id": "awb_7a659cd5dada01d1c962",
@@ -4030,6 +4070,26 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_ccc93ca76a897f8ee052",
+    "name": "deportes rcn",
+    "country": "CO",
+    "subdivision": "Bogotá",
+    "languages": [],
+    "categories": [
+      "sports"
+    ],
+    "tags": [
+      "deportes",
+      "fútbol",
+      "rcn"
+    ],
+    "homepage": "https://www.deportesrcn.com/",
+    "favicon": "https://i.deportesrcn.com/media/logos/2026/08/29/004119/logo-deportes-rcn-vertical-y.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T02:11:25Z"
   },
   {
     "id": "awb_d83908089295e680801e",
@@ -6694,6 +6754,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-17T20:20:58Z"
+  },
+  {
+    "id": "awb_c178a79fe068e9d6fa7b",
+    "name": "la mega Bogotá 90.9 fm",
+    "country": "CO",
+    "subdivision": "Bogotá",
+    "languages": [],
+    "categories": [
+      "latin",
+      "pop"
+    ],
+    "tags": [
+      "la mega",
+      "pop",
+      "rcn",
+      "reggaeton",
+      "urbana"
+    ],
+    "homepage": "https://www.lamega.com.co/",
+    "favicon": "https://static.wikia.nocookie.net/logopedia/images/0/01/Logo_la_mega_rcn_2001.png/revision/latest?cb=20210424212225&path-prefix=es",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T02:00:01Z"
   },
   {
     "id": "awb_02610f45f989c0c86d4a",
@@ -10340,6 +10423,32 @@
     "updatedAt": "2026-10-12T03:55:46Z"
   },
   {
+    "id": "awb_2de8444a716e47ae395d",
+    "name": "radio Libertad 600 am Barranqilla",
+    "country": "CO",
+    "subdivision": "Barranquilla",
+    "languages": [],
+    "categories": [
+      "latin",
+      "news"
+    ],
+    "tags": [
+      "caribe",
+      "crossover",
+      "merengue",
+      "noticias",
+      "regional",
+      "salsa",
+      "tropical",
+      "vallenato"
+    ],
+    "homepage": "https://cadenaradiallalibertad.com.co/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T20:59:09Z"
+  },
+  {
     "id": "awb_efe3bc940988c9900d1d",
     "name": "radio magdalena 1420 am",
     "country": "CO",
@@ -10644,6 +10753,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-07T16:17:14Z"
+  },
+  {
+    "id": "awb_3c843213405f2d12b1d5",
+    "name": "radio nacional San José del Guaviare 90.6 fm",
+    "country": "CO",
+    "subdivision": "San José del Guaviare",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "crossover",
+      "radio nacional",
+      "tropical"
+    ],
+    "homepage": "https://www.radionacional.co/en-vivo/emisora-de-la-reconciliacion-san-jose-del-guaviare-guaviare",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T20:40:10Z"
   },
   {
     "id": "awb_f0fc5fcd7b9d8f260e2f",
@@ -10992,6 +11119,29 @@
     "updatedAt": "2026-01-15T07:59:11Z"
   },
   {
+    "id": "awb_b4210b64e0cb008250c5",
+    "name": "radio suroeste 1280 am concordia antioquia",
+    "country": "CO",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "crossover",
+      "noticias",
+      "popular",
+      "rancheras",
+      "tropical",
+      "variada"
+    ],
+    "homepage": "https://radiosuroeste.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T17:47:08Z"
+  },
+  {
     "id": "awb_ff897b2dc0d4453864a5",
     "name": "Radio Tango",
     "country": "CO",
@@ -11171,6 +11321,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-10T15:24:19Z"
+  },
+  {
+    "id": "awb_18452cd3ef5ebc83cc7d",
+    "name": "radio Tropical 1040 am Barranquilla",
+    "country": "CO",
+    "subdivision": "Barranquilla",
+    "languages": [],
+    "categories": [
+      "latin",
+      "news"
+    ],
+    "tags": [
+      "caribe",
+      "cumbia",
+      "merengue",
+      "noticias",
+      "regional",
+      "romántica",
+      "salsa",
+      "tropical"
+    ],
+    "homepage": "https://cadenaradiallalibertad.com.co/#",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T21:05:23Z"
   },
   {
     "id": "awb_c789f150a099f32ba089",
@@ -11945,6 +12121,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:17:03Z"
+  },
+  {
+    "id": "awb_0d4e031278676e0170a9",
+    "name": "rpc lorica 1030 am",
+    "country": "CO",
+    "subdivision": "lorica",
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "crossover",
+      "noticias",
+      "tropical",
+      "vallenato"
+    ],
+    "homepage": "https://zeno.fm/radio/rpc-lorica-radio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T19:36:22Z"
   },
   {
     "id": "awb_8168650e761da05e6264",
@@ -13950,6 +14147,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_1c5ff47cb6b1c398b8b3",
+    "name": "Yeshua Radio Catolica",
+    "country": "CO",
+    "subdivision": "Medellín, Antioquia",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://ebcyeshua.com/",
+    "favicon": "https://ebcyeshua.com/wp-content/uploads/2024/07/Logo-yeshua-white-font.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T20:02:38Z"
   },
   {
     "id": "awb_a1f9b6c6cb6013d761c6",

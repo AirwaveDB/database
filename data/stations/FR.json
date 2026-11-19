@@ -10944,7 +10944,7 @@
   },
   {
     "id": "awb_31f6b9c5492374858e6a",
-    "name": "FIP",
+    "name": "Fip",
     "country": "FR",
     "subdivision": null,
     "languages": [],
@@ -11524,7 +11524,7 @@
       "pop"
     ],
     "homepage": "https://www.fip.fr/pop/webradio",
-    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg",
+    "favicon": "https://www.fip.fr/dist/favicons/logo-120.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -43841,6 +43841,22 @@
     "updatedAt": "2026-11-17T09:50:42Z"
   },
   {
+    "id": "awb_64e40507938371c7fb1e",
+    "name": "RLF, Radio Loire Forez",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "2000"
+    ],
+    "homepage": "https://radiorlf.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T19:34:38Z"
+  },
+  {
     "id": "awb_3e050152e9c0639b6101",
     "name": "RLM Bastia",
     "country": "FR",
@@ -46716,7 +46732,7 @@
     "favicon": "https://turkvox.eu/directory-assets/turkvox-radio-pwa-1200.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-03T21:33:27Z"
+    "updatedAt": "2026-11-18T22:11:07Z"
   },
   {
     "id": "awb_1cfef3b6daad55befecd",

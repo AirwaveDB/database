@@ -14041,6 +14041,31 @@
     "updatedAt": "2026-01-14T23:44:14Z"
   },
   {
+    "id": "awb_e1de7def76deda03f0af",
+    "name": "Airosa FM",
+    "country": "MX",
+    "subdivision": "Pachuca, Hidalgo",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "electronic",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "alternative rock",
+      "electronic",
+      "pop",
+      "top 40 hits"
+    ],
+    "homepage": "https://airosafm.com/",
+    "favicon": "https://airosafm.com/includes/imagenes/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T06:58:28Z"
+  },
+  {
     "id": "awb_3e3f21e5235d7219c008",
     "name": "AJIJO 92.7",
     "country": "MX",
@@ -25748,6 +25773,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-23T03:31:19Z"
+  },
+  {
+    "id": "awb_703c510a184604eff37c",
+    "name": "Fusión 102.5 XHUAN-FM",
+    "country": "MX",
+    "subdivision": "Tijuana, Baja California",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "jazz",
+      "news"
+    ],
+    "tags": [
+      "jazz",
+      "news"
+    ],
+    "homepage": "https://www.imer.mx/fusion/",
+    "favicon": "https://www.imer.mx/fusion/wp-content/uploads/sites/23/generica-1-764x764.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T06:52:41Z"
   },
   {
     "id": "awb_7bcdc459bcc2aae94313",
@@ -48791,6 +48838,28 @@
     "updatedAt": "2026-11-10T16:29:40Z"
   },
   {
+    "id": "awb_e248828c7d9e0436451f",
+    "name": "Orbita 106.7",
+    "country": "MX",
+    "subdivision": "Ciudad Juárez, Chihuahua",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news",
+      "rock"
+    ],
+    "tags": [
+      "noticias",
+      "rock"
+    ],
+    "homepage": "https://www.imer.mx/orbita/",
+    "favicon": "https://thumbnail.anii.io/mx/radio-orbita-106-7-fm-mexico.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T09:46:42Z"
+  },
+  {
     "id": "awb_ce918326e3ff0f5f2c67",
     "name": "Oreja FM 105.7 Oaxaca",
     "country": "MX",
@@ -58444,7 +58513,7 @@
     "id": "awb_06c5ef8eb67057bf7485",
     "name": "Sonora Classic Rock (Hard & Metal)",
     "country": "MX",
-    "subdivision": "Hermosillo, Sonora",
+    "subdivision": "Sonora",
     "languages": [],
     "categories": [
       "metal",

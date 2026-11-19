@@ -14040,7 +14040,7 @@
   },
   {
     "id": "awb_fa4a53a5bedfa55532ed",
-    "name": "Absolut Coffemusic",
+    "name": "Absolut coffemusic",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -14050,7 +14050,7 @@
     "tags": [
       "pop"
     ],
-    "homepage": "https://absolutradio.de/",
+    "homepage": "https://absolutradio.de/empfang",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -17650,7 +17650,7 @@
       "oldies"
     ],
     "homepage": "https://antenne.nrw/",
-    "favicon": "https://wikimedia.org/",
+    "favicon": "https://www.radio.de/100/antennenrw70erhits.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-09T10:51:45Z"
@@ -22903,7 +22903,7 @@
     "id": "awb_57a7c6623f3b848ad6d8",
     "name": "BN-Radio",
     "country": "DE",
-    "subdivision": "Sachsen",
+    "subdivision": "Nordrhein-Westfalen",
     "languages": [
       "de"
     ],
@@ -22914,7 +22914,7 @@
       "electronic"
     ],
     "homepage": "http://www.bn-radio.de/",
-    "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
+    "favicon": "https://stream.bn-radio.de/images/Logo-BN_Radio.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-11-17T09:55:15Z"
@@ -25852,7 +25852,7 @@
     "id": "awb_b098533cbb0e7eefb5d6",
     "name": "coloRadio",
     "country": "DE",
-    "subdivision": "Sachsen",
+    "subdivision": "Saxony",
     "languages": [
       "de"
     ],
@@ -47345,6 +47345,22 @@
     "updatedAt": "2026-11-04T16:37:57Z"
   },
   {
+    "id": "awb_c8d6ad876b50dbcfc293",
+    "name": "Jumpstyle Sound Radio",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://laut.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T20:02:38Z"
+  },
+  {
     "id": "awb_fba2759ccf8c03733996",
     "name": "Just 80 Maximal",
     "country": "DE",
@@ -53026,7 +53042,7 @@
       "techno"
     ],
     "homepage": "https://www.leipzig-beatzz.de/",
-    "favicon": "https://assets.website-files.com/5f5ff904eff116e46575e21b/5f6007dbf31b43899f2f51c9_Beatzz%20Logo%20Wei%C3%9F-p-800.png",
+    "favicon": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/75/28/9c75281d-92b1-a6e0-8373-cc9dc35a86d0/source/60x60bb.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -55304,7 +55320,7 @@
   },
   {
     "id": "awb_deb33c8f9e0dc702a70e",
-    "name": "mdr kultur",
+    "name": "MDR KULTUR",
     "country": "DE",
     "subdivision": "Saxony-Anhalt",
     "languages": [
@@ -55328,7 +55344,7 @@
       "mitteldeutscher rundfunk",
       "popkultur"
     ],
-    "homepage": "https://www.mdr.de/",
+    "homepage": "https://www.mdr.de/kultur/radio/index.html",
     "favicon": "https://www.mdr.de/kultur/logo-118-resimage_v-variantSmall1x1_w-512.png",
     "type": null,
     "sourceCount": 2,
@@ -57861,6 +57877,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-22T21:13:47Z"
+  },
+  {
+    "id": "awb_d31d91c40fe2c056f94a",
+    "name": "MuhKi FM",
+    "country": "DE",
+    "subdivision": "Niedersachsen",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "community",
+      "electronic",
+      "pop"
+    ],
+    "tags": [
+      "community",
+      "electronic",
+      "indie",
+      "local",
+      "pop"
+    ],
+    "homepage": "https://muhki-fm.de/",
+    "favicon": "https://muhki-fm.de/assets/favicon.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T13:50:06Z"
   },
   {
     "id": "awb_c2292459eacc68da165c",
@@ -63249,6 +63291,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_e874c3ac1785535b9f10",
+    "name": "Popschlager",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://schlagermania.info/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T15:37:55Z"
   },
   {
     "id": "awb_87c5f869f1eeee729eba",
@@ -78167,7 +78223,7 @@
   },
   {
     "id": "awb_7b44365c7ed5c851f87c",
-    "name": "Radio Santec",
+    "name": "radio santec",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -78175,7 +78231,7 @@
     "tags": [
       "religous"
     ],
-    "homepage": "https://radio-santec.com/en/home/audio/",
+    "homepage": "https://radio-santec.com/",
     "favicon": "https://radio-santec.com/wp-content/uploads/2019/02/radio_-santec_logo.png",
     "type": null,
     "sourceCount": 2,

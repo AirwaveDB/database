@@ -4692,6 +4692,29 @@
     "updatedAt": "2026-07-14T22:42:34Z"
   },
   {
+    "id": "awb_07afe2000333863d0a74",
+    "name": "Gold FM 94.7",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "jazz",
+      "rock"
+    ],
+    "tags": [
+      "jazz",
+      "mpb",
+      "rock"
+    ],
+    "homepage": "https://gold947.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T04:28:00Z"
+  },
+  {
     "id": "awb_129426cd4f908342e2cc",
     "name": "GOLD INSTRUMENTAL",
     "country": "BR",
@@ -19652,7 +19675,7 @@
     "id": "awb_45a779d6977d4e0269d0",
     "name": "Rádio Reprise",
     "country": "BR",
-    "subdivision": "Maranhão",
+    "subdivision": "MA",
     "languages": [
       "en",
       "es",
@@ -19663,15 +19686,17 @@
       "religious"
     ],
     "tags": [
+      "christian",
       "cristã",
+      "família",
       "gospel",
       "jovem"
     ],
     "homepage": "https://sites.google.com/view/radioreprisegospel/p%c3%a1gina-inicial",
-    "favicon": "https://sites.google.com/view/radioreprisegospel/p%c3%a1gina-inicial",
+    "favicon": "https://i.postimg.cc/SQJ3Qqy2/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T08:06:21Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-18T13:46:00Z"
   },
   {
     "id": "awb_f0e038fcca66aefdea0c",
@@ -22190,6 +22215,22 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_10f27e3109202487f6fe",
+    "name": "Rádio Viola FM 98.1",
+    "country": "BR",
+    "subdivision": "Paraná(Brazil)",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "sertanejo"
+    ],
+    "homepage": "https://violafm.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T22:12:58Z"
+  },
+  {
     "id": "awb_ebbf5e3737086066ffbc",
     "name": "Rádio Virgo Net",
     "country": "BR",
@@ -24448,6 +24489,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-08T18:34:53Z"
+  },
+  {
+    "id": "awb_285f42093f75f6ff25e0",
+    "name": "Tokyo Groove FM",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "anime",
+      "pop"
+    ],
+    "tags": [
+      "anisong",
+      "city pop",
+      "english",
+      "j-pop",
+      "japanese music",
+      "tokusatsu"
+    ],
+    "homepage": "https://www.tokyogroovefm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-18T14:30:41Z"
   },
   {
     "id": "awb_3baf79686d6bcd3e0631",
