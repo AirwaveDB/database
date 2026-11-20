@@ -6612,35 +6612,6 @@
     "updatedAt": "2026-10-11T22:31:15Z"
   },
   {
-    "id": "awb_68839ee58cc16ac36ef0",
-    "name": "ABC Radio National (SA)",
-    "country": "AU",
-    "subdivision": "South Australia",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "arts",
-      "culture",
-      "education",
-      "national radio",
-      "news",
-      "news talk",
-      "public radio",
-      "talk"
-    ],
-    "homepage": "https://www.abc.net.au/listen/radionational/",
-    "favicon": "https://live-production.wcms.abc-cdn.net.au/556166359443f9aaa26ce7b905c4a29f",
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T08:36:03Z"
-  },
-  {
     "id": "awb_e37d9162bcf397ae1645",
     "name": "ABC Radio National (TAS)",
     "country": "AU",
@@ -6800,6 +6771,35 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:29:20Z"
+  },
+  {
+    "id": "awb_68839ee58cc16ac36ef0",
+    "name": "ABC Radio National SA",
+    "country": "AU",
+    "subdivision": "South Australia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "public",
+      "talk"
+    ],
+    "tags": [
+      "arts",
+      "culture",
+      "education",
+      "national radio",
+      "news",
+      "news talk",
+      "public radio",
+      "talk"
+    ],
+    "homepage": "https://www.abc.net.au/listen/radionational",
+    "favicon": "https://live-production.wcms.abc-cdn.net.au/556166359443f9aaa26ce7b905c4a29f",
+    "type": "public",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-12T08:36:03Z"
   },
   {
     "id": "awb_3fead8a25b9939df74e3",
@@ -8414,6 +8414,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:26:25Z"
+  },
+  {
+    "id": "awb_4521fc71306c53302754",
+    "name": "Audiohouse Underground",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop and country",
+      "rock"
+    ],
+    "homepage": "https://www.audiohouse.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T04:20:54Z"
   },
   {
     "id": "awb_274fd43e0d85a5accb23",

@@ -9541,7 +9541,7 @@
       "music",
       "the best dance music mix"
     ],
-    "homepage": "https://danceuk.danceradiouk.com/",
+    "homepage": "https://danceuk.danceradiouk.com/both-channels/",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240224_044329769.jpg?alt=media&token=87304d76-106f-47e3-beb5-ea733ecba274",
     "type": null,
     "sourceCount": 2,
@@ -25424,6 +25424,27 @@
     "updatedAt": "2026-01-15T07:52:11Z"
   },
   {
+    "id": "awb_3e8c58eed9a10e5b9ea0",
+    "name": "Radio Le Mans",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "tags": [
+      "motor sport",
+      "sport"
+    ],
+    "homepage": "http://www.radiolemans.com/",
+    "favicon": "http://www.radiolemans.com/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T15:08:41Z"
+  },
+  {
     "id": "awb_782f446971877a564afd",
     "name": "Radio LEAR",
     "country": "GB",
@@ -25781,6 +25802,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:28:38Z"
+  },
+  {
+    "id": "awb_c0a73e23ad73388ec95f",
+    "name": "Radio Ramadhan World",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "islamic",
+      "nasheed"
+    ],
+    "homepage": "https://radioramadan.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T04:26:22Z"
   },
   {
     "id": "awb_87bf7f1a131e103b140f",
@@ -28298,6 +28338,26 @@
     "updatedAt": "2026-07-25T07:57:38Z"
   },
   {
+    "id": "awb_14cf721fa92affad419c",
+    "name": "RS3",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "tags": [
+      "sport"
+    ],
+    "homepage": "http://www.radiolemans.com/",
+    "favicon": "http://www.radiolemans.com/wp-content/uploads/2024/01/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T15:16:46Z"
+  },
+  {
     "id": "awb_ae3c1961edc9794c8176",
     "name": "RTM.FM",
     "country": "GB",
@@ -29059,7 +29119,7 @@
   },
   {
     "id": "awb_e39e1943fb657da33006",
-    "name": "SLE RADIO ONE",
+    "name": "SLE Radio One",
     "country": "GB",
     "subdivision": null,
     "languages": [
@@ -33546,6 +33606,31 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_0475f1374f4dff77a720",
+    "name": "VIBE Music Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "2000s",
+      "2010s",
+      "dance",
+      "hits",
+      "pop",
+      "uk"
+    ],
+    "homepage": "https://vibemusicradio.co.uk/",
+    "favicon": "https://vibemusicradio.co.uk/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:50:44Z"
+  },
+  {
     "id": "awb_edecb6191203ad3472c9",
     "name": "Vibe Radio",
     "country": "GB",
@@ -34455,7 +34540,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

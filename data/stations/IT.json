@@ -2139,6 +2139,37 @@
     "updatedAt": "2026-10-02T19:45:18Z"
   },
   {
+    "id": "awb_084522dd07a5c82c693e",
+    "name": "Dj Work Radio",
+    "country": "IT",
+    "subdivision": "Umbria",
+    "languages": [
+      "en",
+      "es",
+      "it"
+    ],
+    "categories": [
+      "electronic",
+      "jazz",
+      "latin"
+    ],
+    "tags": [
+      "afro house",
+      "dance",
+      "deep house",
+      "house",
+      "jazz fusion",
+      "latin",
+      "r&b",
+      "techno"
+    ],
+    "homepage": "https://www.djwork.it/",
+    "favicon": "https://www.djwork.it/wp-content/uploads/2020/06/Logo.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T19:13:24Z"
+  },
+  {
     "id": "awb_7b1a0632ae8e67bf2e83",
     "name": "Dolce la Vita",
     "country": "IT",
@@ -13231,6 +13262,30 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_0da30328db75774e7a72",
+    "name": "Radio Everest",
+    "country": "IT",
+    "subdivision": "Emilia-Romagna",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "ballad",
+      "indie",
+      "pop",
+      "pop rock"
+    ],
+    "homepage": "https://radioeverest.it/",
+    "favicon": "https://radioeverest.it/FAVCON.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T13:11:35Z"
+  },
+  {
     "id": "awb_78bada548d83ba0a78d8",
     "name": "Radio Faleria Mare",
     "country": "IT",
@@ -16079,6 +16134,38 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_88c62e307d266771a5b7",
+    "name": "Radio Leila",
+    "country": "IT",
+    "subdivision": "Lombardy",
+    "languages": [
+      "en",
+      "it"
+    ],
+    "categories": [
+      "ambient",
+      "community",
+      "electronic",
+      "reggae"
+    ],
+    "tags": [
+      "ambient",
+      "community radio",
+      "dj sets",
+      "dub",
+      "electronic",
+      "experimental",
+      "house",
+      "milano",
+      "techno"
+    ],
+    "homepage": "https://www.radioleila.com/",
+    "favicon": "https://www.radioleila.com/favicon.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T10:22:43Z"
   },
   {
     "id": "awb_be6a41e741f0634fe10c",

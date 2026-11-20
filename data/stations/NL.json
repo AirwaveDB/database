@@ -3684,7 +3684,7 @@
       "pop"
     ],
     "homepage": "https://www.deventerrtv.nl/",
-    "favicon": "https://www.deventerrtv.nl/own-files/drtv-512x512.png",
+    "favicon": "https://www.deventerrtv.nl/own-files/apple-touch-icon.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -9119,6 +9119,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:16:54Z"
+  },
+  {
+    "id": "awb_57b5d36629034749e5c7",
+    "name": "Music Pro 4u Radio",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "hi"
+    ],
+    "categories": [],
+    "tags": [
+      "hindi bollywood"
+    ],
+    "homepage": "https://cdn.onlineradiobox.com/img/l/5/138565.v1.png",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/5/138565.v1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T08:25:12Z"
   },
   {
     "id": "awb_0bd1bf98ce92e4183a56",
@@ -16762,6 +16780,26 @@
     "updatedAt": "2026-03-19T13:22:12Z"
   },
   {
+    "id": "awb_cffa2e9f67ab8dc139c0",
+    "name": "Roslo radio",
+    "country": "NL",
+    "subdivision": "Noord Brabant",
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "golden oldies"
+    ],
+    "homepage": "https://www.rosloradio.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T20:26:06Z"
+  },
+  {
     "id": "awb_0b1b517e1cf8634e52cb",
     "name": "Roulette FM",
     "country": "NL",
@@ -16968,6 +17006,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-19T17:52:21Z"
+  },
+  {
+    "id": "awb_989f18083954369d2f50",
+    "name": "RTV Katwijk",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "nl"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.rtvkatwijk.nl/",
+    "favicon": "https://www.rtvkatwijk.nl/wp-content/uploads/2016/02/cropped-Logo20website20klein.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T15:30:01Z"
   },
   {
     "id": "awb_3f86ab0c3e3cc71f3319",

@@ -772,6 +772,28 @@
     "updatedAt": "2026-10-17T20:10:21Z"
   },
   {
+    "id": "awb_05c6b12af21400c1f93a",
+    "name": "MRPL Classics",
+    "country": "LT",
+    "subdivision": "Alytus",
+    "languages": [
+      "en",
+      "lt"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical",
+      "radio archives"
+    ],
+    "homepage": "https://mrpl.babrai.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T03:47:06Z"
+  },
+  {
     "id": "awb_311b082d4693dff0a3a7",
     "name": "Neringa FM",
     "country": "LT",
@@ -1148,7 +1170,7 @@
     "id": "awb_f0418ec6f2a427f541db",
     "name": "Radijo Stotis Kelyje",
     "country": "LT",
-    "subdivision": "Kaunas",
+    "subdivision": "Vilnius",
     "languages": [
       "lt"
     ],

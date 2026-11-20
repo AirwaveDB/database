@@ -1415,8 +1415,8 @@
     "tags": [
       "kpop"
     ],
-    "homepage": "https://colemac1.wixsite.com/kool96internetradio",
-    "favicon": "https://static.wixstatic.com/media/2f97ed_965e4fe505524ec5aa4a7407b7cabcf0~mv2.png/v1/fill/w_302,h_220,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPOILER_96_kool_fm_cswk-ir_logo.png",
+    "homepage": "http://colemac1.wixsite.com/kool96internetradio",
+    "favicon": "https://static.wixstatic.com/media/2f97ed_435f0f87b6c447c8839a2e4ffbf59d1d~mv2.png/v1/fill/w_202,h_119,al_c,lg_1,q_85,enc_avif,quality_auto/image_2026-09-11_173757385.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-26T23:37:51Z"
@@ -19441,6 +19441,34 @@
     "updatedAt": "2026-01-15T01:48:00Z"
   },
   {
+    "id": "awb_74a81c897a0f1a69042d",
+    "name": "Hala Canada Radio - راديو هلا كندا",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "community",
+      "news"
+    ],
+    "tags": [
+      "arabic",
+      "arabic music",
+      "canada",
+      "community",
+      "montreal",
+      "news",
+      "ottawa",
+      "toronto"
+    ],
+    "homepage": "https://halacanada.ca/radio/",
+    "favicon": "https://images.radio.co/station_logos/s338fb47f3.20200813094107.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T22:45:15Z"
+  },
+  {
     "id": "awb_0e11970a068bc8db8491",
     "name": "Hamnava Records - Chill",
     "country": "CA",
@@ -27220,6 +27248,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-31T22:54:56Z"
+  },
+  {
+    "id": "awb_373d00c39974ff93e455",
+    "name": "WRCC",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "country",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "blues",
+      "classic country",
+      "classic hits",
+      "classic rock"
+    ],
+    "homepage": "https://www.facebook.com/share/1QUAFWoK3h/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T13:45:13Z"
   },
   {
     "id": "awb_bad376d24d3d1e9fee2c",

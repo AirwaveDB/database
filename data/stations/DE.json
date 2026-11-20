@@ -14040,7 +14040,7 @@
   },
   {
     "id": "awb_fa4a53a5bedfa55532ed",
-    "name": "Absolut coffemusic",
+    "name": "Absolut Coffemusic",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -14050,7 +14050,7 @@
     "tags": [
       "pop"
     ],
-    "homepage": "https://absolutradio.de/empfang",
+    "homepage": "https://absolutradio.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -15554,7 +15554,7 @@
       "jpop"
     ],
     "homepage": "https://www.animeradio.de/",
-    "favicon": "https://www.animeradio.de/img/mascot/manami-guitar.webp",
+    "favicon": "https://www.animeradio.de/img/animeradio-stream-mp3-192.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-02T14:53:19Z"
@@ -22903,7 +22903,7 @@
     "id": "awb_57a7c6623f3b848ad6d8",
     "name": "BN-Radio",
     "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
+    "subdivision": "Sachsen",
     "languages": [
       "de"
     ],
@@ -22914,7 +22914,7 @@
       "electronic"
     ],
     "homepage": "http://www.bn-radio.de/",
-    "favicon": "https://stream.bn-radio.de/images/Logo-BN_Radio.png",
+    "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-11-17T09:55:15Z"
@@ -24926,7 +24926,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.ffn.de/",
+    "homepage": "http://www.ffn.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 3,
@@ -25744,7 +25744,7 @@
     "id": "awb_4d93db1f5602c64a3ae1",
     "name": "Club85",
     "country": "DE",
-    "subdivision": "Baden-Württemberg",
+    "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
     "languages": [
       "de"
     ],
@@ -25852,7 +25852,7 @@
     "id": "awb_b098533cbb0e7eefb5d6",
     "name": "coloRadio",
     "country": "DE",
-    "subdivision": "Saxony",
+    "subdivision": "Sachsen",
     "languages": [
       "de"
     ],
@@ -35596,6 +35596,25 @@
     "updatedAt": "2026-11-12T00:13:03Z"
   },
   {
+    "id": "awb_29cc85aae36ccc4eb77a",
+    "name": "Eurodance /laut.fm/",
+    "country": "DE",
+    "subdivision": "Konstanz",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "90's",
+      "eurodance"
+    ],
+    "homepage": "https://laut.fm/eurodance",
+    "favicon": "https://media.pcradio.app/media/logos/180/32410/logo_1TKPglPcbP.jpg?v=20260529-media-restore",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T03:58:15Z"
+  },
+  {
     "id": "awb_0b13005b7189d16ee35d",
     "name": "Europa Radio",
     "country": "DE",
@@ -43890,6 +43909,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:57:08Z"
+  },
+  {
+    "id": "awb_4a65b79bf225a8ae67b8",
+    "name": "Hofnungswelle",
+    "country": "DE",
+    "subdivision": "Niedersachsen",
+    "languages": [
+      "de",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "christlich",
+      "hoffnungswelle"
+    ],
+    "homepage": "https://hoffnungswelle.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T16:33:21Z"
   },
   {
     "id": "awb_6ee1e6e219f7348eb78a",
@@ -53042,7 +53081,7 @@
       "techno"
     ],
     "homepage": "https://www.leipzig-beatzz.de/",
-    "favicon": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/75/28/9c75281d-92b1-a6e0-8373-cc9dc35a86d0/source/60x60bb.jpg",
+    "favicon": "https://assets.website-files.com/5f5ff904eff116e46575e21b/5f6007dbf31b43899f2f51c9_Beatzz%20Logo%20Wei%C3%9F-p-800.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -55320,7 +55359,7 @@
   },
   {
     "id": "awb_deb33c8f9e0dc702a70e",
-    "name": "MDR KULTUR",
+    "name": "mdr kultur",
     "country": "DE",
     "subdivision": "Saxony-Anhalt",
     "languages": [
@@ -55344,7 +55383,7 @@
       "mitteldeutscher rundfunk",
       "popkultur"
     ],
-    "homepage": "https://www.mdr.de/kultur/radio/index.html",
+    "homepage": "https://www.mdr.de/",
     "favicon": "https://www.mdr.de/kultur/logo-118-resimage_v-variantSmall1x1_w-512.png",
     "type": null,
     "sourceCount": 2,
@@ -69581,7 +69620,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobreidenbach.de/index.php?seite=startseite",
+    "homepage": "https://www.radiobreidenbach.de/",
     "favicon": "https://www.radiobreidenbach.de/templates/favicon.ico",
     "type": null,
     "sourceCount": 2,
@@ -78223,7 +78262,7 @@
   },
   {
     "id": "awb_7b44365c7ed5c851f87c",
-    "name": "radio santec",
+    "name": "Radio Santec",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -78231,7 +78270,7 @@
     "tags": [
       "religous"
     ],
-    "homepage": "https://radio-santec.com/",
+    "homepage": "https://radio-santec.com/en/home/audio/",
     "favicon": "https://radio-santec.com/wp-content/uploads/2019/02/radio_-santec_logo.png",
     "type": null,
     "sourceCount": 2,
@@ -81403,7 +81442,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
+    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"

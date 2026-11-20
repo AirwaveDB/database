@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-19T10:22:34.046Z",
+  "generatedAt": "2026-11-20T10:02:25.248Z",
   "schemaVersion": 1,
-  "stationCount": 51678,
-  "sourceRecordCount": 60682,
+  "stationCount": 51897,
+  "sourceRecordCount": 60901,
   "redirectCount": 64,
   "sources": {
-    "radio-browser": 52978,
+    "radio-browser": 53196,
     "verified-radio-streams": 7707
   },
   "quality": {
-    "withHomepage": 49373,
-    "withFavicon": 30572,
-    "withLanguage": 32722,
-    "withCategory": 25411,
+    "withHomepage": 49592,
+    "withFavicon": 30763,
+    "withLanguage": 32923,
+    "withCategory": 25575,
     "unknownCountry": 1030,
-    "withType": 2386,
-    "normalizedLanguageValues": 501
+    "withType": 2397,
+    "normalizedLanguageValues": 508
   },
   "countries": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "code": "AR",
-      "stationCount": 1041
+      "stationCount": 1042
     },
     {
       "code": "AS",
@@ -68,7 +68,7 @@
     },
     {
       "code": "AU",
-      "stationCount": 1600
+      "stationCount": 1601
     },
     {
       "code": "AW",
@@ -76,7 +76,7 @@
     },
     {
       "code": "AZ",
-      "stationCount": 34
+      "stationCount": 37
     },
     {
       "code": "BA",
@@ -132,7 +132,7 @@
     },
     {
       "code": "BR",
-      "stationCount": 1438
+      "stationCount": 1561
     },
     {
       "code": "BS",
@@ -156,7 +156,7 @@
     },
     {
       "code": "CA",
-      "stationCount": 1361
+      "stationCount": 1363
     },
     {
       "code": "CC",
@@ -176,7 +176,7 @@
     },
     {
       "code": "CH",
-      "stationCount": 472
+      "stationCount": 473
     },
     {
       "code": "CI",
@@ -204,7 +204,7 @@
     },
     {
       "code": "CU",
-      "stationCount": 28
+      "stationCount": 29
     },
     {
       "code": "CV",
@@ -228,7 +228,7 @@
     },
     {
       "code": "DE",
-      "stationCount": 5015
+      "stationCount": 5017
     },
     {
       "code": "DK",
@@ -296,7 +296,7 @@
     },
     {
       "code": "GB",
-      "stationCount": 1841
+      "stationCount": 1845
     },
     {
       "code": "GD",
@@ -336,7 +336,7 @@
     },
     {
       "code": "GR",
-      "stationCount": 1844
+      "stationCount": 1852
     },
     {
       "code": "GT",
@@ -372,7 +372,7 @@
     },
     {
       "code": "HU",
-      "stationCount": 323
+      "stationCount": 324
     },
     {
       "code": "ID",
@@ -392,7 +392,7 @@
     },
     {
       "code": "IN",
-      "stationCount": 786
+      "stationCount": 788
     },
     {
       "code": "IO",
@@ -412,7 +412,7 @@
     },
     {
       "code": "IT",
-      "stationCount": 1497
+      "stationCount": 1500
     },
     {
       "code": "JE",
@@ -492,7 +492,7 @@
     },
     {
       "code": "LK",
-      "stationCount": 65
+      "stationCount": 66
     },
     {
       "code": "LR",
@@ -504,7 +504,7 @@
     },
     {
       "code": "LT",
-      "stationCount": 112
+      "stationCount": 113
     },
     {
       "code": "LU",
@@ -572,7 +572,7 @@
     },
     {
       "code": "MT",
-      "stationCount": 15
+      "stationCount": 16
     },
     {
       "code": "MU",
@@ -588,7 +588,7 @@
     },
     {
       "code": "MX",
-      "stationCount": 1659
+      "stationCount": 1658
     },
     {
       "code": "MY",
@@ -620,11 +620,11 @@
     },
     {
       "code": "NL",
-      "stationCount": 1101
+      "stationCount": 1104
     },
     {
       "code": "NO",
-      "stationCount": 124
+      "stationCount": 125
     },
     {
       "code": "NP",
@@ -648,7 +648,7 @@
     },
     {
       "code": "PE",
-      "stationCount": 287
+      "stationCount": 288
     },
     {
       "code": "PF",
@@ -660,7 +660,7 @@
     },
     {
       "code": "PH",
-      "stationCount": 682
+      "stationCount": 683
     },
     {
       "code": "PK",
@@ -668,7 +668,7 @@
     },
     {
       "code": "PL",
-      "stationCount": 851
+      "stationCount": 874
     },
     {
       "code": "PM",
@@ -680,7 +680,7 @@
     },
     {
       "code": "PS",
-      "stationCount": 11
+      "stationCount": 12
     },
     {
       "code": "PT",
@@ -748,7 +748,7 @@
     },
     {
       "code": "SK",
-      "stationCount": 135
+      "stationCount": 136
     },
     {
       "code": "SL",
@@ -768,7 +768,7 @@
     },
     {
       "code": "SR",
-      "stationCount": 9
+      "stationCount": 10
     },
     {
       "code": "SS",
@@ -816,7 +816,7 @@
     },
     {
       "code": "TR",
-      "stationCount": 650
+      "stationCount": 657
     },
     {
       "code": "TT",
@@ -848,7 +848,7 @@
     },
     {
       "code": "US",
-      "stationCount": 6856
+      "stationCount": 6882
     },
     {
       "code": "UY",

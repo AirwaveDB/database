@@ -1157,6 +1157,26 @@
     "updatedAt": "2026-01-15T07:10:26Z"
   },
   {
+    "id": "awb_b41b0f6788dd35c05cb0",
+    "name": "Disco Radio - zawsze w rytmie!",
+    "country": "PL",
+    "subdivision": "śląskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [],
+    "tags": [
+      "dab+",
+      "dance",
+      "disco polo"
+    ],
+    "homepage": "https://www.radiodisco.pl/",
+    "favicon": "https://www.radiodisco.pl/wp-content/uploads/2024/07/cropped-Frame-80-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:51Z"
+  },
+  {
     "id": "awb_c96efaaff58f9714062d",
     "name": "DiscoParty.pl - Club",
     "country": "PL",
@@ -2458,6 +2478,29 @@
     "updatedAt": "2026-01-15T03:04:28Z"
   },
   {
+    "id": "awb_b3d44566cdbc4fe2f630",
+    "name": "Katolickie Radio Fiat",
+    "country": "PL",
+    "subdivision": "śląskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "religious"
+    ],
+    "tags": [
+      "catholic",
+      "news",
+      "religious"
+    ],
+    "homepage": "https://radiofiat.pl/",
+    "favicon": "https://radiofiat.pl/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:50Z"
+  },
+  {
     "id": "awb_9015684c29b05d6ef55d",
     "name": "Katolickie Radio Podlasie",
     "country": "PL",
@@ -2739,6 +2782,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_b566939443b56ee32ee1",
+    "name": "LPU FM",
+    "country": "PL",
+    "subdivision": "lubelskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "local news",
+      "pop"
+    ],
+    "homepage": "https://lpu.fm/",
+    "favicon": "https://lpu.fm/wp-content/uploads/2026/04/cropped-android-chrome-512x512-1-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:50Z"
   },
   {
     "id": "awb_20d6b2e6e3456eeac4de",
@@ -4159,6 +4225,29 @@
     "updatedAt": "2026-01-15T07:27:51Z"
   },
   {
+    "id": "awb_a63511b03d0fd319818d",
+    "name": "Polskie Radio Koszalin",
+    "country": "PL",
+    "subdivision": "zachodniopomorskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "public"
+    ],
+    "tags": [
+      "news",
+      "public radio",
+      "regional"
+    ],
+    "homepage": "https://prk24.pl/",
+    "favicon": "https://prk24.pl/assets/gfx/logo-opengraph.png",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:49Z"
+  },
+  {
     "id": "awb_794aca9a8079f2a0ee3b",
     "name": "Polskie Radio OLSZTYN",
     "country": "PL",
@@ -4222,6 +4311,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-07T08:15:55Z"
+  },
+  {
+    "id": "awb_3ba2a1a7ef09206627ed",
+    "name": "POP Radio 92,8 FM",
+    "country": "PL",
+    "subdivision": "mazowieckie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "local news",
+      "pop"
+    ],
+    "homepage": "https://popradio.pl/",
+    "favicon": "https://popradio.pl/wp-content/uploads/2026/09/cropped-POPRadioLOGO-KWADRAT-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:50Z"
   },
   {
     "id": "awb_625b43f11dcc6367c391",
@@ -4580,6 +4692,47 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_5fb80a5283e1da6fb6b9",
+    "name": "Radio 90 Rybnik",
+    "country": "PL",
+    "subdivision": "śląskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "local news",
+      "pop"
+    ],
+    "homepage": "https://www.radio90.pl/",
+    "favicon": "https://www.radio90.pl/files/2025/03/cropped-fav-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:51Z"
+  },
+  {
+    "id": "awb_77e9a22571dee9b90d6e",
+    "name": "Radio 92,9",
+    "country": "PL",
+    "subdivision": "Lubelskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [],
+    "tags": [
+      "ahr"
+    ],
+    "homepage": "https://929.lu/",
+    "favicon": "https://meta.929.lu/logo/929-fm-600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T21:53:00Z"
+  },
+  {
     "id": "awb_06dd6edaed71a58a6e5f",
     "name": "Radio Afera",
     "country": "PL",
@@ -4614,6 +4767,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_06171b01ea158f7ddf78",
+    "name": "Radio Ain Karim 104,4 FM",
+    "country": "PL",
+    "subdivision": "małopolskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "community",
+      "religious"
+    ],
+    "tags": [
+      "catholic",
+      "community",
+      "religious"
+    ],
+    "homepage": "https://radio.ainkarim.pl/",
+    "favicon": "https://radio.ainkarim.pl/apple-touch-icon.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:50Z"
   },
   {
     "id": "awb_80edb411b40bc4deb457",
@@ -4908,6 +5084,50 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_3c59007e87ad8b4d9b90",
+    "name": "Radio Bieszczady",
+    "country": "PL",
+    "subdivision": "podkarpackie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "local news",
+      "pop"
+    ],
+    "homepage": "https://www.radiobieszczady.pl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:49Z"
+  },
+  {
+    "id": "awb_caf3181d60b854834ce9",
+    "name": "Radio Bogoria",
+    "country": "PL",
+    "subdivision": "mazowieckie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "local",
+      "pop"
+    ],
+    "homepage": "https://radiobogoria.pl/",
+    "favicon": "https://radiobogoria.pl/wp-content/uploads/2015/12/134_127.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:49Z"
+  },
+  {
     "id": "awb_31edfb38e2605e72c6cc",
     "name": "Radio Borowiaczek",
     "country": "PL",
@@ -4959,6 +5179,30 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_447c51203f16fa8ee0da",
+    "name": "Radio Calisia 89,9 FM",
+    "country": "PL",
+    "subdivision": "Wielkopolskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "fm 89.9",
+      "hits",
+      "local news",
+      "pop"
+    ],
+    "homepage": "https://radiocalisia.fm/",
+    "favicon": "https://radiocalisia.fm/wp-content/uploads/2026/08/cropped-758180463_122177118974669086_1887099913451394204_n-192x192.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T21:53:00Z"
   },
   {
     "id": "awb_72587a905c68033f3da1",
@@ -5211,6 +5455,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-07T19:26:52Z"
+  },
+  {
+    "id": "awb_5224aa11828480cdd92d",
+    "name": "Radio Cmolas",
+    "country": "PL",
+    "subdivision": "podkarpackie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "community",
+      "news"
+    ],
+    "tags": [
+      "community",
+      "local",
+      "news",
+      "variety"
+    ],
+    "homepage": "https://sok.cmolas.pl/asp/o-radiu,5",
+    "favicon": "https://sok.cmolas.pl/asp/pliki/radio_cmolas/jpg/rc_logo1_duze.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:50Z"
   },
   {
     "id": "awb_ed5f46e435cd9262dbc1",
@@ -6670,6 +6938,29 @@
     "updatedAt": "2026-01-15T03:01:40Z"
   },
   {
+    "id": "awb_8f64365bc37a235e5ebf",
+    "name": "Radio Impuls Puławy",
+    "country": "PL",
+    "subdivision": "lubelskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "local news",
+      "pop"
+    ],
+    "homepage": "https://radioimpuls.pl/",
+    "favicon": "https://radioimpuls.pl/radioimpuls/files/2025/02/logoradio.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:49Z"
+  },
+  {
     "id": "awb_e5d52dc4be31db436646",
     "name": "Radio Index",
     "country": "PL",
@@ -6778,6 +7069,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:20:38Z"
+  },
+  {
+    "id": "awb_67674ef0bc63f55df27d",
+    "name": "Radio Jura Częstochowa",
+    "country": "PL",
+    "subdivision": "śląskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "local news",
+      "pop"
+    ],
+    "homepage": "https://www.radiojura.pl/",
+    "favicon": "https://www.radiojura.pl/pliki/2023/03/apple-icon-180x180-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:50Z"
   },
   {
     "id": "awb_a795073a6fcbf5b881c1",
@@ -7066,6 +7380,28 @@
     "updatedAt": "2026-01-15T07:23:52Z"
   },
   {
+    "id": "awb_5d8f67c886b1adfa50ae",
+    "name": "Radio Kraków Kultura",
+    "country": "PL",
+    "subdivision": "małopolskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "public"
+    ],
+    "tags": [
+      "arts",
+      "culture",
+      "public radio"
+    ],
+    "homepage": "https://rkk.pl/",
+    "favicon": "https://rkk.pl/favicon.png",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:50Z"
+  },
+  {
     "id": "awb_8af51a6281eb56d6c149",
     "name": "Radio Krupski Młyn",
     "country": "PL",
@@ -7117,6 +7453,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_79453ee47adae87416fb",
+    "name": "Radio Kwidzyn",
+    "country": "PL",
+    "subdivision": "Pomorskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "alternative",
+      "local",
+      "news"
+    ],
+    "homepage": "https://radiokwidzyn.pl/",
+    "favicon": "https://radiokwidzyn.pl/wp-content/uploads/2025/07/cropped-logo-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:49Z"
   },
   {
     "id": "awb_214e16f0ebae477c58e3",
@@ -8165,6 +8523,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-02T22:52:28Z"
+  },
+  {
+    "id": "awb_65d0c2a78b2d2c9bea7d",
+    "name": "Radio Oko Ostrołęka",
+    "country": "PL",
+    "subdivision": "mazowieckie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "local news",
+      "pop"
+    ],
+    "homepage": "https://radiooko.pl/",
+    "favicon": "https://www.radiooko.pl/wp-content/uploads/2021/03/Logo-Radio-Oko-bez-FM.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:48Z"
   },
   {
     "id": "awb_8e86754cdf603181816c",
@@ -9976,6 +10356,54 @@
     "updatedAt": "2026-01-15T01:48:00Z"
   },
   {
+    "id": "awb_b9413ee84b091e3c676d",
+    "name": "Radio Słupsk (Polskie Radio Koszalin)",
+    "country": "PL",
+    "subdivision": "Pomorskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "public"
+    ],
+    "tags": [
+      "local",
+      "news",
+      "public radio",
+      "regional"
+    ],
+    "homepage": "https://prk24.pl/",
+    "favicon": "https://prk24.pl/assets/gfx/logo-opengraph.png",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:51Z"
+  },
+  {
+    "id": "awb_9fa19b7d8862f8121e2c",
+    "name": "Radio Sochaczew 94,9 FM",
+    "country": "PL",
+    "subdivision": "mazowieckie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "local news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://www.radiosochaczew.pl/",
+    "favicon": "https://static2.radiosochaczew.pl/data/wysiwig/logo_RS_kwadrat.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:51Z"
+  },
+  {
     "id": "awb_a4aab60d334156c6ffa4",
     "name": "Radio SOK Sulecin",
     "country": "PL",
@@ -10249,6 +10677,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:21:39Z"
+  },
+  {
+    "id": "awb_906087b56a0bd76c11d1",
+    "name": "Radio Sudety 24",
+    "country": "PL",
+    "subdivision": "dolnośląskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "local",
+      "pop"
+    ],
+    "homepage": "https://radiosudety24.pl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:51Z"
   },
   {
     "id": "awb_97800692812566a66493",
@@ -10839,6 +11289,28 @@
     "updatedAt": "2026-11-05T09:39:23Z"
   },
   {
+    "id": "awb_cdcc655d3b3d8c3ce1af",
+    "name": "Radio Włocławek 101,4 FM",
+    "country": "PL",
+    "subdivision": "Kuyavia-Pomerania (Kujawsko-Pomorskie)",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "local news",
+      "pop"
+    ],
+    "homepage": "https://www.radiowloclawek.pl/",
+    "favicon": "https://www.radiowloclawek.pl/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:51Z"
+  },
+  {
     "id": "awb_5eb773a1592925d1a58e",
     "name": "Radio Wnet",
     "country": "PL",
@@ -11147,6 +11619,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-11T22:55:56Z"
+  },
+  {
+    "id": "awb_697f12b9dd8a3003cc1a",
+    "name": "Radio Zielona Góra 97,1 FM",
+    "country": "PL",
+    "subdivision": "lubuskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "public"
+    ],
+    "tags": [
+      "local news",
+      "pop",
+      "public radio"
+    ],
+    "homepage": "https://rzg.pl/",
+    "favicon": "https://rzg.pl/wp-content/uploads/2021/08/cropped-RZG_favicon-192x192.png",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T12:42:49Z"
   },
   {
     "id": "awb_8f1d9f8c44af62bdd14a",
@@ -11860,6 +12356,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-18T12:55:35Z"
+  },
+  {
+    "id": "awb_f2e21784e666bf9aa72a",
+    "name": "RDN Nowy Sącz",
+    "country": "PL",
+    "subdivision": "Małopolskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "news",
+      "religious"
+    ],
+    "tags": [
+      "105.1",
+      "88.3",
+      "catholic",
+      "fm 101.2",
+      "local news",
+      "religious"
+    ],
+    "homepage": "https://rdn.pl/",
+    "favicon": "https://rdn.pl/wp-content/uploads/2022/03/cropped-favicon-1-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-19T21:53:00Z"
   },
   {
     "id": "awb_759cea87018b47dd53a8",
