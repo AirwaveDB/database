@@ -2338,6 +2338,27 @@
     "updatedAt": "2026-11-20T10:01:36Z"
   },
   {
+    "id": "awb_a6569cf954c9457e79a5",
+    "name": "Groove City",
+    "country": "HU",
+    "subdivision": "Szombathely",
+    "languages": [
+      "hu"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.radiogroove.hu/hirek/groove-city",
+    "favicon": "https://www.radiogroove.hu/img/2551_4254_CITY_hatteres.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T10:15:15Z"
+  },
+  {
     "id": "awb_17c4ebfb58f91fc649c1",
     "name": "Hír FM",
     "country": "HU",
@@ -4524,6 +4545,22 @@
     "updatedAt": "2026-01-15T02:41:59Z"
   },
   {
+    "id": "awb_8aecc72140ce7391856a",
+    "name": "Rádió 1 Szombathely",
+    "country": "HU",
+    "subdivision": null,
+    "languages": [
+      "hu"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio1.hu/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T13:08:08Z"
+  },
+  {
     "id": "awb_701a9ba9a946cf1420b4",
     "name": "Rádió 47",
     "country": "HU",
@@ -5450,6 +5487,26 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_55ce8aff173d776532d3",
+    "name": "RockRadio32",
+    "country": "HU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "hard rock",
+      "heavy metal"
+    ],
+    "homepage": "https://rockradio32.com/",
+    "favicon": "https://rockradio32.com/work/assets/rr32-logo-600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T17:58:40Z"
   },
   {
     "id": "awb_a405ad868553d51e4331",

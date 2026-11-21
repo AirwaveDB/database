@@ -1426,7 +1426,7 @@
   },
   {
     "id": "awb_9dd03b3d54f99ea3c97a",
-    "name": "Arara Azul FM",
+    "name": "Arara azul FM",
     "country": "BR",
     "subdivision": "PA",
     "languages": [],
@@ -4265,7 +4265,7 @@
       "trance"
     ],
     "homepage": "https://flashhits.com.br/",
-    "favicon": "https://lashhits.com.br/favicon.ico",
+    "favicon": "https://flashhits.com.br/app/icons/icon-512.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-05T02:05:34Z"
@@ -11409,7 +11409,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC+",
+    "name": "Rádio AMC",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -11424,7 +11424,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
+    "favicon": "https://radioamc.com.br/shared/amclogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -13154,6 +13154,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_2bdddf7ab42ad4fa1550",
+    "name": "Rádio Catedral FM 106.7",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "catholic",
+      "religious"
+    ],
+    "homepage": "https://radiocatedral.org.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T01:35:49Z"
   },
   {
     "id": "awb_1e2199331347da011aa1",
@@ -15511,6 +15532,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-19T21:02:11Z"
+  },
+  {
+    "id": "awb_cc93ebb4a23781dfcc7e",
+    "name": "radio eu aqui com jesus",
+    "country": "BR",
+    "subdivision": "goias",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian-gospel"
+    ],
+    "homepage": "https://radioeuaquicomjesus.netlify.app/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4BLLHQu4mtEaaruVhyDZ-a_AHkRU8hDoo8IYx5uQNg&s",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T23:45:30Z"
   },
   {
     "id": "awb_0041abfc5ddaedde4954",
@@ -21670,7 +21711,7 @@
     "id": "awb_45a779d6977d4e0269d0",
     "name": "Rádio Reprise",
     "country": "BR",
-    "subdivision": "Maranhão",
+    "subdivision": "MA",
     "languages": [
       "en",
       "es",
@@ -21688,7 +21729,7 @@
       "jovem"
     ],
     "homepage": "https://sites.google.com/view/radioreprisegospel/p%c3%a1gina-inicial",
-    "favicon": "https://sites.google.com/view/radioreprisegospel/p%c3%a1gina-inicial",
+    "favicon": "https://i.postimg.cc/SQJ3Qqy2/apple-touch-icon.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-18T13:46:00Z"
@@ -21966,6 +22007,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-04T19:46:18Z"
+  },
+  {
+    "id": "awb_df30c1033fab6a01ed00",
+    "name": "RÁDIO S.H.O",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "bailão",
+      "eclético",
+      "popular",
+      "regional"
+    ],
+    "homepage": "https://radiosho.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T01:21:58Z"
   },
   {
     "id": "awb_7b25109c3e79576ea7b6",
@@ -25753,6 +25813,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-16T04:12:36Z"
+  },
+  {
+    "id": "awb_870f5e2d776ab7e0e505",
+    "name": "R�dio RCP",
+    "country": "BR",
+    "subdivision": "S�o Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "black music",
+      "hip hop",
+      "r&b",
+      "rap",
+      "rap nacional",
+      "soul"
+    ],
+    "homepage": "https://rcpfm.com.br/",
+    "favicon": "https://rcpfm.com.br/img/icone-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T21:57:38Z"
   },
   {
     "id": "awb_701d5fd88b252df3d8c3",

@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-20T10:02:25.248Z",
+  "generatedAt": "2026-11-21T09:51:37.859Z",
   "schemaVersion": 1,
-  "stationCount": 51897,
-  "sourceRecordCount": 60901,
+  "stationCount": 51970,
+  "sourceRecordCount": 60976,
   "redirectCount": 64,
   "sources": {
-    "radio-browser": 53196,
+    "radio-browser": 53271,
     "verified-radio-streams": 7707
   },
   "quality": {
-    "withHomepage": 49592,
-    "withFavicon": 30763,
-    "withLanguage": 32923,
-    "withCategory": 25575,
+    "withHomepage": 49664,
+    "withFavicon": 30812,
+    "withLanguage": 32973,
+    "withCategory": 25621,
     "unknownCountry": 1030,
-    "withType": 2397,
+    "withType": 2398,
     "normalizedLanguageValues": 508
   },
   "countries": [
@@ -60,11 +60,11 @@
     },
     {
       "code": "AS",
-      "stationCount": 12
+      "stationCount": 13
     },
     {
       "code": "AT",
-      "stationCount": 306
+      "stationCount": 307
     },
     {
       "code": "AU",
@@ -80,7 +80,7 @@
     },
     {
       "code": "BA",
-      "stationCount": 139
+      "stationCount": 140
     },
     {
       "code": "BB",
@@ -92,7 +92,7 @@
     },
     {
       "code": "BE",
-      "stationCount": 432
+      "stationCount": 433
     },
     {
       "code": "BF",
@@ -132,7 +132,7 @@
     },
     {
       "code": "BR",
-      "stationCount": 1561
+      "stationCount": 1565
     },
     {
       "code": "BS",
@@ -148,7 +148,7 @@
     },
     {
       "code": "BY",
-      "stationCount": 67
+      "stationCount": 68
     },
     {
       "code": "BZ",
@@ -156,7 +156,7 @@
     },
     {
       "code": "CA",
-      "stationCount": 1363
+      "stationCount": 1364
     },
     {
       "code": "CC",
@@ -176,7 +176,7 @@
     },
     {
       "code": "CH",
-      "stationCount": 473
+      "stationCount": 475
     },
     {
       "code": "CI",
@@ -228,7 +228,7 @@
     },
     {
       "code": "DE",
-      "stationCount": 5017
+      "stationCount": 5020
     },
     {
       "code": "DK",
@@ -252,7 +252,7 @@
     },
     {
       "code": "EE",
-      "stationCount": 126
+      "stationCount": 127
     },
     {
       "code": "EG",
@@ -264,11 +264,11 @@
     },
     {
       "code": "ES",
-      "stationCount": 1188
+      "stationCount": 1189
     },
     {
       "code": "ET",
-      "stationCount": 25
+      "stationCount": 26
     },
     {
       "code": "FI",
@@ -288,7 +288,7 @@
     },
     {
       "code": "FR",
-      "stationCount": 2577
+      "stationCount": 2581
     },
     {
       "code": "GA",
@@ -296,7 +296,7 @@
     },
     {
       "code": "GB",
-      "stationCount": 1845
+      "stationCount": 1848
     },
     {
       "code": "GD",
@@ -336,7 +336,7 @@
     },
     {
       "code": "GR",
-      "stationCount": 1852
+      "stationCount": 1853
     },
     {
       "code": "GT",
@@ -372,7 +372,7 @@
     },
     {
       "code": "HU",
-      "stationCount": 324
+      "stationCount": 327
     },
     {
       "code": "ID",
@@ -392,7 +392,7 @@
     },
     {
       "code": "IN",
-      "stationCount": 788
+      "stationCount": 790
     },
     {
       "code": "IO",
@@ -412,7 +412,7 @@
     },
     {
       "code": "IT",
-      "stationCount": 1500
+      "stationCount": 1503
     },
     {
       "code": "JE",
@@ -456,7 +456,7 @@
     },
     {
       "code": "KP",
-      "stationCount": 10
+      "stationCount": 12
     },
     {
       "code": "KR",
@@ -504,7 +504,7 @@
     },
     {
       "code": "LT",
-      "stationCount": 113
+      "stationCount": 114
     },
     {
       "code": "LU",
@@ -524,7 +524,7 @@
     },
     {
       "code": "MC",
-      "stationCount": 8
+      "stationCount": 9
     },
     {
       "code": "MD",
@@ -584,7 +584,7 @@
     },
     {
       "code": "MW",
-      "stationCount": 52
+      "stationCount": 51
     },
     {
       "code": "MX",
@@ -620,7 +620,7 @@
     },
     {
       "code": "NL",
-      "stationCount": 1104
+      "stationCount": 1105
     },
     {
       "code": "NO",
@@ -648,7 +648,7 @@
     },
     {
       "code": "PE",
-      "stationCount": 288
+      "stationCount": 289
     },
     {
       "code": "PF",
@@ -660,7 +660,7 @@
     },
     {
       "code": "PH",
-      "stationCount": 683
+      "stationCount": 692
     },
     {
       "code": "PK",
@@ -668,7 +668,7 @@
     },
     {
       "code": "PL",
-      "stationCount": 874
+      "stationCount": 875
     },
     {
       "code": "PM",
@@ -704,7 +704,7 @@
     },
     {
       "code": "RO",
-      "stationCount": 840
+      "stationCount": 841
     },
     {
       "code": "RS",
@@ -712,7 +712,7 @@
     },
     {
       "code": "RU",
-      "stationCount": 2428
+      "stationCount": 2430
     },
     {
       "code": "RW",
@@ -768,7 +768,7 @@
     },
     {
       "code": "SR",
-      "stationCount": 10
+      "stationCount": 11
     },
     {
       "code": "SS",
@@ -808,7 +808,7 @@
     },
     {
       "code": "TN",
-      "stationCount": 60
+      "stationCount": 63
     },
     {
       "code": "TO",
@@ -816,7 +816,7 @@
     },
     {
       "code": "TR",
-      "stationCount": 657
+      "stationCount": 659
     },
     {
       "code": "TT",
@@ -848,7 +848,7 @@
     },
     {
       "code": "US",
-      "stationCount": 6882
+      "stationCount": 6898
     },
     {
       "code": "UY",
@@ -908,7 +908,7 @@
     },
     {
       "code": "ZM",
-      "stationCount": 82
+      "stationCount": 81
     },
     {
       "code": "ZW",

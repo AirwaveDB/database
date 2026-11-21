@@ -3684,7 +3684,7 @@
       "pop"
     ],
     "homepage": "https://www.deventerrtv.nl/",
-    "favicon": "https://www.deventerrtv.nl/own-files/apple-touch-icon.png",
+    "favicon": "https://www.deventerrtv.nl/own-files/drtv-512x512.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -7936,8 +7936,8 @@
       "pop",
       "top 40"
     ],
-    "homepage": "https://www.langstraatmedia.nl/",
-    "favicon": "https://www.langstraatmedia.nl/favicon.ico",
+    "homepage": "https://www.langstraatmedia.nl/langstraat-fm/",
+    "favicon": "https://www.langstraatmedia.nl/logos/LangstraatFM.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-18T15:42:14Z"
@@ -9310,6 +9310,32 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_b090f416a89fedbf46e5",
+    "name": "NL Nieuwsradio",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "actualiteiten",
+      "news",
+      "nieuws",
+      "talk",
+      "verkeer",
+      "weer"
+    ],
+    "homepage": "https://nieuwsradio.nexradio.nl/",
+    "favicon": "https://nieuwsradio.nexradio.nl/logo/logo-nl-nieuwsradio-600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T23:12:11Z"
   },
   {
     "id": "awb_a5e1d86859ad9c45494d",

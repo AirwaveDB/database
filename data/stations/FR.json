@@ -5118,7 +5118,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao Radio",
+    "name": "Cacao-Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -9093,6 +9093,33 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_b3132066bd2ec7e49587",
+    "name": "CYB.RIP RADIO",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "breakbeats",
+      "dnb",
+      "drum and bass",
+      "electronic",
+      "jungle",
+      "liquid dnb",
+      "liquid drum and bass"
+    ],
+    "homepage": "https://cyb.rip/radio/",
+    "favicon": "https://cyb.rip/android-chrome-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T15:45:24Z"
   },
   {
     "id": "awb_82c793e3dc7ec3017152",
@@ -24996,6 +25023,31 @@
     "updatedAt": "2026-10-26T07:53:41Z"
   },
   {
+    "id": "awb_2067a54f9bc2c03fcbfc",
+    "name": "Music Radio Blues",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "blues"
+    ],
+    "tags": [
+      "blues",
+      "evening",
+      "guitar",
+      "soul"
+    ],
+    "homepage": "https://musicradio.ai/en/radios/blues",
+    "favicon": "https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T19:17:29Z"
+  },
+  {
     "id": "awb_fdbfcfe84250f07b2f4b",
     "name": "Music Radio Celtic",
     "country": "FR",
@@ -25130,6 +25182,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-26T07:53:36Z"
+  },
+  {
+    "id": "awb_7122b88544d6877b854e",
+    "name": "Music Radio Funky House",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "funky house",
+      "house",
+      "party"
+    ],
+    "homepage": "https://musicradio.ai/en/radios/funky-house",
+    "favicon": "https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T19:17:30Z"
   },
   {
     "id": "awb_cd0ee99c5b9b5be22504",
@@ -25702,6 +25779,30 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-19T21:54:11Z"
+  },
+  {
+    "id": "awb_ffddadcb504ba0bf2336",
+    "name": "Nostalgie 100% Francais 80s",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "80s",
+      "french",
+      "nostalgie",
+      "pop"
+    ],
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-100-francais-80",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T09:45:40Z"
   },
   {
     "id": "awb_d83234ae8e770f656b9a",

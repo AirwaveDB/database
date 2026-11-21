@@ -1126,7 +1126,7 @@
     "favicon": "https://listen.smilemediaph.com/static/uploads/koolfm/album_art.1789441746.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-15T11:04:12Z"
+    "updatedAt": "2026-11-20T11:06:08Z"
   },
   {
     "id": "awb_61f4abfb9c90aa824b0a",
@@ -1205,6 +1205,20 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_6c6973aac8a41484ae8f",
+    "name": "Advanced Academy Radio",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.facebook.com/AcademyRadio/",
+    "favicon": "https://cdn.radoxo.com/images/philippines/advanced-academy-radio.webp?v=1793598545",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T15:24:34Z"
   },
   {
     "id": "awb_354eb647e6a876618667",
@@ -4147,7 +4161,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://radyoph.com/station/febn",
+    "homepage": "https://radyoph.com/station/favorite-all-hit-radio-tagum",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -4798,6 +4812,20 @@
     "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
+    "id": "awb_a91cdb56427eba9cda6e",
+    "name": "iFM 94.3 Bacolod",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rmn.ph/ifm943bacolod/",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/2019-iFM-Bacolod.png?w=592&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T10:11:01Z"
+  },
+  {
     "id": "awb_67ac19726628e06821bd",
     "name": "iFM Baguio",
     "country": "PH",
@@ -4976,6 +5004,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_bf6937bf196eb42825c5",
+    "name": "Jam 88.3",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.tiger22mediacorp.com.ph/stations/jam883/",
+    "favicon": "https://www.tiger22mediacorp.com.ph/__resources/webdata/images/stations/5.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T14:53:24Z"
   },
   {
     "id": "awb_3d6321eaa860e325debe",
@@ -6974,6 +7016,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_597ca556af9419252a81",
+    "name": "Radiopilipinas",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiopilipinas.com/mobile.html",
+    "favicon": "https://www.radiopilipinas.com/rpmobhead.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T15:08:04Z"
+  },
+  {
     "id": "awb_66877b6b32ae491e8855",
     "name": "Radyo 630",
     "country": "PH",
@@ -8375,6 +8431,48 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_c47769529c53a8d205a4",
+    "name": "Radyo Pilipino Cebu",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radyoph.com/station/dyrb",
+    "favicon": "https://apk.radyoph.com/upload/1795159028_radyopilipinocebu.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T10:19:24Z"
+  },
+  {
+    "id": "awb_00a049bd667b929fd435",
+    "name": "Radyo Pilipino Ozamiz",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.radyopilipino.com/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/8/86/RadyoPilipino_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T10:29:05Z"
+  },
+  {
+    "id": "awb_64f49e842ed488c1d171",
+    "name": "Radyo Pilipino Tarlac",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radyoph.com/station/dztc",
+    "favicon": "https://apk.radyoph.com/upload/1795159504_radyopilipinotarlac.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T10:14:32Z"
+  },
+  {
     "id": "awb_8dd774a223188ea29ce0",
     "name": "Radyo Primera",
     "country": "PH",
@@ -8668,6 +8766,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-23T12:18:20Z"
+  },
+  {
+    "id": "awb_8694159cb8772c2d358a",
+    "name": "RMN DXPR 603 Pagadian",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rmn.ph/dxpr603pagadian/",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/pagadian.png?w=400&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T10:03:19Z"
   },
   {
     "id": "awb_66bb68c17df9eaf33849",
@@ -9289,6 +9401,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-22T14:38:29Z"
+  },
+  {
+    "id": "awb_6806a27571970e33fb94",
+    "name": "Subic Bay Radio",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.mysubicbay.com.ph/895subicbay",
+    "favicon": "https://895subicbay.radio12345.com/users.img/3177534/1645366590/icon_thumb_80_1645366590.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T15:04:11Z"
   },
   {
     "id": "awb_507d5dc7d66826875623",

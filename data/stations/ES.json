@@ -1852,7 +1852,7 @@
   },
   {
     "id": "awb_14a68cf1e031a1db0967",
-    "name": "Bilbo Hiria irratia",
+    "name": "Bilbo Hiria Irratia",
     "country": "ES",
     "subdivision": null,
     "languages": [],
@@ -1889,12 +1889,17 @@
     "subdivision": "Balearics",
     "languages": [],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "live",
+      "music",
+      "radio",
+      "streaming"
+    ],
     "homepage": "https://bloomradio.nl/",
-    "favicon": null,
+    "favicon": "https://directory.nexradio.cloud/adstation/logo/bloom-radio/favicon.png?v=5pHX-Q",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-11T18:57:36Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-20T13:14:20Z"
   },
   {
     "id": "awb_15fd5a1798121b2d17fc",
@@ -5399,6 +5404,20 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_acbd956d08860e8ab13e",
+    "name": "Das Inselradio Mallorca Sommerhits",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.inselradio.com/infos/ueber-uns/empfang",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T11:59:51Z"
+  },
+  {
     "id": "awb_5925b4e6d34deae05b1a",
     "name": "Das Inselradio Malorca",
     "country": "ES",
@@ -5487,7 +5506,7 @@
       "hardstyle",
       "music"
     ],
-    "homepage": "https://decibeliafm.es/",
+    "homepage": "https://decibeliafm.es/web/",
     "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
     "type": null,
     "sourceCount": 2,
@@ -7474,7 +7493,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://flashradio.es/index.html",
-    "favicon": "https://flashradio.es/img/logo.png",
+    "favicon": "https://flashradio.es/img/covers/cover.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-07T14:48:39Z"
@@ -22237,7 +22256,7 @@
       "organic house",
       "trance"
     ],
-    "homepage": "https://www.sufisoulradio.com/",
+    "homepage": "https://sufisoulradio.com/",
     "favicon": "https://sufisoulradio.com/assets/img/icon-512.png",
     "type": null,
     "sourceCount": 2,

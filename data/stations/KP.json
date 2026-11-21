@@ -148,6 +148,30 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_52ffa70784417596e01c",
+    "name": "조선중앙제3방송",
+    "country": "KP",
+    "subdivision": null,
+    "languages": [
+      "ko"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "radio drama",
+      "talk"
+    ],
+    "homepage": "https://koryofront.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T03:18:58Z"
+  },
+  {
     "id": "awb_5b8ff512beb6140bf017",
     "name": "평양FM105.2",
     "country": "KP",
@@ -166,5 +190,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:17:33Z"
+  },
+  {
+    "id": "awb_600062b533f8889f8ca5",
+    "name": "평양음악방송",
+    "country": "KP",
+    "subdivision": null,
+    "languages": [
+      "ko"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "korean music",
+      "music",
+      "pop music",
+      "pyongyang"
+    ],
+    "homepage": "https://koryofront.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T03:16:41Z"
   }
 ]

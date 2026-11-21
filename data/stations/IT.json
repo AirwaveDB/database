@@ -9807,6 +9807,22 @@
     "updatedAt": "2026-01-15T07:04:00Z"
   },
   {
+    "id": "awb_b9014ac9e0c99c6510bf",
+    "name": "Radio Beckwith - RBE",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.rbe.it/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T19:57:24Z"
+  },
+  {
     "id": "awb_1eb7a519ca265d59743b",
     "name": "Radio Befed Plus",
     "country": "IT",
@@ -10404,6 +10420,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-23T18:47:02Z"
+  },
+  {
+    "id": "awb_98a6646c8fec7c366bc1",
+    "name": "Radio Calabria International",
+    "country": "IT",
+    "subdivision": "Calabria",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "folk",
+      "local",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.radiocalabriainternational.com/",
+    "favicon": "https://www.radiocalabriainternational.com/static/uploads/browser_icon/original.1795181450.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T13:32:18Z"
   },
   {
     "id": "awb_4fe891553f1626391c5a",
@@ -29947,6 +29987,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_585f82d4f3bee7d7318a",
+    "name": "wrn radio",
+    "country": "IT",
+    "subdivision": "Campania",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://www.wrnradio.eu/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-20T20:33:22Z"
   },
   {
     "id": "awb_775a28c52c8ded2e4ba9",
