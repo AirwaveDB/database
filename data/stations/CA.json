@@ -24521,6 +24521,28 @@
     "updatedAt": "2026-09-06T20:07:19Z"
   },
   {
+    "id": "awb_740fb38c53e02f613ebb",
+    "name": "Rcmv radio",
+    "country": "CA",
+    "subdivision": "Québec",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "country"
+    ],
+    "tags": [
+      "country",
+      "music",
+      "rcmv"
+    ],
+    "homepage": "https://stream3.hosting-quebec.ca/radio/rcmv-radio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T17:14:28Z"
+  },
+  {
     "id": "awb_ad72c7898e66ef7b5480",
     "name": "RDMIX ITALIAN VINTAGE 70 80 90",
     "country": "CA",
@@ -25789,20 +25811,6 @@
     "updatedAt": "2026-01-14T23:30:34Z"
   },
   {
-    "id": "awb_465517c91019838f335b",
-    "name": "SuperFM",
-    "country": "CA",
-    "subdivision": "Toronto, ON",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://streemlion.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-18T14:49:23Z"
-  },
-  {
     "id": "awb_c5cf1359013f136e201c",
     "name": "Surge 105",
     "country": "CA",
@@ -26542,6 +26550,35 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-18T01:00:40Z"
+  },
+  {
+    "id": "awb_d528b557db61792c13ea",
+    "name": "TripHop Beats - Downtempo.Radio",
+    "country": "CA",
+    "subdivision": "England",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
+    "tags": [
+      "chillout",
+      "downtempo",
+      "easy listening",
+      "electronic",
+      "lounge",
+      "trip-hop"
+    ],
+    "homepage": "https://downtempo.radio/",
+    "favicon": "https://streaming.coolmusicradio.com/static/uploads/cool_music/album_art.1795028776.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T03:35:55Z"
   },
   {
     "id": "awb_b554d958452af6027c5c",
@@ -27511,24 +27548,5 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_83e185b42f0d64c2e557",
-    "name": "加拿大中文电台FM88.9",
-    "country": "CA",
-    "subdivision": "Toronto",
-    "languages": [
-      "zh"
-    ],
-    "categories": [],
-    "tags": [
-      "information",
-      "music"
-    ],
-    "homepage": "https://www.am1430.com/splash.php",
-    "favicon": "https://zuiai.tv/zb_users/upload/2025/3/2025032080056921.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-04T13:52:58Z"
   }
 ]

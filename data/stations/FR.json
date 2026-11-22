@@ -9844,7 +9844,7 @@
     "favicon": "https://www.egrego.re/RESOURCES/IMAGES/EGREGORELOGO.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T04:26:58Z"
+    "updatedAt": "2026-11-22T04:30:57Z"
   },
   {
     "id": "awb_9f2cbe07bf0627568cc4",
@@ -10444,6 +10444,26 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_7d145f4c055e753c5619",
+    "name": "Europe 2 Dance",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "electro",
+      "pop"
+    ],
+    "homepage": "https://www.europe2.fr/webradios",
+    "favicon": "https://cdn.europe2.fr/upload/favicon_6a7d9907734bc0.09491199.ico?v=1786616072",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T18:39:20Z"
   },
   {
     "id": "awb_05dae83b1483b30bc330",
@@ -11551,7 +11571,7 @@
       "pop"
     ],
     "homepage": "https://www.fip.fr/pop/webradio",
-    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg",
+    "favicon": "https://www.fip.fr/dist/favicons/logo-120.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -19566,7 +19586,7 @@
     "favicon": "https://i.postimg.cc/BQZXKJnh/LOGO-3-2-bg1.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T04:27:04Z"
+    "updatedAt": "2026-11-22T04:30:57Z"
   },
   {
     "id": "awb_59958b09a5492c724646",
@@ -19599,7 +19619,7 @@
     "favicon": "https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-17T02:20:15Z"
+    "updatedAt": "2026-11-22T02:21:27Z"
   },
   {
     "id": "awb_7e1888e862706fbd34c1",
@@ -19623,7 +19643,7 @@
     "favicon": "https://i.postimg.cc/3rFkNkY4/LOGO-3-2-bg3.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T06:36:51Z"
+    "updatedAt": "2026-11-22T06:39:19Z"
   },
   {
     "id": "awb_663247fe9bfb98162cd8",
@@ -21769,30 +21789,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:50:53Z"
-  },
-  {
-    "id": "awb_914a9389fc2a9f5b81ea",
-    "name": "LARS'N",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "es",
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "documentaries",
-      "local music",
-      "local radio",
-      "musique",
-      "radio associative"
-    ],
-    "homepage": "https://radio.larsn.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:32:06Z"
   },
   {
     "id": "awb_f3fe6976c3c719bdd6dd",
@@ -24472,6 +24468,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-05T11:23:01Z"
+  },
+  {
+    "id": "awb_1c1cb4bcfdfd7e175c08",
+    "name": "MINT FM",
+    "country": "FR",
+    "subdivision": "Bretagne",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "rnb",
+      "top 40"
+    ],
+    "homepage": "https://mintfm.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T01:57:42Z"
   },
   {
     "id": "awb_60da46fdf64b4992c0d6",
@@ -36355,6 +36373,28 @@
     "updatedAt": "2026-10-20T08:45:47Z"
   },
   {
+    "id": "awb_feee33f7c7324e6f809f",
+    "name": "Radio Chanson d'Autrefois",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "chanson francaise",
+      "french",
+      "oldies"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T07:21:50Z"
+  },
+  {
     "id": "awb_2fa20bd8c3112c2aa76d",
     "name": "Radio Choco",
     "country": "FR",
@@ -38467,7 +38507,7 @@
     "favicon": "https://www.lapurdi.net/squelettes/img/logo_web_small.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T07:25:06Z"
+    "updatedAt": "2026-11-22T07:26:22Z"
   },
   {
     "id": "awb_dc9e303757687b995c02",
@@ -39955,7 +39995,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T05:03:26Z"
+    "updatedAt": "2026-11-22T05:07:29Z"
   },
   {
     "id": "awb_693a7cccadd9c543e879",
@@ -39975,7 +40015,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-16T23:48:14Z"
+    "updatedAt": "2026-11-21T23:49:23Z"
   },
   {
     "id": "awb_170145a89df6bee49f9c",
@@ -39995,7 +40035,7 @@
     "favicon": "http://direct.radiopresence.com/presence.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T00:53:22Z"
+    "updatedAt": "2026-11-22T00:56:07Z"
   },
   {
     "id": "awb_f9e6ec4fab79c1be88df",
@@ -41143,6 +41183,24 @@
     "updatedAt": "2026-01-15T00:33:22Z"
   },
   {
+    "id": "awb_a18306c2dee8df12dccc",
+    "name": "Radio Troutrou",
+    "country": "FR",
+    "subdivision": "Normandie",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://radio-troutrou.com/",
+    "favicon": "https://radio-troutrou.com/wp-content/themes/troutrou/icones/icone-180.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T14:07:18Z"
+  },
+  {
     "id": "awb_d6854652335b0c024128",
     "name": "Radio Troutrou",
     "country": "FR",
@@ -41631,7 +41689,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T10:00:33Z"
+    "updatedAt": "2026-11-21T22:03:08Z"
   },
   {
     "id": "awb_3184303c9e1059ff5d5d",
@@ -43939,7 +43997,7 @@
     "favicon": "https://fichiers.rjrradio.fr/logo/Fond%20blanc/RJR%202016%20carr%C3%A9%20sans%20marge.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-17T09:50:42Z"
+    "updatedAt": "2026-11-22T03:26:13Z"
   },
   {
     "id": "awb_64e40507938371c7fb1e",
@@ -44832,7 +44890,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-17T09:53:14Z"
+    "updatedAt": "2026-11-22T09:29:25Z"
   },
   {
     "id": "awb_0b4eccb333ba1c183e00",
@@ -47469,7 +47527,7 @@
     "favicon": "https://vicecity.fr/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T05:47:25Z"
+    "updatedAt": "2026-11-22T05:50:34Z"
   },
   {
     "id": "awb_e5ecac656bef647da481",
@@ -48713,7 +48771,7 @@
     "favicon": "https://i.imgur.com/cVC439t.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T03:44:28Z"
+    "updatedAt": "2026-11-22T03:47:57Z"
   },
   {
     "id": "awb_72b0c0b1ce1aa867247a",

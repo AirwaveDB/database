@@ -2350,19 +2350,13 @@
     "name": "Pink Radio",
     "country": "RS",
     "subdivision": null,
-    "languages": [
-      "sr"
-    ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "folk"
-    ],
-    "homepage": "http://www.pinkradio.rs/",
-    "favicon": "http://www.pinkradio.rs/favicon.ico",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://pinkradio.rs/",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -3542,20 +3536,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_4077560989662cac4ce4",
-    "name": "RADIO KROV",
-    "country": "RS",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://dckrov.rs/",
-    "favicon": "https://raw.githubusercontent.com/nikolaign/dckrovlogos/main/forest_rk2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-03T05:39:45Z"
   },
   {
     "id": "awb_9b1dd4bd60d1795d53e7",

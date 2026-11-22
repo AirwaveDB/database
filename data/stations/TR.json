@@ -491,6 +491,26 @@
     "updatedAt": "2026-03-22T16:09:13Z"
   },
   {
+    "id": "awb_83beb86d2f9dd82b604e",
+    "name": "Alanya FM",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "türk pop"
+    ],
+    "homepage": "https://www.instagram.com/alanyafm106/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T11:10:45Z"
+  },
+  {
     "id": "awb_603cfd16c1f82810e90f",
     "name": "Alem Fm",
     "country": "TR",
@@ -619,7 +639,23 @@
     "favicon": "https://www.apacikradyo.com.tr/themes/custom/acikradyo/assets/img/favicon.png",
     "type": "community",
     "sourceCount": 2,
-    "updatedAt": "2026-11-16T21:38:05Z"
+    "updatedAt": "2026-11-21T21:40:15Z"
+  },
+  {
+    "id": "awb_bc1e2f4d06d962fa36ac",
+    "name": "Arabesk FM",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "arabesk"
+    ],
+    "homepage": "https://arabeskfm.net/",
+    "favicon": "https://arabeskfm.net/wp-content/uploads/2026/11/cropped-dcc10e3c-87dc-468a-82c8-e94b7591eeac-1024x1024-1-192x192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T21:44:00Z"
   },
   {
     "id": "awb_feb6ee5d99dca5587604",
@@ -1844,7 +1880,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T00:34:15Z"
+    "updatedAt": "2026-11-22T00:38:48Z"
   },
   {
     "id": "awb_8dc344dd987ed3d504a1",
@@ -1867,7 +1903,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T04:07:30Z"
+    "updatedAt": "2026-11-22T04:09:46Z"
   },
   {
     "id": "awb_1da58c9adefda6d59499",
@@ -1891,7 +1927,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T01:57:18Z"
+    "updatedAt": "2026-11-22T01:58:55Z"
   },
   {
     "id": "awb_b35105ad16c219d0740f",
@@ -1913,7 +1949,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T01:17:33Z"
+    "updatedAt": "2026-11-22T01:19:23Z"
   },
   {
     "id": "awb_18ef70fa187d5f788e31",
@@ -1963,7 +1999,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-mmradyo-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-16T23:40:52Z"
+    "updatedAt": "2026-11-21T23:41:35Z"
   },
   {
     "id": "awb_ffeadaecbf30ca44c405",
@@ -1991,7 +2027,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T00:58:53Z"
+    "updatedAt": "2026-11-22T01:00:45Z"
   },
   {
     "id": "awb_0726c5d4e8aa71680e95",
@@ -2042,7 +2078,7 @@
     "favicon": "https://www.dinamo.fm/favicons/dinamo-smog-favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T07:15:37Z"
+    "updatedAt": "2026-11-22T07:16:43Z"
   },
   {
     "id": "awb_cc0a413a69dc071e0aed",
@@ -3795,16 +3831,12 @@
       "electronic"
     ],
     "tags": [
-      "aura",
-      "electronic",
-      "lofi",
-      "night",
-      "phonk"
+      "electronic"
     ],
     "homepage": "https://irvess.com/",
-    "favicon": "https://irvess.com/assets/img/icon-512.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -5161,26 +5193,6 @@
     "updatedAt": "2026-01-30T07:03:15Z"
   },
   {
-    "id": "awb_e7a5e693d87c725b2df1",
-    "name": "Miraç Fm",
-    "country": "TR",
-    "subdivision": null,
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "islamic religion"
-    ],
-    "homepage": "https://www.miracfm.com/",
-    "favicon": "https://www.miracfm.com/uploads/box/photos/yenilendik.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-30T08:51:44Z"
-  },
-  {
     "id": "awb_e9e69bbaba4dc98def63",
     "name": "Mix A Mix FM",
     "country": "TR",
@@ -5398,6 +5410,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-25T06:31:10Z"
+  },
+  {
+    "id": "awb_0895a6c5c07c9c7035e0",
+    "name": "Ortaca FM",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.ortacafm.com.tr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T11:16:07Z"
   },
   {
     "id": "awb_30cdf7bf6471c16f258b",
@@ -6767,6 +6793,145 @@
     "updatedAt": "2026-11-13T19:53:15Z"
   },
   {
+    "id": "awb_c162b7d98921be12e0c5",
+    "name": "Radyo 7 Ankara",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radyo7.com/dinle",
+    "favicon": "https://cdn.kanal7.com/radyo7/newsite/big/2023/21/3f6dd0947d67221e72701c5c0681327dbedbf360.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:32:51Z"
+  },
+  {
+    "id": "awb_6a3be3a444ff706d9215",
+    "name": "Radyo 7 Arabesk",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "arabesk"
+    ],
+    "homepage": "https://www.radyo7.com/dinle",
+    "favicon": "https://cdn.kanal7.com/radyo7/newsite/big/2022/49/5e8e797be5576d018ed5ff3057338f33cd3aad70.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:19:13Z"
+  },
+  {
+    "id": "awb_dd95a4562d81a7bae800",
+    "name": "Radyo 7 Ferdi Müslüm Orhan",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "arabesk"
+    ],
+    "homepage": "https://www.radyo7.com/dinle",
+    "favicon": "https://cdn.kanal7.com/radyo7/newsite/big/2023/21/9ea1a9fba685ca23aaab7a4bed2c8d5d5eb48ed5.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:30:48Z"
+  },
+  {
+    "id": "awb_cc74aa6bdaa26812d6db",
+    "name": "Radyo 7 Kur-an Arapça - Türkçe Meal",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "kur'an-ı kerim"
+    ],
+    "homepage": "https://www.radyo7.com/dinle",
+    "favicon": "https://cdn.kanal7.com/radyo7/newsite/big/2022/15/c5d82f7c43d89fd9674405e7fb9e669739c7193d.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:45:38Z"
+  },
+  {
+    "id": "awb_44c31ea17edeb0ce97e4",
+    "name": "Radyo 7 Kur-an Meal",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radyo7.com/dinle",
+    "favicon": "https://cdn.kanal7.com/radyo7/newsite/big/2022/15/9f246853bd42ec25efc1dd169830a6d0a165a98a.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:48:23Z"
+  },
+  {
+    "id": "awb_d27a9b24d8a93a010670",
+    "name": "Radyo 7 Nostalji",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radyo7.com/dinle",
+    "favicon": "https://cdn.kanal7.com/radyo7/newsite/big/2022/49/3a2c2bbdc46a926181522e058e48481a3ad7f480.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:50:46Z"
+  },
+  {
+    "id": "awb_cb072eb1a249556390d0",
+    "name": "Radyo 7 Pop",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://www.radyo7.com/dinle",
+    "favicon": "https://cdn.kanal7.com/radyo7/newsite/big/2022/49/24f8365b7f8c86c1e111f4738794f095a629664f.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:27:51Z"
+  },
+  {
+    "id": "awb_7450da739bdcb69e3558",
+    "name": "Radyo 7 Slow",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "slow",
+      "türkü"
+    ],
+    "homepage": "https://www.radyo7.com/dinle",
+    "favicon": "https://cdn.kanal7.com/radyo7/newsite/big/2022/49/afb82901f62a01013ac97db348c84ad2adb3059d.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:25:31Z"
+  },
+  {
+    "id": "awb_207e739fdd1262d2c4b7",
+    "name": "Radyo 7 Tasavvuf",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radyo7.com/dinle",
+    "favicon": "https://cdn.kanal7.com/radyo7/newsite/big/2022/49/af0612f1e6c644476608d5ca37c7e6f9e092616a.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:36:40Z"
+  },
+  {
     "id": "awb_f4b163554b19ca4b6d92",
     "name": "Radyo 7 Türkü",
     "country": "TR",
@@ -7986,6 +8151,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_227f3f9eefceb7202abc",
+    "name": "Radyo Hatim",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [
+      "tr"
+    ],
+    "categories": [],
+    "tags": [
+      "kur'an-ı kerim"
+    ],
+    "homepage": "https://www.radyokuran.com.tr/index.php",
+    "favicon": "https://play-lh.googleusercontent.com/wsOVRV6Clrjsdy0tJE-VhEno229pfFAmJrc9A3zZ8_e18E68CemCBAspP7kjw6njp99kZ1lHVsisBeoiyaBq=w480-h960",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T18:49:46Z"
+  },
+  {
     "id": "awb_b306e0536204f8123ca6",
     "name": "Radyo Havaları",
     "country": "TR",
@@ -8231,6 +8414,22 @@
     "updatedAt": "2026-11-20T09:04:14Z"
   },
   {
+    "id": "awb_14733a24d679b8fa35e0",
+    "name": "Radyo Kuran",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "kur'an-ı kerim"
+    ],
+    "homepage": "https://www.radyokuran.com.tr/index.php",
+    "favicon": "https://play-lh.googleusercontent.com/QETOgzEid51v7nHLnG4kScWe3BFTmkW34nW_rc-yzprCRGtU3yxNBzw1qdIrB_Eopg47qze7pQP4CSdjqtHfpiM=s0-br30",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T18:42:34Z"
+  },
+  {
     "id": "awb_8cc4b970f1744ca8c606",
     "name": "Radyo light",
     "country": "TR",
@@ -8291,6 +8490,24 @@
     "updatedAt": "2026-06-01T17:21:21Z"
   },
   {
+    "id": "awb_36cd96a943305be4b129",
+    "name": "Radyo Manavgat",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [
+      "tr"
+    ],
+    "categories": [],
+    "tags": [
+      "türkü"
+    ],
+    "homepage": "https://www.radyomanavgat.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T11:01:41Z"
+  },
+  {
     "id": "awb_c08c81afb93f4fd185d0",
     "name": "Radyo Maranata",
     "country": "TR",
@@ -8335,6 +8552,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-01T07:29:51Z"
+  },
+  {
+    "id": "awb_dd74c6ee025112168d97",
+    "name": "Radyo Meal Türkçe Kuran Meali",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "kur'an-ı kerim"
+    ],
+    "homepage": "https://www.radyokuran.com.tr/index.php",
+    "favicon": "https://play-lh.googleusercontent.com/hopCM5G9XGBpqzPMG2kgNt6-F_2Y6MtsxdNX2aSylSNkXVuje9AFi4OK3Fk-Pg0ekID-Y2qp6aw-HrDGmHwPd1Y=w480-h960",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T18:54:09Z"
   },
   {
     "id": "awb_e31f6212dd6ca455940b",
@@ -9737,22 +9970,6 @@
     "updatedAt": "2026-03-25T07:16:06Z"
   },
   {
-    "id": "awb_493ebc22d61b6bde215f",
-    "name": "Self FM",
-    "country": "TR",
-    "subdivision": "Konyaaltı",
-    "languages": [
-      "tr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.selffm.com.tr/",
-    "favicon": "https://selffm.com.tr/images/logo/1185584367744-653-logo-selffm-Qhd.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-01T07:26:45Z"
-  },
-  {
     "id": "awb_a2066c14c5791275735e",
     "name": "Serhat FM",
     "country": "TR",
@@ -9821,6 +10038,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-03T07:32:17Z"
+  },
+  {
+    "id": "awb_8004e815b27e1b98d6c2",
+    "name": "Side FM",
+    "country": "TR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "http://www.sidefm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T10:58:12Z"
   },
   {
     "id": "awb_3dbd1fc181710497dc2c",

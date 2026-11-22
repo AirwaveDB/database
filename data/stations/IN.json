@@ -1264,29 +1264,6 @@
     "updatedAt": "2026-01-15T02:07:14Z"
   },
   {
-    "id": "awb_9342e92738ff955a6694",
-    "name": "Akashvani Anantapur",
-    "country": "IN",
-    "subdivision": "Andhra Pradesh",
-    "languages": [
-      "te"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news talk",
-      "public radio"
-    ],
-    "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-08-22T07:25:52Z"
-  },
-  {
     "id": "awb_a8074a4fe8790116f697",
     "name": "Akashvani Asmita Vahini FM",
     "country": "IN",
@@ -1301,20 +1278,25 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_d17c305d7b3cdb152b56",
-    "name": "Akashvani Dharamshala 103.4 FM",
+    "id": "awb_3ce2dde9984373cb9032",
+    "name": "Akashvani Devikulam",
     "country": "IN",
-    "subdivision": null,
+    "subdivision": "kerala",
     "languages": [
-      "hi"
+      "ml",
+      "ta"
     ],
     "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": "https://onlineradiohub.com/wp-content/uploads/2024/02/air-dharmasala.jpg",
+    "tags": [
+      "devikulam",
+      "malayalam",
+      "tamil"
+    ],
+    "homepage": "https://akashvani.gov.in/radio/live.php",
+    "favicon": "https://dt89je83l7epy.cloudfront.net/images/RADIO_996461.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:44:03Z"
+    "updatedAt": "2026-11-21T12:20:43Z"
   },
   {
     "id": "awb_4979ca840290f435a1c1",
@@ -1408,29 +1390,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
-    "id": "awb_c1e093f8431a798e2189",
-    "name": "Akashvani Markapur",
-    "country": "IN",
-    "subdivision": "Andhra Pradesh",
-    "languages": [
-      "te"
-    ],
-    "categories": [
-      "news",
-      "public",
-      "talk"
-    ],
-    "tags": [
-      "news talk",
-      "public radio"
-    ],
-    "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-08-22T04:46:32Z"
   },
   {
     "id": "awb_83ebe1c6768acbec6e92",
@@ -2912,20 +2871,6 @@
     "updatedAt": "2026-01-15T06:54:30Z"
   },
   {
-    "id": "awb_b9b03b70214c7913cc69",
-    "name": "BollyHits Radio",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://bollyhitsradio.com/",
-    "favicon": "https://bollyhitsradio.com/wp-content/uploads/sites/558/2026/02/BollyHits-Radio-White-300x300.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-19T02:41:27Z"
-  },
-  {
     "id": "awb_9abe93ed84ed722568a0",
     "name": "Bollywood 2000's",
     "country": "IN",
@@ -4387,28 +4332,6 @@
     "type": "public",
     "sourceCount": 1,
     "updatedAt": "2026-08-22T01:52:14Z"
-  },
-  {
-    "id": "awb_715c47013997bbb339ae",
-    "name": "FM Rainbow Visakhapatnam",
-    "country": "IN",
-    "subdivision": "Andhra Pradesh",
-    "languages": [
-      "te"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "fm rainbow",
-      "music",
-      "public radio"
-    ],
-    "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
-    "favicon": null,
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-08-22T07:09:55Z"
   },
   {
     "id": "awb_11e8848f96ea4d1a88b8",
@@ -11160,15 +11083,11 @@
       "ta"
     ],
     "categories": [],
-    "tags": [
-      "janaki",
-      "south radio",
-      "tamil"
-    ],
+    "tags": [],
     "homepage": "https://www.tamilradios.com/s-jankaki-radio",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -12340,20 +12259,6 @@
     "updatedAt": "2026-01-27T07:11:11Z"
   },
   {
-    "id": "awb_ccfc6d78e781147568b4",
-    "name": "Telugu FM",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://zeno.fm/",
-    "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/aaB8x_gRrIDwkw4fs81HZ3Z3mvCKskkiRKlloaYQv6Y/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFFzTmlwa2dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFtdmZ3M3drTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY5OTkzMDAwMA.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-25T03:30:17Z"
-  },
-  {
     "id": "awb_bc925cc35066c6bcb726",
     "name": "thaalam-radio",
     "country": "IN",
@@ -13110,20 +13015,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-13T05:37:08Z"
-  },
-  {
-    "id": "awb_9e6698c45acb9422d752",
-    "name": "Vividh Bharati",
-    "country": "IN",
-    "subdivision": "Maharashtra",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://akashvani.gov.in/radio/live.php",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-27T03:12:57Z"
   },
   {
     "id": "awb_fbe78ed2f9c9e1c42ba3",

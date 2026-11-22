@@ -819,20 +819,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_c0c3235aa6096a32e5b6",
-    "name": "2CUZFM bourke",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.2cuzfm.com/",
-    "favicon": "http://www.2cuzfm.com/resources/aboriginal_flag_photo_CACHE-600x345-nowatermark.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-30T07:15:42Z"
-  },
-  {
     "id": "awb_243fc5a075830df2d6cf",
     "name": "2Day FM",
     "country": "AU",
@@ -3724,7 +3710,7 @@
     "favicon": "https://terminal-dystopia.com/images/radio.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T07:22:34Z"
+    "updatedAt": "2026-11-22T07:24:57Z"
   },
   {
     "id": "awb_8b6bb977e85c1c6bf113",
@@ -4632,26 +4618,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-02T21:10:25Z"
-  },
-  {
-    "id": "awb_2fcac8a3f9dfc9475bc8",
-    "name": "A.i.R Station - Hip Hop, Rap, Trap & Grime",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "hip-hop"
-    ],
-    "tags": [
-      "rap"
-    ],
-    "homepage": "https://radio.autismo.biz/",
-    "favicon": "https://imgur.com/r1pRGrz",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-08T17:33:12Z"
   },
   {
     "id": "awb_7d61d1522e5b1c4db2ca",
@@ -8377,7 +8343,7 @@
     "favicon": "https://aspradio.au/static/uploads/browser_icon/original.1709873524.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-16T21:58:18Z"
+    "updatedAt": "2026-11-21T21:59:23Z"
   },
   {
     "id": "awb_a1ad733d531b36b1afea",
@@ -16174,6 +16140,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:38:09Z"
+  },
+  {
+    "id": "awb_6b841ff9ce00d3bf2439",
+    "name": "Christmas Hope",
+    "country": "AU",
+    "subdivision": "NSW",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "christmas",
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "christmas",
+      "holiday"
+    ],
+    "homepage": "https://hope1032.com.au/christmas-hope/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T02:52:25Z"
   },
   {
     "id": "awb_1aadefb9801f6cab39bc",
@@ -30590,26 +30579,6 @@
     "updatedAt": "2026-01-15T05:25:41Z"
   },
   {
-    "id": "awb_0980bc341adf7a3a2116",
-    "name": "Totally Radio - Christmas",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "christmas"
-    ],
-    "tags": [
-      "christmas"
-    ],
-    "homepage": "https://totallyradio.com.au/",
-    "favicon": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/c8ffa91d4_TotallylogoHORZwhite1066x248.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-09T07:35:56Z"
-  },
-  {
     "id": "awb_3e82a5295a0004d788e4",
     "name": "Totally Radio - Classical",
     "country": "AU",
@@ -30885,6 +30854,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:35:43Z"
+  },
+  {
+    "id": "awb_0980bc341adf7a3a2116",
+    "name": "Totally Radio Christmas)",
+    "country": "AU",
+    "subdivision": "New South Wales",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "christmas",
+      "pop"
+    ],
+    "tags": [
+      "christmas",
+      "hits",
+      "holiday",
+      "pop",
+      "xmas"
+    ],
+    "homepage": "https://totallyradio.com.au/XMAS/",
+    "favicon": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/c8ffa91d4_TotallylogoHORZwhite1066x248.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-21T23:36:46Z"
   },
   {
     "id": "awb_f5560561951440ba1c8d",
@@ -31201,7 +31195,7 @@
     "favicon": "http://www.abc.net.au/core-assets/triplej/favicon-32x32.png",
     "type": "public",
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T04:41:21Z"
+    "updatedAt": "2026-11-22T04:42:58Z"
   },
   {
     "id": "awb_aa9850ce6cd2e55a83cc",
@@ -31674,20 +31668,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:17:03Z"
-  },
-  {
-    "id": "awb_7368102bd4e92e79948e",
-    "name": "UltraCool Radio",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.ultracoolradio.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_6a8f21e7662013192c8d",

@@ -1130,6 +1130,28 @@
     "updatedAt": "2026-01-15T05:18:50Z"
   },
   {
+    "id": "awb_3cc2ae382ee851861e71",
+    "name": "FM Del Plata 95.5",
+    "country": "UY",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "oldies",
+      "pop music",
+      "rock"
+    ],
+    "homepage": "https://www.delplatafm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:37:10Z"
+  },
+  {
     "id": "awb_0daa7800c8b2c94abcfb",
     "name": "FM Días de Gloria 101.9",
     "country": "UY",
@@ -1259,6 +1281,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_8179d0d24fea801e62c9",
+    "name": "FM Like 91.9",
+    "country": "UY",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop music",
+      "urban"
+    ],
+    "homepage": "https://www.fmlike.com.uy/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:36:38Z"
   },
   {
     "id": "awb_86a7f34845dfec0c5f8c",
@@ -1877,6 +1920,46 @@
     "updatedAt": "2026-08-23"
   },
   {
+    "id": "awb_ac18f26154f4207d9826",
+    "name": "Radio carve",
+    "country": "UY",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "noticias",
+      "talk radio"
+    ],
+    "homepage": "https://radiocarve.uy/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:23:56Z"
+  },
+  {
+    "id": "awb_7742f5450c4248b8c17a",
+    "name": "Radio Centenario",
+    "country": "UY",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "izquierda",
+      "left wing",
+      "talk radio"
+    ],
+    "homepage": "https://radio36.com.uy/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:32:55Z"
+  },
+  {
     "id": "awb_e773c9b342f82ddf1b5b",
     "name": "Radio Chiveo",
     "country": "UY",
@@ -2407,7 +2490,7 @@
     "favicon": "https://enperspectiva.uy/logo_radiomundo.jpeg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T07:32:54Z"
+    "updatedAt": "2026-11-22T07:34:23Z"
   },
   {
     "id": "awb_12a06652d8121fa67046",
@@ -2430,6 +2513,27 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-23"
+  },
+  {
+    "id": "awb_74ff46ec3ccf9ad49f5e",
+    "name": "Sport 890",
+    "country": "UY",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "tags": [
+      "deportes",
+      "futbol",
+      "sports news"
+    ],
+    "homepage": "https://www.sport890.com.uy/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T22:26:52Z"
   },
   {
     "id": "awb_54c454d48e92af652e7a",

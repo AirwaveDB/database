@@ -1833,7 +1833,7 @@
     "favicon": "https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T06:59:33Z"
+    "updatedAt": "2026-11-22T07:01:00Z"
   },
   {
     "id": "awb_1b104ad6bd36161f6122",
@@ -1945,29 +1945,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_391ce3c3fec79862f7f9",
-    "name": "Radio Amistades Forever",
-    "country": "PE",
-    "subdivision": "Junín",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "baladas",
-      "pop",
-      "rocks"
-    ],
-    "homepage": "https://imvt.ddns.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T09:20:06Z"
-  },
-  {
     "id": "awb_66cc9e50c1271864f348",
     "name": "Radio Amo la Música",
     "country": "PE",
@@ -2052,13 +2029,11 @@
       "es"
     ],
     "categories": [],
-    "tags": [
-      "local radio"
-    ],
+    "tags": [],
     "homepage": "https://radioarmoniadigital.com/",
-    "favicon": "https://radioarmoniadigital.com/wp-content/uploads/2024/02/512-150x150.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -2918,27 +2893,6 @@
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_58274a4e2f34b57e7e94",
-    "name": "Radio Huanta 2000",
-    "country": "PE",
-    "subdivision": "Huanta - Ayacucho",
-    "languages": [
-      "qu"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "música",
-      "noticias"
-    ],
-    "homepage": "https://radiohuanta2000.com/",
-    "favicon": "https://radiohuanta2000.com/wp-content/uploads/2020/08/cropped-logoradio-scaled-2.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-19T14:58:25Z"
   },
   {
     "id": "awb_5e56c5522b542be26fe4",

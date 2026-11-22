@@ -926,31 +926,6 @@
     "updatedAt": "2026-05-15T18:28:47Z"
   },
   {
-    "id": "awb_e7152954c08b25d4b7e0",
-    "name": "Bounce Radio",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electronic",
-      "house",
-      "minimal",
-      "romania",
-      "tech house",
-      "underground"
-    ],
-    "homepage": "https://8ounce.ro/radio",
-    "favicon": "https://8ounce.ro/assets/icon-512.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-20T17:48:10Z"
-  },
-  {
     "id": "awb_1ad86167e5ef1c764ff5",
     "name": "Bucuresti FM",
     "country": "RO",
@@ -8210,13 +8185,15 @@
       "religious"
     ],
     "tags": [
-      "christian"
+      "christian",
+      "gospel",
+      "religious"
     ],
     "homepage": null,
     "favicon": "https://radiofiladelfia.ro/wp-content/uploads/2020/03/Radio-Filadelfia_logo_500px.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-16T23:25:14Z"
+    "updatedAt": "2026-11-21T23:27:42Z"
   },
   {
     "id": "awb_fdecb3d280c4fac29329",
@@ -11199,49 +11176,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_394c1eb73691f419e513",
-    "name": "Radio Romantic",
-    "country": "RO",
-    "subdivision": "Romania",
-    "languages": [
-      "de",
-      "en",
-      "es",
-      "fr",
-      "it",
-      "ro"
-    ],
-    "categories": [],
-    "tags": [
-      "musica romantica",
-      "retro"
-    ],
-    "homepage": "http://www.radio-romantic.ro/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:31:18Z"
-  },
-  {
-    "id": "awb_a0baf1efb0a512aede17",
-    "name": "Radio Romantic Modern Talking - Blue Systems",
-    "country": "RO",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "eurodisco",
-      "italo disco"
-    ],
-    "homepage": "https://www.radio-romantic.ro/",
-    "favicon": "https://oss-us.fileget.net/tingfm/img/l/4/83434.v20.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-12T05:08:21Z"
   },
   {
     "id": "awb_8dea5b9ef1dda1606a8a",

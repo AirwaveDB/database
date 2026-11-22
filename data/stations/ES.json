@@ -22,7 +22,7 @@
     "favicon": "https://assets.laut.fm/51443b263d4b82dd4e7c24b811b8ddd7?t=_640x640",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T08:07:04Z"
+    "updatedAt": "2026-11-22T08:07:54Z"
   },
   {
     "id": "awb_c58e1bbc6161bda1a5a1",
@@ -1032,8 +1032,8 @@
       "rock",
       "toxic"
     ],
-    "homepage": "https://alexwolfradio.com/?from=radio_browser",
-    "favicon": "https://alexwolfradio.com/assets/radio-logo.jpg",
+    "homepage": "https://alexwolfradio.com/",
+    "favicon": "https://dabplus.live/logo/3487909e60c040fd8cc4534dd3f7f44a.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-14T23:05:03Z"
@@ -1852,7 +1852,7 @@
   },
   {
     "id": "awb_14a68cf1e031a1db0967",
-    "name": "Bilbo Hiria Irratia",
+    "name": "Bilbo Hiria irratia",
     "country": "ES",
     "subdivision": null,
     "languages": [],
@@ -4651,6 +4651,26 @@
     "updatedAt": "2026-02-27T21:26:49Z"
   },
   {
+    "id": "awb_02252bf1728b293ada8a",
+    "name": "Coast Ibiza",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock / feel good"
+    ],
+    "homepage": "https://coastibiza.com/",
+    "favicon": "https://directory.nexradio.cloud/adstation/logo/coast-ibiza/favicon.png?v=sgpY-w",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T16:30:47Z"
+  },
+  {
     "id": "awb_71a18fb5c0871d5856da",
     "name": "Color Estéreo 103.7 FM",
     "country": "ES",
@@ -5487,30 +5507,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:44:38Z"
-  },
-  {
-    "id": "awb_07329093cdb56d782303",
-    "name": "Decibelia FM",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "breakbeat",
-      "electro house",
-      "electronic",
-      "hardstyle",
-      "music"
-    ],
-    "homepage": "https://decibeliafm.es/web/",
-    "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T06:35:43Z"
   },
   {
     "id": "awb_aba7c642dcb60c2701dc",
@@ -8630,7 +8626,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T04:01:24Z"
+    "updatedAt": "2026-11-22T04:02:16Z"
   },
   {
     "id": "awb_1a0d5615e13b0cbd99ad",
@@ -12149,6 +12145,27 @@
     "updatedAt": "2026-01-15T06:36:23Z"
   },
   {
+    "id": "awb_737e3afdc825dc2963f4",
+    "name": "NexRadio",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [
+      "ibiza",
+      "live stream",
+      "nexradio",
+      "online radio"
+    ],
+    "homepage": "https://nexradio.nl/",
+    "favicon": "https://directory.nexradio.cloud/adstation/logo/nexradio/favicon.png?v=xcA9Ew",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T16:29:28Z"
+  },
+  {
     "id": "awb_e310b0c7a1bc25669873",
     "name": "Nostalgia",
     "country": "ES",
@@ -14377,7 +14394,7 @@
     "favicon": "https://punkirratia.net/punkirratia.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T05:36:10Z"
+    "updatedAt": "2026-11-22T05:37:34Z"
   },
   {
     "id": "awb_2d748205b8cd10558fa7",
@@ -17233,14 +17250,31 @@
     "name": "Radio Linguas",
     "country": "ES",
     "subdivision": "Galicia",
-    "languages": [],
-    "categories": [],
-    "tags": [],
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "gl",
+      "it",
+      "ja",
+      "pt",
+      "zh"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "educational",
+      "language learning",
+      "languages"
+    ],
     "homepage": "https://radiolinguas.eu/",
-    "favicon": "https://radiolinguas.eu/wp-content/uploads/2024/03/radiolinguas.jpg",
-    "type": null,
+    "favicon": "https://radiolinguas.eu/wp-content/uploads/2026/07/cropped-EOI-VIGO_IMAGOTIPO_Deriv_EOIdeVigo_RADIOLINGUAS_ISOTIPO_fundobranco-scaled-1.png",
+    "type": "community",
     "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
+    "updatedAt": "2026-11-22T02:05:15Z"
   },
   {
     "id": "awb_ebfc91285fcd4873fb38",
@@ -22256,7 +22290,7 @@
       "organic house",
       "trance"
     ],
-    "homepage": "https://sufisoulradio.com/",
+    "homepage": "https://www.sufisoulradio.com/",
     "favicon": "https://sufisoulradio.com/assets/img/icon-512.png",
     "type": null,
     "sourceCount": 2,
@@ -22673,7 +22707,7 @@
     "favicon": "https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png",
     "type": null,
     "sourceCount": 4,
-    "updatedAt": "2026-11-17T08:27:55Z"
+    "updatedAt": "2026-11-22T08:28:58Z"
   },
   {
     "id": "awb_60668b862f76c8a40ef9",

@@ -296,20 +296,6 @@
     "updatedAt": "2026-08-23"
   },
   {
-    "id": "awb_d814dedbabfc38f8fbdb",
-    "name": "GoldFM",
-    "country": "LT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://goldfm.lt/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-17T13:57:32Z"
-  },
-  {
     "id": "awb_cf872ae3f29be2745d96",
     "name": "Haze Pub Radio",
     "country": "LT",
@@ -684,22 +670,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:58:35Z"
-  },
-  {
-    "id": "awb_2730bc611b451a597172",
-    "name": "Marso Radijas",
-    "country": "LT",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "variuos topics"
-    ],
-    "homepage": "https://marsas.me/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-17T06:47:05Z"
   },
   {
     "id": "awb_c2d024a660715a50cb12",
@@ -1170,7 +1140,7 @@
     "id": "awb_f0418ec6f2a427f541db",
     "name": "Radijo Stotis Kelyje",
     "country": "LT",
-    "subdivision": "Vilnius",
+    "subdivision": "Kaunas",
     "languages": [
       "lt"
     ],

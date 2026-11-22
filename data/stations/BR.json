@@ -162,28 +162,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_7c18bea54236672bbe9a",
-    "name": "105 FM - SP",
-    "country": "BR",
-    "subdivision": "Sao Paulo (Brazil)",
-    "languages": [
-      "pt"
-    ],
-    "categories": [
-      "hip-hop"
-    ],
-    "tags": [
-      "pagode",
-      "rap",
-      "samba"
-    ],
-    "homepage": "https://radio105fm.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:13:13Z"
-  },
-  {
     "id": "awb_5645a9f30f93f61a6025",
     "name": "105.7 FM Anápolis",
     "country": "BR",
@@ -603,20 +581,6 @@
     "updatedAt": "2026-07-29T14:38:15Z"
   },
   {
-    "id": "awb_961e7b47b557c6b12fc1",
-    "name": "96 Fm - Arapiraca Alagoas",
-    "country": "BR",
-    "subdivision": "Alagoas",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://96fmarapiraca.com.br.dream.website/",
-    "favicon": "http://96fmarapiraca.com.br.dream.website/wp-content/uploads/2022/04/logo_site-colorido-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_ba724d91ce56696c9c13",
     "name": "96 FM Bauru",
     "country": "BR",
@@ -982,6 +946,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_4442fecdf8df1bac7d19",
+    "name": "Aloha Web Rádio",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro",
+    "languages": [],
+    "categories": [
+      "pop",
+      "reggae",
+      "rock"
+    ],
+    "tags": [
+      "classick rock",
+      "pop rock",
+      "reggae",
+      "rock",
+      "surf music"
+    ],
+    "homepage": "https://alohawebradio.com/",
+    "favicon": "https://scontent.ffln3-1.fna.fbcdn.net/v/t39.30808-6/294522634_547964670342801_4861049257305727895_n.jpg?stp=dst-jpg_tt6&cstp=mx2007x2015&ctp=s2007x2015&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=EEzmpCs8Ao0Q7kNvwENpDse&_nc_oc=Adp4rJqOwiI1BYP5976hBok84zUptd7GDKolec6t8VX7bI19Qnaq2OS1wQvSxJ21XWXZa7WwAU-JM-OAPzO6NRRG&_nc_zt=23&_nc_ht=scontent.ffln3-1.fna&_nc_gid=HEnjQT1Fk1u6BAdNkOd6NQ&_nc_ss=7b289&oh=00_AQTkJD6i_epRZ5yqErsEu2LEIoj_XPwi4Szf2FWlQCXqag&oe=6B07D98B",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T19:53:14Z"
   },
   {
     "id": "awb_e50fee1b1196b9e23e33",
@@ -1411,22 +1399,8 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_06765c5f1ad3fde19131",
-    "name": "Aranas FM",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://aranasfm.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_9dd03b3d54f99ea3c97a",
-    "name": "Arara azul FM",
+    "name": "Arara Azul FM",
     "country": "BR",
     "subdivision": "PA",
     "languages": [],
@@ -1723,6 +1697,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:10:11Z"
+  },
+  {
+    "id": "awb_fd156b74080a8f6b5091",
+    "name": "BandNews FM 93.3 Porto Alegre",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "esportes",
+      "jornalismo(all news)",
+      "noticias"
+    ],
+    "homepage": "https://www.band.com.br/radios/bandnews-fm/porto-alegre/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/1/1e/BandNews_FM_99.3_FM_logo_2019.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T21:20:12Z"
   },
   {
     "id": "awb_6878780cdb9fbd34d74f",
@@ -2975,6 +2969,31 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_c197461087a786abeb65",
+    "name": "Coletiva.rádio",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "jornalismo",
+      "mpb",
+      "pop rock",
+      "rock"
+    ],
+    "homepage": "https://radio.coletiva.net/",
+    "favicon": "https://coletiva.net/wp-content/uploads/2025/06/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T18:27:40Z"
+  },
+  {
     "id": "awb_82bb298d3bdbf7efdaf7",
     "name": "Conecta FM - Campinas",
     "country": "BR",
@@ -4147,7 +4166,7 @@
     "favicon": "https://redefanfm.com.br/wp-content/uploads/2023/07/favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T02:56:28Z"
+    "updatedAt": "2026-11-22T03:06:10Z"
   },
   {
     "id": "awb_cd2981357d40dbe6e9a3",
@@ -4700,23 +4719,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_8cc0b9c1655859c8e153",
-    "name": "Gazeta FM 94,1 Maceió",
-    "country": "BR",
-    "subdivision": "Alagoas",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "eclética",
-      "popular"
-    ],
-    "homepage": "http://www.gazetafmmaceio.com.br/",
-    "favicon": "https://www.radios.com.br/aovivo/radio-gazeta-941-fm/13291",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-18T20:19:24Z"
   },
   {
     "id": "awb_0319433e444cfa4ae0ae",
@@ -7332,7 +7334,7 @@
     "favicon": "https://listen.maracutaia.fm/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-16T22:34:03Z"
+    "updatedAt": "2026-11-21T22:42:39Z"
   },
   {
     "id": "awb_cb7a6f86baf415a5ca5e",
@@ -8326,20 +8328,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:38:48Z"
-  },
-  {
-    "id": "awb_0b45f004b7a0bc59162c",
-    "name": "Movimento FM",
-    "country": "BR",
-    "subdivision": "Santa Catarina",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://portalcoroado.com.br/home/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_c1f535cbf6394d0e1ff1",
@@ -11824,20 +11812,6 @@
     "updatedAt": "2026-05-12T07:31:14Z"
   },
   {
-    "id": "awb_033c74c87242cf42bbf7",
-    "name": "Rádio Assembleia Minas Gerais",
-    "country": "BR",
-    "subdivision": "Minas Gerais Brasil",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.almg.gov.br/",
-    "favicon": "https://www.almg.gov.br/system/modules/br.gov.almg.portal/resources/img/logo/logo.svg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-17T12:25:00Z"
-  },
-  {
     "id": "awb_d0b31d5eab2750d08400",
     "name": "Rádio Assunção AM620",
     "country": "BR",
@@ -12650,24 +12624,6 @@
     "updatedAt": "2026-10-27T23:28:46Z"
   },
   {
-    "id": "awb_a59ddfb68ce3f870fe31",
-    "name": "Rádio Brasil 2000",
-    "country": "BR",
-    "subdivision": "Sao Paulo (Brazil)",
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://brasil2000fm.com.br/",
-    "favicon": "https://brasil2000fm.com.br/wp-content/uploads/2025/03/cropped-FAVICON-2-192x192.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-09T02:05:36Z"
-  },
-  {
     "id": "awb_bfba2edf62bd56a40033",
     "name": "Rádio Brasil de Fato",
     "country": "BR",
@@ -12851,20 +12807,6 @@
     "updatedAt": "2026-10-13T17:57:58Z"
   },
   {
-    "id": "awb_3fc20ca0550416313670",
-    "name": "Rádio Cajá Esportes",
-    "country": "BR",
-    "subdivision": "Paraíba",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiocajaesportes.webradios.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-09T12:35:55Z"
-  },
-  {
     "id": "awb_98f0f4d5a0b3fc232f51",
     "name": "Radio Calhambeque",
     "country": "BR",
@@ -12926,20 +12868,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-14T13:35:06Z"
-  },
-  {
-    "id": "awb_2b7b7954faeaf86005a4",
-    "name": "Rádio Cambirela - Virtual,mas real.",
-    "country": "BR",
-    "subdivision": "Santa Catarina,SC",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radiocambirela.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-22T02:07:08Z"
   },
   {
     "id": "awb_f1e113fafd1ab4f2f8bb",
@@ -14022,26 +13950,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-26T23:40:43Z"
-  },
-  {
-    "id": "awb_b80a3fd76f472bc6f150",
-    "name": "Rádio CNMA",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [
-      "pt"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "religious"
-    ],
-    "homepage": "https://zeno.fm/radio/CNMABR/",
-    "favicon": "https://zeno.fm/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:48:00Z"
   },
   {
     "id": "awb_9bafd230906bdb6fa1e2",
@@ -15611,25 +15519,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_0cb34c201c9c358e6090",
-    "name": "Rádio Evangelizar Família",
-    "country": "BR",
-    "subdivision": "Paraná",
-    "languages": [],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "catholic",
-      "católica"
-    ],
-    "homepage": "https://radioevangelizar.com.br/",
-    "favicon": "https://static-media.streema.com/media/cache/b0/dc/b0dc965a83ec4dfdcc5e1c10a7c50d89.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-26T01:53:04Z"
-  },
-  {
     "id": "awb_71c77379ae59fb18f94f",
     "name": "Rádio Expresso Gospel",
     "country": "BR",
@@ -16383,26 +16272,6 @@
     "updatedAt": "2026-02-23T21:05:00Z"
   },
   {
-    "id": "awb_476d3eee13d154d8bf8a",
-    "name": "Rádio Gospel",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [
-      "pt"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "gospel"
-    ],
-    "homepage": "http://www.gospel.fm.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:21:39Z"
-  },
-  {
     "id": "awb_c2c1f4ee0e100270f0e2",
     "name": "Rádio Gospel Brasil",
     "country": "BR",
@@ -16934,33 +16803,6 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-02-23T16:27:33Z"
-  },
-  {
-    "id": "awb_84c77487c5eef1639f6d",
-    "name": "Radio Hollywood",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [
-      "pt"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "brasil",
-      "funk",
-      "mpb",
-      "pagode",
-      "pop",
-      "romantica",
-      "sertanejo",
-      "variedades"
-    ],
-    "homepage": "https://radiohollywood.online/",
-    "favicon": "https://radiohollywood.online/icons/icon-512.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-20T19:27:05Z"
   },
   {
     "id": "awb_a36b55603e145c020187",
@@ -17872,20 +17714,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-23T20:41:41Z"
-  },
-  {
-    "id": "awb_104bd5058e31c2645507",
-    "name": "Rádio Jornal da Manhã Uberaba",
-    "country": "BR",
-    "subdivision": "Minas Gerais Brasil",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://jmonline.com.br/",
-    "favicon": "https://jmonline.com.br/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_27bf8531875caf50d8d5",
@@ -19946,26 +19774,6 @@
     "updatedAt": "2026-01-30T01:01:10Z"
   },
   {
-    "id": "awb_ecd0c3c414373211694f",
-    "name": "Rádio Nacional da Memória Adventista",
-    "country": "BR",
-    "subdivision": "Sao Paulo",
-    "languages": [
-      "pt"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "religious"
-    ],
-    "homepage": "https://zeno.fm/radio/CNMABR",
-    "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FIOCvpX-OlhsD6ZzpgXuF_2eu3sBF67ZBeEy_vAlzxC0%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURJN01XNTRBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJdE5QSHN3a01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE1NDc1ODYwMDA_dT01NzYyODU4.webp&w=750&q=100",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:40:20Z"
-  },
-  {
     "id": "awb_3226992ff14a7ff3a459",
     "name": "Rádio Nacional Rio de Janeiro",
     "country": "BR",
@@ -21021,24 +20829,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-19T21:09:04Z"
-  },
-  {
-    "id": "awb_72a7178b1ec0d0c348a1",
-    "name": "Rádio Pirafm",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": "https://sites.google.com/view/radio-pirafm/in%C3%ADcio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
     "id": "awb_55786ecdd25d80506d17",
@@ -24860,7 +24650,7 @@
     "favicon": "https://img.radios.com.br/radio/md/radio153613_1780312732.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T03:16:45Z"
+    "updatedAt": "2026-11-22T03:19:10Z"
   },
   {
     "id": "awb_32b2f31326201c413d21",
@@ -25947,20 +25737,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_6f2ad531ebc59ea8ef10",
-    "name": "Serra Branca FM",
-    "country": "BR",
-    "subdivision": "Paraiba",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://serrabrancafm.com.br/",
-    "favicon": "https://serrabrancafm.com.br/wp-content/uploads/2024/12/logo-serra-barnca-fm-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-01T19:29:02Z"
-  },
-  {
     "id": "awb_25a9bdf990b1a1b914ed",
     "name": "Serra Verde FM",
     "country": "BR",
@@ -26041,6 +25817,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-12T14:07:39Z"
+  },
+  {
+    "id": "awb_423b3b23ca38bacd2f54",
+    "name": "SidechainFM",
+    "country": "BR",
+    "subdivision": "Paraná(Brazil)",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "drum n bass",
+      "electronic",
+      "grime",
+      "industrial",
+      "jungle",
+      "techno",
+      "uk garage"
+    ],
+    "homepage": "https://radio.sidechainfm.com/",
+    "favicon": "https://radio.sidechainfm.com/pwa-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T12:43:08Z"
   },
   {
     "id": "awb_bfeb604e7a0fd94677e7",
@@ -26911,23 +26713,6 @@
     "updatedAt": "2026-02-24T12:25:30Z"
   },
   {
-    "id": "awb_49ccafb9b242c72b43f2",
-    "name": "The LFA 80 station",
-    "country": "BR",
-    "subdivision": "São Paulo",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "1980's",
-      "80's"
-    ],
-    "homepage": "https://radio.liv.fran.nom.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-12T21:04:13Z"
-  },
-  {
     "id": "awb_ed91979d491d1243431d",
     "name": "Tiradentes (Manaus) 89.7 FM",
     "country": "BR",
@@ -27242,6 +27027,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-08T18:55:38Z"
+  },
+  {
+    "id": "awb_d9584de8fbf26063ccc1",
+    "name": "Tribuna FM 107.9 Recife",
+    "country": "BR",
+    "subdivision": "Pernambuco",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://tribunafmpe.webradiosite.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T23:15:51Z"
   },
   {
     "id": "awb_1f6215eb6c4cf2241830",

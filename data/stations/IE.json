@@ -289,20 +289,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_544f66e8393fe6823434",
-    "name": "C103 North",
-    "country": "IE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.c103.ie/",
-    "favicon": "https://mm.aiircdn.com/619/5d5199be0aa8e.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z"
-  },
-  {
     "id": "awb_53d14f28b3991d856997",
     "name": "C103 West",
     "country": "IE",
@@ -845,28 +831,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_6709fcbd01cfa99bd500",
-    "name": "Dublin's Q102 80s",
-    "country": "IE",
-    "subdivision": "Dublin",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "oldies"
-    ],
-    "tags": [
-      "1980s",
-      "80s",
-      "decades"
-    ],
-    "homepage": "https://www.q102.ie/on-air/streams/q102-80s/",
-    "favicon": "https://cdn-profiles.tunein.com/s306851/images/logog.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:19:36Z"
   },
   {
     "id": "awb_267c337e6d7d04ec470c",
@@ -1794,7 +1758,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T02:12:05Z"
+    "updatedAt": "2026-11-22T02:13:37Z"
   },
   {
     "id": "awb_09ce91223417498232c1",
@@ -1823,7 +1787,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio2-90s00s.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T08:31:05Z"
+    "updatedAt": "2026-11-22T08:32:16Z"
   },
   {
     "id": "awb_0a70ca4c43d2f9c168be",
@@ -2508,6 +2472,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:20:51Z"
+  },
+  {
+    "id": "awb_aed76f323cecf065f4cf",
+    "name": "Radio North 846 AM Redcastle, Ireland",
+    "country": "IE",
+    "subdivision": "County Donegal",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "pop",
+      "religious"
+    ],
+    "tags": [
+      "christian preaching",
+      "classic country",
+      "classic hits",
+      "gospel music"
+    ],
+    "homepage": "https://radionorth.co.uk/",
+    "favicon": "https://fastcast4u.com/player/ljohns03/_user/cover/l/ljohns03/various.artists.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-21T17:26:01Z"
   },
   {
     "id": "awb_13f8fd3f6bc3076bea81",
