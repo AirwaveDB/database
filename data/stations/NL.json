@@ -3903,6 +3903,29 @@
     "updatedAt": "2026-11-11T19:01:49Z"
   },
   {
+    "id": "awb_916be1bcad4a5492e13e",
+    "name": "Dreamscape Radio",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "chillout",
+      "lounge",
+      "relax"
+    ],
+    "homepage": "https://dreamscape.nexradio.nl/",
+    "favicon": "https://dreamscape.nexradio.nl/ruudradio-assets/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T23:29:53Z"
+  },
+  {
     "id": "awb_de319fa255baa388aa0b",
     "name": "Drechtstad FM",
     "country": "NL",
@@ -5911,20 +5934,6 @@
     "updatedAt": "2026-01-15T05:07:10Z"
   },
   {
-    "id": "awb_a6bb749f013d9c3f790f",
-    "name": "hitspowerfm",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.hitspowerfm,nl/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-02T10:13:55Z"
-  },
-  {
     "id": "awb_ac60d95673b7cd0449bf",
     "name": "Hitstream FM",
     "country": "NL",
@@ -7311,6 +7320,34 @@
     "updatedAt": "2026-10-24T09:01:51Z"
   },
   {
+    "id": "awb_b1834dc471af04849bcd",
+    "name": "Jungle Radio The Original",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "nl"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "2000s",
+      "70s",
+      "80s",
+      "90's",
+      "disco",
+      "newave",
+      "pop"
+    ],
+    "homepage": "https://www.jungleradio.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T20:22:05Z"
+  },
+  {
     "id": "awb_ad89eec414515ab79608",
     "name": "jungletrain.net - 24/7 drum and bass",
     "country": "NL",
@@ -7963,8 +8000,8 @@
       "pop",
       "top 40"
     ],
-    "homepage": "https://www.langstraatmedia.nl/",
-    "favicon": "https://www.langstraatmedia.nl/favicon.ico",
+    "homepage": "https://www.langstraatmedia.nl/langstraat-fm/",
+    "favicon": "https://www.langstraatmedia.nl/logos/LangstraatFM.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-18T15:42:14Z"

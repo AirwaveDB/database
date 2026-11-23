@@ -7006,6 +7006,39 @@
     "updatedAt": "2026-01-15T07:15:38Z"
   },
   {
+    "id": "awb_69f4918544a561c7932c",
+    "name": "CHCR 102.9 / 104.5 FM \"Canadian Homegrown Community Radio\" Killaloe, Ontario",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "community",
+      "country",
+      "folk",
+      "religious",
+      "rock"
+    ],
+    "tags": [
+      "alternative / indie",
+      "bluegrass",
+      "blues",
+      "community radio",
+      "country",
+      "folk",
+      "gospel",
+      "local music",
+      "rock"
+    ],
+    "homepage": "https://chcr.org/",
+    "favicon": "https://chcr.org/content/images/2025/07/chcrlogo-1.jpg",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T23:25:23Z"
+  },
+  {
     "id": "awb_042133b8e369fd5fb8e5",
     "name": "CHDI \"Sonic 102.9\" Edmonton, AB",
     "country": "CA",
@@ -12939,6 +12972,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:57:38Z"
+  },
+  {
+    "id": "awb_62b28d689e1483321729",
+    "name": "CJPE 99.3 \"County FM\" Picton, Ontario",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "music variety"
+    ],
+    "homepage": "https://www.993countyfm.ca/",
+    "favicon": "https://www.993countyfm.ca/wp-content/uploads/2020/12/CFM-Logo-col.svg",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T23:40:20Z"
   },
   {
     "id": "awb_70bd7d1141c7f330f7c9",
@@ -19270,7 +19324,7 @@
     "favicon": "https://fullspectrumradio.com/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T09:58:03Z"
+    "updatedAt": "2026-11-22T10:12:52Z"
   },
   {
     "id": "awb_14704d2b6cddb6ffab8a",
@@ -25088,6 +25142,28 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_16c9904bc4466d0bf617",
+    "name": "RTR 92 — Rocktown Radio",
+    "country": "CA",
+    "subdivision": "Manitoba",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country"
+    ],
+    "tags": [
+      "americana",
+      "country",
+      "indie"
+    ],
+    "homepage": "https://azuracast-canada.myautodj.com/public/station_918_1795309137",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T03:18:21Z"
+  },
+  {
     "id": "awb_4a3a5452aa65d5dca87b",
     "name": "Rumsey Retro Radio",
     "country": "CA",
@@ -26527,32 +26603,6 @@
   },
   {
     "id": "awb_ca896f4e586bc4f866cc",
-    "name": "TripHop - Downtempo.Radio",
-    "country": "CA",
-    "subdivision": "Ontario",
-    "languages": [
-      "en",
-      "es",
-      "fr"
-    ],
-    "categories": [
-      "ambient",
-      "electronic"
-    ],
-    "tags": [
-      "chillout",
-      "downtempo",
-      "electronica",
-      "trip-hop"
-    ],
-    "homepage": "https://downtempo.radio/",
-    "favicon": "https://scontent.fmad16-1.fna.fbcdn.net/v/t39.30808-6/916147258_1616759610469193_2228713686392199376_n.jpg?stp=dst-jpg_tt6&cstp=mx1200x1200&ctp=s1200x1200&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IklMmRdEuhUQ7kNvwFAR--x&_nc_oc=AdpMP30CabVNcPmmSdCOrhtVwHLii738xS2cr437xIw_ugw2m4VGfUel9biK8rGKLuc&_nc_zt=23&_nc_ht=scontent.fmad16-1.fna&_nc_gid=kY3-L4iqh23Vcozx4OfB_w&_nc_ss=7b2a8&oh=00_AQR3RjAENqlKrEgNyCya29MzDgL-8qvbgn30f11o6FwpmQ&oe=6B02BE5B",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-18T01:00:40Z"
-  },
-  {
-    "id": "awb_d528b557db61792c13ea",
     "name": "TripHop Beats - Downtempo.Radio",
     "country": "CA",
     "subdivision": "England",
@@ -26577,8 +26627,8 @@
     "homepage": "https://downtempo.radio/",
     "favicon": "https://streaming.coolmusicradio.com/static/uploads/cool_music/album_art.1795028776.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-22T03:35:55Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-23T01:01:00Z"
   },
   {
     "id": "awb_b554d958452af6027c5c",

@@ -2769,7 +2769,7 @@
       "soul",
       "talk"
     ],
-    "homepage": "https://www.laserinternational.co.uk/archive-radio",
+    "homepage": "https://www.laserinternational.co.uk/",
     "favicon": "https://primary.jwwb.nl/public/t/a/i/temp-dozjcpvcaeqpdalqxwlr/1000090564-ig-profile-photo-320-320-high.png?enable-io=true&width=532",
     "type": null,
     "sourceCount": 2,
@@ -4907,6 +4907,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-21T12:42:23Z"
+  },
+  {
+    "id": "awb_9594272f0286668d6b70",
+    "name": "BBC Radio Oxford",
+    "country": "GB",
+    "subdivision": "Oxfordshire",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.bbc.co.uk/programmes/p0msccy0",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T12:28:08Z"
   },
   {
     "id": "awb_b66788b03668a25085a0",
@@ -10948,6 +10962,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-20T05:38:58Z"
+  },
+  {
+    "id": "awb_3094029f20a6c6160116",
+    "name": "Echo Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://echoradio.io/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T19:43:22Z"
   },
   {
     "id": "awb_a238ed10f016194ee60a",
@@ -20196,7 +20231,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.mazoozie.com/",
-    "favicon": "https://www.mazoozie.com/img/logo-mazoozie-mashup.c4c3588a.png",
+    "favicon": "https://www.mazoozie.com/images/loader.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-28T13:32:35Z"
@@ -22329,6 +22364,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-16T14:34:48Z"
+  },
+  {
+    "id": "awb_27740c235c4ef846e75b",
+    "name": "Old Gold Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "classic hits",
+      "oldies"
+    ],
+    "homepage": "https://www.oldgoldradio.com/",
+    "favicon": "https://www.oldgoldradio.com/assets/images/old20is20gold-206x206.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T21:02:40Z"
   },
   {
     "id": "awb_46d233beed7296781913",
@@ -24987,7 +25044,7 @@
     "favicon": "https://i0.wp.com/radioenrg.com/wp-content/uploads/2020/06/radio-enrg-triangle-black-10.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T10:16:52Z"
+    "updatedAt": "2026-11-22T10:27:59Z"
   },
   {
     "id": "awb_1b38758d4250c2f37858",
@@ -29024,13 +29081,13 @@
   },
   {
     "id": "awb_79b40fbcc2b92a7fc70b",
-    "name": "SINE FM",
+    "name": "Sine FM",
     "country": "GB",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.sinefm.com/",
+    "homepage": "https://www.sinefm.com/",
     "favicon": "https://www.sinefm.com/wp-content/uploads/2019/11/sine-fm-logo-new-800.png",
     "type": null,
     "sourceCount": 2,
@@ -29102,7 +29159,7 @@
   },
   {
     "id": "awb_e39e1943fb657da33006",
-    "name": "SLE RADIO ONE",
+    "name": "SLE Radio One",
     "country": "GB",
     "subdivision": null,
     "languages": [
@@ -32215,7 +32272,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T10:08:15Z"
+    "updatedAt": "2026-11-22T10:20:56Z"
   },
   {
     "id": "awb_1a2831c0a454ad6e1da7",
@@ -34468,7 +34525,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

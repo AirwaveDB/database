@@ -4455,6 +4455,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_c272ee56869185197c50",
+    "name": "BFM Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": "https://i.postimg.cc/6qGsJbDj/1000006805.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T10:41:26Z"
+  },
+  {
     "id": "awb_2683215c3dad4682b31c",
     "name": "BFM Radio (128.mp3)",
     "country": "FR",
@@ -4821,7 +4835,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox radio",
+    "name": "Boombox Radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -9579,6 +9593,28 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_7a759f061b3ca9cd75d0",
+    "name": "DRAGOSTE",
+    "country": "FR",
+    "subdivision": "Bretagne",
+    "languages": [],
+    "categories": [
+      "hip-hop",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "rap",
+      "rnb",
+      "top40"
+    ],
+    "homepage": "http://radio.dragoste.free.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T15:22:39Z"
+  },
+  {
     "id": "awb_c18b6ac2fe931a10e113",
     "name": "Droogies",
     "country": "FR",
@@ -10991,7 +11027,7 @@
   },
   {
     "id": "awb_31f6b9c5492374858e6a",
-    "name": "Fip",
+    "name": "FIP",
     "country": "FR",
     "subdivision": null,
     "languages": [],
@@ -11571,7 +11607,7 @@
       "pop"
     ],
     "homepage": "https://www.fip.fr/pop/webradio",
-    "favicon": "https://www.fip.fr/dist/favicons/logo-120.png",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -13027,8 +13063,8 @@
     "homepage": "https://www.radiofrance.fr/franceinfo",
     "favicon": "https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-0cfbd6d4.png",
     "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:38:48Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-23T10:04:12Z"
   },
   {
     "id": "awb_952ed15cf86fa2139f25",
@@ -20890,7 +20926,7 @@
     "favicon": "https://kickdrum.internal-server.work/site/logo-512.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T22:56:50Z"
+    "updatedAt": "2026-11-22T22:59:16Z"
   },
   {
     "id": "awb_9001837497504c9782a9",
@@ -22737,7 +22773,7 @@
     "favicon": "https://lyl.live/favicon.ico",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T10:21:38Z"
+    "updatedAt": "2026-11-22T10:24:13Z"
   },
   {
     "id": "awb_11e4b384c12f65d075d6",
@@ -32468,6 +32504,22 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_daf478c62fde46ac2439",
+    "name": "Otoradio",
+    "country": "FR",
+    "subdivision": "Ile de France",
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://otoradio.com/",
+    "favicon": "https://otoradio.com/wp-content/uploads/2024/10/cropped-Gemini_Generated_Image_yao88vyao88vyao8-370x370.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T11:28:03Z"
+  },
+  {
     "id": "awb_8d5d1a182d3dc06f8f5f",
     "name": "Ouest FM Guyane",
     "country": "FR",
@@ -34821,6 +34873,27 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-10T16:26:46Z"
+  },
+  {
+    "id": "awb_8784198f2c794b8c80eb",
+    "name": "Punch-Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://www.punch-radio.fr/",
+    "favicon": "https://www.punch-radio.fr/upload/players/6a505853138b34.76658810.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T07:00:50Z"
   },
   {
     "id": "awb_571e23323797537785b3",
@@ -41689,7 +41762,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-21T22:03:08Z"
+    "updatedAt": "2026-11-22T10:06:56Z"
   },
   {
     "id": "awb_3184303c9e1059ff5d5d",
@@ -43997,7 +44070,7 @@
     "favicon": "https://fichiers.rjrradio.fr/logo/Fond%20blanc/RJR%202016%20carr%C3%A9%20sans%20marge.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-22T03:26:13Z"
+    "updatedAt": "2026-11-22T09:52:00Z"
   },
   {
     "id": "awb_64e40507938371c7fb1e",
@@ -44890,7 +44963,7 @@
     "favicon": null,
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-22T09:29:25Z"
+    "updatedAt": "2026-11-22T10:09:07Z"
   },
   {
     "id": "awb_0b4eccb333ba1c183e00",

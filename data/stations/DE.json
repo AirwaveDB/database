@@ -10596,6 +10596,27 @@
     "updatedAt": "2026-01-15T00:05:50Z"
   },
   {
+    "id": "awb_cf0118be14e98088e3db",
+    "name": "320.fm",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de",
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic"
+    ],
+    "homepage": "https://320.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T07:49:29Z"
+  },
+  {
     "id": "awb_f5e40c32b7887ec29c06",
     "name": "3Chords allez Ist Punk",
     "country": "DE",
@@ -10799,6 +10820,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-27T13:36:28Z"
+  },
+  {
+    "id": "awb_6433cd3d706b10c336a8",
+    "name": "674FM Event",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "kultur"
+    ],
+    "homepage": "https://www.674.fm/",
+    "favicon": "https://www.radio.de/175/674fm.png?version=10ebdd4c0c7e7a7f7d6cad0b5a1c1c54b88731ab",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T22:16:14Z"
   },
   {
     "id": "awb_4ddc88fa7f79d8f3c56d",
@@ -11039,6 +11079,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_eaabccf8ba42bbb4f278",
+    "name": "80er 90er Oldie Antenne",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.oldie-antenne.de/mediathek/webradio/live",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T16:42:42Z"
   },
   {
     "id": "awb_f6aea629b659b52ce283",
@@ -15576,10 +15630,37 @@
       "jpop"
     ],
     "homepage": "https://www.animeradio.de/",
-    "favicon": "https://www.animeradio.de/img/mascot/manami-guitar.webp",
+    "favicon": "https://www.animeradio.de/img/animeradio-stream-mp3-192.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-02T14:53:19Z"
+  },
+  {
+    "id": "awb_ace92c32d7c12e4a0bc8",
+    "name": "Anmacha 24",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "00er",
+      "80er",
+      "90er",
+      "charts",
+      "party",
+      "party-hits",
+      "podcast",
+      "tanzmusik"
+    ],
+    "homepage": "https://www.ricorewi-radio.de/sender/anmacha24",
+    "favicon": "https://assets.laut.fm/69eab2ae8fcffe3036be4046680b0fb2?t=_640x640",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T18:28:33Z"
   },
   {
     "id": "awb_6e7426f25a1287c61e01",
@@ -16877,6 +16958,20 @@
     "updatedAt": "2026-01-15T05:36:39Z"
   },
   {
+    "id": "awb_70dec6344315d61a2986",
+    "name": "Antenne Bayern Weihnachtslieder",
+    "country": "DE",
+    "subdivision": "Bayern",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.antenne.de/programm/empfang/webradio",
+    "favicon": "https://www.antenne.de/media/cache/3/version/193063/streamlogo-weihnachtst-hits-aby-heimlich-reinhoeren-2026-v6-v1.jpg/d737707dfcc3613d.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T08:36:45Z"
+  },
+  {
     "id": "awb_83c75524df31541b122c",
     "name": "ANTENNE BAYERN Workout Mix",
     "country": "DE",
@@ -17688,7 +17783,7 @@
       "oldies"
     ],
     "homepage": "https://antenne.nrw/",
-    "favicon": "https://wikimedia.org/",
+    "favicon": "https://www.radio.de/100/antennenrw70erhits.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-09T10:51:45Z"
@@ -19833,7 +19928,7 @@
     "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T09:47:21Z"
+    "updatedAt": "2026-11-22T09:49:46Z"
   },
   {
     "id": "awb_ee7f8a2f92bf52e85745",
@@ -21273,7 +21368,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
+    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z"
@@ -22941,7 +23036,7 @@
     "id": "awb_57a7c6623f3b848ad6d8",
     "name": "BN-Radio",
     "country": "DE",
-    "subdivision": "Sachsen",
+    "subdivision": "Nordrhein-Westfalen",
     "languages": [
       "de"
     ],
@@ -22952,10 +23047,10 @@
       "electronic"
     ],
     "homepage": "http://www.bn-radio.de/",
-    "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
+    "favicon": "https://stream.bn-radio.de/images/Logo-BN_Radio.png",
     "type": null,
     "sourceCount": 3,
-    "updatedAt": "2026-11-22T04:03:17Z"
+    "updatedAt": "2026-11-22T10:02:02Z"
   },
   {
     "id": "awb_f57c55eac446fe41ce7f",
@@ -27479,6 +27574,27 @@
     "updatedAt": "2026-01-15T08:11:43Z"
   },
   {
+    "id": "awb_1aa8e996c255ec37d76a",
+    "name": "delta radio DER BESTE ROCKPOP RELOADED",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "rock pop"
+    ],
+    "homepage": "https://www.deltaradio.de/streams/delta-radio-der-beste-rockpop-reloaded",
+    "favicon": "https://agginfo.quantumcast.cloud/m/rc/branding/9dfa995e-74b4-4c7e-ad90-0ff06e936f54/delta_rockpop_600x600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T17:06:40Z"
+  },
+  {
     "id": "awb_b94df30ed54c9b03d1e2",
     "name": "delta radio deutsch",
     "country": "DE",
@@ -28245,7 +28361,7 @@
     "favicon": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T09:51:54Z"
+    "updatedAt": "2026-11-22T09:58:12Z"
   },
   {
     "id": "awb_dd7af43ca72bd29fd557",
@@ -35383,7 +35499,7 @@
   },
   {
     "id": "awb_2c39ab8b1c48624644da",
-    "name": "Erzgebirgs Weihnacht",
+    "name": "Erzgebirgs-Weihnacht",
     "country": "DE",
     "subdivision": "Sachsen",
     "languages": [
@@ -46535,6 +46651,20 @@
     "updatedAt": "2026-01-15T00:17:33Z"
   },
   {
+    "id": "awb_2a3d841f987388ea176c",
+    "name": "Jack fm Berlin",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": "https://i.postimg.cc/Gm8rmrBf/Jack-FM-Logo-black.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T14:40:32Z"
+  },
+  {
     "id": "awb_340ab0c4c6e975012130",
     "name": "Jahfari",
     "country": "DE",
@@ -53064,7 +53194,7 @@
       "techno"
     ],
     "homepage": "https://www.leipzig-beatzz.de/",
-    "favicon": "https://assets.website-files.com/5f5ff904eff116e46575e21b/5f6007dbf31b43899f2f51c9_Beatzz%20Logo%20Wei%C3%9F-p-800.png",
+    "favicon": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/75/28/9c75281d-92b1-a6e0-8373-cc9dc35a86d0/source/60x60bb.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -54531,7 +54661,7 @@
     "favicon": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T14:43:08Z"
+    "updatedAt": "2026-11-22T14:44:20Z"
   },
   {
     "id": "awb_0acf0fb62bebbeb83a99",
@@ -55337,7 +55467,7 @@
   },
   {
     "id": "awb_deb33c8f9e0dc702a70e",
-    "name": "MDR KULTUR",
+    "name": "mdr kultur",
     "country": "DE",
     "subdivision": "Saxony-Anhalt",
     "languages": [
@@ -55361,7 +55491,7 @@
       "mitteldeutscher rundfunk",
       "popkultur"
     ],
-    "homepage": "https://www.mdr.de/kultur/radio/index.html",
+    "homepage": "https://www.mdr.de/",
     "favicon": "https://www.mdr.de/kultur/logo-118-resimage_v-variantSmall1x1_w-512.png",
     "type": null,
     "sourceCount": 2,
@@ -59826,6 +59956,56 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_781a93973bac05929477",
+    "name": "NeuwiedFM",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "2000s",
+      "80s",
+      "90s",
+      "charts",
+      "hits",
+      "neuwied",
+      "pop"
+    ],
+    "homepage": "https://neuwiedfm.de/radio",
+    "favicon": "https://neuwiedfm.de/logo-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T13:03:55Z"
+  },
+  {
+    "id": "awb_901b5e5329014a87cb9f",
+    "name": "NeuwiedFM Oldies",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "neuwied",
+      "oldies"
+    ],
+    "homepage": "https://neuwiedfm.de/radio",
+    "favicon": "https://neuwiedfm.de/logo-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T13:03:56Z"
   },
   {
     "id": "awb_53ba249408c55ea6e966",
@@ -65426,14 +65606,13 @@
     ],
     "categories": [],
     "tags": [
-      "greek",
-      "music"
+      "greek"
     ],
     "homepage": "https://radio14.gr/",
-    "favicon": "https://radio14.gr/assets/brand/icon-light-512.png",
+    "favicon": "https://stream.radio14.gr/static/radio14-logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-17T16:09:04Z"
+    "updatedAt": "2026-11-22T16:09:22Z"
   },
   {
     "id": "awb_d0568b53c51bacebc1b8",
@@ -78226,7 +78405,7 @@
   },
   {
     "id": "awb_7b44365c7ed5c851f87c",
-    "name": "radio santec",
+    "name": "Radio Santec",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -78234,7 +78413,7 @@
     "tags": [
       "religous"
     ],
-    "homepage": "https://radio-santec.com/",
+    "homepage": "https://radio-santec.com/en/home/audio/",
     "favicon": "https://radio-santec.com/wp-content/uploads/2019/02/radio_-santec_logo.png",
     "type": null,
     "sourceCount": 2,
@@ -82833,6 +83012,35 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_72840d11658933efd590",
+    "name": "Radiofloh",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "ambient",
+      "kids",
+      "pop"
+    ],
+    "tags": [
+      "entspannung",
+      "familie",
+      "hits für kids",
+      "kinderdisco",
+      "kinderlieder",
+      "kinderradio",
+      "meditation",
+      "schlaflieder"
+    ],
+    "homepage": "https://www.ricorewi-radio.de/sender/radiofloh",
+    "favicon": "https://assets.laut.fm/a9bbb966f16584a0222c2ebd70217d6f?t=_640x640",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T18:28:46Z"
+  },
+  {
     "id": "awb_b7bea39074ffb3644d7c",
     "name": "RadioFunAndMore,RadioFunAndMore",
     "country": "DE",
@@ -83399,6 +83607,35 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_12d1c93e1a8f89ab1b06",
+    "name": "RadiumFM Berlin",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de",
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "jazz",
+      "news"
+    ],
+    "tags": [
+      "ai generated",
+      "jazz",
+      "news",
+      "retro",
+      "rhythm and blues",
+      "soul",
+      "swing"
+    ],
+    "homepage": "https://radiumfm.com/berlin",
+    "favicon": "https://radiumfm.com/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T11:56:06Z"
   },
   {
     "id": "awb_0172670a06f17b45e318",

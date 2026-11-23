@@ -5289,14 +5289,14 @@
   },
   {
     "id": "awb_6701abcebd45b6846fd2",
-    "name": "D-Code 96.2",
+    "name": "D-Code 96,2",
     "country": "GR",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://962.gr/",
-    "favicon": "https://962.gr/wp-content/uploads/2022/08/dcode-2.png",
+    "favicon": "https://962.gr/wp-content/uploads/2022/08/cropped-Untitled-design-2.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z"
@@ -12774,29 +12774,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_c093efb26666024b0b16",
-    "name": "Melody Music",
-    "country": "GR",
-    "subdivision": "Volos",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "folk",
-      "pop"
-    ],
-    "tags": [
-      "folk",
-      "greek",
-      "pop"
-    ],
-    "homepage": "https://www.melodymusicradio.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:59:53Z"
-  },
-  {
     "id": "awb_77ba5c6f51961102982d",
     "name": "Memories Radio",
     "country": "GR",
@@ -12852,27 +12829,6 @@
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-06-27T15:49:55Z"
-  },
-  {
-    "id": "awb_f967c5c5000180e96c7e",
-    "name": "Merakia",
-    "country": "GR",
-    "subdivision": "Trikala",
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "folk"
-    ],
-    "tags": [
-      "greek folk",
-      "greek traditional"
-    ],
-    "homepage": "https://zeno.fm/radio/Merakia/",
-    "favicon": "https://zeno.fm/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:28:20Z"
   },
   {
     "id": "awb_b5051f70f0e26137ade5",
@@ -26527,6 +26483,24 @@
     "updatedAt": "2026-01-15T03:53:08Z"
   },
   {
+    "id": "awb_4822d899a0c113d33b00",
+    "name": "Vari FM",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://www.varifm.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/a4d78c6e-a220-4edc-862f-e65c0a1330ea.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T17:03:56Z"
+  },
+  {
     "id": "awb_f0e2e0920e7e26ba6e3f",
     "name": "Vasilis Pliakas",
     "country": "GR",
@@ -26740,6 +26714,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_656c02f9e0a9134ee2ff",
+    "name": "Vibe Radio GR",
+    "country": "GR",
+    "subdivision": "Thessalía",
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "afro house",
+      "deep",
+      "electronic",
+      "house",
+      "melodic"
+    ],
+    "homepage": "https://vibefm.gr/",
+    "favicon": "https://vibefm.gr/assets/vibe-radio-Bkmua5df.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T17:23:10Z"
   },
   {
     "id": "awb_26f727756ac6cfeb89b2",
@@ -26956,6 +26952,24 @@
     "type": "internet",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:57:28Z"
+  },
+  {
+    "id": "awb_d53b54b07e050f2f33b1",
+    "name": "Vorras",
+    "country": "GR",
+    "subdivision": "Kentrikí Makedonía",
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://radiovorras.webnode.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/04a32864-2ba6-4d2f-8e66-bcb5b4a45c37.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T18:37:29Z"
   },
   {
     "id": "awb_ef4b445aad24e181ce10",
@@ -31653,8 +31667,8 @@
     "tags": [
       "student radio"
     ],
-    "homepage": "https://my.aegean.gr/radio/Lesvos/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/dca9db0a-5ae1-4b14-bf03-07199db9425f.jpg",
+    "homepage": "http://my.aegean.gr/radio/Lesvos/",
+    "favicon": "http://my.aegean.gr/radio/Lesvos/pix/now-playing-lofosbox3.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-31T18:38:20Z"
@@ -32787,8 +32801,8 @@
     "updatedAt": "2026-11-19T12:48:41Z"
   },
   {
-    "id": "awb_49e11cb760eddf1434a4",
-    "name": "Ορόδοξος λόγος",
+    "id": "awb_e22284b49865e8930f34",
+    "name": "Ορθόδοξος λόγος",
     "country": "GR",
     "subdivision": null,
     "languages": [
@@ -32804,7 +32818,7 @@
     "favicon": "https://rasp35.ddnsfree.com/icons/ortdx.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-19T12:54:41Z"
+    "updatedAt": "2026-11-22T23:39:25Z"
   },
   {
     "id": "awb_9d7f27051a167a98112d",
@@ -35573,6 +35587,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:59:52Z"
+  },
+  {
+    "id": "awb_d5747c55f7a2ef3fcc58",
+    "name": "Φυστίκι 92",
+    "country": "GR",
+    "subdivision": "Stereá Elláda",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://fystikiradio.gr/",
+    "favicon": "https://onradio.gr/wp-content/uploads/2020/04/fystiki92_round_white.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T22:02:15Z"
   },
   {
     "id": "awb_30349253d0c4ed613e4c",

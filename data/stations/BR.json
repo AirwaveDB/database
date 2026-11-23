@@ -144,24 +144,6 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_3eb5e73ee8218e7dd80f",
-    "name": "105 FM - É só alegria!",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "hip-hop"
-    ],
-    "tags": [
-      "rap"
-    ],
-    "homepage": "https://radio105fm.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z"
-  },
-  {
     "id": "awb_5645a9f30f93f61a6025",
     "name": "105.7 FM Anápolis",
     "country": "BR",
@@ -696,6 +678,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_2d80ccd2543707639836",
+    "name": "98,9 FM Curitiba",
+    "country": "BR",
+    "subdivision": "Paraná",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://98fmcuritiba.com.br/",
+    "favicon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.98fmcuritiba.com.br/&size=128",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T17:40:01Z"
   },
   {
     "id": "awb_247b813c822af25f4be8",
@@ -1400,7 +1396,7 @@
   },
   {
     "id": "awb_9dd03b3d54f99ea3c97a",
-    "name": "Arara Azul FM",
+    "name": "Arara azul FM",
     "country": "BR",
     "subdivision": "PA",
     "languages": [],
@@ -2864,6 +2860,22 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_6afa85301acb31764a5f",
+    "name": "Clube FM 101,5 Curitiba",
+    "country": "BR",
+    "subdivision": "Curitiba Paraná",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "sertanejo"
+    ],
+    "homepage": "https://clubefm.com/",
+    "favicon": "https://clubefm.com/wp-content/themes/clubefm/assets/img/home/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T16:42:59Z"
+  },
+  {
     "id": "awb_ea9a04e3c57028329173",
     "name": "Clube FM 96,5 MHz ZYC692 (Belo Horizonte - MG)",
     "country": "BR",
@@ -3460,6 +3472,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_be769d9e3fdb18047e82",
+    "name": "Difusora FM 101,9",
+    "country": "BR",
+    "subdivision": "Curitiba Paraná",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "curitiba"
+    ],
+    "homepage": "https://difusorafmcuritiba.com.br/",
+    "favicon": "https://cadena-high-volume.b-cdn.net/vdyy29clyp373mnw8bbune5hp9u2",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T17:24:55Z"
   },
   {
     "id": "awb_7dc00ab9160f92fbe731",
@@ -7438,6 +7466,20 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
+    "id": "awb_15668e6c1c5e2f43a3b6",
+    "name": "Massa FM Curitiba 97.7",
+    "country": "BR",
+    "subdivision": "Paraná",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://massa.com.br/massa-fm-curitiba/",
+    "favicon": "https://cdn.massa.com.br/uploads/2026/08/cropped-20260810164315-favicon-32x32.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T17:59:29Z"
+  },
+  {
     "id": "awb_2fa9f8e86530d4705204",
     "name": "Massa FM Maringá",
     "country": "BR",
@@ -8785,6 +8827,29 @@
     "updatedAt": "2026-01-14T22:54:09Z"
   },
   {
+    "id": "awb_7292447ef8d28e273f21",
+    "name": "Nordeste FM 95.3 - Feira de Santana",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "bahia",
+      "feira de santana",
+      "forro",
+      "musica",
+      "popular",
+      "sertanejo"
+    ],
+    "homepage": "https://nordestefm.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T22:56:34Z"
+  },
+  {
     "id": "awb_8ca0cd40bb14d9be5db0",
     "name": "Noroeste FM",
     "country": "BR",
@@ -9072,6 +9137,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-12T10:40:02Z"
+  },
+  {
+    "id": "awb_c32f3ba40665093b526d",
+    "name": "Nova Cerro Azul FM 87,9",
+    "country": "BR",
+    "subdivision": "Cerro Azul Paraná",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "forró",
+      "forró e sertanejo",
+      "sertanejo"
+    ],
+    "homepage": "https://www.cerroazulfm.com.br/",
+    "favicon": "https://favicon.run/favicon?domain=www.cerroazulfm.com.br&sz=128",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T16:56:06Z"
   },
   {
     "id": "awb_9740d0358ccd7346ef51",
@@ -10077,6 +10160,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:12:24Z"
+  },
+  {
+    "id": "awb_d467929572bdacb59f47",
+    "name": "Princesa FM 96.9 - Feira de Santana",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "bahia",
+      "entretenimento",
+      "feira de santana",
+      "hits",
+      "musica",
+      "pop"
+    ],
+    "homepage": "https://princesafm.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T22:56:32Z"
   },
   {
     "id": "awb_3530f6ea16965fca1149",
@@ -14017,7 +14125,7 @@
     "favicon": "https://radioaconchego.org/files/2015/03/cropped-cropped-5617042203_961643d1a0_o-180x180.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-17T09:58:01Z"
+    "updatedAt": "2026-11-22T10:13:46Z"
   },
   {
     "id": "awb_5f174301d3d27e6688ba",
@@ -14144,6 +14252,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-29T15:55:32Z"
+  },
+  {
+    "id": "awb_f7e4c0b91235767e1f01",
+    "name": "Radio Coracao FM 104.9 - Coracao de Maria",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "bahia",
+      "coracao de maria",
+      "ecletica",
+      "feira de santana",
+      "local",
+      "noticias",
+      "popular"
+    ],
+    "homepage": "https://coracaofm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T23:20:56Z"
   },
   {
     "id": "awb_85c0a0db2e13980e3b28",
@@ -14865,6 +14999,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
+  },
+  {
+    "id": "awb_986cef0d3b58a6b4a39c",
+    "name": "Radio Educadora 88.5 FM - Conceicao do Jacuipe",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "bahia",
+      "berimbau",
+      "conceicao do jacuipe",
+      "coracao de maria",
+      "ecletica",
+      "feira de santana",
+      "local",
+      "popular"
+    ],
+    "homepage": "https://www.radios.com.br/aovivo/radio-educadora-885-fm/27051",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T23:22:31Z"
   },
   {
     "id": "awb_22226beade0c56cd3bcb",
@@ -16170,6 +16329,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-24T11:47:42Z"
+  },
+  {
+    "id": "awb_d3b6fbe80a101a08969c",
+    "name": "Radio Geral - Feira de Santana",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "bahia",
+      "feira de santana",
+      "local",
+      "noticias",
+      "variedades"
+    ],
+    "homepage": "https://radiogeral.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T22:56:34Z"
   },
   {
     "id": "awb_99a527989d4843ca7119",
@@ -18761,6 +18944,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:19:36Z"
+  },
+  {
+    "id": "awb_c2a5fca1458b1b6be441",
+    "name": "Radio Mariense FM - Coracao de Maria",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "bahia",
+      "coracao de maria",
+      "feira de santana",
+      "local",
+      "mariense",
+      "popular",
+      "regional"
+    ],
+    "homepage": "https://zeno.fm/radio/radio-mariense-fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T23:25:10Z"
   },
   {
     "id": "awb_69d0e1d5c928e2e5978b",
@@ -22491,6 +22698,32 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_d0f6c84feafbdb778547",
+    "name": "Radio Sociedade News 102.1 FM - Feira de Santana",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "bahia",
+      "esportes",
+      "feira de santana",
+      "jornalismo",
+      "news",
+      "noticias",
+      "popular"
+    ],
+    "homepage": "https://sociedadenewsfm.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T22:56:34Z"
+  },
+  {
     "id": "awb_8d730cb5f6525760f280",
     "name": "Radio Soft Tribuna FM",
     "country": "BR",
@@ -24273,13 +24506,13 @@
   },
   {
     "id": "awb_13526dba636939f0e478",
-    "name": "Rádio Videira FM 102.9",
+    "name": "Rádio Videira - FM 102.9",
     "country": "BR",
     "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.radiov102.com.br/",
+    "homepage": "https://www.radiov102.com.br/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -24568,6 +24801,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-23T17:58:39Z"
+  },
+  {
+    "id": "awb_fc957b7a72c109441745",
+    "name": "Radio Web Coracao Noticias - Coracao de Maria",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "bahia",
+      "coracao de maria",
+      "coracao noticias",
+      "feira de santana",
+      "local",
+      "noticias",
+      "web radio"
+    ],
+    "homepage": "https://coracaonoticias.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T23:29:39Z"
   },
   {
     "id": "awb_a0d973d6dbe8f2b29a09",
@@ -25215,7 +25474,7 @@
     "favicon": "https://cdn.voxapps.app/emissoras/redeimpactogospel-rt261024112522.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-12T17:15:13Z"
+    "updatedAt": "2026-11-22T17:15:54Z"
   },
   {
     "id": "awb_f044fb8f749f17ca7581",
@@ -26049,6 +26308,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_87d1b735fccd9e868c7b",
+    "name": "Sol e Lua Web Rádio",
+    "country": "BR",
+    "subdivision": "RS",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "classic rock"
+    ],
+    "homepage": "https://www.soleluawebradio.radioonline.net.br/",
+    "favicon": "https://melhores-radios.netlify.app/icons/icon-192.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T22:15:41Z"
   },
   {
     "id": "awb_3d23313f6e7b2c627927",

@@ -30151,6 +30151,20 @@
     "updatedAt": "2026-01-15T05:42:32Z"
   },
   {
+    "id": "awb_27b9bb90b8cdd2eab593",
+    "name": "The Fox",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-22T14:03:51Z"
+  },
+  {
     "id": "awb_da5877015c030efc729b",
     "name": "The Hellenic Radio Station of Australia",
     "country": "AU",
@@ -30579,6 +30593,31 @@
     "updatedAt": "2026-01-15T05:25:41Z"
   },
   {
+    "id": "awb_0980bc341adf7a3a2116",
+    "name": "Totally Radio - Christmas",
+    "country": "AU",
+    "subdivision": "New South Wales",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "christmas",
+      "pop"
+    ],
+    "tags": [
+      "christmas",
+      "hits",
+      "holiday",
+      "pop",
+      "xmas"
+    ],
+    "homepage": "https://totallyradio.com.au/",
+    "favicon": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/c8ffa91d4_TotallylogoHORZwhite1066x248.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-21T23:36:46Z"
+  },
+  {
     "id": "awb_3e82a5295a0004d788e4",
     "name": "Totally Radio - Classical",
     "country": "AU",
@@ -30854,31 +30893,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:35:43Z"
-  },
-  {
-    "id": "awb_0980bc341adf7a3a2116",
-    "name": "Totally Radio Christmas)",
-    "country": "AU",
-    "subdivision": "New South Wales",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "christmas",
-      "pop"
-    ],
-    "tags": [
-      "christmas",
-      "hits",
-      "holiday",
-      "pop",
-      "xmas"
-    ],
-    "homepage": "https://totallyradio.com.au/XMAS/",
-    "favicon": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/c8ffa91d4_TotallylogoHORZwhite1066x248.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-21T23:36:46Z"
   },
   {
     "id": "awb_f5560561951440ba1c8d",
