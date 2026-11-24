@@ -1163,7 +1163,7 @@
       "techno",
       "trance"
     ],
-    "homepage": "https://hitcity.se/live",
+    "homepage": "https://hitcity.se/",
     "favicon": "https://hitcity.se/HITCITY_logga.png",
     "type": null,
     "sourceCount": 3,
@@ -1848,6 +1848,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_1a98ba68bff9292069e3",
+    "name": "Pieces of Pix",
+    "country": "SE",
+    "subdivision": "Boden",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country"
+    ],
+    "tags": [
+      "country"
+    ],
+    "homepage": "https://www.nobexradio.com/radio/ns-piecesofpix/pieces-of-pix",
+    "favicon": "https://api.nobexradio.com/public/stations/piecesofpix/logo",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T19:00:27Z"
   },
   {
     "id": "awb_e4e97f5774f8e3553169",
@@ -2650,6 +2670,25 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-10-12T20:24:14Z"
+  },
+  {
+    "id": "awb_46e9d4567399d48e4b60",
+    "name": "Radio Viking 101.4",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [
+      "sv"
+    ],
+    "categories": [],
+    "tags": [
+      "dansband",
+      "music"
+    ],
+    "homepage": "https://www.radioviking.se/",
+    "favicon": "https://www.radioviking.se/wp-content/uploads/2025/04/Loggo-ide-RadioViking_utan-300x143-4.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T07:12:02Z"
   },
   {
     "id": "awb_53f07c3767fe55ed6523",

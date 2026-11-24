@@ -1032,8 +1032,8 @@
       "rock",
       "toxic"
     ],
-    "homepage": "https://alexwolfradio.com/",
-    "favicon": "https://dabplus.live/logo/3487909e60c040fd8cc4534dd3f7f44a.png",
+    "homepage": "https://alexwolfradio.com/?from=radio_browser",
+    "favicon": "https://alexwolfradio.com/assets/radio-logo.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-14T23:05:03Z"
@@ -1852,7 +1852,7 @@
   },
   {
     "id": "awb_14a68cf1e031a1db0967",
-    "name": "Bilbo Hiria Irratia",
+    "name": "Bilbo Hiria irratia",
     "country": "ES",
     "subdivision": null,
     "languages": [],
@@ -8316,6 +8316,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:40:05Z"
+  },
+  {
+    "id": "awb_5f6ccd51dfe40f9ab6dc",
+    "name": "HitFM",
+    "country": "ES",
+    "subdivision": "Madrid, Comunidad de",
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "pop rock"
+    ],
+    "homepage": "https://www.hitfm.es/player",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T18:12:03Z"
   },
   {
     "id": "awb_71df30a7a190ffe4a592",

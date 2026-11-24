@@ -2568,6 +2568,47 @@
     "updatedAt": "2026-01-15T03:56:47Z"
   },
   {
+    "id": "awb_ca396af558b7243482bc",
+    "name": "FF Radio Live",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "ambient",
+      "blues",
+      "jazz",
+      "pop"
+    ],
+    "tags": [
+      "acoustic",
+      "bar",
+      "blues",
+      "cantautore",
+      "cha cha cha",
+      "chillout",
+      "easy listening",
+      "funk",
+      "instrumental",
+      "italian",
+      "italian pop",
+      "jazz",
+      "lounge",
+      "piano",
+      "relax",
+      "restaurant",
+      "saxophone",
+      "soft jazz",
+      "swing"
+    ],
+    "homepage": "https://www.youtube.com/@FFRadioLive/live",
+    "favicon": "https://pub-0e8ffac1ce9d4f9e8c1291b6ef9e7c4f.r2.dev/radio-spots/logo_radio.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T14:29:12Z"
+  },
+  {
     "id": "awb_3206264aeb918aea41fc",
     "name": "Flash Mania Abruzzo",
     "country": "IT",
@@ -6878,13 +6919,14 @@
       "elettronic",
       "morphing",
       "self product",
+      "synth",
       "synthwave"
     ],
     "homepage": "https://iw3qtf.sytes.net/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-22T14:39:19Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-23T11:42:29Z"
   },
   {
     "id": "awb_e08f436b6c1e24855812",
@@ -9856,6 +9898,29 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_8aa2873b58e5ea9e935f",
+    "name": "Radio Battikuore",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "rock",
+      "sicilia"
+    ],
+    "homepage": "https://www.radiomia.it/btkuore/",
+    "favicon": "https://www.radiomia.it/btkuore/images.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T15:40:39Z"
   },
   {
     "id": "awb_eaaf50d06da50c1103da",
@@ -16612,6 +16677,30 @@
     "updatedAt": "2026-08-01T14:55:49Z"
   },
   {
+    "id": "awb_474a2f25f281b247c824",
+    "name": "Radio m2o - On Air",
+    "country": "IT",
+    "subdivision": "Milano",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "commercial",
+      "dance",
+      "house",
+      "italianhits",
+      "italianpop"
+    ],
+    "homepage": "https://www.m2o.it/",
+    "favicon": "https://www.radioindiretta.fm/img-radio/m2o-radio.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T16:51:12Z"
+  },
+  {
     "id": "awb_f9affd3aa1b3318ff552",
     "name": "Radio Mach 5",
     "country": "IT",
@@ -17172,6 +17261,34 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_4a2d93a12bfc010aa8a2",
+    "name": "Radio Megamix | Your life, your beat",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "2000s hits",
+      "90s hits",
+      "contemporary hits",
+      "dance",
+      "musica anni 2000",
+      "musica anni 90",
+      "pop",
+      "today"
+    ],
+    "homepage": "https://www.megamix80.com/",
+    "favicon": "https://www.megamix80.com/apple-touch-icon-radiomegamix.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T10:28:01Z"
   },
   {
     "id": "awb_0ce00301ace2339d461b",

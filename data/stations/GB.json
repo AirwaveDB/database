@@ -2769,7 +2769,7 @@
       "soul",
       "talk"
     ],
-    "homepage": "https://www.laserinternational.co.uk/",
+    "homepage": "https://www.laserinternational.co.uk/archive-radio",
     "favicon": "https://primary.jwwb.nl/public/t/a/i/temp-dozjcpvcaeqpdalqxwlr/1000090564-ig-profile-photo-320-320-high.png?enable-io=true&width=532",
     "type": null,
     "sourceCount": 2,
@@ -3616,8 +3616,8 @@
     "homepage": "http://www.bbc.co.uk/radio1",
     "favicon": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-23T21:42:27Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-24T02:30:53Z"
   },
   {
     "id": "awb_5f020a72b10def67bb01",
@@ -8712,6 +8712,31 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
+    "id": "awb_33c10d224a101005ef3e",
+    "name": "Coast Internet Radio",
+    "country": "GB",
+    "subdivision": "Northern Ireland",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "classic hits",
+      "country",
+      "irish country",
+      "oldies"
+    ],
+    "homepage": "https://coastinternetradio.com/",
+    "favicon": "https://coastinternetradio.com/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T22:37:08Z"
+  },
+  {
     "id": "awb_9bee7c9259f63e09b5d8",
     "name": "Coffee Morning",
     "country": "GB",
@@ -8797,6 +8822,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-18T21:35:19Z"
+  },
+  {
+    "id": "awb_24d47cc88b4b485d4ad0",
+    "name": "Copper Box Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "christmas",
+      "pop"
+    ],
+    "tags": [
+      "christmas",
+      "holiday",
+      "pop"
+    ],
+    "homepage": "https://copperboxradio.co.uk/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T19:26:43Z"
   },
   {
     "id": "awb_bea96d89b4f5d6147b99",
@@ -20556,6 +20604,26 @@
     "updatedAt": "2026-01-15T03:00:48Z"
   },
   {
+    "id": "awb_705e55776eb2da7fcdc0",
+    "name": "Midnight Madness Metal eradio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "metal"
+    ],
+    "tags": [
+      "metal"
+    ],
+    "homepage": "https://midnight-madness.eradioweb.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T14:12:05Z"
+  },
+  {
     "id": "awb_5d8d791b7ccfeb6f1310",
     "name": "Mighty Radio Southport",
     "country": "GB",
@@ -29159,7 +29227,7 @@
   },
   {
     "id": "awb_e39e1943fb657da33006",
-    "name": "SLE Radio One",
+    "name": "SLE RADIO ONE",
     "country": "GB",
     "subdivision": null,
     "languages": [
@@ -29186,7 +29254,7 @@
   },
   {
     "id": "awb_992620418267c5de6192",
-    "name": "SLE Radio Rave",
+    "name": "SLE RADIO RAVE",
     "country": "GB",
     "subdivision": null,
     "languages": [
@@ -34525,7 +34593,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

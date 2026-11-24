@@ -4312,7 +4312,7 @@
       "trance"
     ],
     "homepage": "https://flashhits.com.br/",
-    "favicon": "https://flashhits.com.br/app/icons/icon-512.png",
+    "favicon": "https://lashhits.com.br/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-05T02:05:34Z"
@@ -9171,6 +9171,27 @@
     "updatedAt": "2026-01-14T22:54:06Z"
   },
   {
+    "id": "awb_7244cb333d747791e961",
+    "name": "Nova Era FM 104.5",
+    "country": "BR",
+    "subdivision": "Santa Catarina, SC",
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "rock",
+      "sertanejo"
+    ],
+    "homepage": "https://www.redenova.fm.br/ao-vivo-radio-nova-era/",
+    "favicon": "https://www.redenova.fm.br/wp-content/themes/novaplay/imagens/logo_novaera.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T12:09:45Z"
+  },
+  {
     "id": "awb_377b9897f59f06ad41c9",
     "name": "Nova FM",
     "country": "BR",
@@ -11505,7 +11526,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC",
+    "name": "Rádio AMC+",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -11520,7 +11541,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amclogo.png",
+    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -15676,6 +15697,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_6dd0ca3a208b7f0bc657",
+    "name": "Rádio Executiva Goiânia",
+    "country": "BR",
+    "subdivision": "Goiás",
+    "languages": [],
+    "categories": [
+      "jazz",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "jazz",
+      "mpb",
+      "pop rock",
+      "r&b"
+    ],
+    "homepage": "http://radioexecutiva.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T11:20:15Z"
   },
   {
     "id": "awb_71c77379ae59fb18f94f",
@@ -21038,6 +21082,22 @@
     "updatedAt": "2026-11-19T21:09:04Z"
   },
   {
+    "id": "awb_5b2845dfeccbb034a41a",
+    "name": "Rádio Pira FM",
+    "country": "BR",
+    "subdivision": "Pirapora , Minas Gerais",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "eclética"
+    ],
+    "homepage": "https://pirafm.blogspot.com/",
+    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRXcNruj09lt8K7xTKxPUwf3l5WDPIwiG9ugAX-mCoMi2cdWlOHdiw9TpTk2m2ebqm4FlmOl62-CQyy7rrc7-U3GWcneCn0n7gfyHSCBBIA17BI7CDDNJ5Y2AjMreVHlhoX9LiUFR0dM/s809/1fedb578341114438cb185a60d4976af.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T20:26:50Z"
+  },
+  {
     "id": "awb_55786ecdd25d80506d17",
     "name": "Radio Piratininga 1070 Jau",
     "country": "BR",
@@ -24506,13 +24566,13 @@
   },
   {
     "id": "awb_13526dba636939f0e478",
-    "name": "Rádio Videira - FM 102.9",
+    "name": "Rádio Videira FM 102.9",
     "country": "BR",
     "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiov102.com.br/",
+    "homepage": "http://www.radiov102.com.br/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,

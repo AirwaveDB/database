@@ -4654,6 +4654,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_c93ae6a0480d9e9b9b19",
+    "name": "Radio Argovia Classic Rock",
+    "country": "CH",
+    "subdivision": "Aargau",
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "classic rock"
+    ],
+    "homepage": "https://www.argovia.ch/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T16:46:54Z"
+  },
+  {
     "id": "awb_21bf8b3f65b45cd71760",
     "name": "Radio Argovia Hit Mix",
     "country": "CH",
@@ -4765,6 +4783,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-02T15:59:02Z"
+  },
+  {
+    "id": "awb_141e875f4868d7857a47",
+    "name": "Radio Canal 3",
+    "country": "CH",
+    "subdivision": "Bern",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://ajour.ch/de/canal3",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T15:12:10Z"
   },
   {
     "id": "awb_569f398e2660e7f64a9a",

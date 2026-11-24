@@ -23036,7 +23036,7 @@
     "id": "awb_57a7c6623f3b848ad6d8",
     "name": "BN-Radio",
     "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
+    "subdivision": "Sachsen",
     "languages": [
       "de"
     ],
@@ -23047,7 +23047,7 @@
       "electronic"
     ],
     "homepage": "http://www.bn-radio.de/",
-    "favicon": "https://stream.bn-radio.de/images/Logo-BN_Radio.png",
+    "favicon": "https://stream.radio-unicc.de/images/Logo-Radio_UNiCC.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-11-22T10:02:02Z"
@@ -37024,7 +37024,7 @@
       "rock",
       "soul"
     ],
-    "homepage": "https://flaemingradio.de/",
+    "homepage": "https://www.flaemingradio.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -76181,10 +76181,26 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
-    "id": "awb_111b51398f4845819796",
-    "name": "Radio PARALAX",
+    "id": "awb_48e45ae107657628a75e",
+    "name": "Radio Paloma Weihnachts-Schlager Stream",
     "country": "DE",
     "subdivision": "Nordrhein-Westfalen",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "weihnachts-schlager"
+    ],
+    "homepage": "https://www.radiopaloma.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T16:51:43Z"
+  },
+  {
+    "id": "awb_111b51398f4845819796",
+    "name": "Radio Paralax",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
     "languages": [
       "de"
     ],
@@ -81585,7 +81601,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://streamzentrale.de/",
-    "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
+    "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T11:23:48Z"

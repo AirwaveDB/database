@@ -2629,6 +2629,35 @@
     "updatedAt": "2026-09-06T17:05:16Z"
   },
   {
+    "id": "awb_7401ad95a754673dda4e",
+    "name": "Pyramid Radio",
+    "country": "RS",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "sr"
+    ],
+    "categories": [
+      "ambient",
+      "electronic",
+      "reggae"
+    ],
+    "tags": [
+      "ambient",
+      "dub",
+      "festival",
+      "organic house",
+      "psychill",
+      "psytrance",
+      "world music"
+    ],
+    "homepage": "https://radio.pyramidfestival.com/",
+    "favicon": "https://radio.pyramidfestival.com/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T21:25:19Z"
+  },
+  {
     "id": "awb_f8d5ee3c391be4623bee",
     "name": "Radio 012",
     "country": "RS",
@@ -5921,6 +5950,33 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:41:36Z"
+  },
+  {
+    "id": "awb_dce16dc53c9fe954074a",
+    "name": "Spa 105",
+    "country": "RS",
+    "subdivision": "Vojvodina",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "chillout",
+      "instrumental",
+      "meditation",
+      "new age",
+      "relaxation",
+      "spa",
+      "wellness"
+    ],
+    "homepage": "https://spa.105.rs/",
+    "favicon": "https://spa.105.rs/assets/img/spa-favicon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T11:36:54Z"
   },
   {
     "id": "awb_5570ee59507832e79e94",

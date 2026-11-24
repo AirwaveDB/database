@@ -4835,7 +4835,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox Radio",
+    "name": "Boombox radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -5132,7 +5132,7 @@
   },
   {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao-Radio",
+    "name": "Cacao Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -25909,7 +25909,7 @@
       "nostalgie",
       "webradio"
     ],
-    "homepage": "https://nostalgie.fr/",
+    "homepage": "https://www.nostalgie.fr/",
     "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA-WR-60-70.jpg?utm_source=chatgpt.com",
     "type": "internet",
     "sourceCount": 2,
@@ -41452,6 +41452,37 @@
     "updatedAt": "2026-01-15T02:40:05Z"
   },
   {
+    "id": "awb_f956bdc6f2b2604152cf",
+    "name": "RADIO VANNES",
+    "country": "FR",
+    "subdivision": "Bretagne",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "ambient",
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "80s",
+      "dance",
+      "disco",
+      "funk",
+      "lounge",
+      "pop",
+      "rock",
+      "soul",
+      "tio40"
+    ],
+    "homepage": "https://radio-vannes.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-23T17:12:46Z"
+  },
+  {
     "id": "awb_ebbc91296fbf0740d273",
     "name": "Radio Vassivière",
     "country": "FR",
@@ -41858,6 +41889,30 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-21T08:20:07Z"
+  },
+  {
+    "id": "awb_7691f4dc8e75d4009f1a",
+    "name": "RADIO-JLK",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "reggae"
+    ],
+    "tags": [
+      "african",
+      "afrobeat",
+      "ivorian music",
+      "reggae",
+      "zouglou"
+    ],
+    "homepage": "https://radiojlk.fr/",
+    "favicon": "https://studio10.vestaradio.com/uploads/user-music/2988/covers/cover_2988_1795438564_dd5b45.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T07:07:49Z"
   },
   {
     "id": "awb_4e4915ae64c864f55185",
@@ -46964,7 +47019,7 @@
     "favicon": "https://turkvox.eu/directory-assets/turkvox-radio-pwa-1200.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-18T22:11:07Z"
+    "updatedAt": "2026-11-23T22:11:34Z"
   },
   {
     "id": "awb_1cfef3b6daad55befecd",
