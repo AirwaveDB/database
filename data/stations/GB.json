@@ -2769,7 +2769,7 @@
       "soul",
       "talk"
     ],
-    "homepage": "https://www.laserinternational.co.uk/archive-radio",
+    "homepage": "https://www.laserinternational.co.uk/",
     "favicon": "https://primary.jwwb.nl/public/t/a/i/temp-dozjcpvcaeqpdalqxwlr/1000090564-ig-profile-photo-320-320-high.png?enable-io=true&width=532",
     "type": null,
     "sourceCount": 2,
@@ -11012,6 +11012,31 @@
     "updatedAt": "2026-05-20T05:38:58Z"
   },
   {
+    "id": "awb_75b48783c9b529d53c8c",
+    "name": "EB IT Radio Story Time",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "kids",
+      "talk"
+    ],
+    "tags": [
+      "audiobooks",
+      "children",
+      "kids",
+      "spoken word",
+      "stories"
+    ],
+    "homepage": "https://ebitradio.co.uk/stories",
+    "favicon": "https://ebitradio.co.uk/icons/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T09:38:59Z"
+  },
+  {
     "id": "awb_3094029f20a6c6160116",
     "name": "Echo Radio",
     "country": "GB",
@@ -11443,6 +11468,33 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-06T09:41:23Z"
+  },
+  {
+    "id": "awb_281f97f2eeabd4aa5091",
+    "name": "Evolvian Radio",
+    "country": "GB",
+    "subdivision": "Hampshire",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "drum and bass",
+      "electronic",
+      "hard trance",
+      "hardcore",
+      "progressive trance",
+      "psytrance",
+      "techno",
+      "vocal trance"
+    ],
+    "homepage": "https://evolvianradio.co.uk/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T19:40:25Z"
   },
   {
     "id": "awb_016101d2e1771c7e2f01",
@@ -28414,6 +28466,26 @@
     "updatedAt": "2026-01-15T07:45:36Z"
   },
   {
+    "id": "awb_bc597d7335a179647924",
+    "name": "Rovr",
+    "country": "GB",
+    "subdivision": "London",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic"
+    ],
+    "homepage": "https://www.rovr.live/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T20:48:45Z"
+  },
+  {
     "id": "awb_2693284f8760eda677d0",
     "name": "Royal Harbour Radio",
     "country": "GB",
@@ -29227,7 +29299,7 @@
   },
   {
     "id": "awb_e39e1943fb657da33006",
-    "name": "SLE RADIO ONE",
+    "name": "SLE Radio One",
     "country": "GB",
     "subdivision": null,
     "languages": [
@@ -29254,7 +29326,7 @@
   },
   {
     "id": "awb_992620418267c5de6192",
-    "name": "SLE RADIO RAVE",
+    "name": "SLE Radio Rave",
     "country": "GB",
     "subdivision": null,
     "languages": [
@@ -32884,6 +32956,28 @@
     "updatedAt": "2026-01-15T07:15:37Z"
   },
   {
+    "id": "awb_88ddce8a02dccbad504c",
+    "name": "True Flavas",
+    "country": "GB",
+    "subdivision": "Greater London",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "garage",
+      "house"
+    ],
+    "homepage": "https://www.tflive.uk/",
+    "favicon": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMAjQPE2Too9i6l0ZH_azwTLrKt2bNgiUdHqN9g2vs487yUCmBW6SJkec77_kWO01Os2T0iOD-PIKKlZaDl-nGtBfdcZvHvprjIgVRw=s1600",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T22:12:14Z"
+  },
+  {
     "id": "awb_7aa171239707a1f1286a",
     "name": "Trust AM Hospital Radio",
     "country": "GB",
@@ -33434,6 +33528,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
+  },
+  {
+    "id": "awb_1082b3b43d2212a327bb",
+    "name": "Upfront Dance",
+    "country": "GB",
+    "subdivision": "Brighton and Hove",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "garage",
+      "house"
+    ],
+    "homepage": "https://upfrontdance.com/",
+    "favicon": "https://upfrontdance.com/assets/Logo_Logo-Square-Colour_1750024935629-B5sb9P5x.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T21:53:43Z"
   },
   {
     "id": "awb_7ec2a726f1075539c1ca",
@@ -34593,7 +34709,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

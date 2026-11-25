@@ -4301,6 +4301,20 @@
     "updatedAt": "2026-01-15T05:35:49Z"
   },
   {
+    "id": "awb_1d30f50468f81c057f48",
+    "name": "balistiq",
+    "country": "FR",
+    "subdivision": "Indre",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.balistiq.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T16:56:34Z"
+  },
+  {
     "id": "awb_d8d38bf7e7139106d014",
     "name": "Banquise FM",
     "country": "FR",
@@ -4747,6 +4761,34 @@
     "updatedAt": "2026-01-15T04:43:25Z"
   },
   {
+    "id": "awb_558e14f1d27fc1f158c7",
+    "name": "BLAST FM",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "hip-hop",
+      "pop"
+    ],
+    "tags": [
+      "classics",
+      "dance",
+      "electro",
+      "hits",
+      "pop",
+      "rap",
+      "rnb",
+      "variété française"
+    ],
+    "homepage": "https://www.blastfm.fr/",
+    "favicon": "https://www.blastfm.fr/assets/img/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T12:51:33Z"
+  },
+  {
     "id": "awb_5b6b002d304f054b4b70",
     "name": "BLP Radio",
     "country": "FR",
@@ -4835,7 +4877,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox radio",
+    "name": "Boombox Radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -11027,7 +11069,7 @@
   },
   {
     "id": "awb_31f6b9c5492374858e6a",
-    "name": "FIP",
+    "name": "Fip",
     "country": "FR",
     "subdivision": null,
     "languages": [],
@@ -17795,8 +17837,8 @@
       "top 40 hits",
       "top hits"
     ],
-    "homepage": "https://hotmixradio.com/",
-    "favicon": "https://cdn.hotmixradio.com/hotmix-hits-fr-mp3.jpg",
+    "homepage": "https://www.hotmixradio.com/",
+    "favicon": "https://www.hotmixradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -19254,6 +19296,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-04T19:33:37Z"
+  },
+  {
+    "id": "awb_c9a2c6e1b33d71a117f2",
+    "name": "ICI berry",
+    "country": "FR",
+    "subdivision": "Indre",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.ici.fr/radio/berry",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T16:39:03Z"
   },
   {
     "id": "awb_dfd6e62197485ac34433",
@@ -21805,6 +21861,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-27T14:03:44Z"
+  },
+  {
+    "id": "awb_c513417811c0c660c065",
+    "name": "Lace Radio",
+    "country": "FR",
+    "subdivision": "Paris",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic"
+    ],
+    "homepage": "https://laceradio.live/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T20:45:04Z"
   },
   {
     "id": "awb_c072a9f4cdff2a8db117",
@@ -25909,7 +25985,7 @@
       "nostalgie",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/",
+    "homepage": "https://nostalgie.fr/",
     "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA-WR-60-70.jpg?utm_source=chatgpt.com",
     "type": "internet",
     "sourceCount": 2,
@@ -42039,6 +42115,40 @@
     "updatedAt": "2026-01-15T01:52:51Z"
   },
   {
+    "id": "awb_d2ca985f6a02940dabc5",
+    "name": "RadioBojo",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "electronic",
+      "hip-hop",
+      "reggae",
+      "rock"
+    ],
+    "tags": [
+      "beaujolais",
+      "brazilian",
+      "chanson",
+      "eclectic",
+      "electronic",
+      "funk",
+      "hip-hop",
+      "local radio",
+      "reggae",
+      "rock",
+      "samba",
+      "trip-hop"
+    ],
+    "homepage": "https://www.radiobojo.fr/",
+    "favicon": "https://www.radiobojo.fr/img/miniature/radiobojo-600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T19:43:45Z"
+  },
+  {
     "id": "awb_ec79a60926af5f361316",
     "name": "RadioCanut",
     "country": "FR",
@@ -47486,6 +47596,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-08T02:19:18Z"
+  },
+  {
+    "id": "awb_291a8bc16e0627b02506",
+    "name": "Vey House",
+    "country": "FR",
+    "subdivision": "Paris",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "deep house",
+      "house"
+    ],
+    "homepage": "https://veyhouse.fr/",
+    "favicon": "https://veyhouse.fr/visuels/logo-reseaux.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T14:50:58Z"
   },
   {
     "id": "awb_b99a3683b477796fe44f",

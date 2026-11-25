@@ -4542,6 +4542,24 @@
     "updatedAt": "2026-01-14T23:45:01Z"
   },
   {
+    "id": "awb_890a8c7664c5324e25ec",
+    "name": "Fm Che Junín de los Andes",
+    "country": "AR",
+    "subdivision": "Neuquén",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "comunitario",
+      "politica",
+      "variados"
+    ],
+    "homepage": "https://www.fmchecomunitaria.com.ar/",
+    "favicon": "https://enlatierra.com.ar/wp-content/uploads/2024/05/logo-che.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T14:31:54Z"
+  },
+  {
     "id": "awb_c1b954566ff7b7e91791",
     "name": "FM Cielo 103.3",
     "country": "AR",
@@ -4886,6 +4904,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:14:52Z"
+  },
+  {
+    "id": "awb_b3a9f73985dad518bedf",
+    "name": "FM Cuasar Junín",
+    "country": "AR",
+    "subdivision": "Neuquén",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://fmcuasar.com.ar/",
+    "favicon": "https://fmcuasar.com.ar/logo-fm-cuasar.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T14:42:30Z"
   },
   {
     "id": "awb_69d97f1f63ea58260e20",
@@ -8543,8 +8575,8 @@
       "del40al1",
       "los40"
     ],
-    "homepage": "https://www.los40.com.ar/",
-    "favicon": "https://lh3.googleusercontent.com/pw/AP1GczP6A5fU61BwITJ4aQjxjgjwh-8_Q_la-53jBYgq2TILGKYotr5Xc1t7VjReeGkZnCjGzWumgwOAZecpgLyd31kgoqQO9bptT7onkonCDqq1Q_3fzGcHNm5AMexuyOL5bczFy1wc35Pa5bfF5p28j0Gy=w1024-h1024-s-no-gm?authuser=0",
+    "homepage": "https://los40.com.ar/",
+    "favicon": "https://lh3.googleusercontent.com/pw/AP1GczOsgoH-saeC-gLWhZaNsw6ZRQO4kqFU6E5PA6_QxLKu6f-GX_H03dI-_Lx0yzLwerQzWXLstJZwyqmeLg6078pgs1uqDe-Z4tAO1EtHcBBQ88AHI0m-_CBDZOX-o-txyviptA01cUc8g8TyOjhiuHsW=w960-h960-s-no-gm?authuser=0",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-12T04:28:35Z"
@@ -13698,7 +13730,7 @@
     "id": "awb_a6f877a0993f1514bcbc",
     "name": "Radio Flow On",
     "country": "AR",
-    "subdivision": "Buenos Aires CABA",
+    "subdivision": "Buenos Aires Capital federal",
     "languages": [
       "es"
     ],

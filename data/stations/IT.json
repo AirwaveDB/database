@@ -17202,7 +17202,7 @@
     "id": "awb_2ec5014d6733135a428b",
     "name": "Radio Meano",
     "country": "IT",
-    "subdivision": "Veneto",
+    "subdivision": "Belluno",
     "languages": [
       "it"
     ],
@@ -19338,6 +19338,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:00:02Z"
+  },
+  {
+    "id": "awb_8c995e6dd9e33cb6175c",
+    "name": "Radio Pilafi",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it",
+      "sq"
+    ],
+    "categories": [],
+    "tags": [
+      "albanian music",
+      "musica albanese",
+      "web radio"
+    ],
+    "homepage": "https://www.radiopilafi.com/",
+    "favicon": "https://radio-pilafi.jah24dhs83y8b8.workers.dev/radio-pilafi-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-24T22:00:47Z"
   },
   {
     "id": "awb_c93cc31cb29f6ae12442",
