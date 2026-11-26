@@ -456,7 +456,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Attica, Athens",
+    "subdivision": "Kozani",
     "languages": [
       "el",
       "en"
@@ -27259,6 +27259,25 @@
     "updatedAt": "2026-01-15T08:42:10Z"
   },
   {
+    "id": "awb_b989b7c7d8b07a6e79ba",
+    "name": "Xristos 1000",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://www.xristos1000.gr/",
+    "favicon": "http://xristos1000.com/wp-content/uploads/2019/11/logo-1000-2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T19:56:21Z"
+  },
+  {
     "id": "awb_6d77de4144e1a3190774",
     "name": "XROMA 105.8",
     "country": "GR",
@@ -27490,6 +27509,42 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_ec8b092287fccf539bf8",
+    "name": "Zizanio",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://radiozizanio.blogspot.com/",
+    "favicon": "https://xatimg.com/image/2siuPDg8KWpZ.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T20:13:13Z"
+  },
+  {
+    "id": "awb_a61c5df27e5f6aa027ff",
+    "name": "Zografou",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://zografouwebtv.wixsite.com/mysite",
+    "favicon": "http://resources.live24.gr/resources/images/stations/9d7f0184-b63d-41f2-bf3d-75b5e935a9aa.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T20:18:15Z"
+  },
+  {
     "id": "awb_46b963ee2c8391ab336f",
     "name": "Zoo 90.8",
     "country": "GR",
@@ -27539,6 +27594,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:45Z"
+  },
+  {
+    "id": "awb_fd0c5e8b4a262be35beb",
+    "name": "Zoom 98.4",
+    "country": "GR",
+    "subdivision": "Ionía Nísia",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek pop",
+      "mainstream"
+    ],
+    "homepage": "https://www.facebook.com/zoom984corfu/",
+    "favicon": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-1/260437394_105238778661955_6141629088201852611_n.jpg?stp=dst-jpg_tt6&cstp=mx251x251&ctp=s200x200&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=kUUb_OFC_5QQ7kNvwFY5iet&_nc_oc=AdqRj4fJHqAxvA-BiNJXblzdRq8GKwzCrJ6Ys5Jo5smoTZDNT6maSmedovKR8lYWLog&_nc_zt=24&_nc_ht=scontent-lhr6-2.xx&_nc_gid=yiwpmgTSeEepAXdDlfS-wA&_nc_ss=79389&oh=00_AQSSQrlWC2d3kqYbplN--EmIeVL8P6uhBlQGlrxwFmWfCg&oe=6B0D063D",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T20:26:23Z"
   },
   {
     "id": "awb_1b16d3e6fcc7ca3731b6",
@@ -31667,8 +31741,8 @@
     "tags": [
       "student radio"
     ],
-    "homepage": "https://my.aegean.gr/radio/Lesvos/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/dca9db0a-5ae1-4b14-bf03-07199db9425f.jpg",
+    "homepage": "http://my.aegean.gr/radio/Lesvos/",
+    "favicon": "http://my.aegean.gr/radio/Lesvos/pix/now-playing-lofosbox3.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-31T18:38:20Z"

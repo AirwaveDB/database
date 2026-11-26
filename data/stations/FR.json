@@ -4877,7 +4877,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox Radio",
+    "name": "Boombox radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -11649,7 +11649,7 @@
       "pop"
     ],
     "homepage": "https://www.fip.fr/pop/webradio",
-    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/14f16d25-960c-4cf4-8e39-682268b1a0c1/200x200_fip-pop_ok.jpg",
+    "favicon": "https://www.fip.fr/dist/favicons/logo-120.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24"
@@ -13530,6 +13530,22 @@
     "updatedAt": "2026-01-15T02:15:15Z"
   },
   {
+    "id": "awb_c605342a507184400791",
+    "name": "France musique B.O. films",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "movies music"
+    ],
+    "homepage": "https://www.radiofrance.fr/francemusique",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T11:19:14Z"
+  },
+  {
     "id": "awb_b6c99281cfc63252e68e",
     "name": "France Musique Classique Plus",
     "country": "FR",
@@ -13651,6 +13667,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-11T21:10:29Z"
+  },
+  {
+    "id": "awb_b34fbea2c7cd4da3011b",
+    "name": "France musique La Jazz hifi sans pub",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz"
+    ],
+    "homepage": "https://www.radiofrance.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T11:47:33Z"
   },
   {
     "id": "awb_7f9edfa266e5b6239b0a",
@@ -17837,8 +17871,8 @@
       "top 40 hits",
       "top hits"
     ],
-    "homepage": "https://www.hotmixradio.com/",
-    "favicon": "https://www.hotmixradio.com/favicon.ico",
+    "homepage": "https://hotmixradio.com/",
+    "favicon": "https://cdn.hotmixradio.com/hotmix-hits-fr-mp3.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -21253,6 +21287,24 @@
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
+    "id": "awb_56d0fa025004a1b19bde",
+    "name": "La Baroque-sans pub",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical barock music"
+    ],
+    "homepage": "https://www.radiofrance.fr/francemusique",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T11:29:35Z"
+  },
+  {
     "id": "awb_5d47d92b96cfd8dc5d7b",
     "name": "La grande évasion",
     "country": "FR",
@@ -22729,6 +22781,33 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_29de0e3d456f7a79c61b",
+    "name": "Long Tracks Radio",
+    "country": "FR",
+    "subdivision": "Île-de-France",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "categories": [
+      "metal",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "disco",
+      "live",
+      "metal",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.long-tracks-radio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T17:11:44Z"
   },
   {
     "id": "awb_00c8dc9bf15ad28b3f06",

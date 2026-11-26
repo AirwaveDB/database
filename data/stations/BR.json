@@ -1289,6 +1289,22 @@
     "updatedAt": "2026-01-15T08:31:17Z"
   },
   {
+    "id": "awb_d5ec61f2df9dab33e847",
+    "name": "Antena A FM",
+    "country": "BR",
+    "subdivision": "Sao Paulo (Brazil)",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "flashback"
+    ],
+    "homepage": "https://www.antenaafm.com.br/",
+    "favicon": "https://www.antenaafm.com.br/wp-content/uploads/2020/09/LOGO-REDE.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T04:00:22Z"
+  },
+  {
     "id": "awb_ec58f1e35fb22c5b2e00",
     "name": "Antena Sul FM 102.7",
     "country": "BR",
@@ -9429,6 +9445,30 @@
     "updatedAt": "2026-10-16T21:46:31Z"
   },
   {
+    "id": "awb_70bfc9215784f54a0b36",
+    "name": "Oceano FM - Rio Grande",
+    "country": "BR",
+    "subdivision": "Rio Grande - RS",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "adult contemporary",
+      "news",
+      "pagode",
+      "samba",
+      "sertaneja"
+    ],
+    "homepage": "https://www.grupooceano.com.br/noticias",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T13:02:08Z"
+  },
+  {
     "id": "awb_0320b9539ad56c4f93cd",
     "name": "Odessa",
     "country": "BR",
@@ -15838,6 +15878,29 @@
     "updatedAt": "2026-11-19T21:14:51Z"
   },
   {
+    "id": "awb_28e7b667919baf14afd2",
+    "name": "Radio Flash Back Mix",
+    "country": "BR",
+    "subdivision": "Mato Grosso do Sul",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "flashback",
+      "mpb",
+      "pop"
+    ],
+    "homepage": "https://flashbackmix.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T20:46:24Z"
+  },
+  {
     "id": "awb_34e69b854364109af609",
     "name": "Rádio Flash Prime",
     "country": "BR",
@@ -20682,6 +20745,26 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_961274fba43da1865ac3",
+    "name": "Rádio ONCB",
+    "country": "BR",
+    "subdivision": "São Paulo - SP",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "adult contemporary",
+      "alternative",
+      "notícias"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T19:47:24Z"
+  },
+  {
     "id": "awb_564c96867456a72721ba",
     "name": "Rádio Opa 91.3 FM",
     "country": "BR",
@@ -22913,6 +22996,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
+  },
+  {
+    "id": "awb_eb8fc6e6666769d2e8e4",
+    "name": "Rádio Spiral",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "talk"
+    ],
+    "homepage": "https://spiralwealth.com.br/radio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T19:55:43Z"
   },
   {
     "id": "awb_96030c9f1c1fe421c3ed",

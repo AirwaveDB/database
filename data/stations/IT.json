@@ -17202,7 +17202,7 @@
     "id": "awb_2ec5014d6733135a428b",
     "name": "Radio Meano",
     "country": "IT",
-    "subdivision": "Belluno",
+    "subdivision": "Veneto",
     "languages": [
       "it"
     ],
@@ -23219,6 +23219,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-03-05T14:49:03Z"
+  },
+  {
+    "id": "awb_c1d3f151fbb910ccafa4",
+    "name": "Radio VanDobo",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "it"
+    ],
+    "categories": [],
+    "tags": [
+      "vandobo"
+    ],
+    "homepage": "https://vandobo.tail761e81.ts.net/public/radio_vandobo",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T16:02:14Z"
   },
   {
     "id": "awb_15bec3bbb723570ceb32",

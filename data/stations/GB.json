@@ -12725,6 +12725,27 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_13f7e68bc0c83e6e8701",
+    "name": "GalaxyAFiWe Station",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "debrainwashing",
+      "galaxyafiwe",
+      "galaxyafiwestation",
+      "galaxyradio"
+    ],
+    "homepage": "http://galaxyafiwe.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T12:39:18Z"
+  },
+  {
     "id": "awb_bd981ad83a36f156cae2",
     "name": "GamingNow Radio",
     "country": "GB",
@@ -17645,6 +17666,33 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:04Z"
+  },
+  {
+    "id": "awb_5b66e7d5e79bf4a1209e",
+    "name": "KM Radio — Global Indie Rock, Pop & Country",
+    "country": "GB",
+    "subdivision": "England",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "british",
+      "country",
+      "indie",
+      "indie rock",
+      "pop",
+      "uk radio"
+    ],
+    "homepage": "https://kmrecords.uk/",
+    "favicon": "https://kmrecords.uk/icons/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T18:36:01Z"
   },
   {
     "id": "awb_331b7f788282de2d8031",
@@ -25359,7 +25407,7 @@
       "pop"
     ],
     "homepage": "https://www.radiohillingdon.com/",
-    "favicon": "https://www.radiohillingdon.com/images/RH%20Logo%202023%20website_footer.png",
+    "favicon": "https://www.radiohillingdon.com/images/Listen%20Live%20Button%202023.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-05T23:55:52Z"
@@ -29299,7 +29347,7 @@
   },
   {
     "id": "awb_e39e1943fb657da33006",
-    "name": "SLE Radio One",
+    "name": "SLE RADIO ONE",
     "country": "GB",
     "subdivision": null,
     "languages": [
@@ -34709,7 +34757,7 @@
       "rock"
     ],
     "homepage": "https://www.xenonradio.co.uk/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+    "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-07T20:43:57Z"

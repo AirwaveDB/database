@@ -17783,7 +17783,7 @@
       "oldies"
     ],
     "homepage": "https://antenne.nrw/",
-    "favicon": "https://wikimedia.org/",
+    "favicon": "https://www.radio.de/100/antennenrw70erhits.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-09T10:51:45Z"
@@ -23857,6 +23857,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:08:30Z"
+  },
+  {
+    "id": "awb_4afa352a33c84e556830",
+    "name": "Bremen Eins Weihnachtsradio",
+    "country": "DE",
+    "subdivision": "Bremen",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "christmas"
+    ],
+    "tags": [
+      "christmas music"
+    ],
+    "homepage": "https://www.bremeneins.de/audios/webchannel/webchannel-bremen-eins-spezial-102.html",
+    "favicon": "https://www.bremeneins.de/static/img/favicons/apple-touch-icon-180.png?v=5",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T23:46:03Z"
   },
   {
     "id": "awb_0cd32e4866ff419b2578",
@@ -48988,6 +49008,24 @@
     "updatedAt": "2026-01-14T23:52:39Z"
   },
   {
+    "id": "awb_8ccfe924c9414fe8528d",
+    "name": "Klassik Radio Feel Good Klassik",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": "https://www.klassikradio.de/",
+    "favicon": "https://cdn-profiles.tunein.com/s320475/images/logod.png?t=639180609890000000",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T14:24:54Z"
+  },
+  {
     "id": "awb_749ffbef761cbe89499e",
     "name": "Klassik Radio Movie",
     "country": "DE",
@@ -55488,7 +55526,7 @@
   },
   {
     "id": "awb_deb33c8f9e0dc702a70e",
-    "name": "mdr kultur",
+    "name": "MDR KULTUR",
     "country": "DE",
     "subdivision": "Saxony-Anhalt",
     "languages": [
@@ -55512,7 +55550,7 @@
       "mitteldeutscher rundfunk",
       "popkultur"
     ],
-    "homepage": "https://www.mdr.de/",
+    "homepage": "https://www.mdr.de/kultur/radio/index.html",
     "favicon": "https://www.mdr.de/kultur/logo-118-resimage_v-variantSmall1x1_w-512.png",
     "type": null,
     "sourceCount": 2,
@@ -96050,6 +96088,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:06Z"
+  },
+  {
+    "id": "awb_0088b88774d93509fa57",
+    "name": "SWR1 Webradio: X-Mas",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "christmas"
+    ],
+    "tags": [
+      "christmas music"
+    ],
+    "homepage": "https://www.ardsounds.de/radio/swr/swr1/",
+    "favicon": "https://www.swr.de/assets/swr/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T23:24:10Z"
   },
   {
     "id": "awb_5f375651177fec905ad9",

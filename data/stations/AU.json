@@ -17054,6 +17054,20 @@
     "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
+    "id": "awb_515e6e32cf6122638255",
+    "name": "DBCR Donnybrook Balingup Community Radio 102.1",
+    "country": "AU",
+    "subdivision": "Western Australia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://dbcr.com.au/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T08:36:35Z"
+  },
+  {
     "id": "awb_d50775e185f7b6cb5bad",
     "name": "DCFM 88.9 - Dubbo - 88.9 FM (AAC)",
     "country": "AU",
@@ -17076,6 +17090,20 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:25:41Z"
+  },
+  {
+    "id": "awb_4d8b4683a84ccdfe2083",
+    "name": "Denmark FM 99.7",
+    "country": "AU",
+    "subdivision": "Western Australia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.denmarkfm.com.au/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T08:40:38Z"
   },
   {
     "id": "awb_5c45a7d116671ea0520e",
@@ -18951,6 +18979,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:19:04Z"
+  },
+  {
+    "id": "awb_79129ba3ef3834c4dfe0",
+    "name": "Harvey Community Radio 96.5",
+    "country": "AU",
+    "subdivision": "Western Australia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.harveycommunityradiofm.com.au/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T08:42:02Z"
   },
   {
     "id": "awb_6dffbb87b567134b43ae",
@@ -23290,6 +23332,26 @@
     "updatedAt": "2026-01-15T04:44:02Z"
   },
   {
+    "id": "awb_6d074f030e9dfac33d05",
+    "name": "Massive Anthems",
+    "country": "AU",
+    "subdivision": "Australia wide",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "edm"
+    ],
+    "homepage": "https://www.massivedance.com/",
+    "favicon": "https://www.massivedance.com/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T08:00:34Z"
+  },
+  {
     "id": "awb_a38ecbd822015ecdd6d4",
     "name": "Massive Chill",
     "country": "AU",
@@ -23320,6 +23382,26 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_04213cb7d59f6b3d5115",
+    "name": "Massive Dance",
+    "country": "AU",
+    "subdivision": "Australia wide",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "edm"
+    ],
+    "homepage": "https://www.massivedance.com/",
+    "favicon": "https://www.massivedance.com/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T07:51:48Z"
   },
   {
     "id": "awb_471bcaf786c4eb9d39aa",
@@ -26483,6 +26565,20 @@
     "type": "community",
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_6cdd68e8a87fcecef3de",
+    "name": "Radio Margaret River 101.9",
+    "country": "AU",
+    "subdivision": "Western Australia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiomargaretriver.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T08:38:51Z"
   },
   {
     "id": "awb_a09287c36085d178c8bf",
@@ -30593,31 +30689,6 @@
     "updatedAt": "2026-01-15T05:25:41Z"
   },
   {
-    "id": "awb_0980bc341adf7a3a2116",
-    "name": "Totally Radio - Christmas",
-    "country": "AU",
-    "subdivision": "New South Wales",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "christmas",
-      "pop"
-    ],
-    "tags": [
-      "christmas",
-      "hits",
-      "holiday",
-      "pop",
-      "xmas"
-    ],
-    "homepage": "https://totallyradio.com.au/",
-    "favicon": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/c8ffa91d4_TotallylogoHORZwhite1066x248.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-21T23:36:46Z"
-  },
-  {
     "id": "awb_3e82a5295a0004d788e4",
     "name": "Totally Radio - Classical",
     "country": "AU",
@@ -30893,6 +30964,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:35:43Z"
+  },
+  {
+    "id": "awb_0980bc341adf7a3a2116",
+    "name": "Totally Radio Christmas)",
+    "country": "AU",
+    "subdivision": "New South Wales",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "christmas",
+      "pop"
+    ],
+    "tags": [
+      "christmas",
+      "hits",
+      "holiday",
+      "pop",
+      "xmas"
+    ],
+    "homepage": "https://totallyradio.com.au/XMAS/",
+    "favicon": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/c8ffa91d4_TotallylogoHORZwhite1066x248.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-21T23:36:46Z"
   },
   {
     "id": "awb_f5560561951440ba1c8d",
@@ -32576,6 +32672,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:44:04Z"
+  },
+  {
+    "id": "awb_0042ede4dd89fec7b73b",
+    "name": "Ραδιο Γέφυρα 152,235 Σύδνεϋ - Radio Gefyra - Sydney",
+    "country": "AU",
+    "subdivision": "New South Wales",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "greek",
+      "greek music"
+    ],
+    "homepage": "https://platpub.com/radio/",
+    "favicon": "https://platpub.com/wp-content/uploads/2021/07/Logo-Radio-Gefyra_2021_2.gif",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T05:32:14Z"
   },
   {
     "id": "awb_036e0edeeecd5f5c07e1",

@@ -8300,6 +8300,24 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_4ab80da6db92e8359836",
+    "name": "Swiss Jazz HQ",
+    "country": "CH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz"
+    ],
+    "homepage": "https://www.radioswissjazz.ch/",
+    "favicon": "https://www.radioswissjazz.ch/_nuxt/img/rsj-logo-130.cb2cefc.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-25T21:30:48Z"
+  },
+  {
     "id": "awb_5315cc563f06e20f94de",
     "name": "Swiss Jazz Room",
     "country": "CH",
@@ -9275,6 +9293,68 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-08-24"
+  },
+  {
+    "id": "awb_ee66229c0f6fa3f3cfb9",
+    "name": "Zion Radio",
+    "country": "CH",
+    "subdivision": "Valais",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "categories": [
+      "blues",
+      "folk",
+      "hip-hop",
+      "jazz",
+      "metal",
+      "reggae",
+      "rock"
+    ],
+    "tags": [
+      "blues",
+      "chanson engagée",
+      "chansons françaises",
+      "classic hip hop",
+      "classic rock",
+      "conscious reggae",
+      "dub",
+      "dub reggae",
+      "eclectic music",
+      "electric",
+      "electric blues",
+      "electric guitar",
+      "folk",
+      "french blues",
+      "french chansons",
+      "funk",
+      "hard rock",
+      "hip hop",
+      "humour",
+      "independent music",
+      "jazz",
+      "musique originale",
+      "old school hip hop",
+      "poetry",
+      "political",
+      "protest songs",
+      "reggae",
+      "rock",
+      "rock metal",
+      "roots music",
+      "roots reggae",
+      "satire",
+      "ska",
+      "soul music",
+      "underground hip hop",
+      "worldmusic"
+    ],
+    "homepage": "https://zionradio.ch/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T10:52:40Z"
   },
   {
     "id": "awb_32fb29d47e8b8fafd204",
