@@ -2656,27 +2656,6 @@
     "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
-    "id": "awb_c6b1041acbe85fd99fec",
-    "name": "Atm.Fm",
-    "country": "RU",
-    "subdivision": "Санкт-Петербург",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "atmospheric",
-      "breakbeat",
-      "breaks",
-      "multilingual",
-      "progressive",
-      "электронная"
-    ],
-    "homepage": "http://atmfm.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_8f0f3a411dfbdaa8ed3a",
     "name": "atmoradio",
     "country": "RU",
@@ -3210,7 +3189,7 @@
     "favicon": "https://breaking-bass.ru/wp-content/uploads/2024/05/bb-air-logo-1.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T00:39:47Z"
+    "updatedAt": "2026-11-27T00:40:55Z"
   },
   {
     "id": "awb_e83d66287c6fd549c4c4",
@@ -11094,7 +11073,7 @@
     "favicon": "https://radio.melodiclab.studio/favicon.svg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T04:53:54Z"
+    "updatedAt": "2026-11-27T04:54:43Z"
   },
   {
     "id": "awb_eb7cf9ec210c19d5c6f6",
@@ -15507,20 +15486,6 @@
     "updatedAt": "2026-11-03T14:15:26Z"
   },
   {
-    "id": "awb_81ad6eaa2678be422b51",
-    "name": "Radio Alisa",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://listen8.myradio24.com/alisa",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-22T10:50:05Z"
-  },
-  {
     "id": "awb_516f3703bfb2025ed246",
     "name": "Radio AnimKLATU",
     "country": "RU",
@@ -15621,7 +15586,7 @@
     "id": "awb_04a1fb9b9934e6affc69",
     "name": "radio caprice",
     "country": "RU",
-    "subdivision": "Moscow (Russia)",
+    "subdivision": null,
     "languages": [
       "en"
     ],
@@ -15632,8 +15597,6 @@
     "tags": [
       "baroque",
       "classical",
-      "deathcore",
-      "melodic deathcore",
       "metal",
       "radio caprice",
       "thrash metal"
@@ -15641,8 +15604,8 @@
     "homepage": "http://radcap.ru/baroque.html",
     "favicon": "http://radcap.ru/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-26T01:36:12Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T04:32:05Z"
   },
   {
     "id": "awb_177d5d3e54edef4ab82d",
@@ -16981,24 +16944,6 @@
     "updatedAt": "2026-01-15T07:26:25Z"
   },
   {
-    "id": "awb_d23081bb5b9d3a3aed17",
-    "name": "Radio Caprice - Death Doom Metal",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "metal"
-    ],
-    "tags": [
-      "death-doom metal"
-    ],
-    "homepage": "http://www.radcap.ru/",
-    "favicon": "http://www.radcap.ru/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
-  },
-  {
     "id": "awb_fff3a4c113deb662d640",
     "name": "Radio Caprice - Death Metal",
     "country": "RU",
@@ -17998,24 +17943,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_a7d30e3696f29a401879",
-    "name": "Radio Caprice - Full-on",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [
-      "full-on"
-    ],
-    "homepage": "http://radcap.ru/",
-    "favicon": "http://radcap.ru/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:23:17Z"
-  },
-  {
     "id": "awb_15f66f7fe4e760f64f5f",
     "name": "Radio Caprice - Funk Rock / Metal",
     "country": "RU",
@@ -18959,8 +18886,8 @@
     "homepage": "http://radcap.ru/fusion.html",
     "favicon": "http://radcap.ru/graf2/rclogo.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-26T18:15:39Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_2bfbd7de5d88eed20327",
@@ -20260,27 +20187,6 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T07:10:26Z"
-  },
-  {
-    "id": "awb_372ca1bfce869e963b0a",
-    "name": "Radio Caprice - Progressive Rock",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "prog rock",
-      "progressive",
-      "progressive rock",
-      "rock"
-    ],
-    "homepage": "http://radcap.ru/progrock.html",
-    "favicon": "http://radcap.ru/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
     "id": "awb_98af1bf6df78fbe4353c",
@@ -26974,20 +26880,6 @@
     "updatedAt": "2026-11-18T12:58:56Z"
   },
   {
-    "id": "awb_f63920bc843bf67fdd12",
-    "name": "shanson vintage",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://217.168.245.147:8000/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-08T06:32:34Z"
-  },
-  {
     "id": "awb_6246c1ecef4db81c1e8d",
     "name": "Shoot`em Up Radio Station",
     "country": "RU",
@@ -27180,7 +27072,7 @@
     "favicon": "https://play.google.com/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T05:44:34Z"
+    "updatedAt": "2026-11-27T05:45:27Z"
   },
   {
     "id": "awb_605aa6f231103b2256d0",
@@ -27803,25 +27695,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_59c6683aa51b891953bd",
-    "name": "Teyvat Radio (Genshin Impact)",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "en",
-      "ja",
-      "ko",
-      "zh"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://170.168.112.96:8000/",
-    "favicon": "http://170.168.112.96:8000/branding/logo",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-19T14:24:34Z"
   },
   {
     "id": "awb_a2fae5aea91dcce37501",
@@ -36071,33 +35944,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
-    "id": "awb_7cedc542fb02ac111a58",
-    "name": "Отклик — стихи и отклики нейросети",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "talk"
-    ],
-    "tags": [
-      "ai",
-      "literature",
-      "poetry",
-      "russian poetry",
-      "spoken word",
-      "нейросеть",
-      "поэзия",
-      "стихи"
-    ],
-    "homepage": "https://otklik.taile7f452.ts.net/",
-    "favicon": "https://otklik.taile7f452.ts.net/apple-touch-icon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-16T17:43:48Z"
   },
   {
     "id": "awb_1c85f3005aa88263a2a9",

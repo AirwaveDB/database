@@ -2014,30 +2014,6 @@
     "updatedAt": "2026-05-14T13:13:30Z"
   },
   {
-    "id": "awb_39070a2c1457947d5544",
-    "name": "YFm 979 Takoradi",
-    "country": "GH",
-    "subdivision": null,
-    "languages": [
-      "ak",
-      "en"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "entertainment",
-      "music",
-      "news",
-      "variety"
-    ],
-    "homepage": "https://yfmghana.com/",
-    "favicon": "https://cdn-profiles.tunein.com/s208875/images/logog.jpg?t=157140",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-14T13:13:31Z"
-  },
-  {
     "id": "awb_ff6a6f90d99d7a38a4a9",
     "name": "YFm Accra",
     "country": "GH",
@@ -2078,6 +2054,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-14T13:09:42Z"
+  },
+  {
+    "id": "awb_6c4bed7eed1358c62755",
+    "name": "Zaa Radio",
+    "country": "GH",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "music",
+      "news",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://zaaradio.com/",
+    "favicon": "https://cdn.onlineradiobox.com/img/logo/8/7038.v3.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-05-14T13:13:31Z"
   },
   {
     "id": "awb_56073f8470b719bbcafd",

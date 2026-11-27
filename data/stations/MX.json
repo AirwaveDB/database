@@ -16942,6 +16942,34 @@
     "updatedAt": "2026-01-14T23:20:08Z"
   },
   {
+    "id": "awb_6a3869518c00703124fb",
+    "name": "Avalon Studio",
+    "country": "MX",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "metal",
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "80s",
+      "90s",
+      "metal",
+      "pop",
+      "rock",
+      "variedad"
+    ],
+    "homepage": "https://avalonstudio.tech/r/avalondemo",
+    "favicon": "https://stream.avalonstudio.tech/api/station/ferrasvl/art/816e90345dac4c1082a29595-1795735037.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T00:17:31Z"
+  },
+  {
     "id": "awb_a888e781fba9c416ab61",
     "name": "AZTLÁN RADIO 100.3 (Tepic) - 100.3 FM - XHTNY-FM - Sistema de Radio y Televisión de Nayarit - Tepic, Nayarit",
     "country": "MX",
@@ -20566,52 +20594,6 @@
     "updatedAt": "2026-01-15T04:41:13Z"
   },
   {
-    "id": "awb_2321132678b1d9c898f0",
-    "name": "DIGITAL 89 89.5 (Tonalá) - 89.5 FM - XHNAL-FM - Radio Chiapas - Tonalá, Chiapas",
-    "country": "MX",
-    "subdivision": "Tonalá, Chiapas",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "89.5 fm",
-      "américa",
-      "chiapas",
-      "concesión pública",
-      "digital 89",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "gobierno del estado de chiapas",
-      "latinoamérica",
-      "local",
-      "local information",
-      "local radio",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música en español",
-      "norteamérica",
-      "noticias locales",
-      "pública",
-      "radio",
-      "radio chiapas",
-      "radio pública",
-      "sureste",
-      "tonalá"
-    ],
-    "homepage": "http://radiotvycine.chiapas.gob.mx/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/4/43/XHNAL_digital89_logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:15:53Z"
-  },
-  {
     "id": "awb_bc4f17c17662a48753c9",
     "name": "Digital 99.5 FM",
     "country": "MX",
@@ -21697,29 +21679,6 @@
     "updatedAt": "2026-01-15T02:22:41Z"
   },
   {
-    "id": "awb_f7b00f598a219c7a890e",
-    "name": "El viejón (Torreón) - 99.5 FM [Torreón, Coahuila]",
-    "country": "MX",
-    "subdivision": "Coahuila",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "music",
-      "news",
-      "talk & speech"
-    ],
-    "homepage": "https://gpsmedia.com.mx/viejon/",
-    "favicon": "https://gpsmedia.com.mx/wp-content/uploads/2023/04/viejon-torreon-1-768x455.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:38:47Z"
-  },
-  {
     "id": "awb_bb2d30d41487d7b67d67",
     "name": "EL VIEJÓN 88.1 (Tantoyuca) - 88.1 FM - XHCCCR-FM - Grupo Franco Comunicaciones del Norte - Tantoyuca, Veracruz",
     "country": "MX",
@@ -21762,141 +21721,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-13T14:34:35Z"
-  },
-  {
-    "id": "awb_33fdb2b479613235c33e",
-    "name": "EL VIEJÓN 91.7 (El Salto) - 91.7 FM - XHCCAX-FM - Grupo Franco Comunicaciones del Norte - El Salto, Durango",
-    "country": "MX",
-    "subdivision": "El Salto, Durango",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "91.7 fm",
-      "américa",
-      "durango",
-      "el salto",
-      "el viejón",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "grupo franco comunicaciones del norte",
-      "latinoamérica",
-      "mexican music",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música en español",
-      "música mexicana",
-      "música popular mexicana",
-      "música regional",
-      "música regional mexicana",
-      "norteamérica",
-      "radio",
-      "regional",
-      "regional mexican",
-      "regional mexicana",
-      "regional music",
-      "regional radio"
-    ],
-    "homepage": "https://grupofrancocomunicacionesdelnorte.com/",
-    "favicon": "https://i.postimg.cc/65DjGm9x/elviejon917.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-16T12:15:46Z"
-  },
-  {
-    "id": "awb_8cddef1769fafe7739ba",
-    "name": "EL VIEJÓN 98.3 (San Pedro) - 98.3 FM - XHBF-FM - GPS Media - San Pedro, Coahuila",
-    "country": "MX",
-    "subdivision": "San Pedro, Coahuila",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "98.3 fm",
-      "américa",
-      "coahuila",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "gps media",
-      "latinoamérica",
-      "mexican music",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música del recuerdo",
-      "música en español",
-      "música mexicana",
-      "música popular mexicana",
-      "música regional",
-      "música regional mexicana",
-      "música tradicional mexicana",
-      "norteamérica",
-      "radio",
-      "regional",
-      "regional mexican",
-      "regional mexicana",
-      "regional music",
-      "san pedro coahuila",
-      "traditional mexican music"
-    ],
-    "homepage": "https://gpsmedia.com.mx/viejonsp/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/746/la-poderosa-983-fm.1b5f0b73.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:18:44Z"
-  },
-  {
-    "id": "awb_e2b380abcf5159b10a51",
-    "name": "EL VIEJÓN 99.5 (Torreón) - 99.5 FM - XHGZ-FM - GPS Media - Torreón, Coahuila",
-    "country": "MX",
-    "subdivision": "Torreón, Coahuila",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "99.5 fm",
-      "américa",
-      "coahuila",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "gps media",
-      "latinoamérica",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música del recuerdo",
-      "música en español",
-      "música mexicana",
-      "música popular mexicana",
-      "música regional",
-      "música regional mexicana",
-      "música tradicional mexicana",
-      "norteamérica",
-      "radio",
-      "regional",
-      "regional mexican",
-      "regional mexicana",
-      "regional music",
-      "traditional mexican music"
-    ],
-    "homepage": "https://gpsmedia.com.mx/viejon/",
-    "favicon": "https://thumbnail.anii.io/mx/radio-el-viejon-99-5-fm-torreon-mexico.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:57:28Z"
   },
   {
     "id": "awb_0b9b8b0393d55bff2fc2",
@@ -26522,40 +26346,6 @@
     "updatedAt": "2026-07-22T00:39:37Z"
   },
   {
-    "id": "awb_aa9cc04946730436cd87",
-    "name": "Fuerza Latina San Luis 102.5 FM",
-    "country": "MX",
-    "subdivision": "Sonora",
-    "languages": [],
-    "categories": [
-      "latin"
-    ],
-    "tags": [
-      "bachata",
-      "cumbia",
-      "cumbias",
-      "fuerza latina",
-      "latin",
-      "mexico",
-      "musica latina",
-      "música en español",
-      "música latina",
-      "música variada",
-      "norteamérica",
-      "reggaeton",
-      "regional mexicana",
-      "salsa",
-      "san luis río colorado",
-      "sonora",
-      "variado"
-    ],
-    "homepage": "https://es.streema.com/radios/XHLPS",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-23T03:31:19Z"
-  },
-  {
     "id": "awb_703c510a184604eff37c",
     "name": "Fusión 102.5 XHUAN-FM",
     "country": "MX",
@@ -30884,53 +30674,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-22T23:40:11Z"
-  },
-  {
-    "id": "awb_e65cc5cb6a528a767647",
-    "name": "LA CHULA 98.7 (Ensenada) - 98.7 FM - XHPEDV-FM - Grupo Uvizra - Ensenada, Baja California",
-    "country": "MX",
-    "subdivision": "Ensenada, Baja California",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "98.7 fm",
-      "américa",
-      "baja california",
-      "concesión social",
-      "ensenada",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "grupo uvizra",
-      "la chula",
-      "latinoamérica",
-      "mexican music",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música mexicana",
-      "música popular mexicana",
-      "música regional",
-      "música regional mexicana",
-      "norteamérica",
-      "radio",
-      "regional",
-      "regional mexican",
-      "regional mexicana",
-      "regional music",
-      "regional radio",
-      "servicio social",
-      "social"
-    ],
-    "homepage": "https://www.lachulafm.com.mx/",
-    "favicon": "https://i.postimg.cc/9fNM2b5S/lachula987.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-22T23:56:02Z"
   },
   {
     "id": "awb_8bfb4c33728f33efefa8",
@@ -41161,55 +40904,6 @@
     "updatedAt": "2026-03-30T00:59:21Z"
   },
   {
-    "id": "awb_e1f8f1b554df4db39ae1",
-    "name": "LA RAZA: La más perrona 🐶",
-    "country": "MX",
-    "subdivision": "Hermosillo, Sonora",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "105.1 fm",
-      "américa",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "grupo radiosa",
-      "hermosillo",
-      "la hora nacional",
-      "la raza",
-      "latinoamérica",
-      "mexican music",
-      "music",
-      "méxico",
-      "música",
-      "música en español",
-      "música mexicana",
-      "música popular mexicana",
-      "música regional",
-      "música regional mexicana",
-      "música tradicional mexicana",
-      "norteamérica",
-      "radio",
-      "radio sa",
-      "ranchera",
-      "rancheras",
-      "regional",
-      "regional mexican",
-      "regional mexicana",
-      "regional music",
-      "sonora",
-      "traditional mexican music"
-    ],
-    "homepage": "https://maxplay.com.mx/",
-    "favicon": "https://cdn-profiles.tunein.com/s88334/images/logod.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-28T01:03:09Z"
-  },
-  {
     "id": "awb_da0459fa3f708dd574ff",
     "name": "LA REINA 91.7 (Huauchinango) - 91.7 FM - XHPHBP-FM - Grupo ULTRA - Huauchinango, Puebla",
     "country": "MX",
@@ -46086,59 +45780,6 @@
     "updatedAt": "2026-01-15T07:55:29Z"
   },
   {
-    "id": "awb_4c7c8aee16c9d74b4dee",
-    "name": "LOVE FM 93.1 (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora",
-    "country": "MX",
-    "subdivision": "Hermosillo, Sonora",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "93.1 fm",
-      "américa",
-      "balada pop",
-      "balada romántica",
-      "clásicos",
-      "clásicos en español",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "grupo radiosa",
-      "hermosillo",
-      "latinoamérica",
-      "love",
-      "love fm",
-      "moi merino",
-      "music",
-      "música",
-      "música del recuerdo",
-      "música en español",
-      "música romántica",
-      "norteamérica",
-      "pop",
-      "pop clásico",
-      "pop en español",
-      "pop latino",
-      "pop music",
-      "pop rock",
-      "radio",
-      "retro hits",
-      "retro music",
-      "sonora"
-    ],
-    "homepage": "https://maxplay.com.mx/radios/love-931-fm",
-    "favicon": "https://i.postimg.cc/PJ9dpgpn/lovefm931.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-25T17:03:27Z"
-  },
-  {
     "id": "awb_3206289cfddca6edf055",
     "name": "Lupe (Zacatecas) - 93.3 FM - XHEXZ-FM - Grupo Radiofónico ZER - Guadalupe, ZA",
     "country": "MX",
@@ -46890,35 +46531,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_422cf65afba8e0b97ac7",
-    "name": "Máxima 100.9 FM Morelia",
-    "country": "MX",
-    "subdivision": "Michoacán",
-    "languages": [],
-    "categories": [
-      "latin",
-      "pop"
-    ],
-    "tags": [
-      "hits",
-      "latin pop",
-      "mexico",
-      "michoacán",
-      "morelia",
-      "máxima",
-      "norteamérica",
-      "pop",
-      "pop en español e inglés",
-      "radio sa",
-      "top 40"
-    ],
-    "homepage": "https://maximafm.com.mx/",
-    "favicon": "https://maximafm.com.mx/assets/images/logos/maximafm-morelia.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
     "id": "awb_4b4e261551f2b59696cf",
     "name": "MÁXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz",
     "country": "MX",
@@ -46965,112 +46577,6 @@
     "updatedAt": "2026-01-15T05:32:00Z"
   },
   {
-    "id": "awb_f35567e1e620a81a333f",
-    "name": "MAXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz",
-    "country": "MX",
-    "subdivision": "Veracruz, Veracruz",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin",
-      "news",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "88.5 fm",
-      "américa",
-      "boca del río",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "juvenil",
-      "latin pop",
-      "latinoamérica",
-      "local information",
-      "moi merino",
-      "méxico",
-      "música",
-      "música en español e inglés",
-      "música pop",
-      "música y noticias",
-      "norteamérica",
-      "pop",
-      "pop dance",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
-      "radio",
-      "sureste",
-      "veracruz",
-      "veracruz city"
-    ],
-    "homepage": "https://maxplay.com.mx/radios/maxima-veracruz-885-fm/",
-    "favicon": "https://cdn-profiles.tunein.com/s343938/images/logod.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-05T19:16:12Z"
-  },
-  {
-    "id": "awb_6528acf51b4d62a35c9d",
-    "name": "Máxima 93.1 FM Coatzacoalcos",
-    "country": "MX",
-    "subdivision": "Veracruz",
-    "languages": [],
-    "categories": [
-      "latin",
-      "pop"
-    ],
-    "tags": [
-      "coatzacoalcos",
-      "hits",
-      "latin pop",
-      "mexico",
-      "norteamérica",
-      "pop",
-      "pop en español e inglés",
-      "radio sa",
-      "top 40",
-      "veracruz"
-    ],
-    "homepage": "https://coatzacoalcos.maximafm.com.mx/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_7be4f903a37f1c2a5334",
-    "name": "Máxima 96.3 FM Hermosillo",
-    "country": "MX",
-    "subdivision": "Sonora",
-    "languages": [],
-    "categories": [
-      "latin",
-      "pop"
-    ],
-    "tags": [
-      "hermosillo",
-      "hits",
-      "latin pop",
-      "mexico",
-      "máxima",
-      "norteamérica",
-      "pop",
-      "pop en español e inglés",
-      "radio sa",
-      "sonora",
-      "top 40"
-    ],
-    "homepage": "https://hermosillo.maximafm.com.mx/",
-    "favicon": "https://hermosillo.maximafm.com.mx/assets/images/logos/maximafm-hermosillo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
     "id": "awb_e20dd92eaa8b8a897dd7",
     "name": "Maxima 96.3 FM Hermosillo",
     "country": "MX",
@@ -47096,148 +46602,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:10Z"
-  },
-  {
-    "id": "awb_49f505a069e40c46a485",
-    "name": "MAXIMA 96.9 (Tuxtla) - 96.9 FM - XHKR-FM - Grupo Radio SA - Tuxtla Gutiérrez, Chiapas",
-    "country": "MX",
-    "subdivision": "Tuxtla Gutiérrez, Chiapas",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "96.9 fm",
-      "américa",
-      "chiapas",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "grupo radiosa",
-      "juvenil",
-      "latinoamérica",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música en inglés",
-      "música pop",
-      "norteamérica",
-      "pop",
-      "pop dance",
-      "pop en inglés",
-      "pop music",
-      "pop rock",
-      "radio",
-      "radio sa",
-      "sureste",
-      "tuxtla",
-      "tuxtla gutiérrez",
-      "youth"
-    ],
-    "homepage": "https://maxplay.com.mx/radios/maxima-tuxtla-gutierrez-969-fm",
-    "favicon": "https://cdn-profiles.tunein.com/s90953/images/logod.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-02T13:50:01Z"
-  },
-  {
-    "id": "awb_50c1e356e14e4197618a",
-    "name": "MAXIMA 97.5 (Cancún) - 97.5 FM - XHCAN-FM - Grupo Radio SA - Cancún, Quintana Roo",
-    "country": "MX",
-    "subdivision": "Cancún, Quintana Roo",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "97.5 fm",
-      "américa",
-      "cancún",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "grupo radiosa",
-      "juvenil",
-      "latinoamérica",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música en español e inglés",
-      "música pop",
-      "norteamérica",
-      "pop",
-      "pop dance",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
-      "quintana roo",
-      "radio",
-      "radio sa",
-      "sureste",
-      "youth"
-    ],
-    "homepage": "https://maxplay.com.mx/radios/maxima-cancun-975-fm/",
-    "favicon": "https://cdn-profiles.tunein.com/s343465/images/logod.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-01T04:46:55Z"
-  },
-  {
-    "id": "awb_9a3d191634f4e20efd0d",
-    "name": "MAXIMA 98.9 (Ciudad del Carmen) - 98.9 FM - XHCMN-FM - Grupo Radio SA - Ciudad del Carmen, Campeche",
-    "country": "MX",
-    "subdivision": "Ciudad del Carmen, Campeche",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "98.9 fm",
-      "américa",
-      "campeche",
-      "ciudad del carmen",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "grupo radiosa",
-      "juvenil",
-      "latinoamérica",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música en inglés",
-      "música pop",
-      "norteamérica",
-      "pop",
-      "pop dance",
-      "pop en inglés",
-      "pop music",
-      "pop rock",
-      "radio",
-      "radio sa",
-      "sureste",
-      "youth"
-    ],
-    "homepage": "https://maxplay.com.mx/",
-    "favicon": "https://i.postimg.cc/y6tmw5PG/maxima989.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-02T11:12:34Z"
   },
   {
     "id": "awb_abe0e81bf500295fcd32",
@@ -49544,6 +48908,37 @@
     "updatedAt": "2026-01-15T04:34:00Z"
   },
   {
+    "id": "awb_8e378466f5ce9eda0dcf",
+    "name": "NovaIA Radio",
+    "country": "MX",
+    "subdivision": "Ciudad de México",
+    "languages": [],
+    "categories": [
+      "ambient",
+      "electronic",
+      "latin"
+    ],
+    "tags": [
+      "24/7",
+      "electronic",
+      "flamenco",
+      "internet radio",
+      "latin music",
+      "meditation music",
+      "music",
+      "music discovery",
+      "new age",
+      "relaxation music",
+      "spiritual",
+      "storytelling"
+    ],
+    "homepage": "https://novaiaradio.com/",
+    "favicon": "https://novaiaradio.com/static/uploads/album_art.1782256461.jpg",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T10:57:42Z"
+  },
+  {
     "id": "awb_b5ebc6f3b8d64669945e",
     "name": "NRGY 88.1 (Culiacán) - 88.1 FM - XHCSEB-FM - GPM (Grupo Promomedios) - Culiacán, Sinaloa",
     "country": "MX",
@@ -51756,57 +51151,6 @@
     "updatedAt": "2026-04-10T10:52:29Z"
   },
   {
-    "id": "awb_01b672ad7c89f2de5513",
-    "name": "Radio Activa 89.7 FM Hermosillo, Sonora",
-    "country": "MX",
-    "subdivision": "Hermosillo, Sonora",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "latin",
-      "pop"
-    ],
-    "tags": [
-      "89.7 fm",
-      "activa",
-      "américa",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "grupo radiosa",
-      "hermosillo",
-      "juvenil",
-      "latin pop",
-      "latino",
-      "latinoamérica",
-      "mainstream urban",
-      "mexico",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música en español",
-      "música latina",
-      "música pop",
-      "música urbana",
-      "norteamérica",
-      "pop en español",
-      "pop music",
-      "radio",
-      "radio activa",
-      "reggaetón",
-      "reguetón",
-      "sonora"
-    ],
-    "homepage": "https://maxplay.com.mx/radios/radioactiva-hermosillo-897-fm/",
-    "favicon": "https://cdn-profiles.tunein.com/s337424/images/logod.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-31T18:38:01Z"
-  },
-  {
     "id": "awb_dfc1f7c6b00c4ebf40c4",
     "name": "RADIO AGUERRIDO 96.9 (Álvaro Obregón) - 96.9 FM - XHSCCU-FM - Radio Aguerrida, A.C. - Álvaro Obregón, Michoacán",
     "country": "MX",
@@ -53086,6 +52430,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T08:15:25Z"
+  },
+  {
+    "id": "awb_cb457435e0d8485e28b2",
+    "name": "Radio Emisor Contenido con Calidad MÚSICA CLÁSICA MEXICANA TABASCO",
+    "country": "MX",
+    "subdivision": "Villahermosa, Tabasco",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "boleros mexicanos",
+      "musica clasica en español",
+      "música clásica mexicana",
+      "música clásica romántica"
+    ],
+    "homepage": "https://www.radioemisor.com/",
+    "favicon": "https://streamurl.link/images/broadcasts/368e531.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T02:44:44Z"
   },
   {
     "id": "awb_95fce1a366c3dc8394ab",
@@ -54969,23 +54334,6 @@
     "updatedAt": "2026-01-14T23:39:47Z"
   },
   {
-    "id": "awb_d3e730937fa5e16b17cf",
-    "name": "radio indecente",
-    "country": "MX",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "crossover",
-      "variada"
-    ],
-    "homepage": "https://legendary-games.net/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-05T23:13:26Z"
-  },
-  {
     "id": "awb_eb5530a949e376de7c5b",
     "name": "Radio IPN 95.7 FM",
     "country": "MX",
@@ -56326,20 +55674,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:59:16Z"
-  },
-  {
-    "id": "awb_7447fdbfda0e00903866",
-    "name": "radio sarape",
-    "country": "MX",
-    "subdivision": "Saltillo, Coahuila",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://radiosarape.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-12T18:15:44Z"
   },
   {
     "id": "awb_18e97314f5dd037ac2d2",
@@ -57763,44 +57097,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:54:19Z"
-  },
-  {
-    "id": "awb_371687ad5947399ca990",
-    "name": "RADIOTEC 100.1 (Saltillo) - 100.1 FM - XHINS-FM - Instituto Tecnológico de Saltillo - Saltillo, Coahuila",
-    "country": "MX",
-    "subdivision": "Saltillo, Coahuila",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "college"
-    ],
-    "tags": [
-      "100.1 fm",
-      "américa",
-      "coahuila",
-      "cultural",
-      "español",
-      "estación",
-      "fm",
-      "instituto tecnológico de saltillo",
-      "latinoamérica",
-      "moi merino",
-      "méxico",
-      "norteamérica",
-      "radio",
-      "radio universitaria",
-      "radiotec",
-      "saltillo",
-      "universitaria",
-      "university",
-      "university radio"
-    ],
-    "homepage": "https://www.xhins.com/",
-    "favicon": "https://www.xhins.com/images/logo-footer.png",
-    "type": "college",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-26T15:49:29Z"
   },
   {
     "id": "awb_1a515dab67c46c3c9aa8",
@@ -59380,7 +58676,7 @@
     "id": "awb_06c5ef8eb67057bf7485",
     "name": "Sonora Classic Rock (Hard & Metal)",
     "country": "MX",
-    "subdivision": "Hermosillo, Sonora",
+    "subdivision": "Sonora",
     "languages": [],
     "categories": [
       "metal",

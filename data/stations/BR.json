@@ -1838,7 +1838,7 @@
     "favicon": "https://radio.pevaio.top/static/uploads/album_art.1784866749.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-16T22:23:37Z"
+    "updatedAt": "2026-11-26T22:26:27Z"
   },
   {
     "id": "awb_fccba9e4f43fcf4b34c2",
@@ -4210,23 +4210,7 @@
     "favicon": "https://redefanfm.com.br/wp-content/uploads/2023/07/favicon.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T03:06:10Z"
-  },
-  {
-    "id": "awb_cd2981357d40dbe6e9a3",
-    "name": "Fay Só Forró das Antigas",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "forró"
-    ],
-    "homepage": "http://7602.site.stm-ip.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z"
+    "updatedAt": "2026-11-27T03:07:26Z"
   },
   {
     "id": "awb_b9651898e3bc0c9902fb",
@@ -4332,6 +4316,24 @@
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-05T02:05:34Z"
+  },
+  {
+    "id": "awb_c73aaf8c6df2e3b2a9b8",
+    "name": "Floresta Virtual",
+    "country": "BR",
+    "subdivision": "Rondônia",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "sertanejo"
+    ],
+    "homepage": "https://florestavirtual.com.br/",
+    "favicon": "https://redemasterbrasil.com.br/images123/capa.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T01:33:08Z"
   },
   {
     "id": "awb_9492d9c6553918abd92d",
@@ -7378,7 +7380,7 @@
     "favicon": "https://listen.maracutaia.fm/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-21T22:42:39Z"
+    "updatedAt": "2026-11-26T22:44:59Z"
   },
   {
     "id": "awb_cb7a6f86baf415a5ca5e",
@@ -11566,7 +11568,7 @@
   },
   {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC+",
+    "name": "Rádio AMC",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -11581,7 +11583,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
+    "favicon": "https://radioamc.com.br/shared/amclogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z"
@@ -11995,20 +11997,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:12Z"
-  },
-  {
-    "id": "awb_f5764a9d134c8c3b1833",
-    "name": "Radio Ativa Bom Despacho",
-    "country": "BR",
-    "subdivision": "Minas Gerais",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.radioativabdmg.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:11Z"
   },
   {
     "id": "awb_2e7e91799baf29050e56",
@@ -13510,7 +13498,7 @@
       "soul"
     ],
     "homepage": "https://radiocharme.com/",
-    "favicon": "https://app.box.com/s/lup4s98pb04e1nbx7l6uaimd67nmqihq",
+    "favicon": "https://dc701.4shared.com/img/zh0QflM_ge/s24/1a20fdcb808/512x512__1_?async&rand=0.8732736673507576",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-11-24T23:23:50Z"
@@ -14188,7 +14176,7 @@
     "favicon": "https://radioaconchego.org/files/2015/03/cropped-cropped-5617042203_961643d1a0_o-180x180.jpg",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T10:13:46Z"
+    "updatedAt": "2026-11-27T10:25:57Z"
   },
   {
     "id": "awb_5f174301d3d27e6688ba",
@@ -21449,24 +21437,6 @@
     "updatedAt": "2026-01-14T22:54:12Z"
   },
   {
-    "id": "awb_4f87f2c805b6a0ece33b",
-    "name": "RÁDIO PROFANUM MC MUNDIAL",
-    "country": "BR",
-    "subdivision": "São Paulo",
-    "languages": [
-      "pt"
-    ],
-    "categories": [],
-    "tags": [
-      "popular"
-    ],
-    "homepage": "https://cp-1.owh.radio.br/public/owh_s35319",
-    "favicon": "https://cp-1.owh.radio.br/static/uploads/owh_s35319/album_art.1791535879.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-11T23:22:10Z"
-  },
-  {
     "id": "awb_037a73ca16eb9b3cd5fd",
     "name": "Rádio Profecia Expresso",
     "country": "BR",
@@ -22783,20 +22753,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-11-08T12:31:30Z"
-  },
-  {
-    "id": "awb_9fc4e6e046dd78eb7b52",
-    "name": "Rádio Sintonia FM Salvador",
-    "country": "BR",
-    "subdivision": "Bahia",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://sintoniafm.noar.radio.br/",
-    "favicon": "https://www.google.com/search?q=logo+sintonia+fm&client=ms-android-xiaomi-terr1-rso2&hs=u3cV&sca_esv=38042b1a3801c004&sxsrf=APpeQns2TNlVMW0NeW7M4934JhH9akJr_Q:1784591351714&udm=2&sa=X&ved=2ahUKEwiw8tnsuOKVAxUxrpUCHbxTFgEQ7Al6BAgQEAM&biw=343&bih=623&dpr=2.1#sv=CAMSVxoyKhBlLWZ5UjY5Q2plRWlvLUpNMg5meVI2OUNqZUVpby1KTToOTHVCZzk1YkdYODJHSE0gBCoXCgFzEhBlLWZ5UjY5Q2plRWlvLUpNGAEwAUoECAEQAhgHIJTxhP4GSggQAhgBIAIoAQ",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-21T00:25:43Z"
   },
   {
     "id": "awb_575c715f4e5a8dd6f756",
@@ -25074,7 +25030,7 @@
     "favicon": "https://img.radios.com.br/radio/md/radio153613_1780312732.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T03:19:10Z"
+    "updatedAt": "2026-11-27T03:22:07Z"
   },
   {
     "id": "awb_32b2f31326201c413d21",
@@ -27155,6 +27111,36 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-02-24T12:25:30Z"
+  },
+  {
+    "id": "awb_1ba6b6d7c96677c2a134",
+    "name": "TimeWave Radio",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "pt"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "90s",
+      "adult contemporary",
+      "flashback",
+      "new wave",
+      "pop rock",
+      "synthpop"
+    ],
+    "homepage": "https://timewave.vidflowhub.com/",
+    "favicon": "https://timewave.vidflowhub.com/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T17:35:00Z"
   },
   {
     "id": "awb_ed91979d491d1243431d",

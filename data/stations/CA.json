@@ -1280,6 +1280,195 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_11d198c7cea469c96c98",
+    "name": "93 Radio — Infos (Français)",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "93 radio",
+      "actualités",
+      "educational",
+      "music",
+      "news"
+    ],
+    "homepage": "https://93problems.com/radio#news-fr",
+    "favicon": "https://93problems.com/radio/logos/news-fr-300.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T20:45:58Z"
+  },
+  {
+    "id": "awb_772d0f69028e780589e8",
+    "name": "93 Radio — Learn: Business & Money",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "93 radio",
+      "business",
+      "educational",
+      "finance",
+      "music",
+      "study"
+    ],
+    "homepage": "https://93problems.com/radio#learn-business",
+    "favicon": "https://93problems.com/radio/logos/learn-business-300.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T20:45:58Z"
+  },
+  {
+    "id": "awb_72a80b5261ccccbd7adc",
+    "name": "93 Radio — Learn: Security & Compliance",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "93 radio",
+      "compliance",
+      "cybersecurity",
+      "educational",
+      "music",
+      "study"
+    ],
+    "homepage": "https://93problems.com/radio#learn-security",
+    "favicon": "https://93problems.com/radio/logos/learn-security-300.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T20:45:58Z"
+  },
+  {
+    "id": "awb_a11973eb5f0ca4a868e5",
+    "name": "93 Radio — Learn: Tech",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "93 radio",
+      "educational",
+      "music",
+      "programming",
+      "study",
+      "technology"
+    ],
+    "homepage": "https://93problems.com/radio#learn-tech",
+    "favicon": "https://93problems.com/radio/logos/learn-tech-300.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T20:45:58Z"
+  },
+  {
+    "id": "awb_c1c32d7f8a0b9e7b9453",
+    "name": "93 Radio — Nachrichten (Deutsch)",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "93 radio",
+      "educational",
+      "music",
+      "nachrichten",
+      "news"
+    ],
+    "homepage": "https://93problems.com/radio#news-de",
+    "favicon": "https://93problems.com/radio/logos/news-de-300.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T20:45:58Z"
+  },
+  {
+    "id": "awb_5967461769118ee72e60",
+    "name": "93 Radio — News (English)",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "93 radio",
+      "ai music",
+      "educational",
+      "music",
+      "news"
+    ],
+    "homepage": "https://93problems.com/radio#news-en",
+    "favicon": "https://93problems.com/radio/logos/news-en-300.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T20:45:58Z"
+  },
+  {
+    "id": "awb_48efa931d2f36bac627e",
+    "name": "93 Radio — Notícias (Português)",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "93 radio",
+      "educational",
+      "music",
+      "news",
+      "notícias"
+    ],
+    "homepage": "https://93problems.com/radio#news-pt",
+    "favicon": "https://93problems.com/radio/logos/news-pt-300.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T20:45:58Z"
+  },
+  {
+    "id": "awb_a12d399dade7173deac1",
+    "name": "93 Radio — ニュース (日本語)",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "ja"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "93 radio",
+      "educational",
+      "music",
+      "news",
+      "ニュース"
+    ],
+    "homepage": "https://93problems.com/radio#news-ja",
+    "favicon": "https://93problems.com/radio/logos/news-ja-300.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T20:45:59Z"
+  },
+  {
     "id": "awb_23280f5b233e4adc6c26",
     "name": "93.7 JR Country - Vancouver, BC",
     "country": "CA",
@@ -4440,6 +4629,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T23:42:51Z"
+  },
+  {
+    "id": "awb_c6d8d2010729b3a46fa2",
+    "name": "cbc.ca windsor",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.cbc.ca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T18:55:10Z"
   },
   {
     "id": "awb_bd82db9e3ddfa3603766",
@@ -19369,7 +19572,7 @@
     "favicon": "https://fullspectrumradio.com/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T10:12:52Z"
+    "updatedAt": "2026-11-27T10:29:25Z"
   },
   {
     "id": "awb_14704d2b6cddb6ffab8a",
@@ -22208,24 +22411,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_ac6479201559ce4c0484",
-    "name": "New Classical FM",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": "https://classicalfm.ca/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-10T19:05:17Z"
-  },
-  {
     "id": "awb_7137eec50c1bea34a185",
     "name": "Newfoundland and Labrador's Pioneer Radio Station",
     "country": "CA",
@@ -24828,6 +25013,29 @@
     "updatedAt": "2026-03-23T13:47:59Z"
   },
   {
+    "id": "awb_648cc4ade514ca47ad26",
+    "name": "Republic of Avalon Radio",
+    "country": "CA",
+    "subdivision": "Newfoundland and Labrador",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "newfoundland",
+      "podcasts",
+      "talk",
+      "variety"
+    ],
+    "homepage": "https://republicofavalonradio.com/",
+    "favicon": "https://www.republicofavalonradio.com/roar_cover.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T06:36:31Z"
+  },
+  {
     "id": "awb_36ef370127b1c291b1eb",
     "name": "Rétro beat web radio Montréal",
     "country": "CA",
@@ -26740,7 +26948,7 @@
     "favicon": "https://streaming.coolmusicradio.com/static/uploads/cool_music/album_art.1795028776.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-23T01:01:00Z"
+    "updatedAt": "2026-11-27T03:38:49Z"
   },
   {
     "id": "awb_b554d958452af6027c5c",
@@ -27622,35 +27830,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:20:51Z"
-  },
-  {
-    "id": "awb_f0a6ae7b37547d21fe94",
-    "name": "Zoomer Radio (CFZM AM 740 / 96.7 FM)",
-    "country": "CA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "oldies",
-      "rock",
-      "talk"
-    ],
-    "tags": [
-      "big band sunday",
-      "classic rock",
-      "news",
-      "oldies",
-      "oldies 50's/60's",
-      "soul",
-      "talk"
-    ],
-    "homepage": "https://www.zoomerradio.ca/",
-    "favicon": "https://www.zoomerradio.ca/a87f2ca4683f924e053065867a6c6731.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-12T12:08:32Z"
   },
   {
     "id": "awb_4a1377cef51e19cdbee7",

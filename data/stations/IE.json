@@ -112,20 +112,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_8a4a04081b1814358153",
-    "name": "ABC 80s (Dublin)",
-    "country": "IE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://onlineradiobox.com/ie/abc80s/?cs=ie.abc80s",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/4/32814.v10.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T14:56:54Z"
-  },
-  {
     "id": "awb_6de98fbdb1bed70f72b1",
     "name": "ABC 80s Dublin - Neuer Stream",
     "country": "IE",
@@ -1066,6 +1052,23 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_69bc462da377bf2700b8",
+    "name": "Galway Bay FM",
+    "country": "IE",
+    "subdivision": "Galway",
+    "languages": [
+      "en",
+      "ga"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.galwaybayfm.ie/",
+    "favicon": "https://www.galwaybayfm.ie/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T10:26:39Z"
+  },
+  {
     "id": "awb_66cd8c9de48e9a770430",
     "name": "Gem New Wave Radio",
     "country": "IE",
@@ -1758,7 +1761,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio2.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T02:13:37Z"
+    "updatedAt": "2026-11-27T02:14:29Z"
   },
   {
     "id": "awb_09ce91223417498232c1",
@@ -1787,7 +1790,7 @@
     "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio2-90s00s.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T08:32:16Z"
+    "updatedAt": "2026-11-27T08:36:57Z"
   },
   {
     "id": "awb_0a70ca4c43d2f9c168be",

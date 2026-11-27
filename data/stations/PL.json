@@ -640,6 +640,44 @@
     "updatedAt": "2026-11-16T11:08:53Z"
   },
   {
+    "id": "awb_5c6ef90b62e0d58fcf1f",
+    "name": "BeRa Radio",
+    "country": "PL",
+    "subdivision": "Wielkopolskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "blues",
+      "electronic",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "blues",
+      "classic rock",
+      "electronic",
+      "electronic dance music",
+      "independent",
+      "independent artists",
+      "independent music",
+      "polish",
+      "polish music",
+      "polish pop music",
+      "polish rock",
+      "pop",
+      "pop music",
+      "pop rock",
+      "rhythm and blues",
+      "rock"
+    ],
+    "homepage": "https://host89747.iqhs.pl/song/radio/",
+    "favicon": "https://host89747.iqhs.pl/song/radio/logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T09:01:41Z"
+  },
+  {
     "id": "awb_24cabb45a15e5d44b795",
     "name": "BEST Radio (128Kbps)",
     "country": "PL",
@@ -659,7 +697,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T05:56:25Z"
+    "updatedAt": "2026-11-27T05:58:58Z"
   },
   {
     "id": "awb_16a33c59720939783c39",
@@ -681,7 +719,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T06:42:41Z"
+    "updatedAt": "2026-11-27T06:48:00Z"
   },
   {
     "id": "awb_d013b3c05f20f2b85511",
@@ -703,7 +741,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T01:15:33Z"
+    "updatedAt": "2026-11-27T01:17:54Z"
   },
   {
     "id": "awb_fe441815feb3d96d49cf",
@@ -725,7 +763,7 @@
     "favicon": "http://stream.radiobest.eu:8000/logo.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T03:48:04Z"
+    "updatedAt": "2026-11-27T03:49:42Z"
   },
   {
     "id": "awb_7461af3c7d18ae68c257",
@@ -1395,6 +1433,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:20:33Z"
+  },
+  {
+    "id": "awb_4742d6676b17816d4ec0",
+    "name": "ENERGIA_FM",
+    "country": "PL",
+    "subdivision": "Śląskie",
+    "languages": [
+      "pl"
+    ],
+    "categories": [],
+    "tags": [
+      "alternative"
+    ],
+    "homepage": "https://hosterion.pl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T16:20:18Z"
   },
   {
     "id": "awb_18e631ae31d8bbc19478",
@@ -6921,7 +6977,7 @@
     "favicon": "https://plyty.radiohit.net.pl/wp-content/uploads/2026/11/logo-radio-hit-512x512px.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-21T22:25:15Z"
+    "updatedAt": "2026-11-26T22:26:20Z"
   },
   {
     "id": "awb_6fef9f62209c030878f0",
@@ -10266,7 +10322,7 @@
     "favicon": "https://stream.radiosar.pl/logo.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T01:26:39Z"
+    "updatedAt": "2026-11-27T01:28:40Z"
   },
   {
     "id": "awb_8905c570441dc64baced",
@@ -11882,26 +11938,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T01:19:21Z"
-  },
-  {
-    "id": "awb_5369953a2c66a71072b0",
-    "name": "Radio Zodiak",
-    "country": "PL",
-    "subdivision": "mazowieckie",
-    "languages": [
-      "pl"
-    ],
-    "categories": [],
-    "tags": [
-      "love",
-      "love songs",
-      "romantic"
-    ],
-    "homepage": "https://radiozodiak.pl/",
-    "favicon": "https://radiozodiak.pl/wp-content/uploads/2020/06/IkonaRadioZodiak512x512.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-03-12T20:48:59Z"
   },
   {
     "id": "awb_e4aa26ccfb7e90d80d48",
@@ -14335,14 +14371,13 @@
       "pop"
     ],
     "tags": [
-      "polish pop music",
-      "pop"
+      "polish pop music"
     ],
     "homepage": "http://www.rmfon.pl/play,9",
     "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-07T08:01:25Z"
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T00:57:08Z"
   },
   {
     "id": "awb_f0dbe4cd11aea390c839",
@@ -15152,7 +15187,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T09:48:48Z"
+    "updatedAt": "2026-11-27T10:00:23Z"
   },
   {
     "id": "awb_6a8307b78259863d8db5",
@@ -15174,7 +15209,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T02:54:08Z"
+    "updatedAt": "2026-11-27T02:58:49Z"
   },
   {
     "id": "awb_a97c92681ac9281b8fbe",
@@ -15195,7 +15230,7 @@
     "favicon": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T01:41:28Z"
+    "updatedAt": "2026-11-27T01:42:34Z"
   },
   {
     "id": "awb_d4e9b951cc81c034ecc8",

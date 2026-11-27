@@ -2540,28 +2540,6 @@
     "updatedAt": "2026-08-24"
   },
   {
-    "id": "awb_951eee359a5b6b71d2bd",
-    "name": "caracol girardot 1230 am",
-    "country": "CO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "caracol radio",
-      "deportes",
-      "noticias",
-      "noticias locales"
-    ],
-    "homepage": "https://caracolgirardot.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-12T03:53:34Z"
-  },
-  {
     "id": "awb_472803f852367e882572",
     "name": "Caracol Radio (Bogotá) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogotá,",
     "country": "CO",
@@ -3150,32 +3128,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:56:44Z"
-  },
-  {
-    "id": "awb_fb1b5539f19f8ae15716",
-    "name": "cima stereo 105.6 usiacurí",
-    "country": "CO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "latin"
-    ],
-    "tags": [
-      "caribe",
-      "comunitaria",
-      "cristiana",
-      "crossover",
-      "latina",
-      "romántica",
-      "salsa",
-      "tropical",
-      "vallenato"
-    ],
-    "homepage": "https://zeno.fm/radio/cima-stereo/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-11T22:55:50Z"
   },
   {
     "id": "awb_dad2c23a5384a30d70df",
@@ -6908,20 +6860,6 @@
     "updatedAt": "2026-04-10T02:14:22Z"
   },
   {
-    "id": "awb_4f62e45533909676aeae",
-    "name": "la que te gusta 94.7 san juan del cesar",
-    "country": "CO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://laquetegusta.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-10T02:16:00Z"
-  },
-  {
     "id": "awb_9fb6bf8bafdec9ebb5d6",
     "name": "La Radio Deportes",
     "country": "CO",
@@ -7908,28 +7846,6 @@
     "updatedAt": "2026-10-12T14:50:24Z"
   },
   {
-    "id": "awb_8446e95f9a2f3cfa070b",
-    "name": "linda stereo 95.1 el doncello caquetá",
-    "country": "CO",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "crossover",
-      "noticias",
-      "rancheras",
-      "romántica",
-      "tropical"
-    ],
-    "homepage": "https://www.lindastereo.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T07:10:10Z"
-  },
-  {
     "id": "awb_38a4943f3c327ad0f19e",
     "name": "lloró stereo 88.3",
     "country": "CO",
@@ -8087,34 +8003,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_f56e489b587656e52804",
-    "name": "maravilla stereo 105.7 valledupar",
-    "country": "CO",
-    "subdivision": "VALLEDUPAR",
-    "languages": [],
-    "categories": [
-      "latin",
-      "news",
-      "sports"
-    ],
-    "tags": [
-      "colombia",
-      "crossover",
-      "deportes",
-      "noticias",
-      "noticias locales",
-      "ranchera",
-      "romántica",
-      "salsa",
-      "vallenato"
-    ],
-    "homepage": "https://www.maravillastereo.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-06-04T03:12:24Z"
-  },
-  {
     "id": "awb_7764cc489453b4ed2e81",
     "name": "Mas Baladas Stereo",
     "country": "CO",
@@ -8237,27 +8125,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:46:02Z"
-  },
-  {
-    "id": "awb_b41bceb6bc446bee8481",
-    "name": "Melodía Stereo",
-    "country": "CO",
-    "subdivision": "Bogotá",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "noticias",
-      "romántica"
-    ],
-    "homepage": "https://emisorascolombianas.online/melodia/",
-    "favicon": "https://emisorascolombianas.online/logos/melodia.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-19T21:36:14Z"
   },
   {
     "id": "awb_ef83735f44919345f04e",
@@ -12766,15 +12633,12 @@
     ],
     "tags": [
       "cumbia",
-      "entretenimiento",
-      "mix",
-      "music",
-      "música variada"
+      "music"
     ],
     "homepage": "https://www.3fronterasfmradio.com/",
-    "favicon": "https://www.3fronterasfmradio.com/wp-content/uploads/elementor/thumbs/LOGO-3F-PNG-LQMS-p3ngmrnud40j5dek649ohivgou3rrwy4tlo65dnpd8.png",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -13533,6 +13397,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-19T21:34:21Z"
+  },
+  {
+    "id": "awb_e47a91390ebd38639c2e",
+    "name": "vida abundante mompox 90.5",
+    "country": "CO",
+    "subdivision": "mom",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "cristiana"
+    ],
+    "homepage": "https://www.emisoravidaabundantefm.com/https://www.emisoravidaabundantefm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T04:11:11Z"
   },
   {
     "id": "awb_feded689b290580e5f23",

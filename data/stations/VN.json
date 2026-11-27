@@ -564,6 +564,55 @@
     "updatedAt": "2026-10-27T14:34:43Z"
   },
   {
+    "id": "awb_4344cfaa2850e6f74298",
+    "name": "VOV4",
+    "country": "VN",
+    "subdivision": "Hà Nội",
+    "languages": [
+      "vi"
+    ],
+    "categories": [
+      "news",
+      "public"
+    ],
+    "tags": [
+      "culture",
+      "news",
+      "public radio",
+      "vov"
+    ],
+    "homepage": "https://vov4.vov.vn/",
+    "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f1/fa/c6/f1fac6b5-19a7-9814-1635-0857df7a303c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T16:10:04Z"
+  },
+  {
+    "id": "awb_10a99132fe07bcf594ad",
+    "name": "VOV5",
+    "country": "VN",
+    "subdivision": "Hà Nội",
+    "languages": [
+      "en",
+      "vi"
+    ],
+    "categories": [
+      "news",
+      "public"
+    ],
+    "tags": [
+      "international",
+      "news",
+      "public radio",
+      "vov"
+    ],
+    "homepage": "https://vovworld.vn/",
+    "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f1/fa/c6/f1fac6b5-19a7-9814-1635-0857df7a303c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T16:10:05Z"
+  },
+  {
     "id": "awb_9d6e21e2b1bfb48ca61e",
     "name": "XONE FM",
     "country": "VN",

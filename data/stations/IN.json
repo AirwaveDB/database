@@ -1500,20 +1500,6 @@
     "updatedAt": "2026-01-14T23:48:52Z"
   },
   {
-    "id": "awb_46aeeffcff3446d5dcf8",
-    "name": "All India Radio Air Assamese",
-    "country": "IN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://onlineradiofm.in/stations/all-india-radio-air-assamese",
-    "favicon": "https://onlineradiofm.in/assets/image/radio/180/air-assamese1.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-15T12:47:12Z"
-  },
-  {
     "id": "awb_b635e07c4ffb7a62ce67",
     "name": "All India Radio AIR Punjabi",
     "country": "IN",
@@ -7661,6 +7647,28 @@
     "updatedAt": "2026-09-03T13:05:06Z"
   },
   {
+    "id": "awb_40f70c242ce85cc475d0",
+    "name": "News Radio (India)",
+    "country": "IN",
+    "subdivision": "Karnātaka",
+    "languages": [
+      "en",
+      "hi"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "india news",
+      "news"
+    ],
+    "homepage": "https://newsradio.live/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T13:02:27Z"
+  },
+  {
     "id": "awb_ecf85697bb9345753b83",
     "name": "njsunriseradio",
     "country": "IN",
@@ -12447,27 +12455,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-24"
-  },
-  {
-    "id": "awb_4549dd0666d3015385cf",
-    "name": "TMS Radio",
-    "country": "IN",
-    "subdivision": "Tamil Nadu",
-    "languages": [
-      "ta"
-    ],
-    "categories": [],
-    "tags": [
-      "south india",
-      "tamil",
-      "tm soundarajan",
-      "tms"
-    ],
-    "homepage": "https://www.tamilradios.com/tms-radio",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:56:18Z"
   },
   {
     "id": "awb_80e7cf8b67bcf24aaf1c",

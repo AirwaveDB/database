@@ -1764,7 +1764,7 @@
     "favicon": "https://aajamusic.com/_nuxt/icons/icon_64x64.fafdcd.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T07:47:01Z"
+    "updatedAt": "2026-11-27T07:48:55Z"
   },
   {
     "id": "awb_51d9026b7064707aeffe",
@@ -1784,7 +1784,7 @@
     "favicon": "https://aajamusic.com/_nuxt/icons/icon_64x64.fafdcd.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T02:19:36Z"
+    "updatedAt": "2026-11-27T02:26:44Z"
   },
   {
     "id": "awb_767e7c9e6067a15b3e35",
@@ -2888,34 +2888,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_48063760899a99300712",
-    "name": "AryStation - Beyond Reality",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "country",
-      "hip-hop",
-      "jazz"
-    ],
-    "tags": [
-      "all genres",
-      "country",
-      "hardstyle",
-      "hiphop",
-      "jazz",
-      "podcasts",
-      "storytelling"
-    ],
-    "homepage": "https://radio.metachitect.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-03-28T16:09:45Z"
   },
   {
     "id": "awb_bc4e2a54fc63f773497d",
@@ -4191,7 +4163,7 @@
     "favicon": "https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T06:16:54Z"
+    "updatedAt": "2026-11-27T06:18:33Z"
   },
   {
     "id": "awb_84c695af035e048128c3",
@@ -6994,7 +6966,7 @@
     "favicon": "https://cloud-4shg5daq1-hack-club-bot.vercel.app/0calm_n_chill_radio_logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T08:02:26Z"
+    "updatedAt": "2026-11-27T08:04:47Z"
   },
   {
     "id": "awb_243b7269629fb4e8cb56",
@@ -9583,7 +9555,7 @@
       "music",
       "the best dance music mix"
     ],
-    "homepage": "https://danceuk.danceradiouk.com/both-channels/",
+    "homepage": "https://danceuk.danceradiouk.com/",
     "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240224_044329769.jpg?alt=media&token=87304d76-106f-47e3-beb5-ea733ecba274",
     "type": null,
     "sourceCount": 2,
@@ -9692,7 +9664,7 @@
     "favicon": "http://www.dandelionradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T03:06:14Z"
+    "updatedAt": "2026-11-27T03:08:22Z"
   },
   {
     "id": "awb_a7094e4e43bfdc768d67",
@@ -10469,7 +10441,7 @@
     "favicon": "https://www.bidstonobservatory.org/favicon-32x32.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T02:54:10Z"
+    "updatedAt": "2026-11-27T03:00:21Z"
   },
   {
     "id": "awb_003cff6d52adc54f83ea",
@@ -12409,6 +12381,27 @@
     "updatedAt": "2026-02-17T20:45:15Z"
   },
   {
+    "id": "awb_68097402bf7837197a08",
+    "name": "Frome FM",
+    "country": "GB",
+    "subdivision": "Somerset",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "local"
+    ],
+    "homepage": "https://frome.fm/",
+    "favicon": null,
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T09:17:11Z"
+  },
+  {
     "id": "awb_582bf533cd2d645e3268",
     "name": "FSN World News",
     "country": "GB",
@@ -12548,20 +12541,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:11Z"
-  },
-  {
-    "id": "awb_489c7932e1b81006efff",
-    "name": "Fuse FM",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://fusefm.co.uk/",
-    "favicon": "https://fusefm.co.uk/wp-content/themes/yootheme/cache/1f/Logo-Transparent-1fa9e60d.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
     "id": "awb_6a54f52d06902bb54ff2",
@@ -19885,7 +19864,7 @@
     "homepage": "https://edge-ads-03-gos2.sharp-stream.com/1035.mp3",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24"
   },
   {
@@ -20369,6 +20348,29 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:20:39Z"
+  },
+  {
+    "id": "awb_42833a98ce9fe5182bdf",
+    "name": "MAX FM DERBY 92.2",
+    "country": "GB",
+    "subdivision": "Derby",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "drum and bass",
+      "news",
+      "pop"
+    ],
+    "homepage": "https://www.cloudrad.io/",
+    "favicon": "https://www.cloudrad.io/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T06:28:18Z"
   },
   {
     "id": "awb_2363d4024381b5416c95",
@@ -21976,24 +21978,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-19T22:32:25Z"
-  },
-  {
-    "id": "awb_4ffbdfbdb7483bc41954",
-    "name": "North Manchester FM",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community"
-    ],
-    "homepage": "https://northmanchester.fm/",
-    "favicon": "https://northmanchester.fm/wp-content/uploads/2011/08/nmfm10661.jpg",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-02-17T00:25:19Z"
   },
   {
     "id": "awb_af587c196c753e934530",
@@ -24705,7 +24689,7 @@
     "favicon": "https://buenavida.co.uk/wp-content/uploads/2022/08/Small-logo-for-Soundcloud.jpg",
     "type": "community",
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T00:20:45Z"
+    "updatedAt": "2026-11-27T00:28:31Z"
   },
   {
     "id": "awb_d9b84e2fe545cb4ac5d3",
@@ -25021,20 +25005,6 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
-    "id": "awb_d55a60d8b7df0414cafa",
-    "name": "Radio Connessa",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radioconnessa.com/",
-    "favicon": "https://www.radioconnessa.com/wp-content/uploads/2026/10/cropped-Logo-Radio-Connessa-Neon.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-10T21:48:26Z"
-  },
-  {
     "id": "awb_23340f0fca475d4d48ce",
     "name": "Radio Damblagii",
     "country": "GB",
@@ -25212,7 +25182,7 @@
     "favicon": "https://i0.wp.com/radioenrg.com/wp-content/uploads/2020/06/radio-enrg-triangle-black-10.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T10:27:59Z"
+    "updatedAt": "2026-11-27T10:33:27Z"
   },
   {
     "id": "awb_1b38758d4250c2f37858",
@@ -25407,7 +25377,7 @@
       "pop"
     ],
     "homepage": "https://www.radiohillingdon.com/",
-    "favicon": "https://www.radiohillingdon.com/images/Listen%20Live%20Button%202023.png",
+    "favicon": "https://www.radiohillingdon.com/images/RH%20Logo%202023%20website_footer.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-05T23:55:52Z"
@@ -27568,7 +27538,7 @@
     "favicon": "https://www.reformradio.co.uk/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T05:18:44Z"
+    "updatedAt": "2026-11-27T05:22:54Z"
   },
   {
     "id": "awb_89fa503ea86beb35b8f2",
@@ -27716,7 +27686,7 @@
     "favicon": "https://cdn.prod.website-files.com/62bc4b9b51f455e9a386fdd1/62be3ea967ffbeb32ccfe453_android-chrome-256x256.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T07:36:50Z"
+    "updatedAt": "2026-11-27T07:38:03Z"
   },
   {
     "id": "awb_1ad96a99543438d854f7",
@@ -28034,20 +28004,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-05-25T09:17:18Z"
-  },
-  {
-    "id": "awb_77272900798842e34b79",
-    "name": "Roch Valley Radio",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.rochvalleyradio.com/",
-    "favicon": "https://mmo.aiircdn.com/572/615a03a7cb961.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
   },
   {
     "id": "awb_b83c7c17336c557fd8f4",
@@ -29347,7 +29303,7 @@
   },
   {
     "id": "awb_e39e1943fb657da33006",
-    "name": "SLE RADIO ONE",
+    "name": "SLE Radio One",
     "country": "GB",
     "subdivision": null,
     "languages": [
@@ -30562,7 +30518,7 @@
     "favicon": "https://spaceunicorn.radio/assets/img/favicon.ico",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T06:25:34Z"
+    "updatedAt": "2026-11-27T06:28:20Z"
   },
   {
     "id": "awb_47dc726d0868a62c9060",
@@ -31013,26 +30969,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:31:27Z"
-  },
-  {
-    "id": "awb_419562e111118afea481",
-    "name": "Sun FM",
-    "country": "GB",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "https://sun-fm.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:22:41Z"
   },
   {
     "id": "awb_1977e5267b5b7ceaaa8c",
@@ -31649,26 +31585,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:09Z"
-  },
-  {
-    "id": "awb_c8a33388cec1eb246901",
-    "name": "TGM GOSPEL RADIO",
-    "country": "GB",
-    "subdivision": "Kent, Maidstone",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "religious"
-    ],
-    "tags": [
-      "gospel"
-    ],
-    "homepage": "https://www.triumphofgrace.org/radio",
-    "favicon": "https://images.squarespace-cdn.com/content/v1/5f0246eae9957a5692fa6f9f/1622903232918-CXRPNO11JIH15E9H806X/TGM+LOGO.JPG",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:11:01Z"
   },
   {
     "id": "awb_6e987089a23ff03e6557",
@@ -32460,7 +32376,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T10:20:56Z"
+    "updatedAt": "2026-11-27T10:26:20Z"
   },
   {
     "id": "awb_1a2831c0a454ad6e1da7",
@@ -32487,7 +32403,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T04:42:07Z"
+    "updatedAt": "2026-11-27T04:44:03Z"
   },
   {
     "id": "awb_9a85824534bace90044d",
@@ -32510,7 +32426,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T09:01:12Z"
+    "updatedAt": "2026-11-27T09:02:34Z"
   },
   {
     "id": "awb_1a0ff23f93608f601f69",
@@ -32533,7 +32449,7 @@
     "favicon": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T07:50:36Z"
+    "updatedAt": "2026-11-27T07:53:14Z"
   },
   {
     "id": "awb_0cd68043fc15aa1212bb",

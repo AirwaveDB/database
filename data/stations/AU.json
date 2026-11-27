@@ -819,6 +819,20 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_c0c3235aa6096a32e5b6",
+    "name": "2CUZFM bourke",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.2cuzfm.com/",
+    "favicon": "http://www.2cuzfm.com/resources/aboriginal_flag_photo_CACHE-600x345-nowatermark.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-09-30T07:15:42Z"
+  },
+  {
     "id": "awb_243fc5a075830df2d6cf",
     "name": "2Day FM",
     "country": "AU",
@@ -3710,7 +3724,7 @@
     "favicon": "https://terminal-dystopia.com/images/radio.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T07:24:57Z"
+    "updatedAt": "2026-11-27T07:26:53Z"
   },
   {
     "id": "awb_8b6bb977e85c1c6bf113",
@@ -8343,7 +8357,7 @@
     "favicon": "https://aspradio.au/static/uploads/browser_icon/original.1709873524.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-21T21:59:23Z"
+    "updatedAt": "2026-11-26T22:02:43Z"
   },
   {
     "id": "awb_a1ad733d531b36b1afea",
@@ -17122,27 +17136,6 @@
     "updatedAt": "2026-05-31T00:40:53Z"
   },
   {
-    "id": "awb_39ab556f13e0e6c68ddf",
-    "name": "Diffusion FM",
-    "country": "AU",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "diy",
-      "experimental",
-      "sound art",
-      "soundscape"
-    ],
-    "homepage": "https://diffusionfm.wordpress.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-31T13:30:47Z"
-  },
-  {
     "id": "awb_050509cf4d8e2a8dd3d6",
     "name": "DiscoRhythm",
     "country": "AU",
@@ -20328,7 +20321,7 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://kooriradio.com/",
+    "homepage": "https://www.kooriradio.com/",
     "favicon": "https://www.kooriradio.com/wp-content/uploads/2024/09/cropped-Koori_Radio_logo-192x192.png",
     "type": null,
     "sourceCount": 2,
@@ -27910,7 +27903,7 @@
     "homepage": "https://www.sbs.com.au/popasia/",
     "favicon": "https://www.sbs.com.au/_next/static/img/language/app-icon_128x128-18ef105.png",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-24"
   },
   {
@@ -30451,28 +30444,6 @@
     "updatedAt": "2026-11-05T09:06:48Z"
   },
   {
-    "id": "awb_a8c2135abf13019786f6",
-    "name": "Todays Country 94One - Gosford - 94.1 FM (AAC)",
-    "country": "AU",
-    "subdivision": "New South Wales",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community",
-      "country"
-    ],
-    "tags": [
-      "community radio",
-      "country"
-    ],
-    "homepage": "https://todayscountry94one.com/",
-    "favicon": "https://i.ibb.co/NsgbKTt/TC941-Logo-tiny.jpg",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:04:00Z"
-  },
-  {
     "id": "awb_8883ce0749115c6f4d38",
     "name": "Totally Radio - 00s (AAC+)",
     "country": "AU",
@@ -30687,6 +30658,31 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T05:25:41Z"
+  },
+  {
+    "id": "awb_0980bc341adf7a3a2116",
+    "name": "Totally Radio - Christmas",
+    "country": "AU",
+    "subdivision": "New South Wales",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "christmas",
+      "pop"
+    ],
+    "tags": [
+      "christmas",
+      "hits",
+      "holiday",
+      "pop",
+      "xmas"
+    ],
+    "homepage": "https://totallyradio.com.au/",
+    "favicon": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/c8ffa91d4_TotallylogoHORZwhite1066x248.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-11-21T23:36:46Z"
   },
   {
     "id": "awb_3e82a5295a0004d788e4",
@@ -30964,31 +30960,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:35:43Z"
-  },
-  {
-    "id": "awb_0980bc341adf7a3a2116",
-    "name": "Totally Radio Christmas)",
-    "country": "AU",
-    "subdivision": "New South Wales",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "christmas",
-      "pop"
-    ],
-    "tags": [
-      "christmas",
-      "hits",
-      "holiday",
-      "pop",
-      "xmas"
-    ],
-    "homepage": "https://totallyradio.com.au/XMAS/",
-    "favicon": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6965f4585024100db7206a50/c8ffa91d4_TotallylogoHORZwhite1066x248.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-11-21T23:36:46Z"
   },
   {
     "id": "awb_f5560561951440ba1c8d",
@@ -31305,7 +31276,7 @@
     "favicon": "http://www.abc.net.au/core-assets/triplej/favicon-32x32.png",
     "type": "public",
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T04:42:58Z"
+    "updatedAt": "2026-11-27T04:44:05Z"
   },
   {
     "id": "awb_aa9850ce6cd2e55a83cc",
@@ -31778,6 +31749,20 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:17:03Z"
+  },
+  {
+    "id": "awb_7368102bd4e92e79948e",
+    "name": "UltraCool Radio",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.ultracoolradio.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T22:54:45Z"
   },
   {
     "id": "awb_6a8f21e7662013192c8d",

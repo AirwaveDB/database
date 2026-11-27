@@ -456,7 +456,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Kozani",
+    "subdivision": "Attica, Athens",
     "languages": [
       "el",
       "en"
@@ -1640,7 +1640,7 @@
     "id": "awb_97841c7b9f3b00a5469b",
     "name": "A1812Radio",
     "country": "GR",
-    "subdivision": "Athens Greece",
+    "subdivision": "Attica, Athens",
     "languages": [],
     "categories": [],
     "tags": [],
@@ -5786,6 +5786,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-04-04T17:32:12Z"
+  },
+  {
+    "id": "awb_1296042dce80e842b3d8",
+    "name": "Diva FM 106.1",
+    "country": "GR",
+    "subdivision": "Pelopónnisos",
+    "languages": [
+      "el"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "greek",
+      "laika",
+      "pop"
+    ],
+    "homepage": "https://www.divafm.gr/?utm_source=chatgpt.com",
+    "favicon": "https://s6.e-resellers.gr/cp/musiclibrary/nowplay_divafm1061.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-26T22:33:55Z"
   },
   {
     "id": "awb_9656db03c014f4019ac2",
@@ -10354,7 +10376,7 @@
     "favicon": "https://www.kardia95.gr/wp-content/uploads/2021/10/cropped-Kardia-95-fm-Logo-white-no-background.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T00:10:49Z"
+    "updatedAt": "2026-11-27T00:14:59Z"
   },
   {
     "id": "awb_5daf4d1f3882debc368d",
@@ -11456,26 +11478,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-07-15T12:14:44Z"
-  },
-  {
-    "id": "awb_d89448d83022bd759cfd",
-    "name": "Laikos FM",
-    "country": "GR",
-    "subdivision": null,
-    "languages": [
-      "el"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "greek pop"
-    ],
-    "homepage": "https://www.laikos.gr/en/",
-    "favicon": "https://www.laikos.gr/templates/bt_medical/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:39:08Z"
   },
   {
     "id": "awb_435370a5358f5e85e8a3",
@@ -13066,7 +13068,7 @@
     "favicon": "https://www.metroradio.gr/wp-content/uploads/2020/05/metro-logo-for-web.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T00:27:54Z"
+    "updatedAt": "2026-11-27T00:33:18Z"
   },
   {
     "id": "awb_c167527670d82af2d214",
@@ -21510,7 +21512,7 @@
     "favicon": "https://meraklis.ddnsfree.com/logo.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T00:22:30Z"
+    "updatedAt": "2026-11-27T00:23:38Z"
   },
   {
     "id": "awb_346b3683b2aedf080370",
@@ -25236,7 +25238,7 @@
     "favicon": "https://studio19.gr/images/Studio19_logo2.png",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-21T22:00:39Z"
+    "updatedAt": "2026-11-26T22:01:49Z"
   },
   {
     "id": "awb_18893ffc2d3b47772e2e",
@@ -29031,25 +29033,6 @@
     "updatedAt": "2026-01-15T02:01:25Z"
   },
   {
-    "id": "awb_907367ac4c4586f8444a",
-    "name": "Δίαυλος 93",
-    "country": "GR",
-    "subdivision": "Drama",
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "greek pop",
-      "mainstream"
-    ],
-    "homepage": "http://www.facebook.com/DiavlosDrama",
-    "favicon": "http://resources.live24.gr/resources/images/stations/149e8b87-9afd-4572-8e7f-330d9935e8ec.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z"
-  },
-  {
     "id": "awb_1e25e1b8e397f89746ef",
     "name": "Δίαυλος 99.2",
     "country": "GR",
@@ -29413,22 +29396,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T07:56:58Z"
-  },
-  {
-    "id": "awb_15dcebbbf8b858142ee0",
-    "name": "Ελεύθερο Ραδιόφωνο 99",
-    "country": "GR",
-    "subdivision": "Kozani",
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "greek music"
-    ],
-    "homepage": "http://radio99.gr/",
-    "favicon": "https://resources.live24.gr/resources/images/stations/c042fea2-6d1e-4a24-a9f6-5eac5141ffe9.jpg",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-06T18:50:13Z"
   },
   {
     "id": "awb_8bee77e9f49c4c24ab3e",
@@ -32818,7 +32785,7 @@
   },
   {
     "id": "awb_59ba62e4639cf4316264",
-    "name": "Ορθοδοξία Παναγώπουλος",
+    "name": "Ορθοδοξία Παναγόπουλος",
     "country": "GR",
     "subdivision": null,
     "languages": [
@@ -32834,7 +32801,7 @@
     "favicon": "https://rasp35.ddnsfree.com/icons/pngpls.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-21T16:00:47Z"
+    "updatedAt": "2026-11-26T16:02:32Z"
   },
   {
     "id": "awb_837cf00dd2ba55712caa",
@@ -32854,7 +32821,7 @@
     "favicon": "https://rasp35.ddnsfree.com/icons/strpls.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-21T16:01:43Z"
+    "updatedAt": "2026-11-26T16:02:30Z"
   },
   {
     "id": "awb_cdfabf3b98a03ec2de32",
