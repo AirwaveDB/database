@@ -577,6 +577,24 @@
     "updatedAt": "2026-01-14T22:54:04Z"
   },
   {
+    "id": "awb_e5f531217d27c16b75a9",
+    "name": "96 FM Bauru",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "bauru"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T12:07:49Z"
+  },
+  {
     "id": "awb_9c410f3ba4126b9f4ac2",
     "name": "96 FM Maceió",
     "country": "BR",
@@ -1820,6 +1838,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:07Z"
+  },
+  {
+    "id": "awb_e8e31656e2ae412a2895",
+    "name": "Beira Mar",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "ubatuba"
+    ],
+    "homepage": "http://www.radiobeiramar.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T16:43:46Z"
   },
   {
     "id": "awb_0905ed870a14f248c9e4",
@@ -3255,6 +3291,24 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-08-22T03:57:57Z"
+  },
+  {
+    "id": "awb_92d5f2232067b9530a41",
+    "name": "Costa Azul FM",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "ubatuba"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T16:46:01Z"
   },
   {
     "id": "awb_9e02fd9900d4c2ec0688",
@@ -19043,6 +19097,24 @@
     "updatedAt": "2026-01-15T05:19:36Z"
   },
   {
+    "id": "awb_268a879312caa69c68d1",
+    "name": "Radio Maria FM",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "lençóis paulista"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T13:21:01Z"
+  },
+  {
     "id": "awb_c2a5fca1458b1b6be441",
     "name": "Radio Mariense FM - Coracao de Maria",
     "country": "BR",
@@ -22901,6 +22973,28 @@
     "updatedAt": "2026-01-14T22:54:03Z"
   },
   {
+    "id": "awb_deb4181113c3abe71d4f",
+    "name": "Rádio Som do Céu",
+    "country": "BR",
+    "subdivision": "Piauí",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://radiosomdoceudefloriano.redegospelbrasil.com/",
+    "favicon": "https://cdn.voxapps.app/emissoras/radiosomdoceu.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T13:37:04Z"
+  },
+  {
     "id": "awb_82baa1b2d94aaf6cc092",
     "name": "Rádio Som do Secreto",
     "country": "BR",
@@ -24627,13 +24721,13 @@
   },
   {
     "id": "awb_13526dba636939f0e478",
-    "name": "Rádio Videira FM 102.9",
+    "name": "Rádio Videira - FM 102.9",
     "country": "BR",
     "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "http://www.radiov102.com.br/",
+    "homepage": "https://www.radiov102.com.br/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,

@@ -4877,7 +4877,7 @@
   },
   {
     "id": "awb_200891c5235ae1cf1f57",
-    "name": "Boombox Radio",
+    "name": "Boombox radio",
     "country": "FR",
     "subdivision": "Occitanie",
     "languages": [
@@ -16671,8 +16671,8 @@
       "hotmix",
       "pop"
     ],
-    "homepage": "https://hotmixradio.com/",
-    "favicon": "https://cdn.hotmixradio.com/hotmix-2000s-fr-mp3.jpg",
+    "homepage": "https://www.hotmixradio.com/",
+    "favicon": "https://www.hotmixradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -17866,8 +17866,8 @@
       "love-songs",
       "pop"
     ],
-    "homepage": "https://hotmixradio.com/",
-    "favicon": "https://cdn.hotmixradio.com/hotmix-love-fr-mp3.jpg",
+    "homepage": "https://www.hotmixradio.com/",
+    "favicon": "https://www.hotmixradio.com/favicon.ico",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z"
@@ -37379,6 +37379,26 @@
     "updatedAt": "2026-01-14T22:54:10Z"
   },
   {
+    "id": "awb_8951bbef2b64dbc52533",
+    "name": "Radio FG – FG Defected",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "house"
+    ],
+    "homepage": "https://www.radiofg.com/",
+    "favicon": "https://medias.lesindesradios.fr/t:app(web)/t:r(KPTR1PsNbN)/fit-in/300x2000/filters:format(webp)/radios/radiofg/radiostream/6io6o5ta7u/vignette_FB4xB2Ld6l.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T15:14:39Z"
+  },
+  {
     "id": "awb_a5abadcf44a831bce0df",
     "name": "Radio FG 98.2",
     "country": "FR",
@@ -43904,6 +43924,22 @@
     "updatedAt": "2026-02-15T19:37:54Z"
   },
   {
+    "id": "awb_a9157e74ca54f2e5721d",
+    "name": "rire et chansons nouveautés",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "humour"
+    ],
+    "homepage": "https://www.rireetchansons.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T16:01:34Z"
+  },
+  {
     "id": "awb_9364fe9926d25451709d",
     "name": "Rire et Chansons Sketches",
     "country": "FR",
@@ -45584,6 +45620,26 @@
     "updatedAt": "2026-01-14T23:28:27Z"
   },
   {
+    "id": "awb_30dfdda5d23bf6f04783",
+    "name": "Stunt Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://stuntradio.fr/",
+    "favicon": "https://stuntradio.fr/_next/static/media/logo.34bd74e7.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-28T07:53:50Z"
+  },
+  {
     "id": "awb_919c7f5b26d34a97ab2c",
     "name": "Sud Radio",
     "country": "FR",
@@ -46904,8 +46960,8 @@
     "homepage": "https://ulia.radio/",
     "favicon": "https://ulia.radio/storage/identite/logo_1789401939.svg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-19T07:30:29Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-28T02:49:42Z"
   },
   {
     "id": "awb_d2cf4bb71e481f80a99c",

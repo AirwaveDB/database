@@ -1946,8 +1946,8 @@
     "homepage": "https://aimetalradio.com/",
     "favicon": "https://aimetalradio.com/favicon-192x192.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-11-23T18:18:19Z"
+    "sourceCount": 2,
+    "updatedAt": "2026-11-27T17:12:55Z"
   },
   {
     "id": "awb_90a79e06717e44e0f2a6",
@@ -6117,6 +6117,28 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T06:50:58Z"
+  },
+  {
+    "id": "awb_870f1c65c3b050bb2571",
+    "name": "CFOI 104.1 \"Foi FM\" Québec City, Québec",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "baptist",
+      "christian music",
+      "christian teaching"
+    ],
+    "homepage": "https://foifm.com/",
+    "favicon": "https://foifm.com/wp-content/uploads/2020/07/logo_poisson_CFOI-FM-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-28T00:46:30Z"
   },
   {
     "id": "awb_cdde5795b8588069b9e5",
@@ -13452,6 +13474,27 @@
     "type": "community",
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:27:30Z"
+  },
+  {
+    "id": "awb_f90b81d8974df532c562",
+    "name": "CJRV 94.5 \"Radio Gaspésie\" - Gaspé, Quebec",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "music variety"
+    ],
+    "homepage": "https://www.radiogaspesie.ca/",
+    "favicon": "https://www.radiogaspesie.ca/wp-content/uploads/logoRadioGaspesie-fondBlanc-01.jpg",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-11-28T00:40:35Z"
   },
   {
     "id": "awb_156e0bc4bb3cfe1f5486",
@@ -23104,6 +23147,29 @@
     "updatedAt": "2026-11-21T02:59:13Z"
   },
   {
+    "id": "awb_b3f60fed41fe6dfd5fa7",
+    "name": "Radio 143",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en",
+      "tl"
+    ],
+    "categories": [],
+    "tags": [
+      "filipino",
+      "ofw",
+      "philippines",
+      "variety",
+      "world music"
+    ],
+    "homepage": "https://tambayan.app/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-28T06:01:54Z"
+  },
+  {
     "id": "awb_736ce470c3fbe56d30ac",
     "name": "Radio 42° North (R42N) [AAC+ 64kbps]",
     "country": "CA",
@@ -26948,7 +27014,7 @@
     "favicon": "https://streaming.coolmusicradio.com/static/uploads/cool_music/album_art.1795028776.png",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-27T03:38:49Z"
+    "updatedAt": "2026-11-28T01:01:23Z"
   },
   {
     "id": "awb_b554d958452af6027c5c",

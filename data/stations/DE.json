@@ -11095,6 +11095,24 @@
     "updatedAt": "2026-11-22T16:42:42Z"
   },
   {
+    "id": "awb_71eb9a7580694a7ec2b3",
+    "name": "80er 90er OLDIE ANTENNE Weihnachtssongs nonstop",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "weihnacht"
+    ],
+    "homepage": "https://www.hamburg.oldie-antenne.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T17:26:15Z"
+  },
+  {
     "id": "awb_f6aea629b659b52ce283",
     "name": "80er Hits (by MineMusic)",
     "country": "DE",
@@ -22891,7 +22909,7 @@
   },
   {
     "id": "awb_8190c9ddc390bf0a7507",
-    "name": "Blues Club - Laut.fm",
+    "name": "Blues Club - Laut.FM",
     "country": "DE",
     "subdivision": null,
     "languages": [
@@ -31015,6 +31033,29 @@
     "updatedAt": "2026-06-05T11:57:58Z"
   },
   {
+    "id": "awb_b33c01d0d371f425183d",
+    "name": "DSDR Radio - Die Stimme der Revolution",
+    "country": "DE",
+    "subdivision": "Baden-W�rttemberg",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "deutschrock",
+      "eichenherz",
+      "german rock",
+      "rock"
+    ],
+    "homepage": "https://dsdr.stream/",
+    "favicon": "https://dsdr.stream/wp-content/uploads/2026/11/dsdr-icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T19:55:44Z"
+  },
+  {
     "id": "awb_65cf5b63fe1d5e24dcbe",
     "name": "dublab DE",
     "country": "DE",
@@ -36984,7 +37025,7 @@
       "rock",
       "soul"
     ],
-    "homepage": "https://www.flaemingradio.de/",
+    "homepage": "https://flaemingradio.de/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -37169,6 +37210,22 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-14T22:54:03Z"
+  },
+  {
+    "id": "awb_338ee100237573db2a88",
+    "name": "Flux AlternativeRadio",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "alternative"
+    ],
+    "homepage": "https://www.fluxfm.de/radio-alternative",
+    "favicon": "https://fluxmusic.cdn.radiosphere.io/images/14fb0f08-6ee9-4ee8-bcb8-25dcefdcf449_1634204327.webp.90?type=medium&blocking=false",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T15:47:35Z"
   },
   {
     "id": "awb_13ccfff332ff2d164383",
@@ -40939,6 +40996,32 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T02:23:21Z"
+  },
+  {
+    "id": "awb_2a769279fecd86fbc74c",
+    "name": "GGRN - Global German Radio Network",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "deutschrock",
+      "hard rock",
+      "metal",
+      "progressive rock",
+      "rock"
+    ],
+    "homepage": "https://ggrn.de/",
+    "favicon": "https://ggrn.de/wordpress/wp-content/uploads/2021/11/cropped-ggrn-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T17:10:49Z"
   },
   {
     "id": "awb_8666982cce6c57df3ce8",
@@ -54664,7 +54747,7 @@
     "favicon": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp",
     "type": null,
     "sourceCount": 2,
-    "updatedAt": "2026-11-22T14:44:20Z"
+    "updatedAt": "2026-11-27T14:44:35Z"
   },
   {
     "id": "awb_0acf0fb62bebbeb83a99",
@@ -55470,7 +55553,7 @@
   },
   {
     "id": "awb_deb33c8f9e0dc702a70e",
-    "name": "MDR KULTUR",
+    "name": "mdr kultur",
     "country": "DE",
     "subdivision": "Saxony-Anhalt",
     "languages": [
@@ -55494,7 +55577,7 @@
       "mitteldeutscher rundfunk",
       "popkultur"
     ],
-    "homepage": "https://www.mdr.de/kultur/radio/index.html",
+    "homepage": "https://www.mdr.de/",
     "favicon": "https://www.mdr.de/kultur/logo-118-resimage_v-variantSmall1x1_w-512.png",
     "type": null,
     "sourceCount": 2,
@@ -57641,6 +57724,26 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-06-29T05:34:34Z"
+  },
+  {
+    "id": "awb_34e99aea5a8c1c823d6b",
+    "name": "Mix 106",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "classic hits",
+      "oldies"
+    ],
+    "homepage": "https://mix106.nl/",
+    "favicon": "https://mix106.nl/logo.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-28T07:58:19Z"
   },
   {
     "id": "awb_70b41fb306d81323755c",
@@ -61420,6 +61523,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:41:12Z"
+  },
+  {
+    "id": "awb_42b1437caeaff035e9be",
+    "name": "Oldie Antenne Weihnachten",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "weihnacht",
+      "x-mas"
+    ],
+    "homepage": "https://www.oldie-antenne.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T17:59:06Z"
   },
   {
     "id": "awb_8907ac7eb275c808a44b",
@@ -66856,6 +66978,20 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T03:04:28Z"
+  },
+  {
+    "id": "awb_4280acf00eca39893de9",
+    "name": "Radio Aristona",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://radioaristona.homedns.org/public/radio_aristona",
+    "favicon": "http://radioaristona.homedns.org/static/uploads/radio_aristona/album_art.1775988506.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-28T02:45:32Z"
   },
   {
     "id": "awb_ce9556fe34529f718b0d",
@@ -73405,6 +73541,25 @@
     "updatedAt": "2026-07-18T10:26:45Z"
   },
   {
+    "id": "awb_2181e1597b4d9ad46e1e",
+    "name": "Radio Hamburg Weinachtshits",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "weihnacht",
+      "x-mas"
+    ],
+    "homepage": "https://www.radiohamburg.de/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T17:45:33Z"
+  },
+  {
     "id": "awb_ac016c6a88ab27fc41f6",
     "name": "Radio Hamlar",
     "country": "DE",
@@ -76218,9 +76373,9 @@
   },
   {
     "id": "awb_111b51398f4845819796",
-    "name": "Radio PARALAX",
+    "name": "Radio Paralax",
     "country": "DE",
-    "subdivision": "Nordrhein-Westfalen",
+    "subdivision": "North Rhine-Westphalia",
     "languages": [
       "de"
     ],
@@ -82336,13 +82491,19 @@
     "country": "DE",
     "subdivision": "Hessen (Kassel)",
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "stoner rock",
+      "symphonic metal"
+    ],
     "homepage": "https://www.radiobob.de/",
     "favicon": "http://aggregatorservice.loverad.io/wp-content/uploads/2021/01/bob_livestream-rock-n-pop_600x600.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z"
+    "sourceCount": 3,
+    "updatedAt": "2026-11-27T14:38:16Z"
   },
   {
     "id": "awb_a9f7edbec116164514e9",

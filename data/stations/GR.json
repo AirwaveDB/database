@@ -1086,6 +1086,24 @@
     "updatedAt": "2026-08-11T06:03:11Z"
   },
   {
+    "id": "awb_c910b8eba1eda0f29dd7",
+    "name": "33 Στροφές",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "greek folk"
+    ],
+    "homepage": "https://live24.gr/radio/generic.jsp?sid=4149#l24player=AudioTagPlayer",
+    "favicon": "https://resources.live24.gr/resources/images/stations/7d43a868-84e6-4a68-8a28-911d08b01120.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T19:07:58Z"
+  },
+  {
     "id": "awb_5b36d6ac99cd51c94e1e",
     "name": "4.Αθήνα 984",
     "country": "GR",
@@ -1640,7 +1658,7 @@
     "id": "awb_97841c7b9f3b00a5469b",
     "name": "A1812Radio",
     "country": "GR",
-    "subdivision": "Attica, Athens",
+    "subdivision": "Athens Greece",
     "languages": [],
     "categories": [],
     "tags": [],
@@ -4040,8 +4058,8 @@
     "homepage": "https://blueswave.radio/",
     "favicon": "https://blueswave.radio/wp-content/uploads/2021/01/BluesWave.Radio_.logo_.300X300.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-22T02:33:36Z"
+    "sourceCount": 4,
+    "updatedAt": "2026-11-28T02:41:24Z"
   },
   {
     "id": "awb_7b4f35c2d5beac6857b0",
@@ -26327,6 +26345,85 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_d3304c7e77d8df730e05",
+    "name": "TrustFm Radio 1 - Creative Commons Broadcast - Genre: Ambient",
+    "country": "GR",
+    "subdivision": "Kríti",
+    "languages": [
+      "el",
+      "en"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient"
+    ],
+    "homepage": "https://www.trustfm.net/radio/",
+    "favicon": "https://www.trustfm.net/radio/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T16:06:38Z"
+  },
+  {
+    "id": "awb_ebdbaa8dcbe635d1a551",
+    "name": "TrustFm Radio 2 - Creative Commons Broadcast - Genre: Electronic",
+    "country": "GR",
+    "subdivision": "Kríti",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic"
+    ],
+    "homepage": "https://www.trustfm.net/radio/",
+    "favicon": "https://www.trustfm.net/radio/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T16:10:41Z"
+  },
+  {
+    "id": "awb_3bed798d72454a92aefd",
+    "name": "TrustFm Radio 3 - Creative Commons Broadcast - Genre: Happy",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [
+      "el",
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "happy"
+    ],
+    "homepage": "https://www.trustfm.net/radio/",
+    "favicon": "https://www.trustfm.net/radio/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-28T09:44:25Z"
+  },
+  {
+    "id": "awb_b69f74607f0136fc8ae6",
+    "name": "TrustFm Radio 4 - Creative Commons Broadcast - Genre: Dance",
+    "country": "GR",
+    "subdivision": "Kríti",
+    "languages": [
+      "el",
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "dance"
+    ],
+    "homepage": "https://www.trustfm.net/radio/",
+    "favicon": "https://www.trustfm.net/radio/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-28T09:48:05Z"
+  },
+  {
     "id": "awb_c9bd333e213ee77bdcf9",
     "name": "Tyflos GR",
     "country": "GR",
@@ -27378,6 +27475,38 @@
     "updatedAt": "2026-01-15T06:48:55Z"
   },
   {
+    "id": "awb_284875e793c58c11094a",
+    "name": "Yorgos Music",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [
+      "el",
+      "en"
+    ],
+    "categories": [
+      "latin",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "bossanova",
+      "cumbia",
+      "fado",
+      "flamenco",
+      "gothicrock",
+      "hardrock",
+      "piseiro",
+      "pop",
+      "rock",
+      "symphonicmetal"
+    ],
+    "homepage": "https://webradio.homoastralis.org/",
+    "favicon": "https://homoastralis.org/picts/Yorgos%20Music.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-28T08:34:24Z"
+  },
+  {
     "id": "awb_85de54c22271e620e7c8",
     "name": "You 98.7",
     "country": "GR",
@@ -28030,6 +28159,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T04:15:53Z"
+  },
+  {
+    "id": "awb_d1abbffbc2dc040110df",
+    "name": "Αλήθειας Φάρος",
+    "country": "GR",
+    "subdivision": "Ionía Nísia",
+    "languages": [
+      "el"
+    ],
+    "categories": [],
+    "tags": [
+      "evangelical",
+      "religion"
+    ],
+    "homepage": "https://aletheiasfaros.com/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/5bb418c0-935f-4416-ab03-bd7893ab7260.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T19:24:51Z"
   },
   {
     "id": "awb_84e75f558eaa8957cf15",
@@ -32859,7 +33007,7 @@
     "favicon": "https://rasp35.ddnsfree.com/icons/ortdx.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-11-22T23:39:25Z"
+    "updatedAt": "2026-11-27T23:39:53Z"
   },
   {
     "id": "awb_9d7f27051a167a98112d",

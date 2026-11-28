@@ -26800,54 +26800,6 @@
     "updatedAt": "2026-01-15T03:16:53Z"
   },
   {
-    "id": "awb_84c6c7632d9dcae9310e",
-    "name": "GRUPERA: La más tremenda 🤠",
-    "country": "MX",
-    "subdivision": "Morelia, Michoacán",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "93.1 fm",
-      "américa",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "grupera",
-      "grupero",
-      "grupo radiosa",
-      "la hora nacional",
-      "latinoamérica",
-      "mexican music",
-      "michoacán",
-      "moi merino",
-      "morelia",
-      "music",
-      "méxico",
-      "música",
-      "música en español",
-      "música mexicana",
-      "música popular mexicana",
-      "música regional",
-      "música regional mexicana",
-      "norteamérica",
-      "programas en vivo",
-      "radio",
-      "radio sa",
-      "regional",
-      "regional mexican",
-      "regional mexicana",
-      "regional music"
-    ],
-    "homepage": "https://maxplay.com.mx/",
-    "favicon": "https://cdn-profiles.tunein.com/s161252/images/logod.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-29T00:33:16Z"
-  },
-  {
     "id": "awb_3167e6d68ea1c21f7aa5",
     "name": "GRUPO RADIOASTA 107.9 (Ensenada) - 107.9 FM - XHSCBH-FM - Grupo Radioasta, A.C. - Ensenada, Baja California",
     "country": "MX",
@@ -33140,58 +33092,6 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-01-15T00:35:25Z"
-  },
-  {
-    "id": "awb_91ea195ac202c2ee3ee1",
-    "name": "LA KALIENTE: Préndete con La Kaliente 🔥",
-    "country": "MX",
-    "subdivision": "Ciudad Obregón, Sonora",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "92.9 fm",
-      "américa",
-      "ciudad obregón",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "grupo radiosa",
-      "la hora nacional",
-      "la kaliente",
-      "latinoamérica",
-      "maxplay",
-      "mexican music",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música en español",
-      "música mexicana",
-      "música popular mexicana",
-      "música regional",
-      "música regional mexicana",
-      "música tradicional mexicana",
-      "norteamérica",
-      "programas en vivo",
-      "radio",
-      "radio sa",
-      "ranchera",
-      "rancheras",
-      "regional",
-      "regional mexican",
-      "regional mexicana",
-      "regional music",
-      "sonora",
-      "traditional mexican music"
-    ],
-    "homepage": "https://maxplay.com.mx/",
-    "favicon": "https://i.postimg.cc/x8PBpyhh/lakaliente.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-29T00:35:12Z"
   },
   {
     "id": "awb_b32b25e6f3cac8262de4",
@@ -48339,6 +48239,32 @@
     "updatedAt": "2026-08-24"
   },
   {
+    "id": "awb_e20f4e6faf7294f69781",
+    "name": "MLO RADIO",
+    "country": "MX",
+    "subdivision": "Nuevo León",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "baladas",
+      "corridos",
+      "latin",
+      "musica mexicana",
+      "rancheras",
+      "regional mexicano",
+      "tejano"
+    ],
+    "homepage": "https://radio.musiclabelos.com.mx/",
+    "favicon": "https://radio.musiclabelos.com.mx/api/public/medios/marcas/062bf48c-00bb-4c12-808e-65ea362d8fb2/logotipo-9fbccca0f1b98072.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-28T03:16:26Z"
+  },
+  {
     "id": "awb_1ed3a7d0a3eeee1e2e68",
     "name": "Mundo (Cuernavaca) - 96.5 FM - XHJMG-FM - Grupo Mundo Comunicaciones - Cuernavac",
     "country": "MX",
@@ -59209,6 +59135,25 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-10-29T19:02:37Z"
+  },
+  {
+    "id": "awb_d1eaba10b6299943bcb8",
+    "name": "Stereo Beam",
+    "country": "MX",
+    "subdivision": "Aguascalientes",
+    "languages": [],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "80s",
+      "90s"
+    ],
+    "homepage": "https://beam.com.mx/",
+    "favicon": "https://beam.com.mx/images/Beam_Negro.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-11-27T19:40:39Z"
   },
   {
     "id": "awb_4705434fd84cc8dffe54",
